@@ -1,6 +1,7 @@
 # src/extraction/dispatcher.py
 import pandas as pd
 from pathlib import Path
+from tqdm import tqdm
 
 from src.extraction.extract_pdf import extract_pdf
 from src.extraction.extract_html import extract_html
@@ -8,6 +9,8 @@ from src.extraction.extract_json import extract_json
 from src.extraction.extract_tabular import extract_tabular
 from src.extraction.extract_image_ocr import extract_image
 from src.extraction.extract_pbf import extract_pbf
+from src.extraction.extract_mvt import extract_mvt
+
 
 EXTRACTORS = {
     "pdf": extract_pdf,
@@ -19,8 +22,19 @@ EXTRACTORS = {
     "png": extract_image,
     "jpg": extract_image,
     "jpeg": extract_image,
-    "pbf": extract_pbf,
+    # "pbf" se maneja aparte con elegir_extractor_pbf(), no va aquí
 }
+
+
+def elegir_extractor_pbf(path: str):
+    """
+    Distingue entre PBF de OpenStreetMap (osmium) y Mapbox Vector Tiles
+    (mvt), que comparten extensión pero tienen estructura interna distinta.
+    Los vector tiles siguen el patrón de carpetas tiles/{z}/{x}/{y}.pbf.
+    """
+    if "/tiles/" in path.replace("\\", "/"):
+        return extract_mvt
+    return extract_pbf
 
 
 def run_all(registry_csv="data/doc_registry.csv", out_dir="data/processed"):
@@ -29,18 +43,23 @@ def run_all(registry_csv="data/doc_registry.csv", out_dir="data/processed"):
     errores = []
     exitosos = 0
 
-    for _, row in df.iterrows():
+    for _, row in tqdm(df.iterrows(), total=len(df), desc="Extrayendo"):
         formato = str(row["formato"]).lower()
-        extractor = EXTRACTORS.get(formato)
+        path = row["path"]
+
+        if formato == "pbf":
+            extractor = elegir_extractor_pbf(path)
+        else:
+            extractor = EXTRACTORS.get(formato)
 
         if extractor is None:
-            errores.append((row["doc_id"], row["path"], f"sin extractor para formato '{formato}'"))
+            errores.append((row["doc_id"], path, f"sin extractor para formato '{formato}'"))
             continue
 
         try:
-            texto = extractor(row["path"])
+            texto = extractor(path)
             if not texto or len(texto.strip()) == 0:
-                errores.append((row["doc_id"], row["path"], "texto vacío tras extracción"))
+                errores.append((row["doc_id"], path, "texto vacío tras extracción"))
                 continue
 
             out_path = Path(out_dir) / f"{row['doc_id']}.txt"
@@ -48,9 +67,9 @@ def run_all(registry_csv="data/doc_registry.csv", out_dir="data/processed"):
             exitosos += 1
 
         except Exception as e:
-            errores.append((row["doc_id"], row["path"], str(e)))
+            errores.append((row["doc_id"], path, str(e)))
 
-    print(f"Extraídos exitosamente: {exitosos}/{len(df)}")
+    print(f"\nExtraídos exitosamente: {exitosos}/{len(df)}")
 
     if errores:
         errores_df = pd.DataFrame(errores, columns=["doc_id", "path", "error"])
