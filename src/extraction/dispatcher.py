@@ -1,12 +1,13 @@
 # src/extraction/dispatcher.py
 import pandas as pd
 from pathlib import Path
-from extract_pdf import extract_pdf
-from extract_html import extract_html
-from extract_json import extract_json
-from extract_tabular import extract_tabular
-from extract_image_ocr import extract_image
-from extract_pbf import extract_pbf
+
+from src.extraction.extract_pdf import extract_pdf
+from src.extraction.extract_html import extract_html
+from src.extraction.extract_json import extract_json
+from src.extraction.extract_tabular import extract_tabular
+from src.extraction.extract_image_ocr import extract_image
+from src.extraction.extract_pbf import extract_pbf
 
 EXTRACTORS = {
     "pdf": extract_pdf,
@@ -21,26 +22,41 @@ EXTRACTORS = {
     "pbf": extract_pbf,
 }
 
+
 def run_all(registry_csv="data/doc_registry.csv", out_dir="data/processed"):
     df = pd.read_csv(registry_csv)
     Path(out_dir).mkdir(parents=True, exist_ok=True)
     errores = []
+    exitosos = 0
 
     for _, row in df.iterrows():
-        extractor = EXTRACTORS.get(row["formato"])
+        formato = str(row["formato"]).lower()
+        extractor = EXTRACTORS.get(formato)
+
         if extractor is None:
-            errores.append((row["doc_id"], f"sin extractor para {row['formato']}"))
+            errores.append((row["doc_id"], row["path"], f"sin extractor para formato '{formato}'"))
             continue
+
         try:
             texto = extractor(row["path"])
+            if not texto or len(texto.strip()) == 0:
+                errores.append((row["doc_id"], row["path"], "texto vacío tras extracción"))
+                continue
+
             out_path = Path(out_dir) / f"{row['doc_id']}.txt"
             out_path.write_text(texto, encoding="utf-8")
+            exitosos += 1
+
         except Exception as e:
-            errores.append((row["doc_id"], str(e)))
+            errores.append((row["doc_id"], row["path"], str(e)))
+
+    print(f"Extraídos exitosamente: {exitosos}/{len(df)}")
 
     if errores:
-        pd.DataFrame(errores, columns=["doc_id", "error"]).to_csv("data/extraction_errors.csv", index=False)
-        print(f"{len(errores)} errores — ver data/extraction_errors.csv")
+        errores_df = pd.DataFrame(errores, columns=["doc_id", "path", "error"])
+        errores_df.to_csv("data/extraction_errors.csv", index=False)
+        print(f"Errores: {len(errores)} — ver data/extraction_errors.csv")
+
 
 if __name__ == "__main__":
     run_all()

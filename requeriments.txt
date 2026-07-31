@@ -1,0 +1,9 @@
+pandas
+pdfplumber
+beautifulsoup4
+lxml
+openpyxl
+pillow
+pytesseract
+osmium
+langdetect
