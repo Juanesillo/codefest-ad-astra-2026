@@ -1,8 +1,12 @@
+# .gitignore
+data/raw/
+data/processed/
+data/chunks/
+indices/
+*.faiss
 venv/
 __pycache__/
 *.pyc
-indices/
-*.faiss
 .env
 *.ipynb_checkpoints
-data/raw
+outputs/*.jsonl
