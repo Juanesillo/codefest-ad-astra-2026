@@ -22,6 +22,7 @@ EXTRACTORS = {
     "png": extract_image,
     "jpg": extract_image,
     "jpeg": extract_image,
+    "avif": extract_image
     # "pbf" se maneja aparte con elegir_extractor_pbf(), no va aquí
 }
 
