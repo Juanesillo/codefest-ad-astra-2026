@@ -2,8 +2,14 @@
 import os
 from pathlib import Path
 import pandas as pd
+from dotenv import load_dotenv
 
-RAW_DIR = Path("data/raw")
+# Cargar variables de entorno desde el archivo .env
+load_dotenv()
+
+# Leer la variable de entorno para el directorio crudo, con un valor predeterminado si no está definida
+ruta_env = os.getenv("DIRECTORIO_CRUDO", "data/raw/CODEFEST")
+RAW_DIR = Path(ruta_env)
 
 def build_inventory():
     rows = []
