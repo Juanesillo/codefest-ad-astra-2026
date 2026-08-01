@@ -3,13 +3,13 @@ import pandas as pd
 from pathlib import Path
 from tqdm import tqdm
 
-from src.extraction.extract_pdf import extract_pdf
-from src.extraction.extract_html import extract_html
-from src.extraction.extract_json import extract_json
-from src.extraction.extract_tabular import extract_tabular
-from src.extraction.extract_image_ocr import extract_image
-from src.extraction.extract_pbf import extract_pbf
-from src.extraction.extract_mvt import extract_mvt
+from extract_pdf import extract_pdf
+from extract_html import extract_html
+from extract_json import extract_json
+from extract_tabular import extract_tabular
+from extract_image_ocr import extract_image
+from extract_pbf import extract_pbf
+from extract_mvt import extract_mvt
 
 
 EXTRACTORS = {
