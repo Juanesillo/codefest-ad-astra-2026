@@ -17,7 +17,7 @@ def extract_pdf(path: str, idioma_ocr: str = "spa+eng+por") -> str:
             area_util = (0, alto * 0.08, ancho, alto * 0.92)
             pagina_recortada = pagina.crop(area_util)
             # 1. Extraer texto nativo incrustado en el PDF
-            texto_nativo = pagina_recortada.extract_text() or ""
+            texto_nativo = pagina.extract_text() or ""
             texto_nativo = texto_nativo.strip()
             
             # 2. Extraer y procesar imágenes con OCR
