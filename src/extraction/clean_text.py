@@ -29,8 +29,14 @@ def clean_text(texto: str) -> str:
     texto = re.sub(r"\n{3,}", "\n\n", texto)              # saltos de línea excesivos
     return texto.strip()
 
+
+IDIOMAS_PERMITIDOS = {"es": "es", "en": "en", "pt": "pt", "spanish": "es", "english": "en", "portuguese": "pt"}
+
 def detect_language(texto: str) -> str:
+    if not texto or len(texto.strip()) < 20:
+        return "es" # Fallback por defecto si no hay texto suficiente
     try:
-        return detect(texto[:1000])  # con los primeros 1000 caracteres basta
+        lang = detect(texto[:1000]).lower() # con los primeros 1000 caracteres basta
+        return IDIOMAS_PERMITIDOS.get(lang, "es")
     except Exception:
-        return "unknown"
+        return "es"
