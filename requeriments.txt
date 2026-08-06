@@ -7,3 +7,6 @@ pillow
 pytesseract
 osmium
 langdetect
+tqdm
+mapbox-vector-tile
+dotenv

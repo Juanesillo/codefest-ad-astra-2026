@@ -8,7 +8,7 @@ data/*.jsonl
 indices/
 *.faiss
 # Ignorar el entorno virtual
-venv/
+.venv/
 # Ignorar archivos de caché de Python
 __pycache__/
 *.pyc
@@ -16,3 +16,5 @@ __pycache__/
 .env
 # Ignorar archivos de Jupyter Notebook
 *.ipynb_checkpoints
+
+.DS_Store

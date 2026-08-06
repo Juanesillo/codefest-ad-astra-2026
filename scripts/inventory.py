@@ -15,8 +15,10 @@ def build_inventory():
     rows = []
     for path in RAW_DIR.rglob("*"):
         if path.is_file():
+            if path.name == ".DS_Store":
+                continue
             rows.append({
-                "path": str(path),
+                "path": path.as_posix(),
                 "extension": path.suffix.lower(),
                 "size_kb": round(path.stat().st_size / 1024, 1),
                 "fenomeno": path.parts[1] if len(path.parts) > 1 else None,

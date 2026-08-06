@@ -2,6 +2,7 @@
 import pandas as pd
 from pathlib import Path
 from tqdm import tqdm
+import os
 
 from extract_pdf import extract_pdf
 from extract_html import extract_html
@@ -38,6 +39,11 @@ def elegir_extractor_pbf(path: str):
     return extract_pbf
 
 
+def normalizar_path(path: str) -> Path:
+    """Convierte rutas del registry a separadores válidos en la plataforma actual."""
+    return Path(path.replace("\\", os.sep))
+
+
 def run_all(registry_csv="data/doc_registry.csv", out_dir="data/processed"):
     df = pd.read_csv(registry_csv)
     Path(out_dir).mkdir(parents=True, exist_ok=True)
@@ -47,6 +53,12 @@ def run_all(registry_csv="data/doc_registry.csv", out_dir="data/processed"):
     for _, row in tqdm(df.iterrows(), total=len(df), desc="Extrayendo"):
         formato = str(row["formato"]).lower()
         path = row["path"]
+
+        if pd.isna(formato) or not str(path).strip() or str(path).endswith(".DS_Store"):
+            errores.append((row["doc_id"], path, "registro inválido o archivo de sistema"))
+            continue
+
+        path_obj = normalizar_path(path)
 
         if formato == "pbf":
             extractor = elegir_extractor_pbf(path)
@@ -58,7 +70,7 @@ def run_all(registry_csv="data/doc_registry.csv", out_dir="data/processed"):
             continue
 
         try:
-            texto = extractor(path)
+            texto = extractor(str(path_obj))
             if not texto or len(texto.strip()) == 0:
                 errores.append((row["doc_id"], path, "texto vacío tras extracción"))
                 continue

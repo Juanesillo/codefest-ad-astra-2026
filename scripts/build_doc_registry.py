@@ -11,7 +11,7 @@ def build_registry(inventory_csv="data/inventory.csv"):
     df = df.sort_values("path").reset_index(drop=True)
     df["doc_id"] = [make_doc_id(i) for i in range(len(df))]
     df["formato"] = df["extension"].str.replace(".", "", regex=False)
-    df["fuente"] = df["path"]  # ruta original, sirve como referencia
+    df["fuente"] = df["path"].astype(str).str.replace("\\", "/", regex=False)  # ruta original, sirve como referencia
     df.to_csv("data/doc_registry.csv", index=False)
     return df
 
