@@ -10,3 +10,6 @@ langdetect
 tqdm
 mapbox-vector-tile
 dotenv
+nltk
+transformers
+sentencepiece
