@@ -13,3 +13,6 @@ dotenv
 nltk
 transformers
 sentencepiece
+torch
+sentence-transformers
+faiss-cpu
