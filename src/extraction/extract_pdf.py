@@ -1,23 +1,43 @@
 import pdfplumber
 import pytesseract
 
+from extract_html import extract_html
+
+
 def extract_pdf(path: str, idioma_ocr: str = "spa+eng+por") -> str:
     """
     Extrae el texto de un PDF, preservando el orden de lectura por página.
     Adicionalmente, detecta imágenes dentro de la página y les aplica OCR
     para no perder información visual relevante (infografías, diagramas).
     """
+    # Algunas descargas del scraping quedaron mal identificadas: el archivo
+    # tiene extensión .pdf pero el contenido real es una página de error o
+    # de login en HTML (ej. SIPRI). pdfplumber/pikepdf fallan ahí con
+    # "No /Root object!". En ese caso se recupera el texto como HTML en vez
+    # de perder el documento por completo.
+    with open(path, "rb") as f:
+        cabecera = f.read(2048).lstrip()
+    if not cabecera.startswith(b"%PDF"):
+        if b"<html" in cabecera.lower() or b"<!doctype html" in cabecera.lower():
+            return extract_html(path)
+        raise ValueError(f"El archivo no es un PDF válido (no empieza con %PDF): {path}")
+
     texto_paginas = []
 
     with pdfplumber.open(path) as pdf:
         for pagina in pdf.pages:
-            alto = pagina.height
-            ancho = pagina.width
-            # Ignorar el 8% superior (encabezados) y el 8% inferior (pie de página)
-            area_util = (0, alto * 0.08, ancho, alto * 0.92)
+            x0, y0, x1, y1 = pagina.bbox
+            alto = y1 - y0
+            # Ignorar el 8% superior (encabezados) y el 8% inferior (pie de
+            # página). Los márgenes se calculan relativos al bbox real de la
+            # página en vez de asumir que empieza en (0, 0): algunos PDFs
+            # traen un MediaBox con origen distinto de cero (páginas con
+            # marcas de corte, recortadas de un pliego mayor, etc.), y usar
+            # coordenadas absolutas ahí produce un bbox fuera de la página.
+            area_util = (x0, y0 + alto * 0.08, x1, y1 - alto * 0.08)
             pagina_recortada = pagina.crop(area_util)
-            # 1. Extraer texto nativo incrustado en el PDF
-            texto_nativo = pagina.extract_text() or ""
+            # 1. Extraer texto nativo incrustado en el PDF, ya sin encabezado/pie
+            texto_nativo = pagina_recortada.extract_text() or ""
             texto_nativo = texto_nativo.strip()
             
             # 2. Extraer y procesar imágenes con OCR

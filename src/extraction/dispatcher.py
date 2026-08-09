@@ -1,8 +1,15 @@
 # src/extraction/dispatcher.py
+import sys
 import pandas as pd
 from pathlib import Path
 from tqdm import tqdm
 import os
+
+# Los extractores hermanos se importan con nombre plano (no relativo), así
+# que este directorio debe estar en sys.path incluso cuando dispatcher.py
+# se importa como paquete (src.extraction.dispatcher) en vez de ejecutarse
+# directamente como script.
+sys.path.insert(0, str(Path(__file__).resolve().parent))
 
 from extract_pdf import extract_pdf
 from extract_html import extract_html
@@ -11,6 +18,7 @@ from extract_tabular import extract_tabular
 from extract_image_ocr import extract_image
 from extract_pbf import extract_pbf
 from extract_mvt import extract_mvt
+from extract_txt import extract_txt
 
 
 EXTRACTORS = {
@@ -23,7 +31,8 @@ EXTRACTORS = {
     "png": extract_image,
     "jpg": extract_image,
     "jpeg": extract_image,
-    "avif": extract_image
+    "avif": extract_image,
+    "txt": extract_txt,
     # "pbf" se maneja aparte con elegir_extractor_pbf(), no va aquí
 }
 
