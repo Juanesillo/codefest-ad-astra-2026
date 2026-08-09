@@ -1,0 +1,1546 @@
+Artificial Intelligence CHAPTER 6:
+Index Report 2024
+Education
+
+CHAPTER 6:
+Artificial Intelligence
+Education
+Index Report 2024
+Preview
+Overview 3
+Chapter Highlights 4
+6.1 Postsecondary CS and AI Education 5
+United States and Canada 5
+CS Bachelor’s Graduates 5
+CS Master’s Graduates 7
+CS PhD Graduates 9
+CS, CE, and Information Faculty 12
+Europe 20
+Informatics, CS, CE, and IT Bachelor’s Graduates 20
+Informatics, CS, CE, and IT Master’s Graduates 23
+Informatics, CS, CE, and IT PhD Graduates 27
+AI-Related Study Programs 31
+Total Courses 31
+Education Level 32
+Geographic Distribution 33
+6.2 K–12 CS and AI Education 35
+United States 35
+State-Level Trends 35
+AP Computer Science 37
+Highlight: Access Issues 39
+Highlight: ChatGPT Usage Among
+Teachers and Students 40
+Appendix 42
+ACCESS THE PUBLIC DATA
+
+CHAPTER 6:
+Artificial Intelligence
+Education
+Index Report 2024
+Overview
+This chapter examines trends in AI and computer science (CS) education, focusing on who is
+learning, where they are learning, and how these trends have evolved over time. Amid growing
+concerns about AI’s impact on education, it also investigates the use of new AI tools like
+ChatGPT by teachers and students.
+The analysis begins with an overview of the state of postsecondary CS and AI education in the
+United States and Canada, based on the Computing Research Association’s annual Taulbee
+Survey. It then reviews data from Informatics Europe regarding CS education in Europe. This
+year introduces a new section with data from Studyportals on the global count of AI-related
+English-language study programs.
+The chapter wraps up with insights into K–12 CS education in the United States from Code.org
+and findings from the Walton Foundation survey on ChatGPT’s use in schools.
+
+CHAPTER 6:
+Artificial Intelligence
+Education
+Index Report 2024
+Chapter Highlights
+1. The number of American and Canadian CS bachelor’s graduates continues to rise, new
+CS master’s graduates stay relatively flat, and PhD graduates modestly grow. While the
+number of new American and Canadian bachelor’s graduates has consistently risen for more than a decade, the
+number of students opting for graduate education in CS has flattened. Since 2018, the number of CS master’s and
+PhD graduates has slightly declined.
+2. The migration of AI PhDs to industry continues at an accelerating pace. In 2011, roughly
+equal percentages of new AI PhDs took jobs in industry (40.9%) and academia (41.6%). However, by 2022, a
+significantly larger proportion (70.7%) joined industry after graduation compared to those entering academia
+(20.0%). Over the past year alone, the share of industry-bound AI PhDs has risen by 5.3 percentage points,
+indicating an intensifying brain drain from universities into industry.
+3. Less transition of academic talent from industry to academia. In 2019, 13% of new AI faculty in the
+United States and Canada were from industry. By 2021, this figure had declined to 11%, and in 2022, it further dropped
+to 7%. This trend indicates a progressively lower migration of high-level AI talent from industry into academia.
+4. CS education in the United States and Canada becomes less international. Proportionally
+fewer international CS bachelor’s, master’s, and PhDs graduated in 2022 than in 2021. The drop in international
+students in the master’s category was especially pronounced.
+5. More American high school students take CS courses, but access problems remain.
+In 2022, 201,000 AP CS exams were administered. Since 2007, the number of students taking these exams has
+increased more than tenfold. However, recent evidence indicates that students in larger high schools and those in
+suburban areas are more likely to have access to CS courses.
+6. AI-related degree programs are on the rise internationally. The number of English-language,
+AI-related postsecondary degree programs has tripled since 2017, showing a steady annual increase over the past
+five years. Universities worldwide are offering more AI-focused degree programs.
+7. The United Kingdom and Germany lead in European informatics, CS, CE, and IT graduate
+production. The United Kingdom and Germany lead Europe in producing the highest number of new informatics,
+CS, CE, and information bachelor’s, master’s, and PhD graduates. On a per capita basis, Finland leads in the
+production of both bachelor’s and PhD graduates, while Ireland leads in the production of master’s graduates.
+
+Artificial Intelligence
+Index Report 2024
+35,666
+35,000
+33,059
+31,835
+30,000
+28,527
+26,709
+25,000
+22,343
+20,000 18,954
+15,256
+15,000
+12,228
+11,049 10,776
+10,000 9,008 9,286
+5,000
+
+2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022
+Chapter 6 Preview 5
+setaudarg
+s’rolehcab
+SC
+wen
+fo
+rebmuN
+Artificial Intelligence Chapter 6: Education
+Index Report 2024 6.1 Postsecondary CS and AI Education
+This section provides an overview of postsecondary education in CS and AI, highlighting graduation statistics across
+North America and Europe for various degrees including bachelor’s, master’s, and PhDs. It also covers information on
+AI-related courses offered in English.
+6.1 Postsecondary CS and AI Education
+United States and Canada CS Bachelor’s Graduates
+Over the past decade, the total number of new CS
+This subsection presents an analysis of data from the bachelor’s graduates in North America has steadily
+Computing Research Association’s Taulbee Survey, risen, increasing more than threefold, with a 7.9%
+which evaluates the state of CS and AI postsecondary year-over-year rise from 2021 to 2022 (Figure 6.1.1).
+education in the United States and Canada. The
+survey covers 297 PhD-granting CS departments
+across the United States and Canada.1
+New CS bachelor’s graduates in the United States and Canada, 2010–22
+Source: CRA Taulbee Survey, 2023 | Chart: 2024 AI Index report
+Figure 6.1.1
+1 It is important to note that not all PhD-granting departments targeted in the survey provided responses. Out of the 297 departments targeted, only 182 responded, yielding an overall
+response rate of 61%.
+
+Artificial Intelligence
+Index Report 2024
+16%
+12%
+8%
+4%
+0%
+2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022
+Chapter 6 Preview 6
+)latot
+fo
+%(
+setaudarg
+s’rolehcab
+SC
+lanoitanretni
+weN
+Artificial Intelligence Chapter 6: Education
+Index Report 2024 6.1 Postsecondary CS and AI Education
+For the first time in almost eight years, the proportion the data. The decline is also partially attributable to
+of international students among CS bachelor’s international travel restrictions that were imposed
+graduates in American and Canadian universities during the COVID-19 pandemic, affecting the ability
+declined, falling from 16.3% in 2021 to 15.2% in of international students to study in the United States
+2022 (Figure 6.1.2). This decline likely reflects the and Canada. Despite this recent drop, the overall
+increased difficulty of obtaining study visas during trend over the last decade shows a steady increase in
+the early years of the Trump administration, an the proportion of international students.
+impact that is only now beginning to manifest in
+New international CS bachelor’s graduates (% of total) in the United States and Canada, 2010–22
+Source: CRA Taulbee Survey, 2023 | Chart: 2024 AI Index report
+15.20%
+Figure 6.1.2
+
+Artificial Intelligence
+Index Report 2024
+16,000 15,532
+15,068
+14,735 14,853 14,696
+14,000
+13,037
+12,000
+11,239
+9,933
+10,000
+8,000 7,462 7,488
+7,205
+6,851 6,611
+6,000
+4,000
+2,000
+
+2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022
+Chapter 6 Preview 7
+setaudarg
+s’retsam
+SC
+wen
+fo
+rebmuN
+Artificial Intelligence Chapter 6: Education
+Index Report 2024 6.1 Postsecondary CS and AI Education
+CS Master’s Graduates
+AI courses are commonly included in CS master’s the number appears to have leveled out since 2018 and
+degree programs. While the total number of new CS slightly decreased, by 2.5%, last year (Figure 6.1.3). This
+master’s graduates from American and Canadian leveling is a reflection of the decline in international
+universities more than doubled over the past decade, master’s students shown in the following graph.
+New CS master’s graduates in the United States and Canada, 2010–22
+Source: CRA Taulbee Survey, 2023 | Chart: 2024 AI Index report
+Figure 6.1.3
+
+Artificial Intelligence
+Index Report 2024
+80%
+60%
+40%
+20%
+0%
+2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022
+Chapter 6 Preview 8
+)latot
+fo
+%(
+setaudarg
+s’retsam
+SC
+lanoitanretni
+weN
+Artificial Intelligence Chapter 6: Education
+Index Report 2024 6.1 Postsecondary CS and AI Education
+In 2022, American and Canadian universities experienced a notable decrease in international CS master’s students.
+This downward trend began around 2017, but the decline was most pronounced last year, at 14.8 percentage points
+(Figure 6.1.4). Currently, the split between international and domestic CS master’s graduates is roughly even.
+New international CS master’s graduates (% of total) in the United States and Canada, 2010–22
+Source: CRA Taulbee Survey, 2023 | Chart: 2024 AI Index report
+50.40%
+Figure 6.1.4
+
+Artificial Intelligence
+Index Report 2024
+2,105
+1,991 1,997
+2,000 1,929 1,940
+1,888 1,834 1,860 1,893
+1,772 1,782 1,780 1,787
+1,500
+1,000
+
+2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022
+Chapter 6 Preview 9
+setaudarg
+DhP
+SC
+wen
+fo
+rebmuN
+Artificial Intelligence Chapter 6: Education
+Index Report 2024 6.1 Postsecondary CS and AI Education
+CS PhD Graduates
+For the first time in a decade, there has been a significant increase in the number of new CS PhD graduates at
+American and Canadian universities. In 2022, the number of CS PhD graduates reached 2,105, the highest since
+2010 (Figure 6.1.5).
+New CS PhD graduates in the United States and Canada, 2010–22
+Source: CRA Taulbee Survey, 2023 | Chart: 2024 AI Index report
+Figure 6.1.5
+
+Artificial Intelligence
+Index Report 2024
+70%
+60%
+50%
+40%
+30%
+20%
+10%
+0%
+2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022
+Chapter 6 Preview 10
+)latot
+fo
+%(
+setaudarg
+DhP
+SC
+lanoitanretni
+weN
+Artificial Intelligence Chapter 6: Education
+Index Report 2024 6.1 Postsecondary CS and AI Education
+While the proportion of international students among CS PhD graduates has risen over the past decade, there was
+a slight decrease in this proportion in the last year, dropping from 68.6% in 2021 to 65.9% in 2022 (Figure 6.1.6).
+New international CS PhD graduates (% of total) in the United States and Canada, 2010–22
+Source: CRA Taulbee Survey, 2023 | Chart: 2024 AI Index report
+65.90%
+Figure 6.1.6
+
+Artificial Intelligence
+Index Report 2024
+Chapter 6 Preview 11
+0102 1102 2102 3102 4102 5102 6102 7102 8102 9102 0202 1202 2202
+70%
+60%
+50%
+40%
+30%
+20%
+10%
+0%
+)latot
+fo
+%(
+setaudarg
+DhP
+IA weN
+Employment of new AI PhDs (% of total) in the
+United States and Canada by sector, 2010–22
+Source: CRA Taulbee Survey, 2023 | Chart: 2024 AI Index report
+
+70.71%, Industry
+
+201 65
+
+178 61
+154 154 63
+134 132 136 60 280
+47 123 19.95%, Academia 72 43 63 51 42 195
+
+162 153
+
+0.76%, Government 76 64 74 85 77
+0102 1102 2102 3102 4102 5102 6102 7102 8102 9102 0202 1202 2202
+Academia 350
+Government
+Industry
+
+setaudarg
+DhP
+IA
+wen
+fo
+rebmuN
+Artificial Intelligence Chapter 6: Education
+Index Report 2024 6.1 Postsecondary CS and AI Education
+Where do newly minted AI PhDs choose to work However, by 2022, a significantly larger proportion
+after graduating? Following a trend highlighted in last (70.7%) joined industry after graduation compared
+year’s AI Index report, a growing share of AI doctoral to those entering academia (20.0%). The percentage
+recipients are pursuing careers in industry (Figure 6.1.7 of new AI PhDs going into government roles has
+and Figure 6.1.8). In 2011, around the same percentage remained relatively low and steady at around 0.7%
+took jobs in industry (40.9%) as in academia (41.6%). over the past five years.
+Employment of new AI PhDs in the United States and
+Canada by sector, 2010–22
+Source: CRA Taulbee Survey, 2023 | Chart: 2024 AI Index report
+Figure 6.1.72 Figure 6.1.8
+2 The sums in Figure 6.1.7 do not add up to 100, as there is a subset of new AI PhDs each year who become self-employed, unemployed, or report an “other” employment status in the CRA
+survey. These students are not included in the chart.
+
+AArrttiifificciiaall IInntteelllliiggeennccee Chapter 6: Education
+IInnddeexx RReeppoorrtt 22002244 6.1 Postsecondary CS and AI Education
+CS, CE, and Information Faculty
+To better understand trends in CS and AI education, it is helpful to examine data on CS faculty. Last year, the total
+number of CS, CE, and information faculty in American and Canadian universities increased 7.2% (Figure 6.1.9).
+Since 2011, the increase is 42.4%.
+10,000
+Tenure Track Teaching Professors Other Instructors Research Postdoc
+9,000 8,738
+8,149 531
+8,000 7,858 7,976 7,657 522
+
+7,362 653 668 919
+7,000 6,138 6,314 6,478 6 , 6 6 8 2 9 9 6 , 6 8 4 0 9 6 6 , 5 8 8 8 9 7 6 43 9 2 1 4 4 9 6 4 5 4 6 2 1 6 7 736 861 1,252
+6,000 656 602 766 529 432 390 1,180 831 895 1,183 1,150
+447 515 676 1,014 1,122
+5,000 669 661 487 863
+4,000
+3,000
+5,733
+5,059 5,214 5,252 5,231 5,310
+4,366 4,536 4,549 4,548 4,711 4,786
+2,000
+1,000
+
+2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022
+Chapter 6 Preview 12
+ytlucaf
+noitamrofni
+dna
+,EC
+,SC
+fo
+rebmuN
+Number of CS, CE, and information faculty in the United States and Canada, 2011–22
+Source: CRA Taulbee Survey, 2023 | Chart: 2024 AI Index report
+Figure 6.1.9
+
+AArrttiifificciiaall IInntteelllliiggeennccee Chapter 6: Education
+IInnddeexx RReeppoorrtt 22002244 6.1 Postsecondary CS and AI Education
+In 2022, the United States had 7,084 CS faculty members, with the majority (65.7%) on the tenure track (Figure
+6.1.10). The total number of American CS faculty has risen 4.4% since 2021 and 45.0% since 2011.
+8,000
+Tenure Track Teaching Professors Other Instructors Research Postdoc
+7,084
+7,000 6,654 6,789 453
+6,430 6,533 428
+
+6,098 531 518
+6,000 5,637 5,729 567 426 382 618 693 736
+5,256 5,068 5,202 535 491 408 436 534 5,000 4 , 5 8 2 8 2 5 521 592 509 396 364 947 671 715 946 899 947
+460 455 903
+387 491 826
+4,000 550 679
+521 421
+3,000
+2,000 3,455 3,725 3,564 3,559 3,880 3,971 4,176 4,366 4,384 4,390 4,482 4,657
+1,000
+
+2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022
+Chapter 6 Preview 13
+ytlucaf
+SC
+fo
+rebmuN
+Number of CS faculty in the United States, 2011–22
+Source: CRA Taulbee Survey, 2023 | Chart: 2024 AI Index report
+Figure 6.1.10
+
+AArrttiifificciiaall IInntteelllliiggeennccee Chapter 6: Education
+IInnddeexx RReeppoorrtt 22002244 6.1 Postsecondary CS and AI Education
+Last year, 915 new faculty were hired across CS, CE, and information disciplines in North America, a decade high.
+455 of these positions were tenure track. (Figure 6.1.11).
+
+Total Tenure-Track
+
+800 765
+749 749
+
+600 583 572
+
+422 396 406
+400 374
+348 358
+320 324
+
+249 258
+
+2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022
+Chapter 6 Preview 14
+serih
+ytlucaf
+noitamrofni
+dna
+,EC
+,SC
+wen
+fo
+rebmuN
+New CS, CE, and information faculty hires in the United States and Canada, 2011–22
+Source: CRA Taulbee Survey, 2023 | Chart: 2024 AI Index report
+Figure 6.1.11
+
+AArrttiifificciiaall IInntteelllliiggeennccee Chapter 6: Education
+IInnddeexx RReeppoorrtt 22002244 6.1 Postsecondary CS and AI Education
+In 2022, 43% of new faculty appointments came from other academic positions, indicating a “churn” within
+the academic workforce (Figure 6.1.12). Since these “new” faculty members vacated positions elsewhere, their
+previous roles will eventually need to be filled. Additionally, the proportion of faculty transitioning from industry
+in 2022 fell to 7% from 11% in the previous year and 13% in 2019.
+New PhD From Postdoc From Other Academic From Industry
+100%
+7%
+13% 13% 11% 11%
+80%
+34% 34% 34% 43%
+41%
+60%
+15% 16% 15%
+16%
+40%
+17%
+20% 38% 39% 40%
+34%
+29%
+0%
+2018 2019 2020 2021 2022
+Chapter 6 Preview 15
+ytlucaf
+wen
+fo
+ecruoS
+Source of new faculty in American and Canadian CS, CE, and information departments, 2018–22
+Source: CRA Taulbee Survey, 2023 | Chart: 2024 AI Index report
+Figure 6.1.12
+
+AArrttiifificciiaall IInntteelllliiggeennccee Chapter 6: Education
+IInnddeexx RReeppoorrtt 22002244 6.1 Postsecondary CS and AI Education
+The reasons for faculty positions remaining unfilled were turned down. This trend appears to reflect an
+have varied over the past decade. In 2011, 37% of failed increasingly competitive market for new CS faculty.
+searches were due to no offer being made, while 34% However, it remains unclear whether this indicates
+were because the offer made was declined (Figure heightened competition with other academic positions
+6.1.13). In contrast, in 2022, only 15% ended with no or with industry positions.
+offer being made, while 55% involved offers that
+Didn’t �nd a person who met our hiring goals Technically vacant, not �lled for admin reasons Other
+O�ers turned down Hiring in progress
+100%
+10%
+18%
+10% 25% 26% 23% 22% 23% 80% 17% 31% 28% 27%
+18%
+5% 6%
+10%
+55%
+6%
+60% 45% 12%
+34%
+40%
+36%
+40% 52% 51% 56% 53% 55% 43%
+44%
+20% 37% 37% 37%
+26% 26%
+16% 14% 14% 13% 14% 15%
+8%
+0%
+2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022
+Chapter 6 Preview 16
+)latot
+fo
+%(
+dell�nu
+deniamer
+snoitisop
+ytlucaf
+nosaeR
+Reason why new CS, CE, and information faculty positions remained un lled (% of total), 2011–22
+Source: CRA Taulbee Survey, 2023 | Chart: 2024 AI Index report
+Figure 6.1.13
+
+AArrttiifificciiaall IInntteelllliiggeennccee Chapter 6: Education
+IInnddeexx RReeppoorrtt 22002244 6.1 Postsecondary CS and AI Education
+In 2022, North American departments in CS, CE, and information disciplines experienced a significant increase
+in faculty departures, totaling 405, compared to 303 in 2021 (Figure 6.1.14). Of these losses, 38.5% left for other
+academic positions, while 16.3% moved to nonacademic roles, maintaining a trend consistent with previous years.
+Died Took academic position elsewhere Remained, but changed to part-time Unknown
+
+Retired Took nonacademic position Other
+
+303 312 303 66
+
+270 23 43 37
+250 232 246 237 234 34 46
+221 33
+
+200 156
+36 24
+27 32 44 26 126 139 110
+
+150 34 77 89
+62 85
+74 86
+100 52
+
+50 67 89 74 65 94 90 80 94 103 91 100
+
+2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022
+Chapter 6 Preview 17
+sessol
+ytlucaF
+Faculty losses in American and Canadian CS, CE, and information departments, 2011–22
+Source: CRA Taulbee Survey, 2023 | Chart: 2024 AI Index report
+Figure 6.1.14
+
+AArrttiifificciiaall IInntteelllliiggeennccee Chapter 6: Education
+IInnddeexx RReeppoorrtt 22002244 6.1 Postsecondary CS and AI Education
+Since 2015, the increase in median nine-month salaries for full professors has slightly fallen below U.S. inflation
+rates, whereas median salaries for assistant and associate professors have seen slight increases above inflation.
+In 2022, a full professor’s salary was 3.2% higher than in 2021, which did not keep pace with the 7% U.S. inflation
+rate, and 16.4% higher than in 2015, still below the 19% inflation increase over those years (Figure 6.1.15).
+Full Professor Associate Professor Assistant Professor 181.61
+180 176.01
+168.87 170.57
+164.54
+158.97 159.96
+160 156.02
+140 134.08
+127.47
+120 111.67 113.95 117.5 119.48 121.55 123.71 114.07 119.03
+105.45 107.55 109.23
+99.12 101.16 103.01
+
+2015 2016 2017 2018 2019 2020 2021 2022
+Chapter 6 Preview 18
+)srallod
+.S.U
+fo
+sdnasuoht
+ni(
+ytlucaf
+SC
+fo
+yralas
+naideM
+Median nine-month salary of CS faculty in the United States, 2015–22
+Source: CRA Taulbee Survey, 2023 | Chart: 2024 AI Index report
+Figure 6.1.15
+
+AArrttiifificciiaall IInntteelllliiggeennccee Chapter 6: Education
+IInnddeexx RReeppoorrtt 22002244 6.1 Postsecondary CS and AI Education
+In 2022, the proportion of international hires among new tenure-track faculty in CS, CE, and information
+disciplines significantly increased to 19.3% from 13.2% the previous year (Figure 6.1.16). This marked the second-
+highest percentage recorded in the past decade, only surpassed by 2013.
+25%
+20%
+15%
+10%
+5%
+0%
+2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022
+Chapter 6 Preview 19
+)latot
+fo
+%(
+serih
+ytlucaf
+kcart-erunet
+lanoitanretni
+weN
+New international CS, CE, and information tenure-track faculty hires (% of total) in the United States and
+Canada, 2010–22
+Source: CRA Taulbee Survey, 2023 | Chart: 2024 AI Index report
+19.30%
+Figure 6.1.16
+
+AArrttiifificciiaall IInntteelllliiggeennccee Chapter 6: Education
+IInnddeexx RReeppoorrtt 22002244 6.1 Postsecondary CS and AI Education
+Europe Informatics, CS, CE, and IT Bachelor’s
+Graduates
+Data on European CS graduates comes from
+In 2022, the United Kingdom led with the highest
+Informatics Europe, an academic and research
+number of new graduates in informatics, CS, CE,
+community that, among other goals, monitors the
+and IT at the bachelor’s level, totaling approximately
+state of informatics education in Europe.3 Informatics
+25,000 (Figure 6.1.17).5 Germany and Turkey followed
+Europe gathers data on graduates in informatics,
+closely. Most countries in the sample saw an increase
+CS, CE, computing, and information technology
+in graduates in these fields compared to a decade
+(IT) disciplines from statistical offices of European
+ago, though there were exceptions like Poland, Spain,
+governments.4
+and the Czech Republic (Figure 6.1.18).
+New informatics, CS, CE, and IT bachelor’s graduates by country in Europe, 2022
+Source: Informatics Europe, 2023 | Chart: 2024 AI Index report
+United Kingdom 25,040
+Germany 19,920
+Turkey 13,826
+Poland 9,241
+Italy 8,508
+Netherlands 6,877
+Romania 6,740
+Spain 6,650
+Portugal 3,696
+Finland 2,970
+Czech Republic 2,670
+Norway 2,340
+Ireland 1,995
+Austria 1,900
+Switzerland 1,789
+0 2,000 4,000 6,000 8,000 10,000 12,000 14,000 16,000 18,000 20,000 22,000 24,000
+Number of new informatics, CS, CE, and IT bachelor’s graduates
+Figure 6.1.17
+3 There is no singular term for CS education that is used uniformly across European countries. Across Europe, CS education can be reflected in terms such as informatics, computer science
+(CS), computer engineering (CE), computing, information technology (IT), information and communication technology (ICT), and information science and technology (IST). The full list of
+subject names (and English translations) that Informatics Europe uses to identify informatics studies programs can be found at the following link.
+4 Readers are cautioned against making per capita comparisons between the CRA North American data and the European CS graduate data detailed in subsequent sections, as the European
+data is collected from national statistical offices and boasts broader coverage.
+5 Note that not all countries for which the AI Index has data are visualized in the figures in this section. To access the complete data, please view the public data associated with this chapter.
+Moreover, the year label refers to the year in which an academic year ends. For example, the figures visualizing new graduates for 2022 reflect the number of graduates reported for the
+2021/2022 academic year. For the sake of visual simplicity, the Index opts to focus on the year in which students graduated.
+Chapter 6 Preview 20
+
+AArrttiifificciiaall IInntteelllliiggeennccee Chapter 6: Education
+IInnddeexx RReeppoorrtt 22002244 6.1 Postsecondary CS and AI Education
+Percentage change of new informatics, CS, CE, and IT bachelor’s graduates by country in Europe,
+2012 vs. 2022
+Source: Informatics Europe, 2023 | Chart: 2024 AI Index report
+Norway 153%
+Turkey 118%
+Switzerland 117%
+Netherlands 88%
+Portugal 72%
+Romania 70%
+Ireland 66%
+Austria 59%
+Italy 48%
+United Kingdom 39%
+Germany 28%
+Finland 23%
+Spain -14%
+Poland -15%
+Czech Republic -21%
+−20% 0% 20% 40% 60% 80% 100% 120% 140% 160%
+% change of new informatics, CS, CE, and IT bachelor’s graduates
+Figure 6.1.18
+Finland (53.4), Norway (42.6), and the Netherlands (38.6) lead in the number of new bachelor’s graduates in
+informatics CS, CE, and IT per 100,000 inhabitants (Figure 6.1.19). On a per capita basis, most sampled European
+countries have seen increases in the total number of informatics, CS, CE, and IT bachelor’s graduates (Figure 6.1.20).
+Chapter 6 Preview 21
+
+AArrttiifificciiaall IInntteelllliiggeennccee Chapter 6: Education
+IInnddeexx RReeppoorrtt 22002244 6.1 Postsecondary CS and AI Education
+New informatics, CS, CE, and IT bachelor’s graduates per 100,000 inhabitants by country in Europe, 2022
+Source: Informatics Europe, 2023 | Chart: 2024 AI Index report
+Finland 53.38
+Norway 42.63
+Netherlands 38.61
+Ireland 38.41
+United Kingdom 37.36
+Romania 35.38
+Portugal 35.31
+Estonia 34.78
+Lithuania 33.42
+Poland 25.14
+Bulgaria 25.14
+Czech Republic 24.66
+Germany 23.61
+Latvia 22.73
+Austria 20.87
+0 10 20 30 40 50
+New informatics, CS, CE, and IT bachelor’s graduates (per 100,000 inhabitants)
+Figure 6.1.19
+Percentage change of new CS, CE, and Information bachelor’s graduates per 100,000 inhabitants by country
+in Europe, 2012 vs. 2022
+Source: Informatics Europe, 2023 | Chart: 2024 AI Index report
+Norway 133%
+Romania 78%
+Netherlands 77%
+Portugal 72%
+Bulgaria 67%
+Ireland 48%
+Austria 47%
+United Kingdom 33%
+Estonia 25%
+Germany 22%
+Finland 20%
+Poland -12%
+Czech Republic -23%
+Latvia -33%
+−40% −20% 0% 20% 40% 60% 80% 100% 120% 140%
+% change of new informatics, CS, CE, and IT bachelor’s graduates (per 100,000 inhabitants)
+Figure 6.1.20
+Chapter 6 Preview 22
+
+AArrttiifificciiaall IInntteelllliiggeennccee Chapter 6: Education
+IInnddeexx RReeppoorrtt 22002244 6.1 Postsecondary CS and AI Education
+Informatics, CS, CE, and IT Master’s Graduates graduates (Figure 6.1.21). In the last decade, Germany
+Similar to bachelor’s graduates, the United Kingdom (259%), Turkey (197%), and Spain (194%) have seen the
+leads Europe in producing new master’s graduates in greatest percentage growth in new informatics, CS, CE,
+informatics, CS, CE, and IT, with approximately 20,000 and IT master’s graduates (Figure 6.1.22).
+New informatics, CS, CE, and IT master’s graduates by country in Europe, 2022
+Source: Informatics Europe, 2023 | Chart: 2024 AI Index report
+United Kingdom 19,965
+Germany 11,092
+Poland 4,271
+Italy 3,883
+Spain 3,214
+Turkey 2,677
+Romania 2,200
+Netherlands 1,953
+Ireland 1,620
+Czech Republic 1,589
+Finland 1,458
+Austria 1,327
+Switzerland 1,202
+Portugal 1,109
+Norway 770
+0 2,000 4,000 6,000 8,000 10,000 12,000 14,000 16,000 18,000 20,000
+Number of new informatics, CS, CE, and IT master’s graduates
+Figure 6.1.21
+Chapter 6 Preview 23
+
+AArrttiifificciiaall IInntteelllliiggeennccee Chapter 6: Education
+IInnddeexx RReeppoorrtt 22002244 6.1 Postsecondary CS and AI Education
+Percentage change of new informatics, CS, CE, and IT master’s graduates by country in Europe,
+2012 vs. 2022
+Source: Informatics Europe, 2023 | Chart: 2024 AI Index report
+Germany 259%
+Turkey 197%
+Spain 194%
+Norway 191%
+Switzerland 148%
+Netherlands 147%
+Ireland 140%
+United Kingdom 139%
+Portugal 61%
+Finland 60%
+Austria 54%
+Italy 46%
+Poland 8%
+Czech Republic -36%
+−30% 0% 30% 60% 90% 120% 150% 180% 210% 240% 270%
+% change of new informatics, CS, CE, and IT master’s graduates
+Figure 6.1.22
+Chapter 6 Preview 24
+
+AArrttiifificciiaall IInntteelllliiggeennccee Chapter 6: Education
+IInnddeexx RReeppoorrtt 22002244 6.1 Postsecondary CS and AI Education
+Per capita metrics paint a somewhat similar picture. Ireland has the most informatics, CS, CE, and IT master’s
+graduates on a per capita basis (31.2), followed by the United Kingdom (29.8) and Estonia (27.4) (Figure 6.1.23).
+On a per capita basis, Germany (243%) has also seen the greatest growth of informatics, CS, CE, and IT master’s
+graduates in the last decade (Figure 6.1.24).
+New informatics, CS, CE, and IT master’s graduates per 100,000 inhabitants by country in Europe, 2022
+Source: Informatics Europe, 2023 | Chart: 2024 AI Index report
+Ireland 31.19
+United Kingdom 29.79
+Estonia 27.38
+Finland 26.20
+Czech Republic 14.68
+Austria 14.57
+Norway 14.03
+Switzerland 13.64
+Germany 13.15
+Denmark 12.66
+Poland 11.62
+Romania 11.55
+Netherlands 10.96
+Bulgaria 10.70
+Portugal 10.59
+0 5 10 15 20 25 30
+New informatics, CS, CE, and IT master’s graduates (per 100,000 inhabitants)
+Figure 6.1.23
+Chapter 6 Preview 25
+
+AArrttiifificciiaall IInntteelllliiggeennccee Chapter 6: Education
+IInnddeexx RReeppoorrtt 22002244 6.1 Postsecondary CS and AI Education
+Percentage change of new informatics, CS, CE, and IT master’s graduates per 100,000 inhabitants
+by country in Europe, 2012 vs. 2022
+Source: Informatics Europe, 2023 | Chart: 2024 AI Index report
+Germany 243%
+Estonia 189%
+Norway 167%
+Netherlands 132%
+United Kingdom 128%
+Switzerland 127%
+Ireland 113%
+Bulgaria 80%
+Portugal 61%
+Finland 56%
+Denmark 56%
+Austria 43%
+Poland 11%
+Czech Republic -38%
+−30% 0% 30% 60% 90% 120% 150% 180% 210% 240%
+% change of new informatics, CS, CE, and IT master’s graduates (per 100,000 inhabitants)
+Figure 6.1.24
+Chapter 6 Preview 26
+
+AArrttiifificciiaall IInntteelllliiggeennccee Chapter 6: Education
+IInnddeexx RReeppoorrtt 22002244 6.1 Postsecondary CS and AI Education
+Informatics, CS, CE, and IT PhD Graduates 6.1.25). In the last decade, Turkey has seen the greatest
+The United Kingdom (1,060) and Germany (910) also growth in new CS, CE, and information PhD graduates
+produced the most informatics, CS, CE, and IT PhD (Figure 6.1.26).
+graduates in 2022, followed by Italy (581) (Figure
+New informatics, CS, CE, and IT PhD graduates by country in Europe, 2022
+Source: Informatics Europe, 2023 | Chart: 2024 AI Index report
+United Kingdom 1,060
+Germany 910
+Italy 581
+Spain 479
+Turkey 298
+Czech Republic 150
+Netherlands 120
+Switzerland 116
+Finland 114
+Austria 96
+Portugal 72
+Ireland 65
+Romania 47
+Estonia 26
+Bulgaria 24
+0 100 200 300 400 500 600 700 800 900 1,000 1,100
+Number of new informatics, CS, CE, and IT PhD graduates
+Figure 6.1.25
+Chapter 6 Preview 27
+
+AArrttiifificciiaall IInntteelllliiggeennccee Chapter 6: Education
+IInnddeexx RReeppoorrtt 22002244 6.1 Postsecondary CS and AI Education
+Percentage change of new informatics, CS, CE, and IT PhD graduates by country in Europe, 2012 vs. 2022
+Source: Informatics Europe, 2023 | Chart: 2024 AI Index report
+Turkey 173%
+Estonia 86%
+Bulgaria 60%
+United Kingdom 18%
+Spain 14%
+Italy 12%
+Switzerland 12%
+Portugal 3%
+Germany 1%
+Ireland -4%
+Finland -18%
+Czech Republic -19%
+Austria -31%
+−40% −20% 0% 20% 40% 60% 80% 100% 120% 140% 160% 180%
+% change of new informatics, CS, CE, and IT PhD graduates
+Figure 6.1.26
+Chapter 6 Preview 28
+
+AArrttiifificciiaall IInntteelllliiggeennccee Chapter 6: Education
+IInnddeexx RReeppoorrtt 22002244 6.1 Postsecondary CS and AI Education
+Finland has the greatest number of new informatics, capita basis, the growth rate of new informatics, CS,
+CS, CE, and IT PhD graduates per capita. For every CE, and IT PhDs has been relatively marginal in several
+100,000 inhabitants, it has 2.1 informatics, CS, CE, major European countries such as the United Kingdom,
+and IT PhD graduates (Figure 6.1.27). Estonia slightly Portugal, and Switzerland (Figure 6.1.28).
+trails (1.9), as does the United Kingdom (1.6). On a per
+New informatics, CS, CE, and IT PhD graduates per 100,000 inhabitants by country in Europe, 2022
+Source: Informatics Europe, 2023 | Chart: 2024 AI Index report
+Finland 2.05
+Estonia 1.90
+United Kingdom 1.58
+Czech Republic 1.39
+Switzerland 1.32
+Ireland 1.25
+Germany 1.08
+Austria 1.05
+Spain 1.00
+Italy 0.99
+Portugal 0.69
+Netherlands 0.67
+Latvia 0.64
+Bulgaria 0.37
+Turkey 0.35
+0.00 0.30 0.60 0.90 1.20 1.50 1.80 2.10
+New informatics, CS, CE, and IT PhD graduates (per 100,000 inhabitants)
+Figure 6.1.27
+Chapter 6 Preview 29
+
+AArrttiifificciiaall IInntteelllliiggeennccee Chapter 6: Education
+IInnddeexx RReeppoorrtt 22002244 6.1 Postsecondary CS and AI Education
+Percentage change of new informatics, CS, CE, and IT PhD graduates per 100,000 inhabitants by country
+in Europe, 2012 vs. 2022
+Source: Informatics Europe, 2023 | Chart: 2024 AI Index report
+Turkey 142%
+Bulgaria 81%
+Estonia 79%
+Italy 14%
+United Kingdom 12%
+Spain 10%
+Portugal 3%
+Switzerland 2%
+Germany -4%
+Latvia -8%
+Ireland -15%
+Finland -20%
+Czech Republic -22%
+Austria -36%
+−40% −20% 0% 20% 40% 60% 80% 100% 120% 140%
+% change of new informatics, CS, CE, and IT PhD graduates (per 100,000 inhabitants)
+Figure 6.1.28
+Chapter 6 Preview 30
+
+Artificial Intelligence
+Index Report 2024
+3.00
+2.52
+2.50
+2.32
+2.16
+2.00
+1.64
+1.50 1.45
+1.17
+1.00 0.88
+0.50
+0.00
+2017 2018 2019 2020 2021 2022 2023
+Chapter 6 Preview 31
+)sdnasuoht
+ni(
+hsilgnE
+ni
+smargorp
+yduts
+ytisrevinu
+IA
+fo
+rebmuN
+Artificial Intelligence Chapter 6: Education
+Index Report 2024 6.1 Postsecondary CS and AI Education
+AI-Related Study Programs Total Courses
+A study program, or degree program, comprises a
+Tracking the number of AI-related courses provides
+series of courses designed to enable students to earn
+insight into the educational interest in AI. This section
+a relevant qualification, such as a degree or diploma.
+highlights data from Studyportals, an international
+The number of English-language AI-related study
+platform monitoring English-language university
+programs has tripled since 2017, demonstrating a
+study programs worldwide. Their portal encompasses
+consistent yearly increase over the last five years
+information on over 200,000 courses at more than
+(Figure 6.1.29). This trend indicates a steadily growing
+3,750 educational institutions across 110 countries.6
+educational interest in AI.
+Number of AI university study programs in English in the world, 2017–23
+Source: Studyportals, 2023 | Chart: 2024 AI Index report
+Figure 6.1.29
+6 Currently, Studyportals, the company supplying data on AI university study programs, tracks only English-language AI courses. In the coming years, the Index plans to extend its coverage to
+include non-English programs.
+
+AArrttiifificciiaall IInntteelllliiggeennccee Chapter 6: Education
+IInnddeexx RReeppoorrtt 22002244 6.1 Postsecondary CS and AI Education
+60%
+54.97%
+50%
+39.77%
+40%
+30%
+20%
+10%
+5.27%
+0%
+Bachelor’s Master’s PhD
+Chapter 6 Preview 32
+)latot
+fo
+%(
+hsilgnE
+ni
+smargorp
+yduts
+ytisrevinu
+IA
+Education Level
+Broken down by educational level, the majority of AI study programs are offered at the master’s level (55.0%),
+followed by the bachelor’s level (39.8%), and finally at the PhD level (5.3%) (Figure 6.1.30).
+AI university study programs in English (% of total) by education level, 2023
+Source: Studyportals, 2023 | Chart: 2024 AI Index report
+Figure 6.1.30
+
+AArrttiifificciiaall IInntteelllliiggeennccee Chapter 6: Education
+IInnddeexx RReeppoorrtt 22002244 6.1 Postsecondary CS and AI Education
+Geographic Distribution the sample, there was a greater number of AI university
+In 2023, the United Kingdom had the greatest study programs in 2023 than in 2022. Malta, the United
+number of English-language AI study programs (744) Kingdom, and Cyprus had the greatest number of
+(Figure 6.1.31). Next was the United States (667) and English-language AI university study programs per
+Canada (89). For virtually every country included in capita in 2023 (Figure 6.1.32).7
+Number of AI university study programs in English by geographic area, 2022 vs. 2023
+Source: Studyportals, 2023 | Chart: 2024 AI Index report
+United Kingdom 665 744 (+12%)
+United States 630 667 (+6%)
+Canada 8 8 7 9 (+2%)
+Australia 8 8 3 4 (+1%)
+Germany 52 80 (+54%)
+France 60 69 (+15%)
+Netherlands 5 5 5 9 (+7%)
+India 4 4 4 5 (+2%)
+Ireland 4 4 2 4 (+5%)
+Spain 3 4 8 3 (+13%)
+Italy 33 40 (+21%)
+Malaysia 3 3 6 9 (+8%)
+United Arab Emirates 28 38 (+36%)
+
+Sweden 3 3 2 7 (+16%) 2022
+China 3 3 2 8 (-16%)
+0 100 200 300 400 500 600 700 800
+Number of AI university study programs in English
+Figure 6.1.31
+7 Although the United Kingdom has fewer universities overall compared to the United States, it likely reports a higher number of AI study programs for several reasons. Firstly, Studyportals
+has slightly greater coverage of the United Kingdom than the United States in its data. Secondly, the structure of higher education in the United States tends to be more generalist compared
+to the United Kingdom, meaning students studying AI might be enrolled in broader computer science programs that are not explicitly identified as AI study programs.
+Chapter 6 Preview 33
+
+AArrttiifificciiaall IInntteelllliiggeennccee Chapter 6: Education
+IInnddeexx RReeppoorrtt 22002244 6.1 Postsecondary CS and AI Education
+AI university study programs in English per 100,000 inhabitants by geographic area, 2022 vs. 2023
+Source: Studyportals, 2023 | Chart: 2024 AI Index report
+Malta 1.54 2.03 (+32.15%)
+United Kingdom 0.99 1.10 (+11.50%)
+Cyprus 0.98 (-11.5 1. 6 11 %)
+Ireland 0 0 .8 .8 3 5 (+2.05%)
+Lithuania 0.46 0.52 (+13.31%)
+United Arab Emirates 0.30 0.40 (+34.63%)
+Sweden 0.31 0.35 (+14.86%)
+Finland 0.3 0 1 .34 (+11.45%)
+Netherlands 0. 0 3 . 1 33 (+5.94%)
+Australia 0 0 . . 3 3 2 2 (-0.45%)
+Norway 0 0 .2 .2 6 7 (+5.90%)
+Latvia 0.16 0.27 (+66.02%)
+Iceland 0 0 . . 2 2 6 7 (-2.97%)
+
+Canada 0 0 . . 2 2 2 2 (-0.86%) 2022
+United States 0 0 .1 . 9 20 (+5.87%)
+0.00 0.50 1.00 1.50 2.00
+Number of AI university study programs in English (per 100,000 inhabitants)
+Figure 6.1.32
+Chapter 6 Preview 34
+
+AArrttiifificciiaall IInntteelllliiggeennccee Chapter 6: Education
+IInnddeexx RReeppoorrtt 22002244 6.2 K–12 CS and AI Education
+This section presents trends in high school CS education in the United States as a representation of K–12 AI education.
+6.2 K–12 CS and AI Education
+United States States requiring that all high schools offer a foundational CS course,
+
+Source: Code.org, 2023 | Chart: 2024 AI Index report
+Data on the state of K–12
+AK ME
+CS education in the United
+States comes from Code.
+VT NH MA
+org, an education innovation
+nonprofit dedicated to WA MT ND SD MN WI MI NY CT RI
+ensuring that every school
+OR ID WY NE IA IL IN OH PA NJ
+includes CS as part of its core
+K–12 education.
+CA NV UT CO KS MO KY WV DC MD DE
+State-Level Trends AZ NM OK AR TN VA NC
+In 2023, 30 American states
+TX LA MS AL GA SC
+required that all high schools
+offer a foundational course in Yes
+HI FL
+No
+CS (Figure 6.2.1).
+Figure 6.2.1
+The percentage of public
+Public high schools teaching foundational CS (% of total in state),
+schools offering CS courses 2023
+Source: Code.org, 2023 | Chart: 2024 AI Index report
+varies significantly from state
+AK ME
+to state (Figure 6.2.2). The 51% 66%
+top three states in terms of
+VT NH MA
+76% 81% 83%
+percentage of CS offerings
+are Maryland (99%), WA MT ND SD MN WI MI NY CT RI
+47% 34% 47% 44% 28% 56% 55% 58% 84% 86%
+Arkansas (99%), and Nevada
+OR ID WY NE IA IL IN OH PA NJ
+(96%); the bottom three are 64% 38% 63% 50% 84% 54% 91% 62% 68% 89%
+Minnesota (28%), Montana CA NV UT CO KS MO KY WV DC MD DE
+45% 96% 77% 54% 36% 50% 79% 78% 45% 99% 40%
+(34%), and Louisiana (35%).
+AZ NM OK AR TN VA NC
+36% 50% 62% 99% 64% 75% 71%
+TX LA MS AL GA SC
+54% 35% 78% 95% 71% 94%
+HI FL
+77% 40%
+Figure 6.2.2
+Chapter 6 Preview 35
+
+Artificial Intelligence
+Index Report 2024
+
+2017 2018 2019 2020 2021 2022 2023
+Chapter 6 Preview 36
+setats
+.S.U
+fo
+rebmuN
+Artificial Intelligence Chapter 6: Education
+Index Report 2024 6.2 K–12 CS and AI Education
+K–12 CS education is expanding in the United States (Figure 6.2.3). In 2017, only a few states supported high
+school CS programs. Now, approximately two-thirds of states require that CS be taught in high schools,
+allocate funding for it, and have developed state plans for CS education.
+Changes over time in state-level US K–12 CS education
+Source: Code.org, 2023 | Chart: 2024 AI Index report
+36, Allocate funding
+30, Adopted state plan
+29, Require CS course
+Figure 6.2.3
+
+Artificial Intelligence
+Index Report 2024
+201.61
+
+179.19 181.04
+158.56
+
+130.90
+99.87
+
+54.38
+50 46.34
+37.33
+29.55
+24.78
+19.39 19.83 20.96 19.39 21.14
+
+2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022
+Chapter 6 Preview 37
+)sdnasuoht
+ni(
+nekat
+smaxe
+ecneics
+retupmoc
+PA
+fo
+rebmuN
+Artificial Intelligence Chapter 6: Education
+Index Report 2024 6.2 K–12 CS and AI Education
+AP Computer Science 201,000 exams were administered, marking an 11.1%
+The state of K–12 CS education in the United States increase from 2021 (Figure 6.2.4). Since 2007, the
+can also be observed by analyzing trends in the total number of AP CS exams administered has increased
+number of AP CS exams.8 In 2022, approximately more than tenfold.
+Number of AP computer science exams taken, 2007–22
+Source: Code.org, 2023 | Chart: 2024 AI Index report
+Figure 6.2.4
+8 There are two types of AP CS exams: Computer Science A and Computer Science Principles. Data on computer science exams taken includes both exams. AP CS Principles was initially
+offered in 2017.
+
+AArrttiifificciiaall IInntteelllliiggeennccee Chapter 6: Education
+IInnddeexx RReeppoorrtt 22002244 6.2 K–12 CS and AI Education
+Number of AP computer science exams taken, 2022
+In 2022, California (33,262),
+Source: Code.org, 2023 | Chart: 2024 AI Index report
+Texas (20,901), and Florida
+(16,248) were the leading AK ME
+157 287
+states in terms of the number
+VT NH MA
+of AP CS exams taken (Figure 114 526 6,470
+6.2.5). On the other end, WA MT ND SD MN WI MI NY CT RI
+4,755 39 100 40 1,811 2,223 4,919 15,189 3,241 752
+Montana (39), South Dakota
+OR ID WY NE IA IL IN OH PA NJ
+(40), and North Dakota (100) 891 514 107 530 645 9,778 2,979 3,968 6,230 10,433
+are the states where the
+CA NV UT CO KS MO KY WV DC MD DE
+33,262 2,476 632 3,077 345 1,398 1,832 326 403 7,796 616
+fewest exams were taken.
+AZ NM OK AR TN VA NC
+Per capita, Maryland (126.5), 1,881 445 629 1,500 2,347 6,142 6,880
+New Jersey (112.7), and TX LA MS AL GA SC
+20,901 987 791 2,983 8,195 2,103
+Massachusetts (92.7) ranked
+HI FL
+highest in the number of AP
+720 16,248
+CS exams taken (Figure 6.2.6).
+Figure 6.2.5
+Number of AP computer science exams taken per 100,000 inhabitants,
+
+Source: Code.org, 2023 | Chart: 2024 AI Index report
+AK ME
+21.41 20.66
+VT NH MA
+17.62 37.60 92.66
+WA MT ND SD MN WI MI NY CT RI
+61.08 3.47 12.84 4.40 31.69 37.74 49.03 77.21 89.81 68.75
+OR ID WY NE IA IL IN OH PA NJ
+21.02 26.51 18.40 26.93 20.16 77.71 43.60 33.74 48.03 112.66
+CA NV UT CO KS MO KY WV DC MD DE
+85.20 77.92 18.69 52.68 11.75 22.63 40.61 18.38 60.06 126.48 60.42
+AZ NM OK AR TN VA NC
+25.54 21.06 15.65 49.24 33.30 70.77 64.32
+TX LA MS AL GA SC
+69.60 21.51 26.91 58.79 75.09 39.81
+HI FL
+50.02 73.04
+Figure 6.2.6
+Chapter 6 Preview 38
+
+AArrttiifificciiaall IInntteelllliiggeennccee Chapter 6: Education
+IInnddeexx RReeppoorrtt 22002244 6.2 K–12 CS and AI Education
+Highlight:
+Access Issues
+90%
+Code.org data suggests that factors such 90%
+as school size and location significantly 80%
+75%
+influence CS education accessibility.
+70%
+Large schools (over 1,200 students)
+60%
+are 15 percentage points more likely to
+offer CS courses than medium-sized 50%
+41%
+schools (500–1,200 students), with the
+40%
+gap widening further when compared
+30%
+to small schools (under 500 students)
+20%
+(Figure 6.2.7). Similarly, students in
+suburban districts have better access 10%
+to CS courses than their counterparts in
+0%
+Small Medium Large
+both urban and rural areas (Figure 6.2.8).
+Chapter 6 Preview 39
+sloohcs
+fo
+%
+Schools o ering foundational CS courses by size,
+
+Source: Code.org, 2023 | Chart: 2024 AI Index report
+70% 67.21%
+60%
+54.73% 54.62%
+50%
+40%
+30%
+20%
+10%
+0%
+Urban Suburban Rural
+sloohcs
+fo
+%
+Figure 6.2.7
+Schools o ering foundational CS courses by
+geographic area, 2023
+Source: Code.org, 2023 | Chart: 2024 AI Index report
+Figure 6.2.8
+
+AArrttiifificciiaall IInntteelllliiggeennccee Chapter 6: Education
+IInnddeexx RReeppoorrtt 22002244 6.2 K–12 CS and AI Education
+Highlight:
+ChatGPT Usage Among Teachers and Students
+The introduction of generative AI
+tools, including ChatGPT, has sparked
+significant debate regarding their
+63%
+potential applications in education. 60%
+Some individuals have raised concerns
+51%
+that these tools could be misused 50%
+for plagiarism, potentially prompting
+40%
+a reevaluation of the ways in which
+American students may be taught.
+30%
+This year, Impact Research, funded by
+20%
+the Walton Family Foundation, carried
+out a series of surveys on American
+10%
+teachers’ and educators’ perceptions
+and use of ChatGPT.9 The surveys 0%
+2023-Mar 2023-Jul
+revealed that a majority of K–12 teachers
+in the United States are already utilizing
+ChatGPT, with usage increasing over
+the year: In , 51% of teachers
+reported having used ChatGPT at least
+once, and by , that figure had
+risen to 63% (Figure 6.2.9). Among the
+teachers who reported using ChatGPT,
+30% employed it for lesson planning,
+another 30% for generating new creative
+class ideas, and 27% for enhancing their
+background knowledge (Figure 6.2.10).
+Chapter 6 Preview 40
+etar
+egasU
+ChatGPT usage rate among American K–12 teachers,
+
+Source: Impact Research, 2023 | Chart: 2024 AI Index report
+Coming up with
+30%
+creative class ideas
+Lesson planning 30%
+Building background
+27%
+knowledge
+0% 10% 20% 30%
+Usage rate
+esoprup
+egasU
+Figure 6.2.9
+ChatGPT usage purposes among American K–12
+teachers, 2023
+Source: Impact Research, 2023 | Chart: 2024 AI Index report
+Figure 6.2.10
+9 To learn more about the surveys, including their methodologies, please visit the following links: and .
+
+AArrttiifificciiaall IInntteelllliiggeennccee Chapter 6: Education
+IInnddeexx RReeppoorrtt 22002244 6.2 K–12 CS and AI Education
+Highlight:
+ChatGPT Usage Among Teachers and Students (cont’d)
+Both teachers and students have
+overwhelmingly positive attitudes toward
+Teachers Students
+ChatGPT. According to the 
+survey, 88% of the teachers believe
+that ChatGPT has a positive impact, a 88%
+ChatGPT has had
+sentiment echoed by 79% of the students a positive impact
+79%
+surveyed (Figure 6.2.11). Furthermore,
+76% of teachers and 65% of students feel
+that ChatGPT is important to incorporate
+into the educational process. This recent
+76%
+data indicates that tools like ChatGPT ChatGPT is important
+to incorporate
+are poised to become a staple in the 65%
+American educational landscape in the
+foreseeable future.
+0% 20% 40% 60% 80%
+% of respondents that “agree”
+Chapter 6 Preview 41
+tnemetatS
+ChatGPT perceptions among educational users, 2023
+Source: Impact Research, 2023 | Chart: 2024 AI Index report
+Figure 6.2.11
+
+AArrttiifificciiaall IInntteelllliiggeennccee Chapter 6: Education
+IInnddeexx RReeppoorrtt 22002244 Appendix
+Appendix
+Code.org
+State-Level Data Computing Research Association (CRA) members
+The following link includes a full description of the are 200-plus North American organizations active
+methodology used by Code.org to collect its data. The in computing research: academic departments
+staff at Code.org also maintains a database of the state of computer science and computer engineering;
+of American K–12 education and, in this policy primer, laboratories and centers in industry, government, and
+provides a greater amount of detail on the state of academia; and affiliated professional societies (AAAI,
+American K–12 education in each state. ACM, CACS/AIC, IEEE Computer Society, SIAM
+USENIX). CRA’s mission is to enhance innovation
+AP Computer Science Data
+by joining with industry, government, and academia
+The AP Computer Science data is provided to Code.org
+to strengthen research and advance education in
+as per an agreement the College Board maintains with
+computing. Learn more about CRA here.
+Code.org. The AP Computer Science data comes from
+the college board’s national and state summary reports. The CRA Taulbee Survey gathers survey data during the
+fall of each academic year by reaching out to over 200
+Access to Computer Science Education
+PhD-granting departments. Details about the Taulbee
+Data on access to computer science education was
+Survey can be found here. Taulbee doesn’t directly
+drawn from Code.org’s State of Computer Science
+survey the students. The department identifies each
+Education 2023 report.
+new PhD’s area of specialization as well as their type
+of employment. Data is collected from September to
+Computing Research
+January of each academic year for PhDs awarded in the
+Association previous academic year. Results are published in May
+after data collection closes.
+(CRA Taulbee Survey)
+The CRA Taulbee Survey is sent only to doctoral
+Note: This year’s AI Index reused the methodological
+departments of computer science, computer
+notes that were submitted by the CRA for previous
+engineering, and information science/systems.
+editions of the AI Index. For more complete delineations
+Historically, (a) Taulbee covers one-quarter to one-third
+of the methodology used by the CRA, please consult the
+of total BS CS recipients in the United States; (b) the
+individual CRA surveys that are linked below.
+percentage of women earning bachelor’s degrees
+is lower in the Taulbee schools than overall; and (c)
+Taulbee tracks the trends in overall CS production.
+Chapter 6 Preview 42
+
+AArrttiifificciiaall IInntteelllliiggeennccee Chapter 6: Education
+IInnddeexx RReeppoorrtt 22002244 Appendix
+The AI Index used data from the following iterations of and concepts provided by these national agencies
+the CRA survey: and reflects the national situation in the countries
+considered. Those aspects that are not exposed by the
+CRA, 2022
+consulted agencies are not part of the dataset. A full list
+CRA, 2021
+of definitions and concepts used can be found in the
+CRA, 2020
+footnotes shown at the bottom of the Statistics section.
+CRA, 2019
+CRA, 2018 Since each national data repository has its own
+CRA, 2017 structure and quite often provides all supporting
+CRA, 2016 information in the national language, Informatics
+CRA, 2015 Europe consults with its members—academics,
+CRA, 2014 active and knowledgeable in the informatics field
+CRA, 2013 from respective countries—who help to interpret the
+CRA, 2012 statistics available and who understand the specificities
+CRA, 2011 of these countries’ higher education systems. One
+of the main challenges in integrating the statistical
+Impact Research data is the identification of terms used to define the
+informatics discipline in different countries. Informatics
+Data on the usage of ChatGPT in schools among is known under different names in different European
+teachers and students came from two Impact Research languages and countries, and in English as well. A good
+surveys released in 2023. To learn more about the dozen terms (presented in the Data Portal section
+methodology employed for the surveys, please visit the “Subjects”) are used to denote what is fundamentally
+following links: and . the same discipline, and the role of national experts
+here is to help with screening the terms and programs
+Informatics Europe
+and identifying which part of them is pertinent to the
+informatics field.
+The statistics are annually collected by Informatics
+Europe and published on the Informatics Europe The data covers the degrees delivered by both
+Higher Education Data Portal, which is updated with traditional Research Universities (RU) and University of
+the most recent data at the end of the year (typically Applied Science (UAS) for the countries where these
+in December). In the interest of reliability, Informatics institutions also offer bachelor’s and master’s studies
+Europe collects the data from countries where a solid in informatics. The full list of institutions covered can
+and reasonably complete picture could be drawn be found in the Data Portal section “Institutions &
+from official sources such as national statistical Academic Units.”
+offices, educational agencies, or ministries. The full
+list of sources can be found in the Data Portal section
+“Data Sources.” The Data Portal follows the definitions
+Chapter 6 Preview 43
+
+AArrttiifificciiaall IInntteelllliiggeennccee Chapter 6: Education
+IInnddeexx RReeppoorrtt 22002244 Appendix
+Studyportals Studyportals categorizes the study programs on its
+portals into disciplines and subdisciplines. The 15
+Studyportals is the world’s most comprehensive study disciplines are broad categories of educational fields
+choice platform. It lists over 200,000 English-taught to help navigate the portals. The 284 subdisciplines
+programs from more than 3,500 institutions, helping are narrower topics, subdivisions, or specialized
+over 50 million students per year. The Studyportals areas of disciplines. Paying clients can provide input,
+analytics and consulting team uses the resulting data but ultimately, data processors manually choose the
+to provide higher education organizations with real- one-to-three closest fitting subdisciplines according
+time market insights. to the following scenarios, listed in decreasing order
+of likelihood.
+1. C lassic scenario: When the study name closely matches one subdiscipline name.
+a. “Chemistry” -> subdiscipline Chemistry.
+2. C lassic interdisciplinary scenario: When the study name closely matches two or three subdiscipline names.
+a. “International Fashion Management and Marketing” -> subdisciplines Fashion Management + Marketing.
+3. S pecializations scenario: When not all the subdisciplines are mentioned in the study name, but they are
+listed as specific specializations, concentrations, or tracks.
+a. “Business Administration with specializations in Finance and International Business” -> subdisciplines
+Business Administration + Finance + International Business
+4. M ixed scenario: When the study name does not closely match any specific subdiscipline but can be
+represented by combining two or three subdisciplines.
+a. “Financial Economics” -> subdisciplines Finance + Economics
+5. L ast resort scenario: When the study name does not closely match any specific subdiscipline and/or
+combination, it is instead approximated as closely as possible.
+a. “UK, EU, and US Copyright Law” -> subdisciplines Patent & Intellectual Property Law + International Law
++ European Law
+Chapter 6 Preview 44
+
+AArrttiifificciiaall IInntteelllliiggeennccee Chapter 6: Education
+IInnddeexx RReeppoorrtt 22002244 Appendix
+Example assigned
+Scenario Example study name
+subdisciplines
+Study name closely matches one BSc Chemistry Chemistry
+subdiscipline name.
+Study name closely matches two or BA International Fashion Fashion Management +
+three subdiscipline names. Management and Marketing Marketing
+Not all the subdisciplines are mentioned MBA Business Administration with Business
+in the study name, but they are listed as specializations in Finance and Administration +
+specific specializations, concentrations, International Business Finance + International
+or tracks. Business
+Study name does not closely match MSc Financial Economics Finance + Economics
+any specific subdiscipline but can be
+represented by combining two or three
+subdisciplines.
+Study name does not closely match LLM UK, EU, and US Copyright Law Patent and Intellectual
+any specific subdiscipline and/ Property Law +
+or combination and is instead International Law +
+approximated as closely as possible. European Law
+Chapter 6 Preview 45

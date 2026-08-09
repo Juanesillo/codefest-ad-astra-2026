@@ -1,0 +1,309 @@
+Fact Sheet SUMMARY
+X-37B ORBITAL
+The X-37B OTV is a technology demonstrator and
+TEST VEHICLE
+experimental vehicle which is likely used for testing reusable
+space launch vehicle technologies, such as guidance and
+
+thermal protection, and on-orbit testing of new sensor
+CONTACT: KATHLEEN BRETT technologies and satellite hardware for risk reduction. The
+KBRETT@SWFOUND.ORG
+X-37B has also deployed small satellites. While it does have
+some potential capability for orbital inspection, repair, and
+retrieval, it is unlikely to perform these functions given its
+limited payload bay. It has near-zero feasibility as an orbital
+weapons system for attacking targets on the ground.
+BACKGROUND
+• X-37B is an experimental reusable spaceplane, similar to the US Space Shuttle but much smaller,
+completely robotic, and using more advanced technologies.1
+• X-37B is designed to be launched into space on top of a large rocket, stay in orbit for months to
+years, and then re-enter and land on a runway. It has thrusters for on-orbit maneuvering and de-
+orbit, but no engines for powered flight in the air: it is a glider in the atmosphere.
+• X-37B started as a NASA program in 1999, but was transferred to DARPA in 2004. DARPA transferred it
+to the US Air Force (USAF) in 2006 after budget issues.2
+• Hobbyist tracking indicates the X-37B typically operates at an inclination of 38-54.5 degrees and an
+altitude of 285 to 400 km (180 to 250 mi), although the seventh flight was tracked going into a highly
+elliptical orbit (HEO) out to 38,838 km.3
+• The X-37B is an asset of the US Space Force (USSF)’s 3rd Space Experimentation Squadron, located
+at Schriever Space Force Base, Colorado.4 However, as of , the USSF’s Space Delta 9,
+specifically the 5th Operations
+Squadron, is responsible for
+its launch, on-orbit operations,
+and landing.5
+X-37B.
+Image credit: US Air Force
+X-37B Orbital Test Vehicle • 1
+
+X-37B ORBITAL FLIGHT HISTORY
+Flight History Table
+Launch Date Launch Location Landing Date Landing Location Time on Orbit Flight
+Apr. 22, 2010 Cape Canaveral Dec. 3, 2010 Vandenberg Air 224 days OTV-1
+Air Force Force Base, CA
+Station, FL
+Mar. 5, 2011 Cape Canaveral Jun. 16, 2012 Vandenberg Air 469 days OTV-2
+Air Force Force Base, CA
+Station, FL
+Dec. 11, 2012 Cape Canaveral Oct. 17, 2014 Vandenberg Air 675 days OTV-3
+Air Force Force Base, CA
+Station, FL
+May 20, 2015 Cape Canaveral May 7, 2017 Kennedy Space 718 days OTV-4
+Air Force Center, FL
+Station, FL
+Sep. 7, 2017 Kennedy Space Oct. 27, 2019 Kennedy Space 780 days OTV-5
+Center, FL Center, FL
+May 17, 2020 Cape Canaveral Nov. 12, 2022 Kennedy Space 908 days OTV-6
+Air Force Center, FL
+Station, FL
+Dec. 28, 2023 Kennedy Space Mar. 7, 2025 Vandenberg 434 days OTV-7
+Center, FL Space Force
+Base, CA
+Aug. 21, 2025 Kennedy Space – – – OTV-8
+Center, FL
+DEBATE OVER MISSION AND RATIONALE FOR THE X-37B PROGRAM
+Official objectives of the X-37B program include “space experimentation, risk reduction and concept
+of operations development for reusable space vehicle technologies.”6 However, some have questioned
+the official mission and this has led to speculation that its “real” mission may be secretly an offensive
+weapons platform. The actual activities the X-37B has carried out indicate its mission is likely exactly what
+the USSF claims it is.
+Over the course of its eight missions, the X-37B has served as a testbed for multiple technologies,
+including autonomous orbital landing, advanced Hall Effect thrusters,7 and oscillating heat pipes8 that
+have been used operationally in other programs. The X-37B has also served as a research platform and
+hosted experiments on material exposure and degradation, space radiation on seeds, and microwave
+power beaming. Multiple cubesats have also deployed on X-37B missions, although it is not always clear
+if they were deployed as rideshares from the upper stage or from the payload bay of the X-37B itself.
+Finally, the X-37B’s orbit has typically been in line with that of an imagery, surveillance, or reconnaissance
+(ISR) platform, such as repeating ground tracks and low altitudes. Given that the OTV-7 mission was at a
+much higher altitude of nearly 39,000 km, it is possible it was testing a new type of sensor or payload, but
+it is unclear what kind or why.
+X-37B Orbital Test Vehicle • 2
+
+While there has been much speculation of the X-37B’s role for interacting with other satellites on orbit
+or serving as a weapons platform, there is no evidence to date of this occurring. To date, the X-37B has
+never approached or rendezvoused with any other known space object and generally orbits far below
+the vast majority of operational satellites, with the exception of OTV-7, which was spotted by an amateur
+astronomer in in a Highly Elliptical Orbit (HEO) of 323 x 38,838 km x 59.1 deg inclination.9
+Physics further limits its utility as a space-to-ground weapon. The X-37B’s payload bay and available
+power are very limited. Hyperkinetic weapons dropped from the bay would need to be equipped with
+thrusters capable of performing a significant deorbit burn, which is unlikely given the available room. The
+X-37B itself re-enters like the space shuttle landing at an estimated 200 mph (321 kph), which means it
+travels in the atmosphere much slower than a nuclear re-entry vehicle on a ballistic arc or a hyperkinetic
+weapon. It thus would need to carry conventional explosives to do any significant damage.10 The X-37B
+after re-entry would be a slow moving, not-very-maneuverable glide bomb, easy prey for any air defense
+system along its path to the target.
+MAJOR ACTIVITIES OF X-37B
+The first flight of the X-37B was in . OTV-1 was launched on a United Launch Alliance-built Atlas
+V Evolved Expendable Launch Vehicle. The program was described as a “flexible space test platform to
+conduct various experiments,” and that it would “allow satellite sensors, subsystems, components and
+associated technology to be efficiently transported to and from the space environment.”11 It landed at
+Vandenberg Air Force Base, California, in after 224 days in orbit.12 The second flight of
+the X-37B, OTV-2 began in with a launch via the Atlas V rocket from Cape Canaveral Air Force
+Station, Florida. Program officials again did not say anything specific about the mission but did anticipate
+that it would be able to stay on orbit for 270 days, given analysis of OTV-1’s performance parameters.13
+Around the 270-day mark of its flight, USAF officials announced that they were extending its mission to
+allow for “additional experimentation opportunities.” It landed at Vandenberg AFB, California, in , after 469 days in orbit.14
+The third flight of the X-37B, OTV-3 was the first to reuse a flight vehicle, the OTV-1 in this case. The
+original launch was planned for , but due to a flight anomaly, the launch was pushed back.15
+OTV-3 was launched in via an Atlas 5 from Cape Canaveral Air Force Base, Florida, with
+a mission to “incorporate the lessons learned during the refurbishment process on OTV-1.” It spent 675
+days in orbit before landing in , at Vandenberg AFB, California.16 In , OTV-4 was
+launched via an Atlas 5 launch rocket from Cape Canaveral Air Force Station, Florida.17 Program officials
+stated that OTV-4 would carry a Hall thruster to experiment with this technology for its eventual use in
+the Advanced Extremely High Frequency (AEHF) military satellite program.18 NASA officials stated that
+OTV-4 would carry Materials Exposure and Technology Innovation in Space (METIS), a program intended
+to test almost 100 different types of materials to the space environment for over 200 days.19 OTV-4 landed
+at NASA’s Space Shuttle Landing Site at the Kennedy Space Center, Florida, in , after 718 days
+in space.20
+In , OTV-5 launched from the Kennedy Space Center, Florida, via SpaceX’s Falcon 9
+reusable launch vehicle. It was announced that the mission would carry “small satellite rideshare” and
+an “Advanced Structurally Embedded Thermal Spreader payload to test experimental electronics and
+oscillating heat pipe technologies in the long duration space environment.”21 On October 27, 2019, the
+OTV-5 flight of the X-37B completed an, at that time, record-breaking 780-day stay in orbit with a landing
+at NASA’s Kennedy Space Center Shuttle Landing Facility.22
+X-37B Orbital Test Vehicle • 3
+
+OTV-6 featured a new service module added to the aft of the spacecraft which gave it more room for
+payloads and experiments.23 One of these experiments was the satellite FalconSAT-8, built by students at
+the USAF academy.24 OTV-6 also tested an on-orbit power beaming system (PRAM) which collected solar
+power and transformed it into a microwave beam. Russian sources claim that in , OTV-6
+released a small object that spent a day about 200 meters away from OTV-6 before moving away entirely.
+OTV-6 landed in after spending 908 days in orbit, which is the longest flight to date for
+the X-37B.25
+Prior to the launch of the OTV-7, USSF
+officials said that tests of the X-37B would include
+“operating the reusable spaceplane in new orbital regimes,
+experimenting with future space domain awareness
+technologies, and investigating the radiation effects on
+materials provided by NASA.”26 USSF officials further noted
+that they were able to evaluate how well the US Space
+Surveillance Network’s radars and telescopes tracked
+the vehicle, as well as monitor how other countries’
+sensors locate and track OTV-7. In , the USSF
+announced that OTV-7 would undertake aerobraking
+maneuvers in order for it to reach a low enough orbit that
+it could safely discard its service module components,
+arguing that this would ensure compliance with recognized
+standards for space debris mitigation.27 These aerobraking
+maneuvers were a new capability for the program. It is
+unclear how long the procedure took and whether the
+OTV-7 stayed in LEO after or if it returned to return to its
+planned experiments and testing in HEO. On March 7, 2025,
+the OTV-7 landed at Vandenberg Space Force Base, ending
+the seventh mission of the X-37B after 434 days in orbit.28
+On August 21, 2025, the most recent flight of the X-37B,
+OTV-8, was launched from the Kennedy Space Center on a
+Falcon 9 launch vehicle.29 While an USSF press
+X-37B OTV-7 in orbit.
+release did not provide any updates regarding the OTV-8
+Image credit: USSF
+mission, it expand on the contents of the entire program,
+stating that, “The X-37B is a dynamic and responsive
+spacecraft responsible for conducting a range of tests and experiments that expedite the development of
+critical next-generation technologies and operational concepts for reusable space capabilities.”30 Boeing
+was tasked with building the OTV-8 and the company explained that OTV-8 “is hosting several technology
+demonstrations from government partners on this mission, including laser communications and a
+quantum inertial sensor designed to support navigation when GPS is unavailable;” these partners include
+the Air Force Research Laboratory (AFRL) and Defense Innovation Unit (DIU).31 As of , the OTV-8
+is still in orbit.
+X-37B Orbital Test Vehicle • 4
+
+MANEUVERABILITY OF THE X-37B
+There has also been significant speculation over the maneuverability of the X-37B while on orbit. The
+X-37B does have onboard thrusters that give it a large specific impulse, a measurement of a rocket
+engine’s efficiency, and the X-37B has raised and lowered its orbit fairly often, particularly during OTV-
+3, OTV-4, and OTV-5, suggesting significant delta-v capability as well. Former Secretary of the Air Force
+Heather Wilson publicly suggested that the X-37B could also dip down into the atmosphere and use
+its wings to make unpredictable changes to its orbit.32 In , General Chance Saltzman,
+Chief of Space Operations, stated that the United States had announced it intended to use aerobraking
+maneuvers because, “We wanted to let everybody know that we were going to do it…We want other
+nations to observe it. We want to share the data.”33 Aerobraking maneuvers consist of a series of passes
+through the Earth’s atmosphere to lower its orbit in a manner that uses less fuel, for the purpose of
+getting low enough orbit to safely discard service module components. To complete the aforementioned
+aerobraking maneuvers, the vehicle had to undergo modifications, including development of a new
+collision avoidance system.34
+TRANSPARENCY CONCERNS
+Much of the speculation and consternation over the X-37B stems from the project’s secretive nature.
+The mission and activities of the X-37B have long been classified, and the program’s budget is currently
+unknown. The US military openly applauds the program for being a significant success, but does not
+provide much information about its on-orbit activities. This may indicate it is part of a covert intelligence
+program, but it may also indicate the testing of offensive technologies or capabilities. From the mission’s
+launch to , the USSF had identified 1.7 million collision avoidance opportunities, though it
+is unclear as to what that means.35
+SECRET DEPLOYMENT OF SATELLITES
+The X-37B secretly deployed three small satellites during its fifth mission between 2017 and 2019.
+Although the USAF stated before launch that OTV-5 would deploy small satellites, it was unclear if
+they were rideshares deployed from the upper stage or deployed from the X-37B payload bay itself.36
+The actual deployment time of the three satellites was not announced and is still uncertain. The three
+satellites were not included in the public satellite catalog maintained by the US military until after OTV-5
+landed. The United States did not provide any orbital positional information on OTV-5 or the three small
+satellites it deployed. The United States reported OTV-5 to the United Nations in conformity with the
+Convention on Registration of Objects Launched into Outer Space on September 17, 2018, one year after
+launch and on the same timeline as past X-37B flights.37 This withholding of information raises questions
+about US commitment to international norms and transparency and confidence building measures, as
+well as the purpose of these satellites.
+X-37B Orbital Test Vehicle • 5
+
+ENDNOTES
+1. “X-37B Orbital Test Vehicle Fact Sheet,” Air Force Space Command, April 17, 2015, 
+Fact-Sheets/Display/Article/104539/x-37b-orbital-test-vehicle/.
+2. “X-37B Orbital Test Vehicle Fact Sheet,” Air Force Space Command, ibid.
+3. Jonathan McDowell, “Jonathan’s Space Report No. 703,” October 17, 2017, 
+back/news.703.
+4. “Next X-37B Orbital Test Vehicle Scheduled to Launch,” US Space Force, May 6, 2020, 
+mil/News/Article/2177702/next-x-37b-orbital-test-vehicle-scheduled-to-launch.
+5. “US Space Force Activates New Squadron to Oversee X-37B Orbital Test Vehicle,” SOFREP News Team, June 8,
+2024, 
+6. “Boeing-built X-37B Orbital Test Vehicle Successfully Completes 3rd Flight,” Boeing, October 17, 2014, https://
+boeing.mediaroom.com/2014-10-17-Boeing-built-X-37B-Orbital-Test-Vehicle-Successfully-Completes-3rd-Flight.
+7. Jeff Foust, “X-37B lands after record-setting mission,” SpaceNews, May 7, 2017, 
+lands-after-record-setting-mission/.
+8. Craig Covault, “USAF to Launch First Spaceplane Demonstrator,” Aviation Week Science and Technology, August
+3, 2008, 
+9. Jonathan McDowell, “Congrats to Tomi Simola for locating the secret X-37B spaceplane. OTV 7 is in a 323
+x 38838 km x 59.1 deg orbit. Could be testing out a new HEO IR sensor for future early warning satellites
+- just a wild speculation on my part here.” Twitter, February 9, 2024, 
+status/1755974823119872007?s=20.
+10. Jeff Foust, “X-37B lands after record-setting mission,” SpaceNews, May 7, 2017, 
+lands-after-record-setting-mission/.
+11. Vanessa Young, “New unmanned spacecraft set to launch,” Air Force News Service, April 16, 2010, 
+af.mil/News/Article-Display/Article/116970/new-unmanned-spacecraft-set-to-launch/.
+12. “X-37B Orbital Test Vehicle lands at Vandenberg AFB,” Air Force News Service, December 10, 2010, 
+af.mil/News/Article-Display/Article/114795/x-37b-orbital-test-vehicle-lands-at-vandenberg-afb/.
+13. Ammani Lyle, “Air Force launches second unmanned spacecraft,” Secretary of the Air Force Public Affairs,
+March 5, 2011, 
+second-un-manned-spacecraft/.
+14. Stephen Clark, “Military space shuttle receives mission extension,” Spaceflight Now, November 29, 2011,
+ “X37-B Orbital Test Vehicle lands at Vandenberg,”
+30th Space Wing Public Affairs, June 16, 2012, 
+Article338649/x-37b-orbital-test-vehicle-lands-at-vandenberg/.
+15. Amy McCullough, “X-37B Launch Delayed,” Air Force Magazine, October 25, 2012, 
+web/20140220190719/
+24%202012/X-37BLaunchDelayed.aspx.
+16. Eric Badger, “Air Force launched 3rd X-37B Orbital Test Vehicle,” Air Force News Service, December 11, 2012,
+
+Stephen Clark, “U.S. military’s X-37B space plane lands in California,” Spaceflight Now, October 17, 2014,
+
+17. Justin Ray, “X-37B embarks on fourth voyage in orbit,” Spaceflight Now, May 20, 2015, 
+com/2015/05/20/recap-story-x-37b-embarks-on-fourth-voyage-in-space/.
+18. David Szondy, “Hall ion thrusters to fly on X-37B spaceplane,” New Atlas, April 29, 2015, 
+us-air-force-x-37b-hall-thrust-er/37200/.
+19. Justin Ray, “NASA gives more information on its experiment aboard the X-37B,” Spaceflight Now, May 6, 2015,
+
+20. Jeff Foust, “X-37B lands after record-setting mission,” SpaceNews, May 7, 2017, 
+lands-after-record-setting-mission/.
+X-37B Orbital Test Vehicle • 6
+
+21. “Air Force preparing to launch fifth Orbital Test Vehicle mission,” Air Force News Service, August 31, 2017,
+
+vehicle-mission/; “45th SW launches 5th OTV mission,” Air Force News Service, September 7, 2017, 
+af.mil/News/Article/1301794/45th-sw-launches-5th-otv-mission/.
+22. Secretary of the Air Force Public Affairs, “X-37B Breaks Record, lands After 780 Days In Orbit,” United States Air
+Force, October 27, 2019, 
+after-780-days-in-orbit/.
+23. Joseph Revithick, “X-37B’s Power Beaming Payload A Reminder Of Potential Orbital Microwave Anti-Satellite
+Weapons,” TheDrive.com, May 19, 2020, 
+beaming-payload-areminder-of-potential-orbital-microwaveanti-satellite-weapons.
+24. Dmitry Stefanovich, “Sometimes VPK still delivers,” Twitter, December 8, 2021, 
+KomissarWhipla/status/1468593293235793924?s=20; Vladimir Kozin, “Cold Star War: The US has Questions for
+Moscow about Space, Russia has even more Questions for the US,” VKP-News, November 29, 2021, 
+news.ru/articles/64859.
+25. Stefano D’Urso and David Cenciotti, “Reflecting On The X-37B’s Latest Record-Breaking Mission,” The
+Aviationist, December 24, 2022, 
+breaking-mission/.
+26. “Department of the Air Force scheduled to launch seventh X-37B mission,” Air Force News Service, November
+8, 2023, https:// 
+forcescheduled-to-launch-seventh-x-37b-mission/; Marco Langbroek, “X-37B begins novel space maneuver,”
+SatTrackCam Leiden (b)log, February 13, 2024, 
+ic-spaceplane.html.
+27. Sandra Erwin, “X-37B to jettison payload module in orbital shift, Space Force announces,” SpaceNews, October
+10, 2024, 
+28. Secretary of the Air Force Public Affairs, “X-37B Orbital Test Vehicle concludes seventh successful mission,” Air
+Force News Service, March 13, 2025, 
+orbital-test-vehicle-concludes-seventh-successful-mission/
+Article/4112259/x-37b-orbital-test-vehicle-concludes-seventh-successful-mission/.
+29. Secretary of the Air Force Public Affairs, “US Space Force launches eighth X-37B mission,” Air Force News
+Service, August 22, 2025, 
+launches-eighth-x-37b-mission/.
+30. Secretary of the Air Force Public Affairs, “US Space Force launches eighth X-37B mission,” ibid.
+31. “Boeing-Built X-37B Spaceplane Launches, Beginning Eighth Mission,” Boeing Press Release, August 22,
+2025, 
+Eighth-Mission.
+32. Secretary of the Air Force Public Affairs, “X-37B Orbital Test Vehicle concludes seventh successful mission,”
+United States Space Force, March 13, 2025, 
+x-37b-orbital-test-vehicle-concludes-seventh-successful-mission/.
+33. Vivienne Machi, “How The X-37B Is Shaping The Future Of The U.S. Space Force,” Aviation Week Network,
+February 21, 2025, 
+space-force.
+34. Machi, “How The X-37B Is Shaping The Future Of The U.S. Space Force,” ibid.
+35. Machi, “How The X-37B Is Shaping The Future Of The U.S. Space Force,” ibid.
+36. “Air Force preparing to launch fifth Orbital Test Vehicle mission,” ibid.
+37. United States of America, “Information Furnished in Conformity with the Convention on Registration of
+Objects Launched into Outer Space,” United Nations Office For Outer Space Affairs, September 17, 2018,
+
+X-37B Orbital Test Vehicle • 7
+
+525 Zang Street, STE. D 1779 Massachusetts Ave. NW
+Broomfield, CO 80021 USA Washington, DC 20036 USA
+v : + 1 303 554 1560 v : + 1 202 568 6212
+e : info@swfound.org
+SWF Publication: FS26/11
+Published: 26.06

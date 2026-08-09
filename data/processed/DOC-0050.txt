@@ -1,0 +1,292 @@
+Policy Brief
+HAI Policy & Society
+
+Simulating Human
+Key Takeaways
+Simulating human attitudes and
+Behavior with AI
+behaviors could enable researchers
+to test interventions and theories
+and gain real-world insights.
+Agents
+We built an AI agent architecture
+that can simulate real people
+in ways far more complex than
+Joon Sung Park, Carolyn Q. Zou, Aaron Shaw,
+traditional approaches. Using
+Benjamin Mako Hill, Carrie J. Cai, Meredith Ringel Morris, this architecture, we created
+generative agents that simulate
+Robb Willer, Percy Liang, Michael S. Bernstein 1,000 individuals, each using an
+LLM paired with an in-depth
+interview transcript of the
+individual.
+AI agents have been gaining widespread attention among the general public
+as AI systems that can pursue complex goals and directly take actions in both
+virtual and real-world environments. Today, people can use AI agents
+To test these generative agents, we
+to make payments, reserve flights, and place grocery orders for them, and
+evaluated the agents’ responses
+there is great excitement about the potential for AI agents to manage even against the corresponding person’s
+responses to major social science
+more sophisticated tasks.
+surveys and experiments. We
+found that the agents replicated
+real participants’ responses 85%
+However, a different type of AI agent—a simulation of human behaviors and
+as accurately as the individuals
+attitudes—is also on the rise. These simulation AI agents aim to be useful replicated their own answers
+two weeks later on the General
+at asking “what if” questions about how people might respond to a range
+Social Survey.
+of social, political, or informational contexts. If these agents achieve high
+accuracy, they could enable researchers to test a broad set of interventions
+and theories, such as how people would react to new public health Because these generative agents
+messages, product launches, or major economic or political shocks. Across hold sensitive data and can mimic
+individual behavior, policymakers
+economics, sociology, organizations, and political science, new ways of
+and researchers must work
+simulating individual behavior—and the behavior of groups of individuals— together to ensure that appropriate
+could help expand our understanding of social interactions, institutions, monitoring and consent
+mechanisms are used to help
+and networks. While work on these kinds of agents is progressing, current
+mitigate risks while also harnessing
+architectures must cover some distance before their use is reliable. potential benefits.
+
+Policy Brief
+Simulating Human Behavior with
+AI Agents
+In our paper, “Generative Agent Simulations of 1,000
+People,” we introduce an AI agent architecture that
+Generative AI models offer
+simulates more than 1,000 real people. The agent
+the opportunity to build general
+architecture—built by combining the transcripts of
+two-hour, qualitative interviews with a large language
+purpose agents that can simulate
+model (LLM) and scored against social science
+human attitudes across a variety
+benchmarks—successfully replicated real individuals’
+responses to survey questions 85% as accurately
+of contexts.
+as participants replicate their own answers across
+surveys staggered two weeks apart. The generative
+agents performed comparably in predicting people’s
+personality traits and experiment outcomes and were
+less biased than previously used simulation tools.
+turn, can limit the generalizability and accuracy of the
+simulation results.
+This architecture underscores the benefits of using
+generative agents as a research tool to glean new
+Generative AI models offer the opportunity to build
+insights into real-world individual behavior. However,
+general purpose agents that can simulate human
+researchers and policymakers must also mitigate the
+attitudes across a variety of contexts. To create
+risks of using generative agents in such contexts,
+simulations that better reflect the myriad, often
+including harms related to over-reliance on agents,
+idiosyncratic factors that influence individuals’
+privacy, and reputation.
+attitudes, beliefs, and behaviors, we built a novel
+generative agent architecture that combines LLMs
+with in-depth interviews with real individuals.
+Introduction
+We recruited 1,052 individuals—representative of
+Simulations in which agents are used to model the the U.S. population across age, gender, race, region,
+behaviors and interactions of individuals have been education, and political ideology—to participate
+a popular tool for empirical social research for years, in two-hour qualitative interviews. These in-depth
+even before the emergence of AI agents. Traditional interviews, which included both pre-specified
+approaches to building agent architectures, such as questions and adaptive follow-up questions, are a
+agent-based models or game theory, rely on clear foundational social science method that has been
+sets of rules and environments manually specified by successfully used by researchers to predict life
+the researchers. While these rules make it relatively outcomes beyond what could be learned from
+easy to interpret results, they also limit the contexts in traditional surveys and demographic instruments. We
+which traditional agents can act while oversimplifying also developed an AI interviewer to ask participants
+the real-life complexity of human behavior. This, in the questions based on a semi-structured interview
+
+Policy Brief
+Simulating Human Behavior with
+AI Agents
+protocol from the American Voices Project—which games, public goods game, and prisoner’s dilemma);
+ranged from life stories to people’s views on current and five social science experiments with control and
+social issues. treatment conditions. For the General Social Survey
+(which has categorical responses), we measured
+Then, we built the generative agents based on accuracy and correlation based on whether the agent
+participants’ full interview transcripts and an LLM. selects the same survey response as the person. For
+When a generative agent was queried, the full transcript the Big Five Inventory and the economic games (which
+was injected into the model prompt, which instructed the have continuous responses), we assessed accuracy
+model to imitate the relevant individual when responding and correlation using mean absolute error.
+to questions, including forced-choice prompts, surveys,
+and multi-stage interactional settings.
+Research Outcomes
+Once the generative agents were in place, we
+evaluated them on their ability to predict participants’
+Overall, the generative agents proved remarkably
+responses to common social science surveys and
+effective in simulating individuals’ real-world
+experiments, which the participants completed after
+personalities. For example, the generative agents
+their in-depth interviews. We tested on the core
+predicted participants’ responses to the General
+module of the General Social Survey (widely used to
+Social Survey with an average normalized accuracy
+assess survey respondents’ demographic backgrounds,
+of 85%—meaning that, on average, generative agents
+behaviors, attitudes, and beliefs); the 44-item Big
+replicated participant responses 85% as accurately as
+Five Inventory (designed to assess an individual’s
+the participants themselves when they were asked to
+personality); five well-known behavioral economic
+retake the surveys and experiments two weeks later.
+games (the dictator game, first and second player trust
+This result is 14 to 15 percentage points higher than
+the accuracy of traditional demographic-based and
+persona-based agents that use the same LLMs but do
+not have access to the interviews.
+The generative agents also outperformed
+The generative agents proved demographic and persona-based agents on the
+Big Five personality test, achieving a normalized
+remarkably effective in
+correlation of 80% when replicating real individuals’
+simulating individuals’ openness, conscientiousness, extraversion,
+agreeableness, and neuroticism. But they performed
+real-world personalities.
+similarly as demographic and persona-based agents
+for the economic games, with a normalized correlation
+of 66% (i.e., 66% as high as the participants’ own
+correlation with themselves two weeks later) across an
+
+Policy Brief
+Simulating Human Behavior with
+AI Agents
+while gender-based Demographic Parity Difference
+remained fairly consistent across tasks (likely due to
+...the interview-based generative
+already low levels of discrepancy).
+agents consistently reduced
+biases across tasks compared to
+demographic-based agents.
+Policy Discussion
+aggregate of the dictator game, the first and second Generative agents could become useful tools for
+player trust games, the public goods game, and the estimating attitudes and survey-based experimental
+prisoner’s dilemma. treatment effects. For example, if you were considering
+the sorts of survey questions you might ask in a
+Beyond those tests, we evaluated the generative national survey, generative agents could help to
+agents’ behavior in a set of social science experiments. estimate average responses the population might give.
+These included investigations of how perceived intent However, many open questions remain: How accurate
+affects blame assignment and how fairness influences are generative agents when simulating behavior, in
+emotional responses. Real-world participants and the addition to attitudes? What innovations are needed for
+generative agents agreed on the replication results of generative agent simulations to accurately estimate the
+all five studies we tested. impacts of policy changes? While we will continue to
+build the empirical and technical research to expand
+The generative agents also lessened bias in
+the horizon of generative agents, we urge policymakers
+predictive accuracy across social groups. Given
+to critically examine analyses that overclaim what
+rightful concerns about AI systems disadvantaging or
+generative agents can actually achieve today.
+misrepresenting underrepresented populations, we
+conducted a subgroup analysis focused on political One important risk for policymakers, practitioners,
+ideology, race, and gender. These are dimensions researchers, and others using generative agents
+of particular interest in the literature. We used the is overreliance on generative agents when simulation
+Demographic Parity Difference, which measures accuracy is low. To ensure that policymakers
+the performance difference between the best- and don’t rely on an inaccurate simulation, we must develop
+worst-performing groups, to quantify bias. Notably, tools and methodologies so they know when they
+we found that the interview-based generative agents can, and can’t, trust these simulations. Additionally,
+consistently reduced biases across tasks compared to policymakers should not apply generative agents beyond
+demographic-based agents. Drops in political ideology the range of applications that have been validated.
+bias and racial bias vary depending on the survey, A second major risk relates to privacy: The interview
+
+Policy Brief
+Simulating Human Behavior with
+AI Agents
+data used to build the generative agents is often
+sensitive, and data leaks could cause considerable
+One important risk for
+harm to interviewees. Other concerns include the
+co-option of individuals’ likenesses, as these agents policymakers, practitioners,
+can believably replicate a person’s answers in a survey
+researchers, and others using
+response or experiment. Significant reputational harm
+could also result from someone manipulating agent generative agents is overreliance
+responses to falsely attribute defamatory statements
+on generative agents when
+to individuals whose data is used in the agent bank.
+simulation accuracy is low.
+A range of other ethical and legal questions must
+also be considered. For example, what are the
+ethical implications of using AI agents that simulate
+Policymakers and researchers should work together
+a deceased person? How should human consent be
+to ensure that appropriate monitoring and consent
+managed? And what are the risks of agents being
+mechanisms are used to enhance trust, protect
+misused for fraudulent purposes? Given the inherent
+individual rights, and mitigate the risks of generative
+uncertainty of future advancements in generative AI,
+agent use. For example, our team proposed the
+such as AI models’ future reasoning abilities, managing
+possibility of an audit log for the use of every agent in
+these risks early on is crucial. Policymakers should
+our agent bank. That way, individuals who participated
+consider establishing bright-line rules that determine
+in a survey and had their preferences captured by a
+how AI agents may or may not be used for human
+generative agent could see what the agent is doing
+simulation purposes.
+and exert control over it over time. Permission could be
+We made the decision not to release our generative granted one day and withdrawn a month later, reflecting
+agents for public use. Instead, to support further individual consent. Translating such protections into
+research while protecting participant privacy, we policy—such as making them part of grant terms and
+have chosen to provide controlled, research-only conditions—would help researchers to detect and
+API access to our agent bank. We grant open mitigate malicious use of generative agents built using
+access to aggregated responses on fixed tasks for people’s personal data shared via in-depth interviews.
+general research use and restrict access to individual
+responses on open tasks for researchers following a Looking forward, generative agents hold serious
+review process, ensuring the agents are accessible promise for enhancing human behavioral research and
+while minimizing risks associated with the source developing new insights into personal preferences and
+interviews. Other researchers building similar systems decision making. However, mitigating the risks of these
+should replicate our safeguards, and policymakers innovations, through research and policy controls on
+weighing how generative agents could be used in agent access and auditing, will be crucial to harnessing
+research settings should explore requirements for their opportunities in economics, political science,
+individual data rights, access, and deletion. and beyond.
+
+Reference: The original article is Joon Sung Park is a Meredith Ringel Morris
+accessible at Joon Sung Park, Carolyn PhD student in computer is director and principal
+science in the Human- scientist for Human-AI
+Q. Zou, et al., “Generative Agent
+Computer Interaction Interaction at Google
+Simulations of 1,000 People,” arxiv.org,
+and Natural Language DeepMind.
+November 15, 2024, 
+Processing groups at
+abs/2411.10109. Stanford University.
+Carolyn Q. Zou is Robb Willer is a professor
+a PhD student in of sociology and, by
+Stanford University’s Institute for Human- computer science at courtesy, psychology
+Centered Artificial Intelligence (HAI) Stanford University. and business at Stanford
+applies rigorous analysis and research University.
+to pressing policy questions on artificial
+intelligence. A pillar of HAI is to inform Aaron Shaw is an Percy Liang is an associate
+associate professor professor of computer
+policymakers, industry leaders, and civil
+in the Department of science at Stanford
+society by disseminating scholarship to
+Communication Studies at University and a senior
+a wide audience. HAI is a nonpartisan
+Northwestern University. fellow at Stanford HAI.
+research institute, representing a range of
+voices. The views expressed in this policy
+Benjamin Mako Hill Michael S. Bernstein is an
+brief reflect the views of the authors. is an associate professor associate professor of
+For further information, please contact in the Department of computer science at Stanford
+HAI-Policy@stanford.edu. Communication at the University and a senior fellow
+University of Washington. at Stanford HAI.
+Carrie J. Cai is a senior staff
+research scientist at Google
+DeepMind and manager/
+area lead of Human-AI
+Interaction in Google’s
+People+AI Research group.
+Stanford HAI: 353 Jane Stanford Way, Stanford CA 94305-5008
+T 650.725.4537 F 650.123.4567 E HAI-Policy@stanford.edu hai.stanford.edu

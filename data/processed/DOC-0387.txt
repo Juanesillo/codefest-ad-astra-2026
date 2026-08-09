@@ -1,0 +1,1921 @@
+Translation
+The following document is one example of how Chinese local governments propose to use
+AI in their work. The document, from Xiamen City in southeast China, lists over 100 potential
+AI use cases for the city government and its subordinate district governments, and includes
+contact information for each use case, presumably so that AI companies can more easily
+make sales pitches to fulfill these requirements. Most of the use cases involve using large AI
+models—a few specifically recommend DeepSeek—to spot patterns and anomalies in bulk
+data, mostly for innocuous purposes, such as catching errors and omissions in paperwork or
+helping teachers grade assignments. However, several use cases, mainly at the district
+government level, aim to use AI technology for China’s surveillance state or for predictive
+policing, including incorporating AI into the “Sharp Eyes” mass surveillance camera program
+and into aerial surveillance by automated drones.
+Title
+Notice of the Xiamen City Data Administration on the Announcement of the List of Artificial
+Intelligence Application Scenario Opportunities
+厦门市数据管理局关于发布人工智能应用场景机会清单的通知
+Author
+Xiamen City Data Administration (厦门市数据管理局)
+Source
+Xiamen City Data Administration website. The notice is dated March 18, 2025 and was posted to the
+website the following day.
+This is a combined translation of the landing page for the list of AI scenarios and the list itself. The
+Chinese source text of the landing page and the list are available, respectively, at:
+ and
+
+Archived versions of the landing page and the list are available, respectively, at:
+ and 
+Translation Date Translator Editor
+July 8, 2025 Etcetera Language Group, Inc. Ben Murphy, CSET Translation Manager
+Notice of the Xiamen City Data Administration on the Announcement of
+the List of Artificial Intelligence Application Scenario Opportunities
+To all relevant work units (单位) and enterprises:
+In order to thoroughly implement the national strategy of promoting the deep
+
+fusion of artificial intelligence (AI) and the real economy, actively explore and cultivate
+AI application scenarios, and promote the flourishing development of the AI industry
+ecosystem, a total of 110 AI application scenario opportunities from 16 city
+departments and 18 district-level departments have been selected following extensive
+solicitation, careful review, and rigorous screening, and are hereby officially released.
+The list released here focuses on the field of government affairs + AI and provides
+detailed information on each scenario, including the requesting units, core
+requirements, expected goals, and contact information, providing AI enterprises,
+research institutions, investment institutions, and other relevant parties with clear
+business development directions and opportunities for cooperation.
+Through this list, the aim is to build a bridge linking supply and demand, promote
+the precise matching of AI technology with actual business scenarios, accelerate the
+conversion of innovation achievements into practical applications, and cultivate new
+economic growth points. We sincerely invite all work units and enterprises to actively
+participate in the construction and application of AI scenarios in the government sector,
+leverage their unique strengths, and work together to create a new landscape for AI
+industry development.
+Xiamen City Data Administration
+March 18, 2025
+
+I. List of AI Application Scenario Opportunities
+1) Departments directly under the city government
+(i) A total of 16 work units directly under the city government proposed 58
+application scenario opportunities
+Contact
+Division(s) or
+Application Person and
+No. Work Unit Office(s) with Core Requirements Expected Results
+Scenario Telephone
+Requirements
+Number
+Achieve accurate collection,
+Build a dynamic [social] credit
+analysis, and real-time
+database through intelligentized
+updating of credit information,
+AI + smart credit (智能化) integrated credit data
+1 and provide intelligentized
+services from multiple sources such as
+credit management for
+government, enterprises, and
+governments, enterprises, and
+financial institutions
+individuals
+Identify credit risks by analyzing Increase the accuracy of credit
+AI + credit data such as administrative assessments, reduce credit
+2 monitoring and penalties, contract performance, default risk, and achieve
+early warning and judicial litigation, and provide intelligent credit risk early
+credit risk early warnings warnings
+Promote precise credit
+Apply AI credit evaluation in areas
+AI + credit granting in finance, optimize
+such as lending, transportation,
+3 empowerment public services, and increase
+and health insurance to achieve
+(信用赋能) the convenience of credit use
+credit empowerment.
+by city residents.
+Leverage real-time data to update
+credit labeling of entities, match
+with differentiated management Build an intelligent credit
+AI + graded and
+(差异化管理) measures, and supervision platform to
+categorized credit
+4 City reduce supervision costs. At the achieve precise supervision
+Social Credit market
+Development same time, monitor the credit data and risk prevention and Yin Yongyao
+Promotion supervision
+and Reform circumstances of market entities control of market entities. 18705920218
+Division
+Commission in real time, and use AI to discover
+violations and potential risks.
+Help entities with poor credit
+Based on credit laws and
+efficiently complete credit
+regulations and case studies, use
+AI + credit repair repair, rebuild good credit
+5 AI to tailor repair reminders and
+guidance images, enhance market trust,
+repair indicators for entities with
+and promote the healthy
+poor credit.
+credit market development.
+Monitor the status of various city
+credit monitoring indicators in real
+time to achieve credit status Improve the city’s overall
+monitoring of the city, districts, credit status, and do a
+AI + city credit
+6 and advanced cities, and use AI quantitative evaluation of the
+status insight
+and big data to automatically effectiveness of policies at the
+generate city, regional, and same time.
+industry credit status insight
+reports and trend reports
+Build a dedicated credit
+Provide real-time updated
+AI + credit “knowledge base” integrating
+information on credit
+7 decision credit policies and regulations,
+regulations and policies to
+knowledge base credit assessment standards, and
+help decision-makers quickly
+regulatory mechanisms, so as to
+
+Contact
+Division(s) or
+Application Person and
+No. Work Unit Office(s) with Core Requirements Expected Results
+Scenario Telephone
+Requirements
+Number
+analyze trends in the credit field obtain relevant legal and
+and assess the core direction of policy support
+industry development.
+Provide comprehensive credit
+Based on credit data, establish a information and monitoring
+AI + credit comprehensive credit knowledge data to support efficient
+
+knowledge graph graph to support intelligent decision-making and boost
+querying and analysis. credit risk prediction and
+management capabilities.
+City Grain and Oil
+Quality Processing and Increase testing efficiency and
+Sample pre-processing, handling Yang Yang
+9 Monitoring and handling prior to assure the safety of laboratory
+of corrosive liquids 15060738896
+Military Grain testing personnel.
+Supply Center
+Intelligently identify the forms
+required for various services, link
+Raise data collection
+to the education database, and
+efficiency; reduce burdens and
+City Bureau of Intelligent form automatically extract information, Li Chenling
+10 Reception Center increase efficiency for
+Education filling while also providing intelligent 19959288891
+teachers, students and
+guidance by proactively
+parents.
+recommending relevant education
+services.
+Introduce AI review into the
+preliminary review stage of policy
+implementation. Relying on data
+from city platforms such as the Utilize AI to achieve rapid
+City Bureau of Finance’s industrial verification of mandatory
+Intelligent review
+support fund system and the City criteria and data querying and
+11 of policy
+Development and Reform filtering during policy
+implementation
+Commission’s Credit Xiamen implementation, thereby
+City Bureau of
+platform, utilize AI large models increasing work efficiency.
+Industry and All divisions and Chen Kunming
+to automatically conduct project
+Information offices 13799273196
+duplication checks, credit
+Technology
+inquiries, and other routine tasks.
+Achieve real-time data
+Deploy a localized economic data
+sharing and build an “Industry
+knowledge base that is unified
+Economic and Information Technology
+across the city, and combine it
+12 operations large Smart Brain” (工信智脑) to
+with AI large models to conduct
+model boost decision-making
+economic data queries, analysis,
+support and analysis
+and early warning.
+capabilities.
+Leveraging AI-related
+technologies such as natural
+language processing and
+Improve the quality and efficiency
+intelligent speech recognition
+of emergency call response
+from large models like
+through voice transcription,
+City Public Command and AI-assisted DeepSeek, combined with
+element extraction, incident Song Wen
+13 Security Intelligence emergency call real-world public security
+location identification, intelligent 13859916709
+Bureau Center response data and business rules,
+form filling assistance, real-time
+provide the call reception and
+Chinese-English voice translation,
+handling system with smart
+and call quality inspection.
+services including voice
+transcription, element
+extraction, incident location
+
+Contact
+Division(s) or
+Application Person and
+No. Work Unit Office(s) with Core Requirements Expected Results
+Scenario Telephone
+Requirements
+Number
+identification, intelligent form
+filling assistance, real-time
+Chinese-English voice
+translation, and call quality
+inspection. This will promote
+the automatic comparison and
+identification of emergency
+call information and the
+association of related data,
+thereby improving the level of
+automation of emergency
+response command and
+handling.
+Real-time online digital avatars
+combined with large-scale
+models provide residence permit
+(户籍) policy-related question
+answering and interactive
+services. Challenges faced by the
+Intelligent
+public in accessing,
+household Improve public satisfaction
+understanding, and applying Luo Yang
+14 Haicang Branch registration policy and provide 24-hour
+household registration policies are 13459038407
+consultation uninterrupted service.
+resolved by means of AI and
+services
+virtual reality (VR) technology.
+The convenience of policy services
+is enhanced through real-time
+online digital avatars combined
+with large-scale models for
+question answering services.
+Improve call reception
+efficiency and accuracy,
+Intelligent optimize police resource
+Efficient emergency call response,
+emergency call allocation, and increase the
+15 precise dispatching, and real-time
+reception and quality and public satisfaction
+command and monitoring.
+dispatching level of emergency call
+response and handling Chen Zhang
+Siming Branch
+services. 18250756712
+Perception and monitoring for Improve control efficiency and
+comprehensive perception accuracy, optimize resource
+Smart coastal
+coverage, intelligent target allocation and collaborative
+16 defense
+identification, intelligent operations, and strengthen
+management
+command dispatching, and rapid basic information
+interception and handling management and services.
+Coordinate material allocation
+Based on emergency response
+and improve emergency
+Emergency requirements and emergency
+response capabilities based
+17 response material reserve conditions,
+on requirements for
+Police Assurance assurance respond quickly and assist in
+emergency response Wu Junyu
+Department (警保 emergency material supply plans.
+materials. 18695627090
+部)
+Optimize resource allocation
+Processing of vast quantities of and assist in the formulation,
+18 Data analysis
+equipment and vehicle data updating, or scrapping of
+plans.
+
+Contact
+Division(s) or
+Application Person and
+No. Work Unit Office(s) with Core Requirements Expected Results
+Scenario Telephone
+Requirements
+Number
+Provide multilingual services, Increase satisfaction level:
+Intelligent
+especially for less commonly Improve service experience
+customer service
+encountered languages (such as through multilingual support
+with real-time Lin Ling
+19 Korean, French, Arabic, etc.), and and intelligent real-time
+multilingual 13515965650
+culturally adapted communication feedback mechanisms (e.g.,
+communication
+Entry and Exit methods, and reduce progress inquiries, intelligent
+and translation
+Management communication costs. reminders).
+Detachment Increase public satisfaction,
+Smart Build a knowledge graph provide 24-hour uninterrupted
+government repository, enrich the government service, and expand online Lin Wenqiang
+
+affairs service service terminology database, and and offline application 15980546165
+agent create a chat-based service model scenarios through various
+vehicles.
+Based on vital sign and behavioral
+data from relevant Internet of
+Things (IoT) devices installed in
+elderly people’s homes, such as Analyze the physical health of
+vital sign analyzers and fall elderly people, and give them
+Health and vital
+21 detection devices (e.g., breathing, precision geriatric disease
+sign analysis
+heart rate, sleep quality), produce prevention, treatment, and
+disease risk prediction, health rehabilitation guidance.
+condition analysis, and other data
+through large model training and
+analysis.
+For elderly individuals who have
+chronic diseases or require
+rehabilitation training, the AI
+system can develop personalized
+rehabilitation training plans based Increase the effectiveness and
+on their medical condition and efficiency of rehabilitation
+Intelligent
+physical status. By collecting training, help elderly
+22 rehabilitation Wang Zhenlin
+Civil Affairs Elder Care movement data from elderly individuals recover physical
+training guidance 0592-
+Bureau Division individuals through smart functions faster, and enhance
+
+wearable devices and sensors, the their quality of life.
+AI system monitors training
+effectiveness in real time and
+adjusts training plans based on
+feedback.
+Use VR and augmented reality
+(AR) technology to create realistic Provide chatting voice robots
+virtual companions for the elderly. for the elderly according to
+These avatars can be customized their needs, keep elderly
+according to the preferences and individuals company through
+needs of the elderly, with various means of expression,
+Virtual
+23 personalized appearances, and provide them livelihood-
+companions
+personalities, and behavioral related information, chat,
+characteristics. The elderly can emotional support, fraud
+communicate and interact face- prevention information, and
+to-face with the avatars and enjoyment of preferential
+participate in various policies.
+entertainment activities together.
+
+Contact
+Division(s) or
+Application Person and
+No. Work Unit Office(s) with Core Requirements Expected Results
+Scenario Telephone
+Requirements
+Number
+Use AI technology to help elderly
+individuals record important
+Provide support for elderly
+information (e.g., contact
+individuals with cognitive
+Cognitive information of friends and
+impairments, and give the
+24 impairment relatives, schedule arrangements),
+elderly personalized
+support and provide family-friendly
+information recall, reminders,
+applications to help them exercise
+and other capabilities.
+their memory, attention, and
+logical thinking abilities.
+Using AI and VR technology,
+provide intelligent explanation of AI will automatically explain
+the conditions in various nursing the functions, services, and
+homes, enabling nursing home features of each area of a
+25 AI tour guide
+promotion and display, as well as nursing home, and will
+intelligent customer service, so as support switching between
+to better serve the elderly and multiple languages.
+their families.
+A specialized AI large model
+trained on various civil affairs
+policies, regulations, preferential For civil affairs services,
+measures, procedures, and increase user satisfaction
+AI intelligent
+26 government services, will provide levels and speed of
+customer service
+unified AI large model services for understanding, and provide
+all smart civil affairs business, 24-hour uninterrupted service.
+such as elder care, financial
+assistance, and funeral services.
+Carry out AI large model-based
+analysis and logical reasoning on
+data related to various fees, Achieve comprehensive and
+payments, and financial subsidies efficient supervision of all Wu Huiwang
+27 Funds supervision
+Offices in civil affairs management to kinds of civil affairs funds to 0592-
+discover unreasonable fund usage prevent errors and omissions. 2892051
+and provide early warning
+information.
+Carry out analysis and reasoning
+on various kinds of information, For civil affairs services such
+such as behavior and call records, as elder care, financial
+of personnel, service institutions, assistance, and funeral
+Service and call center staff involved in services, achieve intelligent
+
+supervision civil affairs services such as elder supervision of the entire
+care, financial assistance, and service process, and the
+funeral services, so as to evaluate evaluation and improvement
+the quality and effectiveness of of service efficiency.
+those services.
+By subsequently enriching the
+smart finance business
+knowledge base, and exploring Improve question answering
+Financial Smart finance Tong Changxu
+City Finance linking with large models, it will accuracy, enhance customer
+29 Information intelligent 0592-
+Bureau quickly respond to and learn satisfaction, and provide 24-
+Center customer service 2858310
+answers to frequently asked hour uninterrupted service
+questions, and effectively improve
+question answering accuracy.
+
+Contact
+Division(s) or
+Application Person and
+No. Work Unit Office(s) with Core Requirements Expected Results
+Scenario Telephone
+Requirements
+Number
+Based on corporate archives and
+personnel records, and starting by
+describing policy conditions, use
+the semantic recognition and
+reasoning capabilities of large
+models to intelligently calculate
+relevant data indicators and use
+precision computation to form a
+list of enterprises affected by
+various policies (政策找企业名单).
+Accurate matching of policies
+Based on policy documents, Wu Dong
+Government [to eligible parties] and
+30 policy application guidelines, and 0592-
+services intelligent breakdown of
+other textual materials, use the 5398236
+policies
+document interpretation and
+knowledge reasoning capabilities
+of large language models to
+quickly break down policy
+conditions and clauses, and
+automatically recommend
+application forms and review
+process templates, thereby
+achieving intelligent policy
+breakdown and rapid issuance.
+Through service-based
+question answering, business
+processing, data analysis, and
+Intelligent question-answering
+customized training of large
+assistant, counseling on
+models, make use of
+admissions, orientation,
+lightweight 3D rendering and
+employment, academic and
+driving, voice interaction,
+student affairs, and logistics; one
+multi-round dialogue of large
+network for everything (一网通办)
+language models, function
+and getting it done in one
+calls, and other technologies,
+City Human sentence (一句话办事); course and
+load the campus knowledge
+Resources Smart campus grade querying, Chat-BI
+Xiamen Technical base, link to one network for Ma Zanwei
+31 and Social intelligent intelligent summarization, and
+College everything services, 13959213230
+Security assistant data inference; academic data
+orientation, student affairs,
+Bureau analysis, teaching effectiveness
+academic affairs, employment,
+analysis, and campus activity
+and other business scenarios,
+participation analysis; lesson plan
+and accelerate the
+generation and homework
+transformation of education
+correction; textbook key point
+digitalization by integrating
+generation, question answering;
+NLP, agents, TTS, SR, and
+exam paper generation,
+other technical capabilities
+personalized makeup exams
+into the entire process and all
+aspects of education
+management.
+Utilize large models to accurately The expert database will be
+profile experts, achieve precise precise and efficient,
+Ecological
+City matching between business centralized and unified,
+environment
+Ecological General Affairs requirements and subject matter dynamically managed, Liu Yin 0592-
+32 expert database
+Environment Division (综合处) experts, two-way intelligent standardized, secure, reliable, 5182618
+(专家库)
+Bureau recommendations, open, and shared, and the
+management
+recommendations on experts to decision-making support role
+participate in decision-making and of the expert database will be
+
+Contact
+Division(s) or
+Application Person and
+No. Work Unit Office(s) with Core Requirements Expected Results
+Scenario Telephone
+Requirements
+Number
+consultation work, and full- fully exploited, enhancing the
+process management. willingness of experts to fulfill
+their duties.
+City Housing Achieve AR housing search for Assist tenants and transaction
+and Transaction and Smart housing real scenarios, policy parties in quickly finding Zheng Qingyun
+
+Construction Leasing Division search interpretation, and intelligent listings and mediating 18060488024
+Bureau dispute mediation disputes online
+Fully leveraging the
+“Fuxiaobao” (福晓宝) digital
+assistant within the
+Minzhengtong (闽政通) smart
+customer service app,
+iXiamen, and other service
+portals, and selecting the
+domestically developed
+DeepSeek AI large language
+model as the technical
+support, the system will
+deeply embed key service
+aspects such as consultation,
+situational guidance, and form
+filling into the public user chat
+Jointly with the City Data interface by means of in-depth
+Bureau Approval Administration, push technology integration.
+Chen Yubin,
+Service Window, implementation of the “chat-and- Members of the public only
+Intelligent Hong Yiyong
+34 City Traffic process” (边聊边办) smart need to naturally express their
+customer service 7703908,
+Monitoring application for the issuance of requirements in their
+
+Command Center rideshare vehicle (网约车) conversations with the
+operation permits. intelligent system, and the
+City system will then guide them
+Transport- through the relevant
+ation Bureau procedures based on the
+conversation content, creating
+an innovative “chat-and-
+process” service model that
+will solve problems such as
+people being unable to find
+the right entry point for
+handling their affairs and
+being unclear on the handling
+procedures, thereby improving
+the efficiency of government
+services that are convenient,
+beneficial, and helpful.
+Raise road maintenance and
+inspection efficiency, promptly
+Maintenance and Accurately identify road surface
+identify existing road surface
+35 roving cracks, pothole problems, and
+Xiamen City and facility problems, and
+inspections roadside facility defects
+Highway automatically send out Xiao Jie
+Development notifications for rectification. 15705957929
+Center Through intelligent monitoring
+Dynamically monitor and analyze
+of slopes, achieve early
+36 Slope monitoring slope displacement and strain to
+warning and emergency
+promptly identify slope risks
+response decision-making
+
+Contact
+Division(s) or
+Application Person and
+No. Work Unit Office(s) with Core Requirements Expected Results
+Scenario Telephone
+Requirements
+Number
+guidance, thereby enhancing
+road safety levels.
+Provide integrated
+Accurately identify residents’ transportation solutions for
+Public
+travel requirements, collect and city residents, and increase
+37 transportation
+process vast amounts of origin- the proportion of public
+smart travel
+destination (OD) data transportation in city travel as
+a whole.
+Enhance passenger service
+Multilingual understanding and satisfaction on the Xiamen
+replying (Mandarin and Southern Metro, and provide 24-hour
+Xiamen Rail Metro intelligent
+38 Min dialects), rapid response, and uninterrupted service; compile Zhi Chenghai
+Transit Group customer service
+learning; answering of common a categorized list of passenger 18150395078
+Co., Ltd.
+questions, etc. inquiries to precisely improve
+service quality.
+Utilize AI video analysis Improve the efficiency of
+technology to accurately identify subway protection risk
+Intelligent roving
+various safety hazards within identification, resolve roving
+inspections for
+39 subway protection zones (地铁保 inspection risk problems,
+subway
+护区) that endanger subway reduce response times, and
+protection
+operations, such as prohibited enhance subway protection
+operations and behaviors. standards.
+Specialized information search on
+Assist in disaster prevention,
+water and drought disasters for
+facilitate grassroots work, and
+water conservancy practitioners,
+improve response quality and
+monitoring of data queries,
+40 efficiency; facilitate public
+recommendations, and analysis;
+understanding of relevant
+and popular science education for
+information on flood control
+the public on flood control and
+and water conservancy.
+water conservancy knowledge.
+Based on real-time and historical
+information such as river basin
+meteorology, rainfall and water
+conditions, video monitoring, etc.,
+Water
+and dynamic information such as
+City Bureau of conservancy (水
+City Flood reservoir gate and dam conditions Zhang Xiang
+Agriculture 利) knowledge Increase the efficiency of
+Warning and and flash flood risk warnings, 0592-
+and Rural intelligent flood, drought, and flash
+Reporting Center achieve real-time forecasting of 5766803
+Affairs question flooding disaster prevention
+rainfall and water conditions, data
+answering and control, and achieve real-
+quality verification, risk warning
+time intelligent monitoring,
+41 for key sections and protected
+analysis, and management of
+units in the basin, flood control
+the “air-space-ground-water-
+dispatching rehearsal and flood
+engineering” (“空天地水工”)
+situation analysis, contingency
+perception network for water
+plan generation and assessment,
+conservancy.
+and other functions, and be able
+to generate flood control
+decision-making support
+information, thereby improving
+the decision-making efficiency of
+flood control consultations.
+
+Contact
+Division(s) or
+Application Person and
+No. Work Unit Office(s) with Core Requirements Expected Results
+Scenario Telephone
+Requirements
+Number
+More intelligent (智慧化)
+cultivation of crops such as
+Increase the accuracy of
+papaya, passion fruit, and
+routine field management,
+Syzygium samarangense,
+boost product quality, and
+42 Smart orchard achieving intelligentized water
+implement roving robot
+and fertilizer management,
+inspections, diagnosis, and
+intelligentized diagnosis and
+City Agricultural management.
+control of pests and diseases, and Huang Yongxiu
+Technology
+standardized ripe fruit picking. 13338368063
+Promotion Center
+Intelligentized cultivation of Prevent tomato pests and
+tomatoes, achieving precise water diseases in advance to reduce
+and fertilizer control in routine pesticide usage; standardize
+Smart tomato
+43 field management, early warning harvesting to resolve
+cultivation
+for common pests and diseases, problems related to labor
+and standardized harvesting of costs and differing harvesting
+fruit at maturity. standards.
+Identify production and
+construction projects that are
+Preliminarily assess whether
+legally required to prepare soil
+soil and water conservation
+and water conservation plans,
+facilities for production and
+verify whether such plans were
+construction projects have
+City Agricultural Water submitted before construction
+legal violation issues such as Dai Mingwei
+Comprehensive conservancy law was initiated, whether soil and
+44 “construction before approval” 0592-
+Law Enforcement enforcement water conservation compensation
+or “operation before 5993736
+Detachment assistance fees have been paid in full and on
+inspection,” and enhance the
+time, and whether self-inspection
+efficiency of water
+of soil and water conservation
+administration law
+facilities was conducted before
+enforcement.
+they were put into production or
+use.
+Achieve the digitization of
+wholesale transaction data,
+visualization of transaction
+Wholesale Market transactions will be
+City Market processes, and agricultural
+agricultural informatized (信息化) and data Fan Yi 0592-
+45 Commerce Operations product traceability for
+product market will be used as a reference for 2855793
+Bureau Division agricultural products such as
+transactions market controls (市场调控).
+vegetables and aquatic products
+(水产品) in wholesale agricultural
+product markets.
+Using patients’ main
+complaints, basic vital signs,
+and an AI question answering
+system, patients are
+automatically assigned to the
+Intelligent triage Optimize patient flow and reduce
+appropriate department or
+46 Planning and and guided wait times in emergency rooms
+priority level. – Triage
+City Health Information diagnosis and outpatient clinics. Zheng Wenjie
+accuracy will be improved to
+Commission Technology 13215918518
+over 90%, and the proportion
+Division (规信处)
+of non-emergency patients
+occupying emergency
+resources will be reduced.
+Extract key information from Provide intelligent diagnosis
+Assisted clinical
+47 medical records and provide and treatment
+diagnosis
+intelligent diagnosis and recommendations.
+
+Contact
+Division(s) or
+Application Person and
+No. Work Unit Office(s) with Core Requirements Expected Results
+Scenario Telephone
+Requirements
+Number
+treatment recommendations to
+assist physicians in making
+decisions.
+Utilize AI technology to carry out
+real-time monitoring and analysis
+of vast amounts of public health
+Public health data, including data on infectious Increase public health incident
+48 monitoring and disease outbreaks, chronic disease early warning ability and
+early warning incidence rates, environmental response speed.
+factors, etc., to provide timely
+early warnings of potential health
+risks.
+When responding to emergencies
+such as forest fires, urban
+flooding, and production safety
+accidents, AI models will be
+utilized to access weather
+forecasts, surveillance videos,
+population heat maps, traffic
+networks, social media sentiment,
+and other data in real time in a
+multimodal manner through
+multi-source data integration,
+real-time analysis abilities, and
+intelligent decision support
+systems. This data will be
+combined with static data such as
+emergency response plans for
+emergencies, analysis of nearby
+areas, rescue supplies, teams, and
+historical disaster databases to
+City form comprehensive situational
+Emergency Assisted awareness. Real-time inference Improve emergency response Yang Jie
+49 Command Center
+Management decision-making and prediction of event trends speed and accuracy. 13600928185
+Bureau (such as fire spread paths and
+crowd evacuation directions) will
+be conducted to generate early
+warning signals in advance.
+Emergency response
+recommendations will be made:
+First, emergency response level
+recommendations will be made;
+second, based on the type of
+incident, rescue teams will be
+paired with rescue resources, and
+rescue command
+recommendations will be made;
+third, linkage will be made to the
+intelligent transportation system
+to divert traffic and reduce
+congestion; fourth, based on
+population heat map data, the
+optimal escape routes will be
+pushed through a mobile phone
+
+Contact
+Division(s) or
+Application Person and
+No. Work Unit Office(s) with Core Requirements Expected Results
+Scenario Telephone
+Requirements
+Number
+SMS targeted notification
+platform.
+Input historical data on the
+number of accidents across all
+Early warnings of potential
+Production Safety industries and types in the city,
+production safety risks will be Hong Zehua
+50 Coordination Production safety along with their causes, for AI to
+issued and corresponding risk 15927077119
+Division analyze and predict future trends
+control measures proposed.
+in accident occurrence across all
+industries city-wide.
+Process earthquake data, provide
+responses to questions on the
+latest earthquake information,
+generate earthquake report
+Improve earthquake
+Earthquake templates, and provide Q&A
+emergency response
+Earthquake disaster responses on earthquake Pan Zhenyu
+51 efficiency and provide city
+Bureau mitigation avoidance and protection (e.g., 15392038139
+residents with earthquake
+assistant informing and guiding people on
+emergency services
+the nearest earthquake shelters
+and how to take emergency
+measures), and answer common
+questions about earthquakes
+Front-line intellectual property
+supervision and law enforcement Increase front-line intellectual
+Intellectual staff face questions (issues raised) property law enforcement and
+Property from regulatory targets (service supervision personnel’s
+Protection Front-line law recipients). They must promptly familiarity with, and ability to
+Chen Liming
+52 Division enforcement and and quickly respond with relevant apply, laws, regulations, and
+
+(Trademark supervision laws, regulations, policies, and policies, integrate supervision
+Supervision compliance standards. After into service, and raise
+Division) verification, front-line staff can regulatory target satisfaction
+provide warnings and relevant levels.
+guidance to regulatory targets.
+Conduct batch data cleaning,
+Provide multimodal large
+categorization, summarization,
+City Market models, as well as batch
+and verification of non-standard
+Supervision analysis and processing
+information (including images)
+and functions for tabular data, to
+such as news sentiment analysis,
+Administra- facilitate meeting
+Intelligent complaints and reports, consumer
+tion Bureau requirements such as for
+identification and reviews, supervision inspections,
+53 categorization analysis of
+analysis of non- and penalties, using functions
+issues reported in complaints
+standard data such as image understanding,
+Food and and reports, verification of Song Tianyou
+semantic recognition, and content
+Beverage Division whether photos uploaded by 13950063994
+extraction, thereby improving
+restaurants for rectification
+regulatory quality and
+correspond to the issues
+strengthening food safety risk
+reported, etc.
+assessment and control.
+Generate multimedia science
+Food Safety
+Intelligent generation of images, popularization propaganda
+Science
+54 audio, short videos, and other based on designated themes
+Popularization
+multimedia functions in formats such as images,
+Propaganda
+audio, and short videos.
+Skill level Accurately identify the relevant Zhao Yiming
+City Sports Mass Sports Raise administrative approval
+55 certification for application requirements for 0592-
+Bureau Division efficiency.
+second-level technical level certification of 5339330
+
+Contact
+Division(s) or
+Application Person and
+No. Work Unit Office(s) with Core Requirements Expected Results
+Scenario Telephone
+Requirements
+Number
+(volunteer) social second-level social sports
+sports coaches coaches for city residents.
+Powered by solar energy, and
+Currently, water surface cleaning
+adopting advanced sensor
+is done manually, which poses
+Water surface technologies (such as infrared,
+certain safety hazards.
+cleaning ultrasonic, or machine vision),
+Garden Additionally, due to time
+equipment for the equipment would
+Management constraints, some areas may be Li Zhaowen
+Wanshi Lake, automatically identify the
+56 Section of the overlooked. It is recommended to 0592-
+Shishan types of debris on the water
+City Botanical consider introducing intelligent 2039759
+City Bureau of Reservoir, and surface and capture them
+Garden equipment integrating multiple
+Government Dongzhaikeng using robotic arms, nets, or
+technologies including
+Facilities and Reservoir suction devices. Automatically
+mechanical, electronic, and
+Landscaping transport collected debris to
+automatic control technologies.
+internal storage containers.
+City Government Utilize existing Sharp Eyes project
+Significantly improve roving
+Environmental (雪亮工程) surveillance video to
+inspection efficiency and
+Science and Intelligent roving identify abnormalities such as Luo Ronghui
+57 enable continuous monitoring
+Drainage inspections pipeline damage, leaks, illegal 13600976272
+of road and pipeline network
+Management Co., construction, and unauthorized
+facilities.
+Ltd. discharges.
+For innovative application
+scenarios such as smart
+government affairs review,
+intelligent roving inspections,
+intelligent law enforcement,
+intelligent evaluation, intelligent
+task assignment, intelligent early
+warning, intelligent analysis,
+intelligent decision-making,
+intelligent command and
+dispatching, digital human
+Use AI to make city
+broadcasting, intelligent
+governance more scientific,
+Smart city assistants, etc., analyze issues in
+City Urban refined (精细化), and
+All relevant management, urban management such as the
+Management intelligentized, increase the Lin Chao
+divisions and government division of responsibilities,
+58 and Law efficiency of smart office 0592-
+offices of the office operations, establishment of management
+Enforcement operations for government 5379322
+Bureau smart law standards, and business process
+Bureau affairs, and achieve effective
+enforcement optimization. Through analysis of
+urban management and law
+data on city operation monitoring,
+enforcement.
+cross-departmental collaboration,
+emergency response, etc.,
+gradually explore the use of big
+data to gain insights into
+underlying patterns of city
+operation, put forward scientific
+and rational decision-making
+recommendations, raise execution
+efficiency, and provide
+comprehensive technical support
+for city governance.
+
+Contact
+Division(s) or
+Application Person and
+No. Work Unit Office(s) with Core Requirements Expected Results
+Scenario Telephone
+Requirements
+Number
+Deeply integrating AI with
+petition operations can
+promote a shift from “reactive
+Automatically parse petition texts, response” to “proactive
+analyze and identify the emotional governance,” helping to build
+state of petitioners, automatically a more efficient and precise
+Reception
+link to relevant laws and social contradiction (社会矛盾)
+Division (Petition
+regulations, assist staff in resolution system. Applying
+Service Center),
+identifying the basis for AI technology can effectively
+Petition Handling
+petitioning, generate standardized boost the efficiency and
+Division,
+City Petition Office responses, and enhance quality of petition work, Zou Shumeng
+59 Supervision and
+(信访) Bureau applications authoritativeness. Through the optimize service processes, 13850081116
+Investigation
+automatic collection, data strengthen data analysis, and
+Division,
+analysis, categorization, and provide strong support for
+Reinvestigation
+processing of petition information, government decision-making.
+and Review
+provide accurate handling Promote the elevation of
+Division
+procedures, shorten processing Xiamen City’s petition work to
+times, and optimize service a new level, and make greater
+quality. contributions to maintaining
+social stability and promoting
+social and economic
+development.
+II. List of AI Application Scenario Opportunities
+1) All districts and management committees
+(i) A total of 18 district-level departments proposed 52 application scenario
+opportunities
+Contact
+Divisions(s)
+Application Person and
+No. District Work Unit or Office(s) with Core Requirements Expected Results
+Scenario Telephone
+Requirements
+Number
+Create a new
+Leveraging the DeepSeek large
+government service
+model’s capabilities for deep
+experience that
+thinking and reasoning
+combines virtual and
+generation, and through learning
+physical and
+District government service guidelines
+integrates
+Bureau of and business service knowledge
+District intelligence, drive a
+Science, Siming smart materials, combined with digital
+Siming Government transformation of Ye Mingxi
+1 Technology, government human technology, a smart virtual
+District Assurance (政保) government services 15880255038
+Industry, and services office government service hall will be
+Center from human service
+Information constructed within the
+to human-computer
+Technology government service center,
+interaction, and
+enabling integrated inquiry and
+achieve the goal of
+processing, dynamic traffic
+“getting things done
+routing, and seamless integration
+efficiently” (高效办成
+with offline physical spaces.
+一件事).
+
+Contact
+Divisions(s)
+Application Person and
+No. District Work Unit or Office(s) with Core Requirements Expected Results
+Scenario Telephone
+Requirements
+Number
+Leverage AI technology to achieve
+Improve document
+efficient official document writing,
+writing efficiency,
+construct a government-side
+optimize data
+official document repository,
+Industry and Government- statistics and search
+integrate policy materials related
+Information side knowledge convenience, and Xie Mingcan
+2 to bureau work, employ large
+Technology base enhance the 18859237332
+models to carry out intelligent
+Section construction accuracy and
+sorting and allocation, elevate
+efficiency of external
+digital human capabilities, and
+consultation
+provide precise services for
+services.
+external consultations.
+On the Siming District Integrated
+Operations platform, fully utilize
+District Urban
+Urban the “Sharp Eyes” video resources Achieve rapid
+Operation District Urban
+management already accessed, and utilize AI identification and Zhang Jiankun
+3 Management Management
+video recognition technology to handling of urban 13806011218
+Command Office
+recognition automatically identify urban management issues.
+Center
+management issues, generate
+descriptions, and assign tasks.
+Establish a subdistrict knowledge
+base, collect various policy
+Raise the efficiency
+documents issued by higher-level
+and quality of
+authorities, and make use of AI
+subdistrict
+assistants to organize and retrieve
+operations, optimize
+knowledge base content to assist
+Lujiang Subdistrict-level official document
+Lujiang subdistrict work such as Zeng Qingkai
+4 Subdistrict knowledge base writing processes,
+Subdistrict Office document drafting and data 18850440040
+Office construction assure compliance
+provision. Utilize large language
+with formatting
+models to carry out subdistrict
+requirements, and
+official document writing and
+respond swiftly to
+generate relevant materials
+requirements.
+according to formatting
+requirements.
+Increase accessibility
+Enhance accessibility system
+for people with
+recognition, discourage uncivilized
+District disabilities, enhance
+behavior, increase city resident
+Landscape Landscape Urban park city resident Cai Zhichuan
+5 interaction, and add more
+and Greening Section management experience, and 13395059272
+warnings of areas separated off
+(绿化) Center heighten landscape
+for tasks such as sprinkler use and
+and greening work
+pesticide spraying.
+efficiency.
+Select class content
+based on resources
+Use AI assistants to quickly on the platform and
+Intelligent
+Teacher Training generate lesson plans, automatically
+6 lesson
+School PowerPoint presentations, and generate
+District preparation
+Huli other teaching resources. corresponding Wei Licheng
+Education
+District courseware and 15305929588
+Bureau
+lesson plans.
+Intelligent Automatically generate academic Provide 24-hour
+Teacher Training homework performance analysis reports. online tutoring
+
+School review and Provide 24-hour online tutoring services for
+tutoring services for students. students.
+
+Contact
+Divisions(s)
+Application Person and
+No. District Work Unit or Office(s) with Core Requirements Expected Results
+Scenario Telephone
+Requirements
+Number
+Provide teachers
+Intelligent
+Support teachers in conducting with data analysis
+Teacher Training education
+8 online education research and research
+School research
+activities. support for scientific
+platform
+research.
+Increase the public’s
+satisfaction with
+public legal services
+Answer users’ legal questions and enhance the
+and provide basic legal advice; public’s ability to
+automatically generate legal handle matters in
+documents such as contracts and accordance with the
+Zhang
+complaints based on user input; law; improve the
+Public legal Huarong
+9 District Justice Bureau quickly search for relevant legal efficiency of legal
+services 0592-
+provisions, cases, and literature, consultation and
+
+and analyze historical cases; legal aid services;
+provide free legal consultations raise the efficiency of
+for economically disadvantaged dispute resolution,
+groups and apply for legal aid. and promote the
+intelligentization and
+modernization of
+legal services.
+Identify dangerous fire sources
+and fire safety hazards, and be
+Safety 24-hour night fire Wang
+Huli able to respond quickly and issue
+10 Supervision Urban villages patrol services in Haochen
+Subdistrict alarms, especially at night, and to
+Station urban villages. 13385907589
+adapt to the complex conditions
+of urban villages.
+Use intelligent
+robots to solve the
+problems of multiple
+business promotion
+Intelligent policies and high
+Accurately refine business
+customer service difficulty of
+Investment promotion policies, and achieve Lü Jiacheng
+11 Xiamen City for business interpretation,
+Department customer service readily at hand, 18559026999
+Huli District promotion automatically match
+with all policies available.
+State-Owned policies with industries, and
+Asset reduce the difficulty
+Investment of policy
+Group Co., popularization and
+Ltd. extension
+Xiamen Huli Intelligent
+Improve customer
+State-Owned customer service
+Multilingual understanding and satisfaction, provide
+Asset Investment for the Ye Xin
+12 reply, quick response, FAQ 24-hour
+Commercial “Houlihui” (“厚 18850042710
+answer learning uninterrupted
+Management Co., 礼汇”) online
+service
+Ltd. platform
+On the basis of the existing 164 Increase the
+Intelligentized sets of monitoring equipment [detection rate] of
+District Urban
+upgrading of (coverage rate 86.77%), add an AI violation incidents,
+Management
+Digital Huli construction site video analysis module to and reduce the rate Lin Weijiang
+13 Committee
+Command Center noise and dust automatically identify violations of complaints from 13599912519
+Commission
+supervision such as [lack of] covering of loose city residents on
+Office
+platform dirt and encircling wall damage; platforms such as
+introduce vehicle-mounted mobile 12345
+
+Contact
+Divisions(s)
+Application Person and
+No. District Work Unit or Office(s) with Core Requirements Expected Results
+Scenario Telephone
+Requirements
+Number
+monitoring equipment to expand
+blind spot coverage
+With dump truck GPS data linked Increase the
+Full-process to the entrance and exit detection rate of
+optimization and monitoring of construction sites, illegal dumping
+supervision AI will identify behaviors such as incidents and
+
+platform for unsecured transport and illegal improve the
+construction dumping, and automatically compliance rate of
+waste generate a chain of evidence for transportation
+law enforcement enterprises
+Integrate rider usage spike
+Dynamic
+prediction models, analyze Increase the bicycle
+scheduling
+parking needs in hot spots such as turnover rate in key
+optimization for
+business districts and subway areas and shorten
+15 bike-share
+entrances in real time, and link to the time required to
+bicycle
+enterprises to automatically handle illegal
+management
+adjust delivery volume and the parking incidents
+platform
+range of electronic fences
+Add AI thermal imaging cameras
+Fire warning to monitor the battery
+Improve fire warning
+system temperatures of electric vehicle
+accuracy and reduce
+16 upgrading for charging stations, combine with
+the incident
+smart urban power load data to establish a fire
+occurrence rate
+villages risk prediction model, and link to
+automatic sprinkler systems
+There are more than 10,000
+roadside surveillance video feeds,
+Increase Improve incident
+but algorithm computing power
+computing categorization
+analysis is limited. Add computing
+power for urban accuracy and
+power, train multimodal AI
+appearance improve the
+models, enhance recognition
+issues, improve efficiency of urban
+17 ability in complex scenarios such
+and management squads
+as "Three Guarantees Outside the
+intelligentize (城管中队) and grid-
+Front Door" (“门前三包”)
+recognition based community
+violations and mobile vendors
+algorithm management
+blocking the road, and support
+iteration officers (网格员)
+Southern Min dialect voice
+command interaction
+Conduct video
+analysis of
+community urban
+management and
+Build a supervision platform for roadside
+communities in Huli District by environmental
+Smart
+combining existing Huli sanitation
+community
+18 population, enterprise, video, conditions, use
+supervision
+emergency, fire, and emergency fire data
+system
+neighborhood information, to quickly respond to
+building information, etc., emergencies,
+introduce AI for
+facility maintenance
+and community
+interaction, and raise
+
+Contact
+Divisions(s)
+Application Person and
+No. District Work Unit or Office(s) with Core Requirements Expected Results
+Scenario Telephone
+Requirements
+Number
+resident
+participation levels
+Deploy roving patrol drones with
+automatic hangars, use AI-based Improve the
+flight route planning to achieve discovery of illegal
+automatic identification of illegal construction, reduce
+buildings and of urban the occurrence of
+Low-altitude AI- appearance, coastal defense line, coastal security
+19 based roving and urban village issues, problems, and
+patrol system automatically identify illegal improve efficiency in
+construction, garbage the detection of
+accumulation, and other safety hazards such
+problems, and establish a as objects falling
+handling mechanism featuring air- from heights
+ground linkage
+Deploy environmental sensors
+and video surveillance in public Shorten average
+restrooms district-wide, and use wait times for city
+AI-based smart
+AI to automatically adjust residents using
+public restroom
+20 ventilation and odor control public restrooms and
+management
+equipment, monitor restroom improve facility
+system
+occupancy status, and push real- maintenance request
+time availability information via a response times.
+mobile app.
+Integrate GIS, BIM, and IoT data Reduce pipeline
+to build a 3D pipeline network network
+Underground
+model, use AI to predict pipe maintenance costs
+21 pipeline network
+aging and leakage risks, and and shorten urban
+digital twin
+simulate drainage capacity during flooding response
+heavy rainfall. times.
+Integrate meteorological data,
+historical disaster databases, and
+Intelligent Provide earlier
+video surveillance to build flood
+decision-making warning of disaster
+prediction models and to
+22 system for flood severity and improve
+dynamically generate material
+and typhoon emergency resource
+dispatching plans and evacuation
+mitigation allocation efficiency.
+route optimization
+recommendations.
+Integrate public security,
+Improve the
+transportation, and community
+Important accuracy of mass
+data to build dynamic trajectory
+person behavior incident (群体性事件)
+23 models for persons of concern (涉
+trajectory early warnings and
+稳人员), and use AI to predict
+prediction increase incident
+increased risks and generate
+handling efficiency.
+surveillance plans.
+Based on school district
+population data and school
+capacity, dynamically predict Provide enrollment
+Intelligent
+enrollment gaps, and use AI to predictions and
+matching of
+24 generate recommendations for improve the fairness
+educational
+school expansion or new of educational
+resources
+construction site selection, so as resource allocation.
+to optimize the allocation of
+educational resources.
+
+Contact
+Divisions(s)
+Application Person and
+No. District Work Unit or Office(s) with Core Requirements Expected Results
+Scenario Telephone
+Requirements
+Number
+Improve the
+Build student learning analysis
+coverage rate of
+models, identify knowledge gaps
+personalized
+AI-based through homework correction and
+learning plans for
+25 precision classroom interaction data, and
+students and
+teaching system dynamically generate tiered
+increase the degree
+practice questions and micro-
+of mastery of key
+lesson videos.
+knowledge points.
+Reduce lab teaching
+Develop VR/AR lab systems for accident rates and
+Virtual lab subjects such as physics and increase the rate of
+26 teaching chemistry, use AI to correct lab classes offered
+platform operating errors, and simulate by schools deficient
+dangerous experimental scenarios in teaching
+resources.
+By integrating city brain systems
+with shopping district cameras Enhance overall
+Shopping
+and POS data, AI will identify foot revenue in shopping
+district
+traffic, consumption hotspots, and districts and improve
+27 consumer
+customer stay times, and generate merchants’ site
+behavior
+store layout optimization plans occupancy
+analysis
+and promotional strategy satisfaction.
+recommendations.
+Deploy AI visual weighing
+systems in large supermarkets to Improve checkout
+Intelligent retail identify fresh produce in 0.2 efficiency, increase
+visual seconds and automatically shelf turnover rate
+
+management calculate prices, and by 45%, and reduce
+system simultaneously analyze shelf manual stocking
+display heat maps to optimize costs.
+product layout.
+Deploy AR glasses in southern
+Fujian-style traditional house (闽 Lengthen the
+南古厝) conservation areas or average visitor stay
+AR historical
+other protected areas. Use AI to time and increase
+29 district tour
+restore the historical appearance cultural
+guide system
+of buildings, and combine with communication
+LBS technology to trigger efficiency.
+immersive cultural scenarios.
+Use motion capture
+technology to record
+Use motion capture technology to intangible cultural
+record intangible cultural heritage heritage techniques
+Intelligent
+techniques such as lacquer thread such as lacquer
+intangible
+30 embossing (漆线雕), and develop thread embossing,
+cultural heritage
+an AI teaching system to correct and develop an AI
+platform
+learners’ technique deviations in teaching system to
+real time correct learners’
+technique deviations
+in real time
+Predict the
+City governance Use AI algorithms combined with Li Yutong
+Haicang probability of
+31 District Data Administration – emergency data collected from various IoT 0592-
+District occurrence and
+management sensors to conduct analysis. 6803739
+impact range of
+
+Contact
+Divisions(s)
+Application Person and
+No. District Work Unit or Office(s) with Core Requirements Expected Results
+Scenario Telephone
+Requirements
+Number
+natural disasters in
+advance; use AI to
+assist in formulating
+rescue plans and
+allocating rescue
+resources.
+Use AI to analyze hydrological
+Improve the
+data, meteorological data, and
+City governance accuracy and real-
+32 data collected from high-altitude
+– flood warning time nature of flood
+cameras and environment-
+warnings.
+monitoring IoT sensors.
+Provide decision-
+making support for
+mediators; use
+City governance
+Use AI to extract and analyze key intelligent chat
+– conflict and
+33 information from conflict and technology to
+dispute
+dispute cases. provide conflict and
+resolution
+dispute mediation
+consultation services
+to the public.
+Intelligent review and approval,
+automatic comparison and
+verification of standardized Improve review and
+
+materials, and intelligent analysis approval efficiency.
+and processing of non-
+standardized materials.
+Yang Youmei
+Intelligent customer service:
+Reduce the number 0592-
+Achieve automatic updating of
+of offline 6803182
+policy knowledge bases, and
+consultation visits,
+Administrative quickly respond to and answer
+35 and provide 24-hour
+review and common questions; accurately
+uninterrupted online
+approval match with services based on the
+consultation and
+service requirements of the public,
+guidance services.
+and provide intelligent guidance.
+Intelligent review and approval:
+Online review of pension
+Make offices
+insurance premium subsidies and
+paperless and raise Lin Li
+36 applications for unpaid funds for
+work efficiency and 18859292577
+persons subject to land
+service levels.
+expropriation, and large-scale
+data processing.
+Improve diagnostic
+Accurate disease identification accuracy, shorten
+and diagnosis recommendations, diagnosis times, and
+Education and Lin Wei 0592-
+37 District Health Bureau processing of vast quantities of help physicians
+healthcare 6055002
+data, and medical equipment develop
+integration. personalized
+treatment plans.
+Intelligent expedited reporting
+reminders for statistical reports: Improve efficiency of
+38 Li Chunyan
+Livelihood System will intelligently remind expedited reporting.
+District Bureau of Statistics 0592-
+assurance non-reporting enterprises.
+
+Wholesale enterprises are Materials will be
+
+basically petrochemical-related collected in a
+
+Contact
+Divisions(s)
+Application Person and
+No. District Work Unit or Office(s) with Core Requirements Expected Results
+Scenario Telephone
+Requirements
+Number
+(mostly petroleum trading center standardized
+enterprises). The number of manner through the
+enterprises included in statistics intelligent system.
+increases annually, but the Professional staff
+statistical materials entered for will conduct final
+such enterprises are largely the reviews after
+same. An intelligent system preliminary review
+procedure can be configured to by the system,
+allow these enterprises to thereby increasing
+independently submit materials, review efficiency.
+which the system would review
+automatically.
+Intelligent
+customer service
+for college
+entrance exams, Provide multilingual Improve customer
+junior high understanding and replies, satisfaction and You Jingxian
+District Education Admissions
+40 school entrance respond rapidly, and learn provide 24-hour 0592-
+Examination Center
+exams, high answers to frequently asked uninterrupted 6800625
+school entrance policy questions. service.
+exams, and
+student financial
+aid
+Raise screening
+Data analysis to identify common effectiveness and
+issues and provide schools a basis provide timely
+for formulating intervention warnings; assist in
+Student mental measures; automated carrying out teacher
+health comprehensive assessment and and parent support, Zheng Xiaoling
+
+counseling and early warning; virtual as well as crisis 18030230708
+services psychological counseling and intervention
+personalized recommendations; emergency
+teacher and parent support, and response, and
+crisis intervention. streamline
+responses.
+Provide teachers with AI teaching
+assistants to help them with
+functions such as homework
+Intelligent correction, learning analysis, weak Improve teaching
+District Teacher Training School
+42 teaching point resource recommendations, efficiency and
+assistants intelligent question answering, quality.
+personalized learning plans, and
+teaching effectiveness
+assessment and feedback.
+To systematize and intelligentize Yan Boyuan
+all aspects of campus 13616030520
+management, integrate functions
+including information query and
+Raise campus
+statistics, data entry and analysis,
+Smart education management
+43 business process handling, review
+management efficiency and
+and approval of various
+standards.
+applications, teacher and student
+profiling and development
+evaluation, academic affairs
+management, moral education
+
+Contact
+Divisions(s)
+Application Person and
+No. District Work Unit or Office(s) with Core Requirements Expected Results
+Scenario Telephone
+Requirements
+Number
+management, home-school
+interaction, teaching and research
+management, and teaching
+resource management.
+Effectively improve
+residents’ civility
+literacy; make the
+Develop online civility literacy
+urban environment
+courses to achieve personalized
+cleaner and more
+District Party teaching in civility cultivation and
+Smart civility orderly, efficiently Lin Wenzu
+44 Committee Civility improve educational outcomes;
+creation advance civility 17750627907
+Office (文明办) quickly and accurately identify
+creation work, and
+issues in civility creation, and raise
+significantly improve
+the level of urban civility.
+the overall civility
+image of Tong’an
+District.
+Generate drafts of
+news articles, policy
+interpretations,
+propaganda copy,
+etc., and respond
+quickly to hot topics
+and policy releases.
+Automatically
+District Party
+proofread and
+Committee
+optimize language
+Propaganda Automated content production;
+expression to ensure
+Department intelligent editing and
+that propaganda
+Tong’an News and optimization; multilingual
+45 content is accurate,
+District propaganda translation and dissemination;
+concise, and easy to
+fact-checking and source
+understand. Real-
+Propaganda verification. Li Qingjie
+time multilingual
+Affairs Center 18605988737
+translation to
+facilitate
+international
+dissemination.
+Automatically
+compare multiple
+sources to verify the
+accuracy of
+propaganda content.
+Virtual hosts or
+holographic
+Press projection
+46 Virtual press conferences
+conferences technology for
+hosting virtual press
+conferences.
+Examine the development status
+District of industries, key areas, and Provide industry
+Development Investment Industry production chains district-wide in trend analysis and Lin Yifang
+
+and Reform Section analysis real time, analyze existing issues, targeted industry 18805929276
+Bureau and provide development analysis reports.
+recommendations.
+
+Contact
+Divisions(s)
+Application Person and
+No. District Work Unit or Office(s) with Core Requirements Expected Results
+Scenario Telephone
+Requirements
+Number
+Quickly query
+policies and
+historical
+Proofreading, information
+documents; rapidly
+Information retrieval, knowledge base Tong Mingyao
+48 generate visual
+management construction, and data table 13015747199
+statistical tables,
+automation
+and predict trends
+based on historical
+data
+Through the
+Analyze the trends,
+provision of
+characteristics, strengths, and
+economic data and
+weaknesses of the region’s
+some work Huang Lijuan
+Economic current economic operations,
+49 materials, prepare 0592-
+operations provide work recommendations,
+economic operation 7558786
+and assist in the preparation of
+analysis reports in
+economic operation analysis
+accordance with
+reports
+requirements
+Carry out functional identification
+Achieve intelligent
+with regard to the necessity of
+processing of
+Intelligent construction during prohibited
+construction permits
+50 review and nighttime and midday hours as
+for construction
+approval proposed by construction work
+during nighttime and
+Environmental units, and make review and Wang Rundi
+midday hours
+Protection Section approval decisions 15980793216
+Predict future changes in air Real-time analysis
+quality based on existing and prediction of air
+Air quality
+51 automatic air quality monitoring quality changes in
+prediction
+Ecological station data in combination with the area of
+Environment weather forecasts. jurisdiction.
+Bureau Use AI to identify whether
+Intelligent sewage outlets are abnormal, Achieve off-site
+52 control of remotely trigger automatic supervision and
+sewage outlets sampling monitoring functions, precise control
+and transmit data
+Lin Zhiwen
+Ecology Section Intelligent identification of marine
+Intelligent 18905922567
+Rapid marine debris, real-time transmission of
+identification and
+debris QR code location photos to the
+53 precise, rapid
+identification ground, and dispatching of debris
+cleanup of marine
+and positioning cleanup tasks through Amap work
+debris
+maps (mapping app)
+Quickly determine whether
+applicants’ uploaded materials
+Quickly compare
+Intelligent are complete, whether applicants
+materials prior to
+54 review and meet the application criteria, and
+review and flag any
+approval whether uploaded forms have
+errors.
+been filled out completely and Xiao Yang
+District Data Government
+correctly. 0592-
+Administration Service Center
+Add intelligent inspection Conduct rapid 3757076
+functions for applicant information inspection and
+Intelligent
+and materials at each stage of the assessment of
+55 review and
+business handling system. information such as
+approval
+Conduct rapid inspection and review and approval
+assessment of information before materials and
+
+Contact
+Divisions(s)
+Application Person and
+No. District Work Unit or Office(s) with Core Requirements Expected Results
+Scenario Telephone
+Requirements
+Number
+materials are submitted, and applicant eligibility,
+provide alerts for possible errors. assess whether
+Reduce the likelihood of review approval decisions
+errors and shorten review and may be incorrect,
+approval times. and provide
+reminders of
+possible errors.
+Assessment decision
+accuracy greater
+than 80%.

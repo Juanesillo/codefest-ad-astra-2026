@@ -1,0 +1,1097 @@
+Overcoming the Long
+Shadow of the Past
+Defense AI in Japan
+Ein Projekt im Rahmen von
+Motohiro Tsuchiya
+DAIO Study 24|23
+
+About the Defense AI Observatory
+The Defense AI Observatory (DAIO) at the Helmut Schmidt University in Hamburg
+monitors and analyzes the use of artificial intelligence by armed forces. DAIO comprises
+three interrelated work streams:
+Culture, concept development, and organizational transformation in the context of
+military innovation
+Current and future conflict pictures, conflict dynamics, and operational experience,
+especially related to the use of emerging technologies
+Defense industrial dynamics with a particular focus on the impact of emerging
+technologies on the nature and character of techno-industrial ecosystems
+DAIO is an integral element of GhostPlay, a capability and technology development
+project for concept-driven and AI-enhanced defense decision-making in support of fast-
+paced defense operations. GhostPlay is funded by the Center for Digital and Technology
+Research of the German Bundeswehr (dtec.bw). dtec.bw is funded by the European Union
+– NextGenerationEU.
+Ein Projekt im Rahmen von
+
+Overcoming the Long
+Shadow of the Past
+Defense AI in Japan
+Ein Projekt im Rahmen von
+Motohiro Tsuchiya
+DAIO Study 24|23
+
+About the Author
+Dr. Motohiro Tsuchiya is a professor at the Graduate School of Media and Governance at
+Keio University in Japan. He also serves as Vice-President for Global Engagement and In-
+formation Technology at Keio University from . Prior to joining the Keio faculty,
+he was associate professor at Center for Global Communications (GLOCOM), International
+University of Japan. He is interested in the impact of the information revolution on interna-
+tional relations; regulations regarding telecommunications and the Internet; global gov-
+ernance and information technologies; and cyber security. He authored Cyber Security and
+International Relations (Tokyo: Chikura Shobo, 2015, in Japanese), The Age of Revelation
+(Tokyo: KADOKAWA, 2016, in Japanese), Cyber Great Game (Tokyo: Chikura Shobo, 2020,
+in Japanese) and co-authored more than 40 books including Cybersecurity: Public Sector
+Threats and Responses (Boca Raton, FL: CRC Press, 2012, in English) and Information
+Governance in Japan: Towards a New Comparative Paradigm (SVNJ eBook series, Kindle
+Edition, 2016). He earned his BA in political science, MA in international relations, and
+Ph.D. in media and governance from Keio University.
+Acknowledgments
+The author thanks former and active Japanese government officials and Self-Defense
+Forces officers for their insights and directions to relevant documents, and Heiko Borchert,
+Torben Schütz, and Joseph Verbovszky for helpful suggestions. However, responsibilities for
+content of this report goes to the author.
+Design
+Almasy Information Design Thinking
+Imprint
+Motohiro Tsuchiya, Overcoming the Long Shadow of the Past. Defense AI in Japan.
+DAIO Study 24/23 (Hamburg: Defense AI Observatory, 2024).
+An adapted version of this paper will appear in: Heiko Borchert, Torben Schütz and Joseph
+Verbovszky (eds.) The Very Long Game. 25 Case Studies on the Global State of Defense AI
+(Cham: Springer, forthcoming).
+Defense AI Observatory | Chair of Political Theory | Helmut Schmidt University
+Holstenhofweg 85 | 22043 Hamburg | T +49 40 6541 2776
+ | contact@defenseai.eu | @Defense_AIO
+ISSN (online): 2749-5337
+ISSN (print): 2749-5345
+4 OVERCOMING THE LONG SHADOW OF THE PAST
+
+Content
+1 Executive Summary .................................................................................................... 6
+2 Thinking About Defense AI ....................................................................................... 7
+3 Developing Defense AI. ........................................................................................... 14
+4 Organizing Defense AI ............................................................................................. 20
+5 Funding Defense AI ................................................................................................. 24
+6 Fielding and Operating Defense AI. ....................................................................... 26
+7 Training for Defense AI ............................................................................................ 29
+8 Conclusion. ................................................................................................................ 32
+Literature ...................................................................................................................... 34
+WWW.DEFENSEAI.EU 5
+
+1 Executive Summary
+Since the end of World War II, Japan has not had a full-fledged
+military, but only Self-Defense Forces (SDF) for the sole purpose of
+defensive defense. Hesitancy exists in society, especially in academ-
+ia, to research and develop technologies that could be diverted to
+military use. This has created a long shadow of the past in which
+public opinion, strategic culture, and the academic-industrial eco-
+system mutually reinforce each other not to directly address defense
+technologies. However, with the recent deterioration of the national
+security environment around Japan, such hesitance is weakening,
+and research and development of technologies that can be applied
+to defense purposes is now being conducted, also in cooperation
+with partners like the United States, the United Kingdom, and
+others.
+Discussions about artificial intelligence (AI) for defense purposes
+began in earnest around 2022, with descriptions found in govern-
+ment and defense ministry documents, and budget appropriations
+beginning to be made. However, the budget size is miniscule and
+no special organization for defense AI exists. In addition, there is
+no plan to use defense AI in earnest in defense operations, and it
+is merely positioned as one of the technologies that are attracting
+widespread attention. Attempts to deepen the knowledge of AI
+among SDF personnel have only just begun.
+6 OVERCOMING THE LONG SHADOW OF THE PAST
+
+2 Thinking
+About
+Defense AI
+WWW.DEFENSEAI.EU 7
+
+A search of the database of the Nihon Keizai Shimbun (Nikkei), the most widely
+read newspaper by Japanese businesspeople, shows that the first article in which
+the words “artificial intelligence” (AI) and “defense” appear simultaneously was on
+12 .1 After that, there are some reports on AI use on defense equipment
+and cyber defense.
+Contrary to these public reports, aeronautical and space science journals dis-
+cussed defense AI much earlier. In 1983, Tamotsu Sakamoto of the 3rd Research
+Institute of the National Defense Agency’s Technical Research Headquarters
+published a paper titled “On Navigation Using Artificial Intelligence Search Meth-
+ods.”2 However, when this paper was written, deep learning was not yet in use.
+A paper with a similar perspective was published in 1990. In their paper Akira
+Soga and Hideo Nakashima wrote, “artificial intelligence application systems,
+including expert systems, have been studied and developed overseas, especially
+in the United States, under the Strategic Computing Program (SCP) and other
+programs. In contrast, in Japan, research and development tends to be conduct-
+ed mainly for industrial applications.”3 The paper focused on systems for use on
+manned aircraft, and it does not examine the use of autonomous AI to control
+current unmanned aircraft.
+Japan’s defense policy is called “exclusively defensive defense.” The Japanese
+constitution after World War II does not allow Japan to have full-fledged military
+forces and the Japanese nation clings to peace-oriented diplomacy. The so-called
+Yoshida Doctrine, which was named after Prime Minister Shigeru Yoshida, was
+the basis of Japan’s diplomacy, defense policy and economic policy. The doctrine
+guided the Japanese government to allocate more resources towards the econ-
+omy while keeping lower defense spending under the nuclear umbrella based
+on the Japan-U.S. Security Treaty. That combination of policies enabled Japan
+to recover quickly from the destruction of World War II. This situation has been
+changing step by step as threat perceptions are altered by external incidents.
+However, there is a strong long shadow of the past in the use of technologies for
+defense purposes.
+After the end of World War II, a general understanding emerged to avoid research
+on military-related technologies. Consequently, Japan has been reluctant to dis-
+cuss military applications of new technologies, including AI. The Science Council
+of Japan was established in 1949, soon after the end of World War II. The fol-
+lowing year, in 1950, the Council issued a “Statement of Determination to Never
+1 “FY2012AIBudget,FocusonDevelopmentInfrastructure:200BillionYen,Doubled(24年度AI予算、開発インフラに重点
+倍の2000億円視野).”
+2 Sakamoto,“OnNavigationUsingArtificialIntelligenceSearchMethods.”
+3 Soga/Nakashima,“ApplicationofArtificialIntelligencetoAircraftNavigationDevicesandProblems.”
+8 OVERCOMING THE LONG SHADOW OF THE PAST
+
+Follow Scientific Research for the Purpose of War,” and in 1967 it issued a “State-
+ment of No Scientific Technology for Military Purposes.” This post-World War II
+atmosphere was based on the reflection that the academic community, including
+universities, had been mobilized for war.
+However, with the outbreak of the Korean War in 1950, the General Headquarters
+of the Allied Forces (GHQ) decided to change the policy of demilitarization of
+Japan, and in , paramilitary organizations called the Japan Police
+Reserve Corps and the Coastal Safety Force were established by GHQ. The Police
+Reserve Corps was reorganized as the National Safety Forces in 1952 and reor-
+ganized as the Ground Self-Defense Force in 1954. At the same time, the Coastal
+Safety Force became the Maritime Self-Defense Force, and the Air Self-Defense
+Force was newly organized. The three Self-Defense Forces were not full military
+forces like those of other countries, but rather constitutionally based organizations
+with an exclusively defensive defense purpose. It took 53 years for the Defense
+Agency, which oversaw the Self-Defense Forces (SDF), to become a ministry as the
+Ministry of Defense in 2007.
+Defense spending, but not military spending, subsequently increased as Cold War
+tensions rose, and there were calls for more defense equipment. However, the
+response of the Science Council of Japan and universities was weak, and there
+was no atmosphere of active cooperation, even for the sake of exclusive defensive
+defense.
+When the Cold War ended with the Malta Summit, the fall of the Berlin Wall in
+1989, and the dissolution of the Soviet Union in 1991, calls for an expansion of the
+defense industry weakened.
+However, in 1998, when North Korea launched a Taepodong missile and it passed
+over Japanese territory, the North Korean military threat was rapidly recognized
+and came to be known as the “Taepodong Shock.” Simultaneously, China’s gradu-
+al military buildup began to be viewed as a cause for concern. By that time, voices
+denying the existence of the SDF had weakened in Japanese society; rather, the
+development of defense forces on an appropriate scale was considered essential.
+Nevertheless, there was a political consensus that defense spending should be
+limited to 1% of GDP, and this was maintained until recently.
+However, when the second Shinzo Abe’s administration was formed in 2012,
+threats by North Korea and China became more obvious and the Abe adminis-
+tration set up “proactive pacifism” as a matter of defense policy. In , the Abe administration approved the National Defense Program Guidelines
+(NDPG). The document states:
+WWW.DEFENSEAI.EU 9
+
+From the aspect of security, it is necessary to utilize civilian technology ef-
+fectively also in the field of security through regularly assessing the trend in
+science and technology including information related to technological devel-
+opment as well as consolidating the capabilities of the government, industry
+and academia. Under such recognition, the Ministry of Defense will strive to
+make effective use of civilian technology that can also be applied to defense
+(dual-use technologies), by enhancing partnerships with universities and re-
+search institutes, while strengthening technology control functions to prevent
+the outflow of advanced technologies.4
+However, the 2013 National Defense Program Guidelines contained no mention of
+AI. Yet, while a shift towards defense technologies in government and academia
+is occurring, the debate over artificial intelligence gradually coincided. The first
+Defense Program Guidelines that mentions AI were released in ,
+also under the Abe administration, indicating that:
+Due to advances in military technologies, a variety of threats can now easily
+penetrate national borders. States endeavor to develop weapons that lever-
+age cutting-edge, potentially game-changing technologies. They also engage
+in research of autonomous unmanned weapon systems equipped with artificial
+intelligence (AI).5
+It also stated that one of the measures to strengthen the basis of human resources
+is to “make focused investments through selection and concentration in important
+technologies including artificial intelligence and other potentially game-changing
+technologies.”6
+In response to the 2018 National Defense Program Guidelines, the Ministry of
+Defense showed plans to introduce AI to use it to automate cyber defense, trans-
+late military and defense-related data, and manage equipment (determine repair
+points and the need to replace parts).7
+The National Defense Program Guidelines were renamed the National Defense
+Strategy when it was released four years later in . There is a refer-
+ence to AI in the following statement:
+Furthermore, rapid advances in science and technology are fundamentally
+changing the nature of security, and countries are developing advanced tech-
+nologies that could be so-called game changers, transforming the future face
+4 NationalDefenseProgramGuidelinesforFY2014andbeyond,p.28.
+5 NationalDefenseProgramGuidelinesforFY2019andbeyond,pp.3-4.
+6 Ibid.,p.24.
+7 “ExpandingAIDeploymentforCyberDefenseinEquipmentRepair(サイバー防衛にAI導入拡大 装備品補修で).”
+10 OVERCOMING THE LONG SHADOW OF THE PAST
+
+of warfare. Among these, China is rapidly promoting technological innovation
+and its application to the military under the name of “military-civilian fusion
+development strategy,” and in particular is accelerating the enhancement of
+military capabilities based on unmanned assets utilizing artificial intelligence
+(AI). These trends are causing fundamental changes in traditional military
+structures and ways of fighting.8
+In the “Defense Buildup Program” announced with the 2022 National Defense
+Strategy, a more in-depth description of AI can be found.9 First, as a response to
+information warfare, including in the cognitive domain, the Plan states:
+In addition, the following functions will be developed: automatic collection
+and analysis of open-source information using artificial intelligence (AI), which
+will enable continuous collection and analysis of information on trends in each
+country; automatic collection of information on social networking sites, etc., to
+determine the authenticity of information communicated by each country; and
+future forecasting functions for estimating the security situation.10
+In relation to command, control, and information-related functions, the plan seeks
+to “accelerate decision-making through the use of Artificial Intelligence (AI), etc.,
+while strengthening the resiliency of the network.” In about ten years, the report
+continues, Japan will “reinforce information gathering and analysis capabilities
+through the use of AI, etc., while enhancing the system for persistent information
+gathering and sharing.”11
+Colonel Hiroshi Ito, who worked in cyber defense in the Japan Ground Self-De-
+fense Force, notes that AI will be used in all kinds of weapons in the future.12 AI
+will extend human intellectual capabilities as an aid to humans and will play the
+role of a calm responder on behalf of humans. He points out that at present AI has
+five advantages:
+1. Can learn
+2. Able to handle a wide variety and large volume of data
+3. Has high processing speed
+4. Can share what it has learned with other Ais
+5. Has no human error.
+8 NationalSecurityStrategy.
+9 DefenseBuildupProgram.
+10 Ibid.,p.15.
+11 Ibid.,p.51.
+12 Ito,“NewBattlefieldBroughtAboutbytheLatestWeaponsandtheirImpactonInternationalPolitics,”pp.68-70.
+WWW.DEFENSEAI.EU 11
+
+The destination, he says, is the unmanned battlefield. However, there are concerns
+about autonomous weapons, and he appeals for an urgent debate on laws, ethics,
+and policies to shape the development of this technology. This debate should be
+“human-centric” with AI elevating, not controlling or dominating human capa-
+bilities, as Japan’s Ambassador to the United Nations underlined in .13 In line with this position, Japan signed the Political Declaration on Respon-
+sible Military Use of AI and Autonomy and joined a US-led initiative to regulate
+defense AI in .14 The government also decided to set up a new
+organization in 2024 to “explore AI security issues, including the risk of civilian AI
+technology being diverted for military purposes.”15
+The 2023 Defense White paper mentions AI nineteen times (including in the
+headlines). It is mentioned in the defense policy descriptions of AUKUS, Australia,
+China, India, the United States, and Russia. The section that mentions AI the most
+is Section 1 “Trends in Science and Technology Expanding to Information War-
+fare” in Chapter 4 “Trends in Space, Cyber, and Electromagnetic Fields, Informa-
+tion Warfare, and Other Issues for the International Community.” It covers about
+half a page and describes the defense applications of AI in various countries and
+internationally. However, there is little explanation of Japan’s own defense use of
+AI. After reiterating the items presented in the “ Defense Buildup Program,” the
+following statement is made in the “Efforts to Enhance Intelligence Analysis and
+Other Functions” section:
+In order to win battles in a situation in which the battle situation will become
+more rapid and complex in the future, it is necessary to establish a system
+that enables real-time information sharing by making maximum use of various
+means, including artificial intelligence (AI), and further strengthening capabili-
+ties such as information gathering and analysis, and to continuously and more
+accurately grasp the intentions and capabilities of countries surrounding our
+country.16
+On 25 , the Japanese government held the first meeting of “the
+Council of Ministers Concerned with Research and Development and Public
+Infrastructure Development that Contribute to Strengthening the Comprehensive
+Defense Systems.”17 Among R&D for civilian use, nine areas, including AI and
+cyberattack countermeasures, were designated as “key technology issues” that
+13 Ishikane,“StatementattheeventforthePoliticalDeclarationonResponsibleMilitaryUseofArtificialIntelligenceandAutonomy.”
+14 Dominguez,“JapanjoinsU.S.-ledefforttoregulatemilitaryuseofAI.”FormoreonJapan’sapproachtoAIregulation,seealso:
+Habuka,“Japan’sapproachtoAIregulationanditsimpactonthe2023G7Presidency”andHinata-Yamaguchi,“MilitaryAIin
+JapanandSouthKorea,”pp.208-210.
+15 Yasoshima/Hirosawa/Nagao,“ChatGPT,otherAItobestudiedformilitaryriskbynewJapanbody.”
+16 DefenseWhitePaper2023,p.308.
+17 “TheFirstMeetingoftheCouncilofMinistersConcernedwithResearchandDevelopmentandPublicInfrastructureDevelop-
+mentthatContributetoStrengtheningtheComprehensiveDefenseSystems,”2023.
+12 OVERCOMING THE LONG SHADOW OF THE PAST
+
+will contribute to strengthening the defense system, and the government con-
+firmed its policy to work on them across ministries and agencies (Table 1). At the
+meeting, the chairman, Chief Cabinet Secretary Hirokazu Matsuno, emphasized
+the importance of “breaking down the stove-piping between ministries and agen-
+cies and strengthening the comprehensive defense system in order to efficiently
+utilize the resources and capabilities of our entire nation.18
+Table 1: Key Technology Issues
+Field Contents
+Energy Newenergysources,high-performanceenergystorage,high-powerenergy
+projection,etc.
+Sensing Establishmentofhigh-precisionpositioning,navigation,andtimemeasurement
+methods;high-precisionsensingofpeople,objects,andtheenvironment;higher
+performancesensingthanconventionalmethods(quantumsensing,biosensing,
+etc.),etc.
+Comput- High-speed,high-efficiencynewprinciplecomputing(quantum,optical,brain-
+ing type,etc.),high-efficiencyarithmeticprocessingofhugeamountsofdata,etc.
+Datapro- Highlyaccuratepredictionofthefuture,advancedartificialintelligence,improve-
+cessing ment,andenhancementofcognitiveabilities(includingmedicalcare),etc.
+Telecom- Establishmentofhigh-speed,high-capacity,highlysecure,andhigh-performance
+munica- informationandcommunicationdevicetechnologies(e.g.,communicationdevic-
+tions esthatcanbeusedinspace,etc.)
+Infor- Efficientandcontinuousdetection,prevention,andresponsetocyberattacks,
+mation enhancementofcyberresilience,advancedcryptography(quantumcryptogra-
+security phy,high-performancecryptography,etc.),etc.
+Material Creationofnewmaterials(includingmedicalmaterials),establishmentof
+advancedmanufacturingandprocessingmethods,etc.
+Unmanned Unmannedandautonomousmachines,advancedhuman-machineinterfaces,
+and auton- groupcontrolanddistributedcontrolamongmultiple,manned,andunmanned
+omous machines,etc.
+Machine Highlyfunctionalandhigh-performancemechanicalstructure,establishmentof
+hypersonicflighttechnology,long-duration,andlong-distancenavigation,etc.
+Source:“Regardinginitiativesthatcontributetostrengtheningthecomprehensivedefensesystem(ResearchandDevelopment).”
+18 Ibid.
+WWW.DEFENSEAI.EU 13
+
+3 Developing
+Defense AI
+14 OVERCOMING THE LONG SHADOW OF THE PAST
+
+The Japanese government’s defense policies are presented in three defense
+documents: the National Security Strategy, the National Defense Strategy, and
+the Defense Buildup Program.19 The Ministry of Defense is responsible for their
+implementation, but the Acquisition, Technology & Logistics Agency (ATLA) is
+responsible for the technical aspects. ATLA’s Technology Strategy Department
+conducts the Short-term Demonstration Project for New Technology. It is a project
+to “demonstrate the effectiveness of advanced technologies that are at the level
+of practical use in civilian applications by bringing together civilian engineers and
+operators in order to promptly solve problems faced by units and to promote
+their practical use in a short period of about three years.” The project also aims
+to “reduce defense product prices and maintenance costs by using the results of
+this project in civilian markets, etc.”20 Table 2 provides an overview of the projects
+related to AI launched within this framework.
+Table 2: AI Projects Launched by Acquisition, Technology & Logistics Agency
+Focus Year Bidder Contract Volume
+Constructionofatoolforanalyzingautomatic 2018 Unknown
+vesselidentificationdevicesusingartificial
+intelligence
+Streamlinesystemmaintenanceand 2019 unknown
+managementoperationsusingartificial
+intelligence
+Automaticgenerationoftrainingdataforidentifi- 2020 IHIJet LessthanJPY6M
+cationofsatelliteimagesbyartificialintelligence Service (around€38k)
+Fullyautomatedaeronauticalweatherobserva- 2020 Hitachi JPY44M
+tionusingartificialintelligence (around€277k)
+Constructionofasupportsystemforcreating 2021 Hitachi AroundJYP10M
+exercisescenariosusingartificialintelligence (around€63K)
+Source:ATLA,“InformationRelatedtoaBidResult.”
+19 NationalSecurityStrategy;NationalDefenseStrategy;andDefenseBuildupProgram.
+20 “Short-termDemonstrationProjectforNewTechnology.”
+WWW.DEFENSEAI.EU 15
+
+ATLA began the “Security Technology Research Promotion System” in FY2015,
+which recruits and funds research and development through an open application
+process.21 The launch of this system caused a major stir. This is because the Japa-
+nese academic community had been reluctant to research and develop technolo-
+gies that could be diverted to military use, but the Ministry of Defense and ATLA
+decided to break that trend and provide its own R&D funds for technologies that
+could lead to defense capabilities. In FY2017, 109 applications were received, of
+which 58 (53%) were from universities and other institutions, 22 (20%) from public
+research institutions, and 29 (27%) from companies.22
+However, because applications to the Security Technology Research Promotion
+System stirred controversial media coverage, the number of applications in
+FY2016 decreased to 44, with 23 (52%) from universities, 11 (25%) from public
+research institutions, and 10 (23%) from companies.23 In FY2017, however, the
+numbers returned, with 104 applications.24
+The first research on AI under this program appeared in FY2018. Natsuki Mat-
+sunami of Mitsubishi Heavy Industries, Ltd. was awarded the “Basic Research
+on Problem Coping by Collaboration of a Very Small Number of Humans and
+AI.”25 Mitsubishi Heavy Industries is one of Japan’s largest defense contractors.
+In FY2019, the development of AI to understand human states was included in
+“Development of a method for estimating latent brain dynamics and elucidation
+and control of mental state transitions,” for which Eiji Uchibe of Advanced Tele-
+communications Research Institute International (ATR) was awarded the contract.26
+Since then, a total of eleven studies on defense AI have been launched (Figure 1).
+Figure 1: Number of Studies Related to AI in the Research Promotion System for
+Security Technology
+
+1 1
+2018 2019 2020 2021 2022 2023
+Source:“SecurityTechnologyResearchPromotionSystem.”
+21 “SecurityTechnologyResearchPromotionSystem.”
+22 2015SecurityTechnologyResearchPromotionProgramOverviewofApplications.
+23 2016SecurityTechnologyResearchPromotionProgramOverviewofApplications.
+24 2017SecurityTechnologyResearchPromotionProgramOverviewofApplication.
+25 FiscalYear2018NewlyAdoptedResearchProjects.
+26 FY2019SecurityTechnologyPromotionSystem(SecondaryRecruitment)Application/AdoptionOverview.
+16 OVERCOMING THE LONG SHADOW OF THE PAST
+
+Despite a marginal number of applications, ATLA has shown strong interest in
+AI-related research. 31 research themes were listed by ATLA for the FY2023
+open call, including the following twelve that directly refer to AI in the title or
+description:27
+Fundamental research on sequential decision-making AI architectures that can
+build trust in unknown environments
+Basic research on AI to realize accurate predictions from all kinds of
+information
+Fundamental research on AI architecture with robustness in unknown
+environments
+Basic research on the improvement of cognitive and communicative functions
+through brain science
+Basic research on human cognitive support for multiple unmanned aircraft
+operation and control
+Basic research on cognitive security
+Basic research on security that automates protection against unknown attacks
+on wireless communications and cyber kill chain fragmentation
+Basic research on magnetic sensor technology
+Fundamental research on technologies for understanding materials and ob-
+jects in the ground or on the seafloor
+Basic research to significantly improve the performance of unmanned under-
+water and surface vessels and underwater vehicles
+Basic research to significantly improve the performance of aircraft and un-
+manned aerial vehicles
+Basic research to significantly improve the performance of vehicles and un-
+manned vehicles
+It is important to note that none of these calls and the respective projects are
+directly weapons-related. With a sense of aversion to military-related research still
+lingering, researchers remain reluctant to directly engage in military technology
+research. Against this backdrop, open calls are being made for technologies that
+are less military in nature but still applicable to defense.
+In addition to this funding for external research, development is also taking place
+within ATLA. At the Agency’s Technical Symposium 2019, AI was mentioned in
+three of the 16 oral sessions and 23 poster session summaries, thereby covering,
+among other things, the following topics:
+27 “AboutResearchThemesRelatedtoPublicOfferingsin2023.”
+WWW.DEFENSEAI.EU 17
+
+Taisuke Katayama, “R&D Vision: Achieving Multidimensional Integrated De-
+fense Capability and Beyond”
+Masataka Okubo, “An Attempt to Introduce Artificial Intelligence (AI) into Ship
+Design (Demagnetizer Gear Design)”
+Toshiro Kamitani, Hiroka Sano, and Kenji Hamano, “Target Categorization from
+Synthetic Aperture Radar Images”
+According to Okubo’s report, the work that had been done by skilled technicians
+was replaced by AI, and tens of millions of verifications can now be done in three
+to four hours, a significant time saving. Kamitani’s report examined the possibility
+of using AI to classify radar images.28 These reports are also being used within
+ATLA to meet actual defense needs.
+While Japan’s defense AI development priorities are still emerging, the SDF seems
+to have a primary interest in defense AI for C4ISTAR,29 unmanned systems, and cy-
+bersecurity.30 In all these fields, defense industrial expertise is important to devel-
+op solutions that meet the future defense AI needs of the SDF. Japanese defense
+companies31 are working on AI, although not necessarily for defense equipment.
+The demand for Japanese defense companies comes primarily from the civilian
+sector. AI is being developed for such civilian demand, and there is a high possi-
+bility that such technology and knowledge will be applied to defense equipment if
+necessary.
+Moreover, Japan also looks at international cooperation to develop emerging
+technologies and AI.32 In , Craig Martell, Chief Digital and AI Officer,
+US Department of Defense, visited Japan, Singapore, and South Korea to dis-
+cuss opportunities to “deepen cooperation associated with data, analytics, and
+the responsible deployment of AI.”33 These talks mirror long-standing bilateral
+interests in jointly advancing dual-use technology cooperation.34 To this purpose
+both countries signed a “project arrangement” in late to jointly
+develop AI for the use of Unmanned Aerial Vehicles (UAV) “that will be used in a
+‘loyal wingman’ role alongside” the Global Combat Air Program (GCAP).35 US-Jap-
+anese defense AI cooperation could become even more relevant should Japan
+join trilateral cooperation with Australia and the UK in the AUKUS framework.36
+28 “ATLATechnologySymposium2019.”
+29 C4ISTAR:Command,Control,Computers,Communication,Intelligence,Surveillance,TargetAcquisition,andReconnaissance.
+30 Hinata-Yamaguchi,“MilitaryAIinJapanandSouthKorea,”p.205.
+31 Foranin-depthassessmentofthedifficultiescurrentlyJapan’sdefenseindustry,seealso:Ouq/Ogi/Inoue,ComparativeStudy
+ofDefenseIndustries,pp.5-9.
+32 InthiscontextitisalsoimportanttounderstandthattheJapanesegovernmenteasedexistingarmsexportregulationsin
+December2023.Formore,see:Reuters,“Japanpreparesmissileshipmentsaftereasingarmsexportcurbs.”
+33 Vincent,“Pentagon’sdigitalandAIchiefworkstodeepenUStechtiesinvisitstoSingapore,SouthKoreaandJapan.”
+34 Tajima,“Japan,UStopromotecooperationondual-usetechnologies.”
+35 Kadidal/Kumar,“JapantodevelopAIwithUSfor‘LoyalWingman’UAVs.”
+36 Formoreonthis,seealso:Warren/Hunt/Warren,“AIcooperationbetweenAustralia,Japan,andtheUnitedStates.”
+18 OVERCOMING THE LONG SHADOW OF THE PAST
+
+The most recent agreement of Japan and Australia on joint research for the use of
+unmanned underwater vehicles for mine detection could be interpreted as anoth-
+er indicator supporting this interpretation. And this project could also potentially
+open doors for collaborative AI research.37
+In parallel to technology cooperation with the US, Tokyo and London have been
+extending technology ties as well. In , both nations adopted the “Hiro-
+shima Accord,” which outlines a strategic technology partnership, and renewed
+a science and technology agreement to cooperate on innovation and new tech-
+nologies.38 Expanding science and technology bonds are relevant given trilateral
+cooperation with Italy on the GCAP39 and recent developments in Japan’s strategic
+environment. In view of both aspects General Jim Hockenhull, Commander of the
+UK Strategic Command, recently underlined that by “using both the Japanese and
+the UK industrial base, (both nations) can generate even greater and even better
+capabilities, which play a part in any deterrence approach.”40
+In addition, Japan also engages with France on AI cooperation. According to
+ATLA, bilateral research cooperation includes mine-countermeasure technol-
+ogies, with AI being used to “identify targets from images obtained by mine
+detectors.”41
+In view of developing new defense capabilities with the help of AI and other
+emerging technologies, the MoD and the Ministry of Economy, Trade, and Indus-
+try seem serious to tap into Japan’s vibrant technology ecosystem. In mid-2023
+representatives from both ministries met with experts from around 200 startup
+companies covering AI, cybersecurity, and space applications. Follow-on meetings
+are reportedly scheduled.42 This initiative builds on earlier efforts aimed at launch-
+ing collaborative initiatives to involve startups working on AI in defense solutions
+for the SDF.43
+37 “Japan,Australiaagreeonjointresearchonmine-detectingUUV.”
+38 “TheHiroshimaAccord;”Evenstad,“UKrenewstechandsciencedealwithJapan.”
+39 Chuter,“Moveover,Tempest.”
+40 Kitado,“Cutting-edgetechkeytodeterTaiwanconflict:UKmilitaryofficer.”
+41 Majumdar,“Smartforces,”p.25.
+42 Prosser,“Japanaimstoboostdefenseindustrywith200startups.”
+43 Hinata-Yamaguchi,“MilitaryAIinJapanandSouthKorea,”p.203.
+WWW.DEFENSEAI.EU 19
+
+4 Organizing
+Defense AI
+20 OVERCOMING THE LONG SHADOW OF THE PAST
+
+In 2016, at the direction of Prime Minister Shinzo Abe, the Japanese government
+created the Strategic Council for AI Technology, which brings together the wisdom
+of industry, academia, and government and eliminates organizational silos.44
+On 31 , the Council released the “Artificial Intelligence Technology
+Strategy” presenting a three-phased approach: First, data-driven AI utilization will
+progress in each domain by around 2020; second, general use of AI and data will
+progress beyond the boundaries of individual domains by around 2025; and third,
+each domain will be connected in a complex manner by around 2030, creating an
+ecosystem.45
+Two years later, the Council released the “Strategic Action Plan for Artificial
+Intelligence Technology.”46 The plan aimed at promoting AI involving a diverse set
+of ministries – Ministry of Internal Affairs and Communications, the Ministry of Edu-
+cation, Culture, Sports, Science and Technology, the Ministry of Economy, Trade
+and Industry, the Cabinet Office, the Ministry of Health, Labor and Welfare, the
+Ministry of Agriculture, Forestry and Fisheries, and the Ministry of Land, Infrastruc-
+ture, Transport and Tourism – the action plan primarily targeted the industrial use
+of AI whereas AI for defense was not considered.
+Based on this strategy, AI research was to be conducted at three national research
+institutes:
+First, in the National Institute of Information and Communications
+Technology (NICT) established the AI Science Research and Development Pro-
+motion Center)47. However, NICT is a research institute under the Ministry of
+Internal Affairs and Communications (MIC) and does not conduct defense-re-
+lated research, apart from cybersecurity.
+Second is the Artificial Intelligence Research Center (AIRC) of the National
+Institute of Advanced Industrial Science and Technology (AIST).48 The center
+studies the application of artificial intelligence to the manufacturing, service,
+medical and nursing care, and security sectors. However, there does not
+appear to be any research focused on defense or military applications. The
+applications mentioned for the security sector are automatic explanation func-
+tions for videos and evacuation guidance during disasters.49
+Third is the Center for Advanced Intelligence Project (AIP) of the National
+Institute of Physical and Chemical Research (RIKEN). The Center has three
+44 “StrategicCouncilforAITechnology.”
+45 ArtificialIntelligenceTechnologyStrategy.
+46 StrategicActionPlanforArtificialIntelligenceTechnology.
+47 Kidawara,“AIScienceResearchandDevelopmentPromotionCenter.”
+48 Formoreinformation,see:
+49 Formoreinformation,see:
+WWW.DEFENSEAI.EU 21
+
+research groups: the Generic Technology Research Group, the Goal-Oriented
+Technology Research Group, and the Artificial Intelligence in Society Research
+Group.50 However, these groups do not appear to be conducting research
+directly related to defense.
+On 11 , the Japanese government, via the Integrated Innovation
+Strategy Promotion Council, released “AI Strategy 2019: AI for People, Industry,
+Region, and Government.”51 The document focuses on education and industry;
+again defense applications were not considered. Two years later, in , the
+Japanese government published the “AI Strategy 2021,” but again, the Ministry
+of Defense’s efforts were not explicitly mentioned. In response to this AI Strategy
+2021, the AI Strategy Executive Council established the “New AI Strategy Study
+Council.” The “AI Strategy 2022” was the first capstone document to refer to AI in
+relation to security with the following statement:
+In view of the increasingly complex international situation and changes in
+socio- economic structures, various initiatives are being considered for im-
+portant technologies including AI from the perspective of economic security.
+Therefore, it is necessary to coordinate related measures so that the govern-
+ment as a whole can effectively prioritize them.52
+However, this refers to economic security (or geo-economics), not military security.
+The following statement was also included:
+Pursue fusion of AI and Japan’s strengths to address challenges unique to
+Japan ([1] health, medical care, and nursing care; [2] agriculture; [3] infrastruc-
+ture and disaster prevention; [4] transportation infrastructure and logistics; [5]
+regional revitalization; [6] manufacturing; and [7] security).53
+Attached to the 2022 strategy was a “List of AI Strategy 2022 Initiatives,” in which
+the Ministry of Defense included a section on “Promoting Research on the Ap-
+plication of AI Technology to Contribute to the Defense of Japan.”54 This is the
+first documents that brings AI and defense together and underlines the Japanese
+government’s growing awareness of addressing this issue.
+According to the AI Strategy 2022 progress report published in , the
+Ministry of Defense is addressing defense AI by bringing in experts from the
+outside and stepping up training efforts. In addition, the Ministry also intends to
+50 Formoreinformation,see:
+51 AIStrategy2019:AIforPeople,Industry,Region,andGovernment.
+52 AIStrategy2022,p.3.
+53 Ibid.,p.27.
+54 ListofAIStrategy2022Initiatives.
+22 OVERCOMING THE LONG SHADOW OF THE PAST
+
+enhance the capabilities of equipment used by the SDF, including detection and
+identification.55
+On 11 , the Japanese government held the first meeting of the AI
+Strategy Council of experts together with the relevant Ministers. Prime Minister
+Fumio Kishida attended the first meeting. About two weeks later, the Council met
+again, discussed several topics and issues. Among others, the following statement
+is noteworthy:
+AI is also an important tool in global issues such as security, disaster manage-
+ment, and global warming countermeasures, and our country needs to work
+on technological innovation together with like-minded countries.56
+There is an argument that the use of AI is important in security-related matters
+as well, but it should be handled flexibly, for example by leaving it for dis-
+cussion by specialized departments, depending on the need for information
+management. 57
+In general, Japan’s AI focus rests with industrial applications and educational
+efforts. Research to advance defense AI has only just started in 2022. Although
+no dedicated institutions addressing AI within the defense establishment have yet
+been created, the 2022 National Security strategy indicates the willingness of the
+Ministry of Defense to “establish a mechanism to aggregate military information”
+and urges the intelligence and policymaking departments to “enhance informa-
+tion management analysis.”58
+55 ProgressofAIStrategy2022.
+56 “ProvisionalArgumentofIssuesConcerningAI,”p.6.
+57 Ibid.,p.16.
+58 Majumdar,“Smartforces,”p.25.
+WWW.DEFENSEAI.EU 23
+
+5 Funding
+Defense AI
+24 OVERCOMING THE LONG SHADOW OF THE PAST
+
+No summarized data has been released on the Japanese government’s AI budget.
+According to the Nihon Keizai Shimbun,59 the Japanese government has sum-
+marized its basic policy and budget for policies related to generative AI for the
+FY2024 budget estimates. The government will focus on the development of
+infrastructure for the development of AI, including supercomputers and high-qual-
+ity data, and will create a foundation for research and development in Japan to
+reduce its dependence on foreign countries for AI development.
+The government’s overall AI-related budget was approximately JPY100bn (or
+€630M) in the initial budget for FY2023. The government is considering doubling
+the budget to JPY200bn (€1.26bn) in FY2024. The basic policy has three pillars to
+strengthen the research and development infrastructure for generative AI by de-
+veloping of data centers with supercomputers, developing high-quality AI training
+data, and creating generative AI that can be used in scientific research.
+In , the Ministry of Defense included a section on defense AI in its
+budget.60 The overall amount spent on defense AI is JPY 6.58bn (€41.4M), or
+around 0.096% of the total FY2023 defense budget of JPY 6.8219trn (€42.9bn).
+The defense AI budget encompasses the following items:
+Development of functions for automatic collection and analysis of public infor-
+mation using AI: JPY2.2bn (€13.9M)
+Research on speeding up decision making using AI: JPY4.3bn (€27M)
+Utilization of external forces for AI implementation: JPY50M (€0.32M)
+Training of AI human resources by providing AI training courses: JPY30M
+(€0.19M)
+In addition to this, part of the “Project for Establishment of System for Strength-
+ening Production Base of Defense Equipment, etc.” (JPY36.3bn or €226M) will be
+used to “implement efficiency improvement of defense equipment manufacturing
+process, etc. through introduction of advanced technologies such as 3D printer
+technology and AI technology.” Thus, the exact size of the defense AI budget is
+not publicly known as spending on AI in other budgets, for example on cyber-
+security, needs to be considered as well.
+59 “FY2012AIBudget,FocusonDevelopmentInfrastructure:200BillionYen,Doubled(24年度AI予算、開発インフラに重点
+倍の2000億円視野).”
+60 DefenseProgramsandBudgetofJapan(1);DefenseProgramsandBudgetofJapan(2).
+WWW.DEFENSEAI.EU 25
+
+6 Fielding and
+Operating
+Defense AI
+26 OVERCOMING THE LONG SHADOW OF THE PAST
+
+In , the Ministry of Defense held a presentation entitled “AI Initiatives in
+the Ministry of Defense.”61 The document states, that:
+In the field of national defense, AI technology is expected to be utilized for
+faster and more efficient information processing, situational assessment, op-
+erational planning, and high-level search and rescue using unmanned aircraft,
+etc. Many countries including China and the United States are actively invest-
+ing in R&D related to AI technology as it could change the future of warfare.
+The Ministry of Defense also believes that AI technology can be a game changer
+and that it is necessary to make focused investments and realize its implementa-
+tion in defense applications as soon as possible. In this regard, the document also
+illustrates two practical examples illustrating exemplary lines of effort that the SDF
+are interested in:
+The first example refers to research on AI-based radio image identification
+technology. This research is to study the technology to automate the identi-
+fication of radar images using AI to efficiently conduct constant and continu-
+ous information gathering and warning monitoring activities. By automating
+the deciphering and identification of radar images, which requires skill, it is
+expected to reduce the burden on units and improve mission efficiency.
+The second example refers to a study of the components of an unmanned
+submersible monitoring machine. This will involve research on autonomous
+monitoring technology and sensor systems. The plan is to apply AI technology
+to decisions about the behavior of underwater vehicles used for long term
+surveillance.
+In addition to these two examples, the Ministry’s presentation also discusses addi-
+tional initiatives summarized in Table 3.
+61 AIInitiativesintheMinistryofDefense.
+WWW.DEFENSEAI.EU 27
+
+Table 3: AI Efforts of the Japanese Ministry of Defense
+Specific Target Initiatives Details of Initiatives
+Construct a digital twin Promotionofdigital Tointroduceadigitaltwin,adigital
+that will be the basis to transformation(DX) threadandothersandtostrengthen
+use AI inresearchanddevel- thenecessarygovernanceateach
+opmentofequipment, levelofdesign,numericalanalysis,
+etc. andexperimentsinresearchand
+developmentofequipment
+Promotionofresearch Tobuildahumandigitaltwinbased
+anddevelopmentto onbehavioralandneurologicaldata
+usethehumandigital andneuroscientificfindingsandto
+twinforeducation, promoteresearchanddevelopment
+training,anddiagnosis forapplicationsineducation,train-
+ing,anddiagnostictreatment.
+Reinforce the governance Supportofconsidera- TohireexternalAIadvisorstopro-
+to promote the introduc- tionofAIusebyAIad- moteAIuseateachagency,toget
+tion of AI in government visorsandcontribution advicesonAIusepolicy,governance
+agencies and enhance toactivitiesofSDF foroperationandverification,and
+and improve administra- operationalplan,andtoexamine
+tive functions AI-relatedgovernanceissues,as-
+pectsofhumanresourcemanage-
+ment,useofdata
+ConductabasicAI ToofferbasictrainingonITliteracy,
+trainingcourseto AI,anddatascience,aswellasprac-
+promotetheuseofAI ticaltrainingonAIimageprocessing
+inactivitiesofSDF tothestaffofeachorganizationto
+promoteAIuse
+Pursue of fusion of Promoteresearch Toconductresearchontheuseof
+Japan's advantages and ontheapplicationof AItechnologiesincommandand
+AI to deal with challenges AItechnologythat control,detectionandidentification,
+unique to Japan contributestoJapan's automation,andlogisticalsupport
+defense toadvanceSDFcapabilitiesand
+equipment
+Source:AIInitiativesintheMinistryofDefense.
+28 OVERCOMING THE LONG SHADOW OF THE PAST
+
+7 Training for
+Defense AI
+WWW.DEFENSEAI.EU 29
+
+We were unable to find any direct documentation of how the Ministry of Defense
+and the SDF are training for the advent of defense AI. However, the SDF does
+recruit publicly for senior positions and mentions AI in current job openings as the
+examples illustrated in Table 4 and published in highlight.
+Table 4: Job Openings Related to AI at Japan’s Self-Defense Forces
+Depart-
+Force Section Summary
+ment
+Maritime Aircraft Aeronautical Researchanddevelopmentofunder-
+Self- equipment(under- wateracousticsystems/non-acoustic
+Defense wateracoustic/ systems.AI,technicalguidance,and
+Force non-acousticsystems) supervisionofcompanies,etc.
+/artificialintelligence
+Technical ArtificialIntelligence Researchanddevelopmentrelatedto
+Information AI,technicalguidance,andsuper-
+Analysis visionofcompanies,etc.
+Air Self- Weather R&D ResearchanddevelopmentofAItech-
+Defense nology,weatherforecastingtechnol-
+Force ogyusingnumericalsimulation,etc.,
+andsupervisionandguidancerelated
+toweatherforecastingandweather
+policies,etc.
+Source:RecruitmentRequirementsforMaritimeSelf-DefenseForceOfficersandAirSelf-DefenseForceOfficers.
+A public notice issued by the Ministry of Defense in indicated
+a competitive bid to implement basic training for AI related to human resources
+development.62 This initiative exemplifies the Ministry of Defense’s effort to recruit
+instructors from the private sector to help train the Ministry of Defense and the
+SDF.
+62 “ImplementationofBasicTrainingforAI(ArtificialIntelligence)HumanResourceDevelopment.”
+30 OVERCOMING THE LONG SHADOW OF THE PAST
+
+In addition, the Department of Information Engineering at the National Defense
+Academy, which trains many of the Self-Defense Forces officers, offers AI as
+an elective compulsory subject.63 Associate Professor Hiroshi Sato specializes
+in research and educational activities in evolutionary computation and artificial
+intelligence.64
+At a more general level, Air SDF LTC Kenshi Kamitakahara, who belongs to the
+Operational Theory Laboratory of the Aviation Research Center, a research insti-
+tute within the Air SDF, recently touched upon another aspect related to training:
+the lack of data. In view of using machine learning related to defense equipment
+he underlined the need to “collect as much data as possible and extract high
+quality data from it.”65 In another paper, he focused on AI and defense simulations
+and argued that “AI for defense simulations is considered to be the most techni-
+cally challenging area, as decisions to be made based on the simulation results are
+extremely critical.”66
+63 “DepartmentofComputerScience.”
+64 Formoreinformation,see:
+65 Kamitakahara,“ChallengesinApplyingArtificialIntelligencetoDefenseEquipment:EspeciallyMachineLearning(人工知能の
+防衛装備品への適用における課題―特に機械学習について―).”
+66 Kamitakahara,“ChallengesinApplyingArtificialIntelligencetoDefenseSimulations:LimitationsofApplyingMachineLearning
+toStrategicSimulations(防衛用シミュレーションへの人工知能の適用に関する課題―戦略シミュレーションへの機
+械学習適用の限界―).”
+WWW.DEFENSEAI.EU 31
+
+8 Conclusion
+32 OVERCOMING THE LONG SHADOW OF THE PAST
+
+Although Japan is often recognized as one of the most technolog-
+ically advanced countries, there is still strong hesitance to the use
+of technology for defense purposes. Universities and other research
+institutions are not necessarily active in R&D for defense uses.
+On the other hand, interest in AI is growing, as in other countries.
+However, this interest is skewed toward educational and industri-
+al applications. The defense industry is working on AI across the
+board, but Japan’s defense industry has a large proportion of civilian
+demand, and there are aspects of the industry that are not neces-
+sarily for defense use. If necessary, they will be applied to defense
+applications, but they are not actively promoted as AI for defense.
+The Ministry of Defense is gradually beginning to show interest in AI,
+as highlighted by a growing number of public documents referring
+to AI published since . Although still small, dedicat-
+ed defense spending on AI is ticking up.
+In general, Japan is a latecomer on the growing international de-
+fense AI scene – with no major achievements yet to see. However,
+the security environment surrounding Japan is worsening, and
+China’s military spending is increasing remarkably. China has also
+pointed out that it will use and incorporate AI for military purposes.
+Thus, for Japan to respond to what is going on in its strategic neigh-
+borhood, next-generation technologies are indispensable to expand
+its defense capabilities. In this regard, AI and other technologies are
+of strategic importance.
+In so doing, ATLA is Japan’s core organization to develop defense
+AI. ATLA should promote defense AI initiatives that reflect the
+strategic thinking of the Prime Minister’s Office and the Ministry of
+Defense. In response, the academic community, including national
+and private universities, and the private sector should deepen their
+cooperation. Japan’s unique post-World War II political environment
+should not be ignored. As the path toward war should be avoided,
+stepping up research and development efforts to the benefit of new
+technologies is indispensable to deter current and future threats.
+WWW.DEFENSEAI.EU 33
+
+Literature
+“ArtificialIntelligenceRespondstoCyberDefense 
+andUnknownThreats(人工知能がサイバー防 ty/20240124-164185/(lastaccessed30January2024.
+衛 未知の脅威に対応),”Nihon Keizai Shimbun,18
+August2015, “ProvisionalArgumentofIssuesConcerningAI,”AI
+LASDZ14HD4_Y5A810C1MM0000/(inJapanese;last StrategicCouncil,26May2023,
+accessed30January2024). cstp/ai/ai_senryaku/2kai/ronten.pdf(inJapanese;last
+accessedon30January2024).
+“AboutResearchThemesRelatedtoPublicOfferings
+in2023,”(Tokyo:Acquisition,TechnologyandLogistics “Regardinginitiativesthatcontributetostrengthen-
+Agency,2023), ingthecomprehensivedefensesystem(Researchand
+koubo/r05/r05koubo_bessi1.pdf(inJapanese;last Development),”CouncilofMinistersConcernedwith
+accessed30January2024). ResearchandDevelopmentandPublicInfrastructureDe-
+velopmentthatContributetoStrengtheningtheCompre-
+“ATLATechnologySymposium2019,”(Tokyo: hensiveDefenseSystems,25August2023,
+Acquisition,TechnologyandLogisticsAgency,2019), cas.go.jp/jp/seisaku/koukyou_infra/dai1/siryou1-1.pdf
+ (inJapanese;lastaccessed30January2024).
+ats2019_summary.pdf(inJapanese;lastaccessed30
+January2024). “RoboticWeapons,MixedSpeculations,International
+RegulatoryConferencefrom13th(ロボット兵器、
+“DepartmentofComputerScience,”NationalDefense 思惑交錯 13日から国際規制会議),”Nihon Keizai
+Academy,undated, Shimbun,12May2014
+tion/files/files/1675043604phppFKGUu/03-14.pdf(in DGXNASGM08032_S4A510C1EAF000/(inJapanese;
+Japanese;lastaccessed30January2024). lastaccessed30January2024).
+“ExpandingAIDeploymentforCyberDefense “SecurityTechnologyResearchPromotionSystem,”
+inEquipmentRepair(サイバー防衛にAI導入拡 (Tokyo:Acquisition,TechnologyandLogisticsAgency,
+大 装備品補修で),”Nihon Keizai Shimbun,17 2023),
+June2019, (inJapanese;lastaccessed30January2024).
+MZO46170500W9A610C1PE8000/(inJapanese;last
+accessed30January2024). “Short-termDemonstrationProjectforNewTechnol-
+ogy,”Acquisition,TechnologyandLogisticsAgency,1
+“FY2012AIBudget,FocusonDevelopmentInfra- August2023,
+structure:200BillionYen,Doubled(24年度AI予算、 Japanese;lastaccessed30January2024).
+開発インフラに重点 倍の2000億円視野),”Nihon
+Keizai Shimbun,12May2014 “State-TiedCyberattacks:TheFacts(国家絡む
+article/DGXZQOUA0206D0S3A800C2000000/(inJapa- サイバー攻撃 実態は),”Nihon Keizai Shimbun,25
+nese;lastaccessed30January2024). December2016,
+KZO10749120W6A211C1TZA000/(inJapanese;last
+“ImplementationofBasicTrainingforAI(Artificial accessed30January2024).
+Intelligence)HumanResourceDevelopment,”Ministry
+ofDefenseofJapan,8December2022, “StrategicCouncilforAITechnology,”(Tokyo:
+mod.go.jp/j/budget/chotatsu/naikyoku/nyuusat- CabinetOffice,2018),
+u/2022/1208b.pdf(inJapanese;lastaccessed30 tyousakai/jinkochino/index.html(inJapanese;last
+January2024). accessed30January2024).
+“Japan,Australiaagreeonjointresearchon “TheFirstMeetingoftheCouncilofMinisters
+mine-detectingUUV,”The Japan Times,24January2024, ConcernedwithResearchandDevelopmentandPublic
+InfrastructureDevelopmentthatContributetoStrength-
+34 OVERCOMING THE LONG SHADOW OF THE PAST
+
+eningtheComprehensiveDefenceSystems,”Cabinet kouhyou/r03/kouhyou03-060.pdf(inJapanese;last
+Secretariat,25August2023, accessed30January2024).
+seisaku/koukyou_infra/dai1/gijisidai.html(inJapanese;
+lastaccessed30January2024). AIInitiativesintheMinistryofDefense(Tokyo:
+MinistryofDefenseofJapan,2023),
+“TheHiroshimaAccord,”PrimeMinister’sOffice,18 go.jp/cstp/ai/senryaku/9kai/siryo7.pdf(inJapanese;
+May2023, lastaccessed30January2024).
+tions/the-hiroshima-accord/the-hiroshima-accord#inter-
+operable-resilient-and-cross-domain-defence-and-securi- ArtificialIntelligenceTechnologyStrategy(Tokyo:
+ty-cooperation(lastaccessed30January2024). StrategicCouncilforAITechnology,2017),https://
+
+2015SecurityTechnologyResearchPromotion Artificial%20Intelligence%20Technology%20Strat-
+ProgramOverviewofApplications(Tokyo:ATLA,2015), egy%28March%2C2017%29.pdf(lastaccessed30
+ January2024).
+jyoukyou.pdf(inJapanese;lastaccessed30January
+2024). Chuter,Andrew,“Moveover,Tempest:Japanpact
+takesUK-Italyfighterplan‘global’,”Defense News,9
+2016SecurityTechnologyResearchPromotion December2022,
+ProgramOverviewofApplications(Tokyo:ATLA,2016), europe/2022/12/09/move-over-tempest-japan-pact-
+ takes-uk-italy-fighter-plan-global/(lastaccessed30
+jyoukyou.pdf(inJapanese;lastaccessed30January January2024).
+2024).
+DefenseBuildupProgram(Tokyo:NationalSecurity
+2017SecurityTechnologyResearchPromotion CouncilofJapan,2022),
+ProgramOverviewofApplications(Tokyo:ATLA,2017), policy/agenda/guideline/plan/pdf/program_en.pdf(last
+ accessed30January2024).
+jyoukyou.pdf(inJapanese;lastaccessed30January
+2024). DefenseProgramsandBudgetofJapan(1)(Tokyo:
+MinistryofDefenseofJapan,2023),
+AIStrategy2019:AIforPeople,Industry,Region, go.jp/j/budget/yosan_gaiyo/2023/yosan_20230328.pdf
+andGovernment(Tokyo:IntegratedInnovationStrategy (inJapanese;lastaccessed30January2024).
+PromotionCouncil:2019),
+ai/aistratagy2019.pdf(inJapanese;lastaccessed30 DefenseProgramsandBudgetofJapan(2)(Tokyo:
+January2024). MinistryofDefenseofJapan,2023),
+go.jp/j/budget/yosan_gaiyo/2023/yosan_20230329.pdf
+AIStrategy2022(Tokyo:IntegratedInnovationStrat- (inJapanese;lastaccessed30January2024).
+egyPromotionCouncil,2022),
+cstp/ai/senryaku/10kai/sanko2.pdf(lastaccessed30 DefenseWhitePaper2023(Tokyo:MinistryofDe-
+January2024). fenseofJapan,2023),
+wp/wp2023/pdf/R05zenpen.pdf(inJapanese;last
+ATLA,“InformationRelatedtoaBidResult,”Acqui- accessed30January2024).
+sition,TechnologyandLogisticsAgency,26August
+2020, Dominguez,Gabriel,“JapanjoinsU.S.-ledeffort
+pdf/kouhyou/r02/kouhyou02-073.pdf(inJapanese;last toregulatemilitaryuseofAI,”The Japan Times,
+accessed30January2024). 14November2023,
+news/2023/11/14/japan/politics/japan-us-ai-mili-
+ATLA,“InformationRelatedtoaBidResult,”Acqui- tary-declaration/(lastaccessed30January2024).
+sition,TechnologyandLogisticsAgency,28August
+2020, Evenstad,Lis,“UKrenewstechandsciencedealwith
+pdf/kouhyou/r02/kouhyou02-074.pdf(inJapanese;last Japan,”Computer Weekly,16May2023,
+accessed30January2024). computerweekly.com/news/366537634/UK-renews-
+tech-and-science-deal-with-Japan(lastaccessed30
+ATLA,“InformationRelatedtoaBidResult,”Acqui- January2024).
+sition,TechnologyandLogisticsAgency,9July2021,
+ FiscalYear2018NewlyAdoptedResearchProjects
+(Tokyo:Acquisition,TechnologyandLogisticsAgency,
+WWW.DEFENSEAI.EU 35
+
+2018), 用の限界―),”Air & Space Power Studies,9(December
+h30kadai.pdf(inJapanese;lastaccessed30January 2021),pp.3-14(inJapanese).
+2024).
+Kidawara,Yutaka,“AIScienceResearchandDevelop-
+FY2019SecurityTechnologyPromotionSystem mentPromotionCenter,”NationalInstituteofInforma-
+(SecondaryRecruitment)Application/AdoptionOverview tionandCommunicationsTechnology,2019,https://
+(Tokyo:Acquisition,TechnologyandLogisticsAgency, 
+2019, ook/book/pdf/28.pdf(lastaccessed30January2024).
+dai_2.pdf(inJapanese;lastaccessed30January2024).
+Kitado,Akira,“Cutting-edgetechkeytodeterTaiwan
+Habuka,Hiroki,“Japan’sapproachtoAIregulation conflict:UKmilitaryofficer,”Nikkei Asia,3September
+anditsimpactonthe2023G7Presidency,”CSIS,14 2023,
+February2023, edge-tech-key-to-deter-Taiwan-conflict-U.K.-military-of-
+proach-ai-regulation-and-its-impact-2023-g7-presidency ficer#(lastaccessed30January2024).
+(lastaccessed30January2024).
+ListofAIStrategy2022Initiatives(Tokyo:Integrated
+Hinata-Yamaguchi,Ryo,“MilitaryAIinJapanand InnovationStrategyPromotionCouncil,2022),https://
+SouthKorea,”inMichaelRaskaandRichardA.Bitzinger www8.cao.go.jp/cstp/ai/senryaku/9kai/siryo2-2.pdf(in
+(eds.),TheAIWaveinDefenceInnovation.Assessing Japanese;lastaccessed30January2024).
+MilitaryArtificialIntelligenceStrategies,Capabilities,
+andTrajectories(London/NewYork:Routledge,2023), Majumdar,Oishee,“Smartforces.Japaneseand
+pp.199-216. SouthKoreanAIadvancements,”Janes Defence Weekly,
+12July2023,pp.20-25.
+Ishikane,Kimihiro,“Statementattheeventforthe
+PoliticalDeclarationonResponsibleMilitaryUseofArti- NationalDefenseProgramGuidelinesforFY2014
+ficialIntelligenceandAutonomy,”PermanentMissionof andbeyond(Tokyo:MinistryofDefenseofJapan,2013),
+JapantotheUnitedNations,13November2023,https:// 
+ icsFiles/afieldfile/2014/02/03/NDPG.pdf(lastaccessed
+(lastaccessed30January2024). 30January2024).
+Ito,Hiroshi,“NewBattleFieldsBroughtAboutby NationalDefenseProgramGuidelinesforFY2019
+theLatestWeaponsandTheirImpactonInternational andbeyond(Tokyo:MinistryofDefenseofJapan,2018),
+Politics(最新兵器がもたらす新たな戦闘領域と国 
+際政治に与える影響),”Fujimaki,Horoyuki(ed.)Global pdf(inJapanese;lastaccessed30January2024).
+Shift and the New Realm of Warfare(Tokyo:TokaiKyoiku
+Kenkyujo,2023,pp.48-77. NationalSecurityStrategy(Tokyo:NationalSecurity
+CouncilofJapan,2022),
+Kadidal,AkhilandNishantKumar,“Japantodevelop policy/agenda/guideline/strategy/pdf/strategy.pdf(in
+AIwithUSfor‘LoyalWingman’UAVs,”Janes,27De- Japanese;lastaccessed30January2024).
+cember2023,
+news-detail/japan-to-develop-ai-with-us-for-loyal-wing- NationalSecurityStrategy;NationalDefense
+man-uavs(lastacessed30January2024) Strategy;andDefenseBuildupProgram(Tokyo:Ministry
+ofDefenseofJapan,2022),
+Kamitakahara,Kenshi,“ChallengesinApplying policy/agenda/guideline/index.html(inJapanese;last
+ArtificialIntelligencetoDefenseEquipment:Especially accessed30January2024).
+MachineLearning(人工知能の防衛装備品への適
+用における課題―特に機械学習について―),” Oue,Sadamasa,HirohitoOgi,andRintaoroInoue,
+Air & Space Power Studies,8(July2021),pp.3-14(in ComparativeStudyofDefenseIndustries:Auton-
+Japanese). omy,Priority,andSustainability(Tokyo:Institute
+ofGeoeconomics,2023),
+Kamitakahara,Kenshi,“ChallengesinApplyingArti- en/2023/12/07/53014/(lastaccessed30January
+ficialIntelligencetoDefenseSimulations:Limitationsof 2024).
+ApplyingMachineLearningtoStrategicSimulations(防
+衛用シミュレーションへの人工知能の適用に関す Prosser,MarcJacob,“Japanaimstoboostdefense
+る課題―戦略シミュレーションへの機械学習適 industrywith200startups,”Indo-PacificDefense
+Forum,7September2023,
+36 OVERCOMING THE LONG SHADOW OF THE PAST
+
+com/2023/09/japan-aims-to-boost-defense-industry- australianoutlook/ai-cooperation-between-australia-ja-
+with-200-startups/(lastaccessed30January2024). pan-and-the-united-states/.
+ProgressofAIStrategy2022(Tokyo:Integrated Yasoshima,Ryohei,MayumiHirosawa,andRiho
+InnovationStrategyPromotionCouncil,2022),https:// Nagao,“ChatGPT,otherAItobestudiedformilitaryrisk
+www8.cao.go.jp/cstp/ai/senryaku/11kai/siryo1.pdf(in bynewJapanbody,”Nikkei Asia,16December2023,
+Japanese;lastaccessed30January2024). 
+AI-to-be-studied-for-military-risk-by-new-Japan-body#
+RecruitmentRequirementsforMaritimeSelf-Defense (lastaccessed30January2024).
+ForceOfficersandAirSelf-DefenseForceOfficers(To-
+kyo:MinistryofDefenseofJapan,2023),
+mod.go.jp/gsdf/jieikanbosyu/pdf/y/r5_koubokanbu.pdf
+(inJapanese;lastaccessed30January2024).
+Reuters,“Japanpreparesmissileshipmentsafter
+easingarmexportcurbs,”Nikkei Asia,22December
+2023,
+prepares-missile-shipments-after-easing-arms-export-
+curbs(lastaccessed30January2024).
+Sakamoto,Tamotsu,“OnNavigationUsingArtificial
+IntelligenceSearchMethods(人工知能の探索手法を
+用いた航法について),”Journal of the Japan Society
+for Aeronautical and Space Sciences,31:354(1983),pp.
+384-393(inJapanese).
+Soga,AkiraandHideoNakashima,“Applicationof
+ArtificialIntelligencetoAircraftNavigationDevicesand
+Problems(航空機用航法機器への人工知能の応用
+と問題点),”Journal of the Japan Society for Aeronau-
+tical and Space Sciences,38:433(1990),pp.60-65(in
+Japanese).
+StrategicActionPlanforArtificialIntelligence
+Technology(Tokyo:StrategicCouncilforAITechnology,
+2018,
+no/keikaku.pdf(lastaccessed30January2024).
+Tajima,Hiroshi,“Japan,UStopromotecoopera-
+tionondual-usetechnologies,”The Japan News,11
+January2023,
+defense-security/20230111-83142/(lastaccessed30
+January2024).
+Vincent,Brandi,“Pentagon’sdigitalandAIchief
+workstodeepenUStechtiesinvisitstoSingapore,
+SouthKoreaandJapan,”DefenseScoop,31August2023,
+
+ital-and-ai-chief-works-to-deepen-u-s-tech-ties-in-visits-
+to-singapore-south-korea-and-japan/(lastaccessed30
+January2024).
+Warren,Aiden,CharlesT.Hunt,andMattWarren,“AI
+cooperationbetweenAustralia,Japan,andtheUnited
+States,”AustralianInstituteofInternationalAffairs,14
+March2023,
+WWW.DEFENSEAI.EU 37
+
+38 OVERCOMING THE LONG SHADOW OF THE PAST
+
+Defense AI Observatory Studies
+24|23 Motohiro Tsuchiya, Overcoming the Long Shadow of the Past. Defense AI in Japan
+24|22 Vitaliy Goncharuk, Survival of the Smartest? Defense AI in Ukraine
+24|21 Youngwook Park, Wil the One Ring Hold? Defense AI in South Korea
+23|20 Tomas Jermalivičius, Caught Between Today and Tomorrow. Defence AI in Estonia
+23|19 Nikolaos Karampekios, Konstantinos Sakalis, and Iraklis Oikonomou, Harnessing the
+Potential. Defense AI in Greece
+23|18 Andreas Graae, Servers Before Tanks? Defence AI in Denmark
+23|17 Kévin Martin and Lucie Liversain, A Winding Road Before Scaling-Up? Defense AI in
+France
+23|16 Sami O. Järvinen, Cautious Data-Driven Evolution. Defence AI in Finland
+23|15 Inbar Dolinko and Liran Antebi, Embracing the Organized Mess. Defense AI in Israel
+23|14 Alastair Finlan, A Fertile Soil for AI? Defense AI in Sweden
+23|13 John Lee, “Overtaking on the Curve?” Defense AI in China
+23|12 Heiko Borchert, Torben Schütz, and Joseph Verbovszky, Master and Servant. Defense
+AI in Germany
+23|11 Katarzyna Zysk, High Hopes Amid Hard Realities. Defense AI in Russia
+23|10 Yvonne Hofstetter and Joseph Verbovzsky, How AI Learns the Bundeswehr’s
+“Innere Führung.” Value-Based Engineering with IEEE7000™-2021
+23|09 Robert C Engen, When the Teeth Eat the Tail: A Review of Canada’s Defence Artificial
+Intelligence
+23|08 Çağlar Kurç, Enabling Technology of Future Warfare. Defense AI in Turkey
+23|07 Lauren A. Kahn, Risky Incrementalism. Defense AI in the United States
+22|06 Yvonne Hofstetter, Wie KI Innere Führung lernt. Wertbasierte Technik mit
+IEEE7000™-2021
+22|05 Andrea Gilli, Mauro Gilli, and Ivan Zaccagnini, Exploring the Benefits of a New Force
+Enabler: Defense AI in Italy
+22|04 Kenneth Payne, Bright Prospects – Big Challenges. Defense AI in the United
+Kingdom
+22|03 Heiko Borchert, Christian Brandlhuber, Armin Brandstetter, and Gary S. Schaal, Free
+Jazz on the Battlefield. How GhostPlay’s AI Approach Enhances Air Defense
+22|02 Peter Layton, Evolution not Revolution. Australia’s Defence AI Pathway
+21|01 Heiko Borchert, Torben Schütz, Joseph Verbovszky, Beware the Hype. What Military
+Conflicts in Ukraine, Syria, Libya, and Nagorno-Karabakh (Don’t) Tell Us About the
+Future of War

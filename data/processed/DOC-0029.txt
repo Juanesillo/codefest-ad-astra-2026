@@ -1,0 +1,697 @@
+INDUSTRY BRIEF
+An initiative of the HAI Corporate Members Program
+Education
+and AI
+
+INDUSTRY BRIEF
+Introduction
+Effective learning solutions are fundamental developing AI that facilitates high-quality
+to creating a higher quality of life that is personalized learning at scale, creates grading
+accessible to everyone. At HAI, we support systems that augment the teaching and
+researchers who are empowering our assessment experience, and automatically
+understanding of learning across cultures, designs intentional learning environments and
+ages, identities, and abilities, which as a infrastructures that help all individuals thrive.
+result will improve the experience of learners,
+We believe motivating the development of
+teachers, and institutions. The community at
+technology that uplevels all learners requires
+large is leveraging technologies and data to
+efforts and discussions at the intersection of
+revolutionize and democratize educational
+research, industry, and government. Through
+opportunities by making how we learn more
+highlighting how we could creatively disrupt
+scientific, learner-centered, and collaborative.
+and augment existing methods in education
+In this Industry Brief, we present a cross- by employing AI, we hope thought leaders,
+section of the key research at HAI and investors, operators, teachers, learners, policy
+more broadly at Stanford, including within and decision-makers will find the brief useful
+Stanford’s new Transforming Learning as a point of further exploration and begin
+Accelerator, that can help shape the future meaningful conversations.
+of education. You will find researchers
+HAI’s mission is to advance AI research, education, policy and practice to improve
+the human condition. To learn more about HAI, visit hai.stanford.edu
+
+INDUSTRY BRIEF
+“Education is one domain where AI research has great
+potential to develop solutions that improve the daily
+experiences of students and lifelong learners. We've
+shown that machine learning systems can automate part
+of the role of a skilled human tutor, allowing the human
+tutor to concentrate on what they do best. This is one
+demonstration of how technology can help broaden
+access to high quality and personalized education.
+AI technology does this, not by removing humans from
+the equation, but rather by putting them at the center
+and giving them tools to be more effective.”
+–Peter Norvig, HAI Distinguished Education Fellow
+
+INDUSTRY BRIEF
+Education
+
+Personalized and Adaptive Learning
+•
+Natural Language Interactions
+•
+Augmented Teaching
+
+Learning Sciences
+
+Learning Infrastructure
+
+INDUSTRY BRIEF
+
+EDUCATION
+PERSONALIZED AND Natural Langage
+ADAPTED LEARNING Interactions
+WHAT’S NEW?
+Because of recent advancements in large language models, complex NLP tasks are more
+feasible by applying out-of-the-box algorithms accompanied by domain adaptation.
+Researchers on campus are leveraging these models to pioneer natural language
+applications such as chatbot engines to serve demands in teacher training and fuel 5
+improvements in student proficiencies, especially in language learning or other “The best educators
+communication intensive settings. Furthermore, AI algorithms can quantify and evaluate
+understand and help
+responses from learners that were never previously encountered, then proceed to predict
+student performance, deploy better-suited exercises, and grant personalized feedback. their students through
+an ongoing dialogue
+WHY DOES THIS MATTER NOW?
+surrounding ideas,
+According to a GlobalNewsWire report, amidst the pandemic, the global market for private
+tutoring was estimated at $123.8B in 2020 and is projected to reach $201.8B by 2026.1 approaches, and reasons.
+The demand for private and personalized education--driven by increased competition
+As AI tools become
+in admissions and the rising prevalence of lifelong and remote learning--points to an
+opportunity for education firms and startups to supply comprehensive, scalable, and more facile at using
+interactive technologies powered by natural language processing and understanding.
+natural language they
+Natural language technologies flexibly enhance student education on digital platforms
+in contexts such as online courses, self-guided explorations, and supplemental classes. will join this dialogue
+Besides being able to readily streamline current methods of instruction, they have proven
+benefits of increasing student learning rates as well as evoking higher learning times. to supplement and
+support teachers, to
+EYE ON CAMPUS
+scaffold the kind of
+Researchers on campus are...
+joyful, individualized
+• B uilding in-house algorithms to rate and classify open-ended text. The models are
+embedded in chatbots that can identify English writing proficiency and in digital kiosks learning experience that
+to assist the community in better navigating buildings.
+is currently inaccessible
+• E xploring targeted question generation by fine-tuning pre-trained language models for
+to most students. At the
+deep knowledge tracing (LM-KT) to predict the probability of correct student answers
+and generalize to unseen questions. The LM-KT is also used to generate new questions same time, as classroom
+conditioned on a given student and target difficulty. Their findings suggest that the
+education becomes
+model succeeds in generating novel, well-calibrated language translation questions
+for second language learners from a real online education platform. This step in increasingly intertwined
+personalization allows systems to adapt from an infinite space of questions and enables
+with online experience
+the fine-grain ability to choose questions, rather than selecting from heustrics or
+template-based methods driven by a small pool of predefined questions. it will provide new data
+• D eveloping a novel natural language processing targeting mechanism, and new opportunities to
+HAI which relative to more traditional multiple-choice targeting, is able to
+develop AI tools.”
+provide optimal and adaptive feedback from fewer student interactions and
+RESEARCH
+generalize to previously unseen prompts.
+–Noah Goodman,
+• I mplementing a chatbot engine that converses with language coaches as part of a
+Associate Professor of
+training curriculum, in order to help coaches improve their assessment skill of language
+proficiency in another adult learner. Psychology, Computer
+• D eveloping a language learning chatbot that converses with students Science, and Linguistics;
+interactively on college-related topics and provides adaptive feedback.
+HAI HAI Faculty Affiliate
+Evaluation shows increase in student fluency, higher engagement, and users
+RESEARCH voluntarily spent 2.1x more time interacting with EnglishBot compared to
+listening or repeating pre-existing materials. 55
+[1] Global Private Tutoring Market to Reach $201.8 Billion by 2026. (2021, July). GlobeNewswire.
+
+INDUSTRY BRIEF
+
+EDUCATION
+PERSONALIZED AND Augmented
+ADAPTED LEARNING Teaching
+WHAT’S NEW?
+AI-augmented teaching demonstrates the potential for educators to cater to specific learning
+needs by tracing student skill progression and to alleviate teachers from repetitive efforts of
+offering identical feedback. Where institutions were previously limited to stale or outdated
+curriculums, teachers can use such systems to adaptively sequence practice activities as well 6
+as generate real-time customized narration to boost student engagement and performance. “The pandemic has
+As digital testing data increases, scalable assessments also allow instructors to focus on
+highlighted the potential
+communicating crucial concepts and minimize tedious grading without compromising on the
+quality of feedback since new algorithms are able to associate mistakes to specific parts of an
+impact of new AI
+individual solution and explain common misconceptions.
+systems that can adapt
+WHY DOES THIS MATTER NOW?
+to not only a student’s
+In an Economic Policy Institute Report, projections reveal a national teacher shortage
+of sizable magnitude, growing, and worse than expected when indicators of teacher cognitive state, but
+quality are taken into account—with high-poverty schools suffering most acutely.1
+And this massive gap in the teaching workforce is exactly at odds with the desire and also to the full complex
+need to deliver personalized learning experiences. However, because of the advent
+context of a human
+of scalable machine learning infrastructure that can interpret student data, design
+roadmaps, and support each learner on an individual basis, the impact of educators learner. The last 1.5 years
+may now be amplified within their respective classrooms.
+further stressed the
+EYE ON CAMPUS
+demands for instructors,
+Researchers on campus are...
+yielding a new need and
+• Proposing Variational Deep Knowledge Tracing (VDKT) that not only traces
+opportunity for AI tutors
+a student’s knowledge change using deep recurrent neural networks
+but also incorporates new latent variables representing stochasticity in
+that amplify the capacity
+the learning process such as partial understanding, making slips, and
+guessing answers. The VDKT outperforms baseline and previous state of of human teachers. Such
+the art methods by evaluation on two Duolingo language learning datasets
+and provides interpretable analyses and offers insights into students’ AI teaching assistants
+HAI stochastic behavior in language learning.
+can support students
+RESEARCH • Introducing a human-in-the-loop “rubric sampling” approach to tackle
+the “zero-shot” (no training examples) feedback challenge for code with many tasks, as
+education. They provided autonomous feedback for first students working
+well as automatically
+on an introductory programming assignment with accuracy outforming
+data-hungry algorithms and results approaching human-level fidelity.
+intelligently loop in
+This rubric-sample requires minimal teacher effort, associates feedback
+with specific parts of the student's solution, and articulates student’s human instructors at
+misconceptions in the language of the instructor.
+appropriate times.”
+• P roposing an approach for automatically adaptively sequencing practice activities for an
+individual student. This new approach builds on the construction of curriculum graphs –Emma Brunskill,
+and advancing students through a graph using multi-armed bandits, and is effective
+because it requires fewer hyperparameters and a smaller dataset. They found that for Assistant Professor of
+a Korean language learning game, the adaptive algorithm had a statistically significant
+Computer Science;
+positive effect on learning efficiency metric defined using in-game performance.
+• C reating an interactive, tablet-based learning platform with a multi-step math task HAI Faculty Affiliate
+designed using Common Core State Standards. They showed that embedding learning
+activities into narratives boosted children’s engagement, and integration of tutoring
+
+chatbot improved learning outcomes on the assessment.
+[1] García, E. & Weiss, E. (2019, March 26). The teacher shortage is real, large and growing, and worse than we
+thought. Economic Policy Institute.
+
+INDUSTRY BRIEF
+
+EDUCATION
+LEARNING
+SCIENCES
+WHAT’S NEW?
+Researchers are using modeling techniques to help instructors understand both
+distinct individual learning processes and abilities across diverse student groups in an
+effort to inform the organization of future curriculums and assessments that are useful
+
+in real-time scenarios. Their contributions enable fine-grained analysis of student
+behaviour, which opens up new avenues in predicting learning outcomes. AI is able to “The application of Artificial
+interpret data in various realistic learning environments to classify student learning
+Intelligence to education is in
+processes and strategies and subsequently give human instructors the resources
+needed to administer real-time feedback and interventions. its infancy, but the prospects
+are excellent. On one side
+WHY DOES THIS MATTER NOW?
+of the coin, researchers are
+Previously, instructors relied heavily on standardized and periodic testing as
+automating difficult aspects
+a proxy for student’s grasp of the course material that may overlook nuances
+particular to an individual learner. Now equipped with scalable AI algorithms, of traditional instruction
+teachers are empowered to monitor student progress throughout their learning
+such as providing refined,
+experience by building a real-time and multi-dimensional picture of the student
+based on behavioral data. Given this information, models can determine features individualized feedback and
+and strategies emblematic of successful learners, which in turn may aid teachers the automated generation
+in designing more productive materials and help lagging learners course-correct
+of timely examples. On the
+immediately, rather than after cumulative assessments that occur less frequently.
+other side of the coin, AI
+EYE ON CAMPUS is enabling fundamentally
+Researchers on campus are... new models of learning
+• D eveloping variation Bayesian inference algorithms for Item Response Theory (model such as students teaching a
+for understanding humans based on question responses) that is scalable, faster than
+computer agent and using
+heuristic algorithms, and more accurate than gold-standard methods. The open-source
+implementation is easily usable in tasks like grading exams such as the SAT, PSAT, or in augmented reality to help
+learning multi-dimensional student interactions.
+children with autism learn to
+• M odelling and analyzing student inquiry strategies in open-ended computer-based
+recognize emotions in their
+learning environments. They demonstrate inquiry strategies influence learning
+outcome, and also are predictive of academic achievement. Furthermore, a clustering family members. AI may
+algorithm is developed to segment students into different groups with similar learning
+make great in-roads in the
+strategies, which along with the inquiry-based environment, have the potential to
+serve as an assessment tool for teachers and tutors. challenge of making superior
+• E xtracting semantically meaningful features from student logged interaction data in a learning accessible to all.”
+simulation-based task to predict their overall problem-solving ability and understand
+–Dan Schwartz, I. James
+their specific problem-solving practices.
+• P resenting a new assessment framework (Posterlet) that collects student strategies Quillen Dean and Nomellini
+and processes when they independently learn. Student choices to receive critical & Olivier Professor of
+feedback and revision predict and measure learning outcomes, which can be used to
+Educational Technology at
+develop as well as evaluate models of instruction and assessments.
+Stanford Graduate School
+• S uggesting actionable and individualized interventions to help students stuck in wheel-
+spinning (repeatedly failing an education task for learning a skill). The trained model of Education; HAI Faculty
+requires minimal expert input and uses interpretable machine learning to identify
+Affiliate
+correct interventions matching expert-level prescription.
+• E xploring online recurrent neural network models for classifying students in open-
+ended and interactive environments that can also provide real-time guidance. 77
+
+INDUSTRY BRIEF
+
+EDUCATION
+LEARNING
+INFRASTRUCTURE
+WHAT’S NEW?
+Learning infrastructures that support environments for learning are leveraging
+data and AI to not only provide better customized classroom and remote
+experiences, but also to suggest policies that align with intentional objectives
+
+(e.g., school assignment choices that maximize factors like diversity). By “One of the most helpful
+empowering and training local institutions and teams with tooling and
+ways to augment education
+resources powered by machine learning, high quality, adaptable, and human-
+centric learning can be deployed to a breadth of geographic locations despite is to assist with the difficult
+language, cultural, and teaching differences.
+task of examining student
+work and recognizing
+WHY DOES THIS MATTER NOW? student mistakes. Computer
+According to a 2021 McKinsey survey on the lingering effects of the pandemic systems that can do this
+on student learning, 24% of parents are not convinced to choose in-person
+would make feedback,
+instruction for fall, and will select homeschool or other alternative options.1 The
+reluctance to return to physical buildings warrants innovation for virtual learning grading, and class
+models for the foreseeable future, serving demands of both homeschooling
+preparation easier and more
+families and of school districts. Separate from safety concerns, some parents feel
+remote learning and hybrid approaches have positively impacted their children’s effective. Ten years ago,
+social-emotional and mental health.
+algorithms could perform
+As we transition into schools of the future, firms innovating in edtech and
+at about one tenth of the
+specialists can collaborate to define new types of effective learning enabled
+by AI and create infrastructures to distribute high-quality content to a global accuracy of humans, in the
+student audience. In this future, each student will be given more flexibility and
+context of understanding
+choice in defining their individual learning journey.
+student pseudo-code, a
+[1] Dorn, E., Hancock, B., Sarakatsannis, J., & Viruleg, E. (2021, July 27). COVID-19 and education:
+The lingering effects of unfinished learning. McKinsey & Company. bellwether task. Just this
+year, we built a deployable
+system to make real
+classrooms smarter. This
+transformative technology
+is one ingredient that we
+will use in our broader effort
+to make education's digital
+future more inspiring, more
+joyful, and less lonely.”
+–Chris Piech, Assistant
+Professor of Computer
+Science Education; HAI
+Faculty Affiliate
+
+INDUSTRY BRIEF
+
+EDUCATION
+LEARNING
+INFRASTRUCTURE
+CONTINUED
+EYE ON CAMPUS
+Researchers on campus are...
+• D esigning high quality open-source course-
+• D eploying a meta-learning model that adapts
+in-a-box CS curriculum easily adaptable
+to give feedback to student code for a new
+to a variety of local teaching practices,
+programming question with only a few
+languages, and cultures already delivered to
+annotated solutions. This is the first successful
+over 1,000 highschool students around the
+HAI deployment of machine learning based
+globe. Joint teaching methods consisting
+feedback to open-ended code. The approach
+of localized instructors and undergraduate RESEARCH
+generated feedback for 16,000 student exam-
+student-teachers in conjunction with
+solutions in an online programming course,
+automated feedback are scalable
+where it wasn't previously possible for
+HAI and provide high-impact professional
+instructors to provide feedback.
+development experiences.
+RESEARCH
+• C ollaborating with The San Francisco
+Unified School District (SFUSD) to develop
+an optimization and simulation engine to • P resenting a workflow for knowledge externalization in
+suggest and evaluate potential student science text comprehension and prototyping tools to assist
+school assignment policies to promote learners in organizing knowledge by effectively creating
+predictability, proximity, and diversity. Using active diagrams without disrupting reading. This is powered
+this tool, they recommended a policy passed by natural language processing on key terms to reduce cost
+by the San Francisco Board of Education of producing diagrams while maintaining cognitive effort
+that will take effect for 2023-24 school year. required for comprehension.
+
+INDUSTRY BRIEF
+The Transforming Learning Accelerator (TLA), part of
+Stanford’s Vision, aims to combine science and design
+in order to advance novel approaches to understanding
+learning, and create a sustainable model to turn
+discovery into scalable and equitable solutions.
+Among other initiatives, researchers are... Let's work together.
+• Strengthening child literacy by
+Are you planning to deploy AI
+introducing a literacy support network
+initiatives for education within your
+amplifying educator-parent-student
+organization or company?
+connections through messages, AI,
+and tutoring
+We're interested in your ideas for
+• Using AI analysis of mobile games to improving learning solutions as a
+track and treat a continuum of early partner, researcher, supporter,
+childhood learning or co-creator.
+• Automating online assessment of reading Reach out to learn about our projects
+ability to enable personalized education and collaboration opportunities.
+
+INDUSTRY BRIEF
+Industry Take
+Industry will play a critical role in scaling the
+applications of AI research. For this reason, it is a
+goal and privilege of HAI to convene stakeholders
+from industry in addition to those in academia,
+government, and civil society to address the
+technical and societal challenges posed by AI.
+Leading venture investors, positioned at the
+frontlines of startup innovation, can provide
+a unique perspective on the impact and
+role of AI technologies in education.
+
+INDUSTRY BRIEF
+Industry Take
+“From the K – 12 and higher education segments to the corporate and lifelong
+learning categories, AI is providing key benefits across the multi-trillion dollar
+education sector. In the formal schooling environments, AI is delivering
+key insights and data to educators so they can create more personalized
+experiences for learners and focus on individual or small group instruction.
+When it comes to adult learning and the future of work, AI is allowing companies
+to better understand how they can continue to remain competitive by offering
+their employees critical opportunities to reskill and upskill. In these ways, AI is
+reshaping what education will look like over a lifetime for the next generation of learners.”
+–Amit Patel, Managing Director, Owl Ventures
+“All people deserve equal access to the future--technological innovations in learning
+and workforce skilling at scale are key to realizing this vision. There is no more
+important development than the mainstream movement of AI to support the
+personalization and adaptivity of learning, skilling and assessment platforms.
+We’ve already seen success with automated grading in higher education and
+subject-specific coaches for grammar, math, and writing. The future of education
+will be characterized by this kind of “invisible learning and assessment” – highly
+efficacious education that occurs when an AI-driven platform augments and reduces
+the burden on educators and accelerates the learning of students.”
+–Deborah Quazzo, Managing Director, GSV Ventures
+“The successful application of AI to edtech is best evidenced by tools that boost
+productivity, for example with personalized coaching or targeted content
+consumption. One of our companies develops NLP algorithms to provide just-in-
+time coaching for litigators on appropriate case precedents. The algorithms can
+also identify case chronology, significant actors in disputes, and other meaningful
+data that help accelerate the learning curve for legal teams. You can see how this
+same formula, applied in schools or in the workforce, can help learners focus on the
+most high-impact tasks and topics for their education and work.”
+–Alex Spiro Latsis, Partner, Brighteye
+
+INDUSTRY BRIEF
+CORPORATE
+ENGAGEMENT
+Corporate
+Engagement
+Stanford HAI seeks corporate members
+who will enable it to lead with the
+unparalleled interdisciplinary breadth
+and excellence of Stanford University,
+and a laser focus on human-centered
+development and deployment of AI
+technology. We invite engagement
+from companies that share our
+mission to advance AI research,
+education, policy, and practice to
+improve the human condition.
+
+INDUSTRY BRIEF
+Are you prepared for the
+next wave of change?
+THINGS YOU SHOULD KNOW.
+52%
+$15.7 T
+of Fortune 500 companies in value will be added
+were extinguished by by AI to the global
+digital disruption between economy by 20303
+2000 and 20141
+$1.4B
+50%
+of the S&P 500 in 2018 in annualized value can
+was forecasted to be be gained by AI-led
+replaced in just ten years2 transformation of a
+Fortune 500 company4
+References:
+[1] Wang, R. (2014, February 18) “Research Summary: Sneak Peeks From Constellation’s Futurist Framework And 2014 Outlook On Digital Disruption,”
+Constellation Research.
+[2] Anthony, S. D., Viguerie, S. P., Schwartz, E. I., & Landeghem, J. V. (2018a, February). 2018 Corporate Longevity Forecast: Creative Destruction is
+Accelerating. Innosight.
+[3] “PwC’s Global Artificial Intelligence Study: Sizing the prize,” PricewaterhouseCoopers, Retrieved March 1, 2021. 14
+[4] “Incorporate enterprise A.I. now or risk getting disrupted,” Fortune + C3. Ai, Retrieved March 1, 2021.
+
+INDUSTRY BRIEF
+Education Today
+A RIPE OPPORTUNITY FOR INNOVATION
+414M
+$400B
+higher ed students are
+are deployed globally by
+projected in 2030, double
+enterprises training their
+from 207M today and
+workforces2
+with all of the growth
+happening online1
+$1T
+500M
+of market value is forecasted
+of learners around the
+to be occupied by Digital
+world visit MOOCs in a
+Learning by 2026, close to
+given month3
+doubling the growth rate
+projected before COVID-194
+References:
+[1][4] Dawn of the Age of Digital Learning. (2020, January 14). GSV Ventures.
+[2][3] 2020 Education Outcomes Report. (2020, December 7). Owl Ventures.
+
+INDUSTRY BRIEF
+CORPORATE
+ENGAGEMENT
+Up to $11.5T could be added to
+global GDP by 2028 if countries
+succeed in better preparing
+learners for the needs of the
+future economy.1
+COVID-19 sent 1.4B students
+home, and even before the
+pandemic, low-income countries
+were struggling to get students
+the basic primary level skills.2
+Do you want to know how AI
+can help educate your future
+workforce?
+[1] Schools of the Future: Defining New Models of Education for the Fourth Industrial Revolution. (2020, January 14). World Economic Forum.
+[2] United Nations Educational, Scientific and Cultural Organization. (2020, March 24). 1.37 billion students now home as COVID-19 school closures expand,
+ministers scale up multimedia approaches to ensure learning continuity. UNESCO.
+
+INDUSTRY BRIEF
+Become a
+corporate
+member today.
+50% of companies are likely to
+miss the window of opportunity.1
+Let’s talk.
+Learn more about the
+Corporate Members Program
+and the Stanford advantage.
+Panos Madamopoulos,
+Managing Director for Industry
+Programs and Partnerships
+1 Jacques Bughin, “Wait-and-See Could Be a Costly AI Strategy,” MIT Sloan Management Review, June 15, 2018.
+
+INDUSTRY BRIEF
+Appendix
+
+Artificial
+Intelligence
+Definitions
+Intelligence might be defined as the ability to learn such as winning games, without explicit examples of
+and perform suitable techniques to solve problems and good techniques, enabling autonomy.
+achieve goals, appropriate to the context in an uncertain,
+Deep Learning is the use of large multi-layer
+ever-varying world. A fully pre-programmed factory robot
+(artificial) neural networks that compute with
+is flexible, accurate, and consistent but not intelligent.
+continuous (real number) representations, a little like the
+Artificial Intelligence (AI), a term coined by hierarchically-organized neurons in human brains. It is
+emeritus Stanford Professor John McCarthy in 1955, was currently the most successful ML approach, usable for all
+defined by him as “the science and engineering of making types of ML, with better generalization from small data
+intelligent machines”. Much research has humans program and better scaling to big data and compute budgets.
+software agents to behave in a clever way, like playing
+An algorithm lists the precise steps to take, such
+chess, but, today, we emphasize agents that can learn, as
+as a person writes in a computer program. AI systems
+human beings navigating our changing world do.
+contain algorithms, but often just for a few parts like a
+Autonomous systems can independently plan and learning or reward calculation method. Much of their
+decide sequences of steps to achieve a specified goal behavior emerges via learning from data or experience,
+without micro-management. A hospital delivery robot which is a sea change in system design that Stanford
+must autonomously navigate busy corridors to succeed in alumnus Andrej Karpathy dubbed Software 2.0.
+its task. In AI, autonomy doesn’t have the sense of being
+Narrow AI is intelligent systems for particular tasks,
+self-governing that is common in politics or biology.
+e.g., speech or facial recognition. Human-
+Machine Learning (ML) is the part of AI studying level AI, or Artificial General Intelligence
+how computer systems can improve their perception, (AGI), seeks broadly intelligent, context-aware
+knowledge, decisions, or actions based on experience or machines. It is needed for effective, adaptable social
+data. For this, ML draws from computer science, statistics, chatbots or human-robot interaction.
+psychology, neuroscience, economics, and control theory.
+Human-Centered Artificial Intelligence is
+In supervised learning, a computer learns to AI that seeks to augment the abilities of, address the
+predict human-given labels, such as dog breed based on societal needs of, and draw inspiration from human
+labeled dog pictures; unsupervised learning does beings. It researches and builds effective partners and
+not require labels, sometimes making its own prediction tools for people, such as a robot helper and companion
+tasks such as trying to predict each successive word in for the elderly.
+a sentence; reinforcement learning lets an agent Text by Professor Christopher Manning, v 1.1, 
+learn action sequences that optimize its total rewards, Learn more at hai.stanford.edu
+
+References Ruan, S., Wei, W., & Landay, J. (2021). Variational Deep
+Knowledge Tracing for Language Learning. LAK21: 11th
+International Learning Analytics and Knowledge Conference,
+EDUCATION & AI 323–332. 
+The teacher shortage is real, large and growing, and worse than
+we thought: The first report in &#8216;The Perfect Storm in the
+Teacher Labor Market&#8217; series. (n.d.). Economic Policy
+Institute. Retrieved September 5, 2021, from 
+epi.org/publication/the-teacher-shortage-is-real-large-and-
+Natural Language Interactions
+growing-and-worse-than-we-thought-the-first-report-in-the-
+perfect-storm-in-the-teacher-labor-market-series/
+Conversational AI to Accelerate Skill Integration | Office of Innovation
+& Technology. (n.d.). Retrieved July 26, 2021, from Wu, M., Mosse, M., Goodman, N., & Piech, C. (2018). Zero Shot
+stanford.edu/conversational-ai-accelerate-skill-integration Learning for Code Education: Rubric Sampling with Deep
+Learning Inference. ArXiv:1809.01357 [Cs, Stat]. 
+Kolchinski, Y. A., Ruan, S., Schwartz, D., & Brunskill, E. (2018).
+abs/1809.01357
+Adaptive natural-language targeting for student feedback.
+Proceedings of the Fifth Annual ACM Conference on Learning at
+Scale, 1–4. 
+Learning Sciences
+NLP | Office of Innovation & Technology. (n.d.). Retrieved July 26,
+2021, from Cutumisu, M., Chin, D. B., & Schwartz, D. L. (2019). A digital
+game-based assessment of middle-school and college
+ReportLinker. (2021, July 15). Global Private Tutoring
+students’ choices to seek critical feedback and to revise. British
+Market to Reach $201.8 Billion by 2026. GlobeNewswire
+Journal of Educational Technology, 50(6), 2977–3003. https://
+News Room. 
+doi.org/10.1111/bjet.12796
+release/2021/07/15/2263310/0/en/Global-Private-Tutoring-
+Market-to-Reach-201-8-Billion-by-206.html Käser, T., & Schwartz, D. L. (2019). Exploring Neural Network
+Models for the Classification of Students in Highly Interactive
+Ruan, S., Jiang, L., Xu, Q., Liu, Z., Davis, G. M., Brunskill, E., &
+Environments. 10. 
+Landay, J. A. (2021). EnglishBot: An AI-Powered Conversational
+System for Second Language Learning. 26th International Käser, T., & Schwartz, D. L. (2020). Modeling and Analyzing
+Conference on Intelligent User Interfaces, 434–444. Inquiry Strategies in Open-Ended Learning Environments.
+ International Journal of Artificial Intelligence in Education, 30(3),
+504–535. 
+Srivastava, M., & Goodman, N. (2021). Question Generation for
+Adaptive Education. ArXiv:2106.04262 [Cs]. Mu, T., Jetten, A., & Brunskill, E. (2020). Towards Suggesting
+abs/2106.04262 Actionable Interventions for Wheel-Spinning Students. 11.
+
+Wang, K. D., Salehi, S., Arseneault, M., Nair, K., & Wieman,
+Augmented Teaching
+C. (2021). Automating the Assessment of Problem-solving
+Practices Using Log Data and Data Mining Techniques. In
+Metz, C. (2021, July 20). Can A.I. Grade Your Next Test? The New
+Proceedings of the Eighth ACM Conference on Learning @ Scale
+York Times. 
+(pp. 69–76). Association for Computing Machinery. 
+ai-education-neural-networks.html
+org/10.1145/3430895.3460127
+Mu, T., Wang, S., Andersen, E., & Brunskill, E. (2021). Automatic
+Wu, M., Davis, R. L., Domingue, B. W., Piech, C., & Goodman,
+Adaptive Sequencing in a Webgame. In A. I. Cristea & C.
+N. (n.d.). Variational Item Response Theory: Fast, Accurate, and
+Troussas (Eds.), Intelligent Tutoring Systems (Vol. 12677, pp.
+Expressive. 12. 
+430–438). Springer International Publishing. 
+org/10.1007/978-3-030-80421-3_47
+Ruan, S., He, J., Ying, R., Burkle, J., Hakim, D., Wang, A., Yin,
+Y., Zhou, L., Xu, Q., AbuHashem, A., Dietz, G., Murnane, E. L.,
+Brunskill, E., & Landay, J. A. (2020). Supporting children’s math
+learning with feedback-augmented narrative technology.
+Proceedings of the Interaction Design and Children Conference,
+567–580. 
+
+References
+EDUCATION & AI
+Learning Infrastructure
+COVID-19 and education: The lingering effects of unfinished
+learning | McKinsey. (n.d.). Retrieved September 26, 2021, from
+
+sector/our-insights/covid-19-and-education-the-lingering-
+effects-of-unfinished-learning
+Improving Diversity and Equity in School Choice | Center for
+Comparative Studies in Race & Ethnicity. (n.d.). Retrieved July
+26, 2021, from 
+diversity-and-equity-school-choice
+Piech, C., Yan, L., Einstein, L., Saavedra, A., Bozkurt, B.,
+Sestakova, E., Guth, O., & McKeown, N. (2020). Co-Teaching
+Computer Science Across Borders: Human-Centric Learning at
+Scale. Proceedings of the Seventh ACM Conference on Learning @
+Scale, 103–113. 
+Subramonyam, H., Seifert, C., Shah, P., & Adar, E. (2020).
+texSketch: Active Diagramming through Pen-and-Ink
+Annotations. Proceedings of the 2020 CHI Conference on
+Human Factors in Computing Systems, 1–13. 
+org/10.1145/3313831.3376155
+Wu, M., Goodman, N., Piech, C., & Finn, C. (2021).ProtoTransformer:
+A Meta-Learning Approach to Providing Student Feedback.
+ArXiv:2107.14035 [Cs]. 
+Other
+Education 4.0. (n.d.). World Economic Forum. Retrieved
+September 26, 2021, from 
+learning-4-0/
+ (2020, March 24). 1.37
+billion students now home as COVID-19 school closures expand,
+ministers scale up multimedia approaches to ensure learning
+continuity. UNESCO. 
+students-now-home-covid-19-school-closures-expand-
+ministers-scale-multimedia
+Dawn of the Age of Digital Learning | by Michael Moe | GSV
+Ventures | Medium. (n.d.). Retrieved October 4, 2021, from
+
+learning-4c4e38784226
+Outcomes | Owl Ventures. (n.d.). Retrieved October 4, 2021, from
+
+INDUSTRY BRIEF
+Acknowledgments
+This brief was produced by the HAI Partnerships team as one of its strategic initiatives, with research and writing led by Alex
+Ker. We are grateful for the generosity of the following people for providing their time, helpful suggestions, and constructive
+feedback in the creation of this brief (names listed in no particular order): Alice Hau, Brooke Donald, Carl Wieman, Chris
+Piech, Dan Schwartz, Denise Pope, Emma Brunskill, Irene Lo, Jiayu He, Joshua Weiss, Noah Goodman, Peter Norvig,
+Hariharan Subramonyam, Karen Wang, Nick Haber, Paul Kim, William Cai, Peter Norvig, and the HAI Staff.

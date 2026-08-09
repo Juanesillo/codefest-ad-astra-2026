@@ -1,0 +1,104 @@
+Reentry and collision avoidance
+
+Apart from protection and shielding, avoiding the creation of debris in the first place can best mitigate the effects of debris impacts.
+
+This, however, can only be done if the orbits of the debris and target object are known with sufficient accuracy.
+
+Benefiting from a data-sharing agreement with US Strategic Command, ESA uses Conjunction Data Messages provided by the US Joint Space Operations Center (JSpOC) together with ESA’s own orbit data, to analyse all close approaches (‘potential conjunctions’) of a given satellite (‘target’) with any of the catalogued objects.
+
+The collision risk is determined as a function of the object sizes, the predicted miss distance, the flyby geometry and the orbit uncertainties of the two objects involved.
+
+ESA’s Space Debris Office offers conjunction predictions and estimation of collision risks as an operational service to missions flown by ESA and by other agencies.
+
+Predictions are updated several times a day, typically covering seven days ahead. This is achieved by a highly automated process retrieving and analysing several hundred messages every day using operational orbit files, environmental data for the orbit propagation and ESA’s DISCOS database for the object properties, and autonomously screening planned routine orbital manoeuvres.
+
+A modern, web-based front-end with visualisation capabilities supports communication with the flight control teams, flight dynamics teams and mission managers.
+
+A dashboard view presents overall conjunction statistics and highlights the closest and most riskyiest events, whereas for a single conjunction an extended data set of analysis results is accessible via an events view page.
+
+This includes the collision probability, miss distance, approach geometry, and information on orbits and orbit uncertainties for the whole history of analyses performed for that conjunction event as well as detailed information on the chaser object (geometry, mass, origin, type).
+
+If a mission’s designated ‘tolerable probability threshold’ is exceeded, the Space Debris Office informs the mission control teams and supports the definition and planning of an avoidance manoeuvre by advising on optimal manoeuvre strategies and screening orbit files covering potential manoeuvres to confirm the desired risk reduction, as well as ensuring risks of other conjunctions remain at acceptable levels.
+
+On average ESA, executes 12 collision avoidance manoeuvres per year (see ‘Anatomy of a debris incident’ for more information).
+
+Each day satellites, rocket stages or fragments thereof reenter the denser layers of the atmosphere, where they usually burn up. Shortly before reentry, at about 120 km altitude, spacecraft have speeds of typically 28 000 km/h.
+
+Only a few very large objects, such as heavy scientific satellites, reenter Earth’s atmosphere in a year. In total, about 75% of all the larger objects ever launched have already reentered. Objects of moderate size, i.e. 1 m or above, reenter about once a week, while on average two small tracked debris objects reenter per day.
+
+In general, reentering objects pose only a marginal risk to people or infrastructure on the ground or to aviation.
+
+From an altitude of 110 km, during the last 10 minutes before an object reaches the ground, the atmosphere is dense enough that the object heats up owing to air resistance, and it decelerates, leading in the majority of cases to its complete destruction.
+
+In the case of a large or a very compact and dense spacecraft, and especially when a large amount of high-melting-point material such as stainless steel or titanium is involved, fragments of the object may reach the ground.
+
+As these are rare events, and as about 75% of Earth’s surface is covered by water and large portions of the land mass are uninhabited, the risk to any single individual is several orders of magnitude smaller than commonly accepted risks faced in daily life. Being struck by lightning, for example, is 60 000 times more likely.
+
+In fact, to date there have been no known injuries resulting from reentering space debris. However, it is important to monitor the risk to the global population.
+
+Skylab (74 tonnes, reentry ) and Salyut-7/Kosmos-1686 (40 tonnes, reentry ) are well-known examples of large-mass uncontrolled reentries.
+
+In such cases, 20-40% of the spacecraft mass may survive reentry to reach the ground. Examples of recent uncontrolled reentries that generated significant public interest were the Russian Phobos-Grunt mission to Mars in 2012 and ESA’s GOCE gravity explorer in 2013.
+
+ESA’s five Automated Transport Vehicle (ATV) missions all performed controlled and safe reentries into an uninhabited area in the South Pacific Ocean. The reentry break­up process of the first ATV mission on 29 was monitored from two observation aircraft.
+
+ESA's reentry prediction capabilities
+
+As mentioned above, for people and property on the ground, the hazards posed by reentering spacecraft or debris are extremely small.
+
+The controlled or uncontrolled reentry of spacecraft and space systems is, however, associated with a number of legal and safety aspects that must be considered.
+
+The risk due to reentries can be determined through analysis of surviving fragments (if any), their dispersion across a ground swath, and the resulting casualty risk for the underlying ground population distribution.
+
+A 1-in-10 000 probability threshold for the casualty risk of a single uncontrolled reentry is commonly accepted by space agencies and nation states. It is mandatory for ESA missions to meet this threshold and ESA can provide the required analysis of both controlled and uncontrolled reentries.
+
+Reentry manoeuvres can be optimised to control the impact footprint (ideally over an ocean area), and thus maintain the casualty probability below an acceptable risk threshold.
+
+In the case of uncontrolled reentries, the reentry time window and impact footprint can be predicted and monitored. The quality of this process can be improved through tracking data and sophisticated orbit prediction tools.
+
+ESA’s analysis of both controlled and uncontrolled reentries includes:
+
+Detailed simulations of the aerothermal and structural break­up of satellites or orbital stages;
+
+Prediction of the orbit and attitude of each reentry fragment;
+
+Identification of objects reaching the ground;
+
+Analysis of associated risk potentials for the population in the entry ground swath.
+
+ESA’s Space Debris Office provides information on upcoming and past reentries to a wide target audience, including national protection agencies, researchers and the general public, via a web-based portal. ESA participates in and hosts a reentry data exchange platform for the Inter-Agency Space Debris Coordination Committee (IADC).
+
+Apart from protection and shielding, avoiding the creation of debris in the first place can best mitigate the effects of debris impacts.
+This, however, can only be done if the orbits of the debris and target object are known with sufficient accuracy.
+Benefiting from a data-sharing agreement with US Strategic Command, ESA uses Conjunction Data Messages provided by the US Joint Space Operations Center (JSpOC) together with ESA’s own orbit data, to analyse all close approaches (‘potential conjunctions’) of a given satellite (‘target’) with any of the catalogued objects.
+The collision risk is determined as a function of the object sizes, the predicted miss distance, the flyby geometry and the orbit uncertainties of the two objects involved.
+ESA’s Space Debris Office offers conjunction predictions and estimation of collision risks as an operational service to missions flown by ESA and by other agencies.
+Predictions are updated several times a day, typically covering seven days ahead. This is achieved by a highly automated process retrieving and analysing several hundred messages every day using operational orbit files, environmental data for the orbit propagation and ESA’s DISCOS database for the object properties, and autonomously screening planned routine orbital manoeuvres.
+A modern, web-based front-end with visualisation capabilities supports communication with the flight control teams, flight dynamics teams and mission managers.
+A dashboard view presents overall conjunction statistics and highlights the closest and most riskyiest events, whereas for a single conjunction an extended data set of analysis results is accessible via an events view page.
+This includes the collision probability, miss distance, approach geometry, and information on orbits and orbit uncertainties for the whole history of analyses performed for that conjunction event as well as detailed information on the chaser object (geometry, mass, origin, type).
+If a mission’s designated ‘tolerable probability threshold’ is exceeded, the Space Debris Office informs the mission control teams and supports the definition and planning of an avoidance manoeuvre by advising on optimal manoeuvre strategies and screening orbit files covering potential manoeuvres to confirm the desired risk reduction, as well as ensuring risks of other conjunctions remain at acceptable levels.
+On average ESA, executes 12 collision avoidance manoeuvres per year (see ‘Anatomy of a debris incident’ for more information).
+Each day satellites, rocket stages or fragments thereof reenter the denser layers of the atmosphere, where they usually burn up. Shortly before reentry, at about 120 km altitude, spacecraft have speeds of typically 28 000 km/h.
+Only a few very large objects, such as heavy scientific satellites, reenter Earth’s atmosphere in a year. In total, about 75% of all the larger objects ever launched have already reentered. Objects of moderate size, i.e. 1 m or above, reenter about once a week, while on average two small tracked debris objects reenter per day.
+In general, reentering objects pose only a marginal risk to people or infrastructure on the ground or to aviation.
+From an altitude of 110 km, during the last 10 minutes before an object reaches the ground, the atmosphere is dense enough that the object heats up owing to air resistance, and it decelerates, leading in the majority of cases to its complete destruction.
+In the case of a large or a very compact and dense spacecraft, and especially when a large amount of high-melting-point material such as stainless steel or titanium is involved, fragments of the object may reach the ground.
+As these are rare events, and as about 75% of Earth’s surface is covered by water and large portions of the land mass are uninhabited, the risk to any single individual is several orders of magnitude smaller than commonly accepted risks faced in daily life. Being struck by lightning, for example, is 60 000 times more likely.
+In fact, to date there have been no known injuries resulting from reentering space debris. However, it is important to monitor the risk to the global population.
+Skylab (74 tonnes, reentry ) and Salyut-7/Kosmos-1686 (40 tonnes, reentry ) are well-known examples of large-mass uncontrolled reentries.
+In such cases, 20-40% of the spacecraft mass may survive reentry to reach the ground. Examples of recent uncontrolled reentries that generated significant public interest were the Russian Phobos-Grunt mission to Mars in 2012 and ESA’s GOCE gravity explorer in 2013.
+ESA’s five Automated Transport Vehicle (ATV) missions all performed controlled and safe reentries into an uninhabited area in the South Pacific Ocean. The reentry break­up process of the first ATV mission on 29 was monitored from two observation aircraft.
+ESA's reentry prediction capabilities
+As mentioned above, for people and property on the ground, the hazards posed by reentering spacecraft or debris are extremely small.
+The controlled or uncontrolled reentry of spacecraft and space systems is, however, associated with a number of legal and safety aspects that must be considered.
+The risk due to reentries can be determined through analysis of surviving fragments (if any), their dispersion across a ground swath, and the resulting casualty risk for the underlying ground population distribution.
+A 1-in-10 000 probability threshold for the casualty risk of a single uncontrolled reentry is commonly accepted by space agencies and nation states. It is mandatory for ESA missions to meet this threshold and ESA can provide the required analysis of both controlled and uncontrolled reentries.
+Reentry manoeuvres can be optimised to control the impact footprint (ideally over an ocean area), and thus maintain the casualty probability below an acceptable risk threshold.
+In the case of uncontrolled reentries, the reentry time window and impact footprint can be predicted and monitored. The quality of this process can be improved through tracking data and sophisticated orbit prediction tools.
+ESA’s analysis of both controlled and uncontrolled reentries includes:
+Detailed simulations of the aerothermal and structural break­up of satellites or orbital stages;
+Prediction of the orbit and attitude of each reentry fragment;
+Identification of objects reaching the ground;
+Analysis of associated risk potentials for the population in the entry ground swath.
+ESA’s Space Debris Office provides information on upcoming and past reentries to a wide target audience, including national protection agencies, researchers and the general public, via a web-based portal. ESA participates in and hosts a reentry data exchange platform for the Inter-Agency Space Debris Coordination Committee (IADC).

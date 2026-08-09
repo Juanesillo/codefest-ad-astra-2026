@@ -1,0 +1,360 @@
+Policy Brief
+HAI Policy & Society
+
+What Makes a Good
+Key Takeaways
+The rapid advancement and
+AI Benchmark? proliferation of AI systems, including
+foundation models, has catalyzed
+the widespread adoption of AI
+benchmarks—yet only very limited
+research to date has evaluated
+Anka Reuel, Amelia Hardy, Chandler Smith, Max Lamparth, the quality of AI benchmarks in a
+structured manner.
+Malcolm Hardy, and Mykel J. Kochenderfer
+We reviewed benchmarking
+THE RAPID ADVANCEMENT AND PROLIFERATION OF AI SYSTEMS, and literature and interviewed
+expert stakeholders to define
+in particular foundation models (FMs), has made AI evaluation crucial for
+what makes a high-quality
+assessing model capabilities and risks. AI model evaluations currently
+benchmark, and developed a
+include both internal approaches—such as privately testing models on novel assessment framework
+proprietary data—and external approaches—such as scoring models on for evaluating AI benchmarks
+based on 46 criteria across five
+public benchmarks. Researchers and practitioners alike have adopted AI
+benchmark life-cycle phases.
+benchmarks as a standard practice for facilitating comparisons between,
+measuring the performance of, tracking progress in, and identifying
+weaknesses in different models.
+In scoring 24 AI benchmarks, we
+found large quality differences
+between them, including those
+Yet, no studies to date have assessed the quality of AI benchmarks in general
+widely relied on by developers and
+in a structured manner, including both FM and non-FM benchmarks. Further,
+policymakers. Most benchmarks
+no comparative analyses have assessed the quality differences across the are highest quality at the design
+stage and lowest quality at the
+benchmark life cycle between widely used AI benchmarks. This leaves a
+implementation stage.
+significant gap for practitioners who may be relying on these benchmarks to
+select models for downstream tasks and policymakers who are increasingly
+integrating benchmarking in their AI policy apparatuses. Policymakers should encourage
+developers, companies, civil
+society groups, and government
+Our paper, “BetterBench: Assessing AI Benchmarks, Uncovering Issues,
+organizations to articulate
+and Establishing Best Practices,” develops an assessment framework that benchmark quality when
+conducting or relying on AI model
+considers 46 best practices across a benchmark’s life cycle, drawing on expert
+evaluations and consult best
+interviews and domain literature. We evaluate 24 AI benchmarks—16 FM and
+practices for minimum quality
+8 non-FM benchmarks—against this framework, noting quality differences assurance.
+
+Policy Brief
+What Makes a Good
+AI Benchmark?
+across the two types of benchmarks. Looking forward,
+we propose a minimum quality assurance checklist to
+We define a high-quality AI
+support test developers seeking to adopt best practices.
+benchmark as one that is
+We further make publicly available a living repository of
+benchmark assessments at betterbench.stanford.edu.
+interpretable, clear about its
+intended purpose and scope,
+This research aims to help make AI evaluations more
+transparent and empower benchmark developers
+and usable.
+to improve benchmark quality. We hope to inspire
+developers, companies, civil society groups, and
+policymakers to actively consider benchmark quality
+differences, articulate best practices, and collectively
+move toward standardizing benchmark development
+and reporting.
+Introduction
+To understand what makes a high-quality,
+effective benchmark, we extracted core themes
+Benchmarks are used in a variety of fields—from
+from benchmarking literature in fields beyond
+environmental quality to bioinformatics—to test and
+AI and conducted unstructured interviews with
+compare the performance of different systems or
+representatives from five stakeholder groups, including
+tools. In the context of AI, we adopt the definition
+more than 20 policymakers, model developers,
+of a benchmark as “a particular combination of a
+benchmark developers, model users, and AI
+dataset or sets […], and a metric, conceptualized as
+researchers. The core themes include:
+representing one or more specific tasks or sets of
+abilities, picked up by a community of researchers as
+• Designing benchmarks for downstream utility,
+a shared framework for the comparison of methods.”
+for example, by making benchmarks situation-
+Despite AI benchmarks having become standard
+and use-case-specific.
+practice, there are still vast inconsistencies when
+• Ensuring validity, for example, by outlining how
+it comes to what these benchmarks measure and
+to collect and interpret evidence.
+how the measurements are used. Because past work
+• Prioritizing score interpretability, for example, by
+has already focused on the limitations of existing
+stating evaluation goals and presenting results
+benchmarks, as well as specific proposals for data
+as inputs for decision-making, not absolutes.
+curation and documentation for AI benchmarks, our
+• Guaranteeing accessibility, for example,
+work aims to offer practical insights and proposes
+by providing data and scripts for others to
+a rigorous framework that empowers developers to
+reproduce results.
+assess and enhance benchmark quality.
+
+Policy Brief
+What Makes a Good
+AI Benchmark?
+Based on this review, we define a high-quality AI Research Outcomes
+benchmark as one that is interpretable, clear about
+its intended purpose and scope, and usable. We also
+Our research highlights that AI model benchmarks—
+identified a five-stage benchmark life cycle and paired
+including ones that are commonly used—vary
+each benchmark stage with criteria we could use for
+significantly in their quality. For example, the
+our quality assessments:
+widely used MMLU benchmark scored the lowest
+on usability (5.0) among all 24 benchmarks we
+1. Design: 14 criteria (e.g., Have domain experts
+evaluated, while another commonly used benchmark,
+been involved in the development?)
+GPQA, scored much higher (10.9). Yet it is common
+2. Implementation: 11 criteria (e.g., Is the
+for developers to report results on both MMLU
+evaluation script available?)
+and GPQA without articulating their limitations or
+3. Documentation: 19 criteria (e.g., Is the
+quality differences—for example, when introducing
+applicable license specified?)
+major models such as GPT-4, Claude-3, and Gemini.
+4. Maintenance: 3 criteria (e.g., Is a feedback
+Similarly, the UK’s AI Safety Institute has developed
+channel available for users?)
+a framework for evaluating LLMs that includes both
+5. Retirement: no criteria (only suggested best
+MMLU and GPQA, while the EU AI Act specifically
+practices in our paper, since we cannot
+mentions the use of such benchmarks. This means
+evaluate the retirement of active benchmarks)
+policymakers and other actors often rely on
+conflicting and even misleading evaluations.
+We used this scoring system to assess 16 FM
+benchmarks (including MMLU, HellaSwag, GSM8K,
+Most benchmarks we evaluated also fail to distinguish
+ARC Challenge, BOLD, WinoGrande, and TruthfulQA)
+between signals and noise. Developers may test
+and 8 non-FM benchmarks (including Procgen,
+two models with one benchmark but struggle
+WordCraft, FinRL-Meta, and MedMNIST v2) according
+to understand if different results reflect genuine
+to each criterion, assigning 15 (fully meeting criterion),
+performance differences or merely noisy outputs.
+10 (partially meeting), 5 (mentioning without fulfilling),
+or 0 (neither referencing nor satisfying). At least two
+Implementation remains another major weakness of
+authors independently reviewed each benchmark and
+AI benchmarks. Both FM and non-FM benchmarks,
+reached consensus on all final scores.
+on average, achieve their highest scores at the design
+stage (10.6 and 11.1 on average, respectively) and their
+lowest scores at the implementation stage (5.5 and
+AI model benchmarks—including 7.4 on average, respectively), in line with previously
+reported implementation challenges.
+ones that are commonly used—
+vary significantly in their quality. Of note, both FM and non-FM benchmarks are
+particularly weak on the reproducibility and interpretation
+of results: 17 of 24 benchmarks do not provide easy-
+
+Policy Brief
+What Makes a Good
+AI Benchmark?
+
+0 5 10 15
+Design Score [a.u.]
+to-run scripts to replicate the results from initial
+papers, and only 4 of 24 benchmarks provide scripts
+Reproducibility is important for
+to replicate some of the results. This is a problem.
+Reproducibility is important for validating benchmarks, validating benchmarks, but there
+but there are clear gaps when it comes to empowering
+are clear gaps when it comes
+developers, companies, civil society groups, and
+policymakers to evaluate and replicate results. to empowering developers,
+companies, civil society groups,
+We also found statistically significant correlations
+between design and usability scores for FM and non- and policymakers to evaluate and
+FM benchmarks, suggesting that poorly designed
+replicate results.
+benchmarks tend to be less usable.
+Finally, the strong discrepancies we found in AI
+benchmark quality highlight the urgent need for the
+development of best practices that can help ensure
+
+].u.a[
+erocS
+ytilibasU
+Foundation Model DecodingTrust
+Non-Foundation Model
+ALE
+PDEBench
+BIG-bench
+GPQA FinRL-Meta
+AgentBench MLCommons AI Safety v0.5
+TruthfulQA
+WinoGrande
+Procgen RL Unplugged
+ARC Challenge
+Machiavelli
+GSM8k
+SafeBench
+BBQ Human Eval
+HellaSwag Wordcraft
+MMMU
+BOLD
+MMLU
+MedMNIST v2
+Figure 1: Design and usability scores for all 24 assessed benchmarks, whereby the usability score is the weighted average of the
+implementation, documentation, and maintenance scores.
+
+Policy Brief
+What Makes a Good
+AI Benchmark?
+a minimum quality standard for AI benchmarks,
+especially given their increasing popularity and use
+Small changes can lead to
+in governance contexts. We developed a checklist of
+46 best practices and encourage developers to adopt significant improvements in
+these during their process of creating benchmarks.
+overall benchmark practices.
+These include, for example, making sure that the
+benchmark clearly describes how scores should
+be interpreted, makes its evaluation code publicly
+available, documents its limitations, and includes a
+feedback channel for users.
+Our research underscores that policymakers should
+In addition to identifying best practices, we outlined
+go one step further to articulate what makes AI
+a variety of design considerations that benchmark
+benchmarks high-quality and what their limitations
+developers should take into account when developing
+are—stating clearly in guidance documents that
+high-quality benchmarks but that were either
+benchmarks vary in quality and approach, and that
+context-dependent or harder to operationalize as
+developers should strive to articulate the quality
+concrete criteria. These include considering whether
+of their benchmark evaluations. These statements
+to prioritize broad concept benchmarks or those
+alone should clarify misconceptions about different
+focused on specific AI contexts and domains; how
+benchmarks’ applicability and encourage industry to
+to assess multimodal models across their multiple
+strengthen benchmarks’ interpretability and usability.
+modalities; whether to prioritize dynamic versus
+Articulating quality metrics across benchmark
+static benchmarks in different situations; and how to
+life cycle stages (e.g., when they are designed vs.
+prevent cheating and to ensure evaluations accurately
+implemented) can strengthen evaluations.
+reflect model performance.
+Our research also shows that small changes can lead
+to significant improvements in overall benchmark
+Policy Discussion
+practices. Many criteria we laid out over the
+benchmarking life cycle’s five phases are relatively
+AI benchmarks have already become a widely
+easy to implement, even for existing AI benchmarks.
+accepted tool for developers to compare model
+For example, adding code documentation and a point
+performance and in some cases inform decisions
+of contact to a benchmark are not time-consuming,
+regarding downstream tasks. Policymakers, too, are
+but they can significantly enhance a benchmark’s
+increasingly working to understand AI benchmarks,
+usability, transparency, and accountability. Developers
+promoting their use across companies and relying
+and civil society groups should make these kinds of
+on their outcomes for policy decisions. Making AI
+measures an explicit best practice, and policymakers
+benchmarks more practicable, transparent, and
+should integrate such recommendations into their AI
+comparable is therefore crucial.
+evaluation guidance.
+
+Policy Brief
+What Makes a Good
+AI Benchmark?
+Policymakers should additionally encourage research
+on open challenges in AI benchmarking. These include
+quick saturation (benchmarks becoming quickly
+outdated because model capabilities advance so
+quickly that models achieve near-perfect scores),
+contamination (model developers training on
+benchmark data, such as when scraping the web),
+poor construct validity (not designing a test such that
+it accurately measures the concept it is intended to
+measure), and standardization of benchmark reporting.
+Future research on these topics could build on our
+concept of measuring the quality of benchmarks
+and focus further on empowering developers and
+evaluators to produce systematic, repeatable, and
+interpretable results for different AI applications.
+The greater adoption of AI benchmarks helps with
+systematic model evaluation, transparency, and,
+ideally, accountability. By adopting this framework
+and checklist to generate higher-quality benchmarks,
+we hope that developers, policymakers, and other
+stakeholders can make better-informed model
+selections and decisions for downstream tasks—while
+potentially reducing risks and improving outcomes in
+high-stakes applications.
+
+Reference: The original article is accessible at Anka Reuel is a PhD student in computer
+Anka Reuel, Amelia Hardy et al., “BetterBench: science at the Stanford Trustworthy AI
+Assessing AI Benchmarks, Uncovering Issues, and Research Lab and the Stanford Intelligent
+Establishing Best Practices,” arxiv.org, November Systems Lab at Stanford University.
+20, 2024, The article
+was accepted as a Spotlight Paper at NeurIPS 2024.
+A living repository of benchmark assessments is Amelia Hardy is a researcher
+available at with the Stanford NLP Group at
+Stanford University.
+Chandler Smith is a research
+Stanford University’s Institute for Human-Centered
+scholar at ML Alignment & Theory
+Artificial Intelligence (HAI) applies rigorous analysis
+Scholars.
+and research to pressing policy questions on artificial
+intelligence. A pillar of HAI is to inform policymakers,
+industry leaders, and civil society by disseminating
+Max Lamparth is a postdoctoral fellow
+scholarship to a wide audience. HAI is a nonpartisan
+at the Center for International Security
+research institute, representing a range of voices.
+and Cooperation at Stanford University
+The views expressed in this policy brief reflect the
+and the Stanford Center for AI Safety.
+views of the authors. For further information, please
+contact HAI-Policy@stanford.edu.
+Malcolm Hardy is a researcher at the
+Stanford Intelligent Systems Labs at
+Stanford University.
+Mykel J. Kochenderfer is an associate
+professor of aeronautics and astronautics
+at Stanford University and a faculty
+affiliate of the Stanford Institute for
+Human-Centered Artificial Intelligence.
+Stanford HAI: 353 Jane Stanford Way, Stanford CA 94305-5008
+T 650.725.4537 F 650.123.4567 E HAI-Policy@stanford.edu hai.stanford.edu

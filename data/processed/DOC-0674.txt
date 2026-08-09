@@ -1,0 +1,176 @@
+ESA Space Environment Report 2025
+
+Our planet is surrounded by spacecraft carrying out important work to study our changing climate, deliver global communication and navigation services and help us answer important scientific questions.
+
+But some of their orbits are getting crowded and increasingly churning with deadly, fast-moving pieces of defunct satellites and rockets that threaten our future in space.
+
+Since 2017, ESA’s Space Debris Office has published an annual Space Environment Report to provide a transparent overview of global space activities and determine how well international debris-reduction measures are improving the long-term sustainability of spaceflight.
+
+Below is an overview of the 2025 report, based on data collected until the end of 2024.
+
+Earth’s orbital environment is a finite resource.
+
+Satellites that remain in their operational orbit at the end of their mission are at risk of fragmenting into dangerous clouds of debris that linger in orbit for many years.
+
+The number and scale of commercial satellite constellations in certain low-Earth orbits continue to increase year over year.
+
+Within certain heavily populated altitude bands the density of active objects is now the same order of magnitude as space debris.
+
+Intact satellites or rocket bodies are now re-entering the Earth atmosphere on average more than three times a day.
+
+Yet not enough satellites leave heavily congested orbits at the end of their lives, creating a collision risk.
+
+2024 saw several major fragmentation events as well as many smaller ones, together adding thousands of new debris objects, underlining the need for prevention by implementing passivation and reduced orbit lifetime measures.
+
+The adherence to space debris mitigation standards is slowly improving over the years, especially in the commercial sector, but it is not enough to stop the increase of the number and amount of space debris.
+
+Even without any additional launches, the number of space debris would keep growing, because fragmentation events add new debris objects faster than debris can naturally re-enter the atmosphere.
+
+To prevent this runaway chain reaction, known as Kessler syndrome, from escalating and making certain orbits unusable, active debris removal is required.
+
+The amount of space debris grows fast
+
+The amount of space debris in orbit continues to rise quickly. About 40 000 objects are now tracked by space surveillance networks, of which about 11 000 are active payloads.
+
+However, the actual number of space debris objects larger than 1 cm in size – large enough to be capable of causing catastrophic damage – is estimated to be over 1.2 million, with over 50.000 objects of those larger than 10 cm.
+
+Low-Earth orbit gets more crowded
+
+ESA’s debris modelling tool MASTER shows that in the low-Earth orbit range of around 550 km altitude there is now the same order of magnitude of debris objects posing a threat as there are active satellites.
+
+These preferential altitude ranges for communication constellations show a clear peak in satellite concentration. However, compared to previous years, a significant chunk of the active payloads in constellations are flying significantly lower, with about a quarter now in the sub-500 km altitude bands.
+
+Fragmentations are still a problem
+
+In 2024, there were several major fragmentation events, as well as several smaller ones. This has led to large increase in objects in one year, with at least over 3 000 tracked objects added.
+
+The significant effect of such events illustrates the importance of measures undertaken at the end of a satellite’s or launcher’s lifetime that reduce the risk of such events. This includes passivation techniques to ensure there is no fuel or battery charge left that can lead to explosions and safely removing satellites from important orbits.
+
+Evasive action is unavoidable in certain orbits
+
+The chance of a collision regularly requires action for all satellites sharing a busy orbit, including for all spacecraft having to pass through these orbits.
+
+Especially in low-Earth orbits, the growing traffic congestion combined with the space debris cause the number of events triggering collision avoidance procedures to go up each year. We need strong space traffic coordination for satellites to be able to avoid active neighbours as well as non-manoeuvrable space debris.
+
+This poses the question: Will the risk become too high to consider the space environment healthy and sustainable? To make it easier to consider the answer objectively, ESA is introducing a new Health Index of our space environment that gives a clear and immediate indication of its evolving health status. It may come as no surprise that if we continue our current behaviour in space, the risk level passes beyond the point of sustainability.
+
+Mitigation efforts on the rise
+
+Re-entries continue positive trend
+
+The number of intact objects re-entering Earth’s atmosphere in 2024 went up.
+
+The big bump in overall re-entry numbers caused by an anti-satellite missile test at the end of 2021 peaked in 2022 (Payload Fragmentation Debris, PF in light blue) and is fading, while the rapidly rising trend is visible of satellites re-entering the atmosphere (Payloads, PL in dark blue). This is a result of improved compliance with space debris mitigation guidelines to remove satellites at the end of their lifetime from important orbits. At the same time, launchers are also re-entering in great numbers, with the controlled re-entries outnumbering uncontrolled ones for the first year in 2024.
+
+The diagram on the right shows the trend that more larger objects are coming down, especially large payloads (PL) re-entries increased compared to last year.
+
+Mitigation compliance: 25 vs. 5 years
+
+Both rocket bodies and payloads are re-entering in greater numbers year-on-year, especially in the commercial sector. This can partly be contributed to increased efforts to follow debris mitigation guidelines, with the number of rocket bodies returning in a controlled manner is a particular area of improvement.
+
+About 90% of rocket bodies in low-Earth orbits are now leaving valuable orbits in compliance with the re-entry within 25 years standards from before 2023, with more than half re-entering in a controlled manner.
+
+About 80% is also compliant with the new, tightened standard of vacating orbits within 5 years that ESA has adopted for its own activities in 2023. There has not yet been much time to adjust to the new standards, which is why the gap has not yet been closing. However, the difference in compliance is not too large with about 10% and might close in the future, as ESA’s standards hopefully inspire others to follow suit.
+
+Another factor that will continue to affect re-entries for the next few years is the high level of solar activity caused by the peak in the current solar cycle. This period of intense space weather events can often cause increase atmospheric drag, which contributes to accelerated re-entry times.
+
+Debris objects increase outpaces natural re-entries
+
+Despite the improvement in mitigation efforts, a lack of compliance and remediation meant that 2024 saw a net growth of the space debris population. If we extrapolate current trends into the future, as before, catastrophic collision numbers could rise significantly.
+
+There is a scientific consensus that even without any additional launches, the number of space debris would keep growing, because fragmentation events add new debris objects faster than debris can naturally re-enter the atmosphere, also known as the Kessler syndrome. This chain reaction can make certain orbits become unsafe and unusable over time as debris continues to collide and fragment again and again, creating a cascading effect.
+
+This means that not adding new debris is no longer enough: the space debris environment has to be actively cleaned up.
+
+Future aspirations in space are turning towards the Moon and beyond. On top of keeping low-Earth orbits safe to pass through for human space explorers, keeping cislunar space – the region between Earth and the Moon – clean is becoming an area of increasing importance.
+
+Without strong gravity and a thick atmosphere to gradually remove debris from orbit, it is crucial to apply the lessons learned and keep lunar orbits free of debris from the start.
+
+Stricter mitigation standards
+
+The net growth of the space debris population and the Kessler syndrome risk makes clear what must be done if we want to continue using our space environment. There is a growing consensus – and push from actors across the space sector – that stricter space debris mitigation practices need to be implemented globally to keep space activities viable, including the 5-year limit to vacate busy orbits.
+
+What are we doing about it?
+
+Setting community standards
+
+Getting a better view on the problem through space debris tracking and reporting is just the first step in resolving the space debris problem.
+
+ESA has set itself the goal to significantly limit the production of debris in Earth and lunar orbits of all future missions, programmes and activities by 2030 through its Zero Debris Approach. ESA is leading by example as it works on many activities in parallel as part of this holistic approach:
+
+ESA has updated its debris mitigation requirements, policy and standards that govern how the Agency's missions are designed, built, flown and disposed of, also setting the rules for any company or institution that works with ESA on its missions.
+
+Stricter debris mitigation guidelines are welcomed by many in the space sector and shows itself in the increasing wave of community-driven activities. In 2023, ESA facilitated the creation of the Zero Debris Charter by the Zero Debris community in Europe. The Charter has since been signed by 19 countries and over 150 commercial and non-commercial entities.
+
+ESA has also facilitated the next step, the creation of a Zero Debris Technical Booklet, a crowd-sourced effort of many stakeholders in the space sector. It’s essentially a ‘to do list’, defining the technical solutions necessary to achieve the Zero Debris Charter goals.
+
+ESA also works directly on technology and capability development to prevent and counteract space debris, while enabling and stimulating European industry to pioneer in-space sustainability solutions. For example, advancing the design of zero-debris satellites.
+
+A number of missions are in development at ESA and its partners to actively combat the generation of debris. This includes developing new passivation techniques, preventing in-orbit break-ups and conducting active debris removal and in-orbit servicing demonstrations.
+
+Even if we created no new space debris, it would not be enough to prevent a runaway series of collisions and fragmentations.
+
+Where possible, ESA is attempting to deorbit satellites that were designed and built well before its current guidelines came into effect. The agency is putting great effort into removing missions such as Aeolus and Cluster from orbit in more sustainable ways than were first envisioned.
+
+Finally, we must also clean up littered orbits by attempting to safely re-enter missions already in orbit and conduct active debris removal via missions such as ESA's ClearSpace-1.
+
+Read the full ESA 2025 Annual Space Environment Report
+
+Our planet is surrounded by spacecraft carrying out important work to study our changing climate, deliver global communication and navigation services and help us answer important scientific questions.
+But some of their orbits are getting crowded and increasingly churning with deadly, fast-moving pieces of defunct satellites and rockets that threaten our future in space.
+Since 2017, ESA’s Space Debris Office has published an annual Space Environment Report to provide a transparent overview of global space activities and determine how well international debris-reduction measures are improving the long-term sustainability of spaceflight.
+Below is an overview of the 2025 report, based on data collected until the end of 2024.
+Earth’s orbital environment is a finite resource.
+Satellites that remain in their operational orbit at the end of their mission are at risk of fragmenting into dangerous clouds of debris that linger in orbit for many years.
+The number and scale of commercial satellite constellations in certain low-Earth orbits continue to increase year over year.
+Within certain heavily populated altitude bands the density of active objects is now the same order of magnitude as space debris.
+Intact satellites or rocket bodies are now re-entering the Earth atmosphere on average more than three times a day.
+Yet not enough satellites leave heavily congested orbits at the end of their lives, creating a collision risk.
+2024 saw several major fragmentation events as well as many smaller ones, together adding thousands of new debris objects, underlining the need for prevention by implementing passivation and reduced orbit lifetime measures.
+The adherence to space debris mitigation standards is slowly improving over the years, especially in the commercial sector, but it is not enough to stop the increase of the number and amount of space debris.
+Even without any additional launches, the number of space debris would keep growing, because fragmentation events add new debris objects faster than debris can naturally re-enter the atmosphere.
+To prevent this runaway chain reaction, known as Kessler syndrome, from escalating and making certain orbits unusable, active debris removal is required.
+The amount of space debris grows fast
+The amount of space debris in orbit continues to rise quickly. About 40 000 objects are now tracked by space surveillance networks, of which about 11 000 are active payloads.
+However, the actual number of space debris objects larger than 1 cm in size – large enough to be capable of causing catastrophic damage – is estimated to be over 1.2 million, with over 50.000 objects of those larger than 10 cm.
+Low-Earth orbit gets more crowded
+ESA’s debris modelling tool MASTER shows that in the low-Earth orbit range of around 550 km altitude there is now the same order of magnitude of debris objects posing a threat as there are active satellites.
+These preferential altitude ranges for communication constellations show a clear peak in satellite concentration. However, compared to previous years, a significant chunk of the active payloads in constellations are flying significantly lower, with about a quarter now in the sub-500 km altitude bands.
+Fragmentations are still a problem
+In 2024, there were several major fragmentation events, as well as several smaller ones. This has led to large increase in objects in one year, with at least over 3 000 tracked objects added.
+The significant effect of such events illustrates the importance of measures undertaken at the end of a satellite’s or launcher’s lifetime that reduce the risk of such events. This includes passivation techniques to ensure there is no fuel or battery charge left that can lead to explosions and safely removing satellites from important orbits.
+Evasive action is unavoidable in certain orbits
+The chance of a collision regularly requires action for all satellites sharing a busy orbit, including for all spacecraft having to pass through these orbits.
+Especially in low-Earth orbits, the growing traffic congestion combined with the space debris cause the number of events triggering collision avoidance procedures to go up each year. We need strong space traffic coordination for satellites to be able to avoid active neighbours as well as non-manoeuvrable space debris.
+This poses the question: Will the risk become too high to consider the space environment healthy and sustainable? To make it easier to consider the answer objectively, ESA is introducing a new Health Index of our space environment that gives a clear and immediate indication of its evolving health status. It may come as no surprise that if we continue our current behaviour in space, the risk level passes beyond the point of sustainability.
+Mitigation efforts on the rise
+Re-entries continue positive trend
+The number of intact objects re-entering Earth’s atmosphere in 2024 went up.
+The big bump in overall re-entry numbers caused by an anti-satellite missile test at the end of 2021 peaked in 2022 (Payload Fragmentation Debris, PF in light blue) and is fading, while the rapidly rising trend is visible of satellites re-entering the atmosphere (Payloads, PL in dark blue). This is a result of improved compliance with space debris mitigation guidelines to remove satellites at the end of their lifetime from important orbits. At the same time, launchers are also re-entering in great numbers, with the controlled re-entries outnumbering uncontrolled ones for the first year in 2024.
+The diagram on the right shows the trend that more larger objects are coming down, especially large payloads (PL) re-entries increased compared to last year.
+Mitigation compliance: 25 vs. 5 years
+Both rocket bodies and payloads are re-entering in greater numbers year-on-year, especially in the commercial sector. This can partly be contributed to increased efforts to follow debris mitigation guidelines, with the number of rocket bodies returning in a controlled manner is a particular area of improvement.
+About 90% of rocket bodies in low-Earth orbits are now leaving valuable orbits in compliance with the re-entry within 25 years standards from before 2023, with more than half re-entering in a controlled manner.
+About 80% is also compliant with the new, tightened standard of vacating orbits within 5 years that ESA has adopted for its own activities in 2023. There has not yet been much time to adjust to the new standards, which is why the gap has not yet been closing. However, the difference in compliance is not too large with about 10% and might close in the future, as ESA’s standards hopefully inspire others to follow suit.
+Another factor that will continue to affect re-entries for the next few years is the high level of solar activity caused by the peak in the current solar cycle. This period of intense space weather events can often cause increase atmospheric drag, which contributes to accelerated re-entry times.
+Debris objects increase outpaces natural re-entries
+Despite the improvement in mitigation efforts, a lack of compliance and remediation meant that 2024 saw a net growth of the space debris population. If we extrapolate current trends into the future, as before, catastrophic collision numbers could rise significantly.
+There is a scientific consensus that even without any additional launches, the number of space debris would keep growing, because fragmentation events add new debris objects faster than debris can naturally re-enter the atmosphere, also known as the Kessler syndrome. This chain reaction can make certain orbits become unsafe and unusable over time as debris continues to collide and fragment again and again, creating a cascading effect.
+This means that not adding new debris is no longer enough: the space debris environment has to be actively cleaned up.
+Future aspirations in space are turning towards the Moon and beyond. On top of keeping low-Earth orbits safe to pass through for human space explorers, keeping cislunar space – the region between Earth and the Moon – clean is becoming an area of increasing importance.
+Without strong gravity and a thick atmosphere to gradually remove debris from orbit, it is crucial to apply the lessons learned and keep lunar orbits free of debris from the start.
+Stricter mitigation standards
+The net growth of the space debris population and the Kessler syndrome risk makes clear what must be done if we want to continue using our space environment. There is a growing consensus – and push from actors across the space sector – that stricter space debris mitigation practices need to be implemented globally to keep space activities viable, including the 5-year limit to vacate busy orbits.
+What are we doing about it?
+Setting community standards
+Getting a better view on the problem through space debris tracking and reporting is just the first step in resolving the space debris problem.
+ESA has set itself the goal to significantly limit the production of debris in Earth and lunar orbits of all future missions, programmes and activities by 2030 through its Zero Debris Approach. ESA is leading by example as it works on many activities in parallel as part of this holistic approach:
+ESA has updated its debris mitigation requirements, policy and standards that govern how the Agency's missions are designed, built, flown and disposed of, also setting the rules for any company or institution that works with ESA on its missions.
+Stricter debris mitigation guidelines are welcomed by many in the space sector and shows itself in the increasing wave of community-driven activities. In 2023, ESA facilitated the creation of the Zero Debris Charter by the Zero Debris community in Europe. The Charter has since been signed by 19 countries and over 150 commercial and non-commercial entities.
+ESA has also facilitated the next step, the creation of a Zero Debris Technical Booklet, a crowd-sourced effort of many stakeholders in the space sector. It’s essentially a ‘to do list’, defining the technical solutions necessary to achieve the Zero Debris Charter goals.
+ESA also works directly on technology and capability development to prevent and counteract space debris, while enabling and stimulating European industry to pioneer in-space sustainability solutions. For example, advancing the design of zero-debris satellites.
+A number of missions are in development at ESA and its partners to actively combat the generation of debris. This includes developing new passivation techniques, preventing in-orbit break-ups and conducting active debris removal and in-orbit servicing demonstrations.
+Even if we created no new space debris, it would not be enough to prevent a runaway series of collisions and fragmentations.
+Where possible, ESA is attempting to deorbit satellites that were designed and built well before its current guidelines came into effect. The agency is putting great effort into removing missions such as Aeolus and Cluster from orbit in more sustainable ways than were first envisioned.
+Finally, we must also clean up littered orbits by attempting to safely re-enter missions already in orbit and conduct active debris removal via missions such as ESA's ClearSpace-1.
+Read the full ESA 2025 Annual Space Environment Report

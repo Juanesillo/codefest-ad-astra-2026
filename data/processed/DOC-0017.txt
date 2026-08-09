@@ -1,0 +1,3416 @@
+Artificial Intelligence
+Index Report 2025
+CHAPTER 2:
+Technical Performance
+
+Artificial Intelligence
+Index Report 2025
+Chapter 2: Technical Performance
+Overview 4 VCR: Visual Commonsense Reasoning 39
+Chapter Highlights 5 MVBench 40
+Generation 42
+2.1 Overview of AI in 2024 7 Chatbot Arena: Vision 43
+Timeline: Significant Model and Highlight: The Rise of Video
+Dataset Releases 7 Generation 44
+State of AI Performance 13
+Overall Review 13 2.4 Speech 46
+Closed vs. Open-Weight Models 14 Speech Recognition 46
+US vs. China Technical Performance 16 LSR2: Lip Reading Sentences 2 46
+Improved Performance From
+Smaller Models 18 2.5 Coding 48
+Model Performance Converges HumanEval 48
+at the Frontier 19 SWE-bench 49
+Benchmarking AI 20 BigCodeBench 50
+Chatbot Arena: Coding 51
+2.2 Language 23
+Understanding 24 2.6 Mathematics 52
+MMLU: Massive Multitask GSM8K 52
+Language Understanding 24
+MATH 53
+Generation 25
+Chatbot Arena: Math 54
+Chatbot Arena Leaderboard 25
+FrontierMath 54
+Arena-Hard-Auto 27
+Highlight: Learning and
+WildBench 28 Theorem Proving 56
+Highlight: o1, o3, and Inference-
+Time Compute 30
+2.7 Reasoning 57
+MixEval 32
+General Reasoning 57
+RAG: Retrieval Augment Generation 33
+MMMU: A Massive Multi-discipline
+Berkeley Function Calling Leaderboard 33 Multimodal Understanding and
+MTEB: Massive Text Embedding Reasoning Benchmark for Expert AGI 57
+Benchmark 35 GPQA: A Graduate-Level Google-Proof
+Highlight: Evaluating Retrieval Q&A Benchmark 58
+Across Long Contexts 37 ARC-AGI 59
+Humanity’s Last Exam 61
+2.3 Image and Video 39
+Planning 63
+Understanding 39
+PlanBench 63
+
+Artificial Intelligence
+Index Report 2025
+Chapter 2: Technical Performance (cont’d)
+2.8 AI Agents 64
+VisualAgentBench 64
+RE-Bench 65
+GAIA 67
+2.9 Robotics and Autonomous Motion 68
+Robotics 68
+RLBench 68
+Highlight: Humanoid Robotics 70
+Highlight: DeepMind’s Developments 71
+Highlight: Foundation Models
+for Robotics 74
+Self-Driving Cars 75
+Deployment 75
+Technical Innovations and
+New Benchmarks 76
+Safety Standards 77
+Appendix 80
+ACCESS THE PUBLIC DATA
+
+AArrttiifificciiaall IInntteelllliiggeennccee
+IInnddeexx RReeppoorrtt 22002255
+CHAPTER 2:
+Technical Performance
+Overview
+The Technical Performance section of this year’s AI Index provides a comprehensive
+overview of AI advancements in 2024. It begins with a high-level summary of AI
+technical progress, covering major AI-related launches, the state of AI capabilities, and
+key trends—such as the rising performance of open-weight models, the convergence
+of frontier model performance, and the improving quality of Chinese LLMs. The
+chapter then examines the current state of various AI capabilities, including language
+understanding and generation, retrieval-augmented generation, coding, mathematics,
+reasoning, computer vision, speech, and agentic AI. New this year are significantly
+expanded analyses of performance trends in robotics and self-driving cars.
+Chapter 2 Preview 4
+
+AArrttiifificciiaall IInntteelllliiggeennccee
+IInnddeexx RReeppoorrtt 22002255
+CHAPTER 2:
+Technical Performance
+Chapter Highlights
+1. AI masters new benchmarks faster than ever. In 2023, AI researchers introduced several challenging new
+benchmarks, including MMMU, GPQA, and SWE-bench, aimed at testing the limits of increasingly capable AI systems. By 2024,
+AI performance on these benchmarks saw remarkable improvements, with gains of 18.8 and 48.9 percentage points on MMMU
+and GPQA, respectively. On SWE-bench, AI systems could solve just 4.4% of coding problems in 2023—a figure that jumped
+to 71.7% in 2024.
+2. Open-weight models catch up. Last year’s AI Index revealed that leading open-weight models lagged significantly
+behind their closed-weight counterparts. By 2024, this gap had nearly disappeared. In early , the leading closed-
+weight model outperformed the top open-weight model by 8.04% on the Chatbot Arena Leaderboard. By , this
+gap had narrowed to 1.70%.
+3. The gap between Chinese and US models closes. In 2023, leading American models significantly outperformed
+their Chinese counterparts—a trend that no longer holds. At the end of 2023, performance gaps on benchmarks such as MMLU,
+MMMU, MATH, and HumanEval were 17.5, 13.5, 24.3, and 31.6 percentage points, respectively. By the end of 2024, these
+differences had narrowed substantially to just 0.3, 8.1, 1.6, and 3.7 percentage points.
+4. AI model performance converges at the frontier. According to last year’s AI Index, the Elo score difference between
+the top and 10th-ranked model on the Chatbot Arena Leaderboard was 11.9%. By early 2025, this gap had narrowed to just
+5.4%. Likewise, the difference between the top two models shrank from 4.9% in 2023 to just 0.7% in 2024. The AI landscape is
+becoming increasingly competitive, with high-quality models now available from a growing number of developers.
+5. New reasoning paradigms like test-time compute improve model performance. In 2024, OpenAI introduced
+models like o1 and o3 that are designed to iteratively reason through their outputs. This test-time compute approach dramatically
+improved performance, with o1 scoring 74.4% on an International Mathematical Olympiad qualifying exam, compared to GPT-
+4o’s 9.3%. However, this enhanced reasoning comes at a cost: o1 is nearly six times more expensive and 30 times slower than
+GPT-4o.
+Chapter 2 Preview 5
+
+AArrttiifificciiaall IInntteelllliiggeennccee
+IInnddeexx RReeppoorrtt 22002255
+CHAPTER 2:
+Technical Performance
+Chapter Highlights (cont’d)
+6. More challenging benchmarks are continually proposed. The saturation of traditional AI benchmarks like MMLU,
+GSM8K, and HumanEval, coupled with improved performance on newer, more challenging benchmarks such as MMMU and
+GPQA, has pushed researchers to explore additional evaluation methods for leading AI systems. Notable among these are
+Humanity’s Last Exam, a rigorous academic test where the top system scores just 8.80%; FrontierMath, a complex mathematics
+benchmark where AI systems solve only 2% of problems; and BigCodeBench, a coding benchmark where AI systems achieve a
+35.5% success rate—well below the human standard of 97%.
+7. High-quality AI video generators demonstrate significant improvement. In 2024, several advanced AI models
+capable of generating high-quality videos from text inputs were launched. Notable releases include OpenAI’s SORA, Stable
+Video 3D and 4D, Meta’s Movie Gen, and Google DeepMind’s Veo 2. These models produce videos of significantly higher quality
+compared to those from 2023.
+8. Smaller models drive stronger performance. In 2022, the smallest model registering a score higher than 60% on
+MMLU was PaLM, with 540 billion parameters. By 2024, Microsoft’s Phi-3-mini, with just 3.8 billion parameters, achieved the
+same threshold. This represents a 142-fold reduction in over two years.
+9. Complex reasoning remains a problem. Even though the addition of mechanisms such as chain-of-thought
+reasoning has significantly improved the performance of LLMs, these systems still cannot reliably solve problems for which
+provably correct solutions can be found using logical reasoning, such as arithmetic and planning, especially on instances larger
+than those they were trained on. This has a significant impact on the trustworthiness of these systems and their suitability in
+high-risk applications.
+10. AI agents show early promise. The launch of RE-Bench in 2024 introduced a rigorous benchmark for evaluating
+complex tasks for AI agents. In short time-horizon settings (two-hour budget), top AI systems score four times higher than human
+experts, but as the time budget increases, human performance surpasses AI—outscoring it two to one at 32 hours. AI agents
+already match human expertise in select tasks, such as writing Triton kernels, while delivering results faster and at lower costs.
+Chapter 2 Preview 6
+
+Artificial Intelligence
+Index Report 2025
+Chapter 2: Technical Performance
+2.1 Overview of AI in 2024
+The Technical Performance chapter begins with a high-
+level overview of significant model releases in 2024 and
+reviews the current state of AI technical performance.
+2.1 Overview of AI in 2024
+Timeline: Significant Model and Dataset Releases
+As chosen by the AI Index Steering Committee, here are some of the most notable model and dataset releases of 2024.
+Date Name Category Creator(s) Significance Image
+Jan 19, 2024 Stable LM 2 LLM Stability AI Stability’s latest language model builds
+on the original Stable LM, offering
+enhanced performance. With only 1.6
+billion parameters, it is designed to run
+Figure 2.1.1
+efficiently on portable devices such as Source: Wikipedia, 2025
+laptops and smartphones.
+Feb 8, 2024 Aya Dataset Dataset Cohere for A collection of 513 million prompt-
+AI, Beijing completion pairs spanning 114
+Academy of languages, released as part of Cohere’s
+AI, Cohere, Aya initiative. This paper and its
+Binghamton accompanying dataset represent
+University significant milestones in multilingual Figure 2.1.2
+Source: Cohere, 2025
+instruction tuning.
+Feb 15, 2024 Gemini 1.5 Pro LLM Google Google’s Gemini model set a new
+DeepMind benchmark with its 1M token context
+window, far exceeding GPT-4 Turbo’s
+128K token limit. Figure 2.1.3
+Source: Google, 2024
+Feb 20, 2024 SDXL-Lightning Text-to- ByteDance Developed by ByteDance, the creators
+image of TikTok, this model was among the
+fastest text-to-image systems at its
+release, generating high-quality synthetic
+images in under a second. Its speed was
+achieved through progressive adversarial Figure 2.1.4
+distillation, unlike other models that rely Source: Hugging Face, 2025
+on diffusion-based techniques.
+Mar 4, 2024 Claude 3 LLM Anthropic Anthropic’s latest LLM outperforms
+GPT-4 and Gemini on nearly all industry
+benchmarks, reduces incorrect prompt
+refusals, and delivers significantly higher
+accuracy.
+Figure 2.1.5
+Source: Anthropic, 2025
+Chapter 2 Preview 7
+
+Artificial Intelligence
+Index Report 2025
+Chapter 2: Technical Performance
+2.1 Overview of AI in 2024
+Mar 7, 2024 Inflection-2.5 LLM Inflection AI Inflection’s flagship product, “Pi,”
+featured an exceptional model with
+GPT-4–level performance while using
+only 40% of its computing resources.
+Just two weeks after the model’s release,
+Microsoft acquired Inflection for $650
+million.
+Figure 2.1.6
+Source: Inflection, 2025
+Mar 19, 2024 Moirai and Model/ Salesforce Salesforce unveils Moirai, a foundation
+LOTSA dataset model for universal forecasting,
+alongside LOTSA—a diverse, large-
+scale time series dataset with 27 billion
+observations spanning nine domains.
+Figure 2.1.7
+Source: Salesforce, 2025
+Mar 27, 2024 DBRX LLM Databricks Databricks’ open-source mixture-of-
+experts (MoE) LLM is a fine-grained
+model, surpassing similar small MoE
+models like Mixtral and Grok. This
+Figure 2.1.8
+transformer decoder-only model features
+Source: Databricks, 2025
+132B parameters (36B active per input)
+and was trained on 12 trillion tokens.
+Apr 2, 2024 Stable Audio 2 Text-to- Stability AI The latest version of Stable Audio,
+song and Stability’s AI-powered song generator,
+song-to- now supports audio-to-audio
+song functionality. Users can upload songs and
+manipulate them using natural language Figure 2.1.9
+Source: Stability AI, 2025
+prompts for seamless customization.
+Apr 17, 2024 Llama 3 LLM Meta The Llama 3 series debuts with 8B and
+70B parameter text-based models,
+ranking among the highest performing
+models of their size to date.
+Figure 2.1.10
+Source: Meta, 2025
+May 13, 2024 GPT-4o Multimodal OpenAI GPT-4o is a new multimodal model
+capable of processing inputs in any
+combination of text, audio, images, and
+video, and generating outputs in the
+same formats. It responds to audio in
+as little as 320 milliseconds, matching
+human response times.
+Figure 2.1.11
+Source: OpenAI, 2024
+Chapter 2 Preview 8
+
+Artificial Intelligence
+Index Report 2025
+Chapter 2: Technical Performance
+2.1 Overview of AI in 2024
+Jun 7, 2024 Qwen2 LLM Alibaba Qwen2, developed by China’s Alibaba,
+is a series of advanced base and
+instruction-tuned models. These models
+rival competitors like Llama 3-70B and
+Mixtral-8x22B in performance across Figure 2.1.12
+numerous benchmarks. Source: Qwen, 2024
+Jun 17, 2024 Runway Gen-3 Text-to- Runway Runway’s upgraded video generation
+video and model sets a new standard for the
+image-to- field, particularly excelling in creating
+video photorealistic humans with vivid and
+expressive emotionality.
+Figure 2.1.13
+Source: Runway, 2024
+Jul 23, 2024 Llama 3.1 405B LLM Meta Meta has released its largest model to
+date, the final in the Llama 3.1 family,
+featuring 405B parameters. Upon its
+release, it became the most capable
+openly available foundation model,
+rivaling many closed models across a
+Figure 2.1.14
+variety of benchmarks.
+Source: Meta, 2024
+Aug 12, 2024 Falcon Mamba LLM Technology A powerful new 7B parameter model,
+Innovation built on the Mamba State Space
+Institute in Language Model (SSLM) architecture,
+Abu Dhabi enables Falcon—one of the few
+government-created AI models—to
+dynamically adjust parameters and filter Figure 2.1.15
+out irrelevant inputs, making it more Source: Hugging Face, 2025
+efficient than transformer-based models.
+Aug 13, 2024 Grok-2 Text-to-text xAI Developed by xAI, Grok is an advanced
+and text-to- text- and image-generation model that
+image excels in image creation, advanced
+reasoning, and problem-solving. Its
+launch was particularly notable, as
+it quickly rivaled the performance
+of leading models despite xAI being
+founded only in .
+Figure 2.1.16
+Source: xAI, 2025
+Chapter 2 Preview 9
+
+Artificial Intelligence
+Index Report 2025
+Chapter 2: Technical Performance
+2.1 Overview of AI in 2024
+Aug 15, 2024 Imagen 3 Text-to- Google Labs Google’s updated AI image generator
+image achieves the highest Elo score on
+the GenAI-Bench image benchmark,
+setting a new standard for quality in AI-
+generated visuals.
+Figure 2.1.17
+Source: Google, 2025
+Aug 22, 2024 Jamba 1.5 LLM AI21 Labs The first LLM to combine state-space
+models with transformers, delivering
+high-quality results for text-based
+applications. This hybrid approach
+significantly enhances speed while
+preserving the quality of outputs.
+Figure 2.1.18
+Source: AI21, 2025
+Aug 29, 2024 SynthID v2 Tool Google SynthID v2 is the updated version of
+SynthID, Google’s watermarking and
+identification software. It now supports
+AI-generated content across images,
+video, audio, and text, and offers
+enhanced tracking and verification
+capabilities.
+Figure 2.1.19
+Source: Google, 2025
+Sep 11, 2024 NotebookLM Text-to- Google Labs The second end-to-end AI podcast
+Podcast Tool podcast generator to hit the market, following
+Synthpod, went viral. It gained popularity
+among students leveraging NotebookLM
+for studying and tech employees using it Figure 2.1.20
+to listen to AI-generated summaries. Source: Google, 2025
+Sep 12, 2024 o1-preview Language, OpenAI OpenAI’s first model in the “o series” is
+math, designed for advanced reasoning and
+biology tackling complex tasks. It is significantly
+more powerful than GPT, particularly in
+math, science, and coding.
+Figure 2.1.21
+Source: OpenAI, 2025
+Sep 17, 2024 NVLM (D, H, X) Vision, Nvidia Nvidia released three open-access
+language models for vision-language tasks,
+achieving top scores on OCRBench (for
+optical character recognition) and VQAv2
+(for natural language understanding).
+Figure 2.1.22
+Source: Dai et al., 2024
+Chapter 2 Preview 10
+
+Artificial Intelligence
+Index Report 2025
+Chapter 2: Technical Performance
+2.1 Overview of AI in 2024
+Sep 19, 2024 Qwen2.5 LLM Alibaba Qwen2.5, the latest series of foundation
+models from Chinese e-commerce giant
+Alibaba, includes a range of efficient
+smaller models and specialized coding
+and math models designed for targeted
+functionality.
+Figure 2.1.23
+Source: Qwen, 2025
+Oct 16, 2024 Ministral LLM Mistral Ministral is a pair of compact models (3B
+and 8B parameters) that outperformed
+Gemma and Llama models of similar
+size across all major industry-recognized
+Figure 2.1.24
+benchmarks. Source: Mistral, 2025
+Oct 22, 2024 Anthropic Agentic Anthropic Anthropic Computer Use is a
+Computer Use Capability groundbreaking computer control feature
+for Claude 3.5 Sonnet users, allowing
+Claude to move the cursor, type, and
+autonomously complete tasks on the
+user’s computer in real time.
+Figure 2.1.25
+Source: Anthropic, 2025
+Oct 28, 2024 Apple iPhone Apple Apple’s suite of AI-powered features
+Intelligence feature includes Image Playground (for image
+creation), Genmoji (for custom emoji
+creation), Siri integration with ChatGPT,
+and more.
+Figure 2.1.26
+Source: Apple, 2025
+Dec 3, 2024 Nova Pro Multimodal Amazon Nova Pro is the most powerful model
+in Amazon Web Services’ Nova family,
+capable of processing both visual and
+textual information. It especially excels at
+analyzing financial documents.
+Figure 2.1.27
+Source: Amazon, 2025
+Dec 11, 2024 Gemini 2 LLM Google The improved version of Gemini,
+DeepMind Google’s LLM, now includes computer
+control along with image and audio
+generation capabilities. It is twice as fast
+as Gemini 1.5 Pro and offers significantly
+enhanced performance in coding and Figure 2.1.28
+image analysis. Source: Google, 2025
+Chapter 2 Preview 11
+
+Artificial Intelligence
+Index Report 2025
+Chapter 2: Technical Performance
+2.1 Overview of AI in 2024
+Dec 12, 2024 Sora Text-to- OpenAI OpenAI’s highly anticipated video
+video generation model can create videos up
+to 20 seconds long at 1080p resolution
+for ChatGPT Pro users (and five seconds
+at 720p for ChatGPT Plus users). Sora
+demos had been circulating at tech
+Figure 2.1.29
+meetups since early 2024, but OpenAI
+Source: OpenAI, 2025
+delayed the official release to improve
+model safety.
+Dec 13, 2024 Global MMLU Dataset Cohere A multilingual evaluation set featuring
+professionally translated MMLU
+questions across 42 languages, designed
+to serve as a more global AI benchmark.
+It evaluates AI performance in diverse
+languages while addressing Western Figure 2.1.30
+Source: Singh et al., 2025
+biases in the original MMLU dataset,
+where an estimated 28% of questions
+rely on Western cultural knowledge.
+Dec 20, 2024 o3 (beta) Multimodal OpenAI OpenAI’s newest frontier model, released
+for safety testing by AI researchers,
+outperforms all previous models in SWE,
+competition code, competition math,
+PhD-level science, and research math
+benchmarks. It also set a new record
+Figure 2.1.31
+on the ARC-AGI benchmark, achieving
+Source: VentureBeat, 2025
+87.5% on the ARC Prize team’s private
+holdout set.
+Dec 27, 2024 DeepSeek-V3 LLM DeepSeek DeepSeek V3, an open-source model
+developed with significantly fewer
+computing resources than state-of-the-
+art models, outperforms leading models
+on benchmarks like MMLU and GPQA.
+Figure 2.1.32
+Source: Dirox, 2025
+Chapter 2 Preview 12
+
+Artificial Intelligence
+Index Report 2025
+Chapter 2: Technical Performance
+2.1 Overview of AI in 2024
+State of AI Performance
+In this section, the AI Index offers a high-level view into major Figure 2.1.33 illustrates the progress of AI systems relative
+AI trends that occurred in 2024. to human baselines for eight AI benchmarks corresponding
+to 11 tasks (e.g., image classification or basic-level reading
+Overall Review comprehension).1 The AI Index team selected one benchmark
+Last year’s AI Index highlighted that AI had already surpassed to represent each task. This year, the AI Index team added
+human performance across many tasks, with only a few newly released benchmarks, such as GPQA Diamond and
+exceptions, such as competition-level mathematics and visual MMMU, to showcase the progress of AI systems in tackling
+commonsense reasoning. Over the past year, AI systems extremely challenging cognitive tasks.
+have continued to improve, exceeding human performance
+on several of these previously challenging benchmarks.
+120%
+100%
+80%
+60%
+40%
+20%
+0%
+2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024
+Image classi cation (ImageNet Top-5) Visual reasoning (VQA)
+Medium-level reading comprehension (SQuAD 2.0) English language understanding (SuperGLUE)
+Multitask language understanding (MMLU) Competition-level mathematics (MATH)
+PhD-level science questions (GPQA Diamond) Multimodal understanding and reasoning (MMMU)
+1 An AI benchmark is a standardized test used to evaluate the performance and capabilities of AI systems on specific tasks. For example, ImageNet is a canonical AI benchmark that features
+a large collection of labeled images, and AI systems are tasked with classifying these images accurately. Tracking progress on benchmarks has been a standard way for the AI community to
+monitor the advancement of AI systems.
+2 In Figure 2.1.33, the values are scaled to establish a standard metric for comparing different benchmarks. The scaling function is calibrated such that the performance of the best model for
+each year is measured as a percentage of the human baseline for a given task. A value of 105% indicates, for example, that a model performs 5% better than the human baseline
+Chapter 2 Preview 13
+)%(
+enilesab
+namuh
+eht
+ot
+evitaler
+ecnamrofreP
+Select AI Index technical performance benchmarks vs. human performance
+Source: AI Index, 2025 | Chart: 2025 AI Index report
+Human baseline
+Figure 2.1.332
+
+Artificial Intelligence
+Index Report 2025
+Chapter 2: Technical Performance
+2.1 Overview of AI in 2024
+As of 2024, there are very few task categories where human Last year’s AI Index highlighted a notable performance gap
+ability surpasses AI. Even in these areas, the performance gap between closed and open-weight LLM models. Figure 2.1.34
+between AI and humans is shrinking rapidly. For example, on illustrates the performance trends of the top closed-weight
+MATH, a benchmark for competition-level mathematics, and open-weight LLMs on the Chatbot Arena Leaderboard,
+state-of-the-art AI systems are now 7.9 percentage points a public platform for benchmarking LLM performance.
+ahead of human performance, a significant improvement In early , the leading closed-weight model
+from the 0.3-point gap in 2024.3 Similarly, on MMMU, a outperformed the top open-weight model by 8.0%. By
+benchmark for complex, multidisciplinary, expert-level , this gap had narrowed to 1.7%.
+questions, the best 2024 model, o1, scored 78.2%, only 4.4
+points below the human benchmark of 82.6%. Conversely, The same trend is evident across other question-answering
+at the end of 2023, Google Gemini scored 59.4%, further benchmarks. In 2023, closed-weight models consistently
+illustrating the rapid advancements in AI performance on outperformed open-weight counterparts on nearly every
+cognitively demanding tasks. major benchmark—MMLU, HumanEval, MMMU, and MATH.
+However, by 2024, the gap had narrowed significantly (Figure
+Closed vs. Open-Weight Models 2.1.35). For instance, in late 2023, closed-weight models led
+AI models can be released with different levels of openness. open models on MMLU by 15.9 points, but by the end of
+Certain models, like Google’s Med-Gemini, remain entirely 2024, that difference had shrunk to just 0.1 percentage point.
+closed, accessible only to their developers. Meanwhile, This rapid improvement was largely driven by Meta’s summer
+models such as OpenAI’s GPT-4o and Anthropic’s Claude 3.5 release of Llama 3.1, followed by the launch of other high-
+provide limited public access through APIs. However, weights performing open-weight models, such as DeepSeek’s V3.
+for these models are not released, preventing independent
+modification or thorough public scrutiny. In contrast, weights
+for Meta’s Llama 3.3 and Stable Video 4D are fully available,
+allowing anyone to modify and use them freely.4
+Perspectives on open versus closed-weight AI models are
+sharply divided. Advocates of open-weight models highlight
+their potential to reduce market monopolies, spur innovation,
+improve security and robustness, and enhance transparency
+within the AI ecosystem. For example, Meta’s Llama models
+have been leveraged to create tools like Meditron, power
+military applications, and drive the development of numerous
+open-weight models worldwide. However, critics warn that
+open-weight models pose significant security risks, including
+the spread of disinformation and the creation of bioweapons,
+arguing for a more cautious and controlled approach.
+3 The benchmark data in this figure, along with those in other sections of this chapter, was collected in early . Since the publication of the AI Index, individual benchmark scores
+may have improved.
+4 In the software community, “open source” refers to software released under a license that grants users the right to use, study, modify, and distribute both the software and its source code
+freely. Open-weight models, though more accessible than closed-weight models, are not necessarily fully open source, as the underlying code or training data is often withheld.
+Chapter 2 Preview 14
+
+Artificial Intelligence
+Index Report 2025
+Chapter 2: Technical Performance
+2.1 Overview of AI in 2024
+1,400
+1,350
+1,300
+1,250
+1,200
+1,150
+1,100
+2024-Jan 2024-Feb 2024-M
+ar
+2024-Apr 2024-M
+ay
+2024-Jun 2024-Jul 2024-Aug 2024-Sep 2024-Oct 2024-Nov 2024-Dec 2025-Jan 2025-Feb
+Chapter 2 Preview 15
+erocS
+Performance of top closed vs. open models on LMSYS Chatbot Arena
+Source: LMSYS, 2025 | Chart: 2025 AI Index report
+1,385, closed
+1,362, open
+Closed Open
+100% 100%
+80% 80%
+60% 60%
+40% 40%
+20% 20%
+0% 0%
+2022 2023 2024 2022 2023 2024
+100% 100%
+80% 80%
+60% 60%
+40% 40%
+20% 20%
+0% 0%
+2022 2023 2024 2022 2023 2024
+ycarucca
+egarevA
+ycaruccA
+ycarucca
+llarevO
+1@ssaP
+Figure 2.1.34
+Performance of top closed vs. open models on select benchmarks
+Source: AI Index, 2025 | Chart: 2025 AI Index report
+General language: MMLU General reasoning: MMMU
+Mathematical reasoning: MATH Coding: HumanEval
+Figure 2.1.35
+
+Artificial Intelligence
+Index Report 2025
+Chapter 2: Technical Performance
+2.1 Overview of AI in 2024
+US vs. China Technical Performance
+The United States has historically dominated AI research and on benchmarks such as MMLU, MMMU, MATH, and
+model development, with China consistently ranking second. HumanEval, the performance gaps were 17.5, 13.5, 24.3, and
+Recent evidence, however, suggests the landscape is rapidly 31.6 percentage points, respectively (Figure 2.1.37). By the
+changing and that China-based models are catching up to end of 2024, these differences had narrowed significantly
+their U.S. counterparts. to just 0.3, 8.1, 1.6, and 3.7 percentage points. The launch
+of DeepSeek-R1 garnered attention for another reason: The
+In 2023, leading American models significantly outperformed company reported achieving its results using only a fraction
+their Chinese counterparts. On the LMSYS Chatbot Arena, of the hardware resources typically required to train such a
+the top U.S. model outperformed the best Chinese model model. Beyond impacting U.S. stock markets, DeepSeek’s
+by 9.3% in . By , this gap had R1 launch raised doubts about the effectiveness of U.S.
+narrowed to just 1.7% (Figure 2.1.36). At the end of 2023, semiconductor export controls.
+1,400
+1,350
+1,300
+1,250
+1,200
+1,150
+1,100
+2024-Jan 2024-Feb 2024-M
+ar
+2024-Apr 2024-M
+ay
+2024-Jun 2024-Jul 2024-Aug 2024-Sep 2024-Oct 2024-Nov 2024-Dec 2025-Jan 2025-Feb
+Chapter 2 Preview 16
+erocS
+Performance of top United States vs. Chinese models on LMSYS Chatbot Arena
+Source: LMSYS, 2025 | Chart: 2025 AI Index report
+1,385, United States
+1,362, China
+Figure 2.1.36
+
+Artificial Intelligence
+Index Report 2025
+Chapter 2: Technical Performance
+2.1 Overview of AI in 2024
+United States China
+100% 100%
+80% 80%
+60% 60%
+40% 40%
+20% 20%
+0% 0%
+2022 2023 2024 2022 2023 2024
+100% 100%
+80% 80%
+60% 60%
+40% 40%
+20% 20%
+0% 0%
+2022 2023 2024 2022 2023 2024
+Chapter 2 Preview 17
+ycarucca
+egarevA
+ycaruccA
+ycarucca
+llarevO
+1@ssaP
+Performance of top United States vs. Chinese models on select benchmarks
+Source: AI Index, 2025 | Chart: 2025 AI Index report
+General language: MMLU General reasoning: MMMU
+Mathematical reasoning: MATH Coding: HumanEval
+Figure 2.1.37
+
+Artificial Intelligence
+Index Report 2025
+Chapter 2: Technical Performance
+2.1 Overview of AI in 2024
+Improved Performance From Smaller Models
+Recent AI progress has been driven by scaling—the idea 2024 was a breakthrough year for smaller AI models. Nearly
+that increasing model size and training data improves every major AI developer released compact, high-performing
+performance. While scaling has significantly boosted AI models, including GPT-4o mini, o1-mini, Gemini 2.0 Flash,
+capabilities, a notable recent trend is the emergence of Llama 3.1 8B, and Mistral Small 3.5 The rise of small models
+smaller high-performing models. Figure 2.1.38 illustrates the is significant for several reasons. It demonstrates increasing
+reduction in size of the smallest model that scores above 60% algorithmic efficiency, allowing developers to achieve more
+on MMLU, a widely used language model benchmark. For with less data and at lower training cost. These efficiency
+context, early models powering ChatGPT, such as GPT-3.5 gains, combined with growing datasets, could lead to
+Turbo, scored around 70% on MMLU. In 2022, the smallest even higher-performing models. Additionally, inference on
+model surpassing 60% on MMLU was PaLM, with 540 billion smaller models is typically faster and less expensive. Their
+parameters. By 2024, Microsoft’s Phi-3 Mini, with just 3.8 emergence also lowers the barrier to entry for AI developers
+billion parameters, achieved the same threshold, marking a and businesses looking to integrate AI into their operations.
+142-fold reduction in model size over two years.
+PaLM
+100B
+LLaMA-65B
+Llama 2 34B
+10B
+Mistral 7B
+Phi-3-mini
+2022--Sep 2023-Jan 2023--Sep 2024-Jan 2024-May
+Publication date
+Chapter 2 Preview 18
+)elacs
+gol(
+sretemarap
+fo
+rebmuN
+Smallest AI models scoring above 60% on MMLU, 2022–24
+Source: Abdin et al., 2024 | Chart: 2025 AI Index report
+Figure 2.1.38
+5 These are just a few of the small models launched in 2024.
+
+Artificial Intelligence
+Index Report 2025
+Chapter 2: Technical Performance
+2.1 Overview of AI in 2024
+Model Performance Converges at the Frontier
+In recent years, AI model performance at the frontier has Flyer’s DeepSeek, Mistral’s Le Chat, and xAI with Grok.
+converged, with multiple providers now offering highly As competition has intensified, model performance has
+capable models. This marks a shift from late 2022, when increasingly converged (Figure 2.1.39). According to last year’s
+ChatGPT’s launch—widely seen as AI’s breakthrough AI Index, the performance gap between the highest- and
+into public consciousness—coincided with a landscape 10th-ranked models on the Chatbot Arena Leaderboard—a
+dominated by just two major players: OpenAI and Google. widely used AI ranking platform—was 11.9%. By early 2025, it
+OpenAI, founded in 2015, released GPT-3 in 2020, while had narrowed to 5.4%. Similarly, the difference between the
+Google introduced models like PaLM and Chinchilla in 2022. top two models fell from 4.9% in 2023 to just 0.7% in 2024.
+The AI landscape is becoming more competitive, validating
+Since then, new players have entered the scene, including 2023 predictions that AI companies lack a technological
+Meta with its Llama models, Anthropic with Claude, High- moat to shield them from rivals.
+1,400
+1,350
+1,300
+1,250
+1,200
+1,150
+1,100
+1,050
+2024-Jan 2024-Feb 2024-M
+ar
+2024-Apr 2024-M
+ay
+2024-Jun 2024-Jul 2024-Aug 2024-Sep 2024-Oct 2024-Nov 2024-Dec 2025-Jan 2025-Feb
+Figure 2.1.39
+Chapter 2 Preview 19
+erocS
+Performance of top models on LMSYS Chatbot Arena by select providers
+Source: LMSYS, 2025 | Chart: 2025 AI Index report
+1,385, Google
+1,366, OpenAI
+1,362, DeepSeek
+1,288, xAI
+1,284, Anthropic
+1,269, Meta
+1,252, Mistral AI
+
+Artificial Intelligence
+Index Report 2025
+Chapter 2: Technical Performance
+2.1 Overview of AI in 2024
+Benchmarking AI
+For years, the AI Index has used benchmarks to monitor the intelligence, and AI systems have improved over the decades
+technical progress of AI systems over time. While benchmarks to the point of defeating the best humans at increasingly
+remain a key tool in this effort, it is important to acknowledge complex games. Games with a physical component or team
+their limitations and guide the community toward more capabilities are also a good measure of progress for AI, and
+effective benchmarking practices. the robotics community has embarked on challenging game
+competitions such as RoboCup for soccer-playing robots.
+As noted in last year’s AI Index, many prominent AI benchmarks Another area of AI where competitions are used involves
+are reaching saturation. With AI systems advancing rapidly, coordination and teamwork where multi-agent systems
+even newly designed, more challenging tests often remain demonstrate advances in distributed reasoning.
+relevant for only a few years. Some experts suggest that the
+era of new academic benchmarks may be coming to an end. Benchmarks have been developed by the AI community
+To truly assess the capabilities of AI systems, more rigorous for a very long time. Significant advances in AI have been
+and comprehensive evaluations are needed. possible because different approaches and methods could
+be evaluated against the same gold standard represented
+Additionally, when model developers release new models, they by a benchmark. In machine learning, benchmarks with
+typically report benchmark scores, which are often accepted at different kinds of data in diverse domains have enabled
+face value by the broader community. However, this approach significant advances. Many of these benchmarks are
+has flaws. In some cases, companies use nonstandard evaluated automatically by a third party without releasing the
+prompting techniques, making model-to-model comparisons test data to the AI developers, which makes the evaluations
+unreliable. For example, when Google launched Gemini Ultra, more trustworthy. One interesting recent trend is that
+it reported an MMLU benchmark score using a chain-of- various benchmark tasks are addressed by the same model.
+thought prompting technique that other developers did not For example, natural language was addressed for many
+use. Additionally, third-party researchers have documented years as a collection of separate tasks (e.g., understanding,
+cases where models perform worse in independent testing generation, question answering), each with its own models
+compared with the results first reported by their developers. and each with its own benchmarks. Similarly, speech tasks
+were benchmarked separately from language understanding
+There are critical aspects of intelligence that do not easily or generation tasks. Today, the same model can address
+lend themselves to benchmarking. Benchmarks are effective all language tasks, and, in some cases, a single model can
+for evaluating certain intelligent capabilities, such as vision address language, images, and multimodal tasks. This is a
+and language, where tasks are discrete—e.g., classifying an very important AI advance concerning the integration of
+image correctly or answering a multiple-choice question. otherwise separate intelligent tasks and capabilities.
+However, developing benchmarks is more challenging in
+areas of AI such as multi-agent systems and human-AI The rapid progress of AI systems, evidenced by their consistent
+interaction because of factors including the variability in outperformance on benchmarks, is perhaps best illustrated
+human behaviors and the sheer diversity of correct answers. by the diminishing relevance of the well-known and long-
+standing challenge for AI: the Turing test. Originally proposed
+In addition, AI advances have traditionally been evaluated in in Alan Turing’s 1950 paper “Computing Machinery and
+competitions designed to measure human performance, such Intelligence,” the test evaluates a machine’s ability to exhibit
+as games and other open challenges posed to humans or humanlike intelligence. In it, a human judge engages in a text-
+machines. Games such as chess and poker involve significant based conversation with both a machine and a human; if the
+Chapter 2 Preview 20
+
+Artificial Intelligence
+Index Report 2025
+Chapter 2: Technical Performance
+2.1 Overview of AI in 2024
+judge cannot reliably distinguish between them, the machine with new questions from unfamiliar sources that LLMs are
+is said to have passed the Turing test. Recent evidence unlikely to have seen in their training data.
+suggests that LLMs have advanced so significantly that people
+struggle to differentiate the best-performing language models Lastly, research has shown that many benchmarks are poor-
+from a human, signaling that modern AI models can pass the ly constructed. In BetterBench, researchers systematically
+Turing test. While the merits and shortfalls of this test have analyzed 24 prominent benchmarks and identified systemic
+long been debated, it remains an important historical and deficiencies: 14 failed to report statistical significance, 17
+cultural benchmark for machine intelligence. The questioning lacked scripts for result replication, and most suffered from
+of its relevance highlights the remarkable progress of LLMs in inadequate documentation, limiting their reproducibility and
+recent years and the evolving perception of effective computer effectiveness in evaluating models. Despite widespread use,
+science benchmarks and AI measurement. benchmarks like MMLU demonstrated poor adherence to
+quality standards, while others, such as GPQA, performed
+In robotics, many models have emerged that address significantly better. To address these issues, the paper pro-
+interacting with the physical world and reasoning about natural posed a 46-criteria framework covering all phases of bench-
+laws. A number of robotics benchmarks, such as ARMBench, mark development—design, implementation, documenta-
+focus on perception tasks. However, other benchmarks, such tion, and maintenance (Figure 2.1.40). It also introduced a
+as VIMA-Bench, assess robot performance in simulated publicly accessible repository to enable continuous updates
+environments where they simultaneously incorporate and improve benchmark comparability. Figure 2.1.41, from
+perception, communication, and deep learning. BetterBench, assesses many prominent benchmarks on their
+usability and design. These findings underscore the need for
+Benchmarks can also suffer from contamination, where LLMs standardized benchmarking to ensure reliable AI evaluation
+encounter test questions that were present in their training and to prevent misleading conclusions about model per-
+data. A recent study by Scale found significant contamination formance. Benchmarks have the potential to shape policy
+in the performance of many LLMs on GSM8K, a widely decisions and influence procurement decisions within or-
+used mathematics benchmark. Some researchers have ganizations highlighting the importance of consistency and
+sought to combat these contamination issues by introducing rigor in evaluation.
+benchmarks like LiveBench, which are periodically updated
+Five stages of the benchmark lifecycle
+Source: Reuel et al., 2024
+Figure 2.1.40
+Chapter 2 Preview 21
+
+Artificial Intelligence
+Index Report 2025
+Chapter 2: Technical Performance
+2.1 Overview of AI in 2024
+
+Foundation models
+Non-foundation models
+ALE
+GPQA
+FinRL-Meta
+AgentBench
+10 BIG-bench
+Procgen WinoGrande RL Unplugged
+ARC-Challenge SafeBench
+GSM8K
+HellaSwag Wordcraft BBQ
+BOLD
+MMLU
+
+0 5 10 15 20
+Design score
+Chapter 2 Preview 22
+erocs
+ytilibasU
+Design vs. usability scores across select benchmarks
+Source: Reuel et al., 2024 | Chart: 2025 AI Index report
+DecodingTrust
+PDEBench
+MLCommons AI Safety v0.5
+Machiavelli
+HumanEval
+TruthfulQA
+MedMNIST v2
+Figure 2.1.41
+In this chapter, the AI Index continues to report on operates under the assumption that the scores reported by
+benchmarks, recognizing their importance in tracking AI’s companies are accurate and factual. The benchmark scores
+technical progress. As a standard practice, the Index sources in this section are current as of mid-. However,
+benchmark scores from leaderboards, public repositories since the publication of the AI Index, newer models may have
+such as Papers With Code and RankedAGI, as well as been released that surpass current state-of-the-art scores.
+company papers, blog posts, and product releases. The Index
+
+Artificial Intelligence
+Index Report 2025
+Chapter 2: Technical Performance
+2.2 Language
+2.2 Language
+Natural language processing (NLP) enables computers to A sample output from GPT-4o
+Source: AI Index, 2025
+understand, interpret, generate, and transform text. Current
+state-of-the-art models, such as OpenAI’s GPT-4o, Anthropic’s
+Claude 3.5, and Google’s Gemini, are able to generate fluent
+and coherent prose and display high levels of language
+understanding ability (Figure 2.2.1). Unlike earlier versions,
+which were restricted to text input and output, newer language
+models can now reason across a growing range of input and
+output modalities, including audio, images, and goal-oriented
+tasks (Figure 2.2.2).
+Figure 2.2.1
+Gemini 2.0 in an agentic workflow
+Source: AI Index, 2025
+Figure 2.2.2
+Chapter 2 Preview 23
+
+Artificial Intelligence
+Index Report 2025
+100%
+90%
+80%
+70%
+60%
+50%
+40%
+30%
+20%
+10%
+0%
+2019 2020 2021 2022 2023 2024
+Chapter 2 Preview 24
+ycarucca
+egarevA
+Chapter 2: Technical Performance
+2.2 Language
+Understanding
+English language understanding challenges AI systems to The MMLU benchmark was created in 2020 by a team of
+understand the English language in various ways, such as researchers from UC Berkeley, Columbia University, University
+reading comprehension and logical reasoning. of Chicago, and University of Illinois Urbana-Champaign.
+MMLU: Massive Multitask Language Understanding The highest recorded score on MMLU, 92.3%, was achieved
+The Massive Multitask Language Understanding (MMLU) by OpenAI’s o1-preview model in . For
+benchmark assesses model performance in zero-shot or few- comparison, GPT-4, launched in , scored 86.4%
+shot scenarios across 57 subjects, including the humanities, on the benchmark. Notably, one of the earliest models
+STEM, and the social sciences (Figure 2.2.3). MMLU has tested on MMLU, RoBERTa, achieved just 27.9% in 2019
+emerged as a premier benchmark for assessing LLM (Figure 2.2.4). This latest state-of-the-art result represents a
+capabilities: Many state-of-the-art models like GPT-4o, Claude remarkable 64.4 percentage point increase over five years.
+3.5, and Gemini 2.0 have been evaluated against MMLU.
+A sample question from MMLU
+Source: Hendrycks et al., 2021
+Figure 2.2.3
+MMLU: average accuracy
+Source: Papers With Code, 2025 | Chart: 2025 AI Index report
+89.8%, human baseline 92.30%
+Figure 2.2.4
+
+Artificial Intelligence
+Index Report 2025
+100%
+84.00%
+80.30%
+80% 71.59% 71.85% 72.55% 73.11% 73.30% 74.68% 75.46% 75.70% 75.87% 76.24% 77.64% 77.90% 78.00%
+60%
+40%
+20%
+0%
+Qwen2.5-72 G B rok-2-m in G i PT-4o (20 A 24 th -0 en 5 e -1 - 3 V ) 2- L C la h m at a ( - 0 3 - . s 1- h 4 o G 0 t 5 ) P B T - - I 4 n o s t ( r 2 u 0 c G 2 t 4 ro -0 k 8 -2 -06) M iniM ax-Te D x e t- e 0 p 1 Seek-V G 3 em ini-2.0 C -F l l a a u s d h e -e -3 x . p 5- G S P o T n - n 4 e o t ( ( 2 2 0 0 C 2 2 4 4 la - - u 1 1 1 0 d - - 2 e 2 0 - 2 3 ) ) .5- G S P o T n - n o e 1 t - m (2 i 0 n D 2 i 4 e - e 0 p 6 S - e 2 e 0 k ) -R1
+Chapter 2 Preview 25
+ycarucca
+llarevO
+Chapter 2: Technical Performance
+2.2 Language
+Despite its prominence, MMLU has faced notable criticisms. Generation
+These include claims that the benchmark contains erroneous
+or overly simplistic questions, which may not challenge
+In generation tasks, AI models are tested on their ability to
+increasingly advanced systems. In 2024, a team of researchers
+produce fluent and practical language responses.
+from the University of Toronto, University of Waterloo, and
+Carnegie Mellon introduced MMLU-Pro, a more challenging
+Chatbot Arena Leaderboard
+variant of MMLU. This version eliminates noisy and trivial
+The rise of capable LLMs has made it increasingly important
+questions, expands complex ones, and increases the number
+to understand which models are preferred by the general
+of answer choices available to models. Figure 2.2.5 highlights
+public. Launched in 2023, the Chatbot Arena Leaderboard
+performance trends on MMLU-Pro, with DeepSeek-R1
+from LMSYS is one of the first comprehensive evaluations
+posting the highest score to date (84.0%).
+of public LLM preference. The leaderboard allows users to
+query two anonymous models and vote for the preferred
+Additionally, concerns have been raised about the testing
+generations (Figure 2.2.6). By early 2025, the platform had
+landscape. Developers sometimes report MMLU scores
+accumulated over 1 million votes, with users ranking one of
+using nonstandard prompting techniques that boost
+Google’s Gemini models as the community’s most preferred
+performance but can lead to misleading comparisons.
+choice.
+Furthermore, evidence suggests that publicly reported scores
+by developers can differ—sometimes by as much as five
+percentage points—from those later evaluated by academic
+researchers. As such, MMLU performance results should be
+interpreted with caution.
+MMLU-Pro: overall accuracy
+Source: MMLU-Pro Leaderboard, 2025 | Chart: 2025 AI Index report
+Figure 2.2.5
+
+Artificial Intelligence
+Index Report 2025
+1,380
+1,370
+1,360
+1,350
+1,340
+1,330
+1,320
+1,310
+1,300
+Gem ini-1.5-Pro-0 S 0 t 2 ep-2-16K-Exp o1-m ini DeepSeek-V3 o1-preview o1-2024-12-17 Gem ini-2.0-Flash G -E em xp ini-2.0-Flash C -T h h at in G k P in T g -4 -E o x -l p a - t 1 e 2 G s 1 t e 9 m (2 i 0 n 2 i- 4 E - x 11 p - - 2 1 0 2 ) 06
+Model
+Chapter 2 Preview 26
+gnitar
+olE
+Chapter 2: Technical Performance
+2.2 Language
+A sample model response on the Chatbot Arena Leaderboard
+Source: Chatbot Arena Leaderboard, 2024
+Figure 2.2.6
+Figure 2.2.7 provides a snapshot of the top 10 models on the AI Index, the difference in Arena scores between the top
+Chatbot Arena Leaderboard as of . Interestingly, model and the 10th-ranked model was 11.9%.6 By 2025, this
+the performance gap between top leaderboard models has gap had decreased to just 5.4%. This convergence highlights
+narrowed over time. In 2023, according to data from the 2024 a growing parity in the quality of recent LLMs.
+LMSYS Chatbot Arena for LLMs: Elo rating (overall)
+Source: LMSYS, 2025 | Chart: 2025 AI Index report
+Figure 2.2.7
+6 The Arena score is a relative ranking system used by the Arena Leaderboard to compare model performance. For more details on the scoring methodology, refer to the paper introducing
+the Chatbot Arena Leaderboard.
+
+Artificial Intelligence
+Index Report 2025
+Arena-Hard-Auto
+One of the challenges in developing new benchmarks to keep
+pace with rapidly improving AI capabilities is that creating
+high-quality, human-curated benchmarks is often expensive
+and time-consuming. In response, this year saw the launch of
+BenchBuilder. Created by a team of UC Berkeley researchers,
+BenchBuilder leverages LLMs to create an automated
+pipeline for curating high-quality, open-ended prompts from
+large, crowdsourced datasets. BenchBuilder can be used
+to update or create new benchmarks without significant
+human involvement. This tool was used by the LMSYS team
+to develop Arena-Hard-Auto, a benchmark designed to
+evaluate instruction-tuned LLMs (Figure 2.2.8). Arena-Hard-
+Auto includes 500 challenging user queries sourced from
+Chatbot Arena. In this benchmark, GPT-4 Turbo serves as
+the judge that compares model responses against a baseline
+model (GPT-4-0314).
+As of , the top-scoring models on the Arena-
+Hard-Auto leaderboard were o1-mini (92.0), o1-preview
+(90.4), and Claude-3.5-Sonnet (85.2) (Figure 2.2.9). Arena-
+Hard-Auto also features a style control leaderboard, which
+Chapter 2 Preview 27
+weiverp-5210-4-tpg 31-50-4202-o4-tpg 02-60-4202-tennos-5-3-edualc gninthgil-iy 90-40-4202-obrut-4-tpg tcurtsni-b07-nortomen-1.3-amall tahc-2v-enehta 22-01-4202-tennos-5-3-edualc 21-90-4202-weiverp-1o 21-90-4202-inim-1o
+
+Model
+erocS
+Arena-Hard-Auto with no modi cation
+Source: LMSYS, 2025 | Chart: 2025 AI Index report
+90.40 92.00
+78.00 79.20 79.30 81.50 82.60 84.90 85.00 85.20
+31-50-4202-o4-tpg tcurtsni-b07-nortomen-1.3-amall 60-80-4202-o4-tpg tahc-2v-enehta weiverp-5210-4-tpg 90-40-4202-obrut-4-tpg 21-90-4202-inim-1o 21-90-4202-weiverp-1o 02-60-4202-tennos-5-3-edualc 22-01-4202-tennos-5-3-edualc
+
+Model
+erocS
+Chapter 2: Technical Performance
+2.2 Language
+Arena-Hard-Auto vs. other benchmarks
+Source: Li et al., 2024
+Figure 2.2.8
+accounts for how the style of an LLM’s responses might
+inadvertently influence user preferences. The top model on
+the style leaderboard is the November variant of Anthropic’s
+Claude Sonnet 3.5 (Figure 2.2.10). Automated benchmarks
+like Arena-Hard-Auto have faced criticism for uneven
+question distribution, which limits their ability to provide a
+comprehensive assessment of LLM capabilities. For instance,
+over 50% of Arena-Hard-Auto questions focus solely on
+coding and debugging.
+Arena-Hard-Auto with style control
+Source: LMSYS, 2025 | Chart: 2025 AI Index report
+86.40
+79.30 81.70 82.20 69.90 71.00 71.10 72.10 73.60 74.30
+Figure 2.2.9 Figure 2.2.10
+
+Artificial Intelligence
+Index Report 2025
+Chapter 2: Technical Performance
+2.2 Language
+WildBench
+WildBench, developed by researchers from the Allen Institute on academic questions and does not assess open-ended,
+for AI and the University of Washington, is a benchmark real-world problems. Similarly, benchmarks like LMSYS,
+launched in 2024 to evaluate LLMs on challenging real- which address real-world challenges, rely heavily on human
+world queries. The creators highlight several limitations oversight and lack consistency in evaluating all models with
+of existing LLM evaluations. For example, MMLU focuses the same dataset.
+Evaluation framework for WildBench
+Source: Lin et al., 2024
+Figure 2.2.11
+Chapter 2 Preview 28
+
+Artificial Intelligence
+Index Report 2025
+Chapter 2: Technical Performance
+2.2 Language
+WildBench addresses many shortcomings of existing are periodically updated to ensure relevance. The creators
+benchmarks by providing an automated evaluation framework also maintain a live leaderboard to track model performance
+for LLMs, incorporating a diverse set of real-world (“in the over time. Currently, the top-performing model on WildBench
+wild”) questions that language models are likely to encounter is GPT-4o, with an Elo score of 1227.1, narrowly surpassing the
+(Figure 2.2.11). The questions in WildBench are meticulously second-place model, Claude 3.5 Sonnet, which scored 1215.4
+selected from over 1 million human-chatbot interactions and (Figure 2.2.12).
+1,200 1,176 1,179 1,181 1,182 1,185 1,188 1,192 1,196 1,197 1,199 1,209 1,210 1,215 1,215 1,227
+1,000
+
+Gem m a-2-2 N 7 e B m -i o t tron- A 4 t - h 34 en 0 e B - - 7 In 0 s B Y t i-Large DeepSeek- L V l 2 a - m C a o - d 3 e -7 r 0 G B e -I m ns in tr i u 1 c .5 t C Fl l a a s u h de 3 O g p p u t s -4-0125 D -p e r e e p v S ie e w ek- Y V i 2 -L -C ar h g a e t -Pr g e p v t i - e 4 w -turbo G - e 2 m 02 in 4 i - 0 1. 4 5 - C P 0 r l 9 a o ude 3.5 g S p o t n -4 n o e - t 2024-05-13
+Model
+Chapter 2 Preview 29
+)dellortnoc
+htgnel(
+olE-BW
+WildBench: WB-Elo (length controlled)
+Source: WildBench Leaderboard, 2025 | Chart: 2025 AI Index report
+Figure 2.2.12
+
+Artificial Intelligence
+Index Report 2025
+Chapter 2: Technical Performance
+2.2 Language
+Highlight:
+o1, o3, and Inference-Time Compute
+OpenAI’s latest two models, o1 and o3, mark a paradigm smaller, more manageable steps before executing them,
+shift in AI models’ ability to “think” and exhibit signs of enhancing the resulting output quality. For example,
+advanced reasoning. o1 and o3 have shown impressive when asked to decipher scrambled text, o1 will specify its
+results across a variety of tasks, including programming, thought and reasoning process more thoroughly than GPT-
+quantum physics, and logic. The models’ advanced 4 (Figure 2.2.13). This process, through which AI systems
+reasoning capabilities are attributed to their chain-of- iterate as they answer, has been referred to as inference or
+thought process and ability to iteratively check answers. test-time computation.
+This means that the models break complex problems into
+Chain-of-thought thinking in o1
+Source: OpenAI, 2024
+Figure 2.2.13
+Chapter 2 Preview 30
+
+Artificial Intelligence
+Index Report 2025
+Chapter 2: Technical Performance
+2.2 Language
+Figure 2.2.14 juxtaposes the scores of GPT-4o, OpenAI’s 2024, a notoriously difficult mathematics competition.
+previous state-of-the-art model, with o1 and o1-preview on Finally, o3 demonstrates more complex reasoning than any
+a variety of benchmarks.7 For example, o1 outperforms GPT- other AI model known today, posting an 87.5% accuracy
+4o with a 2.8-point gain on MMLU, 34.5 points on MATH, rate on the ARC-AGI machine intelligence benchmark and
+26.7 points on GPQA Diamond, and 65.1 points on AIME passing the previous record of 55.5%.
+100% 88.00% 90.80% 92.30% 100% 85.50% 94.80%
+80% 80%
+60.30%
+60% 60%
+40% 40%
+20% 20%
+0% 0%
+GPT-4o o1 o1-preview GPT-4o o1-preview o1
+100% 100%
+80% 73.30% 77.30% 80% 74.40%
+60% 50.60% 60%
+44.60%
+40% 40%
+20% 20%
+9.30%
+0% 0%
+GPT-4o o1-preview o1 GPT-4o o1-preview o1
+While these models enhance reasoning capabilities, this available, is presumably even higher. o1 and o3’s strong
+comes at a price—both a financial and latency cost. For capabilities are likely to continue fueling powerful AI
+example, GPT-4o costs $2.50 per 1 million input tokens systems and agents.
+and $10 per 1 million output tokens. Conversely, o1 costs
+$15 per 1 million input tokens and $60 per 1 million output OpenAI first released o1-preview to ChatGPT Plus and
+tokens.8 Moreover, o1 is approximately 40 times slower Teams users on Sept. 12, 2024, and released the full version
+than GPT-4o, with 29.7 seconds to first token as opposed of o1 (as well as access to ChatGPT Pro, a $200 monthly
+to GPT-4o’s 0.72. The latency of o3, while not publicly subscription enabling access to o1) on Dec. 5, 2024.
+Chapter 2 Preview 31
+1@ssaP
+1@ssaP
+1@ssaP
+1@ssaP
+Highlight:
+o1, o3, and Inference-Time Compute (cont’d)
+GPT-4o vs. o1-preview vs. o1 on select benchmarks
+Source: OpenAI, 2024 | Chart: 2025 AI Index report
+MMLU MATH
+GPQA Diamond AIME 2024
+Figure 2.2.14
+7 The o1-preview model is OpenAI’s early release of o1, made available before its broader public launch.
+8 o3 is currently only available to select researchers and developers via OpenAI’s safety testing program.
+
+Artificial Intelligence
+Index Report 2025
+MixEval
+MixEval, launched by researchers at the National University of in Chatbot Arena, with ground-truth-based questions, like those
+Singapore, Carnegie Mellon University, and the Allen Institute featured in MMLU (Figure 2.2.15). MixEval includes various
+for AI, is another newly released benchmark designed to evaluation suites, with MixEval-Hard representing the more
+address some of the aforementioned limitations in the current challenging version of the benchmark. This suite focuses on
+field of LLM evaluation. MixEval combines comprehensive, substantially harder queries, making it one of the most effective
+well-distributed, real-world user queries, similar to those found tools for assessing how models handle complex questions.
+The highest-scoring model on the MixEval-Hard benchmark Llama-3 1-405B-Instruct model, which scored 66.2 (Figure
+is OpenAI’s o1-preview, with a score of 72.0. In second 2.2.16). All three models were released in 2024.
+place is the Claude 3.5 Sonnet-0620 model, followed by the
+72.00
+70 68.10
+66.20
+64.70
+62.60 63.50
+60 55.80 55.90 56.80 57.00 57.40 58.30 58.70
+52.90 54.00
+
+Reka Core- C 20 la 2 u 4 d 0 e 4 3 15 So Q n w n e e n t -M ax L -0 L 4 aM 28 A-3-7 Y 0 i B -L -I a n r s g t e ru -p ct r S e p v a ie r w k4.0 M istral Larg G e e 2 m ini 1.5 G Pr e o m -A in P i I - 1 0 .5 5 G P 14 r P o T -A -4 P -T I- u 0 r 4 b C 0 o 9 l - a 2 u 0 d 2 e 4 - 3 0 O 4 G - p 0 u P 9 s T-4o-20 L 24 La -0 M 5 A -1 - 3 3.1- C 40 la 5 u B d - e In 3 s . t 5 r u O S c o p t n e n n e A t I - 0 o1 6 - 2 p 0 review
+Model
+Chapter 2 Preview 32
+erocS
+Chapter 2: Technical Performance
+2.2 Language
+Evaluation framework for MixEval
+Source: Ni et al., 2024
+Figure 2.2.15
+MixEval-Hard on chat models: score
+Source: MixEval Leaderboard, 2025 | Chart: 2025 AI Index report
+Figure 2.2.16
+
+Artificial Intelligence
+Index Report 2025
+Chapter 2: Technical Performance
+2.2 Language
+RAG: Retrieval Augment Generation (RAG)
+An increasingly common capability being tested in LLMs models. 2024 also saw the release of numerous benchmarks
+is retrieval-augmented generation (RAG). This approach for evaluating RAG systems, including Ragnarok (a RAG
+integrates LLMs with retrieval mechanisms to enhance arena battleground) and CRAG (Comprehensive RAG
+their response generation. The model first retrieves relevant benchmark). Additionally, specialized RAG benchmarks, such
+information from files or documents and then generates a as FinanceBench for financial question answering, have been
+response tailored to the user’s query based on the retrieved developed to address specific use cases.
+content. RAG has diverse use cases, including answering
+precise questions from large databases and addressing Berkeley Function Calling Leaderboard
+customer queries using information from company documents. The Berkeley Function Calling Leaderboard evaluates the
+ability of LLMs to accurately call functions or tools. The
+In recent years, RAG has received increasing attention from evaluation suite includes over 2,000 question-function-
+researchers and companies. For example, in September answer pairs across multiple programming languages (such
+2024, Anthropic introduced Contextual Retrieval, a method as Python, Java, JavaScript, and REST API) and spans a
+that significantly enhances the retrieval capabilities of RAG variety of testing domains (Figure 2.2.17).
+Data composition on the Berkeley Function Calling Leaderboard
+Source: Yan et al., 2024
+Figure 2.2.179
+9 In this context: AST (abstract syntax tree) refers to tasks that involve analyzing or manipulating code at the structural level, using its parsed representation as a tree of syntactic elements.
+Evaluations labeled with “AST” likely test an AI model’s ability to understand, generate, or manipulate code in a structured manner. Exec (execution-based) indicates tasks that require actual
+execution of function calls to verify correctness. Evaluations labeled with “Exec” likely assess whether the AI model can correctly call and execute functions, ensuring the expected outputs
+are produced.
+Chapter 2 Preview 33
+
+Artificial Intelligence
+Index Report 2025
+
+74.31
+72.08
+66.73 67.88 67.98 69.58
+60.97 61.31 61.38 61.74 61.83 62.19 62.73 62.79 64.10
+
+Gem ini-1.5- Q P w ro e -0 n2 0 . 2 5 - ( 7 F 2 A C B m ) -I a n z s o tr n u -N ct o G ( v P e a r m - o P m in ro p i- - t 2 v ) . 1 0 :0 H -F a ( l F m a C s m h ) - e E r x 2 p .1 G - ( 7 P e b r m o ( m F in C p i- ) t 1 ) .5- F P u r n o c -0 ti 0 o 2 n a (P ry o r - o 1 M - m m e p i d n t) i i u -2 m 0 - 2 G v 4 3 P - .1 0 T ( 9 - F 4 - C 1 o 2 - ) m (P i r n o o i 1 - m - 2 2 0 p 0 2 t 2 ) 4 4 - - 0 12 7 - - G 1 1 7 8 P ( T ( P F - r 4 C o - ) m tu p rb t w ) o- a 2 t 0 t- 2 to 4 o -0 l- 4 8 g - B 0 p 9 ( t F - ( C 4 F o ) C -2 ) 02 g 4 p -1 t 1 - - 4 2 o 0 - 2 (F 0 C 2 w 4 ) - a 1 t 1 t - - 2 t 0 o o (P l- r 7 o 0 m B p (F t) C)
+Model
+Chapter 2 Preview 34
+ycarucca
+llarevO
+Chapter 2: Technical Performance
+2.2 Language
+The top model on the Berkeley Function Calling Leaderboard score of 72.08. Performance on this benchmark has improved
+is watt-tool-70b, a fine-tuned variant of Llama-3.3-70B- significantly over the course of 2024, with top models at the
+Instruct designed specifically for function calling. It achieved end of the year achieving accuracies up to 50 points higher
+an overall accuracy of 74.31 (Figure 2.2.18). The next-highest- than those recorded early in the year.
+scoring model was a November variant of GPT-4o, with a
+Berkeley Function-Calling: overall accuracy
+Source: Berkeley Function-Calling Leaderboard, 2025 | Chart: 2025 AI Index report
+Figure 2.2.18
+
+Artificial Intelligence
+Index Report 2025
+Chapter 2: Technical Performance
+2.2 Language
+MTEB: Massive Text Embedding Benchmark
+The Massive Text Embedding Benchmark (MTEB), created transforms it into an embedding vector. This transformation
+by a team at Hugging Face and Cohere, was introduced in enables the model to then search for relevant information.
+late 2022 to comprehensively evaluate how models perform MTEB includes 58 datasets spanning 112 languages and
+on various embedding tasks. Embedding involves converting eight embedding tasks (Figure 2.2.19).10 For example, in the
+data, such as words, texts, or documents, into numerical bitext mining task, there are two sets of sentences from two
+vectors that capture rough semantic meanings and distance different languages, and for every sentence in the first set,
+between vectors. Embedding is an essential component of the model is tasked to find the best match in the second set.
+RAG. During a RAG task, when users input a query, the model
+Tasks in the MTEB benchmark
+Source: Muennighoff et al., 2023
+Figure 2.2.19
+10 The benchmark covers the following eight tasks: bitext mining, classification, clustering, pair classification, reranking, retrieval, semantic textual similarity, and summarization. For details on
+each task, refer to the MTEB paper.
+Chapter 2 Preview 35
+
+Artificial Intelligence
+Index Report 2025
+Chapter 2: Technical Performance
+2.2 Language
+As of early 2025, the top-performing embedding model on the training to improve its performance. The voyage-3-m-exp
+MTEB benchmark was Voyage AI’s voyage-3-m-exp, with a model narrowly outperformed NV-Embed-v2 (72.31), which
+score of 74.03. Voyage AI is focused on creating high-quality held the top spot for most of 2024 (Figure 2.2.20). When
+AI embedding models. The voyage-3-m-exp model is a variant the MTEB benchmark was first introduced in late 2022, the
+of the voyage-3-large, a large foundation model specifically leading model achieved an average score of 59.5. Over the
+designed for embedding tasks, and it uses strategies like past two years, therefore, performance on the benchmark
+Matryoshka Representation Learning and quantization-aware has meaningfully improved.
+
+74.03
+67.56 68.17 68.23 69.32 69.88 70.11 70.24 70.31 71.19 71.21 71.62 71.67 72.02 72.31
+
+SFR-Em bed L d in in q g - - E M m i b st e r d v a o - l M ya is g t e r - a l l arg N e V -2 -E -i m ns b tr e u d c - b t v g 1 e-multilin st g e u ll a a l- _ g e e n m _4 m g 0 t a 0 e 2 M -Q _ w v5 en2 S -7 F B R - - i E n m str b u e c d t s d te in ll g a - _ 2 e _ n R _1. L 5 E B N _v S 5 -d400 L 0 ENS-d800 b 0 ge-en-icl jasper_en_v N is V io -E n m _l b a e n d g - u v v o a 2 y g a e g _ e v - 1 3-m -exp
+Model
+Figure 2.2.20
+Chapter 2 Preview 36
+erocs
+egarevA
+MTEB on English subsets across 56 datasets: average score
+Source: MTEB Leaderboard, 2025 | Chart: 2025 AI Index report
+
+Artificial Intelligence
+Index Report 2025
+Chapter 2: Technical Performance
+2.2 Language
+Highlight:
+Evaluating Retrieval Across Long Contexts
+Chapter 2 Preview 37
+)B41(
+muidem-3ihP
+)B27(
+2newQ
+)B07(
+3amalL/IAtneidarG
+)B401(
+sulp-R-dnammoC
+)B43(
+iY
+)B8(
+1.3amalL
+)B07(
+1.3amalL
+)B9(
+4MLG
+weiverp-6011-4-TPG orp-5.1-inimeG
+100%
+80%
+60%
+40%
+20%
+0%
+Model
+).cni(
+erocs
+egareva
+dethgieW
+RULER: weighted average score (increasing)
+Source: Hsieh et al., 2024 | Chart: 2025 AI Index report
+95.50%
+82.60%82.70%84.80%85.40%85.50%88.00%89.00%
+79.60%
+74.80%
+Claimed E ective
+1M
+800K
+600K
+400K
+200K
+
+Phi3-me Q d w iu e m n 2 (1 G ( 4 7 B r 2 a ) B d ) ien C tA o I m /L m la a m Y n i d a ( 3 - 3 R 4 ( - 7 B p 0 ) l L u B l s ) a m (10 a 4 3 B . L 1 ) l ( a 8 m B) a3. G 1 ( L 7 M 0B 4 ) (9 G B P ) T-4-1 G 10 e 6 m -p in r i e - v 1. i 5 e - w pro
+Model
+htgnel
+txetnoC
+As AI models have advanced, their ability to handle longer
+contexts has significantly improved. For example, models
+like GPT-4 and Llama 2, released in 2023 by OpenAI and
+Meta, featured context windows of 8,000 and 4,000
+tokens, respectively. In contrast, more recent models such
+as GPT-4o () and Gemini 2.0 Pro Experimental
+() boast context windows ranging from 128
+thousand to 2 million. These extended context windows
+allow users to input and process increasingly large amounts
+of data, enabling more complex and detailed interactions.
+As the context windows of LLMs have expanded, evaluating
+their performance in long-context settings has become
+increasingly important. However, existing long-context
+evaluation methods have been relatively limited. Typically,
+these evaluations focus on “needle-in-the-haystack”
+scenarios, where models are tasked with retrieving specific
+pieces of information from lengthy texts. While useful, such Figure 2.2.21
+evaluations provide only a baseline assessment of a model’s
+RULER: claimed vs. e ective context length
+ability to function effectively in long-context environments.
+Source: Hsieh et al., 2024 | Chart: 2025 AI Index report
+In 2024, several new evaluation suites were introduced to
+address the limitations of long-context model assessments
+and improve their evaluation. One such benchmark is
+Nvidia’s RULER, which assesses long-context performance
+by examining retrieval performance and multihop reasoning,
+aggregation, and question answering. Among the models
+evaluated on RULER, Gemini-1.5-Pro achieved the highest
+weighted performance average (95.5), followed by GPT-
+4 (89.0) and GLM4(88.0) (Figure 2.2.21). The researchers
+behind RULER also revealed that many models suffer
+performance issues in longer context settings. In fact, the
+RULER team demonstrated that while most popular LLMs claim context sizes of 32K tokens or greater, only half of them can maintain satisfactory performance at the length
+of 32K. This means that their actual operational context
+Figure 2.2.22
+windows are shorter than those claimed by their developers
+(Figure 2.2.22).
+
+Artificial Intelligence
+Index Report 2025
+Chapter 2: Technical Performance
+2.2 Language
+8k 32k 128k
+
+66.30
+64.20 63.90 63.80 63.50 62.70
+58.60 59.50 59.80 60.20 60.80
+
+53.50
+49.30
+39.90 39.50
+
+GPT-4 GPT-4o-08 Claude-3.5-Sonnet Gemini-1.5-Pro Llama-3.1-70B
+Model
+Chapter 2 Preview 38
+erocs
+egarevA
+Highlight:
+Evaluating Retrieval Across Long Contexts (cont’d)
+HELMET (How to Evaluate Long-Context Models and generation with citations. Figure 2.2.24 illustrates
+Effectively and Thoroughly), an Intel and Princeton the average performance of several notable models
+collaboration, is another long-context evaluation on the HELMET benchmark across 8K, 32K, and 128K
+benchmark introduced in 2024. The researchers behind context settings. While models like GPT-4, Claude 3.5
+HELMET were motivated by the inadequacies of existing Sonnet, and Llama 3.1-70B struggle with performance
+benchmarks, which suffered from insufficient coverage degradation in longer context settings, others, such as
+of downstream tasks, context lengths too short to Gemini 1.5 Pro and the August variant of GPT-4, maintain
+test evolving long-context capabilities, and unreliable their effectiveness. The introduction of benchmarks like
+metrics (Figure 2.2.23). Even more comprehensive than RULER and HELMET highlights how the rapid evolution
+RULER, HELMET features seven long-context evaluation of LLMs is compelling researchers to rethink and refine
+categories, including synthetic recall, passage re-ranking, evaluation methodologies.
+Comparing long-
+context benchmarks
+Source: Yen et al., 2024
+Figure 2.2.23
+HELMET: average score
+Source: Yen et al., 2024 | Chart: 2025 AI Index report
+Figure 2.2.24
+
+Artificial Intelligence
+Index Report 2025
+Chapter 2: Technical Performance
+2.3 Image and Video
+Computer vision allows machines to understand images and
+videos and to create realistic visuals from textual prompts
+or other inputs. This technology is widely used in fields such
+as autonomous driving, medical imaging, and video game
+development.
+2.3 Image and Video
+Understanding
+Vision models are evaluated on their ability to understand these cases, algorithms process natural language questions,
+and reason about the content of images and videos. Vision identify objects from an open set of images, and generate
+understanding was one of the first AI capabilities widely answers based on image content or prior knowledge.
+tested during the deep learning era. ImageNet, created by
+Fei-Fei Li and extensively covered in past editions of the VCR: Visual Commonsense Reasoning
+AI Index, served as a foundational benchmark for image Introduced in 2019 by researchers from the University
+understanding. As AI systems have advanced, researchers of Washington and the Allen Institute for AI, the Visual
+have shifted toward evaluating image models on more Commonsense Reasoning (VCR) challenge tests the
+complex and comprehensive understanding tasks, such as commonsense visual reasoning abilities of AI systems. In this
+those involving video or commonsense reasoning in images. challenge, AI systems not only answer questions based on
+images but also reason about the logic behind their answers
+In the ImageNet era, vision algorithms were tasked with more (Figure 2.3.1). Performance in VCR is measured using the
+straightforward tasks (e.g., classifying images into predefined Q->AR score, which evaluates the machine’s ability to both
+categories). However, modern computer vision benchmarks select the correct answer to a question (Q->A) and choose
+like VCR and MVBench introduce more open-ended the appropriate rationale behind that answer (Q->R).
+challenges, where no fixed categories or classes exist. In
+Sample question from Visual Commonsense Reasoning (VCR) challenge
+Source: Zellers et al., 2018
+Figure 2.3.1
+Chapter 2 Preview 39
+
+Artificial Intelligence
+Index Report 2025
+Chapter 2: Technical Performance
+2.3 Image and Video
+The VCR benchmark was one of the few benchmarks routinely score of 85.0, matching the human benchmark (Figure 2.3.2).
+featured in the AI Index where AI systems consistently This milestone represented a significant 4.2% improvement
+fell short of the human baseline. However, 2024 marked a on the benchmark since 2023. Even previously challenging
+turning point, with AI systems finally reaching this baseline. benchmarks are now being surpassed.
+A model posted to the leaderboard in achieved a
+
+2018 2019 2020 2021 2022 2023 2024
+MVBench
+MVBench, introduced by a team of researchers
+from Hong Kong and China in 2023, is a challenging,
+multimodal, video-understanding benchmark.11
+Unlike earlier video benchmarks that primarily
+tested spatial understanding through static image
+tasks, MVBench incorporates more complex video
+tasks requiring temporal reasoning across multiple
+frames (Figure 2.3.3).
+Chapter 2 Preview 40
+erocs
+RA>-Q
+Visual Commonsense Reasoning (VCR) task: Q->AR score
+Source: VCR Leaderboard, 2025 | Chart: 2025 AI Index report
+85, human baseline
+
+Figure 2.3.2
+Sample tasks on
+MVBench
+Source: Li et al., 2023
+Figure 2.3.3
+11 The researchers were affiliated with the Chinese Academy of Sciences, University of Chinese Academy of Sciences, Shanghai AI Laboratory, the University of Hong Kong, Fudan University,
+and Nanjing University.
+
+Artificial Intelligence
+Index Report 2025
+Chapter 2: Technical Performance
+2.3 Image and Video
+As of 2024, the top model on the MVBench leaderboard is late 2023 (Figure 2.3.4). These results highlight the gradual
+Video-CCAM-7B-v1.2, built on the Queen 2.5-7B-Instruct but steady progress in the dynamic video understanding
+language model. Its score of 69.23 marks a significant 14.6% capabilities of AI models.
+improvement on the benchmark since its introduction in
+100%
+80%
+69.23%
+67.25% 67.42%
+64.60% 65.35%
+62.30% 62.80% 60% 58.10% 58.77% 60.40%
+54.73% 54.85%
+50.90% 51.10%
+48.70%
+40%
+20%
+0%
+interlm -7b vicuna-7b-d V e id lt e a o -v C 0 hat K 2 wai-Video S L T L - M LLM PLLaVA 34 C B VLM VideoChat V 2_ id m e i o s C tr h a a l t V 2_ id H e D o _ -C m C is A t V r M a id l - e 4 o B - - C v C 1.1 A J M T- - V 9 L B - - C v h 1. a 1 t InternVideo T 2 im -8 e B M -H ar D k - e V C r i h d a e t o -f - 1 C 6 CAM -7B-v1.2
+Chapter 2 Preview 41
+ycarucca
+egarevA
+MVBench: average accuracy
+Source: MVBench Leaderboard, 2025 | Chart: 2025 AI Index report
+Figure 2.3.4
+
+Artificial Intelligence
+Index Report 2025
+Chapter 2: Technical Performance
+2.3 Image and Video
+Generation
+Image generation is the task of generating images that are Which face is real?
+Source: Which Face Is Real, 2024
+indistinguishable from real ones. As noted in last year’s AI
+Index, today’s image generators are so advanced that most
+people struggle to differentiate between AI-generated images
+and actual images of human faces (Figure 2.3.5). Figure 2.3.6
+highlights several generations from various Midjourney model
+variants from 2022 to 2025 for the prompt “a hyper-realistic
+image of Harry Potter.” The progression demonstrates the
+significant improvement in Midjourney’s ability to generate
+hyper-realistic images over a two-year period. In 2022, the
+model produced cartoonish and inaccurate renderings of
+Harry Potter, but by 2025, it could create startlingly realistic Figure 2.3.5
+depictions.
+Midjourney generations over time: “a hyper-realistic image of Harry Potter”
+Source: Midjourney, 2024
+V1, February
+V2, 
+2022 V3, V4, 
+V5, V6, 
+V6.1, 
+Figure 2.3.6
+Chapter 2 Preview 42
+
+Artificial Intelligence
+Index Report 2025
+Chapter 2: Technical Performance
+2.3 Image and Video
+Chatbot Arena: Vision
+The AI community has increasingly embraced public
+evaluation platforms, such as the Chatbot Arena
+Leaderboard, to assess the capabilities of leading
+AI systems, including top AI image generators. This
+leaderboard also features a Vision Arena, which ranks
+the performance of over 50 vision models. Users
+can submit text-to-image prompts, such as “Batman
+drinking a coffee,” and vote for their preferred
+generation (Figure 2.3.7). To date, the Vision Arena has
+garnered more than 150,000 votes.
+As of early 2025, the top-ranked vision model on the
+leaderboard is Google’s Gemini-2.0-Flash-Thinking-
+Exp-1219 (Figure 2.3.8). Similar to other Chatbot Arena
+categories—such as general, coding, and math—the
+leading models are closely clustered in performance.
+For example, the gap between the top model and the
+fourth-ranked model, ChatGPT-4o-latest (2024-11-
+20), is just 3.4%.
+1,280
+1,260
+1,240
+1,220
+1,200
+1,180
+1,160
+Pixtral-Large-2 C 4 l 1 a 1 ude 3.5 Son C n l e a t u ( d 2 e 0 3 2 . 4 5 1 0 S 2 o 2 n G ) n e e m t ( i 2 n 0 i- 2 1. 4 5 0 -F 6 l 2 a 0 s G h ) P -0 T- 0 4 2 o-2024-0 G 5 e - m 13 ini-1.5-Pro C -0 h 0 a 2 tGPT-4o-la G te e s m t i ( n 2 i 0 -E 2 x 4 p -1 - 1 1 - 2 2 G 0 0 6 e ) m ini-2.0-Fla G sh e - m E i x n p i-2.0-Flash-Thinking-Exp-1219
+Model
+Chapter 2 Preview 43
+gnitar
+olE
+Sample from the Chatbot Vision Arena
+Source: Chatbot Arena Leaderboard, 2025
+Figure 2.3.7
+LMSYS Chatbot Arena for LLMs: Elo rating (vision)
+Source: LMSYS, 2025 | Chart: 2025 AI Index report
+Figure 2.3.8
+
+Artificial Intelligence
+Index Report 2025
+Chapter 2: Technical Performance
+2.3 Image and Video
+Highlight:
+The Rise of Video Generation
+As highlighted in last year’s AI Index, recent years have follows a three-step process: text-to-image pretraining,
+witnessed the rise of video generation models capable of video pretraining, and high-quality video fine-tuning.
+creating videos from text prompts. While earlier models Shortly after, in March, Stability AI introduced Stable
+demonstrated some promise, they were plagued by Video 3D, a model designed to generate multiple 3D views
+significant limitations, such as producing low-quality and videos of an object from a single image. In February
+videos, omitting sound, or generating only very short 2024, OpenAI responded with a preview of Sora, its own
+clips. However, 2024 marked a significant leap forward in video generation model, which moved out of research
+AI video generation, with several major industry players mode and became publicly accessible in .
+unveiling advanced video generation systems. Sora can generate 20-second videos at resolutions up to
+1080p (Figure 2.3.10). As a diffusion model, it creates a
+In , Stability AI launched its Stable Video base video and progressively refines it by removing noise
+Diffusion model, their first foundation model capable of over multiple steps to enhance quality.
+generating high-quality videos (Figure 2.3.9). The model
+Still generations from Stable Video Diffusion
+Source: Stability AI, 2025
+Figure 2.3.9
+Still generation from Sora
+Source: OpenAI, 2024
+Figure 2.3.10
+Chapter 2 Preview 44
+
+Artificial Intelligence
+Index Report 2025
+Chapter 2: Technical Performance
+2.3 Image and Video
+Highlight:
+The Rise of Video Generation (cont’d)
+Other major tech players have entered the video generation
+space. In , Meta unveiled the latest version of
+its Movie Gen model. Unlike earlier iterations, the new Movie Veo preferred Ties Other preferred
+Gen includes advanced instruction-based video editing
+100%
+features, personalized video generation from images, and
+the ability to incorporate sound into videos. Meta’s most 30.60% 32.60% 30.30% 26.70%
+advanced Movie Gen model can create 16-second videos at 80%
+16 frames per second, with a resolution of 1080p. Google also
+14.50%
+made significant strides in 2024, launching two major video 60% 15.60% 17.80% 15.20%
+generation models: Veo in May and Veo 2 in December.
+Internal benchmarking by Google revealed that Veo 2
+40%
+outperformed other leading video generators, such as Meta’s
+Movie Gen, Kling v1.5, and Sora Turbo. In user comparisons, 53.80% 54.50% 58.80%
+49.50%
+videos generated by Veo 2 were consistently favored over 20%
+those produced by competing models (Figure 2.3.11).
+0%
+Meta Movie Gen Kling v1.5 Minimax Sora Turbo
+Figure 2.3.11
+Will Smith eating spaghetti, 2023 vs. 2025
+Source: Pika, 2025
+Figure 2.3.12
+Chapter 2 Preview 45
+ecnereferp
+llarevO
+Veo 2: overall preference
+Source: DeepMind, 2024 | Chart: 2025 AI Index report
+Smaller players have also made notable contributions to video generation, with models such as Runway’s Gen-3 Alpha,
+Luma’s Dream Machine, and Kuaishou’s Kling 1.5. The remarkable progress in this field is evident when comparing
+videos generated in 2023 to those produced in 2024. A popular prompt on the internet, “Will Smith eating spaghetti,”
+demonstrates this advancement, with videos generated in 2025 from one popular video generator Pika showcasing a
+dramatic improvement in quality compared to their 2023 counterparts (Figure 2.3.12).
+V1.0
+December
+
+V1.5
+October
+
+V2.2
+February
+
+Artificial Intelligence
+Index Report 2025
+Chapter 2: Technical Performance
+2.4 Speech
+AI systems are adept at processing human speech, with
+audio capabilities that include transcribing spoken words to
+text and recognizing individual speakers. More recently, AI
+has advanced in generating synthetic audio content.
+2.4 Speech
+Speech Recognition
+Speech recognition is the ability of AI systems to identify LSR2: Lip Reading Sentences 2
+spoken words and convert them into text. Speech recognition The Oxford-BBC Lip Reading Sentences 2 (LRS2) dataset,
+has progressed so much that today many computer programs introduced in 2017, is one of the most comprehensive public
+and texting apps are equipped with dictation devices that can datasets for lipreading in authentic, in-the-wild scenarios
+reliably transcribe speech into writing. (Figure 2.4.1). The dataset consists of audio-visual clips from
+a variety of talk shows and news programs. On automatic
+speech recognition (ASR) tasks, systems’ ability to transcribe
+speech are evaluated on word error rate (WER), with lower
+scores indicating more precise transcription.
+Still images from the BBC lip reading sentences 2 dataset
+Source: Chung et al., 2024
+Figure 2.4.1
+Chapter 2 Preview 46
+
+Artificial Intelligence
+Index Report 2025
+Chapter 2: Technical Performance
+2.4 Speech
+This year, the model Whisper-Flamingo set a new standard 1.5 set in 2023 (Figure 2.4.2). However, given the already
+on the LRS2 benchmark, achieving a word error rate of 1.3 low WER, significant further improvements appear unlikely,
+percent, surpassing the previous state-of-the-art score of suggesting that the benchmark may be nearing saturation.
+8%
+7%
+6%
+5%
+4%
+3%
+2%
+1%
+0%
+2018 2019 2020 2021 2022 2023 2024
+Figure 2.4.2
+Chapter 2 Preview 47
+)REW(
+etar
+rorre
+droW
+LRS2: word error rate (WER)
+Source: Papers With Code, 2025 | Chart: 2025 AI Index report
+1.30%
+
+Artificial Intelligence
+Index Report 2025
+100%
+80%
+60%
+40%
+20%
+0%
+2021 2022 2023 2024
+Chapter 2 Preview 48
+1@ssaP
+Chapter 2: Technical Performance
+2.5 Coding
+Coding involves the generation of
+instructions that computers can follow
+to perform tasks. Recently, LLMs have
+become proficient coders, serving as
+valuable assistants to computer scientists. 2.5 Coding
+There is also increasing evidence that
+many coders find AI coding assistants
+highly useful. As highlighted in last year’s
+HumanEval
+AI Index, LLMs have become increasingly
+proficient coders, to the extent that many HumanEval, a benchmark introduced by OpenAI researchers in 2021, evaluates the
+foundational coding benchmarks, such coding abilities of AI systems through 164 challenging, handwritten programming
+as HumanEval, are slowly becoming
+problems (Figure 2.5.1). The current leader in HumanEval performance is Claude 3.5
+saturated. In response, researchers have
+shifted their focus toward testing LLMs Sonnet (HPT), which achieved a score of 100% (Figure 2.5.2).
+on more complex coding challenges.
+Sample HumanEval problem
+Source: Chen et al., 2023
+Figure 2.5.1
+HumanEval: Pass@1
+Source: Papers With Code, 2025 | Chart: 2025 AI Index report
+100%
+Figure 2.5.2
+
+Artificial Intelligence
+Index Report 2025
+71.70%
+55.00%53.20%55.00%55.40%57.00%57.20%58.20%60.20%62.20%62.80%64.60%
+44.67%47.33%48.33%48.67%49.00%
+40.67%41.00%41.33% 41.67%
+Chapter 2 Preview 49
++
+5.1-sseltnegA
+)22-01-4202(
+tennoS
+5.3-edualC
+)03-01-4202(
+tiK-EWS
+oisopmoC
++
+9.0-yttiKhctaP
+)22-01-4202(
+tennoS
+5.3-edualC
+1.2v
+tcAedoC
++
+sdnaHnepO
+)22-01-4202-tennos-5-3-edualc( +
+1v-udoK
+)22-01-4202(
+tennoS
+5.3-edualC
+olved tnegA
+rexiF
+edoC
+tnabolG
+)80-21-4202(
+urG
+tnegA
+IA
+xobkcalB
+mrofosI hs.tekcarB tnegA
+repoleveD
+Q nozamA
+)ved-20-21-4202v( repoleveD
+nuR/IA
+MAPE
++
+21-21-4202v
+tnegA
+tennoS
+5.3
+edualC
+cipohtnA
+)80-21-4202(
+urG
+)32-21-4202v(
+1E
+tnegremE
+olved tcaretni-yb-nraeL +
+tnegA
+tiwdiM
+yrotSedoC
+hcraes-ews tnegA
+IA
+xobkcalB
+5kcehcssorc
+1O
+remmargorP
+B&W
+3o
+100%
+Lite Veri ed
+80%
+60%
+40%
+20%
+0%
+Lite Veri ed
+Model
+devlos
+tnecreP
+Chapter 2: Technical Performance
+2.5 Coding
+SWE-bench
+In , researchers from Princeton and the University
+A sample model input from SWE-bench
+of Chicago introduced SWE-bench, a dataset comprising Source: Jimenez et al., 2023
+2,294 software engineering problems sourced from real
+GitHub issues and popular Python repositories (Figure 2.5.3).
+SWE-bench presents a tougher test for AI coding proficiency,
+demanding that systems coordinate changes across multiple
+functions, interact with various execution environments,
+and perform complex reasoning. SWE-bench features a Lite
+subset that is curated to make evaluation more accessible and
+a Verified subset that is filtered by a human annotator. The
+charts below report on the Verified score.
+SWE-bench highlights the rapid improvement of LLMs on
+tasks that were once considered extremely demanding. At
+the end of 2023, the best performing model on SWE-bench
+achieved a score of just 4.4%. By early 2025, the top model,
+OpenAI’s o3 model, is reported to have successfully solved
+71.7% of the problems on the Verified benchmark set (Figure
+2.5.4). This significant performance increase suggests that Figure 2.5.3
+AI researchers may soon need to develop more challenging
+coding benchmarks to effectively test LLMs.
+SWE-bench: percent solved
+Source: SWE-bench Leaderboard, 2025; OpenAI, 2024 | Chart: 2025 AI Index report
+Figure 2.5.4
+
+Artificial Intelligence
+Index Report 2025
+Chapter 2: Technical Performance
+2.5 Coding
+Programming tasks in BigCodeBench
+Source: Zhuo et al., 2024
+Figure 2.5.5
+30.80 31.10 31.40 32.10 32.10 32.80 33.80 34.10 34.50 35.50
+Chapter 2 Preview 50
+tcurtsnI-B23-redoC-5.2newQ 02-11-4202-o4-TPG tnegA-2V-enehtA tahC-2V-enehtA 90-40-4202-obruT-4-TPG 71-21-4202-1o )muidem=gninosaer
+,1=erutarepmet(
+tahC-3V-keeSpeeD 6021-pxE-inimeG 71-21-4202-1o )wol=gninosaer
+,1=erutarepmet(
+71-21-4202-1o )hgih=gninosaer
+,1=erutarepmet(
+
+Model
+)egareva(
+1@ssaP
+BigCodeBench on the hard set: Pass@1 (average)
+Source: Hugging Face, 2025 | Chart: 2025 AI Index report
+52.90 53.20 53.50 53.50 54.00 54.10 54.20 54.70 56.10 56.10
+pxE-hsalF-0.2-inimeG 90-40-4202-obruT-4-TPG tcurtsnI-B23-redoC-5.2newQ 02-11-4202-o4-TPG tcurtsnI-2V-redoC-keeSpeeD )82-60-4202(
+tahC-2V-keeSpeeD
+4111-pxE-inimeG 6021-pxE-inimeG tahC-3V-keeSpeeD 31-50-4202-o4-TPG
+
+Model
+)egareva(
+1@ssaP
+BigCodeBench
+One limitation of existing coding benchmarks is that many coding evaluation (Figure 2.5.5). BigCodeBench requires
+are restricted to short, self-contained algorithmic tasks or LLMs to invoke multiple function calls across 139 libraries
+standalone function calls. However, solving complex and and seven domains, encompassing 1,140 fine-grained tasks.
+practical tasks often requires the ability to invoke diverse Current AI systems struggle on BigCodeBench. For example,
+functions, such as tools for data analysis or web development. on both the “complete” (code completion based on structured
+Effective coding also requires the ability to follow coding docstrings) and “instruct” (code completion based on
+instructions expressed in language, a task not tested by many natural-language instructions) tasks on the hard subset of the
+current coding benchmarks. benchmark, the current best model, OpenAI’s o1, achieves
+an average score of just 35.5 (Figure 2.5.6). Models perform
+To address the limitations of existing coding benchmarks, slightly better on the full set of the benchmark (Figure 2.5.7).
+an international team in 2024 released BigCodeBench, a BigCodeBench highlights the gap that persists for AI systems
+comprehensive, diverse, and challenging benchmark for to achieve human-level coding proficiency.
+BigCodeBench on the full set: Pass@1 (average)
+Source: Hugging Face, 2025 | Chart: 2025 AI Index report
+Figure 2.5.6 Figure 2.5.7
+
+Artificial Intelligence
+Index Report 2025
+1,380
+1,360
+1,340
+1,320
+1,300
+Qwen2.5-plus-112 D
+
+eepSeek-V3 Claude 3.5
+Sonn
+G
+et
+e
+(
+m
+
+in
+
+i
+
+-2
+
+.0
+2 - 2 F ) lash
+G
+-T
+e
+h
+m
+in
+in
+k
+i
+i
+-
+n
+
+g
+.0
+-E -F x l p a - s 1 h 2
+C
+- 1 E
+h
+
+a
+xp
+tGPT-4o-late o
+s
+
+t
+- p
+(2
+r
+
+ev
+
+i
+
+e
+-
+w
+11-20)
+o1-m ini o1-2024-12-17 Gem ini-Exp-1206
+Model
+Chapter 2 Preview 51
+gnitar
+olE
+Chapter 2: Technical Performance
+2.5 Coding
+Chatbot Arena: Coding
+The Chatbot Arena LLM leaderboard now features a coding LLM for coding is Gemini-Exp-1206, with an arena score of
+filter, offering valuable insights into how coders and the 1,369, closely followed by OpenAI’s latest o1 model at 1,361.
+broader community perceive the coding capabilities of Among Chinese models, DeepSeek-V3 leads with a score
+different models. This public feedback adds a new dimension of 1,317, trailing the highest-ranking model by 3.8% (Figure
+to evaluating model performance. Currently, the top-rated 2.5.8).
+LMSYS Chatbot Arena for LLMs: Elo rating (coding)
+Source: LMSYS, 2025 | Chart: 2025 AI Index report
+Figure 2.5.8
+
+Artificial Intelligence
+Index Report 2025
+Chapter 2: Technical Performance
+2.6 Mathematics
+Mathematical problem-solving benchmarks evaluate AI
+systems’ ability to reason mathematically. AI models can be
+tested with a range of math problems, from grade-school
+level to competition-standard mathematics.
+2.6 Mathematics
+Sample problems from GSM8K
+Source: Cobbe et al., 2023
+GSM8K
+GSM8K, introduced by OpenAI in 2021, is a dataset
+containing approximately 8,000 diverse grade-school
+math word problems that challenges AI models
+to generate multistep solutions using arithmetic
+operations (Figure 2.6.1). Alongside MMLU, GSM8K
+has become a widely used benchmark for evaluating
+advanced LLMs. However, recent concerns have
+emerged regarding potential contamination and
+saturation of the benchmark.
+Figure 2.6.1
+The top-performing model on GSM8K is a variant of
+Claude Sonnet 3.5, which was optimized using the
+HPT prompting strategy and achieved a 97.72% score
+(Figure 2.6.2). This marks a significant improvement
+100%
+80%
+Figure 2.6.1
+60%
+40%
+20%
+0%
+2022 2023 2024
+Figure 2.6.2
+Chapter 2 Preview 52
+ycaruccA
+over the previous high of 91.00% in 2023. However, in 2024, several
+models from Mistral, Meta, and Qwen scored around 96%, indicating
+that the GSM8K benchmark may be approaching saturation.
+GSM8K: accuracy
+Source: Papers With Code, 2024 | Chart: 2025 AI Index report
+97.72%
+
+Artificial Intelligence
+Index Report 2025
+Chapter 2: Technical Performance
+2.6 Mathematics
+Sample problem from MATH dataset
+Source: Hendrycks et al., 2023
+Figure 2.6.3
+100%
+80%
+60%
+40%
+20%
+0%
+2021 2022 2023 2024 2025
+Figure 2.6.4
+Chapter 2 Preview 53
+ycaruccA
+MATH
+MATH is a dataset of 12,500 challenging, competition-
+level mathematics problems introduced by UC Berkeley
+and University of Chicago researchers in 2021 (Figure
+2.6.3). AI systems struggled on MATH when it was first
+released, managing to solve only 6.9% of the problems.
+Performance has significantly improved. In , OpenAI’s o3-mini (high) model was released
+and achieved the best performance on the MATH
+dataset, solving 97.9% of the problems (Figure 2.6.4). As
+highlighted in last year’s AI Index, MATH was one of the
+few datasets where AI systems had not yet outperformed
+the human baseline. This fact no longer remains true.
+MATH word problem-solving: accuracy
+Source: Papers With Code, 2024; OpenAI, 2025 | Chart: 2025 AI Index report
+97.90%
+90%, human baseline
+
+Artificial Intelligence
+Index Report 2025
+Chapter 2: Technical Performance
+2.6 Mathematics
+1,380
+1,360
+1,340
+1,320
+1,300
+1,280
+1,260
+Claude 3.5 Sonne G
+t
+e
+(2
+m
+
+in
+
+i-
+
+.5
+
+-
+
+P
+)
+ro-0 D
+
+eepSeek-V3 ChatGPT-4o-late G
+st
+e
+(
+m
+
+in
+
+i
+
+-2
+-1
+.0
+1-
+-
+
+F
+
+la
+)
+sh G
+-E
+e
+x
+m
+p
+ini-Exp-1206 Gem ini-2.0-Flash o
+-T
+1-
+h
+m
+in
+in
+k
+i
+ing-Exp-12
+o
+
+1-preview o1-2024-12-17
+Model
+Chapter 2 Preview 54
+gnitar
+olE
+Chatbot Arena: Math
+The Chatbot Arena includes a math filter, allowing the public Unlike the general and coding arenas, where Gemini-based
+to rank models based on their performance in generating models lead, the top-ranked model in the Math Arena is
+math-related answers. The Math Arena evaluates over 181 OpenAI’s o1 variant, released in (Figure
+models and has collected more than 340,000 public votes. 2.6.5).
+LMSYS Chatbot Arena for LLMs: Elo rating (Math)
+Source: LMSYS, 2025 | Chart: 2025 AI Index report
+Figure 2.6.5
+FrontierMath
+Members of the math community have highlighted limitations mathematical problems. These problems, vetted by
+in the current suite of math benchmarks, calling for the expert mathematicians, often require hours, days, or even
+development of new benchmarks to evaluate increasingly collaborative research efforts to solve. Figure 2.6.6 illustrates
+advanced AI systems. One significant challenge is saturation: sample problems included on the benchmark. Epoch AI
+AI systems are approaching near-perfect performance evaluated six leading LLMs on the FrontierMath benchmark:
+on benchmarks like GSM8K and MATH, which primarily o1-preview, o1-mini, GPT-4o, Claude 3.5 Sonnet, Grok 2
+assess high school and college-level mathematics. To push Beta, and Gemini 1.5 Pro 002. At the time the benchmark
+the boundaries further, researchers have voiced a need for was released, the best-performing model, Gemini 1.5 Pro,
+benchmarks that test truly advanced mathematics, including managed to solve just 2.0% of the problems—a significantly
+problems in number theory, real analysis, algebraic geometry, lower success rate than it achieved on other math benchmarks
+and category theory. (Figure 2.6.7). However, OpenAI’s o3 model is reported
+to have scored 25.2% on the benchmark. The creators of
+FrontierMath is a new benchmark introduced by Epoch AI FrontierMath hope the benchmark will remain a rigorous
+that features hundreds of original, exceptionally challenging challenge for cutting-edge AI systems for years to come.
+
+Artificial Intelligence
+Index Report 2025
+Chapter 2: Technical Performance
+2.6 Mathematics
+Sample problems from FrontierMath
+Source: Glazer et al., 2024
+Figure 2.6.6
+100%
+80%
+60%
+40%
+25.20%
+20%
+0.00% 1.00% 1.00% 2.00% 2.00%
+0%
+Grok 2 Beta GPT-4o o1-preview Claude 3.5 Sonnet Gemini 1.5 Pro o3
+(2024-08-06) (2024-10-22) (002)
+Model
+Figure 2.6.7
+Chapter 2 Preview 55
+devlos
+tnecreP
+FrontierMath: percent solved
+Source: Glazer et al., 2024; OpenAI, 2025 | Chart: 2025 AI Index report
+
+Artificial Intelligence
+Index Report 2025
+Chapter 2: Technical Performance
+2.6 Mathematics
+Highlight:
+Learning and Theorem Proving
+DeepMind employed its systems, AlphaProof and
+AlphaGeometry 2, to solve four out of six problems in 25
+the 2024 International Mathematical Olympiad (IMO),
+achieving a performance level equivalent to that of a silver 20
+medalist. AlphaGeometry solved 25 out of 30 Olympiad
+geometry problems in the benchmarking set, surpassing 15
+the average score of an IMO silver medalist, who typically
+solves 22.9 (Figure 2.6.8). The IMO, established in 1959, 10
+is the world’s oldest and most prestigious competition for
+young mathematicians. 5
+AlphaProof is a reinforcement learning system derived from 0
+A
+an
+lp
+d
+h
+G
+aZ
+o
+e
+.
+r
+I
+o
+t
+,
+t
+w
+ra
+h
+in
+ic
+s
+h
+i
+w
+ts
+a
+e
+s
+lf
+p
+t
+r
+o
+e v
+s
+i
+o
+o
+l
+u
+v
+s
+e
+l y
+p
+a
+r
+p
+o
+p
+b
+l
+l
+i
+e
+e
+m
+d
+s
+t o
+b
+c
+y
+h
+g
+e
+e
+s
+n
+s,
+e
+s
+ra
+h
+t
+o
+in
+g
+g
+i, W u’s method Honorable
+m
+B
+e
+r
+n
+o
+t
+n
+io
+z
+n
+e
+s
+meda S
+li
+i
+s
+lv
+t
+er medali A
+st
+lphaGeome G
+tr
+o
+y
+ld medalist
+hypotheses that are then verified using the Lean interactive
+Figure 2.6.8
+proof system. A fine-tuned Gemini model is utilized to
+translate natural language problem statements into formal
+representations, building a comprehensive training library. A 2024 update of that report, based on the latest version of
+In this year’s competition, AlphaProof successfully solved TPTP containing over 25,000 problems, indicates that fully
+two algebra problems and one number theory problem, automatic systems can now solve 89% of the problems in
+but failed to solve two combinatorics problems. TPTP v.9.0.0.
+AlphaGeometry 2 is a neuro-symbolic hybrid system Ideally, TPTP systems could be tested on IMO problems,
+featuring a language model based on Gemini and trained and AlphaProof and AlphaGeometry on TPTP problems—
+on extensive synthetic data. Prior to 2024, AlphaGeometry some of which have never been solved by humans, let
+could solve 83% of historical IMO geometry problems. alone by ATP systems. Unfortunately, neither of these tests
+During the 2024 competition, it solved the sole geometry has been conducted. The primary reason is that the logics
+problem in just 24 seconds. For the 2024 test, competition supported by the different systems differ significantly, and
+problems were manually translated into Lean’s formal translators between them do not yet exist. Additionally,
+representation. while substantial, the TPTP library is not large enough to
+serve as a training set for AlphaProof without generating a
+It remains unknown how AlphaProof and AlphaGeometry considerable number of synthetic examples.
+would perform on traditional theorem-proving benchmarks
+such as TPTP, which has been used since 1997 to assess
+the performance of automatic theorem-proving (ATP)
+systems, particularly those applied to software verification.
+The AI Index reported on the state of ATP in its 2021 report.
+Chapter 2 Preview 56
+smelborp
+devlos
+fo
+rebmuN
+Number of solved geometry problems in IMO-AG-30
+Source: Trinh et al., 2024 | Chart: 2025 AI Index report
+25.93
+25.00
+22.85
+19.29
+14.27
+10.00
+
+Artificial Intelligence
+Index Report 2025
+100%
+80%
+60%
+40%
+20%
+0%
+2023 2024
+Chapter 2 Preview 57
+ycarucca
+llarevO
+Chapter 2: Technical Performance
+2.7 Reasoning
+Reasoning in AI involves the ability of AI systems to draw logically
+valid conclusions from different forms of information. AI systems are
+increasingly being tested in diverse reasoning contexts, including
+visual (reasoning about images), moral (understanding moral
+dilemmas), and social reasoning (navigating social situations).
+2.7 Reasoning Sample MMMU questions
+Source: Yue et al., 2023
+General Reasoning
+General reasoning pertains to AI
+systems being able to reason across
+broad, rather than specific, domains.
+As part of a general reasoning
+challenge, for example, an AI system
+might be asked to reason across
+multiple subjects rather than perform
+one narrow task (e.g., playing chess).
+MMMU: A Massive Multi-discipline Multimodal Figure 2.7.1
+Understanding and Reasoning Benchmark for
+Expert AGI
+In recent years, the reasoning abilities of AI systems have
+MMMU on validation set: overall accuracy
+advanced so much that older benchmarks like SQuAD (for Source: MMMU Leaderboard, 2024 | Chart: 2025 AI Index report
+textual reasoning) and VQA (for visual reasoning) have become
+saturated, indicating a need for more challenging reasoning tests.
+82.60%, human expert (medium)
+78.20%
+Responding to this, researchers from the United States and
+Canada recently developed MMMU, the massive multi-
+discipline multimodal understanding and reasoning benchmark
+for expert AGI (artificial general intelligence). MMMU comprises
+about 11,500 college-level questions from six core disciplines: art
+and design, business, science, health and medicine, humanities
+and social science, and technology and engineering (Figure 2.7.1).
+The question formats include charts, maps, tables, chemical
+structures, and more. MMMU is among the most demanding
+tests of perception, knowledge, and reasoning in AI to date. As
+of , the highest-performing model is OpenAI’s o1,
+achieving a score of 78.2%—a significant improvement from the
+state-of-the-art score of 59.4% reported in last year’s AI Index
+Figure 2.7.2
+(Figure 2.7.2). While this top score remains below the medium
+and high human expert baselines, as with other benchmarks
+covered in the Index, AI systems are rapidly closing the gap.
+
+Artificial Intelligence
+Index Report 2025
+100%
+80%
+60%
+40%
+20%
+0%
+2023 2024
+Chapter 2 Preview 58
+ycaruccA
+Chapter 2: Technical Performance
+2.7 Reasoning
+GPQA: A Graduate-Level Google-Proof Q&A Benchmark
+In 2023, researchers from NYU, Anthropic, and Meta Last year’s AI Index reported that the best-performing AI
+introduced the GPQA benchmark to test general, model, GPT-4, achieved only 38.8% on the diamond test set.
+multisubject AI reasoning. This dataset consists of 448 In just a year, top AI systems have made significant strides,
+difficult multiple-choice questions that cannot be easily with OpenAI’s o3 model, launched in ,
+answered by web search. The questions were crafted posting a state-of-the-art score of 87.7%, a 48.9 percentage
+by subject-matter experts in various fields like biology, point improvement from the state-of-the-art score in 2023
+physics, and chemistry (Figure 2.7.3). On the diamond set— (Figure 2.7.4). In fact, o3’s score was the first to exceed
+the most challenging subset of the dataset and the one the baseline set by expert human validators. AI systems
+most frequently tested by AI developers—human experts are rapidly advancing on challenging new benchmarks like
+achieved an accuracy rate of 81.3%. MMMU and GPQA, which were recently introduced to push
+the limits of AI capabilities.
+Sample chemistry question from GPQA
+Source: Rein et al., 2023
+Figure 2.7.3
+GPQA on the diamond set: accuracy
+Source: AI Index, 2025 | Chart: 2025 AI Index report
+87.70%
+81.20%, expert human validators
+Figure 2.7.4
+
+Artificial Intelligence
+Index Report 2025
+Chapter 2: Technical Performance
+2.7 Reasoning
+ARC-AGI
+As AI systems continue to advance, claims about the imminent learning library. ARC-AGI tests the ability of systems to
+arrival of artificial general intelligence (AGI) have become generalize beyond prior training. More specifically, the
+more frequent. There is no universally accepted definition ARC-AGI benchmark presents AI systems with a set of
+of AGI. Some computer scientists define it as AI systems independent tasks. Each task includes demonstration or input
+that match or surpass human cognitive abilities across a pairs followed by one or more test or output scenarios (Figure
+broad range of tasks. Others emphasize that the definition 2.7.5). This benchmark emphasizes generalized learning
+should encompass the capacity for general learning and skill ability: It is impossible for systems to prepare in advance,
+acquisition, describing AGI as a system “capable of efficiently as each task introduces a unique logic. The tasks require no
+acquiring new skills and solving novel problems for which it specialized world knowledge or language skills but instead
+was neither designed nor trained.” draw on assumed prior knowledge, such as the concept
+of objects, basic topology, and elementary arithmetic—
+ARC-AGI is a benchmark introduced in 2019 by François concepts typically mastered by children at an early age.
+Chollet, the creator of Keras, a popular open-source deep
+Sample ARC-AGI task
+Source: Chollet et al., 2025
+Figure 2.7.5
+Chapter 2 Preview 59
+
+Artificial Intelligence
+Index Report 2025
+Chapter 2: Technical Performance
+2.7 Reasoning
+100%
+80%
+60%
+40%
+20%
+0%
+2019 2020 2021 2022 2023 2024
+Figure 2.7.6
+Chapter 2 Preview 60
+erocs
+hgiH
+ARC-AGI has proven to be an exceptionally challenging Researchers attribute the overall slow progress in previous
+benchmark. When it was first run in 2020, the top-performing years to an overemphasis on scaling AI models—making
+system achieved a score of only 20% (Figure 2.7.6). Four years them larger and feeding them increasing amounts of training
+later, this score had risen to just 33%. However, this year has data. While this approach improved task-specific skills,
+seen substantial progress, with OpenAI’s o3 model achieving it did little to enhance the ability of AI systems to tackle
+a score of 75.7%. In settings where o3 was allocated a high- problems without prior exposure or training data. This
+compute budget exceeding the benchmark’s $10,000 limit, it year’s improvements suggest a shift in focus toward more
+achieved a score of 87.5%. meaningful advancements in generalization and search
+capabilities.
+ARC-AGI-1 on private evaluation set: high score
+Source: Chollet et al., 2025; OpenAI, 2025 | Chart: 2025 AI Index report
+75.70%
+
+Artificial Intelligence
+Index Report 2025
+Chapter 2: Technical Performance
+2.7 Reasoning
+Humanity’s Last Exam
+As highlighted in both this and last year’s AI Index, questions across dozens of subject areas (Figure 2.7.7). The
+many popular AI benchmarks, such as MMLU, GSM8K, dataset features multimodal questions, contributed by
+and HumanEval, have reached saturation. In response, subject matter experts, including leading professors and
+researchers have developed more challenging benchmarks graduate-level reviewers, that resist simple internet lookups
+to better assess AI capabilities. Recently, members of the or database retrieval. Additionally, each question was tested
+team behind MMLU introduced Humanity’s Last Exam against state-of-the-art LLMs before inclusion; if an existing
+(HLE), a new benchmark comprising 2,700 highly challenging model could answer it, the question was rejected.
+Same questions on HLE
+Source: Phan et al., 2025
+Figure 2.7.7
+Chapter 2 Preview 61
+
+Artificial Intelligence
+Index Report 2025
+Chapter 2: Technical Performance
+2.7 Reasoning
+100%
+80%
+60%
+40%
+20%
+8.80%
+7.20%
+3.10% 3.90% 4.80% 5.20%
+0%
+GPT-4o Grok-2 Clause 3.5 Sonnet Gemini 1.5 Pro Gemini 2.0 Flash Thinking o1
+Chapter 2 Preview 62
+ycaruccA
+Initial testing indicates that HLE is highly challenging for the benchmark are closely monitoring how quickly LLMs
+current AI systems. Even top models, such as OpenAI’s improve, and they speculate that performance could exceed
+o1, score just 8.8% (Figure 2.7.8). The researchers behind 50% by the end of 2025.
+Humanity’s Last Exam (HLE): accuracy
+Source: Phan et al., 2025 | Chart: 2025 AI Index report
+Figure 2.7.8
+
+Artificial Intelligence
+Index Report 2025
+Chapter 2: Technical Performance
+2.7 Reasoning
+Blocksworld Mystery Blocksworld
+100% 97.80%
+80%
+62.60%
+60%
+54.80%
+52.80%
+40% 35.50%
+23.80%
+20%
+8.00%
+0.00% 0.00%
+0%
+Claude 3.5 (Sonnet) GPT-4o LLama 3.1 405B Gemini 1.5 Pro o1-preview
+Model
+Chapter 2 Preview 63
+tcerroc
+secnatsnI
+Planning
+Planning is an intelligent task that involves reasoning The release of OpenAI’s o1 was met with enthusiasm from the
+about actions that alter the world. It requires considering AI research community, as it was designed to actively reason
+hypothetical future states, including potential external rather than function purely as an autoregressive LLM. When
+actions and other transformative events. tested on the PlanBench benchmark, o1 showed significant
+improvements, though it still struggles with reliable and
+PlanBench consistent planning. In the Blocksworld zero-shot evaluation
+Claims have been made that LLMs can solve planning (one specific planning evaluation domain), o1 achieved a score
+problems. A group from Arizona State University has of 97.8%—far surpassing the next best LLM, Llama 3.1 405B
+proposed PlanBench, a benchmark suite containing problems (62.6%), and dramatically outperforming GPT-4o (35.5%)
+used in the automated planning community, especially those (Figure 2.7.9). In the more challenging Mystery Blocksworld
+used in the International Planning Competition. PlanBench is domain, where some answers are syntactically obfuscated,
+designed to test LLMs on planning tasks. The benchmark tests o1 scored 52.8% zero-shot, compared to just 0.8% for Llama
+models on 600 problems in which a hand tries to construct 3.1 405B. GPT-4, by contrast, scored 0%.
+stacks of blocks when it is only allowed to move one block
+at a time to a table or to the top of a clear block. After the Planning is a combinatorial problem, and solving problems
+benchmark was released in 2022, researchers demonstrated with long solutions is expected to take more than linear time.
+that models like GPT-4 and GPT-3.5 still struggled with Not surprisingly, when tested on instances that require at
+planning tasks. least 20 steps, o1 manages to solve just 23.6%.
+PlanBench: instances correct
+Source: Valmeekam et al., 2024 | Chart: 2025 AI Index report
+Figure 2.7.9
+
+Artificial Intelligence
+Index Report 2025
+Chapter 2: Technical Performance
+2.8 AI Agents
+AI agents, autonomous or
+semiautonomous systems designed to
+operate within specific environments
+to accomplish goals, represent
+an exciting frontier in AI research. 2.8 AI Agents
+These agents have a diverse range of
+potential applications, from assisting
+For decades, the topic of AI agents has been widely discussed in the AI community,
+in academic research and scheduling
+meetings to facilitating online yet few benchmarks have achieved widespread adoption, including those featured
+shopping and vacation booking. As in last year’s Index, such as AgentBench and MLAgentBench. This is partly due to
+suggested by many recent corporate
+the inherent complexity of benchmarking agentic tasks, which are typically more
+releases, agentic AI has become a
+topic of increasing interest in the diverse, dynamic, and variable than tasks like image classification or answering
+technical world of AI. language questions. As AI continues to evolve, it will become important to develop
+effective methods to evaluate AI agents.
+VisualAgentBench
+VisualAgentBench (VAB), launched in 2024, represents a tests agents across three broad categories of tasks: embodied
+significant step forward in the evaluation of agentic AI. This agents (operating in household and gaming environments),
+benchmark reflects the growing multimodality of AI models GUI agents (interacting with mobile and web applications),
+and their increasing proficiency in navigating both virtual and and visual design agents (such as CSS debugging) (Figure
+embodied environments. VAB addresses the need to assess 2.8.1). This comprehensive approach creates a robust
+agent performance in diverse settings that extend beyond evaluation suite of agents’ capabilities across varied and
+environments reliant solely on linguistic commands. VAB dynamic contexts.
+Tasks on VisualAgentBench
+Source: Liu et al., 2024
+Figure 2.8.1
+Chapter 2 Preview 64
+
+Artificial Intelligence
+Index Report 2025
+VAB presents a significant challenge for AI systems. The top- around 20% (Figure 2.8.2). According to the benchmark’s
+performing model, GPT-4o, achieves an overall success rate of authors, these results reveal that current AI models are far
+just 36.2%, while most proprietary language models average from ready for direct deployment in agentic settings.
+36.20
+
+31.70
+29.90
+
+26.90
+
+21.90
+20.50
+19.80
+
+16.00
+
+12.00
+10.30 10.50
+10 8.40 8.90
+7.70
+6.30
+
+gem ini-1.0- L p L ro a V |5 A 8 -1.5 CogVLM (Fine-tuning L ) M C M og s A C g o e g n L V t L L a M VA 2 -NeX G T LM -4V InternVL-2 gem ini-1.5- ( p P r r o o | m 48 pting c ) l g a p u t d - e 4 - o 3 - - m op c in u la i s - u 2 d 0 e 2 - 4 3 - . 0 5 7 - g s -1 p o 8 t n - n 4 e -t t urbo g - p 0 t 4 -4 0 - 9 vision g - p p t r - e 4 v 0 i - e 2 w 024-05-13
+Model
+RE-Bench
+The emergence of increasingly capable agentic
+AI systems has fueled predictions that AI might
+soon take on the work of computer scientists
+or researchers. However, until recently, there
+were few benchmarks designed to rigorously
+test the R&D capabilities of top-performing AI
+systems. In 2024, researchers addressed this
+gap with the launch of RE-Bench, a benchmark
+featuring seven challenging, open-ended ML
+research environments. These tasks, informed
+by data from 71 eight-hour attempts by over
+60 human experts, include optimizing a kernel,
+conducting a scaling law experiment, and fine-
+tuning GPT-2 for question answering, among
+others (Figure 2.8.3).
+Chapter 2 Preview 65
+)egareva(
+etar
+sseccuS
+Chapter 2: Technical Performance
+2.8 AI Agents
+VisualAgentBench on the test set: success rate
+Source: VisualAgentBench Leaderboard, 2025 | Chart: 2025 AI Index report
+Figure 2.8.2
+RE-Bench Process and Flow
+Source: Wijk et al., 2024
+Figure 2.8.3
+
+Artificial Intelligence
+Index Report 2025
+Researchers uncovered two key findings when comparing the 32-hour budget, humans outperform AI by a factor of two.
+performance of humans and frontier AI models. In short time The researchers also note that for certain tasks, AI agents
+horizon settings, such as with a two-hour budget, the best AI already demonstrate expertise comparable to humans but
+systems achieve scores four times higher than human experts can deliver results significantly faster and at a lower cost.
+(Figure 2.8.4). However, as the time budget increases, human For example, AI agents can write custom Triton kernels more
+performance begins to surpass that of AI. With an eight-hour quickly than any human expert.
+budget, human performance slightly exceeds AI, and with a
+1.40 Claude 3.5 Sonnet (Old) (Modular) Claude 3.5 Sonnet (New) (Modular) Claude 3.5 Sonnet (New) (AIDE)
+o1-preview (AIDE) Human
+1.20
+1.00
+0.80
+0.60
+0.40
+0.20
+0.00
+30min 2h 8h 16h 32h 64h
+Time budget (time limit per run x number of attempts)
+Chapter 2 Preview 66
+erocs
+dezilamron
+egarevA
+Chapter 2: Technical Performance
+2.8 AI Agents
+RE-Bench: average normalized score@k
+Source: Wijk et al., 2024 | Chart: 2025 AI Index report
+Figure 2.8.4
+
+Artificial Intelligence
+Index Report 2025
+100%
+80%
+60%
+40%
+20%
+0%
+2023 2024
+Chapter 2 Preview 67
+erocs
+egarevA
+Chapter 2: Technical Performance
+2.8 AI Agents
+GAIA
+GAIA is a benchmark for General AI assistants
+Sample questions on GAIA
+introduced by Meta in . It consists of 466 Source: Meta, 2024
+questions designed to assess AI systems’ ability to
+perform a broad range of tasks, including reasoning,
+multimodal processing, web browsing, and tool use.
+Unlike straightforward, exam-style questions, GAIA
+challenges AI models with complex, multistep problems
+that may require searching the open web, interpreting
+multimodal inputs, and reasoning through intricate
+scenarios (Figure 2.8.5). When researchers launched
+GAIA, they found that existing LLMs lagged significantly
+behind human performance. For instance, GPT-4 with
+plugins correctly answered only 15% of the questions,
+compared to 92% for human respondents.
+Figure 2.8.5
+As with other recently introduced AI benchmarks,
+performance on GAIA has improved rapidly. In 2024, the
+GAIA: average score
+top system achieved a score of 65.1%, marking a roughly
+Source: GAIA Leaderboard, 2025 | Chart: 2025 AI Index report
+30 percentage point increase from the highest score
+recorded in 2023 (Figure 2.8.6).
+65.12%
+Figure 2.8.6
+
+Artificial Intelligence
+Index Report 2025
+Chapter 2: Technical Performance
+2.9 Robotics and Automous Motion
+Advancements in AI over the past
+decade have paved the way for
+exciting new developments in the
+field of robotics. Especially with the
+rise of foundation models, robots 2.9 Robotics and
+are now able to iteratively learn from
+their surroundings, adapt flexibly to Autonomous Motion
+new settings, and make autonomous
+decisions. This section explores key
+robotic benchmarks and recent trends,
+including the rise of humanoids,
+Robotics
+algorithmic advancements from
+DeepMind, and the emergence
+of robotic foundation models. It RLBench
+concludes by studying developments
+One of the most widely adopted benchmarks in the robotics community is RLBench
+in self-driving cars.
+(Robot Learning Benchmark). Launched in 2019, it features 100 unique tasks of varying
+complexity, from simple target reaching to opening an oven and placing a tray inside.12
+Researchers typically evaluate new robotic systems on a standardized subset of 18
+tasks to gauge performance. Figure 2.9.1 visualizes some of the tasks in RLBench.
+Tasks on VisualAgentBench
+Source: James et al., 2019
+Figure 2.9.1
+12 Target reaching in robotics refers to the process by which a robotic system moves its end-effector (such as a robotic arm or gripper) toward a specific goal position or object in space.
+Chapter 2 Preview 68
+
+Artificial Intelligence
+Index Report 2025
+100%
+80%
+60%
+40%
+20%
+0%
+2022 2023 2024 2025
+Chapter 2 Preview 69
+etar
+sseccuS
+Chapter 2: Technical Performance
+2.9 Robotics and Automous Motion
+As of , the top-performing model on this subset an 86.8% success rate, marking a 2.8 percentage point
+is SAM2Act, a collaboration between researchers at the improvement over the previous state-of-the-art in 2024 and
+University of Washington, Universidad Católica San Pablo, a 66.7 percentage point increase from the leading score in
+Nvidia, and the Allen Institute for AI. SAM2Act achieved 2021 (Figure 2.9.2).
+RLBench: success rate (18 tasks, 100 demo/task)
+Source: Papers With Code, 2025 | Chart: 2025 AI Index report
+86.80%
+Figure 2.9.2
+
+Artificial Intelligence
+Index Report 2025
+Chapter 2: Technical Performance
+2.9 Robotics and Automous Motion
+Highlight:
+Humanoid Robotics
+2024 was a significant year for robotics, marked by the to perform complex tasks such as making coffee and
+growing prevalence of humanoid robots—machines with assisting in automotive assembly by placing sheet metal
+humanlike bodies designed to mimic human functions. into a car fixture (Figure 2.9.3 and Figure 2.9.4). They are
+For example, Figure AI, a robotics startup dedicated to also integrated with OpenAI and can engage in speech-to-
+developing general-purpose humanoid robots, launched speech reasoning, whereby the robot explains its actions
+Figure 02 in 2024, its most advanced model yet. Standing and responds to queries about its behavior. Figure’s success
+5 feet 6 inches tall, weighing 154 pounds, and capable of follows that of other companies that released humanoid
+handling a 44-pound payload, Figure 02 operates for up robots, like Tesla’s Optimus, first launched in 2002 and
+to five hours on a single charge. Figure robots are able redesigned in 2023, and Boston Dynamics’ Atlas humanoid.
+Figure robot
+making coffee
+Source: Figure AI
+Figure 2.9.3
+Figure robot
+assisting in
+automotive
+assembly
+Source: Figure AI
+Figure 2.9.4
+Chapter 2 Preview 70
+
+Artificial Intelligence
+Index Report 2025
+Chapter 2: Technical Performance
+2.9 Robotics and Automous Motion
+Highlight:
+DeepMind’s Developments
+In 2023, DeepMind launched two robotic models, AutoRT workflow
+Source: Google DeepMind, 2024
+PaLM-E and RT-2. These models were novel in their use
+of transformer-based architectures, typically found in
+language modeling, and their training on both manipulation
+data and language data. This dual training approach
+enabled them to excel at both robotic manipulation and
+text generation. In 2024, DeepMind introduced AutoRT,
+an AI system that leverages large foundation models to
+autonomously generate diverse training data for robots.
+It coordinates multiple video-equipped robots, guiding
+them through various environments, devising creative
+tasks for them to perform, and meticulously documenting
+these tasks (Figure 2.9.5). This documentation then serves
+as training data for future robotic learning. To date, AutoRT
+has generated a dataset of 77,000 robotic trials spanning
+6,650 unique tasks. Greater amounts of robotic training
+data will be important to improve the training of future
+robotic systems.
+Conversely, SARA-RT, also from Google DeepMind,
+improves the efficiency of transformer-based robotic Figure 2.9.5
+models by significantly improving their speed. While
+transformers are powerful, they are also computationally with a technique called “up-training,” which converts the
+intensive as they rely on quadratic complexity attention quadratic complexity of standard transformers into a linear
+mechanisms. This means that doubling the input size of model. This method drastically reduces computational
+data provided to a model can quadruple computational demands while maintaining performance quality. Figure 2.9.6
+requirements. This challenge complicates attempts to compares speed tests of AI models enhanced with the SARA
+scale robotic models. SARA-RT addresses this challenge technique against those without. In point cloud processing,
+Speed
+tests for
+SARA vs.
+non-SARA
+enhanced
+models
+Source: Google
+DeepMind, 2024
+Figure 2.9.6
+Chapter 2 Preview 71
+
+Artificial Intelligence
+Index Report 2025
+Chapter 2: Technical Performance
+2.9 Robotics and Automous Motion
+Highlight:
+DeepMind’s Developments (cont’d)
+which enables robots to interpret 3D environments, and in tasks that historically have been extremely challenging for
+image processing, SARA-based models run significantly faster robots. The researchers demonstrated that combining a large
+while avoiding major increases in run-time at scale. imitation learning dataset with a transformer-based learning
+architecture is a highly effective approach for overcoming
+Other developments from DeepMind include ALOHA these difficulties. The ALOHA approach enabled Google’s
+(Autonomous Learning of High-level Activities) and robot to effectively learn a diverse range of tasks, including
+DemoStart. ALOHA Unleashed is a breakthrough in enabling hanging a shirt, stacking kitchen items, and tying shoelaces
+robots to perform intricate dexterous manipulation tasks, (Figure 2.9.7). As shown in Figure 2.9.8, ALOHA-trained robots
+such as tying shoelaces or hanging T-shirts on coat hangers— achieved a high success rate across these tasks.
+ALOHA-trained robot
+attempting complex tasks
+Source: Google DeepMind, 2024
+Figure 2.9.7
+95% 95%
+75% 75% 75%
+70% 70%
+65%
+40% 40%
+25%
+Chapter 2 Preview 72
+ysseMtrihS ysaEtrihS ysseMecaL ysaEecaL ecalpeRregniF 3-tresnIraeG 2-tresnIraeG 1-tresnIraeG nehctiKmodnaR kroF+puC+lwoB- nehctiKmodnaR puC+lwoB- nehctiKmodnaR lwoB-
+100%
+80%
+60%
+40%
+20%
+0%
+Shirt hanging Shoelace tying Robot nger Gear insertion Random kitchen
+replacement stack
+etar
+sseccuS
+ALOHA: success rate
+Source: Zhao et al., 2024 | Chart: 2025 AI Index report
+Figure 2.9.8
+
+Artificial Intelligence
+Index Report 2025
+Chapter 2: Technical Performance
+2.9 Robotics and Automous Motion
+Highlight:
+DeepMind’s Developments (cont’d)
+Similarly, DemoStart introduces a novel auto-curriculum adopted. DeepMind also introduced a robotic model in
+reinforcement learning method that enables a robotic arm 2024 that was capable of reaching amateur human-level
+to master complex behaviors using only sparse rewards performance in competitive table tennis (Figure 2.9.9).
+and a limited number of demonstrations. This breakthrough Given that achieving human-level speed and performance
+highlights the potential for robots to learn efficiently with on real-world tasks is an important benchmark for robotics
+minimal data, reducing the need for data-intensive training research, this achievement is a notable step forward in
+and making advanced robotics more accessible and widely robotic ability.
+Robots playing amateur-level table tennis
+Source: Google DeepMind, 2024
+Figure 2.9.9
+Chapter 2 Preview 73
+
+Artificial Intelligence
+Index Report 2025
+Chapter 2: Technical Performance
+2.9 Robotics and Automous Motion
+Highlight:
+Foundation Models for Robotics
+In 2024, there was a strong push toward developing Nvidia was not alone in this space. Covariant launched
+foundational models for robotics—systems capable of RFM-1, a robotic foundation model with language
+reasoning with language while physically operating in the capabilities and real-world maneuverability. Meanwhile,
+real world. Nvidia introduced GR00T (Generalist Robot LLaRA, developed by researchers at Stony Brook
+00 Technology), a general-purpose foundation model University and the University of Wisconsin-Madison,
+for humanoid robots designed to understand natural integrates perception, communication, and action into
+language and mimic human movements. Alongside a monolithic, end-to-end deep learning model. These
+GR00T, Nvidia released data pipelines, simulation new models continue a trend from 2023, which saw the
+frameworks, and the Thor robotics computer. Figure launch of robotic foundation models like RT-2, PaLM-E,
+2.9.10 illustrates the components of GROOT’s launch. This and Open-X Embodiment.
+robotic development suite is intended to make it easier
+for the robotic community to scale and build increasingly
+advanced robotics.
+GROOT blueprint for synthetic motion generation
+Source: Nvidia, 2024
+Figure 2.9.10
+Chapter 2 Preview 74
+
+Artificial Intelligence
+Index Report 2025
+Chapter 2: Technical Performance
+2.9 Robotics and Automous Motion
+Self-Driving Cars
+Waymo rider-only miles driven without a human
+Self-driving vehicles have long been a goal for AI researchers
+driver
+and technologists. However, their widespread adoption has
+Source: Waymo, 2024 | Table: 2025 AI Index report
+been slower than anticipated. Despite many predictions
+Location Rider-only miles through
+that fully autonomous driving is imminent, widespread use 
+of self-driving vehicles has yet to become a reality. Still, in
+Los Angeles 1.947M
+recent years, significant progress has been made. In cities San Francisco 10.209M
+like San Francisco and Phoenix, fleets of self-driving taxis Phoenix 20.823M
+are now operating commercially. This section examines Austin 124K
+recent advancements in autonomous driving, focusing Figure 2.9.11
+on deployment, technological breakthroughs and new
+benchmarks, safety performance, and policy challenges. China’s self-driving revolution is also accelerating, led by
+companies like Baidu’s Apollo Go, which reported 988,000
+Deployment
+rides across China in Q3 2024, reflecting a 20% year-over-year
+Self-driving cars are increasingly being deployed worldwide.
+increase. In , the company was operating 400
+Cruise, a subsidiary of General Motors, launched its
+robotaxis and announced plans to expand its fleet to 1,000
+autonomous vehicles in San Francisco in late 2022 before
+by the end of 2025. Pony.AI, another Chinese autonomous
+having its license suspended in 2023 after a litany of safety
+vehicle manufacturer, has pledged to scale its robotaxi fleet
+incidents. Waymo, a subsidiary of Alphabet, began deploying
+from 200 to at least 1,000 vehicles—with expectations that
+its robotaxis in Phoenix in early 2022 and expanded to San
+the fleet will reach 2,000 to 3,000 by the end of 2026. China
+Francisco in 2024. The company has since emerged as one
+is leading the way in autonomous vehicle testing, with reports
+of the more successful players in the self-driving industry: As
+indicating that it is testing more driverless cars than any
+of , Waymo operates in four major U.S. cities—
+other country and currently rolling them out across 16 cities.
+Phoenix, San Francisco, Los Angeles, and Austin (Figure
+Robotaxis in China are notably affordable—even cheaper,
+2.9.11). Data sourced from suggests that across
+in some cases, than rides provided by human drivers. To
+the four cities the company provides 150,000 paid rides per
+support this growth, China has prioritized establishing
+week, covering over a million miles. Looking ahead, Waymo
+national regulations to govern the deployment of driverless
+plans to test its vehicles in 10 additional cities, including Las
+cars. Beyond the self-driving revolution taking place in the
+Vegas, San Diego, and Miami. The company chose testing
+U.S. and China, European startups like Wayve are beginning
+locations, such as upstate New York and Truckee, California,
+to gain traction in the industry.
+that experience snowy weather so it can assess the vehicles
+in diverse driving conditions. There has also been notable
+progress in self-driving trucks, with companies like Kodiak
+completing its first driverless deliveries and Aurora reporting
+steady advancements, including over 1 million miles of
+autonomous freight hauling on U.S. highways since 2021—
+albeit with human safety drivers present. Still, challenges
+remain in bringing this technology to market, with Aurora
+recently announcing it would delay the commercial launch of
+its fleet from the end of 2024 until .
+Chapter 2 Preview 75
+
+Artificial Intelligence
+Index Report 2025
+Chapter 2: Technical Performance
+2.9 Robotics and Automous Motion
+Technical Innovations and New Benchmarks Baidu’s RT-6
+Source: Verge, 2024
+Over the past year, self-driving technology has advanced
+significantly, both in vehicle capabilities and benchmarking
+methods. In , Tesla unveiled the Cybercab, a
+two-passenger autonomous vehicle without a steering wheel
+or pedals, which is set for production in 2026 at a price of
+under $30,000. Tesla also unveiled the Robovan, an electric
+autonomous van designed to transport up to 20 passengers.
+Meanwhile, Baidu’s Apollo Go launched its latest-generation
+robotaxi, the RT6, across multiple cities in China (Figure 2.9.12).
+With a price tag of just $30,000 and a battery-swapping system,
+the RT6 represents a major step toward making self-driving
+technology more cost-effective and scalable. As costs continue
+Figure 2.9.12
+to decline, the adoption of autonomous vehicles is expected to
+accelerate. Notable business partnerships have also advanced Most existing benchmarks for end-to-end autonomous
+self-driving technology, including Uber’s collaboration with driving rely on open-loop evaluation, which can be
+WeRide—the world’s first publicly listed robotaxi company— restrictive. Open-loop settings fail to test how autonomous
+to develop an autonomous ride-sharing platform in Abu Dhabi. agents react to real-world conditions and often lead to
+models that memorize driving patterns rather than learning
+In 2024, several new benchmarks were introduced to evaluate to drive authentically. While closed-loop benchmarks like
+self-driving capabilities. One notable example is nuPlan, Town05Long and Longest6 exist, they primarily assess basic
+developed by Motional. It is a large-scale, autonomous driving driving skills rather than performance in complex, interactive
+dataset designed to test machine-learning-based motion scenarios. Bench2Drive is another new benchmark that
+planners. The benchmark includes 1,282 hours of diverse improves on these limitations by providing a comprehensive,
+driving scenarios from multiple cities, along with a simulation realistic, closed-loop testing simulation environment for end-
+and evaluation framework that enables planners’ actions to to-end autonomous vehicles (Figure 2.9.13). It includes a
+be tested in closed-loop settings. Another recent benchmark training set with over 2 million fully annotated frames sourced
+is OpenAD, the first real-world, open-world autonomous from more than 10,000 clips, as well as an evaluation suite
+driving benchmark for 3D object detection. OpenAD focuses with 220 short routes designed to test autonomous driving
+on domain generalization—the ability of autonomous driving capabilities in diverse conditions. Figure 2.9.14 displays
+systems to adapt across diverse sensor configurations—and the driving scores of various autonomous driving methods
+open-vocabulary recognition, which allows systems to identify evaluated on the Bench2Drive benchmark.13
+previously unseen semantic categories.
+An overview of Bench2Drive
+Source: Jia et al., 2024
+Figure 2.9.13
+13 This metric accounts for both route completion and infractions, averaging route completion percentages while applying penalties based on infraction severity. For more detail on the
+driving score methodology, see Section 3 of the Bench2Drive paper.
+Chapter 2 Preview 76
+
+Artificial Intelligence
+Index Report 2025
+Chapter 2: Technical Performance
+2.9 Robotics and Automous Motion
+64.22
+62.44
+59.90
+49.30
+45.81
+42.35
+40.70 40.73
+30.47
+18.05
+Chapter 2 Preview 77
+*lrtc-PCT *PCT noitallitsid
+o/w
+jart-PCT
+*jart-PCT PLM-DA yniT-DAinU DAV esaB-DAinU *eciwTknihT *retpadAevirD
+
+2022 2023
+↑erocs
+gnivirD
+Bench2Drive: driving score
+Source: Jia et al., 2024 | Chart: 2025 AI Index report
+Figure 2.9.14
+Safety Standards
+Emerging research suggests that self-driving cars may be 3.65 fewer police-reported crashes per million miles (Figure
+safer than human-driven vehicles. Figure 2.9.15 compares 2.9.15). Figure 2.9.16 highlights the differences in incident
+the number of reported incidents per million miles driven by rates across various crash locations, revealing that across all
+Waymo vehicles to the estimated rates if humans had driven locations with available data, Waymo vehicles consistently
+the same distance. The data shows that Waymo vehicles recorded lower rates of airbag deployments, injury-reported
+had significantly fewer incidents, including 1.42 fewer airbag crashes, and police-reported incidents.
+deployments, 3.16 fewer crashes with reported injuries, and
+
+Artificial Intelligence
+Index Report 2025
+Chapter 2: Technical Performance
+2.9 Robotics and Automous Motion
+6 5.91
+
+4.06
+
+2.26
+
+1.74
+1 0.90
+0.32
+
+Human benchmark Waymo Human benchmark Waymo Human benchmark Waymo
+Airbag deployment Any-injury-reported Police-reported
+Chapter 2 Preview 78
+selim
+noillim
+rep
+stnedicnI
+Waymo driver vs. human benchmarks in Phoenix and San Francisco
+Source: Waymo, 2024 | Chart: 2025 AI Index report
+Airbag deployment Any-injury-reported Police-reported
+0%
+−20%
+−40%
+-51%
+−60% -59%
+-62%
+−80% -78% -77% -76%
+-81%
+-87% -88%
+−100%
+Phoenix and San Francisco Phoenix San Francisco
+kramhcneb
+ot
+ecnere
+id
+tnecreP
+Figure 2.9.1514
+Waymo driver percent di erence to human benchmark in Phoenix and San Francisco
+Source: Waymo, 2024 | Chart: 2025 AI Index report
+Figure 2.9.16
+14 Waymo’s safety data is continuously updated in real time, so the totals reported in this section may not fully align with those currently displayed on their website.
+
+Artificial Intelligence
+Index Report 2025
+Chapter 2: Technical Performance
+2.9 Robotics and Automous Motion
+3.50
+3.00
+2.50
+2.00
+1.50
+1.00
+0.50
+0.00
+Swiss Re overall Latest-generation Waymo Swiss Re overall Latest-generation Waymo
+driving population HDVs driving population HDVs
+Property damage Bodily injury
+Chapter 2 Preview 79
+selim
+noillim
+rep
+ycneuqerf
+smialC
+Waymo, in collaboration with Swiss Re, one of the world’s claims and a 92% reduction in bodily injury claims (Figure
+leading reinsurers, also conducted a study analyzing liability 2.9.17). In real terms, across 25.3 million miles driven, Waymo
+claims related to collisions over several million miles driven by vehicles were involved in just nine property damage claims and
+its fully autonomous vehicles. The study compared Waymo’s two bodily injury claims, whereas human drivers over the same
+liability claims to human-driver baselines derived from Swiss distance would be expected to incur 78 property damage
+Re’s extensive dataset, which includes over 500,000 claims claims and 26 bodily injury claims. The Waymo drivers were
+and 200 billion miles of driving data. The results showed that also significantly safer than latest-generation human-driven
+Waymo vehicles had an 88% reduction in property damage vehicles that are equipped with added safety features.
+Comparison of liability insurance claims by type: Waymo driver vs. human-driven vehicles
+Source: Di Lillo et al., 2024 | Chart: 2025 AI Index report
+Figure 2.9.17
+
+Artificial Intelligence
+Index Report 2025
+Chapter 2: Technical Performance
+Appendix
+Appendix
+Acknowledgments
+The AI Index would like to acknowledge Andrew Shi for 6. Chatbot Arena: Data on Chatbot Arena was taken
+his work generating sample Midjourney and Pika video from the Chatbot Arena leaderboard in February
+generations and Armin Hamrah for his work identifying 2025. To learn more about Chatbot Arena, please read
+significant AI technical advancements for the timeline. the original paper.
+7. FrontierMath: Data on FrontierMath was taken from
+Benchmarks
+the FrontierMath paper and OpenAI video in February
+In this chapter, the AI Index reports on benchmarks, recognizing 2025. To learn more about FrontierMath, please read
+their importance in tracking AI’s technical progress. As a the original paper. The visual was supplemented with
+standard practice, the Index sources benchmark scores from benchmark data from OpenAI’s o3 model, sourced
+leaderboards, public repositories such as Papers With Code from a YouTube video announcing its launch in
+and RankedAGI, as well as company papers, blog posts, and .
+product releases. The Index operates under the assumption 8. GAIA: Data on GAIA was taken from the GAIA
+that the scores reported by companies are accurate and leaderboard in . To learn more about
+factual. The benchmark scores in this section are current as GAIA, please read the original paper.
+of mid-. However, since the publication of the 9. GPQA: Data on GPQA was taken from the GPQA
+AI Index, newer models may have been released that surpass paper and OpenAI video in . To learn
+current state-of-the-art scores. more about GPQA, please read the original paper.
+10. GSM8K: Data on GSM8K was taken from the GSM8K
+1. ARC-AGI: Data on ARC-AGI was taken from the ARC- Papers With Code leaderboard in . To
+AGI paper and OpenAI video in . To learn learn more about GSM8K, please read the original
+more about ARC-AGI, please read the original paper. paper.
+2. Arena-Hard-Auto: Data on Arena-Hard-Auto was 11. HELMET: Data on HELMET (How to Evaluate Long-
+taken from the LMSYS leaderboard in . Context Models Effectively and Thoroughly) was
+To learn more about Arena-Hard-Auto, please read taken from the HELMET paper in . To
+the original paper. learn more about HELMET, please read the original
+3. Bench2Drive: Data on Bench2Drive was taken from paper.
+the Bench2Drive paper in . To learn more 12. HLE: Data on Humanity’s Last Exam (HLE) was taken
+about Bench2Drive, please read the original paper. from the HLE paper in . To learn more
+4. Berkeley Function Calling: Data on Berkeley Function about HLE, please read the original paper.
+Calling was taken from the Berkeley Function Calling 13. HumanEval: Data on HumanEval was taken from
+leaderboard in . To learn more about the HumanEval Papers With Code leaderboard in
+Berkeley Function Calling, please read the original . To learn more about HumanEval,
+work. please read the original paper.
+5. BigCodeBench: Data on BigCodeBench was taken 14. LRS2: Data on Oxford-BBC Lip Reading Sentences
+from the BigCodeBench leaderboard in February 2 (LRS2) was taken from the LRS2 Papers With Code
+2025. To learn more about BigCodeBench, please read leaderboard in . To learn more about
+the original work. LRS2, please read the original paper.
+Chapter 2 Preview 80
+
+Artificial Intelligence
+Index Report 2025
+Chapter 2: Technical Performance
+Appendix
+15. MATH: Data on MATH was taken from the MATH 27. VAB: Data on VisualAgentBench (VAB) was taken
+Papers With Code leaderboard in from the VAB leaderboard in . To learn
+and the o3-mini model launch. To learn more about more about VAB, please read the original paper.
+MATH, please read the original paper. 28. VCR: Data on VCR was taken from the VCR
+16. MixEval: Data on MixEval was taken from the MixEval leaderboard in . To learn more about
+leaderboard in . To learn more about VCR, please read the original paper.
+MixEval, please read the original paper. 29. WildBench: Data on WildBench was taken from the
+17. MMLU: Data on MMLU was taken from the MMLU WildBench leaderboard in . To learn
+Papers With Code leaderboard in . more about WildBench, please read the original
+To learn more about MMLU, please read the original paper.
+paper.
+18. MMLU-Pro: Data on MMLU-Pro was taken from the
+MMLU-Pro leaderboard in . To learn
+more about MMLU-Pro, please read the original
+paper.
+19. MMMU: Data on MMMU was taken from the MMMU
+leaderboard in . To learn more about
+MMMU, please read the original paper.
+20. MTEB: Data on Massive Text Embedding Benchmark
+(MTEB) was taken from the MTEB leaderboard in
+. To learn more about MTEB, please
+read the original paper.
+21. MVBench: Data on MVBench was taken from the
+MVBench leaderboard in . To learn
+more about MVBench, please read the original paper.
+22. PlanBench: Data on PlanBench was taken from the
+PlanBench paper in . To learn more
+about PlanBench, please read the original paper.
+23. RE-Bench: Data on RE-Bench was taken from the RE-
+Bench paper in . To learn more about
+RE-Bench, please read the original paper
+24. RLBench: Data on RLBench was taken from the
+RLBench Papers With Code leaderboard in . To learn more about RLBench, please read the
+original paper.
+25. Ruler: Data on Ruler was taken from the Ruler
+repository in . To learn more about
+Ruler, please read the original paper.
+26. SWE-bench: Data on SWE-bench was taken from
+the SWE-bench leaderboard in .
+To learn more about SWE-bench, please read the
+original paper.
+Chapter 2 Preview 81
+
+Artificial Intelligence
+Index Report 2025
+Chapter 2: Technical Performance
+Appendix
+Works Cited
+Akter, S. N., Yu, Z., Muhamed, A., Ou, T., Bäuerle, A., Cabrera, Á. A., Dholakia, K., Xiong, C., & Neubig, G. (2023). An In-Depth
+Look at Gemini’s Language Abilities (arXiv:2312.11444). arXiv. 
+Bairi, R., Sonwane, A., Kanade, A., C, V. D., Iyer, A., Parthasarathy, S., Rajamani, S., Ashok, B., & Shet, S. (2023). CodePlan:
+Repository-Level Coding Using LLMs and Planning (arXiv:2309.12499). arXiv. 
+Bauza, M., Chen, J. E., Dalibard, V., Gileadi, N., Hafner, R., Martins, M. F., Moore, J., Pevceviciute, R., Laurens, A., Rao, D., Zambelli,
+M., Riedmiller, M., Scholz, J., Bousmalis, K., Nori, F., & Heess, N. (2024). DemoStart: Demonstration-Led Auto-Curriculum Applied
+to Sim-to-Real With Multi-fingered Robots (arXiv:2409.06613). arXiv. 
+Bommasani, R., Kapoor, S., Klyman, K., Longpre, S., Ramaswami, A., Zhang, D., Schaake, M., Ho, D. E., Narayanan, A., & Liang,
+P. (2024). “Considerations for Governing Open Foundation Models.” Science, 386(6718), 151–53. 
+adp1848
+Brohan, A., Brown, N., Carbajal, J., Chebotar, Y., Chen, X., Choromanski, K., ... & Zitkovich, B. (2023). RT-2: Vision-Language-
+Action Models Transfer Web Knowledge to Robotic Control. (arXiv:2307.15818). arXiv. 
+Budagam, D., Kumar, A., Khoshnoodi, M., KJ, S., Jain, V., & Chadha, A. (2024). Hierarchical Prompting Taxonomy: A Universal
+Evaluation Framework for Large Language Models Aligned With Human Cognitive Principles (arXiv:2406.12644; Version 4). arXiv.
+
+Cao, Z., Long, M., Wang, J., & Yu, P. S. (2017). HashNet: Deep Learning to Hash by Continuation (arXiv:1702.00758). arXiv.
+
+Chen, M., Tworek, J., Jun, H., Yuan, Q., Pinto, H. P. de O., Kaplan, J., Edwards, H., Burda, Y., Joseph, N., Brockman, G., Ray, A.,
+Puri, R., Krueger, G., Petrov, M., Khlaaf, H., Sastry, G., Mishkin, P., Chan, B., Gray, S., … Zaremba, W. (2021). Evaluating Large
+Language Models Trained on Code (arXiv:2107.03374). arXiv. 
+Chiang, W.-L., Zheng, L., Sheng, Y., Angelopoulos, A. N., Li, T., Li, D., Zhang, H., Zhu, B., Jordan, M., Gonzalez, J. E., & Stoica,
+I. (2024). Chatbot Arena: An Open Platform for Evaluating LLMs by Human Preference (arXiv:2403.04132). arXiv. 
+org/10.48550/arXiv.2403.04132
+Chollet, F., Knoop, M., Kamradt, G., & Landers, B. (2025). ARC Prize 2024: Technical Report (arXiv:2412.04604). arXiv. 
+org/10.48550/arXiv.2412.04604
+Chung, J. S., Senior, A., Vinyals, O., & Zisserman, A. (2017). “Lip Reading Sentences in the Wild.” 2017 IEEE Conference on
+Computer Vision and Pattern Recognition (CVPR), 3444–53. 
+Cobbe, K., Kosaraju, V., Bavarian, M., Chen, M., Jun, H., Kaiser, L., Plappert, M., Tworek, J., Hilton, J., Nakano, R., Hesse, C.,
+& Schulman, J. (2021). Training Verifiers to Solve Math Word Problems (arXiv:2110.14168). arXiv. 
+arXiv.2110.14168
+Chapter 2 Preview 82
+
+Artificial Intelligence
+Index Report 2025
+Chapter 2: Technical Performance
+Appendix
+Driess, D., Xia, F., Sajjadi, M. S. M., Lynch, C., Chowdhery, A., Ichter, B., Wahid, A., Tompson, J., Vuong, Q., Yu, T., Huang, W.,
+Chebotar, Y., Sermanet, P., Duckworth, D., Levine, S., Vanhoucke, V., Hausman, K., Toussaint, M., Greff, K., … Florence, P. (2023).
+PaLM-E: An Embodied Multimodal Language Model (arXiv:2303.03378). arXiv. 
+Fang, H., Grotz, M., Pumacay, W., Wang, Y. R., Fox, D., Krishna, R., & Duan, J. (2025). SAM2Act: Integrating Visual Foundation
+Model With a Memory Architecture for Robotic Manipulation (arXiv:2501.18564). arXiv. 
+Fattorini, L., Maslej, N., Perrault, R., Parli, V., Etchemendy, J., Shoham, Y., & Ligett, K. (2024). The Global AI Vibrancy Tool
+(arXiv:2412.04486). arXiv. 
+Glazer, E., Erdil, E., Besiroglu, T., Chicharro, D., Chen, E., Gunning, A., Olsson, C. F., Denain, J.-S., Ho, A., Santos, E. de O.,
+Järviniemi, O., Barnett, M., Sandler, R., Vrzala, M., Sevilla, J., Ren, Q., Pratt, E., Levine, L., Barkley, G., … Wildon, M. (2024).
+FrontierMath: A Benchmark for Evaluating Advanced Mathematical Reasoning in AI (arXiv:2411.04872). arXiv. 
+org/10.48550/arXiv.2411.04872
+Hendrycks, D., Burns, C., Basart, S., Zou, A., Mazeika, M., Song, D., & Steinhardt, J. (2021). Measuring Massive Multitask Language
+Understanding (arXiv:2009.03300). arXiv. 
+Hendrycks, D., Burns, C., Kadavath, S., Arora, A., Basart, S., Tang, E., Song, D., & Steinhardt, J. (2021). Measuring Mathematical
+Problem Solving With the MATH Dataset (arXiv:2103.03874). arXiv. 
+Hsieh, C.-P., Sun, S., Kriman, S., Acharya, S., Rekesh, D., Jia, F., Zhang, Y., & Ginsburg, B. (2024). RULER: What’s the Real Context
+Size of Your Long-Context Language Models? (arXiv:2404.06654). arXiv. 
+Huang, Q., Vora, J., Liang, P., & Leskovec, J. (2024). MLAgentBench: Evaluating Language Agents on Machine Learning
+Experimentation (arXiv:2310.03302). arXiv. 
+Islam, P., Kannappan, A., Kiela, D., Qian, R., Scherrer, N., & Vidgen, B. (2023). FinanceBench: A New Benchmark for Financial
+Question Answering (arXiv:2311.11944). arXiv. 
+James, S., Ma, Z., Arrojo, D. R., & Davison, A. J. (2019). RLBench: The Robot Learning Benchmark & Learning Environment
+(arXiv:1909.12271; Version 1). arXiv. 
+Jia, X., Yang, Z., Li, Q., Zhang, Z., & Yan, J. (2024). Bench2Drive: Towards Multi-ability Benchmarking of Closed-Loop End-to-End
+Autonomous Driving (arXiv:2406.03877). arXiv. 
+Jimenez, C. E., Yang, J., Wettig, A., Yao, S., Pei, K., Press, O., & Narasimhan, K. (2024). SWE-bench: Can Language Models
+Resolve Real-World GitHub Issues? (arXiv:2310.06770). arXiv. 
+Jones, C. R., & Bergen, B. K. (2024). People Cannot Distinguish GPT-4 From a Human in a Turing Test (arXiv:2405.08007). arXiv.
+
+Chapter 2 Preview 83
+
+Artificial Intelligence
+Index Report 2025
+Chapter 2: Technical Performance
+Appendix
+Karnchanachari, N., Geromichalos, D., Tan, K. S., Li, N., Eriksen, C., Yaghoubi, S., Mehdipour, N., Bernasconi, G., Fong, W. K.,
+Guo, Y., & Caesar, H. (2024). Towards Learning-Based Planning: The nuPlan Benchmark for Real-World Autonomous Driving
+(arXiv:2403.04133). arXiv. 
+Kusupati, A., Bhatt, G., Rege, A., Wallingford, M., Sinha, A., Ramanujan, V., Howard-Snyder, W., Chen, K., Kakade, S., Jain, P.,
+& Farhadi, A. (2024). Matryoshka Representation Learning (arXiv:2205.13147). arXiv. 
+Leal, I., Choromanski, K., Jain, D., Dubey, A., Varley, J., Ryoo, M., Lu, Y., Liu, F., Sindhwani, V., Vuong, Q., Sarlos, T., Oslund, K.,
+Hausman, K., & Rao, K. (2023). SARA-RT: Scaling Up Robotics Transformers With Self-Adaptive Robust Attention (arXiv:2312.01990).
+arXiv. 
+Li, K., Wang, Y., He, Y., Li, Y., Wang, Y., Liu, Y., Wang, Z., Xu, J., Chen, G., Luo, P., Wang, L., & Qiao, Y. (2024). MVBench: A
+Comprehensive Multi-modal Video Understanding Benchmark (arXiv:2311.17005). arXiv. 
+Li, T., Chiang, W.-L., Frick, E., Dunlap, L., Wu, T., Zhu, B., Gonzalez, J. E., & Stoica, I. (2024). From Crowdsourced Data to High-
+Quality Benchmarks: Arena-Hard and BenchBuilder Pipeline (arXiv:2406.11939). arXiv. 
+Li, X., Mata, C., Park, J., Kahatapitiya, K., Jang, Y. S., Shang, J., Ranasinghe, K., Burgert, R., Cai, M., Lee, Y. J., & Ryoo, M. S. (2025).
+LLaRA: Supercharging Robot Learning Data for Vision-Language Policy (arXiv:2406.20095). arXiv. 
+arXiv.2406.20095
+Liu, X., Yu, H., Zhang, H., Xu, Y., Lei, X., Lai, H., Gu, Y., Ding, H., Men, K., Yang, K., Zhang, S., Deng, X., Zeng, A., Du, Z., Zhang, C.,
+Shen, S., Zhang, T., Su, Y., Sun, H., … Tang, J. (2023). AgentBench: Evaluating LLMs as Agents (arXiv:2308.03688). arXiv. https://
+doi.org/10.48550/arXiv.2308.03688
+Liu, X., Zhang, T., Gu, Y., Iong, I. L., Xu, Y., Song, X., Zhang, S., Lai, H., Liu, X., Zhao, H., Sun, J., Yang, X., Yang, Y., Qi, Z., Yao, S., Sun,
+X., Cheng, S., Zheng, Q., Yu, H., … Tang, J. (2024). VisualAgentBench: Towards Large Multimodal Models as Visual Foundation
+Agents (arXiv:2408.06327). arXiv. 
+Mialon, G., Fourrier, C., Swift, C., Wolf, T., LeCun, Y., & Scialom, T. (2023). GAIA: A Benchmark for General AI Assistants
+(arXiv:2311.12983). arXiv. 
+Mitchell, M. (2024). “The Turing Test and Our Shifting Conceptions of Intelligence.” Science, 385(6710), eadq9356. 
+science.org/doi/10.1126/science.adq9356
+Muennighoff, N., Tazi, N., Magne, L., & Reimers, N. (2023). MTEB: Massive Text Embedding Benchmark (arXiv:2210.07316). arXiv.
+
+Ni, J., Xue, F., Yue, X., Deng, Y., Shah, M., Jain, K., Neubig, G., & You, Y. (2024). MixEval: Deriving Wisdom of the Crowd From LLM
+Benchmark Mixtures (arXiv:2406.06565). arXiv. 
+Chapter 2 Preview 84
+
+Artificial Intelligence
+Index Report 2025
+Chapter 2: Technical Performance
+Appendix
+O’Neill, A., Rehman, A., Gupta, A., Maddukuri, A., Gupta, A., Padalkar, A., Lee, A., Pooley, A., Gupta, A., Mandlekar, A., Jain,
+A., Tung, A., Bewley, A., Herzog, A., Irpan, A., Khazatsky, A., Rai, A., Gupta, A., … Lin, Z. (2024). Open X-Embodiment: Robotic
+Learning Datasets and RT-X Models (arXiv:2310.08864). arXiv. 
+Phan, L., Gatti, A., Han, Z., Li, N., Hu, J., Zhang, H., Zhang, C. B. C., Shaaban, M., Ling, J., Shi, S., Choi, M., Agrawal, A.,
+Chopra, A., Khoja, A., Kim, R., Ren, R., Hausenloy, J., Zhang, O., Mazeika, M., … Hendrycks, D. (2025). Humanity’s Last Exam
+(arXiv:2501.14249). arXiv. 
+Rein, D., Hou, B. L., Stickland, A. C., Petty, J., Pang, R. Y., Dirani, J., Michael, J., & Bowman, S. R. (2023). GPQA: A Graduate-Level
+Google-Proof Q&A Benchmark (arXiv:2311.12022). arXiv. 
+Reuel, A., Hardy, A., Smith, C., Lamparth, M., Hardy, M., & Kochenderfer, M. J. (2024). BetterBench: Assessing AI Benchmarks,
+Uncovering Issues, and Establishing Best Practices (arXiv:2411.12990). arXiv. 
+Turing, A. M. (2009). Computing Machinery and Intelligence. In Epstein, R., Roberts, G., & Beber, G., eds., Parsing the Turing
+Test: Philosophical and Methodological Issues in the Quest for the Thinking Computer (23–65). Springer Netherlands. 
+org/10.1007/978-1-4020-6710-5_3
+Valmeekam, K., Stechly, K., & Kambhampati, S. (2024). LLMs Still Can’t Plan; Can LRMs? A Preliminary Evaluation of OpenAI’s o1
+on PlanBench (arXiv:2409.13373). arXiv. 
+Wijk, H., Lin, T., Becker, J., Jawhar, S., Parikh, N., Broadley, T., Chan, L., Chen, M., Clymer, J., Dhyani, J., Ericheva, E., Garcia, K.,
+Goodrich, B., Jurkovic, N., Kinniment, M., Lajko, A., Nix, S., Sato, L., Saunders, W., … Barnes, E. (2024). RE-Bench: Evaluating
+Frontier AI R&D Capabilities of Language Model Agents Against Human Experts (arXiv:2411.15114). arXiv. 
+arXiv.2411.15114
+Xia, Z., Li, J., Lin, Z., Wang, X., Wang, Y., & Yang, M.-H. (2024). OpenAD: Open-World Autonomous Driving Benchmark for 3D
+Object Detection (arXiv:2411.17761). arXiv. 
+Xu, C., Guan, S., Greene, D., & Kechadi, M.-T. (2024). Benchmark Data Contamination of Large Language Models: A Survey
+(arXiv:2406.04244). arXiv. 
+Yang, X., Sun, K., Xin, H., Sun, Y., Bhalla, N., Chen, X., Choudhary, S., Gui, R. D., Jiang, Z. W., Jiang, Z., Kong, L., Moran, B.,
+Wang, J., Xu, Y. E., Yan, A., Yang, C., Yuan, E., Zha, H., Tang, N., … Dong, X. L. (2024). CRAG—Comprehensive RAG Benchmark
+(arXiv:2406.04744). arXiv. 
+Yen, H., Gao, T., Hou, M., Ding, K., Fleischer, D., Izsak, P., Wasserblat, M., & Chen, D. (2025). HELMET: How to Evaluate Long-
+Context Language Models Effectively and Thoroughly (arXiv:2410.02694). arXiv. 
+Yue, X., Ni, Y., Zhang, K., Zheng, T., Liu, R., Zhang, G., Stevens, S., Jiang, D., Ren, W., Sun, Y., Wei, C., Yu, B., Yuan, R., Sun, R., Yin,
+M., Zheng, B., Yang, Z., Liu, Y., Huang, W., … Chen, W. (2024). MMMU: A Massive Multi-discipline Multimodal Understanding and
+Reasoning Benchmark for Expert AGI (arXiv:2311.16502). arXiv. 
+Chapter 2 Preview 85
+
+Artificial Intelligence
+Index Report 2025
+Chapter 2: Technical Performance
+Appendix
+Zellers, R., Bisk, Y., Farhadi, A., & Choi, Y. (2019). From Recognition to Cognition: Visual Commonsense Reasoning (arXiv:1811.10830).
+arXiv. 
+Zhang, H., Da, J., Lee, D., Robinson, V., Wu, C., Song, W., Zhao, T., Raja, P., Zhuang, C., Slack, D., Lyu, Q., Hendryx, S., Kaplan,
+R., Lunati, M., & Yue, S. (2024). A Careful Examination of Large Language Model Performance on Grade School Arithmetic
+(arXiv:2405.00332). arXiv. 
+Chapter 2 Preview 86

@@ -1,0 +1,69 @@
+study_id: DAIO Study 26|34, title: Fragmented Efforts, subtitle: Defense AI in Brasil, country: Brasil, authors: João Paulo Moralez and Santiago Rivas, year: 2026, url_page: url_pdf: filename: daio_study2634_fragmented_efforts_joao_paulo_moralez_santiago_rivas.pdf, status: 200, size_bytes: 1432349, size_mb: 1.37, scraped_at: 2026-06-03T19:16:44.662738Z
+
+study_id: DAIO Study 26|33, title: Controlled Adaptation and Integration, subtitle: Defence AI in Belgium, country: Belgium, authors: Daniel Fiott, year: 2026, url_page: url_pdf: filename: daio_study2633_controlled_adaptation_and_integration_daniel_fiott.pdf, status: 200, size_bytes: 1470462, size_mb: 1.4, scraped_at: 2026-06-03T19:17:07.099566Z
+
+study_id: DAIO Study 26|32, title: From Laggard to Potential Regional Innovator?, subtitle: Defence AI in Romania, country: Romania, authors: Raluca Csernatoni, year: 2026, url_page: url_pdf: filename: daio_study2632_from_laggard_to_potential_regional_innovator_raluca_csernatoni.pdf, status: 200, size_bytes: 1484998, size_mb: 1.42, scraped_at: 2026-06-03T19:17:21.421189Z
+
+study_id: DAIO Study 25|31, title: A Careful Walk on Thin Ice, subtitle: Defense AI in Indonesia, country: Indonesia, authors: Emanuel Ario Bimo and Bagus Jatmiko, year: 2025, url_page: url_pdf: filename: daio_study2531_a_careful_walk_on_thin_ice_emanuel_ario_bimo_bagus_jatmiko.pdf, status: 200, size_bytes: 1585247, size_mb: 1.51, scraped_at: 2026-06-03T19:17:34.166753Z
+
+study_id: DAIO Study 25|30, title: Bonds That, authors: Separate, year: 2025, url_page: url_pdf: filename: daio_study2530_bonds_that_separate_heiko_borchert.pdf, status: 200, size_bytes: 1799477, size_mb: 1.72, scraped_at: 2026-06-03T19:17:43.942130Z
+
+study_id: DAIO Study 25|29, title: Guarding the Alliance’s Eastern Frontiers, subtitle: Defense AI in Poland, country: Poland, authors: Rafał Lipka, Jakub Wernik, and Wojciech Dzięgiel, year: 2025, url_page: url_pdf: filename: daio_study2529_guarding_the_alliances_eastern_frontiers_lipka_wernik_dziegiel.pdf, status: 200, size_bytes: 1707001, size_mb: 1.63, scraped_at: 2026-06-03T19:17:52.432866Z
+
+study_id: DAIO Study 25|28, title: An Underdeveloped Strategic Necessity, subtitle: Defense AI in Pakistan, country: Pakistan, authors: Umaima Ali, year: 2025, url_page: url_pdf: filename: daio_study2528_an_underdeveloped_strategic_necessity_umaima_ali.pdf, status: 200, size_bytes: 1472980, size_mb: 1.4, scraped_at: 2026-06-03T19:17:57.832109Z
+
+study_id: DAIO Study 25|27, title: Thinking Before Sinking, authors: Red and Blue AI Tactics for Naval Combat, year: 2025, url_page: url_pdf: filename: daio_study2527_thinking_before_sinking_borchert_brandlhuber_dzaack.pdf, status: 200, size_bytes: 1462454, size_mb: 1.39, scraped_at: 2026-06-03T19:18:37.779489Z
+
+study_id: DAIO Study 24|26, title: His Hands Can’t Hit, authors: What His Eyes Can’t See, year: 2024, url_page: url_pdf: filename: daio_study2426_his_hands_cant_hit_what_his_eyes_cant_see_borchert_brandlhuber.pdf, status: 200, size_bytes: 2306073, size_mb: 2.2, scraped_at: 2026-06-03T19:18:53.061057Z
+
+study_id: Book, title: The Very Long Game, authors: 25 Case Studies on the Global State of Defense AI, year: 2024, url_page: url_pdf: filename: 978-3-031-58649-1.pdf, status: 404, size_bytes: 0, size_mb: 0.0, scraped_at: 2026-06-03T19:18:58.020794Z
+
+study_id: DAIO Study 24|25, title: Heavy Thunder, No Rain, subtitle: Defense AI in Iran, country: Iran, authors: Mahmoud Javadi, year: 2024, url_page: url_pdf: filename: daio_study2425_heavy_thunder_no_rain_mahmoud_javadi.pdf, status: 200, size_bytes: 2038308, size_mb: 1.94, scraped_at: 2026-06-03T19:19:16.970244Z
+
+study_id: DAIO Study 24|24, title: Intelligent National Defense Amid Strategic Ambiguity?, subtitle: Defense AI in Taiwan, country: Taiwan, authors: Kitsch Liao 2024, year: 2024, url_page: url_pdf: filename: daio_study2424_intelligent_national_defense_amid_strategic_ambiguity_kitsch_liao.pdf, status: 200, size_bytes: 1174092, size_mb: 1.12, scraped_at: 2026-06-03T19:19:45.711740Z
+
+study_id: DAIO Study 24|23, title: Overcoming the Long Shadow of the Past, subtitle: Defense AI in Japan, country: Japan, authors: Motohiro Tsuchiya 2024, year: 2024, url_page: url_pdf: filename: daio_study2423_overcoming_the_long_shadow_of_the_past_motohiro_tsuchiya.pdf, status: 200, size_bytes: 1040844, size_mb: 0.99, scraped_at: 2026-06-03T19:20:12.415261Z
+
+study_id: DAIO Study 24|22, title: Survival of the Smartest?, subtitle: Defense AI in Ukraine, country: Ukraine, authors: Vitaliy Goncharuk 2024, year: 2024, url_page: url_pdf: filename: daio_study2422_survival_of_the_smartest_vitaliy_goncharuk.pdf, status: 200, size_bytes: 979024, size_mb: 0.93, scraped_at: 2026-06-03T19:20:17.771669Z
+
+study_id: DAIO Study 24|21, title: Will the One Ring Hold?, subtitle: Defense AI in South Korea, country: South Korea, authors: Youngwook Park 2024, year: 2024, url_page: url_pdf: filename: daio_study2421_will_the_one_ring_hold_youngwook_park.pdf, status: 200, size_bytes: 975992, size_mb: 0.93, scraped_at: 2026-06-03T19:20:23.586996Z
+
+study_id: DAIO Study 23|20, title: Caught Between Today and Tomorrow, subtitle: Defence AI in Estonia, country: Estonia, authors: Tomas Jermalavičius 2023, year: 2023, url_page: status: no_url, size_bytes: 0, size_mb: 0.0, scraped_at: 2026-06-03T19:16:04.157900Z
+
+study_id: DAIO Study 23|19, title: Harnessing the Potential, subtitle: Defense AI in Greece, country: Greece, authors: Nikolaos Karampekios, Konstantinos Sakalis, and Iraklis Oikonomou 2023, year: 2023, url_page: url_pdf: filename: daio_study2319_harnessing_the_potential_karampekios_sakalis_oikonomou.pdf, status: 200, size_bytes: 1048550, size_mb: 1.0, scraped_at: 2026-06-03T19:20:38.840878Z
+
+study_id: DAIO Study 23|18, title: Servers Before Tanks?, subtitle: Defence AI in Denmark, country: Denmark, authors: Andreas Graae 2023, year: 2023, url_page: url_pdf: filename: daio_study2318_servers_before_tanks_andreas_graae.pdf, status: 200, size_bytes: 1999372, size_mb: 1.91, scraped_at: 2026-06-03T19:20:47.062347Z
+
+study_id: DAIO Study 23|17, title: A Winding Road Before Scaling-Up?, subtitle: Defense AI in France, country: France, authors: Kévin Martin and Lucie Liversain 2023, year: 2023, url_page: url_pdf: filename: daio_study2317_a_winding_road_before_scaling-up_kevin_martin_lucie_liversain.pdf, status: 200, size_bytes: 1784167, size_mb: 1.7, scraped_at: 2026-06-03T19:21:02.148599Z
+
+study_id: DAIO Study 23|16, title: Cautious Data-Driven Evolution, subtitle: Defense AI in Finland, country: Finland, authors: Sami O. Järvinen 2023, year: 2023, url_page: url_pdf: filename: daio_study2316_cautious_data-driven_evolution_sami_jaervinen.pdf, status: 200, size_bytes: 1085181, size_mb: 1.03, scraped_at: 2026-06-03T19:21:10.894954Z
+
+study_id: DAIO Study 23|15, title: Embracing the Organized Mess, subtitle: Defense AI in Israel, country: Israel, authors: Inbar Dolinko and Liran Antebi 2023, year: 2023, url_page: url_pdf: filename: daio_study2315_embracing_the_organized_mess_dolinko_antebi.pdf, status: 200, size_bytes: 987059, size_mb: 0.94, scraped_at: 2026-06-03T19:21:17.259581Z
+
+study_id: DAIO Study 23|14, title: A Fertile Soil for AI?, subtitle: Defense AI in Sweden, country: Sweden, authors: Alastair Finlan 2023, year: 2023, url_page: url_pdf: filename: daio_study2314_a_fertile_soil_for_ai_alastair_finlan.pdf, status: 200, size_bytes: 997203, size_mb: 0.95, scraped_at: 2026-06-03T19:21:27.429587Z
+
+study_id: DAIO Study 23|13, title: “Overtaking on the Curve?”, subtitle: Defense AI in China, country: China, authors: John Lee 2023, year: 2023, url_page: url_pdf: filename: daio_study2313_overtaking_on_the_curve_john_lee.pdf, status: 200, size_bytes: 1105482, size_mb: 1.05, scraped_at: 2026-06-03T19:21:34.535733Z
+
+study_id: DAIO Study 23|12, title: Master and ­Servant, subtitle: Defense AI in Germany, country: Germany, authors: Heiko Borchert, Torben Schütz, Joseph Verbovszky 2023, year: 2023, url_page: url_pdf: filename: daio_study2312_master_and_servant_borchert_schuetz_verbovszky.pdf, status: 200, size_bytes: 1491568, size_mb: 1.42, scraped_at: 2026-06-03T19:21:42.236145Z
+
+study_id: DAIO Study 23|11, title: High Hopes Amid Hard Realities, subtitle: Defense AI in Russia, country: Russia, authors: Katarzyna Zysk 2023, year: 2023, url_page: url_pdf: filename: DAIO_Study2311.pdf, status: 200, size_bytes: 1440801, size_mb: 1.37, scraped_at: 2026-06-03T19:21:49.592774Z
+
+study_id: DAIO Study 23|10, title: How AI Learns the Bundeswehr’s “Innere Führung”, authors: Value-Based Engineering with IEEE7000™-2021, year: 2023, url_page: url_pdf: filename: DAIO_Study2310.pdf, status: 200, size_bytes: 1409275, size_mb: 1.34, scraped_at: 2026-06-03T19:22:01.109147Z
+
+study_id: DAIO Study 23|09, title: When the Teeth Eat the Tail, authors: A Review of Canada’s Defence Artificial Intelligence, year: 2023, url_page: url_pdf: filename: DAIO_Study2309.pdf, status: 200, size_bytes: 1503073, size_mb: 1.43, scraped_at: 2026-06-03T19:22:18.342018Z
+
+study_id: DAIO Study 23|08, title: Enabling Technology of Future Warfare, authors: Turkey’s Approach to Defense AI, year: 2023, url_page: url_pdf: filename: DAIO_Study2308.pdf, status: 200, size_bytes: 1350018, size_mb: 1.29, scraped_at: 2026-06-03T19:22:25.560968Z
+
+study_id: DAIO Study 23|07, title: Risky Incrementalism, subtitle: Defense AI in the United States, country: the United States, authors: Lauren A. Kahn 2023, year: 2023, url_page: url_pdf: filename: DAIO_Study2307.pdf, status: 200, size_bytes: 1022771, size_mb: 0.98, scraped_at: 2026-06-03T19:22:30.473737Z
+
+study_id: DAIO Study 22|06, title: Wie KI Innere Führung lernt, authors: Wertebasierte Technik mit IEEE7000™-2021, year: 2022, url_page: url_pdf: filename: DAIO_Study2206.pdf, status: 200, size_bytes: 1386242, size_mb: 1.32, scraped_at: 2026-06-03T19:22:38.712271Z
+
+study_id: DAIO Study 22|05, title: Exploring the Benefits of a New Force Enabler, subtitle: Defense AI in Italy, country: Italy, authors: Andrea Gilli, Mauro Gilli, and Ivan Zaccagnini 2022, year: 2022, url_page: url_pdf: filename: DAIO_Study2205.pdf, status: 200, size_bytes: 1367637, size_mb: 1.3, scraped_at: 2026-06-03T19:22:47.334699Z
+
+study_id: DAIO Study 22|04, title: Bright Prospects –, authors: Big Challenges, year: 2022, url_page: url_pdf: filename: DAIO_Study2204.pdf, status: 200, size_bytes: 1357778, size_mb: 1.29, scraped_at: 2026-06-03T19:22:54.496227Z
+
+study_id: DAIO Study 22|03, title: Free Jazz on the Battlefield, authors: How GhostPlay’s AI Approach Enhances Air Defense, year: 2022, url_page: url_pdf: filename: DAIO_Study2203.pdf, status: 200, size_bytes: 1481985, size_mb: 1.41, scraped_at: 2026-06-03T19:23:00.775870Z
+
+study_id: DAIO Study 22|02, title: Evolution not Revolution, authors: Australia’s Defence AI Pathway, year: 2022, url_page: url_pdf: filename: DAIO_Study2202.pdf, status: 200, size_bytes: 1384653, size_mb: 1.32, scraped_at: 2026-06-03T19:23:17.517339Z
+
+study_id: DAIO Study 21|01, title: Beware the Hype, authors: What Military Conflicts in Ukraine, Syria, Libya, and N­agorno-Karabakh (Don’t) Tell Us About the Future of War, year: 2021, url_page: url_pdf: filename: DAIO_Beware_the_Hype.pdf, status: 200, size_bytes: 1701583, size_mb: 1.62, scraped_at: 2026-06-03T19:23:26.067583Z

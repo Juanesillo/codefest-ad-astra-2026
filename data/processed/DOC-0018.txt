@@ -1,0 +1,2461 @@
+Artificial Intelligence
+Index Report 2025
+CHAPTER 3:
+Responsible AI
+Text and analysis by Anka Reuel
+
+Artificial Intelligence
+Index Report 2025
+Chapter 3: Responsible AI
+Overview 3 Measuring Implicit Bias in
+Chapter Highlights 4 Explicitly Unbiased LLMs 38
+3.1 Background 6 3.8 Transparency and Explainability 40
+Definitions 6 Featured Research 40
+Foundation Model Transparency
+Index v1.1 40
+3.2 Assessing Responsible AI 7
+AI Incidents 7
+3.9 Security and Safety 42
+Examples 8
+Benchmarks 42
+Limited Adoption of RAI Benchmarks 10
+HELM Safety 42
+Factuality and Truthfulness 11
+AIR-Bench 43
+Hughes Hallucination Evaluation
+Model (HHEM) Leaderboard 11 Featured Research 45
+Highlight: FACTS, SimpleQA, Beyond Shallow Safety Alignment 45
+and the Launch of Harder Improving the Robustness to Persistently
+Factuality Benchmarks 12 Harmful Behaviors in LLMs 46
+3.3 RAI in Organizations and Businesses 14 3.10 Special Topics on RAI 48
+Highlight: Longitudinal Perspective 21 AI Agents 48
+Identifying the Risks of LM Agents
+3.4 RAI in Academia 25 With LM-Simulated Sandboxes 48
+Aggregate Trends 25 Jailbreaking Multimodal Agents
+With a Single Image 48
+Topic Area 28
+Election Misinformation 50
+AI Misinformation in the
+3.5 RAI Policymaking 32
+US Elections 50
+Rest of World 2024 AI-Generated
+3.6 Privacy and Data Governance 33
+Election Content 51
+Featured Research 33
+Large-Scale Audit of Dataset
+Appendix 55
+Licensing and Attribution in AI 33
+Data Consent in Crisis 34
+ACCESS THE PUBLIC DATA
+3.7 Fairness and Bias 36
+Featured Research 36
+Racial Classification in
+Multimodal Models 36
+
+AArrttiifificciiaall IInntteelllliiggeennccee
+IInnddeexx RReeppoorrtt 22002255
+CHAPTER 3:
+Responsible AI
+Overview
+Artificial intelligence is now deeply integrated into nearly every aspect of our lives. It
+is reshaping sectors like education, finance, and healthcare, where algorithm-driven
+insights guide critical decisions. While this shift offers significant benefits, it also brings
+with it notable risks. The past year has seen a continued concentration of effort on the
+responsible development and deployment of AI systems.
+This chapter examines trends in responsible AI (RAI) across several dimensions. It
+begins by establishing key RAI definitions before assessing broadly relevant issues
+such as AI incidents, standardization challenges in LLM responsibility, and benchmarks
+for model factuality and truthfulness. Next, it explores RAI trends within key societal
+sectors—industry, academia, and policymaking—and analyzes specific subtopics,
+including privacy and data governance, fairness, transparency and explainability,
+and security and safety, using benchmarks that illuminate model performance and
+highlights of notable research. The chapter concludes with a study of two special RAI
+topics: agentic AI and election misinformation.
+Chapter 3 Preview 3
+
+AArrttiifificciiaall IInntteelllliiggeennccee
+IInnddeexx RReeppoorrtt 22002255
+CHAPTER 3:
+Responsible AI
+Chapter Highlights
+1. Evaluating AI systems with responsible AI criteria is still uncommon, but new benchmarks are beginning
+to emerge. Last year’s AI Index highlighted the lack of standardized RAI benchmarks for LLMs. While this issue persists, new
+benchmarks such as HELM Safety and AIR-Bench help to fill this gap.
+2. The number of AI incident reports continues to increase. According to the AI Incidents Database, the number of
+reported AI-related incidents rose to 233 in 2024—a record high and a 56.4% increase over 2023.
+3. Organizations acknowledge RAI risks, but mitigation efforts lag. A McKinsey survey on organizations’ RAI
+engagement shows that while many identify key RAI risks, not all are taking active steps to address them. Risks including
+inaccuracy, regulatory compliance, and cybersecurity were top of mind for leaders with only 64%, 63%, and 60% of respondents,
+respectively, citing them as concerns.
+4. Across the globe, policymakers demonstrate a significant interest in RAI. In 2024, global cooperation on AI
+governance intensified, with a focus on articulating agreed-upon principles for responsible AI. Several major organizations—
+including the OECD, European Union, United Nations, and African Union—published frameworks to articulate key RAI concerns
+such as transparency and explainability, and trustworthiness.
+5. The data commons is rapidly shrinking. AI models rely on massive amounts of publicly available web data for training.
+A recent study found that data use restrictions increased significantly from 2023 to 2024, as many websites implemented new
+protocols to curb data scraping for AI training. In actively maintained domains in the C4 common crawl dataset, the proportion
+of restricted tokens jumped from 5–7% to 20–33%. This decline has consequences for data diversity, model alignment, and
+scalability, and may also lead to new approaches to learning with data constraints.
+6. Foundation model research transparency improves, yet more work remains. The updated Foundation
+Model Transparency Index—a project tracking transparency in the foundation model ecosystem—revealed that the average
+transparency score among major model developers increased from 37% in to 58% in . While these gains
+are promising, there is still considerable room for improvement.
+Chapter 3 Preview 4
+
+AArrttiifificciiaall IInntteelllliiggeennccee
+IInnddeexx RReeppoorrtt 22002255
+CHAPTER 3:
+Responsible AI
+Chapter Highlights (cont’d)
+7. Better benchmarks for factuality and truthfulness. Earlier benchmarks like HaluEval and TruthfulQA, aimed at
+evaluating the factuality and truthfulness of AI models, have failed to gain widespread adoption within the AI community. In
+response, newer and more comprehensive evaluations have emerged, such as the updated Hughes Hallucination Evaluation
+Model leaderboard, FACTS, and SimpleQA.
+8. AI-related election misinformation spread globally, but its impact remains unclear. In 2024, numerous
+examples of AI-related election misinformation emerged in more than a dozen countries and across over 10 social media
+platforms, including during the U.S. presidential election. However, questions remain about measurable impacts of this problem,
+with many expecting misinformation campaigns to have affected elections more profoundly than they did.
+9. LLMs trained to be explicitly unbiased continue to demonstrate implicit bias. Many advanced LLMs—
+including GPT-4 and Claude 3 Sonnet—were designed with measures to curb explicit biases, but they continue to exhibit
+implicit ones. The models disproportionately associate negative terms with Black individuals, more often associate women with
+humanities instead of STEM fields, and favor men for leadership roles, reinforcing racial and gender biases in decision making.
+Although bias metrics have improved on standard benchmarks, AI model bias remains a pervasive issue.
+10. RAI gains attention from academic researchers. The number of RAI papers accepted at leading AI conferences
+increased by 28.8%, from 992 in 2023 to 1,278 in 2024, continuing a steady annual rise since 2019. This upward trend highlights
+the growing importance of RAI within the AI research community.
+Chapter 3 Preview 5
+
+Artificial Intelligence
+Index Report 2025
+Chapter 3: Responsible AI
+3.1 Background
+3.1 Background
+Definitions
+In this chapter, the AI Index explores four key dimensions of treatment recommendations, and demonstrates how issues
+responsible AI: privacy and data governance, transparency like privacy, transparency, etc., could be relevant. Although
+and explainability, security and safety, and fairness. Other Figure 3.1.1 breaks down various dimensions of responsible
+dimensions of responsible AI, such as sustainability and AI into specific categories to improve definitional clarity, this
+reliability, are discussed elsewhere in the report. Figure chapter organizes these dimensions into the following broader
+3.1.1 offers definitions for the responsible AI dimensions categories: privacy and data governance, transparency and
+addressed in this chapter, along with an illustrative example explainability, security and safety, and fairness. Since these
+of how these dimensions might be practically relevant. The topics are often interrelated, the AI Index adopted this
+“example” column examines a hypothetical platform that structured approach to organization.
+employs AI to analyze medical patient data for personalized
+Responsible AI dimensions, de nitions, and examples
+Source: AI Index, 2025 | Table: 2025 AI Index report
+Responsible AI dimensions De nition Example
+Privacy An individual’s right to con dentiality, anonymity, and Patient data is handled with strict con dentiality, ensuring
+security protections of their personal data, including the anonymity and protection. Patients consent to whether
+right to consent and be informed about data usage, their data can be used to train a tumor detection system.
+coupled with an organization’s responsibility to safeguard
+these rights when handling personal data.
+Data governance Establishment of policies, procedures, and standards to Policies and procedures are in place to maintain data
+ensure the quality, access, and licensing of data, which is quality and permissions for reuse of a public health dataset.
+crucial for broader reuse and improved accuracy of There are clear data quality pipelines and speci cation of
+models. use licenses.
+Fairness and bias Creating algorithms that avoid bias or discrimination, and A medical AI platform designed to avoid bias in treatment
+considering the diverse needs and circumstances of all recommendations, ensuring that patients from all
+stakeholders, thereby aligning with broader societal demographics receive equitable care.
+standards of equity.
+Transparency Open sharing of how AI systems work, including data The development choices, including data sources and
+sources and algorithmic decisions, as well as how AI algorithmic design decisions are openly shared. How the
+systems are deployed, monitored, and managed, covering system is deployed and monitored is clear to health care
+both the creation and operational phases. providers and regulatory bodies.
+Explainability The capacity to comprehend and articulate the rationale The AI platform can articulate the rationale behind its
+behind the outputs of an AI system in ways that are treatment recommendations, making these insights
+understandable to its users and stakeholders. understandable to doctors and patients to increase trust in
+the AI system.
+Security and safety The integrity of AI systems against threats, minimizing Measures are implemented to protect against cyber threats
+harm from misuse, and addressing inherent safety risks like and to ensure the system’s reliability, minimizing risks from
+reliability concerns as well as the monitoring and misuse and safeguarding patient health and data.
+management of safety-critical AI systems.
+Figure 3.1.1
+Chapter 3 Preview 6
+
+Artificial Intelligence
+Index Report 2025
+While the responsible development, deployment, and
+governance of AI received increased attention in 2024,
+capturing overall trends in this area is still challenging.
+This section covers some indicators relevant to
+capturing responsible AI at the aggregate level.
+3.2 Assessing Responsible AI
+AI Incidents
+The AI Incident Database (AIID) tracks instances of ethical has been reached on a standard definition, these discussions
+misuse of AI, such as autonomous cars causing pedestrian highlight the need for more detailed reporting to better
+fatalities or facial recognition systems leading to wrongful document AI-related risks and their implications.
+arrests.
+AI-related incidents sharply increased in 2024, reaching
+Current incident tracking relies on publicly available media a record high of 233—a 56.4% increase from 2023 (Figure
+reports, meaning the actual number of incidents is likely 3.2.1). This rise likely reflects both the expanding use of AI and
+higher, as many go unreported. In 2024, discussions centered heightened public awareness of its impact. Greater familiarity
+on refining methods for defining and tracking incidents, with AI may also be driving more frequent reporting of
+particularly those classified as “serious.” While no consensus incidents to relevant databases.
+
+2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024
+Chapter 3 Preview 7
+stnedicni
+IA
+fo
+rebmuN
+Chapter 3: Responsible AI
+3.2 Assessing Responsible AI
+Number of reported AI incidents, 2012–24
+Source: AI Incident Database (AIID), 2024 | Chart: 2025 AI Index report
+Figure 3.2.11
+1 The number of AI incidents is continually updated over time, including for previous years. Therefore, the totals reported in Figure 3.2.1 might not align with the more recent totals published
+on the AI Incident Database.
+
+Artificial Intelligence
+Index Report 2025
+Chapter 3: Responsible AI
+3.2 Assessing Responsible AI
+Examples Growing threat of deepfake intimate images (Jun. 18, 2024)
+The next section details recent AI incidents to shed light on Elliston Berry, a 15-year-old high school student from Texas,
+the ethical challenges commonly linked with AI. became the victim of AI-generated harassment when a
+male classmate used a clothes-removal app to create fake
+Misidentifications and the Human Cost of Facial nude images of Berry and her friends, distributing them
+Recognition Technology (May 25, 2024) anonymously through social media. The realistic but falsified
+A woman in the U.K. was wrongfully identified as a shoplifter images, made from photos taken from Berry’s private
+by the Facewatch system while shopping at a Home Instagram account, caused her to experience feelings of fear,
+Bargains store. After being publicly accused, searched, and shame, and anxiety, which impacted her social and academic
+banned from stores using the technology, she experienced life. While the perpetrator faced juvenile sanctions and school
+emotional distress and worried about the long-term impact discipline, the case exposed gaps in legal and institutional
+on her reputation. Facewatch later acknowledged the error frameworks for addressing AI-driven harassment. Berry and
+but did not comment or issue a public apology. The case her family have since advocated for stronger protections, and
+reflects broader issues with the increasing adoption of facial several bills have been introduced in the U.S. Congress to
+recognition systems by retailers and law enforcement. While criminalize the nonconsensual sharing of intimate images—
+advocates emphasize their potential to reduce crime and real or fake—and to impose removal obligations on social
+enhance public safety, critics point to privacy violations, media platforms. Certain countries, including Australia, have
+misidentifications, and the potential normalization of mass already passed such laws.
+surveillance. Despite assurances of accuracy, errors still
+occur. These types of incidents also raise questions about how
+Source: Restless Network, 2021
+system errors are acknowledged and victims compensated. Figure 3.2.3
+Source: BBC, 2024
+Figure 3.2.2
+Chapter 3 Preview 8
+
+Artificial Intelligence
+Index Report 2025
+Chapter 3: Responsible AI
+3.2 Assessing Responsible AI
+AI chatbot exploits deceased individual’s identity (Oct. 7, Chatbot blamed for teenage suicide (Oct. 23, 2024)
+2024) A lawsuit against Character.AI has raised concerns about
+Jennifer Ann Crecente, a high school senior murdered by an the role of AI chatbots in mental health crises. The case
+ex-boyfriend in 2006, was brought back into public focus involves a 14-year-old boy, Sewell Setzer III, who died by
+when her name and image appeared in an AI chatbot on suicide after prolonged interactions with a chatbot character,
+Character.AI. Discovered by her father, Drew Crecente, via which reportedly provided harmful advice rather than
+a Google Alert, the bot—created by an unknown user— offering support or critical resources. The lawsuit alleges
+used Jennifer Ann’s yearbook photo and described her as that the chatbot, designed to engage users in deep and
+a “knowledgeable and friendly AI character.” Crecente, personal conversations, lacked proper safeguards to prevent
+an advocate for awareness of teenage dating violence, dangerous interactions and encouraged Sewell to take his
+expressed outrage and distress at the unauthorized use of life. Figure 3.2.5 highlights a screenshot of the conversation
+his daughter’s identity, calling the experience retraumatizing. between Sewell and “Dany” (the chatbot character), the day
+Despite the chatbot’s removal for violating Character.AI’s of his suicide. This case speaks to the ethical challenges of
+impersonation policies, the incident highlights troubling gaps AI-driven companionship and the potential risks of deploying
+in AI platform oversight and the ethical dilemmas surrounding conversational AI without adequate oversight. While AI
+digital recreations of deceased individuals. chatbots can offer emotional support, critics warn that
+without guardrails, they may inadvertently reinforce harmful
+Source: Business Insider, 2024 behaviors or fail to intervene when users are in distress.
+Figure 3.2.4
+Source: Business Insider, 2024
+Figure 3.2.5
+Chapter 3 Preview 9
+
+Artificial Intelligence
+Index Report 2025
+Chapter 3: Responsible AI
+3.2 Assessing Responsible AI
+Limited Adoption of RAI Benchmarks
+Last year’s AI Index was among the first publications to This year’s AI Index confirms that this trend persists. Figure
+highlight the lack of standard benchmarks for AI safety and 3.2.6 highlights several general capabilities benchmarks (such
+responsibility evaluations. While major model developers as MMLU, GPQA Diamond, and MATH) used to evaluate
+consistently test their flagship models on the same general major models released in 2024, while Figure 3.2.7 showcases
+capabilities benchmarks—covering math, coding, and prominent safety and responsible AI benchmarks, indicating
+language skills—no such standard exists for safety and whether leading developers tested their models against
+responsible AI assessments. Standardized evaluation them. As with last year, there is clear consensus among
+suites are important for enabling direct comparisons model developers on which general capabilities benchmarks
+between models. This is especially important for safety and to use—but none on similar RAI benchmarks.
+responsibility features, as businesses and governments are
+increasingly deploying AI in real-world applications.
+Reported general capability benchmarks for popular foundation models
+Source: AI Index, 2025 | Table: 2025 AI Index report
+Capability o1 GPT-4.5 DeepSeek-R1 Gemini 2.5 Grok-2 Claude 3.7 Llama 3.3
+benchmark Sonnet
+MMLU, ✓ ✓ ✓ ✓ ✓ ✓ ✓
+MMLU-Pro or
+MMMLU
+GPQA or ✓ ✓ ✓ ✓ ✓ ✓ ✓
+GPQA-Diamond
+MATH-500 ✓ ✓ ✓ ✓ ✓
+AIME 2024 ✓ ✓ ✓ ✓ ✓
+SWE-bench ✓ ✓ ✓ ✓ ✓
+veri ed
+MMMU ✓ ✓ ✓ ✓ ✓
+Figure 3.2.6
+Reported safety and responsible AI benchmarks for popular foundation models
+Source: AI Index, 2025 | Table: 2025 AI Index report
+Responsible AI o1 GPT-4.5 DeepSeek-R1 Gemini 2.5 Grok-2 Claude 3.7 Llama 3.3
+benchmark Sonnet
+BBQ ✓ ✓ ✓
+HarmBench
+Cybench ✓
+SimpleQA ✓ ✓
+Toxic WildChat ✓ ✓ ✓
+StrongREJECT ✓ ✓
+WMDP benchmark ✓ ✓
+MakeMePay ✓ ✓
+MakeMeSay ✓ ✓
+Figure 3.2.7
+Chapter 3 Preview 10
+
+Artificial Intelligence
+Index Report 2025
+This does not mean model developers neglect safety Hughes Hallucination Evaluation Model (HHEM)
+testing—many conduct evaluations—but much like most Leaderboard
+models are kept proprietary, these evaluations are often The Hughes Hallucination Evaluation Model (HHEM)
+internal and not standardized, making assessments and leaderboard, developed by Vectara, assesses how
+comparisons of models difficult. External evaluators also frequently LLMs introduce hallucinations when summarizing
+present challenges. For example, third-party evaluators like documents. In this benchmark, models generate summaries
+Gryphon, Apollo Research, and METR assess only select from documents in the CNN and Daily Mail corpus. These
+models, and their findings cannot be widely validated by the summaries are then evaluated for hallucination rates. HHEM
+broader AI community. stands out as one of the most comprehensive and up-to-date
+evaluations of AI systems’ tendency to hallucinate. Recent
+Factuality and Truthfulness
+models, including Llama 3, Claude 3.5, and Gemini 2.0, have
+Despite significant progress, LLMs still face challenges with all been benchmarked on the leaderboard.
+factual inaccuracies and hallucinations, often generating
+information that appears credible but is false. Notable real- Currently, the GLM-4-9b-Chat and Gemini-2.0-Flash-Exp
+world examples include cases where lawyers submitted models are tied for the lowest hallucination rate, each at just
+court briefs containing citations fabricated by LLM systems. 1.3%. The next closest models, o1-mini and GPT-4o, follow
+Monitoring the rate of hallucinations in LLMs is therefore closely, with hallucination rates of 1.4% and 1.5%, respectively
+important. However, some benchmarks highlighted in (Figure 3.2.8).
+previous editions of the AI Index, such as HaluEval and
+TruthfulQA, have struggled to gain traction within the
+AI community. In 2024, several new benchmarks were
+introduced to better evaluate the factuality of these models.
+3.00% 2.90%
+2.80%
+2.60%
+2.50% 2.50%
+2.50% 2.40% 2.40%
+2.00% 1.90%
+1.80%
+1.70% 1.70%
+1.50%
+1.50% 1.40%
+1.30% 1.30%
+1.00%
+0.50%
+0.00%
+ai21labs/AI Q 21 w -J e a n m /Q b w a- I e 1 n . n 5 t 2 e - . l M 5 /n - i 7 e n B u i - r I a n m l s - i c t c r h r u a o c t s t - o 7 f b t - / v m O 3 i r - c c 3 r a o - s 2 o -1 f 3 t/ b o P p h e i- n 3 a .5 i/ - o M 1 o d E e - e in p s s t e r e u k c / t o d p ee e p na se i/ e G k P - o c T p h -3 a e . t n 5 a -T i/ u G rb P o o T p -4 enai/GP o T p -4 e o n - a m i/ i G n P i o T p -4 e - n T a u i r / b G o P o T p -4 e o nai/o1- g m e i m ni ini-2.0 T - H a U s D h- M ex /g p lm -4-9b-chat
+Chapter 3 Preview 11
+etar
+noitanicullaH
+Chapter 3: Responsible AI
+3.2 Assessing Responsible AI
+HHEM: hallucination rate
+Source: HHEM leaderboard, 2025 | Chart: 2025 AI Index report
+Figure 3.2.8
+
+Artificial Intelligence
+Index Report 2025
+Chapter 3: Responsible AI
+3.2 Assessing Responsible AI
+Highlight:
+FACTS, SimpleQA, and the Launch of Harder Factuality Benchmarks
+Still generations from Stable Video Diffusion
+Source: Google, 2024
+Chapter 3 Preview 12
+weiverp-1o inim-1o inim-o4-tpg 22014202-ukiah-5.3-edualc o4-tpg 22014202-tennos-5.3-edualc 200-orp-5.1-inimeg 200-hsa
+
+-5.1-inimeg
+pxe-hsa
+
+-0.2-inimeg
+100%
+80%
+60%
+40%
+20%
+0%
+Model
+erocs
+ytilautcaF
+The HHEM leaderboard, while useful,
+appears to be nearing saturation as model
+Figure 3.2.9
+performance improves. Additionally, its
+focus on news articles and summarization
+tasks limits its comprehensiveness. As
+AI capabilities continue to evolve, there
+is a growing need for benchmarks that
+assess factuality in more challenging and
+diverse contexts.
+This year, several new benchmarks
+were introduced for evaluating the
+factuality and truthfulness of LLMs,
+including Google’s FACTS Grounding.
+This benchmark assesses how well
+FACTS: factuality score
+LLMs generate responses that are both
+Source: FACTS leaderboard, 2025 | Chart: 2025 AI Index report
+factually accurate and detailed enough
+to provide satisfactory answers. As
+78.80%
+79.40%80.00%82.90%83.60%
+part of FACTS, models must craft long- 71.00% 74.20%
+61.70% 62.00%
+form responses to user requests based
+on a context document (Figure 3.2.9).
+These documents cover a wide range of
+domains, including finance, technology,
+retail, medicine, and law. FACTS is more
+complex than HHEM, requiring models
+to perform tasks such as summarization,
+question-and-answer generation, fact-
+finding, and explanation. Responses are
+evaluated by a collection of AI models—
+Gemini 1.5 Pro, GPT-4o, and Claude
+3.5 Sonnet—which assign a factuality
+Figure 3.2.10
+score. Currently, Gemini-2.0-Flash-Exp
+holds the highest grounding score at
+83.6% (Figure 3.2.10).
+
+Artificial Intelligence
+Index Report 2025
+Chapter 3: Responsible AI
+3.2 Assessing Responsible AI
+Highlight:
+FACTS, SimpleQA, and the Launch of Harder Factuality Benchmarks
+(cont’d)
+Evaluating the factuality of LLMs is challenging because Sample questions from SimpleQA
+Source: OpenAI, 2024
+their long answers often contain multiple factual claims,
+Figure 3.2.11
+making it difficult to assess the accuracy of each one. To
+address this, OpenAI researchers introduced SimpleQA, a
+new benchmark for evaluating LLM factuality. SimpleQA
+presents models with over 4,000 short fact-seeking
+questions that are straightforward, easily gradable, and
+relatively challenging. These questions span a diverse
+range of topics, including history, science and technology,
+art, and geography (Figure 3.2.11).
+SimpleQA presents a significant factuality challenge for
+leading LLMs. The best-performing model, OpenAI’s o1-
+preview, successfully answers only 42.7% of the questions
+(Figure 3.2.12). Researchers also evaluated whether models
+would attempt to answer certain questions, finding that
+Correct Not attempted Correct given attempted
+100%
+80%
+75.30% 75.00%
+60%
+47.00%
+44.50%
+42.70%
+40% 39.60%38.80% 38.20% 38.00%
+35.00%
+28.90% 28.50%
+22.90% 23.50%
+20.60%
+20%
+11.30%
+8.60% 8.70% 8.10% 9.20%
+5.10% 5.70%
+0.90% 1.00%
+0%
+Claude-3-haiku Claude-3-sonnet Claude-3-opus Claude-3.5-sonnet GPT-4o-mini GPT-4o OpenAI o1-mini OpenAI o1-preview
+(2024-03-07) (2024-02-29) (2024-02-29) (2024-06-20)
+Model
+Chapter 3 Preview 13
+snoitseuq
+fo
+tnecreP
+some, like the Claude-3 family, refrained from responding
+to 75% of the prompts. Among models that attempted to
+respond to questions, o1-preview scored 47.0% of “correct-
+given-attempted” prompts, followed by Claude 3.5 Sonnet
+at 44.5%. As expected, larger models tend to perform better
+on this benchmark.
+SimpleQA: percent of questions
+Source: Wei et al., 2024 | Chart: 2025 AI Index report
+Figure 3.2.12
+
+Artificial Intelligence
+Index Report 2025
+Chapter 3: Responsible AI
+3.3 RAI in Organizations and Businesses
+3.3 RAI in Organizations and Businesses
+As AI systems become more widely deployed in real- Figure 3.3.1 visualizes responses to questions asking
+world settings, understanding how businesses approach organizations which department has primary oversight for
+responsible AI has become increasingly important. To explore AI governance within their organizations. Notably, no single
+this, the AI Index partnered with McKinsey & Company in department dominated. The most common response was
+2024 to conduct a survey examining the extent to which information security (cyber/fraud/privacy) at 21%, followed
+businesses integrate RAI into their operations. The survey by data and analytics at 17%. Additionally, 14% of respondents
+defined RAI as a framework for ensuring that AI is developed reported having dedicated AI governance roles, signaling
+and deployed in a safe, trustworthy, and ethical manner. It the growing recognition of AI governance as a distinct and
+assessed RAI along the same key dimensions outlined by the essential function within organizations.
+AI Index: privacy and data governance, fairness, transparency
+and explainability, and security and safety. The survey polled
+business leaders from over 30 countries and had a total
+sample size of 759 respondents.
+Business functions assigned primary responsibility for AI governance, 2024
+Source: McKinsey & Company Survey, 2024 | Chart: 2025 AI Index report
+Information security
+21%
+(cyber/fraud/privacy)
+Data and analytics 17%
+AI-speci c governance
+14%
+roles
+Risk/compliance 13%
+Engineering 10%
+No business function
+9%
+primarily responsible
+Legal 7%
+Internal audit/ethics 4%
+Customer care 2%
+Other 1%
+0% 2% 4% 6% 8% 10% 12% 14% 16% 18% 20% 22%
+% of respondents
+Figure 3.3.12
+2 The “Unknown” response option was not shown in this visualization.
+Chapter 3 Preview 14
+
+Artificial Intelligence
+Index Report 2025
+1–5M 5–10M 10–25M 25–50M
+<100M 68% 25% 6%
+100M–1B 48% 30% 15% 7%
+1B–10B 40% 32% 18% 10%
+10B–30B 24% 30% 27% 19%
+30B+ 25% 29% 21% 25%
+0% 20% 40% 60% 80% 100%
+% of respondents
+Chapter 3 Preview 15
+DSU
+ni
+euneveR
+Chapter 3: Responsible AI
+3.3 RAI in Organizations and Businesses
+The survey also asked organizations about their approximate Larger enterprises—particularly those with annual revenues
+investment in operationalizing RAI over the next year, exceeding $10 billion—demonstrated higher total investment
+including both capital and operating expenditures. Examples into RAI. Notably, 27% of organizations with $10 billion–$30
+of such investments include developing or purchasing billion in revenue and 21% of those exceeding $30 billion invest
+technical systems to comply with RAI principles, as well as $10 million–$25 million in RAI. These findings suggest that
+legal or professional services related to RAI. Responses to larger organizations are more likely to embed RAI as a strategic
+this question are visualized in Figure 3.3.2, disaggregated by priority and to make higher absolute investments. Smaller
+organizational revenue size. organizations allocated fewer dollars to RAI, but many still
+reported substantial investments as a share of their revenue.
+Investment in responsible AI by company revenue, 2024
+Source: McKinsey & Company Survey, 2024 | Chart: 2025 AI Index report
+Figure 3.3.2
+
+Artificial Intelligence
+Index Report 2025
+Cybersecurity 66% 53%
+Regulatory compliance 63% 50%
+Personal/individual privacy 60% 46%
+Inaccuracy 60% 55%
+Intellectual property infringement 57% 38%
+Organizational reputation 45% 29%
+Explainability 40% 31%
+Equity and fairness 34% 26%
+Workforce labor displacement 20% 12%
+Environmental impact 16% 9%
+National security 11% 4%
+Political stability 7% 3%
+Physical safety 6% 4%
+0% 20% 40% 60% 80% 100% 0% 20% 40% 60% 80% 100%
+% of respondents % of respondents
+Chapter 3 Preview 16
+sksir
+IA
+Chapter 3: Responsible AI
+3.3 RAI in Organizations and Businesses
+Figure 3.3.3 presents the AI-related RAI risks that The gap is particularly pronounced for intellectual property
+organizations consider relevant and are actively working to infringement (57% relevant, 38% mitigated) and organizational
+mitigate. Cybersecurity (66%), regulatory compliance (63%), reputation (45% relevant, 29% mitigated). Risks related to
+and personal privacy (60%) rank as the top concerns, yet explainability (40%) and fairness (34%) were selected by a
+mitigation efforts consistently fall short. Not surprisingly, in smaller share of respondents, with mitigation rates dropping
+every risk category, fewer organizations take active steps further, to 31% and 26%, respectively.
+to mitigate risks than those that recognize them as relevant.
+AI risks: considered relevant vs. actively mitigated, 2024
+Source: McKinsey & Company Survey, 2024 | Chart: 2025 AI Index report
+Considered relevant Actively mitigated
+Figure 3.3.3
+
+Artificial Intelligence
+Index Report 2025
+1–2 42%
+3–5 30%
+6–9 13%
+10+ 11%
+Unknown 5%
+0% 5% 10% 15% 20% 25% 30% 35% 40%
+% of respondents
+Chapter 3 Preview 17
+stnedicni
+IA
+fo
+rebmuN
+Chapter 3: Responsible AI
+3.3 RAI in Organizations and Businesses
+Figure 3.3.4 and Figure 3.3.5 present data on the number of AI incidents reported by organizations over the past year. Only
+8% of surveyed organizations reported experiencing AI-related incidents. Among those affected, the majority—42%—reported
+encountering just one or two incidents.
+Percentage of organizations that have experienced AI incidents, 2024
+Source: McKinsey & Company Survey, 2024 | Chart: 2025 AI Index report
+Yes No Unknown
+Responses 8% 89% 3%
+0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+% of respondents
+Figure 3.3.43
+Number of AI incidents reported by organizations, 2024
+Source: McKinsey & Company Survey, 2024 | Chart: 2025 AI Index report
+Figure 3.3.5
+3 Figure 3.3.4 uses the OECD definition of an AI incident. According to the OECD, an AI incident is defined as an event, circumstance, or series of events where the development, use, or
+malfunction of one or more AI systems directly or indirectly results in any of the following harms: (a) injury or harm to the health of individuals or groups; (b) disruption of the management or
+operation of critical infrastructure; (c) violations of human rights or breaches of legal obligations intended to protect fundamental, labor, or intellectual property rights; or (d) harm to property,
+communities, or the environment.
+
+Artificial Intelligence
+Index Report 2025
+Chapter 3: Responsible AI
+3.3 RAI in Organizations and Businesses
+When asked about the impact RAI policies have had in their organizations, 42% reported improving business operations, such as
+improving efficiency and lowering costs, and 34% reported increasing customer trust (Figure 3.3.6). Only 17% of organizations
+feel that the results have had no significant impact.
+Impact of responsible AI policies in organizations, 2024
+Source: McKinsey & Company Survey, 2024 | Chart: 2025 AI Index report
+Improved business operations
+42%
+(e.g., e�ciency, lower costs)
+Increased customer trust 34%
+Enhanced brand reputation 29%
+Improved business outcomes
+28%
+(e.g., revenue)
+Decrease in number of incidents 22%
+Faster time-to-market 18%
+No signi�cant impact 17%
+Slower time-to-market 12%
+0% 5% 10% 15% 20% 25% 30% 35% 40%
+% of respondents
+Figure 3.3.64
+4 Data for respondents who selected “have not implemented” is excluded. Percentages are based only on those who chose at least one other answer. The “None” response option is not shown.
+Chapter 3 Preview 18
+
+Artificial Intelligence
+Index Report 2025
+Chapter 3: Responsible AI
+3.3 RAI in Organizations and Businesses
+Figure 3.3.7 reports the main obstacles organizations noted key challenges. Encouragingly, only 16% reported a lack of
+to implementing RAI measures. Respondents primarily cited executive support as a barrier, suggesting that leadership
+knowledge and training gaps (51%), resource or budget buy-in is not a major impediment to RAI adoption.
+constraints (45%), and regulatory uncertainty (40%) as
+Main obstacles to the implementation of responsible AI measures, 2024
+Source: McKinsey & Company Survey, 2024 | Chart: 2025 AI Index report
+Knowledge and training gaps 51%
+Resource or budget constraints 45%
+Regulatory uncertainty 40%
+Technical limitations 32%
+Organizational resistance 22%
+Lack of executive support 16%
+None 3%
+Other 2%
+0% 5% 10% 15% 20% 25% 30% 35% 40% 45% 50%
+% of respondents
+Figure 3.3.75
+5 The “Unknown” response option was not shown in this visualization.
+Chapter 3 Preview 19
+
+Artificial Intelligence
+Index Report 2025
+Chapter 3: Responsible AI
+3.3 RAI in Organizations and Businesses
+Figure 3.3.8 shows the proportion of organizations (GDPR), while 41% cite the EU AI Act. Smaller proportions
+influenced by specific AI regulations in their RAI decision indicate influence from the OECD AI Principles (21%) and
+making. Among surveyed organizations, 65% report being President Biden’s Executive Order on AI.
+influenced by the EU General Data Protection Regulation
+Percentage of organizations in uenced by AI regulations in responsible AI decision making
+Source: McKinsey & Company Survey, 2024 | Chart: 2025 AI Index report
+EU General Data Protection
+65%
+Regulation (GDPR)
+EU AI Act 41%
+OECD AI Principles 21%
+US Presidential
+19%
+Executive Order on AI
+None of the these/no change 17%
+0% 5% 10% 15% 20% 25% 30% 35% 40% 45% 50% 55% 60% 65%
+% of organizations
+Figure 3.3.8
+Chapter 3 Preview 20
+
+Artificial Intelligence
+Index Report 2025
+Chapter 3: Responsible AI
+3.3 RAI in Organizations and Businesses
+Highlight:
+Longitudinal Perspective
+In collaboration with Accenture, this year a team of Figure 3.3.9 presents the types of incidents reported by
+Stanford researchers ran the Global State of Responsible organizations in the RAI survey. The most common issues—
+AI survey, the second iteration of the inaugural survey adversarial attacks and privacy violations—underscore
+launched in 2024. Responses from 1,500 organizations, the urgent need for organizations to prioritize AI system
+each with revenues of at least $500 million, were collected security and robust data governance. Additionally, with
+from 20 countries and 19 industries in January–February 51% of respondents reporting unintended decision making
+2025.6 The objective of the survey was to gain an and 47% citing model bias, there is ample evidence that
+understanding of the challenges of adopting RAI principles many organizations are struggling to anticipate and control
+and practices and to provide a comparison of RAI activities AI behavior—an especially troubling challenge in high-
+across 10 dimensions over time. Because the RAI survey stakes environments.
+was conducted in both 2024 and 2025, the data enables
+a comparison of how organizational perspectives on RAI
+adoption have evolved over time.
+Adversarial attack 56%
+Privacy violation 55%
+Unintended decision making 51%
+Model bias 47%
+Performance failure 46%
+0% 10% 20% 30% 40% 50%
+% of respondents
+6 Details about the survey methodology can be found in Reuel et al. (2024).
+Chapter 3 Preview 21
+epyt
+tnedicnI
+AI-related types of incidents reported by organizations in the past two years
+Source: Accenture/Stanford Joint Survey, 2025 | Chart: 2025 AI Index report
+Figure 3.3.9
+
+Artificial Intelligence
+Index Report 2025
+Chapter 3: Responsible AI
+3.3 RAI in Organizations and Businesses
+Highlight:
+Longitudinal Perspective (cont’d)
+Given their AI adoption strategy—whether, for instance, concerned in recent years about certain risks—most
+they develop, deploy, or use generative or nongenerative notably, financial risks (+38 percentage points), brand and
+AI—respondents were asked which risks were relevant reputational risks (+16), privacy and data-related risks (+15),
+to their organization. They were presented with a list of and reliability risks (+14). Conversely, some risks are now
+14 risks and could select all that applied to them (Figure considered less pressing, including societal risks (-7) and
+3.3.10).7 Companies have grown significantly more socio-environmental risks (-8).
+Privacy and data-related risks (e.g.,
+reidenti cation of anonymized data, 65%
+data leakage, use of data without 51%
+consent)
+Reliability risks (e.g., output errors, 59%
+hallucinations) 45%
+Compliance and lawfulness risks (e.g., 56%
+IP or copyright violations) 29%
+Security risks (e.g., adversarial attacks, 52%
+model theft) 47%
+Financial risks (e.g., lack of AI-related 50%
+ROI, AI-related nancial loss) 12%
+Brand/reputational risks (e.g., 42%
+damage caused to brand by AI-related incident) 26%
+Human interaction risks (e.g., misuse by users
+for the generation of deepfakes or misinformation, 40%
+overreliance of users on AI models/systems, or 35%
+physical/mental harm due to model/system usage)
+Diversity and nondiscrimination risks (e.g., 35%
+fairness concerns, toxicity, discrimination,
+and stereotype reproduction) 29%
+Client/customer risks (e.g., loss of trust, 32%
+market share, or customer satisfaction) 34%
+Societal risks (e.g., threats to political 26%
+stability, national security concerns) 33%
+Socio-environmental risks (e.g., high 22% 2025
+
+carbon footprint of systems, regional pollution) 30%
+0% 10% 20% 30% 40% 50% 60%
+% of respondents
+7 The full list of risks can be found in the corresponding paper.
+Chapter 3 Preview 22
+yrogetac
+ksiR
+Relevance of selected responsible AI risks for organizations, 2024 vs. 2025
+Source: Accenture/Stanford Joint Survey, 2025 | Chart: 2025 AI Index report
+Figure 3.3.10
+
+Artificial Intelligence
+Index Report 2025
+Chapter 3: Responsible AI
+3.3 RAI in Organizations and Businesses
+Highlight:
+Longitudinal Perspective (cont’d)
+The definitions of organizational and operational
+maturity are highlighted in Figure 3.3.11. Between
+2024 and 2025, organizational RAI maturity
+advanced notably, with more companies
+securing CEO support for RAI initiatives and
+improving AI risk identification, monitoring,
+and control—signaling a stronger recognition
+of RAI’s strategic importance (Figure 3.3.12).8 In
+contrast, operational RAI maturity—focused on
+practical, system-level safeguards such as bias
+reduction, adversarial testing, and environmental
+impact measurement—lagged behind (Figure
+3.3.13). This gap highlights a disconnect between
+high-level RAI commitments and their technical
+implementation. While organizations are
+increasingly equipped and motivated to embed
+RAI into processes and policies, translating that
+intent into effective system-level risk mitigation
+remains a persistent challenge
+18%
+
+16%
+14%
+12%
+10%
+8%
+6%
+4%
+2%
+0%
+0 25 50 75 100
+Maturity score
+8 Organizational and operational RAI maturity were calculated as defined in Reuel et al. (2024).
+Chapter 3 Preview 23
+snoitazinagro
+fo
+%
+Organizational responsible AI maturity distribution,
+2024 vs. 2025
+Source: Accenture/Stanford Joint Survey, 2025 | Chart: 2025 AI Index report
+
+14%
+12%
+10%
+8%
+6%
+4%
+2%
+0%
+0 25 50 75 100
+Maturity score
+snoitazinagro
+fo
+%
+Organizational and operational maturity model
+Source: Reuel et al., 2024
+Figure 3.3.11
+Operational responsible AI maturity distribution,
+2024 vs. 2025
+Source: Accenture/Stanford Joint Survey, 2025 | Chart: 2025 AI Index report
+Figure 3.3.12 Figure 3.3.13
+
+Artificial Intelligence
+Index Report 2025
+Chapter 3: Responsible AI
+3.3 RAI in Organizations and Businesses
+Highlight:
+Longitudinal Perspective (cont’d)
+Respondents were also asked about their organization’s industry lacks a unified strategic direction on RAI—likely
+attitudes and philosophies toward RAI, including views on a reflection of ongoing debates and unresolved questions
+risk ownership, model preferences, and policy positions among experts. The one clear exception is the trade-off
+(Figure 3.3.14). Across nearly all statements, responses between safety and innovation: 64% of respondents lean
+were fairly evenly split, even on high-profile issues such toward a safety-first approach, and yet 58% are exploring
+as the safety of open- versus closed-weight models, and minimally supervised agents, which may introduce
+whether responsibility for risk mitigation lies with model significant risks—particularly given the current limitations
+providers or users. This broad distribution suggests that in RAI maturity.
+Aligns completely with the rst statement Aligns somewhat with the second statement
+Aligns somewhat with the rst statement Aligns completely with the second statement
+“Innovate rst, regulate later”/
+13% 23% 30% 34%
+“Safety rst, prevent future potential risks”
+“Responsible AI is a compliance issue”/
+17% 28% 33% 21%
+“Responsible AI is a value driver for unlocking potential”
+“RAI risks are industry-speci c”/
+18% 37% 30% 16%
+“RAI risks are industry-agnostic”
+“GenAI risks are the responsibility of foundation model providers”/
+20% 33% 31% 16%
+“GenAI risks are the responsibility of GenAI users”
+“Closed-source models are safer”/
+18% 32% 29% 21%
+“Open-source models are safer”
+“Actively exploring minimally supervised AI agents”/
+21% 37% 29% 13%
+“Agents are currently too risky for large-scale adoption”
+0% 20% 40% 60% 80% 100%
+% of respondents
+Chapter 3 Preview 24
+riap
+tnemetatS
+Organizational attitudes and philosophies surrounding responsible AI
+Source: Accenture/Stanford Joint Survey, 2025 | Chart: 2025 AI Index report
+Figure 3.3.14
+
+Artificial Intelligence
+Index Report 2025
+3.4 RAI in Academia
+For this year’s report, the AI Index analyzed the number of Aggregate Trends
+responsible AI-related papers accepted at six leading AI The number of RAI papers accepted at leading AI conferences
+conferences: AAAI, AIES, FAccT, ICML, ICLR, and NeurIPS. rose by 28.8%, from 992 in 2023 to 1,278 in 2024 (Figure
+While these conferences do not represent all responsible AI 3.4.1).
+research globally, they provide insight into publication trends
+among AI academics. This section presents aggregate trends
+in AI publications, with subsequent sections breaking them
+down by RAI subtopics. In order to identify RAI papers, the AI
+Index selected papers that contained certain RAI keywords.9
+1,278
+1,200
+
+1,000
+
+2019 2020 2021 2022 2023 2024
+Figure 3.4.1
+Chapter 3 Preview 25
+srepap
+IAR
+fo
+rebmuN
+Chapter 3: Responsible AI
+3.4 RAI in Academia
+Number of responsible AI papers accepted at select AI conferences, 2019–24
+Source: AI Index, 2025 | Chart: 2025 AI Index report
+9 A full methodological description of this approach can be found in the Appendix.
+
+Artificial Intelligence
+Index Report 2025
+Proportionally, the conferences with the highest share of transparency, while AIES centers on AI ethics and society. At
+accepted RAI papers relative to total submissions were FAccT NeurIPS, the proportion decreased from 13.8% in 2023 to
+(69.14%) and AIES (63.33%) (Figure 3.4.2). This aligns with 9.0% in 2024, while at ICML, it rose from 3.4% to 8.2% over
+their focus: FAccT is dedicated to fairness, accountability, and the same period.
+70%
+60%
+50%
+40%
+30%
+20%
+10%
+0%
+2019 2020 2021 2022 2023 2024
+Figure 3.4.2
+Chapter 3 Preview 26
+)latot
+fo
+%(
+srepap
+IAR
+Chapter 3: Responsible AI
+3.4 RAI in Academia
+Responsible AI papers accepted (% of total) at select AI conferences by conference, 2019–24
+Source: AI Index, 2025 | Chart: 2025 AI Index report
+69.14%, FAccT
+63.33%, AIES
+13.36%, AAAI
+9.02%, NeurIPS
+8.24%, ICML
+7.56%, ICLR
+
+Artificial Intelligence
+Index Report 2025
+Figures 3.4.3 through 3.4.5 examine the geographic affiliation an increasingly significant academic focus. Since 2019,
+of RAI papers, highlighting where these papers originate. the overall geographic distribution of RAI publications
+In 2024, the United States led in RAI paper submissions has remained relatively consistent, with the United States
+with 669, followed by China with 268 and Germany with accounting for the most (3,158), followed by China (1,100) and
+80. Across major geographic regions, RAI has become the United Kingdom (485).
+Number of responsible AI papers accepted at select
+AI conferences by geographic area, 2024
+Source: AI Index, 2025 | Chart: 2025 AI Index report
+United States 669
+
+China 268
+Germany 80 600
+United Kingdom 67
+
+Canada 55
+
+Hong Kong 46
+India 42 300
+Figure 3.4.3
+Singapore 39
+
+Japan 36
+
+Netherlands 31
+0 200 400 600
+2019 2020 2021 2022 2023 2024
+Number of RAI papers
+Figure 3.4.3 Figure 3.4.4
+Number of responsible AI papers accepted at select AI conferences by geographic area, 2019–24 (sum)
+Source: AI Index, 2025 | Chart: 2025 AI Index report
+1–10
+11–50
+51–150
+151–500
+501–2,000
+Figure 3.4.5
+2,001–3,200
+Chapter 3 Preview 27
+srepap
+IAR
+fo
+rebmuN
+Chapter 3: Responsible AI
+3.4 RAI in Academia
+Number of responsible AI papers accepted at select
+AI conferences by select geographic area, 2019–24
+Source: AI Index, 2025 | Chart: 2025 AI Index report
+669, United States
+298, Europe
+268, China
+
+Artificial Intelligence
+Index Report 2025
+NeurIPS ICML ICLR FAccT AIES AAAI 213
+
+124 21
+
+100 92
+
+50 97 105
+
+2019 2020 2021 2022 2023 2024
+Chapter 3 Preview 28
+srepap
+ecnanrevog
+atad
+dna
+ycavirp
+IA
+fo
+rebmuN
+Chapter 3: Responsible AI
+3.4 RAI in Academia
+Topic Area
+This section examines trends in RAI publications spanning key Over the past year, the number of accepted papers on privacy
+topics: privacy and data governance, fairness, transparency and data governance topics decreased by 14.5% at select AI
+and explainability, and security and safety. conferences (Figure 3.4.6). Since 2019, this figure has risen
+nearly fivefold.
+AI privacy and data governance papers accepted at select AI conferences, 2019–24
+Source: AI Index, 2025 | Chart: 2025 AI Index report
+Figure 3.4.610
+10 These figures likely underestimate the total number of AI privacy papers, as some are published in AI-focused conferences dedicated to privacy, such as the 46th IEEE Symposium on
+Security and Privacy.
+
+Artificial Intelligence
+Index Report 2025
+NeurIPS ICML ICLR FAccT AIES AAAI 408
+
+212 83
+
+150 150 29 33 50
+
+100 98 27 65 44
+27 75
+57 39 27
+50 36
+
+29 34
+
+2019 2020 2021 2022 2023 2024
+Chapter 3 Preview 29
+srepap
+saib
+dna
+ssenriaf
+IA
+fo rebmuN
+Chapter 3: Responsible AI
+3.4 RAI in Academia
+In 2024, the number of fairness and bias papers accepted at select AI conferences saw a significant increase, reaching 408—
+roughly two times the 2023 figure (Figure 3.4.7). This growth highlights the increasing academic interest in fairness and bias
+among researchers.
+AI fairness and bias papers accepted at select AI conferences, 2019–24
+Source: AI Index, 2025 | Chart: 2025 AI Index report
+Figure 3.4.7
+
+Artificial Intelligence
+Index Report 2025
+400 NeurIPS ICML ICLR FAccT AIES AAAI 393
+54 355
+
+46 98
+
+250 56
+231 35
+200 189 44 44 50
+
+150 42 35
+
+100 89 30 24 183
+
+89 83
+54 63
+
+2019 2020 2021 2022 2023 2024
+Chapter 3 Preview 30
+srepap
+ytilibanialpxe
+dna
+ycnerapsnart
+IA
+fo
+rebmuN
+Chapter 3: Responsible AI
+3.4 RAI in Academia
+Since 2019, the number of papers on transparency and explainability submitted to major academic conferences has increased by
+a factor of four. In 2024, there were 355 transparency and explainability–related submissions at academic conferences including
+AAAI, FAccT, AIES, ICML, ICLR, and NeurIPS (Figure 3.4.8).
+AI transparency and explainability papers accepted at select AI conferences, 2019–24
+Source: AI Index, 2025 | Chart: 2025 AI Index report
+Figure 3.4.8
+
+Artificial Intelligence
+Index Report 2025
+The number of security and safety submissions to select AI conferences has sharply increased, almost doubling in the past
+year—from 276 to 521 (Figure 3.4.9). This growth reflects the increasing prominence of security and safety as a key focus for
+responsible AI researchers.
+NeurIPS ICML ICLR FAccT AIES AAAI 521
+
+300 285
+
+215 100
+
+162 168 75 41
+
+65 77
+100 32 51
+
+41 152
+
+71 33 88
+
+2019 2020 2021 2022 2023 2024
+Chapter 3 Preview 31
+srepap
+ytefas
+dna
+ytiruces
+IA
+fo
+rebmuN
+Chapter 3: Responsible AI
+3.4 RAI in Academia
+AI security and safety papers accepted at select AI conferences, 2019–24
+Source: AI Index, 2025 | Chart: 2025 AI Index report
+Figure 3.4.9
+
+Artificial Intelligence
+Index Report 2025
+Chapter 3: Responsible AI
+3.5 RAI Policymaking
+3.5 RAI Policymaking
+While 2023 and early 2024 saw a proliferation of national sought to establish global frameworks for responsible and
+AI strategies and regulatory approaches, a notable trend in ethical AI. These efforts signal a shift toward coordinated
+2024 was the increased global cooperation on AI governance, global action rather than isolated national initiatives. Figure
+especially around legislating principles pertaining to responsible 3.5.1 highlights several significant international policymaking
+AI. International bodies and multilateral agreements have initiatives or dialogues on RAI that were recently launched.11
+Notable RAI policymaking milestones
+Source: AI Index, 2025
+Date Stakeholders Scope Description
+ OECD Global The OECD updated its AI principles and refined its framework to reflect the latest
+advancements in AI governance. These principles emphasized building AI systems that take
+into account inclusive growth, transparency, and explainability, as well as respect for the rule
+of law, human rights, and democratic values.
+ Council of Europe The Council of Europe adopted a legally binding AI treaty (The Council of Europe Framework
+Europe Convention on Artificial Intelligence and Human Rights, Democracy, and the Rule of Law). This
+treaty was drafted to ensure that the activities within the life cycle of AI systems completely
+align with human rights, democracy, and the rule of law.
+Jun 2024 European Union Europe The EU passed the AI Act (EU AI Act), the first comprehensive regulatory framework for AI
+in a major global economy. The act categorizes AI by risk, regulating them accordingly and
+ensuring that providers—or developers—of high-risk systems bear most of the obligations.
+Jul 2024 African Union Africa The African Union launched its Continental AI Strategy (AU AI Strategy), outlining a unified
+vision for AI development, ethics, and governance across the continent. The strategy
+emphasizes the ethical, responsible, and equitable development of AI within Africa.
+Sep 2024 United Nations Global The United Nations updated its Governing AI for Humanity report (U.N. AI Advisory Body),
+outlining efforts to establish global AI governance mechanisms. The report recommends
+developing a blueprint to address AI-related risks and calls on national and international
+standards organizations, technology companies, civil society, and policymakers to collaborate
+on AI standards.
+Oct 2024 G7 Global The G7 Digital Competition Communiqué (G7 AI Cooperation) reaffirmed commitments to
+fair and open AI markets, stressing the need for coordinated regulatory approaches. Previous
+discussions focused on competition and the regulatory challenges posed by AI’s rapid growth.
+Oct 2024 ASEAN and US Asia Following the 12th ASEAN-United States Summit, ASEAN-U.S. leaders issued a statement
+and US on promoting safe, secure, and trustworthy AI. They committed to cooperating on the
+development of international AI governance frameworks and standards to advance these goals.
+Nov 2024 International Global The first International Network of AI Safety Institutes was established, bringing together
+Network of AI nine countries and the EU to formalize global AI safety cooperation. The network unites
+Safety Institutes technical organizations committed to advancing AI safety, helping governments and societies
+understand the risks of advanced AI systems, and proposing solutions.
+Feb 2025 Arab League Arab The Arab Dialogue Circle on “Artificial Intelligence in the Arab World: Innovative Applications
+Nations and Ethical Challenges” launched at the Arab League headquarters, focusing on AI innovations
+while placing a strong emphasis on ethical considerations.
+Figure 3.5.1
+11 While AI policymaking is the focus of Chapter 6: Policy and Governance, the AI Index highlights key RAI-related policymaking events here due to their recent significance.
+Chapter 3 Preview 32
+
+Artificial Intelligence
+Index Report 2025
+Data Provenance GitHub Hugging Face Papers with Code
+3,230
+3,000
+2,500 2,404 2,438
+2,030
+2,000
+1,500
+1,279
+1,000
+843 828
+
+500 367
+
+0 1 45 0 75
+
+Academic-only Commercial Noncommercial Unspeci ed
+License category
+Chapter 3 Preview 33
+stesatad
+fo
+rebmuN
+Chapter 3: Responsible AI
+3.6 Privacy and Data Governance
+3.6 Privacy and Data Governance
+A comprehensive definition of privacy is difficult and context- important for ensuring that the data used for training and
+dependent. For the purposes of this report, the AI Index defines operating AI systems is accurate, fair, and used responsibly
+privacy as an individual’s right to the confidentiality, anonymity, and with consent. This is especially the case with sensitive or
+and protection of their personal data, along with their right personally identifiable information (PII).
+to consent to and be informed about if and how their data is
+Featured Research
+used. Privacy further includes an organization’s responsibility
+to ensure these rights if they collect, store, or use personal This section highlights significant recent research on privacy
+data (directly or indirectly). Moreover, individuals should have and data governance, including studies on auditing dataset
+the right to correct their sensitive information if organizations licensing and attribution, as well as research on stricter data
+or governments have misrepresented this information. In consent protocols.
+AI, this involves ensuring that personal data is handled in a
+way that respects individual privacy rights—for example, by Large-Scale Audit of Dataset Licensing and
+implementing measures to protect sensitive information from Attribution in AI
+exposure, and ensuring that data collection and processing are Current foundation models are being trained on massive
+transparent and compliant with privacy laws like GDPR. amounts of data. A team of researchers conducted a large-
+scale audit of over 1,800 text datasets widely used for training
+Data governance, on the other hand, encompasses policies, such models and uncovered systemic issues in dataset
+procedures, and standards established by an organization licensing and attribution. The researchers found that more
+to ensure the quality, security, and ethical use of data within than 70% of datasets on popular dataset hosting sites lacked
+and outside of the organization where it was created. Data adequate license information, while 50% of the licenses were
+governance policies may also cover data acquired from miscategorized, which poses risks for the responsible usage of
+external sources. In the context of AI, data governance is that data. Figure 3.6.1 provides a detailed visualization of the
+Accuracy of dataset license classi cations by select aggregators
+Source: Longpre et al., 2025 | Chart: 2025 AI Index report
+Figure 3.6.1
+
+Artificial Intelligence
+Index Report 2025
+Chapter 3: Responsible AI
+3.6 Privacy and Data Governance
+researchers’ findings. Specifically, they assigned license labels of websites with robots.txt restrictions, terms-of-service
+to datasets across four categories: commercial, unspecified, restrictions, and organizational restrictions over time.12 For
+noncommercial, and academic-only. They then compared example, the proportion of tokens in the top C4 web domains
+their classifications with those from popular sources such as with full restrictions increased from 10% in 2017 to 48% in
+GitHub, Papers with Code, and Hugging Face. Oftentimes, 2024. Between 2023 and 2024 alone, this proportion rose by
+the data license attributions assigned by the data provenance 25 percentage points. Figure 3.6.3 visualizes the percentage
+team differed sharply from those issued by other organizations. of tokens in the top web domains of C4 by terms-of-service
+restriction category from 2016 to 2024. This diminishing
+License misattribution in datasets is significant because it consent is likely related to legal issues around fair use, such
+creates legal and ethical risks in AI development. If datasets as the New York Times lawsuit against OpenAI.
+used to train foundation models are mislabeled or misattributed,
+AI developers may unknowingly violate copyright laws, data OpenAI’s crawlers encounter the highest level of restrictions,
+usage policies, or privacy regulations. This can lead to legal while smaller developers face fewer barriers. The authors
+liabilities, challenges in ensuring fair compensation for data highlight inconsistencies in enforcement, driven by ineffective
+creators, and potential biases in models due to the exclusion signaling mechanisms like robots.txt and mismatches between
+of properly licensed data. Additionally, unclear licensing can stated and enforced policies. These findings highlight the
+hinder transparency, accountability, and reproducibility in need for updated consent protocols that address AI-specific
+AI research, which can make it difficult for researchers and challenges. Additionally, the study suggests a decline in publicly
+organizations to verify or audit model training data. Based available web data for AI training, with potential consequences
+on their findings, the authors highlight the need for clear for data diversity, model alignment, and scalability. Many recent
+documentation, improved standards, and responsible licensing AI performance gains stem from training on increasingly large
+practices to foster inclusivity and mitigate risks that stem from datasets. If websites become significantly more restrictive, it
+irresponsible or unlawful data uses in AI development and could hinder future model scaling.
+deployment.
+Data Consent in Crisis
+AI models rely heavily on massive, publicly available web data
+for training. A recent study conducted a longitudinal audit
+of consent protocols for web domains used in AI training
+datasets, including C4, RefinedWeb, and Dolma, analyzing
+14,000 web domains. These consent protocols define the
+permissibility of data scraping for AI model training.
+The researchers observed a significant increase in data use
+restrictions between 2023 and 2024, as many websites
+implemented new protocols to limit data scraping for AI
+training. These restrictions were primarily enforced through
+updates to robots.txt files and terms of service, explicitly
+prohibiting AI training use. Figure 3.6.2 shows the proportion
+12 A robots.txt restriction refers to a rule set in a website’s robots.txt file that instructs web crawlers (such as search engine bots or AI data scrapers) on which parts of the site they are allowed
+or forbidden to access.
+Chapter 3 Preview 34
+
+Artificial Intelligence
+Index Report 2025
+Chapter 3: Responsible AI
+3.6 Privacy and Data Governance
+No scraping and AI No scraping Noncommercial use only Noncompete No redistribution Unrestricted use
+100%
+90%
+80% 39% 36% 40% 35% 41% 39% 39% 38% 36%
+70%
+60%
+50% 12% 14% 12% 16% 11% 12% 14% 14% 12%
+40%
+30%
+36%
+20% 41% 44% 39% 43% 41% 42% 41% 36%
+10%
+6% 8%
+0%
+2016 2017 2018 2019 2020 2021 2022 2023 2024
+Chapter 3 Preview 35
+snekot
+fo
+%
+Full restrictions Pattern-based restrictions Disallow private directories Other restrictions
+Crawl delay speci ed Sitemap provided No restrictions or sitemap
+100%
+90%
+25%
+80%
+36%
+70% 44% 44% 43%
+47% 47% 46% 44%
+6%
+60%
+15%
+7%
+50%
+7% 7% 7%
+40% 5% 7% 7% 7%
+27%
+30%
+27% 27% 29% 29% 31% 30% 30% 48%
+20%
+10% 23%
+12% 10% 9% 10% 10% 11% 12%
+0%
+2016 2017 2018 2019 2020 2021 2022 2023 2024
+Percentage of tokens in the top web domains of C4 by terms of service restriction category, 2016–24
+Source: Longpre et al., 2025 | Chart: 2025 AI Index report
+Figure 3.6.3
+snekot
+fo
+%
+Percentage of tokens in the top web domains of C4 by robots.txt restriction category, 2016–24
+Source: Longpre et al., 2025 | Chart: 2025 AI Index report
+Figure 3.6.2
+
+Artificial Intelligence
+Index Report 2025
+Chapter 3: Responsible AI
+3.7 Fairness and Bias
+Fairness in AI emphasizes developing systems that are
+equitable and avoid perpetuating bias or discrimination
+against any individual or group. It involves considering the
+diverse needs and circumstances of all stakeholders impacted
+by AI use. Fairness extends beyond a technical concept and
+embodies broader social standards related to equity.
+3.7 Fairness and Bias
+Featured Research
+This section highlights research on the impact of racial in the larger ViT-L models, Black and Latino men were
+classification in multimodal models and the measurement of disproportionately classified as criminals, with classification
+implicit bias in explicitly unbiased LLMs. probabilities increasing by up to 69% as dataset size grew
+from 400 million to 2 billion samples. Figure 3.7.1 displays
+Racial Classification in Multimodal Models various images alongside the model’s classification scores
+Recently, researchers have explored how dataset scaling for whether a face was identified as a criminal.
+affects racial and gender biases in vision-language models
+(VLMs). Evaluating 14 VLMs trained on LAION-400M and Figure 3.7.2 illustrates how the probability of a face being
+LAION-2B (popular datasets for training vision-language assigned a specific label (such as animal or criminal) changes
+models) using the Chicago Face Dataset (CFD), the study by demographic group across various models (the smaller
+found that while models trained on larger datasets improve ViT-B-16 and ViT-B-32 with the larger ViT-L-14) as the
+human classification—reducing misidentification of pretrained dataset scales from 400 million to 2 billion images.
+nonhuman entities like gorillas or orangutans—they also A higher percentage indicates a greater likelihood of a
+amplify racial biases, especially in larger models. For instance, demographic group being associated with a particular label,
+Faces and their likelihood of being classified as “criminal” by model and dataset sizes
+Source: Birhane et al., 2024
+Figure 3.7.1
+Chapter 3 Preview 36
+
+Artificial Intelligence
+Index Report 2025
+Chapter 3: Responsible AI
+3.7 Fairness and Bias
+while a lower percentage signifies a lesser likelihood. In the when it comes to vision models, scaling may also introduce
+larger model, ViT-L, increasing the training data consistently other unintended bias problems. The authors suggest that
+raises the likelihood of an image being classified as a criminal. stereotypes in the training data may explain these results.
+This finding is significant, as many model developers have To address this bias, they advocate for transparent dataset
+sought to aggressively scale their models in an attempt to drive curation, detailed hyperparameter documentation, and open
+performance improvements. The researchers suggest that access for independent audits.
+Figure 3.7.213
+13 The y-axis labels represent different ethnic groups: Black male (BM), Black female (BF), Latino male (LM), Latina female (LF), white male (WM), white female (WF), Asian male (AM), and
+Asian female (AF).
+Chapter 3 Preview 37
+
+Artificial Intelligence
+Index Report 2025
+Chapter 3: Responsible AI
+3.7 Fairness and Bias
+Measuring Implicit Bias in Explicitly Unbiased LLMs biases that align with societal stereotypes. Figure 3.7.4 presents
+In 2024, a team of researchers investigated implicit biases in the implicit bias scores of various LLMs across different
+LLMs, particularly in those explicitly designed to be unbiased. stereotype categories.14 A score significantly above or below
+This research is important, as efforts to mitigate bias in LLMs 50% indicates a bias toward or against a particular group.
+may still not sufficiently solve issues of implicit bias. Figure
+3.7.3 illustrates an example of this phenomenon. Figure 3.7.4 suggests that LLMs disproportionately associate
+negative terms with Black individuals and are more likely
+The study’s authors make two key contributions. First, they to associate women with humanities over STEM fields.
+introduce two new methods for detecting bias in LLMs: LLM The research also finds that LLMs favor men for leadership
+Implicit Bias, which identifies subtle biases by analyzing roles, reinforcing gender biases in decision-making contexts.
+automatic associations between words or concepts, and Additionally, the study reveals that as models scale, implicit
+LLM Decision Bias, which captures model behaviors that biases increase, though decision bias and rejection rates
+reflect these implicit biases. Second, they investigate relative do not. This finding is significant, as it indicates that while
+discriminatory patterns in decision-making tasks. Applying bias appears to have decreased on standard benchmarks—
+their methods to eight notable models—including GPT-4 and creating an illusion of neutrality—implicit biases remain
+Claude 3 Sonnet—across 21 stereotype categories (e.g., race, pervasive, potentially leading to subtle yet meaningful
+gender, religion, and health), they uncover systemic implicit discriminatory outputs.
+Example of implicit bias in LLMs
+Source: Bai et al., 2024
+Figure 3.7.3
+14 This research examines both implicit and decision bias; however, only implicit bias is documented here for concision. Decision bias, for reference, is defined as a model’s bias relative to an
+unbiased baseline of 50%.
+Chapter 3 Preview 38
+
+Artificial Intelligence
+Index Report 2025
+Chapter 3 Preview 39
+msicar tliug enot
+niks
+nopaew kcalb cinapsih naisa bara hsilgne reerac ecneics rewop ytilauxes malsi msiaduj msihddub ytilibasid thgiew ega lli
+latnem
+gnitae
+1.00
+0.50
+0.00
+−0.50
+−1.00
+msicar tliug enot
+niks
+nopaew kcalb cinapsih naisa bara hsilgne reerac ecneics rewop ytilauxes malsi msiaduj msihddub ytilibasid thgiew ega lli
+latnem
+gnitae
+1.00
+0.50
+0.00
+−0.50
+−1.00
+msicar tliug enot
+niks
+nopaew kcalb cinapsih naisa bara hsilgne reerac ecneics rewop ytilauxes malsi msiaduj msihddub ytilibasid thgiew ega lli
+latnem
+gnitae
+1.00
+0.50
+0.00
+−0.50
+−1.00
+msicar tliug enot
+niks
+nopaew kcalb cinapsih naisa bara hsilgne reerac ecneics rewop ytilauxes malsi msiaduj msihddub ytilibasid thgiew ega lli
+latnem
+gnitae
+1.00
+0.50
+0.00
+−0.50
+−1.00
+msicar tliug enot
+niks
+nopaew kcalb cinapsih naisa bara hsilgne reerac ecneics rewop ytilauxes malsi msiaduj msihddub ytilibasid thgiew ega lli
+latnem
+gnitae
+1.00
+0.50
+0.00
+−0.50
+−1.00
+msicar tliug enot
+niks
+nopaew kcalb cinapsih naisa bara hsilgne reerac ecneics rewop ytilauxes malsi msiaduj msihddub ytilibasid thgiew ega lli
+latnem
+gnitae
+1.00
+0.50
+0.00
+−0.50
+−1.00
+msicar tliug enot
+niks
+nopaew kcalb cinapsih naisa bara hsilgne reerac ecneics rewop ytilauxes malsi msiaduj msihddub ytilibasid thgiew ega lli
+latnem
+gnitae
+1.00
+0.50
+0.00
+−0.50
+−1.00
+msicar tliug enot
+niks
+nopaew kcalb cinapsih naisa bara hsilgne reerac ecneics rewop ytilauxes malsi msiaduj msihddub ytilibasid thgiew ega lli
+latnem
+gnitae
+Race Gender Religion Health
+1.00
+0.50
+0.00
+−0.50
+−1.00
+saib
+ticilpmI
+saib
+ticilpmI
+saib
+ticilpmI
+saib
+ticilpmI
+saib
+ticilpmI
+saib
+ticilpmI
+saib
+ticilpmI
+saib
+ticilpmI
+Chapter 3: Responsible AI
+3.7 Fairness and Bias
+LLMs implicit bias across stereotypes in four social categories
+Source: Bai et al., 2024 | Chart: 2025 AI Index report
+GPT-4 GPT-3.5 Turbo
+Claude 3 Opus Claude 3 Sonnet
+Llama 2 Chat 70B Llama 2 Chat 13B
+Llama 2 Chat 7B Alpaca 7B
+Figure 3.7.4
+
+Artificial Intelligence
+Index Report 2025
+Chapter 3: Responsible AI
+3.8 Transparency and Explainability
+Transparency in AI encompasses several
+aspects. Data and model transparency
+involve the open sharing of development
+choices, including data sources and
+algorithmic decisions. Operational 3.8 Transparency and
+transparency details how AI systems
+are deployed, monitored, and managed
+Explainability
+in practice. While explainability often
+falls under the umbrella of transparency,
+providing insights into the AI’s decision-
+Featured Research
+making process, it is sometimes treated
+as a distinct category. This distinction
+underscores the importance of AI Foundation Model Transparency Index v1.1
+being not only transparent but also
+The Foundation Model Transparency Index v1.1 is the second iteration of a Stanford-
+understandable to users and stakeholders.
+For the purposes of this chapter, the led project tracking transparency in model development and deployment. It
+AI Index includes explainability within evaluates major AI model developers across three dimensions: upstream, covering
+transparency, defining it as the capacity to
+components like data and compute used for training; the model itself, referring to
+comprehend and articulate the rationale
+the core AI system; and downstream, encompassing applications and deployments.
+behind AI decisions.
+The latest edition reports a notable rise in transparency among foundation model
+developers over six months. Figure 3.8.1 reports the FMTI scores for major model
+developers in the release of the index, and Figure 3.8.2 reports scores
+across major dimensions of transparency for each developer.
+Foundation Model Transparency Index Scores by Domain, 
+Source: Foundation Model Transparency Index
+StarCoder 85
+Luminous 75
+Jurassic-2 75
+Granite 64
+Phi-2 62
+Llama 2 60
+Stable Video Di usion 58
+Palmyra-X 56
+Mistral 7B 55
+Claude 3 51
+GPT-4 49
+Upstream
+Gemini 1.0 Ultra 47
+Model
+Titan Text Express 42 Downstream
+Fuyu-8B 33
+0 10 20 30 40 50 60 70 80 90 100
+Score
+Figure 3.8.1
+Chapter 3 Preview 40
+
+Artificial Intelligence
+Index Report 2025
+Compared to the inaugural v1.0 index from , downstream impact. Open-source developers outperformed
+which recorded an average transparency score of 37 out of closed-source counterparts on upstream transparency,
+100, v1.1 saw scores increase to 58 out of 100, largely due particularly in data and labor disclosures. Projects like
+to developers disclosing previously nonpublic data through the FMTI are valuable in that they provide a longitudinal
+submitted reports. Developers improved their scores across perspective on the state of transparency in the AI ecosystem.
+89 of 100 transparency indicators, yet significant opacity At the moment, the findings suggest that transparency is
+remains in areas such as data access, copyright status, and improving.
+Titan Text Gemini 1.0 Stable Video
+Fuyu-8B Jurassic-2 Luminous Express Claude 3 StarCoder Ultra Granite Llama 2 Phi-2 Mistral 7B GPT-4 Di usion Palmyra-X
+Data 0% 60% 40% 0% 10% 100% 0% 60% 40% 40% 20% 20% 40% 50%
+Labor 0% 43% 71% 14% 14% 100% 29% 43% 29% 100% 100% 14% 100% 43%
+Compute 14% 86% 100% 0% 14% 100% 14% 100% 71% 57% 14% 14% 43% 86%
+Methods 0% 100% 100% 50% 75% 100% 75% 100% 75% 100% 100% 50% 75% 100%
+Model Basics 83% 100% 100% 83% 50% 100% 83% 100% 100% 100% 100% 50% 100% 100%
+Model Access 100% 67% 100% 67% 67% 100% 67% 67% 100% 100% 100% 67% 100% 33%
+Capabilities 80% 80% 100% 80% 100% 100% 80% 60% 100% 100% 100% 100% 60% 100%
+Risks 0% 57% 57% 43% 86% 100% 43% 71% 71% 29% 14% 57% 14% 14%
+Mitigations 0% 40% 20% 20% 40% 0% 40% 80% 60% 0% 60% 60% 0% 20%
+Distribution 57% 86% 100% 57% 86% 100% 57% 86% 71% 71% 71% 71% 86% 71%
+Usage Policy 40% 100% 100% 80% 100% 100% 100% 40% 40% 100% 40% 80% 60% 80%
+Feedback 67% 100% 67% 67% 33% 100% 67% 67% 33% 67% 67% 33% 67% 33%
+Impact 29% 29% 29% 0% 14% 14% 29% 0% 14% 0% 14% 14% 14% 14%
+Chapter 3 Preview 41
+ycnerapsnarT
+fo
+snoisnemiD
+rojaM
+Chapter 3: Responsible AI
+3.8 Transparency and Explainability
+Foundation Model Transparency Index Scores by Major Dimensions of Transparency, 
+Source: Foundation Model Transparency Index
+Average
+34%
+50%
+51%
+79%
+89%
+81%
+89%
+47%
+31%
+77%
+76%
+62%
+15%
+Average 36% 73% 76% 43% 53% 86% 53% 67% 62% 66% 62% 49% 58% 57%
+Figure 3.8.215
+15 Data, labor, compute, and methods were upstream indicators; model basics, access, capabilities, risks, and mitigations were model-level indicators; and distribution, usage policy,
+feedback, and impact were downstream indicators.
+
+Artificial Intelligence
+Index Report 2025
+Chapter 3: Responsible AI
+3.9 Security and Safety
+This section explores three distinct
+aspects of security and safety. First,
+guaranteeing the integrity of AI systems
+3.9 Security and Safety
+involves protecting components such
+as algorithms, data, and infrastructure
+against external threats like cyberattacks
+Benchmarks
+or adversarial attacks. Second, safety
+involves minimizing harms stemming from
+the deliberate or inadvertent misuse of AI HELM Safety
+systems. This includes concerns such as Recently, academic institutions have taken the lead in addressing gaps in AI safety
+the development of automated hacking
+benchmark standardization. Notably, Stanford’s Center for Research on Foundation
+tools or the utilization of AI in cyberattacks.
+Models (CRFM) recently introduced HELM Safety, a benchmarking suite designed
+Lastly, safety encompasses inherent risks
+from AI systems themselves, such as to evaluate AI models against responsibility and safety metrics. HELM Safety
+reliability concerns (e.g., hallucinations) tests a wide range of recent models from nearly all major developers across
+and potential risks posed by advanced AI
+several responsible AI and safety benchmarks, including BBQ, SimpleSafetyTests,
+systems.
+HarmBench, AnthropicRedTeam, and XSTest.
+BBQ measures social bias related to protected classes under more transparent and comparable framework for assessing AI
+U.S. antidiscrimination laws, while SimpleSafetyTests assesses models’ responsible behavior.
+risks related to self-harm, physical harm, and child sexual abuse
+material. HarmBench evaluates responses to prompts involving Figure 3.9.1 presents the mean safety scores of various models
+harassment, chemical weapons production, and misinformation across all tested benchmarks, where a higher score indicates
+using red-teaming techniques. AnthropicRedTeam examines a safer model. According to the benchmark, the safest model
+how models handle adversarial conversations designed to currently is Claude 3.5 Sonnet, scoring 0.977, followed
+test harmfulness, and XSTest measures the trade-off between closely by o1 at 0.976. Over time, some models appear to be
+helpfulness and harmlessness by testing false refusals of becoming safer. For example, GPT-3.5 Turbo (0613), released
+benign prompts and compliance with subtly harmful ones. By in 2022, scored 0.853–0.123 points lower than OpenAI’s best-
+introducing a standardized approach, HELM Safety provides a performing model today.
+0.96
+Chapter 3 Preview 42
+)3160(
+obruT
+5.3-TPG
+)B76(
+tahC
+MLL keeSpeeD
+tcurtsnI
+XRBD
+)B7(
+3.0v
+tcurtsnI
+lartsiM
+R
+dnammoC
+)B7×8(
+tcurtsnI
+lartxiM
+)B07(
+obruT
+tcurtsnI
+1.3
+amalL
+)B22×8(
+tcurtsnI
+lartxiM
+sulP
+R dnammoC
+)B8(
+obruT
+tcurtsnI
+1.3 amalL
+3v
+keeSpeeD
+)70-30-4202(
+ukiaH
+3 edualC
+)B27(
+tahC
+5.1newQ
+)B8(
+tcurtsnI
+3 amalL
+)B07(
+tcurtsnI
+3 amalL
+)B504(
+obruT
+tcurtsnI
+1.3
+amalL
+)100(
+orP
+5.1
+inimeG
+)100(
+hsalF
+5.1 inimeG
+)81-70-4202(
+inim
+o4-TPG
+)B27(
+tcurtsnI
+2newQ
+)31-50-4202(
+o4-TPG
+)21-90-4202(
+inim-1o
+)90-40-4202(
+obruT
+4-TPG
+)92-20-4202(
+supO
+3 edualC
+)71-21-4202(
+1o
+)02604202(
+tennoS
+5.3
+edualC
+1R
+keeSpeeD
+)13-10-5202(
+inim-3o
+
+0.8
+0.6
+0.4
+0.2
+
+2023 2024 2025
+erocs
+naeM
+HELM Safety: mean score
+Source: HELM, 2025 | Chart: 2025 AI Index report
+0.92 0.93 0.93 0.93 0.95 0.95 0.960.97 0.98 0.98
+0.85 0.87 0.84 0.85 0.86 0.86 0.87 0.88 0.89 0.89 0.900.90 0.86
+0.81 0.81
+0.73
+0.63
+Figure 3.9.1
+
+Artificial Intelligence
+Index Report 2025
+Chapter 3: Responsible AI
+3.9 Security and Safety
+AIR-Bench
+AIR-Bench 2024 is a new safety benchmark that aligns prompt due to safety, ethical, or compliance concerns.
+AI evaluation with real-world regulatory and corporate Assessments of 22 leading models revealed significant
+frameworks. It employs a four-tier taxonomy (system and variability, with refusal rates ranging from 91% (Anthropic’s
+operational risks, content safety risks, societal risks, and legal Claude series) to 25% (DBRX Instruct) (Figure 3.9.2). Figure
+and rights risks). Among these four broad risk categories are 3.9.3 visualizes refusal rates across various risk categories.
+314 granular microrisks. The risks studied in the benchmark The results of AIR-Bench 2024 highlight widespread
+are derived from eight significant government regulations misalignment between current models and key global
+and 16 corporate policies. As such, AIR-Bench is designed to regulations, such as the EU AI Act and the U.S. Executive
+assess model safety through the lens of real-world AI risks Order on the Safe, Secure, and Trustworthy Development
+identified by businesses and government entities. and Use of AI. While some models demonstrated strong
+safeguards in areas like hate speech and child harm, broader
+AIR-Bench evaluates models based on their refusal rates— inconsistencies point to the need for targeted improvements,
+the frequency with which they decline to respond to a given particularly in automated decision-making contexts.
+0.91
+0.830.830.84
+0.790.80
+0.75
+0.71 0.72
+0.620.620.620.640.64
+0.560.58
+0.530.54
+0.49 0.51
+0.440.440.45
+0.39 0.41
+0.35
+0.32
+0.29
+0.25
+Chapter 3 Preview 43
+tcurtsnI
+XRBD
+sulP
+R dnammoC
+R
+dnammoC
+)7042(
+2 egraL
+lartsiM
+)B7×8(
+tcurtsnI
+lartxiM
+3v
+keeSpeeD
+)B22×8(
+tcurtsnI
+lartxiM
+400-X-arymlaP )21-90-4202(
+inim-1o
+)B27(
+tahC
+5.1newQ
+)B76(
+tahC
+MLL
+keeSpeeD
+1R
+keeSpeeD
+)B43(
+tahC
+iY
+)81-70-4202(
+inim
+o4-TPG
+)200(
+orP 0.1
+inimeG
+)B27(
+tcurtsnI
+2newQ
+)B8(
+obruT
+tcurtsnI
+1.3 amalL
+)60-80-4202(
+o4-TPG
+)1030(
+obruT
+5.3-TPG
+)3160(
+4-TPG
+)B8(
+tcurtsnI
+3 amalL
+)90-40-4202(
+obruT
+4-TPG
+)13-10-5202(
+inim-3o
+hsalF
+5.1 inimeG
+)71-21-4202(
+1o
+)70-30-4202(
+ukiaH
+3 edualC
+orP
+5.1 inimeG
+)92-20-4202(
+supO
+3 edualC
+)22-01-4202(
+tennoS
+5.3
+edualC
+1.00
+0.80
+0.60
+0.40
+0.20
+0.00
+Model
+etar
+lasufeR
+AIR-Bench: refusal rate
+Source: Zeng et al., 2024 | Chart: 2025 AI Index report
+Figure 3.9.2
+
+Artificial Intelligence
+Index Report 2025
+Chapter 3: Responsible AI
+3.9 Security and Safety
+Figure 3.9.3
+Chapter 3 Preview 44
+
+Artificial Intelligence
+Index Report 2025
+Chapter 3: Responsible AI
+3.9 Security and Safety
+Featured Research
+Beyond Shallow Safety Alignment Experiments show that even minor modifications can
+In 2024, an interdisciplinary team of computer scientists drastically weaken a model’s safety mechanisms. For example,
+introduced the concept of shallow safety alignment—the simply prefilling a model’s response with nonstandard text or
+idea that AI systems are often trained to be safe in superficial applying minimal fine-tuning increased harmful output rates
+and ineffective ways. In many cases, a model’s safeguards from 1.5% to 87.9% after just six fine-tuning steps.16 Figure 3.9.4
+are limited to its first few words (tokens) of response. As a shows the success rate of different attacks on various models
+result, if a user manipulates the model to start with anything based on the number of harmful tokens prefilled or inserted
+other than a standard safety warning (e.g., “Your request into the model’s inference sequence. To address this issue,
+violates our terms of service”), the rest of the response researchers proposed two key solutions: expanding training
+becomes significantly more vulnerable to adversarial attacks. data to include examples where the model learns to recover
+For example, if a user directly asks how to build a bomb, from harmful responses and redirect them toward safe refusals,
+the model will likely refuse to answer. However, if the same and regularizing initial word choices, ensuring that even if the
+request is framed in a way that induces the model to begin model starts with an unusual response, it still maintains its
+its response with “Sure, here’s a detailed guide,” it is far more safety constraints. These techniques significantly improved
+likely to continue generating harmful content. resistance to adversarial attacks, lowering attack success rates
+to as little as 2.8% in certain cases. This research highlights a
+need for deeper and more resilient alignment strategies to
+prevent the manipulation of AI safety mechanisms.
+Llama 2 7B (Base) Llama 2 7B Chat (Aligned) Gemma 7B (Base) Gemma 1.1. 7B IT (Aligned)
+100%
+80%
+60%
+40%
+20%
+0%
+0 1 2 3 4 5 6 7 8 9 10
+Number of pre lled harmful tokens
+Chapter 3 Preview 45
+etar
+sseccus
+kcattA
+Attack success rate vs. number of pre lled harmful tokens in LLMs
+Source: Qi et al., 2024 | Chart: 2025 AI Index report
+Figure 3.9.4
+16 A fine-tuning step in AI refers to an iteration in the process of training a pretrained model on a smaller, domain-specific dataset to improve its performance on a particular task.
+
+Artificial Intelligence
+Index Report 2025
+Llama3-8B-instruct RT RT-EAT-LAT
+1.00 1.00 1.00
+1.00
+0.84 0.84 0.83
+0.80
+0.64 0.64
+0.61
+0.60
+0.40
+0.20
+0.00
+MMLU MT-Bench Compliance
+Evaluation metric
+Chapter 3 Preview 46
+↑
+ecnamrofrep
+lareneG
+Chapter 3: Responsible AI
+3.9 Security and Safety
+Improving the Robustness to Persistently Targeted latent adversarial training in LLMs
+Source: Sheshadri et al., 2024
+Harmful Behaviors in LLMs
+Figure 3.9.5
+The challenge in eliminating harmful behavior in
+LLMs is that traditional training methods often
+teach models to conceal such behavior rather
+than removing it entirely. A new approach,
+targeted latent adversarial training (LAT), takes
+a more precise strategy by actively exposing a
+model’s weaknesses during training to make it
+more robust against adversarial attacks (Figure
+3.9.5). This method outperforms previous
+techniques—such as R2D2—while requiring
+far less computing power. For example, in
+tests against jailbreaking attempts (where
+users try to bypass a model’s safeguards), LAT
+reduced computational costs by 700 times
+while maintaining strong performance on reducing vulnerability to adversarial attacks (Figure 3.9.6). This finding on
+regular tasks. For the Llama3-8B-instruct model efficiency is important because if improving model safety requires more
+family, LAT preserved strong performance on computational resources while reducing performance, fewer developers
+benchmarks like MMLU while significantly are likely to adopt these safety-improving methods.
+General performance on nonadversarial data
+Source: Sheshadri et al., 2024 | Chart: 2025 AI Index report
+Figure 3.9.6
+
+Artificial Intelligence
+Index Report 2025
+Chapter 3: Responsible AI
+3.9 Security and Safety
+LAT also proved effective in removing backdoor vulnerabilities, from Harry Potter) and made it less likely that knowledge
+a type of attack where an AI model is subtly modified during would be relearned compared to baseline methods. When
+training to produce unintended—and possibly malicious— applied to sensitive knowledge areas such as biological or
+behavior when triggered by specific inputs. Notably, LAT cybersecurity risks, LAT effectively weakened knowledge
+eliminated these vulnerabilities even without prior knowledge extraction attacks while still allowing the model to correctly
+of the exact trigger. Beyond security improvements, LAT respond to over 90% of safe and benign requests. Methods
+enhances the ability to erase harmful or copyrighted like LAT are important not only because they improve model
+knowledge from a model and prevents it from relearning safety, but also because they are computationally efficient
+removed content. For example, LAT significantly reduced a and practical to implement.
+model’s ability to regenerate copyrighted text (e.g., passages
+Llama3-8B-instruct RT RT-EAT-LAT
+0.50 0.49
+0.40
+0.30
+0.20
+0.20
+0.17
+0.15
+0.14
+0.14
+0.10 0.09 0.09
+0.07
+0.03 0.04 0.03
+0.01 0.01
+0.000.00 0.00 0.00
+0.00
+Direct requests PAIR Pre ll AutoPrompt GCG Many-shot
+Attack type
+Chapter 3 Preview 47
+↓
+etar
+sseccus
+kcattA
+Model resistance to jailbreaking attacks
+Source: Sheshadri et al., 2024 | Chart: 2025 AI Index report
+Figure 3.9.7
+
+Artificial Intelligence
+Index Report 2025
+Chapter 3: Responsible AI
+3.10 Special Topics on RAI
+This section explores RAI’s connections with
+agentic AI and election misinformation—two
+topics that are rapidly gaining prominence.
+3.10 Special Topics on RAI
+AI Agents
+The development and deployment of AI agents—defined confirmed that 68.8% of the risks identified by ToolEmu are
+as “artificial agents with natural language interfaces, whose plausible real-world threats. Using a benchmark of 36 toolkits
+function is to plan and execute sequences of actions on and 144 test cases, the study found that even the most safety-
+behalf of a user, across one or more domains, in line with the optimized LM agents failed in 23.9% of critical scenarios, with
+user’s expectations”—present unique challenges for ensuring errors including dangerous commands, misdirected financial
+responsible AI. These assistants operate autonomously, transactions, and traffic control failures (Figure 3.10.2).
+interact dynamically with their environments, and make While LM agents show promise in automating complex
+decisions that can have significant ethical, legal, and societal tool interactions, their reliability in high-stakes applications
+implications. As a result, they require specialized approaches remains a significant concern. Suites like ToolEmu are
+to address the risks they pose with respect to transparency, important for testing the reliability and safety of AI systems,
+accountability, and reliability; these challenges can be such as agents, by providing a platform to evaluate their
+amplified by the agents’ capacity for learning, adaptation, performance and assess their real-world risks.
+and decision making in unstructured or evolving scenarios.
+Jailbreaking Multimodal Agents With a Single Image
+Identifying the Risks of LM Agents With LM- The promise of artificial agents lies in their ability to act
+Simulated Sandboxes independently in the world to solve complex tasks. As agents
+New research highlights that as language-model-powered proliferate, the likelihood of interactions in increasingly
+tools and agents advance, they also amplify risks such as multiagent environments grows, introducing vulnerabilities
+data breaches and financial losses. However, current risk that extend beyond those of single agents. In such settings,
+assessment methods are resource-intensive and difficult to unforeseen interactions between agents can amplify risks,
+scale. To address this, researchers introduced ToolEmu, an leading to cascading failures, coordination breakdowns, or
+environment that emulates tool execution to enable scalable adversarial exploitation that would be less likely in isolated
+testing and automated safety evaluations (Figure 3.10.1). The deployments.
+framework includes both a standard emulator for general
+risk assessments and an adversarial emulator designed to New research from Asia explores a multiagent vulnerability
+stress-test agents in extreme scenarios. Human evaluations in multimodal large language model (MLLM) systems,
+Overview of
+ToolEmu
+Source: Ruan et al., 2024
+Figure 3.10.1
+Chapter 3 Preview 48
+
+Artificial Intelligence
+Index Report 2025
+Chapter 3: Responsible AI
+3.10 Special Topics on RAI
+100%
+80%
+62.00%
+60%
+54.60%
+45.00% 44.30%
+39.40%
+40%
+20%
+0%
+ChatGPT-3.5 Vicuna-1.5-13B Vicuna-1.5-7B Claude 2 GPT-4
+Model
+demonstrating how jailbreaking one agent can trigger a rapid, system-
+wide failure. The researchers call this phenomenon “infectious jailbreaks,”
+where compromising a single agent causes harmful behavior to spread
+exponentially across others. Specifically, they found that injecting just one
+adversarial image (e.g., an image suggesting that human beings are a disease)
+into the memory of an MLLM agent could trigger an uncontrolled cascade,
+spreading harmful behaviors across interconnected agents without further
+intervention. The infectious jailbreak leverages interactions between agents
+to compel infected agents to insert adversarial images into the memory
+banks of uninfected (benign) agents. In simulations using a network of up
+to 1 million LLaVA-1.5-based agents, the infection rate reached near-total
+propagation within 27 to 31 interaction rounds (Figure 3.10.3).
+While a theoretical containment strategy has been proposed, no practical
+mitigation measures currently exist, leaving multiagent systems highly
+vulnerable. The compounded risks of deploying interconnected MLLM
+agents at scale make this a critical security concern. This research suggests
+that while MLLM systems are an exciting avenue of AI research, they are still
+highly vulnerable to low-resource jailbreaks.
+Chapter 3 Preview 49
+↓
+ecnedicni
+eruliaF
+Failure incidence of LM agents
+Source: Ruan et al., 2024 | Chart: 2025 AI Index report
+Figure 3.10.217
+Infection ratio by chat round
+Source: Gu et al., 2024
+Figure 3.10.3
+17 The down arrow on the y-axis indicates that a lower score is better.
+
+Artificial Intelligence
+Index Report 2025
+Chapter 3: Responsible AI
+3.10 Special Topics on RAI
+Election Misinformation
+2024 was a significant year for elections worldwide, with 4 study AI misinformation, especially as AI systems improve in
+billion people voting in national elections across countries capability and grow in prominence.
+including the United States, the United Kingdom, Indonesia,
+Mexico, and Taiwan. Last year’s AI Index examined AI’s impact AI Misinformation in the US Elections
+on elections, focusing on both its potential influence and real- AI could influence elections in various ways. Recent
+world examples. This year, the topic is being revisited. While research highlights ethical concerns surrounding AI-driven
+some reports suggest that AI-driven misinformation has not misinformation and examines their relevance in the recent
+had the feared impact, others indicate it still poses a potential U.S. election.
+risk. As a result, it is important to continually monitor and
+Conceptualization of ethical concerns around AI and information manipulation
+Source: AI Index, 202518
+Ethical concern Description Example
+Liar’s dividend The existence of deepfake technology enables Donald Trump and his supporters falsely claimed that
+individuals to deny genuine evidence by claiming the crowd shown in a photo of Kamala Harris’ rally in
+it is fake, thereby undermining accountability and Detroit was created using AI.
+truth. This phenomenon erodes public trust in
+legitimate evidence and fosters an environment
+where even verified information is questioned.
+Blackmail AI technology is exploited to create fabricated The American Sunlight Project identified more than
+content, including deepfakes, for purposes such 35,000 instances of deepfake content depicting
+as sexual exploitation, financial extortion, and 26 members of Congress (25 of them women) on
+reputational sabotage. Blackmailers leverage pornographic sites.
+these tools to extract value from victims who,
+understandably, struggle to persuasively debunk
+the fabricated content.
+Erosion of trust in evidence AI-generated content challenges the authenticity The Doppelganger campaign conducted by Russia
+of all digital media, fundamentally undermining the involved using cybersquatted domains resembling
+notion of truth. Hyperrealistic falsifications blur the legitimate news outlets, populated with AI-generated
+line between legitimate and false content, eroding articles, to disseminate Russian government
+public confidence in the integrity of information. propaganda while concealing its origins and
+misleading viewers into believing the content came
+from credible media sources.
+Reduction of cognitive AI’s capacity to analyze vast datasets enables The fringe candidate Jason Palmer defeated Joe Biden
+autonomy advanced voter profiling and microtargeting, in the American Samoa primary, in part by leveraging
+tailoring messages to individual preferences, AI-generated emails, texts, audio, and video. These AI-
+behaviors, and vulnerabilities. AI can also exploit driven communications were hyperpersonalized and
+emotional and subconscious triggers, thereby emotionally charged, targeting specific voter groups to
+manipulating individuals’ decision-making influence their choices.
+processes.
+18 This table was compiled by Ann Fitz-Gerald, Halyna Padalko, and Dmytro Chumachenko.
+Chapter 3 Preview 50
+
+Artificial Intelligence
+Index Report 2025
+Chapter 3: Responsible AI
+3.10 Special Topics on RAI
+Exploitation of personal Deepfake technology is harnessed to create Fake celebrity endorsements become the latest
+brands unauthorized videos or images of well-known weapon in disinformation wars, sowing confusion
+individuals, including celebrities, public figures, ahead of the 2024 election—for example, Donald
+and influencers. By stealing personal brands and Trump posted an AI-generated picture of Taylor Swift,
+fabricating endorsements, malicious actors aim to falsely claiming she had endorsed his presidential run.
+deceive audiences and exploit their trust in these
+individuals to lend credibility to false narratives.
+Amplification of hate AI technologies contribute to the amplification During a disinformation campaign, Donald Trump and
+speech and normalization of hate speech by creating several of his allies repeatedly promoted an unfounded
+echo chambers and filter bubbles. These systems conspiracy theory suggesting that Haitian migrants in
+reinforce preexisting biases and promote divisive Springfield, Ohio, were stealing and eating cats and
+content, as they prioritize user engagement metrics dogs. This narrative was further amplified through the
+over ethical considerations. spread of related AI-generated memes designed to
+evoke fear of and hostility toward Haitian communities.
+Reduction in the AI enables the creation, translation, and OpenAI disrupted an operation dubbed “Bad
+traceability of foreign enhancement of linguistically perfect text that is Grammar,” in which accounts linked to Russia used
+operations indistinguishable from human writing, empowering ChatGPT for comment spamming on Telegram
+malicious foreign actors and making their activities channels. The messages, tailored with region-specific
+untraceable. Previously, foreign disinformation language, mimicked diverse demographics and
+campaigns were often identifiable due to grammar political views in the United States to manipulate
+mistakes by nonnative speakers, a vulnerability that discourse.
+AI-generated content effectively eliminates.
+Privacy violations AI systems often rely on extensive data collection A robocall from a fake Joe Biden targeted New
+for training, raising ethical concerns about the Hampshire Democrats, misleading them about primary
+misuse or exposure of personal information. voting. This case highlights how AI-enabled systems
+The lack of robust safeguards in managing can use personal data to spread disinformation and
+sensitive data can lead to violations of privacy infringe on individual privacy of potential voters.
+rights, complicating the ethical landscape of AI
+deployment.
+Figure 3.10.4
+Rest of World 2024 AI-Generated Election Content
+Rest of World has been tracking notable cases of AI- spanning four media types—audio, image, text, and video—
+generated election content that occurred across the world in on 10 different platforms, including Facebook, Instagram, and
+2024. Their database documents 60 incidents in 15 countries TikTok. Figure 3.10.5 provides further details.
+Rest of World 2024 AI elections: summary statistics
+Source: Rest of World, 2025 | Table: 2025 AI Index report
+Countries Media modalities Platforms
+Totals 15 4 10
+Individual list Bangladesh, Belarus, China, India, Audio, image, text, video ChatGPT, Facebook, Instagram,
+Indonesia, Mexico, Pakistan, Panama, Medium, Reddit, television, TikTok,
+South Africa, South Korea, Sri Lanka, YouTube, WhatsApp, X/Twitter
+Taiwan, United States, Uruguay,
+Venezuela
+Figure 3.10.5
+Chapter 3 Preview 51
+
+Artificial Intelligence
+Index Report 2025
+Chapter 3: Responsible AI
+3.10 Special Topics on RAI
+The following section highlights five significant cases from India’s incumbent party motivates campaign workers with
+the tracker, offering a qualitative look at the nature of AI- personalized videos (India, video, WhatsApp, Apr. 18,
+generated election content in 2024. 2024)
+On April 18, over 500 campaign volunteers for the incumbent
+Fake corporate support of Mexican politician (Mexico, Bharatiya Janata Party received personalized videos from
+image, X/Twitter, Jun. 2, 2024) a member of the party, created with the help of AI tools. In
+On March 18, the civic organization Sociedad Civil de México the video, BJP member Shakti Singh called on volunteers
+encouraged Starbucks to create a special cup to celebrate to share the party’s message with the public, emphasizing
+Xóchitl Gálvez, the opposition presidential candidate. policies such as “Clean India,” “Digital India,” and “Make In
+The organization shared an AI-generated image on X of a India.” Despite noticeable edits, each video featured Singh
+Starbucks coffee cup with the inscription “#Xochitl2024,” addressing the individual recipient by their name (Figure
+along with the hashtag #StarbucksQueremosTazaXG 3.10.7). Campaign employees involved in making the video
+(#StarbucksWeWantACupXG) (Figure 3.10.6). The next maintained they did not require Singh to record each name
+day, Gálvez encouraged her followers on X to order a “café separately but instead relied on a combination of voice-
+sin miedo” (coffee without fear), which was a play on her cloning and lip-matching software.
+campaign slogan: “For a Mexico without fear.” She invited
+supporters to post photos of their coffee cups and tag her Source: Rest of World, 2024
+Figure 3.10.7
+team on social media. The AI-generated image quickly gained
+traction as users posted. Starbucks, however, disavowed the
+designs and stated that it does not endorse political parties.
+Source: Rest of World, 2024
+Figure 3.10.6
+Chapter 3 Preview 52
+
+Artificial Intelligence
+Index Report 2025
+Chapter 3: Responsible AI
+3.10 Special Topics on RAI
+Uruguay’s ‘impossible’ debate (Uruguay, video, television, Deepfakes of Pakistani party leaders call for election
+Oct. 27, 2024) boycotts (Pakistan, audio and video, X/Twitter, Feb. 7, 2024)
+“Santo y Seña,” a general interest morning show, broadcast The day before Pakistan’s general elections, a voice recording
+what it called “the impossible debate” ahead of Uruguay’s of former prime minister and founder of the Pakistan Tehreek-
+presidential election. The debate featured right-wing e-Insaf (PTI) party, Imran Khan, emerged on social media
+Partido Colorado presidential candidate Andrés Ojeda and (Figure 3.10.9). The voice referred to a crackdown from state
+his counterpart for the center-left alliance Frente Amplio, institutions on the PTI, and the speaker was heard calling for
+“Yamandú” Orsi (Figure 3.10.8). However, Orsi did not appear a boycott of the elections, suggesting that there was no use in
+on the show but was “present” through an AI-powered voting. The official X account of the PTI denounced the audio
+hologram with a script pulled, according to the show’s host, as fake. A video posted on the same day showed another
+from the candidate’s recent interviews. Before the debate notable PTI leader, Yasmin Rashid, apparently also calling for
+started, Orsi and his party went on another channel to a boycott. In the clip, Rashid appeared behind bars, and the
+criticize the stunt as a “fake interview” posing “an attack on audio alleged that Pakistan’s election commission had been
+democracy.” The next day, the host responded that the stunt “bought.” The nonprofit fact-checking organization Soch
+was neither fake news nor an attack on democracy; it was Fact Check determined the video had been doctored.
+merely a joke.
+Source: Rest of World, 2024
+Source: Rest of World, 2024
+Figure 3.10.9
+Figure 3.10.8
+Chapter 3 Preview 53
+
+Artificial Intelligence
+Index Report 2025
+Chapter 3: Responsible AI
+3.10 Special Topics on RAI
+United States election affected by ‘spamouflage’ campaign AI-generated potholes seek to influence South African
+(China and US, image, X/Twitter, Facebook, YouTube, voters (South Africa, image, X/Twitter, Facebook,
+TikTok, Medium, Feb. 15, 2024) Instagram, Reddit, May 4, 2024)
+The Institute for Strategic Dialogue (ISD), a U.K.-based think On May 4, a Facebook user posted an AI-generated image
+tank, uncovered actors suspected of being linked to a Chinese showing a long road dotted with potholes leading to Cape
+government–run influence campaign sharing AI-generated Town’s iconic Table Mountain (Figure 3.10.11). The caption under
+images as part of an effort to spread misinformation ahead the image suggested that, under the Democratic Alliance (DA)
+of the 2024 U.S. elections. The “spamouflage” campaign—a party, the municipal government had failed to maintain basic
+term used to designate online operations leveraging a services, contributing to the deterioration of infrastructure.
+network of social media accounts to promote propaganda Many shared the image to discourage voters in the Western
+or misinformation—had been active since 2017, but it began Cape from supporting the DA, which has managed the
+to make more noticeable use of AI image generators as it province for 15 years. Though the original post was deleted
+narrowed its focus on the U.S. election. As part of its campaign, from Facebook, it continues to circulate on other social media
+a network of accounts shared images exacerbating political platforms. AFP Fact Check, which is housed at the Agence
+polarization and casting doubt on the integrity of elections. France-Presse, reported that the image was AI-generated and
+Negative posts were disproportionately targeted at President traced it to an Instagram user who creates AI art.
+Joe Biden (Figure 3.10.10). The ISD highlighted a particular
+proliferation of these images on X. Source: Rest of World, 2024
+Figure 3.10.11
+Source: Rest of World, 2024
+Figure 3.10.10
+Chapter 3 Preview 54
+
+Artificial Intelligence
+Index Report 2025
+Chapter 3: Responsible AI
+Appendix
+Appendix
+Acknowledgments
+The AI Index would like to acknowledge Andrew Shi for his data breach, data ethics, data governance, data integrity,
+work spearheading the analysis of responsible AI (RAI)– data privacy, data protection, data transparency, differential
+related conference submissions. The AI Index acknowledges privacy, inference privacy, machine unlearning, privacy by
+that the Global State of Responsible AI analysis was design, privacy-preserving, secure data storage, trustworthy
+conducted in collaboration with Accenture. It specifically data curation.
+highlights the contributions of Accenture’s Chief Responsible
+AI Officer, Arnab Chakraborty, and the Accenture Research Security: adversarial attack, adversarial learning, AI incident,
+team, including Patrick Connolly, Jakub Wiatrak, Dikshita attacks, audits, cybersecurity, ethical hacking, forensic
+Venkatesh, and Shekhar Tewari, to the data collection and analysis, fraud detection, red teaming, safety, security,
+analysis. The AI Index acknowledges the McKinsey team— security ethics, threat detection, vulnerability assessment.
+specifically, Medha Bankhwal, Emily Capstick, Katherine
+Ottenbreit, Brittany Presten, Roger Roberts, and Cayla Transparency and explainability: algorithmic transparency,
+Volandes—for their collaboration on the survey of the audit, auditing, causal reasoning, causality, explainability,
+responsible AI ecosystem. explainable AI, explainable models, human-understandable
+decisions, interpretability, interpretable models, model
+Conference Submissions Analysis
+explainability, outcome explanation, transparency, xAI.
+For the analysis on responsible AI-related conference
+Accenture Global State of
+submissions, the AI Index examined the number of
+responsible AI–related academic submissions at the following Responsible AI Survey
+conferences: AAAI, AIES, FAccT, ICML, ICLR, and NeurIPS.
+Researchers from Stanford conducted the second iteration of
+Specifically, the team scraped the conference websites or
+the Global State of Responsible AI survey in collaboration with
+repositories of conference submissions for papers containing
+Accenture. Responses from 1,500 organizations, each with
+relevant keywords indicating they could fall into a particular
+total revenues of at least $500 million, were collected from
+responsible AI category. The papers were then manually
+20 countries and 19 industries. The survey was conducted in
+verified by a human team to confirm their categorization.
+January–. The objective of the Global State
+It is possible that a single paper could belong to multiple
+of Responsible AI survey was to understand the challenges
+responsible AI categories.
+of adopting RAI principles and practices and to allow for a
+comparison of organizational and operational RAI activities
+The keywords searched include:
+across 10 dimensions over time.
+Fairness and bias: algorithmic fairness, bias detection, bias
+The survey covers a total of 10 RAI dimensions: reliability;
+mitigation, discrimination, equity in AI, ethical algorithm
+privacy and data governance; fairness and nondiscrimination;
+design, fair data practices, fair ML, fairness and bias, group
+transparency and explainability; human interaction; societal
+fairness, individual fairness, justice, nondiscrimination,
+and environmental well-being; accountability; leadership/
+representational fairness, unfair, unfairness.
+principles/culture; lawfulness and compliance; and
+organizational governance. Details about the methodology
+Privacy and data governance: anonymity, confidentiality,
+can be found here.
+Chapter 3 Preview 55
+
+Artificial Intelligence
+Index Report 2025
+Chapter 3: Responsible AI
+Appendix
+McKinsey Responsible AI Survey
+A recent survey by McKinsey & Company of more than
+750 leaders across 38 countries provides insights into the
+current state of RAI in enterprises. These leaders represent
+various industries, from technology to healthcare, and
+include professionals from legal, data/AI, engineering,
+risk, and finance roles. Leaders were asked about their
+organization’s experience with RAI and assessed using the
+McKinsey RAI Maturity Model, a responsible AI framework
+that encompasses four dimensions of RAI—strategy, risk
+management, data and technology, and operating model—
+with 21 subdimensions. RAI maturity was ranked across four
+levels, ranging from the development of foundational RAI
+practices to having a comprehensive and proactive program
+in place.
+Chapter 3 Preview 56
+
+Artificial Intelligence
+Index Report 2025
+Chapter 3: Responsible AI
+Appendix
+Works Cited
+Alanazi, S., & Asif, S. (2024). “Exploring Deepfake Technology: Creation, Consequences and Countermeasures.” Human-
+Intelligent Systems Integration, 6(1), 49–60. 
+Bai, X., Wang, A., Sucholutsky, I., & Griffiths, T. L. (2024). Measuring Implicit Bias in Explicitly Unbiased Large Language Models
+(arXiv:2402.04105). arXiv. 
+Birhane, A., Dehdashtian, S., Prabhu, V. U., & Boddeti, V. (2024). “The Dark Side of Dataset Scaling: Evaluating Racial Classification
+in Multimodal Models.” The 2024 ACM Conference on Fairness, Accountability, and Transparency, 1229–44. 
+org/10.1145/3630106.3658968
+Bommasani, R., Klyman, K., Kapoor, S., Longpre, S., Xiong, B., Maslej, N., & Liang, P. (2025). The 2024 Foundation Model
+Transparency Index (arXiv:2407.12929). arXiv. 
+Gabriel, I., Manzini, A., Keeling, G., Hendricks, L. A., Rieser, V., Iqbal, H., Tomašev, N., Ktena, I., Kenton, Z., Rodriguez, M., El-
+Sayed, S., Brown, S., Akbulut, C., Trask, A., Hughes, E., Bergman, A. S., Shelby, R., Marchal, N., Griffin, C., … Manyika, J. (2024).
+The Ethics of Advanced AI Assistants (arXiv:2404.16244). arXiv. 
+Germani, F., Spitale, G., & Biller-Andorno, N. (2024). The Dual Nature of AI in Information Dissemination: Ethical Considerations.
+Jmir Ai, 3, e53505. 
+Gu, X., Zheng, X., Pang, T., Du, C., Liu, Q., Wang, Y., Jiang, J., & Lin, M. (2024). Agent Smith: A Single Image Can Jailbreak One
+Million Multimodal LLM Agents Exponentially Fast (arXiv:2402.08567). arXiv. 
+Laffier, J., & Rehman, A. (2023). “Deepfakes and Harm to Women.” Journal of Digital Life and Learning, 3(1), Article 1. 
+org/10.51357/jdll.v3i1.218
+Li, J., Cheng, X., Zhao, W. X., Nie, J.-Y., & Wen, J.-R. (2023). HaluEval: A Large-Scale Hallucination Evaluation Benchmark for
+Large Language Models (arXiv:2305.11747). arXiv. 
+Liebowitz, J., ed. (2024). Regulating Hate Speech Created by Generative AI. Auerbach Publications. 
+org/10.1201/9781032654829
+Lin, S., Hilton, J., & Evans, O. (2022). TruthfulQA: Measuring How Models Mimic Human Falsehoods (arXiv:2109.07958). arXiv.
+
+Longpre, S., Mahari, R., Chen, A., Obeng-Marnu, N., Sileo, D., Brannon, W., Muennighoff, N., Khazam, N., Kabbara, J., Perisetla,
+K., Wu, X., Shippole, E., Bollacker, K., Wu, T., Villa, L., Pentland, S., & Hooker, S. (2023). The Data Provenance Initiative: A Large
+Scale Audit of Dataset Licensing and Attribution in AI (arXiv:2310.16787). arXiv. 
+Longpre, S., Mahari, R., Lee, A., Lund, C., Oderinwale, H., Brannon, W., Saxena, N., Obeng-Marnu, N., South, T., Hunter, C., Klyman,
+K., Klamm, C., Schoelkopf, H., Singh, N., Cherep, M., Anis, A., Dinh, A., Chitongo, C., Yin, D., … Pentland, S. (2024). Consent in
+Crisis: The Rapid Decline of the AI Data Commons (arXiv:2407.14933). arXiv. 
+Chapter 3 Preview 57
+
+Artificial Intelligence
+Index Report 2025
+Chapter 3: Responsible AI
+Appendix
+Mazeika, M., Phan, L., Yin, X., Zou, A., Wang, Z., Mu, N., Sakhaee, E., Li, N., Basart, S., Li, B., Forsyth, D., & Hendrycks, D. (2024a).
+HarmBench: A Standardized Evaluation Framework for Automated Red Teaming and Robust Refusal (arXiv:2402.04249). arXiv.
+
+Parrish, A., Chen, A., Nangia, N., Padmakumar, V., Phang, J., Thompson, J., Htut, P. M., & Bowman, S. R. (2022). BBQ: A Hand-
+Built Bias Benchmark for Question Answering (arXiv:2110.08193). arXiv. 
+Qi, X., Panda, A., Lyu, K., Ma, X., Roy, S., Beirami, A., Mittal, P., & Henderson, P. (2024). Safety Alignment Should Be Made More
+Than Just a Few Tokens Deep (arXiv:2406.05946). arXiv. 
+Reuel, A., Connolly, P., Meimandi, K. J., Tewari, S., Wiatrak, J., Venkatesh, D., & Kochenderfer, M. (2024). Responsible AI in the
+Global Context: Maturity Model and Survey (arXiv:2410.09985). arXiv. 
+Röttger, P., Kirk, H. R., Vidgen, B., Attanasio, G., Bianchi, F., & Hovy, D. (2024). XSTest: A Test Suite for Identifying Exaggerated
+Safety Behaviours in Large Language Models (arXiv:2308.01263). arXiv. 
+Ruan, Y., Dong, H., Wang, A., Pitis, S., Zhou, Y., Ba, J., Dubois, Y., Maddison, C. J., & Hashimoto, T. (2024). Identifying the Risks of
+LM Agents with an LM-Emulated Sandbox (arXiv:2309.15817). arXiv. 
+Sheshadri, A., Ewart, A., Guo, P., Lynch, A., Wu, C., Hebbar, V., Sleight, H., Stickland, A. C., Perez, E., Hadfield-Menell, D., &
+Casper, S. (2024). Latent Adversarial Training Improves Robustness to Persistent Harmful Behaviors in LLMs (arXiv:2407.15549).
+arXiv. 
+Simchon, A., Edwards, M., & Lewandowsky, S. (2024). The Persuasive Effects of Political Microtargeting in the Age of Generative
+Artificial Intelligence. PNAS Nexus, 3(2), pgae035. 
+Spivak, R. (2018). “Deepfakes”: The Newest Way to Commit One of the Oldest Crimes. Georgetown Law Technology Review, 3,
+339. 
+Vaccari, C., & Chadwick, A. (2020). Deepfakes and Disinformation: Exploring the Impact of Synthetic Political Video on Deception,
+Uncertainty, and Trust in News. Social Media + Society, 6(1), 2056305120903408. 
+Vidgen, B., Scherrer, N., Kirk, H. R., Qian, R., Kannappan, A., Hale, S. A., & Röttger, P. (2024). SimpleSafetyTests: A Test Suite for
+Identifying Critical Safety Risks in Large Language Models (arXiv:2311.08370). arXiv. 
+Wei, J., Karina, N., Chung, H. W., Jiao, Y. J., Papay, S., Glaese, A., Schulman, J., & Fedus, W. (2024). Measuring Short-Form
+Factuality in Large Language Models (arXiv:2411.04368). arXiv. 
+Zeng, Y., Yang, Y., Zhou, A., Tan, J. Z., Tu, Y., Mai, Y., Klyman, K., Pan, M., Jia, R., Song, D., Liang, P., & Li, B. (2024). AIR-Bench 2024:
+A Safety Benchmark Based on Risk Categories From Regulations and Policies (arXiv:2407.17436). arXiv. 
+arXiv.2407.17436
+Chapter 3 Preview 58

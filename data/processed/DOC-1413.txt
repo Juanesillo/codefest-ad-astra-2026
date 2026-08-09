@@ -1,0 +1,218 @@
+capa: au_compilado_R02, fid: 649, b_ADM2_PCODE: BR1304302, b_ADM1_PCODE: BR13, b_ADM1_PT: Amazonas, b_ADM2_PT: Urucará, b_adm1_geral: Amazonas, b_adm2_geral: Urucará, b_ID_concatenated: amazonas-urucara, au_country: Brasil, au_level1: Amazonas, au_level2: Urucará, au_population: 19617, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: VERDADEIRO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: Comando Vermelho (CV), au_popup_window_pt: Comando Vermelho (CV), au_popup_window_en: Comando Vermelho (CV), au_ID_concatenated: amazonas-urucara, au_area km: 27900.037984470386
+
+capa: au_compilado_R02, fid: 651, b_ADM2_PCODE: BR1303007, b_ADM1_PCODE: BR13, b_ADM1_PT: Amazonas, b_ADM2_PT: Nhamundá, b_adm1_geral: Amazonas, b_adm2_geral: Nhamundá, b_ID_concatenated: amazonas-nhamunda, au_country: Brasil, au_level1: Amazonas, au_level2: Nhamundá, au_population: 21251, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: VERDADEIRO, au_pcc: VERDADEIRO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - Comando Vermelho (CV)
+- Primeiro Comando da Capital (PCC), au_popup_window_pt: - Comando Vermelho (CV)
+- Primeiro Comando da Capital (PCC), au_popup_window_en: - Comando Vermelho (CV)
+- Primeiro Comando da Capital (PCC), au_ID_concatenated: amazonas-nhamunda, au_area km: 14107.142626365836
+
+capa: au_compilado_R02, fid: 652, b_ADM2_PCODE: BR1505304, b_ADM1_PCODE: BR15, b_ADM1_PT: Pará, b_ADM2_PT: Oriximiná, b_adm1_geral: Pará, b_adm2_geral: Oriximiná, b_ID_concatenated: para-oriximina, au_country: Brasil, au_level1: Pará, au_level2: Oriximiná, au_population: 72889, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: VERDADEIRO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: Comando Vermelho (CV), au_popup_window_pt: Comando Vermelho (CV), au_popup_window_en: Comando Vermelho (CV), au_ID_concatenated: para-oriximina, au_area km: 107614.3407572179
+
+capa: au_compilado_R02, fid: 653, b_ADM2_PCODE: BR1505106, b_ADM1_PCODE: BR15, b_ADM1_PT: Pará, b_ADM2_PT: Óbidos, b_adm1_geral: Pará, b_adm2_geral: Óbidos, b_ID_concatenated: para-obidos, au_country: Brasil, au_level1: Pará, au_level2: Óbidos, au_population: 55527, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: VERDADEIRO, au_invest. with presence: FALSO, au_ID_concatenated: para-obidos, au_area km: 28016.379479309802
+
+capa: au_compilado_R02, fid: 661, b_ADM2_PCODE: BR1303536, b_ADM1_PCODE: BR13, b_ADM1_PT: Amazonas, b_ADM2_PT: Presidente Figueiredo, b_adm1_geral: Amazonas, b_adm2_geral: Presidente Figueiredo, b_ID_concatenated: amazonas-presidente_figueiredo, au_country: Brasil, au_level1: Amazonas, au_level2: Presidente Figueiredo, au_population: 33291, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: VERDADEIRO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: Comando Vermelho (CV), au_popup_window_pt: Comando Vermelho (CV), au_popup_window_en: Comando Vermelho (CV), au_ID_concatenated: amazonas-presidente_figueiredo, au_area km: 25459.437882567916
+
+capa: au_compilado_R02, fid: 682, b_ADM2_PCODE: BR1400308, b_ADM1_PCODE: BR14, b_ADM1_PT: Roraima, b_ADM2_PT: Mucajaí, b_adm1_geral: Roraima, b_adm2_geral: Mucajaí, b_ID_concatenated: roraima-mucajai, au_country: Brasil, au_level1: Roraima, au_level2: Mucajaí, au_population: 20006, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: VERDADEIRO, au_pcc: VERDADEIRO, au_others: VERDADEIRO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - Comando Vermelho (CV)
+- Primeiro Comando da Capital (PCC) 
+- Tren de Arágua (Venezuela), au_popup_window_pt: - Comando Vermelho (CV)
+- Primeiro Comando da Capital (PCC) 
+- Tren de Arágua (Venezuela), au_popup_window_en: - Comando Vermelho (CV)
+- Primeiro Comando da Capital (PCC) 
+- Tren de Arágua (Venezuela), au_ID_concatenated: roraima-mucajai, au_area km: 12337.395463609835
+
+capa: au_compilado_R02, fid: 683, b_ADM2_PCODE: BR1400159, b_ADM1_PCODE: BR14, b_ADM1_PT: Roraima, b_ADM2_PT: Bonfim, b_adm1_geral: Roraima, b_adm2_geral: Bonfim, b_ID_concatenated: roraima-bonfim, au_country: Brasil, au_level1: Roraima, au_level2: Bonfim, au_population: 15570, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: VERDADEIRO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: Primeiro Comando da Capital (PCC), au_popup_window_pt: Primeiro Comando da Capital (PCC), au_popup_window_en: Primeiro Comando da Capital (PCC), au_ID_concatenated: roraima-bonfim, au_area km: 8081.9597922508965
+
+capa: au_compilado_R02, fid: 684, b_ADM2_PCODE: BR1400100, b_ADM1_PCODE: BR14, b_ADM1_PT: Roraima, b_ADM2_PT: Boa Vista, b_adm1_geral: Roraima, b_adm2_geral: Boa Vista, b_ID_concatenated: roraima-boa_vista, au_country: Brasil, au_level1: Roraima, au_level2: Boa Vista, au_population: 485477, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: VERDADEIRO, au_others: VERDADEIRO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - Primeiro Comando da Capital (PCC) 
+- Tren de Arágua (Venezuela), au_popup_window_pt: - Primeiro Comando da Capital (PCC) 
+- Tren de Arágua (Venezuela), au_popup_window_en: - Primeiro Comando da Capital (PCC) 
+- Tren de Arágua (Venezuela), au_ID_concatenated: roraima-boa_vista, au_area km: 5686.660678193681
+
+capa: au_compilado_R02, fid: 685, b_ADM2_PCODE: BR1400050, b_ADM1_PCODE: BR14, b_ADM1_PT: Roraima, b_ADM2_PT: Alto Alegre, b_adm1_geral: Roraima, b_adm2_geral: Alto Alegre, b_ID_concatenated: roraima-alto_alegre, au_country: Brasil, au_level1: Roraima, au_level2: Alto Alegre, au_population: 23589, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: VERDADEIRO, au_pcc: VERDADEIRO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - Comando Vermelho (CV)
+- Primeiro Comando da Capital (PCC), au_popup_window_pt: - Comando Vermelho (CV)
+- Primeiro Comando da Capital (PCC), au_popup_window_en: - Comando Vermelho (CV)
+- Primeiro Comando da Capital (PCC), au_ID_concatenated: roraima-alto_alegre, au_area km: 25454.55624776962
+
+capa: au_compilado_R02, fid: 686, b_ADM2_PCODE: BR1400407, b_ADM1_PCODE: BR14, b_ADM1_PT: Roraima, b_ADM2_PT: Normandia, b_adm1_geral: Roraima, b_adm2_geral: Normandia, b_ID_concatenated: roraima-normandia, au_country: Brasil, au_level1: Roraima, au_level2: Normandia, au_population: 16323, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: VERDADEIRO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: Primeiro Comando da Capital (PCC), au_popup_window_pt: Primeiro Comando da Capital (PCC), au_popup_window_en: Primeiro Comando da Capital (PCC), au_ID_concatenated: roraima-normandia, au_area km: 6960.039792638487
+
+capa: au_compilado_R02, fid: 687, b_ADM2_PCODE: BR1400027, b_ADM1_PCODE: BR14, b_ADM1_PT: Roraima, b_ADM2_PT: Amajari, b_adm1_geral: Roraima, b_adm2_geral: Amajari, b_ID_concatenated: roraima-amajari, au_country: Brasil, au_level1: Roraima, au_level2: Amajari, au_population: 16112, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: VERDADEIRO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: Primeiro Comando da Capital (PCC), au_popup_window_pt: Primeiro Comando da Capital (PCC), au_popup_window_en: Primeiro Comando da Capital (PCC), au_ID_concatenated: roraima-amajari, au_area km: 28473.91865605687
+
+capa: au_compilado_R02, fid: 688, b_ADM2_PCODE: BR1400456, b_ADM1_PCODE: BR14, b_ADM1_PT: Roraima, b_ADM2_PT: Pacaraima, b_adm1_geral: Roraima, b_adm2_geral: Pacaraima, b_ID_concatenated: roraima-pacaraima, au_country: Brasil, au_level1: Roraima, au_level2: Pacaraima, au_population: 23112, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: VERDADEIRO, au_pcc: VERDADEIRO, au_others: VERDADEIRO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - Comando Vermelho (CV)
+- Primeiro Comando da Capital (PCC) 
+- Tren de Arágua (Venezuela), au_popup_window_pt: - Comando Vermelho (CV)
+- Primeiro Comando da Capital (PCC) 
+- Tren de Arágua (Venezuela), au_popup_window_en: - Comando Vermelho (CV)
+- Primeiro Comando da Capital (PCC) 
+- Tren de Arágua (Venezuela), au_ID_concatenated: roraima-pacaraima, au_area km: 8024.772999101478
+
+capa: au_compilado_R02, fid: 689, b_ADM2_PCODE: BR1400704, b_ADM1_PCODE: BR14, b_ADM1_PT: Roraima, b_ADM2_PT: Uiramutã, b_adm1_geral: Roraima, b_adm2_geral: Uiramutã, b_ID_concatenated: roraima-uiramuta, au_country: Brasil, au_level1: Roraima, au_level2: Uiramutã, au_population: 16186, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: VERDADEIRO, au_pcc: VERDADEIRO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - Comando Vermelho (CV)
+- Primeiro Comando da Capital (PCC), au_popup_window_pt: - Comando Vermelho (CV)
+- Primeiro Comando da Capital (PCC), au_popup_window_en: - Comando Vermelho (CV)
+- Primeiro Comando da Capital (PCC), au_ID_concatenated: roraima-uiramuta, au_area km: 8114.27981468216
+
+capa: au_compilado_R02, fid: 690, b_ADM2_PCODE: BR1400233, b_ADM1_PCODE: BR14, b_ADM1_PT: Roraima, b_ADM2_PT: Caroebe, b_adm1_geral: Roraima, b_adm2_geral: Caroebe, b_ID_concatenated: roraima-caroebe, au_country: Brasil, au_level1: Roraima, au_level2: Caroebe, au_population: 12004, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: VERDADEIRO, au_pcc: VERDADEIRO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - Comando Vermelho (CV)
+- Primeiro Comando da Capital (PCC), au_popup_window_pt: - Comando Vermelho (CV)
+- Primeiro Comando da Capital (PCC), au_popup_window_en: - Comando Vermelho (CV)
+- Primeiro Comando da Capital (PCC), au_ID_concatenated: roraima-caroebe, au_area km: 12067.723945330275
+
+capa: au_compilado_R02, fid: 691, b_ADM2_PCODE: BR1400209, b_ADM1_PCODE: BR14, b_ADM1_PT: Roraima, b_ADM2_PT: Caracaraí, b_adm1_geral: Roraima, b_adm2_geral: Caracaraí, b_ID_concatenated: roraima-caracarai, au_country: Brasil, au_level1: Roraima, au_level2: Caracaraí, au_population: 22750, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: VERDADEIRO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: Primeiro Comando da Capital (PCC), au_popup_window_pt: Primeiro Comando da Capital (PCC), au_popup_window_en: Primeiro Comando da Capital (PCC), au_ID_concatenated: roraima-caracarai, au_area km: 47377.30836511022
+
+capa: au_compilado_R02, fid: 692, b_ADM2_PCODE: BR1300409, b_ADM1_PCODE: BR13, b_ADM1_PT: Amazonas, b_ADM2_PT: Barcelos, b_adm1_geral: Amazonas, b_adm2_geral: Barcelos, b_ID_concatenated: amazonas-barcelos, au_country: Brasil, au_level1: Amazonas, au_level2: Barcelos, au_population: 18210, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: VERDADEIRO, au_pcc: VERDADEIRO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - Comando Vermelho (CV)
+- Primeiro Comando da Capital (PCC), au_popup_window_pt: - Comando Vermelho (CV)
+- Primeiro Comando da Capital (PCC), au_popup_window_en: - Comando Vermelho (CV)
+- Primeiro Comando da Capital (PCC), au_ID_concatenated: amazonas-barcelos, au_area km: 122460.351503383
+
+capa: au_compilado_R02, fid: 693, b_ADM2_PCODE: BR1400282, b_ADM1_PCODE: BR14, b_ADM1_PT: Roraima, b_ADM2_PT: Iracema, b_adm1_geral: Roraima, b_adm2_geral: Iracema, b_ID_concatenated: roraima-iracema, au_country: Brasil, au_level1: Roraima, au_level2: Iracema, au_population: 10937, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: VERDADEIRO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: Primeiro Comando da Capital (PCC), au_popup_window_pt: Primeiro Comando da Capital (PCC), au_popup_window_en: Primeiro Comando da Capital (PCC), au_ID_concatenated: roraima-iracema, au_area km: 14012.738722238615
+
+capa: au_compilado_R02, fid: 694, b_ADM2_PCODE: BR1400175, b_ADM1_PCODE: BR14, b_ADM1_PT: Roraima, b_ADM2_PT: Cantá, b_adm1_geral: Roraima, b_adm2_geral: Cantá, b_ID_concatenated: roraima-canta, au_country: Brasil, au_level1: Roraima, au_level2: Cantá, au_population: 21102, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: VERDADEIRO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: Primeiro Comando da Capital (PCC), au_popup_window_pt: Primeiro Comando da Capital (PCC), au_popup_window_en: Primeiro Comando da Capital (PCC), au_ID_concatenated: roraima-canta, au_area km: 7665.097662697066
+
+capa: au_compilado_R02, fid: 695, b_ADM2_PCODE: BR1400472, b_ADM1_PCODE: BR14, b_ADM1_PT: Roraima, b_ADM2_PT: Rorainópolis, b_adm1_geral: Roraima, b_adm2_geral: Rorainópolis, b_ID_concatenated: roraima-rorainopolis, au_country: Brasil, au_level1: Roraima, au_level2: Rorainópolis, au_population: 37787, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: VERDADEIRO, au_pcc: VERDADEIRO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - Comando Vermelho (CV)
+- Primeiro Comando da Capital (PCC), au_popup_window_pt: - Comando Vermelho (CV)
+- Primeiro Comando da Capital (PCC), au_popup_window_en: - Comando Vermelho (CV)
+- Primeiro Comando da Capital (PCC), au_ID_concatenated: roraima-rorainopolis, au_area km: 33579.97072459853
+
+capa: au_compilado_R02, fid: 696, b_ADM2_PCODE: BR1400506, b_ADM1_PCODE: BR14, b_ADM1_PT: Roraima, b_ADM2_PT: São João da Baliza, b_adm1_geral: Roraima, b_adm2_geral: São João da Baliza, b_ID_concatenated: roraima-sao_joao_da_baliza, au_country: Brasil, au_level1: Roraima, au_level2: São João da Baliza, au_population: 9969, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: VERDADEIRO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: Primeiro Comando da Capital (PCC), au_popup_window_pt: Primeiro Comando da Capital (PCC), au_popup_window_en: Primeiro Comando da Capital (PCC), au_ID_concatenated: roraima-sao_joao_da_baliza, au_area km: 4283.827215775866
+
+capa: au_compilado_R02, fid: 697, b_ADM2_PCODE: BR1400605, b_ADM1_PCODE: BR14, b_ADM1_PT: Roraima, b_ADM2_PT: São Luiz, b_adm1_geral: Roraima, b_adm2_geral: São Luiz, b_ID_concatenated: roraima-sao_luiz, au_country: Brasil, au_level1: Roraima, au_level2: São Luiz, au_population: 7848, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: VERDADEIRO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: Primeiro Comando da Capital (PCC), au_popup_window_pt: Primeiro Comando da Capital (PCC), au_popup_window_en: Primeiro Comando da Capital (PCC), au_ID_concatenated: roraima-sao_luiz, au_area km: 1527.0705823556516
+
+capa: au_compilado_R02, fid: 867, b_ADM2_ES: Puerto Colombia, b_ADM2_PCODE: CO94884, b_ADM1_ES: Guainía, b_ADM1_PCODE: CO94, b_adm1_geral: Guainía, b_adm2_geral: Puerto Colombia, b_ID_concatenated: guainia-puerto_colombia, au_country: Colombia, au_level1: Guainía, au_level2: Puerto Colombia, au_population: 1983, au_c_d_f: FALSO, au_emc: VERDADEIRO, au_embf: FALSO, au_seg_marq: VERDADEIRO, au_eln: VERDADEIRO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - ELN a través del Frente Jorge Daniel Perez Carrero
+- EMC: Bloque Amazonas (Iván Mordisco) 
+- Segunda Marquetalia a través del Frente 53 (Edison Romaña) , au_popup_window_pt: - ELN a través del Frente Jorge Daniel Perez Carrero
+- EMC: Bloque Amazonas (Iván Mordisco) 
+- Segunda Marquetalia através da Frente 53 (Edison Romaña) , au_popup_window_en: - ELN through Frente Jorge Daniel Perez Carrero
+- EMC: Bloque Amazonas (Iván Mordisco) 
+- Segunda Marquetalia through Frente 53 (Edison Romaña) , au_ID_concatenated: guainia-puerto_colombia, au_area km: 15535.039806775369
+
+capa: au_compilado_R02, fid: 870, b_ADM2_ES: Cacahual, b_ADM2_PCODE: CO94886, b_ADM1_ES: Guainía, b_ADM1_PCODE: CO94, b_adm1_geral: Guainía, b_adm2_geral: Cacahual, b_ID_concatenated: guainia-cacahual, au_country: Colombia, au_level1: Guainía, au_level2: Cacahual, au_population: 914, au_c_d_f: FALSO, au_emc: VERDADEIRO, au_embf: FALSO, au_seg_marq: VERDADEIRO, au_eln: VERDADEIRO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - ELN a través del Frente Jorge Daniel Perez Carrero
+- EMC: Bloque Amazonas (Iván Mordisco)
+- Segunda Marquetalia a través del Frente 53 (Edison Romaña), au_popup_window_pt: - ELN a través del Frente Jorge Daniel Perez Carrero
+- EMC: Bloque Amazonas (Iván Mordisco)
+- Segunda Marquetalia através da Frente 53 (Edison Romaña), au_popup_window_en: - ELN through Frente Jorge Daniel Perez Carrero
+- EMC: Bloque Amazonas (Iván Mordisco)
+- Segunda Marquetalia through Frente 53 (Edison Romaña), au_ID_concatenated: guainia-cacahual, au_area km: 2305.3604002866336
+
+capa: au_compilado_R02, fid: 871, b_ADM2_ES: San Felipe, b_ADM2_PCODE: CO94883, b_ADM1_ES: Guainía, b_ADM1_PCODE: CO94, b_adm1_geral: Guainía, b_adm2_geral: San Felipe, b_ID_concatenated: guainia-san_felipe, au_country: Colombia, au_level1: Guainía, au_level2: San Felipe, au_population: 1968, au_c_d_f: FALSO, au_emc: VERDADEIRO, au_embf: FALSO, au_seg_marq: VERDADEIRO, au_eln: VERDADEIRO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - ELN a través del Frente Jorge Daniel Perez Carrero
+- EMC: Bloque Amazonas (Iván Mordisco) 
+- Segunda Marquetalia a través del Frente 53 (Edison Romaña) , au_popup_window_pt: - ELN a través del Frente Jorge Daniel Perez Carrero
+- EMC: Bloque Amazonas (Iván Mordisco) 
+- Segunda Marquetalia através da Frente 53 (Edison Romaña) , au_popup_window_en: - ELN a través del Frente Jorge Daniel Perez Carrero
+- EMC: Bloque Amazonas (Iván Mordisco) 
+- Segunda Marquetalia through Frente 53 (Edison Romaña) , au_ID_concatenated: guainia-san_felipe, au_area km: 2885.8413177348675
+
+capa: au_compilado_R02, fid: 872, b_ADM2_ES: Alto Orinoco, b_ADM2_PCODE: VE0201, b_ADM1_ES: Amazonas, b_ADM1_PCODE: VE02, b_adm1_geral: Amazonas, b_adm2_geral: Alto Orinoco, b_ID_concatenated: amazonas-alto_orinoco, au_country: Venezuela, au_level1: Amazonas, au_level2: Alto Orinoco, au_population: 657, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: VERDADEIRO, au_eln: VERDADEIRO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - ELN (Daniel Pérez Carrero)
+Segunda Marquetalia (Acacio Medina), au_popup_window_pt: - ELN (Daniel Pérez Carrero)
+Segunda Marquetalia (Acacio Medina), au_popup_window_en: - ELN (Daniel Pérez Carrero)
+Segunda Marquetalia (Acacio Medina), au_ID_concatenated: amazonas-alto_orinoco, au_area km: 45886.31902826221
+
+capa: au_compilado_R02, fid: 873, b_ADM2_ES: Maroa, b_ADM2_PCODE: VE0205, b_ADM1_ES: Amazonas, b_ADM1_PCODE: VE02, b_adm1_geral: Amazonas, b_adm2_geral: Maroa, b_ID_concatenated: amazonas-maroa, au_country: Venezuela, au_level1: Amazonas, au_level2: Maroa, au_population: 2029, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: VERDADEIRO, au_eln: VERDADEIRO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - ELN (Daniel Pérez Carrero)
+Segunda Marquetalia (Acacio Medina), au_popup_window_pt: - ELN (Daniel Pérez Carrero)
+Segunda Marquetalia (Acacio Medina), au_popup_window_en: - ELN (Daniel Pérez Carrero)
+Segunda Marquetalia (Acacio Medina), au_ID_concatenated: amazonas-maroa, au_area km: 12487.624018539305
+
+capa: au_compilado_R02, fid: 900, b_ADM2_PCODE: BR1303601, b_ADM1_PCODE: BR13, b_ADM1_PT: Amazonas, b_ADM2_PT: Santa Isabel do Rio Negro, b_adm1_geral: Amazonas, b_adm2_geral: Santa Isabel do Rio Negro, b_ID_concatenated: amazonas-santa_isabel_do_rio_negro, au_country: Brasil, au_level1: Amazonas, au_level2: Santa Isabel do Rio Negro, au_population: 13947, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: VERDADEIRO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: Comando Vermelho (CV), au_popup_window_pt: Comando Vermelho (CV), au_popup_window_en: Comando Vermelho (CV), au_ID_concatenated: amazonas-santa_isabel_do_rio_negro, au_area km: 62800.81556643567
+
+capa: au_compilado_R02, fid: 901, b_ADM2_PCODE: BR1303809, b_ADM1_PCODE: BR13, b_ADM1_PT: Amazonas, b_ADM2_PT: São Gabriel da Cachoeira, b_adm1_geral: Amazonas, b_adm2_geral: São Gabriel da Cachoeira, b_ID_concatenated: amazonas-sao_gabriel_da_cachoeira, au_country: Brasil, au_level1: Amazonas, au_level2: São Gabriel da Cachoeira, au_population: 57396, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: VERDADEIRO, au_pcc: VERDADEIRO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - Comando Vermelho (CV)
+- Primeiro Comando da Capital (PCC), au_popup_window_pt: - Comando Vermelho (CV)
+- Primeiro Comando da Capital (PCC), au_popup_window_en: - Comando Vermelho (CV)
+- Primeiro Comando da Capital (PCC), au_ID_concatenated: amazonas-sao_gabriel_da_cachoeira, au_area km: 109184.20538373706
+
+capa: au_compilado_R02, fid: 902, b_ADM2_ES: La Guadalupe, b_ADM2_PCODE: CO94885, b_ADM1_ES: Guainía, b_ADM1_PCODE: CO94, b_adm1_geral: Guainía, b_adm2_geral: La Guadalupe, b_ID_concatenated: guainia-la_guadalupe, au_country: Colombia, au_level1: Guainía, au_level2: La Guadalupe, au_population: 319, au_c_d_f: FALSO, au_emc: VERDADEIRO, au_embf: FALSO, au_seg_marq: VERDADEIRO, au_eln: VERDADEIRO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - EMC: Bloque Amazonas (Iván Mordisco)
+- ELN a través del Frente Jorge Daniel Perez Carrero
+- Segunda Marquetalia a través del Frente 53 (Edison Romaña), au_popup_window_pt: - EMC: Bloque Amazonas (Iván Mordisco)
+- ELN a través del Frente Jorge Daniel Perez Carrero
+- Segunda Marquetalia a través del Frente 53 (Edison Romaña), au_popup_window_en: - EMC: Bloque Amazonas (Iván Mordisco)
+- ELN through Frente Jorge Daniel Perez Carrero
+- Segunda Marquetalia through Frente 53 (Edison Romaña), au_ID_concatenated: guainia-la_guadalupe, au_area km: 1160.870664414359
+
+capa: au_compilado_R02, fid: 906, b_ADM2_ES: Rio Negro, b_ADM2_PCODE: VE0207, b_ADM1_ES: Amazonas, b_ADM1_PCODE: VE02, b_adm1_geral: Amazonas, b_adm2_geral: Rio Negro, b_ID_concatenated: amazonas-rio_negro, au_country: Venezuela, au_level1: Amazonas, au_level2: Río Negro, au_population: 2300, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: VERDADEIRO, au_eln: VERDADEIRO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - ELN (Daniel Pérez Carrero)
+Segunda Marquetalia (Acacio Medina), au_popup_window_pt: - ELN (Daniel Pérez Carrero)
+Segunda Marquetalia (Acacio Medina), au_popup_window_en: - ELN (Daniel Pérez Carrero)
+Segunda Marquetalia (Acacio Medina), au_ID_concatenated: amazonas-rio_negro, au_area km: 40947.21415090566
+
+capa: au_compilado_R02, fid: 1204, b_ADM2_ES: Angostura, b_ADM2_PCODE: VE0707, b_ADM1_ES: Bolívar, b_ADM1_PCODE: VE07, b_adm1_geral: Bolívar, b_adm2_geral: Angostura, b_ID_concatenated: bolivar-angostura, au_country: Venezuela, au_level1: Bolivar, au_level2: Angostura, au_population: 40927, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: VERDADEIRO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_ID_concatenated: bolivar-angostura, au_area km: 57495.73153716014
+
+capa: au_compilado_R02, fid: 1205, b_ADM2_ES: Piar, b_ADM2_PCODE: VE0706, b_ADM1_ES: Bolívar, b_ADM1_PCODE: VE07, b_adm1_geral: Bolívar, b_adm2_geral: Piar, b_ID_concatenated: bolivar-piar, au_country: Venezuela, au_level1: Bolivar, au_level2: Piar, au_population: 98274, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: VERDADEIRO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_ID_concatenated: bolivar-piar, au_area km: 14693.51637201817
+
+capa: au_compilado_R02, fid: 1206, b_ADM2_ES: Gran Sabana, b_ADM2_PCODE: VE0704, b_ADM1_ES: Bolívar, b_ADM1_PCODE: VE07, b_adm1_geral: Bolívar, b_adm2_geral: Gran Sabana, b_ID_concatenated: bolivar-gran_sabana, au_country: Venezuela, au_level1: Bolivar, au_level2: Gran Sabana, au_population: 28450, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: VERDADEIRO, au_invest. with presence: FALSO, au_ID_concatenated: bolivar-gran_sabana, au_area km: 33824.92704056157
+
+capa: au_compilado_R02, fid: 1207, b_ADM2_ES: Sifontes, b_ADM2_PCODE: VE0709, b_ADM1_ES: Bolívar, b_ADM1_PCODE: VE07, b_adm1_geral: Bolívar, b_adm2_geral: Sifontes, b_ID_concatenated: bolivar-sifontes, au_country: Venezuela, au_level1: Bolivar, au_level2: Sifontes, au_population: 50082, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: VERDADEIRO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: VERDADEIRO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: 3R en Tumeremo, el Negro Fabio (El Dorado), Juancho (Las Claritas), ELN (San Martín de Turumbán y Las Claritas), Tren de Aragua (Las Claritas)., au_popup_window_pt: 3R em Tumeremo, el Negro Fabio (El Dorado), Juancho (Las Claritas), ELN (San Martín de Turumbán y Las Claritas), Tren de Aragua (Las Claritas)., au_popup_window_en: 3R in Tumeremo, el Negro Fabio (El Dorado), Juancho (Las Claritas), ELN (San Martín de Turumbán y Las Claritas), Tren de Aragua (Las Claritas)., au_ID_concatenated: bolivar-sifontes, au_area km: 26681.009471140238
+
+capa: au_compilado_R02, fid: 1208, b_ADM2_ES: Roscio, b_ADM2_PCODE: VE0708, b_ADM1_ES: Bolívar, b_ADM1_PCODE: VE07, b_adm1_geral: Bolívar, b_adm2_geral: Roscio, b_ID_concatenated: bolivar-roscio, au_country: Venezuela, au_level1: Bolivar, au_level2: Roscio, au_population: 21750, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: VERDADEIRO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: Tren de Guayana, au_popup_window_pt: Tren de Guayana, au_popup_window_en: Tren de Guayana, au_ID_concatenated: bolivar-roscio, au_area km: 6165.398478495398
+
+capa: au_compilado_R02, fid: 1209, b_ADM2_ES: El Callao, b_ADM2_PCODE: VE0703, b_ADM1_ES: Bolívar, b_ADM1_PCODE: VE07, b_adm1_geral: Bolívar, b_adm2_geral: El Callao, b_ID_concatenated: bolivar-el_callao, au_country: Venezuela, au_level1: Bolivar, au_level2: El Callao, au_population: 21769, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: VERDADEIRO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: Tren de Guayana, au_popup_window_pt: Tren de Guayana, au_popup_window_en: Tren de Guayana, au_ID_concatenated: bolivar-el_callao, au_area km: 2654.8117596775037
+
+capa: au_compilado_R02, fid: 1210, b_ADM2_ES: Sucre, b_ADM2_PCODE: VE0710, b_ADM1_ES: Bolívar, b_ADM1_PCODE: VE07, b_adm1_geral: Bolívar, b_adm2_geral: Sucre, b_ID_concatenated: bolivar-sucre, au_country: Venezuela, au_level1: Bolivar, au_level2: Sucre, au_population: 20359, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: VERDADEIRO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_ID_concatenated: bolivar-sucre, au_area km: 49078.03788255402
+
+capa: au_compilado_R02, fid: 1211, b_ADM2_ES: Maturín, b_ADM2_PCODE: VE1608, b_ADM1_ES: Monagas, b_ADM1_PCODE: VE16, b_adm1_geral: Monagas, b_adm2_geral: Maturín, b_ID_concatenated: monagas-maturin, au_area km: 12970.548690824988
+
+capa: au_compilado_R02, fid: 1212, b_ADM2_ES: Las Mercedes, b_ADM2_PCODE: VE1206, b_ADM1_ES: Guárico, b_ADM1_PCODE: VE12, b_adm1_geral: Guárico, b_adm2_geral: Las Mercedes, b_ID_concatenated: guarico-las_mercedes, au_area km: 8021.709915962575
+
+capa: au_compilado_R02, fid: 1213, b_ADM2_ES: Leonardo Infante, b_ADM2_PCODE: VE1205, b_ADM1_ES: Guárico, b_ADM1_PCODE: VE12, b_adm1_geral: Guárico, b_adm2_geral: Leonardo Infante, b_ID_concatenated: guarico-leonardo_infante, au_area km: 9893.994489406026
+
+capa: au_compilado_R02, fid: 1214, b_ADM2_ES: El Socorro, b_ADM2_PCODE: VE1203, b_ADM1_ES: Guárico, b_ADM1_PCODE: VE12, b_adm1_geral: Guárico, b_adm2_geral: El Socorro, b_ID_concatenated: guarico-el_socorro, au_area km: 2820.134453709868
+
+capa: au_compilado_R02, fid: 1215, b_ADM2_ES: Caroní, b_ADM2_PCODE: VE0701, b_ADM1_ES: Bolívar, b_ADM1_PCODE: VE07, b_adm1_geral: Bolívar, b_adm2_geral: Caroní, b_ID_concatenated: bolivar-caroni, au_country: Venezuela, au_level1: Bolivar, au_level2: Caroní, au_population: 706736, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: VERDADEIRO, au_invest. with presence: FALSO, au_ID_concatenated: bolivar-caroni, au_area km: 1595.204038153481
+
+capa: au_compilado_R02, fid: 1216, b_ADM2_ES: Casacoima, b_ADM2_PCODE: VE1002, b_ADM1_ES: Delta Amacuro, b_ADM1_PCODE: VE10, b_adm1_geral: Delta Amacuro, b_adm2_geral: Casacoima, b_ID_concatenated: delta_amacuro-casacoima, au_country: Venezuela, au_level1: Delta Amacuro, au_level2: Casacoima, au_population: 29555, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: VERDADEIRO, au_eln: VERDADEIRO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: VERDADEIRO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_ID_concatenated: delta_amacuro-casacoima, au_area km: 2760.138882515072
+
+capa: au_compilado_R02, fid: 1217, b_ADM2_ES: Antonio Díaz, b_ADM2_PCODE: VE1001, b_ADM1_ES: Delta Amacuro, b_ADM1_PCODE: VE10, b_adm1_geral: Delta Amacuro, b_adm2_geral: Antonio Díaz, b_ID_concatenated: delta_amacuro-antonio_diaz, au_country: Venezuela, au_level1: Delta Amacuro, au_level2: Antonio Díaz, au_population: 26655, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: VERDADEIRO, au_eln: VERDADEIRO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_ID_concatenated: delta_amacuro-antonio_diaz, au_area km: 21511.608718011215
+
+capa: au_compilado_R02, fid: 1218, b_ADM2_ES: Libertador, b_ADM2_PCODE: VE1607, b_ADM1_ES: Monagas, b_ADM1_PCODE: VE16, b_adm1_geral: Monagas, b_adm2_geral: Libertador, b_ID_concatenated: monagas-libertador, au_area km: 3162.1252633845534
+
+capa: au_compilado_R02, fid: 1219, b_ADM2_ES: Padre Pedro Chien, b_ADM2_PCODE: VE0711, b_ADM1_ES: Bolívar, b_ADM1_PCODE: VE07, b_adm1_geral: Bolívar, b_adm2_geral: Padre Pedro Chien, b_ID_concatenated: bolivar-padre_pedro_chien, au_country: Venezuela, au_level1: Bolivar, au_level2: Padre Chien, au_population: 15488, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: VERDADEIRO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_ID_concatenated: bolivar-padre_pedro_chien, au_area km: 3581.162040374119
+
+capa: au_compilado_R02, fid: 1220, b_ADM2_ES: Pedernales, b_ADM2_PCODE: VE1003, b_ADM1_ES: Delta Amacuro, b_ADM1_PCODE: VE10, b_adm1_geral: Delta Amacuro, b_adm2_geral: Pedernales, b_ID_concatenated: delta_amacuro-pedernales, au_country: Venezuela, au_level1: Delta Amacuro, au_level2: Pedernales, au_population: 6438, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: VERDADEIRO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_ID_concatenated: delta_amacuro-pedernales, au_area km: 2275.3383818332627
+
+capa: au_compilado_R02, fid: 1221, b_ADM2_ES: Sotillo, b_ADM2_PCODE: VE1612, b_ADM1_ES: Monagas, b_ADM1_PCODE: VE16, b_adm1_geral: Monagas, b_adm2_geral: Sotillo, b_ID_concatenated: monagas-sotillo, au_area km: 1821.5585908857056
+
+capa: au_compilado_R02, fid: 1222, b_ADM2_ES: Tucupita, b_ADM2_PCODE: VE1004, b_ADM1_ES: Delta Amacuro, b_ADM1_PCODE: VE10, b_adm1_geral: Delta Amacuro, b_adm2_geral: Tucupita, b_ID_concatenated: delta_amacuro-tucupita, au_country: Venezuela, au_level1: Delta Amacuro, au_level2: Tucupita, au_population: 102877, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: VERDADEIRO, au_eln: VERDADEIRO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: VERDADEIRO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_ID_concatenated: delta_amacuro-tucupita, au_area km: 11939.41739692681
+
+capa: au_compilado_R02, fid: 1223, b_ADM2_ES: Uracoa, b_ADM2_PCODE: VE1613, b_ADM1_ES: Monagas, b_ADM1_PCODE: VE16, b_adm1_geral: Monagas, b_adm2_geral: Uracoa, b_ID_concatenated: monagas-uracoa, au_area km: 1747.1169573297218
+
+capa: au_compilado_R02, fid: 1224, b_ADM2_ES: Angostura del Orinoco, b_ADM2_PCODE: VE0705, b_ADM1_ES: Bolívar, b_ADM1_PCODE: VE07, b_adm1_geral: Bolívar, b_adm2_geral: Angostura del Orinoco, b_ID_concatenated: bolivar-angostura_del_orinoco, au_country: Venezuela, au_level1: Bolivar, au_level2: Angostura del Orinoco, au_population: 342280, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: VERDADEIRO, au_invest. with presence: FALSO, au_ID_concatenated: bolivar-angostura_del_orinoco, au_area km: 7141.874473097752
+
+capa: au_compilado_R02, fid: 1225, b_ADM2_ES: José Gregorio Monagas, b_ADM2_PCODE: VE0310, b_ADM1_ES: Anzoátegui, b_ADM1_PCODE: VE03, b_adm1_geral: Anzoátegui, b_adm2_geral: José Gregorio Monagas, b_ID_concatenated: anzoategui-jose_gregorio_monagas, au_area km: 9891.985469726022
+
+capa: au_compilado_R02, fid: 1226, b_ADM2_ES: Independencia, b_ADM2_PCODE: VE0307, b_ADM1_ES: Anzoátegui, b_ADM1_PCODE: VE03, b_adm1_geral: Anzoátegui, b_adm2_geral: Independencia, b_ID_concatenated: anzoategui-independencia, au_area km: 6935.6696025344745
+
+capa: au_compilado_R02, fid: 1227, b_ADM2_ES: Francisco de Miranda, b_ADM2_PCODE: VE0305, b_ADM1_ES: Anzoátegui, b_ADM1_PCODE: VE03, b_adm1_geral: Anzoátegui, b_adm2_geral: Francisco de Miranda, b_ID_concatenated: anzoategui-francisco_de_miranda, au_area km: 5188.306788347977
+
+capa: au_compilado_R02, fid: 1228, b_ADM2_ES: Santa María de Ipire, b_ADM2_PCODE: VE1214, b_ADM1_ES: Guárico, b_ADM1_PCODE: VE12, b_adm1_geral: Guárico, b_adm2_geral: Santa María de Ipire, b_ID_concatenated: guarico-santa_maria_de_ipire, au_area km: 4531.865229572312
+
+capa: au_compilado_R02, fid: 1232, b_ADM2_ES: Atabapo, b_ADM2_PCODE: VE0202, b_ADM1_ES: Amazonas, b_ADM1_PCODE: VE02, b_adm1_geral: Amazonas, b_adm2_geral: Atabapo, b_ID_concatenated: amazonas-atabapo, au_country: Venezuela, au_level1: Amazonas, au_level2: Atabapo, au_population: 12687, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: VERDADEIRO, au_eln: VERDADEIRO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - ELN (Daniel Pérez Carrero)
+Segunda Marquetalia (Acacio Medina), au_popup_window_pt: - ELN (Daniel Pérez Carrero)
+Segunda Marquetalia (Acacio Medina), au_popup_window_en: - ELN (Daniel Pérez Carrero)
+Segunda Marquetalia (Acacio Medina), au_ID_concatenated: amazonas-atabapo, au_area km: 26216.533679680022
+
+capa: au_compilado_R02, fid: 1233, b_ADM2_ES: Autana, b_ADM2_PCODE: VE0204, b_ADM1_ES: Amazonas, b_ADM1_PCODE: VE02, b_adm1_geral: Amazonas, b_adm2_geral: Autana, b_ID_concatenated: amazonas-autana, au_country: Venezuela, au_level1: Amazonas, au_level2: Autana, au_population: 754, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: VERDADEIRO, au_eln: VERDADEIRO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - ELN (Daniel Pérez Carrero)
+Segunda Marquetalia (Acacio Medina), au_popup_window_pt: - ELN (Daniel Pérez Carrero)
+Segunda Marquetalia (Acacio Medina), au_popup_window_en: - ELN (Daniel Pérez Carrero)
+Segunda Marquetalia (Acacio Medina), au_ID_concatenated: amazonas-autana, au_area km: 15224.171212609175
+
+capa: au_compilado_R02, fid: 1234, b_ADM2_ES: San Fernando, b_ADM2_PCODE: VE0407, b_ADM1_ES: Apure, b_ADM1_PCODE: VE04, b_adm1_geral: Apure, b_adm2_geral: San Fernando, b_ID_concatenated: apure-san_fernando, au_area km: 5629.0368776777195
+
+capa: au_compilado_R02, fid: 1235, b_ADM2_ES: Cedeño, b_ADM2_PCODE: VE0702, b_ADM1_ES: Bolívar, b_ADM1_PCODE: VE07, b_adm1_geral: Bolívar, b_adm2_geral: Cedeño, b_ID_concatenated: bolivar-cedeno, au_country: Venezuela, au_level1: Bolivar, au_level2: Cedeño, au_population: 67000, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: VERDADEIRO, au_eln: VERDADEIRO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_ID_concatenated: bolivar-cedeno, au_area km: 47814.65142039778
+
+capa: au_compilado_R02, fid: 1236, b_ADM2_ES: Manapiare, b_ADM2_PCODE: VE0206, b_ADM1_ES: Amazonas, b_ADM1_PCODE: VE02, b_adm1_geral: Amazonas, b_adm2_geral: Manapiare, b_ID_concatenated: amazonas-manapiare, au_country: Venezuela, au_level1: Amazonas, au_level2: Manapiare, au_population: 7715, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: VERDADEIRO, au_eln: VERDADEIRO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - ELN (Daniel Pérez Carrero)
+Segunda Marquetalia (Acacio Medina), au_popup_window_pt: - ELN (Daniel Pérez Carrero)
+Segunda Marquetalia (Acacio Medina), au_popup_window_en: - ELN (Daniel Pérez Carrero)
+Segunda Marquetalia (Acacio Medina), au_ID_concatenated: amazonas-manapiare, au_area km: 35139.89067986372
+
+capa: au_compilado_R02, fid: 1237, b_ADM2_ES: Atures, b_ADM2_PCODE: VE0203, b_ADM1_ES: Amazonas, b_ADM1_PCODE: VE02, b_adm1_geral: Amazonas, b_adm2_geral: Atures, b_ID_concatenated: amazonas-atures, au_country: Venezuela, au_level1: Amazonas, au_level2: Atures, au_population: 104228, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: VERDADEIRO, au_eln: VERDADEIRO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - ELN (Daniel Pérez Carrero)
+Segunda Marquetalia (Acacio Medina), au_popup_window_pt: - ELN (Daniel Pérez Carrero)
+Segunda Marquetalia (Acacio Medina), au_popup_window_en: - ELN (Daniel Pérez Carrero)
+Segunda Marquetalia (Acacio Medina), au_ID_concatenated: amazonas-atures, au_area km: 4164.3270409646475
+
+capa: au_compilado_R02, fid: 1238, b_ADM2_ES: Pedro Camejo, b_ADM2_PCODE: VE0405, b_ADM1_ES: Apure, b_ADM1_PCODE: VE04, b_adm1_geral: Apure, b_adm2_geral: Pedro Camejo, b_ID_concatenated: apure-pedro_camejo, au_area km: 20959.412798339145
+
+capa: au_compilado_R02, fid: 1241, b_ADM2_ES: Puerto Carreño, b_ADM2_PCODE: CO99001, b_ADM1_ES: Vichada, b_ADM1_PCODE: CO99, b_adm1_geral: Vichada, b_adm2_geral: Puerto Carreño, b_ID_concatenated: vichada-puerto_carreno, au_country: Colombia, au_level1: Vichada, au_level2: Puerto Carreño, au_population: 24341, au_c_d_f: FALSO, au_emc: VERDADEIRO, au_embf: FALSO, au_seg_marq: VERDADEIRO, au_eln: VERDADEIRO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: VERDADEIRO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - ELN a través del Frente Jorge Daniel Perez Carrero
+- EMC: Bloque Amazonas (Iván Mordisco)
+- EMC: Frente 10 (Martín Villa)
+- Ejército Gaitanista de Colombia (EGC)
+- Segunda Marquetalia a través del Frente 53 (Edison Romaña), au_popup_window_pt: - ELN a través del Frente Jorge Daniel Perez Carrero
+- EMC: Bloque Amazonas (Iván Mordisco)
+- EMC: Frente 10 (Martín Villa)
+- Ejército Gaitanista de Colombia (EGC)
+- Segunda Marquetalia através da Frente 53 (Edison Romaña), au_popup_window_en: - ELN a través del Frente Jorge Daniel Perez Carrero
+- EMC: Bloque Amazonas (Iván Mordisco)
+- EMC: Frente 10 (Martín Villa)
+- Ejército Gaitanista de Colombia (EGC)
+- Segunda Marquetalia through Frente 53 (Edison Romaña), au_ID_concatenated: vichada-puerto_carreno, au_area km: 12074.385441844895

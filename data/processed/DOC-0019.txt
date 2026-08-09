@@ -1,0 +1,3126 @@
+Artificial Intelligence
+Index Report 2025
+CHAPTER 4:
+Economy
+Text and analysis by Njenga Kariuki
+
+Artificial Intelligence
+Index Report 2025
+Chapter 4: Economy
+Overview 3 4.4 Corporate Activity 47
+Chapter Highlights 4 Industry Usage 47
+Use of AI Capabilities 47
+4.1 What’s New in 2024: A Timeline 6 Deployment of Generative
+AI Capabilities 51
+AI’s Labor Impact 54
+4.2 Jobs 10
+AI Labor Demand 10
+4.5 Robot Deployments 59
+Global AI Labor Demand 10
+Aggregate Trends 59
+US AI Labor Demand by Skill
+Industrial Robots: Traditional
+Cluster and Specialized Skill 12
+vs. Collaborative Robots 61
+US AI Labor Demand by Sector 15
+By Geographic Area 62
+US AI Labor Demand by State 16
+Country-Level Data on Service
+AI Hiring 19
+Robotics 66
+AI Skill Penetration 21
+AI Talent 23
+Appendix 67
+Highlight: Measuring AI’s Current
+Economic Integration 29
+ACCESS THE PUBLIC DATA
+4.3 Investment 33
+Corporate Investment 33
+Startup Activity 34
+Global Trends 34
+Regional Comparison by
+Funding Amount 38
+Regional Comparison by
+Newly Funded AI Companies 42
+Focus Area Analysis 45
+
+AArrttiifificciiaall IInntteelllliiggeennccee
+IInnddeexx RReeppoorrtt 22002255
+CHAPTER 4:
+Economy
+Overview
+The economic implications of AI came into sharper focus in 2024, with substantive
+impact across many sectors. Early productivity gains from generative AI are becoming
+measurable in specific tasks, while questions persist about the technology’s long-term
+impact on the broader economy. The labor market has begun to show signs of AI-
+driven transformation, with certain knowledge-worker roles experiencing disruption
+as new AI-adjacent positions emerge. Companies across sectors and geographical
+regions are moving beyond experimental AI adoption toward systematic integration.
+Investment patterns reflect a growing sophistication in the AI landscape, with funding
+increasingly directed toward specialized applications in enterprise automation and
+industry-specific solutions.
+This chapter examines AI-related economic trends using data from Lightcast, LinkedIn,
+Quid, McKinsey and the International Federation of Robotics (IFR). It begins by analyzing
+AI-related occupations, covering labor demand, hiring trends, skill penetration, and
+talent availability. The chapter then explores corporate investment in AI, including
+a section focused specifically on generative AI. Finally, it assesses AI’s productivity
+impact as well as robot installations across various sectors.
+Chapter 4 Preview 3
+
+AArrttiifificciiaall IInntteelllliiggeennccee
+IInnddeexx RReeppoorrtt 22002255
+CHAPTER 4:
+Economy
+Chapter Highlights
+1. Global private AI investment hits record high with 26% growth. Corporate AI investment reached $252.3 billion
+in 2024, with private investment climbing 44.5% and mergers and acquisitions up 12.1% from the previous year. The sector
+has experienced dramatic expansion over the past decade, with total investment growing more than thirteenfold since 2014.
+2. Generative AI funding soars. Private investment in generative AI reached $33.9 billion in 2024, up 18.7% from 2023
+and over 8.5 times higher than 2022 levels. The sector now represents more than 20% of all AI-related private investment.
+3. The U.S. widens its lead in global AI private investment. U.S. private AI investment hit $109.1 billion in 2024,
+nearly 12 times higher than China’s $9.3 billion and 24 times the U.K.’s $4.5 billion. The gap is even more pronounced in
+generative AI, where U.S. investment exceeded the combined total of China and the European Union plus the U.K. by $25.4
+billion, expanding on its $21.8 billion gap in 2023.
+4. Use of AI climbs to unprecedented levels. In 2024, the proportion of survey respondents reporting AI use by their
+organizations jumped to 78% from 55% in 2023. Similarly, the number of respondents who reported using generative AI in at
+least one business function more than doubled—from 33% in 2023 to 71% last year.
+5. AI is beginning to deliver financial impact across business functions, but most companies are early in
+their journeys. Most companies that report financial impacts from using AI within a business function estimate the benefits
+as being at low levels. 49% of respondents whose organizations use AI in service operations report cost savings, followed by
+supply chain management (43%) and software engineering (41%), but most of them report cost savings of less than 10%. With
+regard to revenue, 71% of respondents using AI in marketing and sales report revenue gains, 63% in supply chain management,
+and 57% in service operations, but the most common level of revenue increases is less than 5%.
+6. Use of AI shows dramatic shifts by region, with Greater China gaining ground. While North America
+maintains its leadership in organizations’ use of AI, Greater China demonstrated one of the most significant year-over-year
+growth rates, with a 27 percentage point increase in organizational AI use. Europe followed with a 23 percentage point
+increase, suggesting a rapidly evolving global AI landscape and intensifying international competition in AI implementation.
+Chapter 4 Preview 4
+
+AArrttiifificciiaall IInntteelllliiggeennccee
+IInnddeexx RReeppoorrtt 22002255
+CHAPTER 4:
+Economy
+Chapter Highlights (cont’d)
+7. China’s dominance in industrial robotics continues despite slight moderation. In 2023, China installed
+276,300 industrial robots, six times more than Japan and 7.3 times more than the United States. Since surpassing Japan in
+2013, when it accounted for 20.8% of global installations, China’s share has risen to 51.1%. While China continues to install
+more robots than the rest of the world combined, this margin narrowed slightly in 2023, marking a modest moderation in its
+dramatic expansion.
+8. Collaborative and interactive robot installations become more common. In 2017, collaborative robots
+represented a mere 2.8% of all new industrial robot installations, a figure that climbed to 10.5% by 2023. Similarly, 2023 saw
+a rise in service robot installations across all application categories except medical robotics. This trend indicates not just an
+overall increase in robot installations but also a growing emphasis on deploying robots for human-facing roles.
+9. AI is driving significant shifts in energy sources, attracting interest in nuclear energy. Microsoft announced
+a $1.6 billion deal to revive the Three Mile Island nuclear reactor to power AI, while Google and Amazon have also secured
+nuclear energy agreements to support AI operations.
+10. AI boosts productivity and bridges skill gaps. Last year’s AI Index was among the first reports to highlight
+research showing AI’s positive impact on productivity. This year, additional studies reinforced those findings, confirming that
+AI boosts productivity and, in most cases, helps narrow the gap between low- and high-skilled workers.
+Chapter 4 Preview 5
+
+Artificial Intelligence
+Index Report 2025
+Chapter 4: Economy
+4.1 What’s New in 2024: A Timeline
+The chapter begins with an overview of some of the
+most significant AI-related economic events in 2024, as
+selected by the AI Index Steering Committee.
+4.1 What’s New in 2024: A Timeline
+Date Event Type Image
+Jan 16, 2024 Synopsys acquires Ansys for $35 billion to improve Acquisition
+silicon-to-systems design solutions.
+Figure 4.1.1
+Source: Synopsys, 2024
+Feb 21, 2024 Reports claim that OpenAI surpassed $2 billion in Valuation milestone
+annualized revenue in .
+Figure 4.1.2
+Source: Inc., 2024
+Feb 29, 2024 Figure AI, a humanoid robot startup, raises $675 Investment/funding
+million at a valuation of $2.6 billion.
+Figure 4.1.3
+Source: SiliconAngle, 2024
+Mar 21, 2024 Microsoft hires most of Inflection AI’s staff, Acquisition
+including cofounders, and pays $650 million to
+license Inflection’s AI models.
+Figure 4.1.4
+Source: Reuters, 2024
+May 1, 2024 CoreWeave, an AI cloud infrastructure startup, Investment/funding
+secures a $1.1 billion funding round at a valuation of
+$19 billion.
+Figure 4.1.5
+Source: Fortune, 2024
+Chapter 4 Preview 6
+
+Artificial Intelligence
+Index Report 2025
+Chapter 4: Economy
+4.1 What’s New in 2024: A Timeline
+May 21, 2024 Scale AI, a data-labeling startup, raises $1 billion Investment/funding
+and reaches a valuation of $13.8 billion.
+Figure 4.1.6
+Source: Reuters, 2024
+Jun 11, 2024 Mistral AI, a French open-source AI model startup, Investment/funding
+raises $640 million at a valuation of $6 billion.
+Figure 4.1.7
+Source: TechCrunch, 2024
+Jun 14, 2024 Tempus AI, a precision medicine company Investment/funding
+leveraging AI for medical data analysis, goes
+public, raising $410.7 million and achieving an
+implied valuation of over $6 billion.
+Figure 4.1.8
+Source: Reuters, 2024
+Jul 22, 2024 Cohere, an AI startup specializing in enterprise Investment/funding
+applications, raises $500 million in funding at a
+valuation of $5.5 billion.
+Figure 4.1.9
+Source: Crunchbase, 2024
+Aug 2, 2024 Google hires Character.AI’s cofounders along with Acquisition
+research team members and licenses the startup’s
+AI technology in a deal to buy out Character.AI’s
+shareholders for approximately $2.5 billion.
+Figure 4.1.10
+Source: The Verge, 2024
+Aug 5, 2024 Groq, an AI chip startup specializing in fast Investment/funding
+inference, raises $640 million at a valuation of $2.8
+billion.
+Figure 4.1.11
+Source: Groq, 2024
+Chapter 4 Preview 7
+
+Artificial Intelligence
+Index Report 2025
+Chapter 4: Economy
+4.1 What’s New in 2024: A Timeline
+Aug 12, 2024 AMD acquires Silo AI, Europe’s largest private AI Acquisition
+lab, for approximately $665 million.
+Figure 4.1.12
+Source: AMD, 2024
+Sep 5, 2024 Safe Superintelligence (SSI) secures $1 billion in Investment/funding
+funding.
+Figure 4.1.13
+Source: TechCrunch, 2024
+Sep 12, 2024 Salesforce launches Agentforce, a suite of Product launch/integration
+autonomous AI agents for business operations,
+across its platform.
+Figure 4.1.14
+Source: Salesforce, 2024
+Sep 20, 2024 Microsoft announces a $1.6 billion deal with Partnership
+Constellation Energy to revive the Three Mile Island
+nuclear reactor to power AI data centers.
+Figure 4.1.15
+Source: NPR, 2024
+Oct 2, 2024 OpenAI raises $6.6 billion at a valuation of $157 Investment/funding
+billion.
+Figure 4.1.16
+Source: Axios, 2024
+Oct 14, 2024 Google announces an agreement to purchase Partnership
+nuclear energy from multiple small modular
+reactors (SMRs) developed by Kairos Power.
+Figure 4.1.17
+Source: Google, 2024
+Oct 16, 2024 Amazon announces a nuclear energy plan for SMR Partnership
+development with Energy Northwest, X-energy,
+and Dominion Energy.
+Figure 4.1.18
+Source: Amazon, 2024
+Chapter 4 Preview 8
+
+Artificial Intelligence
+Index Report 2025
+Chapter 4: Economy
+4.1 What’s New in 2024: A Timeline
+Oct 17, 2024 Google’s NotebookLM sheds “experimental” label Product launch/integration
+and boasts millions of users and 80,000-plus
+organizations.
+Figure 4.1.19
+Source: Google, 2024
+Nov 22, 2024 Anthropic expands its partnership with AWS with Partnership
+an additional $4 billion investment from Amazon,
+bringing the total to $8 billion.
+Figure 4.1.20
+Source: Anthropic, 2024
+Dec 17, 2024 Databricks, an AI data analytics company, raises Investment/funding
+$10 billion at a valuation of $62 billion.
+Figure 4.1.21
+Source: TechCrunch, 2024
+Dec 18, 2024 Perplexity AI, a startup focused on AI-powered Investment/funding
+search products, raises $500 million at a valuation
+of $9 billion.
+Figure 4.1.22
+Source: AI Magazine, 2024
+Dec 23, 2024 xAI announces a $6 billion funding round, bringing Investment/funding
+the total to $12 billion at a valuation of over $40
+billion.
+Figure 4.1.23
+Source: Forbes, 2024
+Dec 30, 2024 Nvidia acquires Israeli startup Run:ai for $700 Acquisition
+million to increase its GPU optimization capability
+in demanding computing environments.
+Figure 4.1.24
+Source: TechCrunch, 2024
+Chapter 4 Preview 9
+
+Artificial Intelligence
+Index Report 2025
+4.2 Jobs
+AI Labor Demand
+This section analyzes the demand for AI-related skills in labor Global AI Labor Demand
+markets, drawing on data from Lightcast. Since 2010, Lightcast Figure 4.2.1 and Figure 4.2.2 show the percentage of job
+has analyzed hundreds of millions of job postings from over postings demanding AI skills. In 2024, Singapore (3.2%),
+51,000 websites, identifying those that require AI skills. Luxembourg (2%), and Hong Kong (1.9%) led in this metric.
+In 2023, AI-related jobs accounted for 1.4% of all American
+job postings. In 2024, that number increased to 1.8%. Most
+countries saw an increase from 2023 to 2024 in the share of
+job postings requiring AI skills.
+5.00%
+4.00%
+3.00%
+2.00%
+1.00%
+0.00%
+2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024
+Chapter 4 Preview 10
+)sgnitsop
+boj
+lla
+fo
+%(
+sgnitsop
+boj
+IA
+Chapter 4: Economy
+4.2 Jobs
+AI job postings (% of all job postings) by select geographic areas, 2014–24 (part 1)
+Source: Lightcast, 2024 | Chart: 2025 AI Index report
+3.27%, Singapore
+1.99%, Luxembourg
+1.89%, Hong Kong
+1.79%, United States
+1.72%, United Arab Emirates
+1.41%, Canada
+1.37%, Switzerland
+1.31%, Belgium
+1.31%, Sweden
+1.26%, United Kingdom
+1.25%, Netherlands
+Figure 4.2.1
+
+Artificial Intelligence
+Index Report 2025
+Chapter 4: Economy
+4.2 Jobs
+5.00%
+4.00%
+3.00%
+2.00%
+1.00%
+0.00%
+2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024
+Chapter 4 Preview 11
+)sgnitsop
+boj
+lla
+fo
+%(
+sgnitsop
+boj
+IA
+AI job postings (% of all job postings) by select geographic areas, 2014–24 (part 2)
+Source: Lightcast, 2024 | Chart: 2025 AI Index report
+1.24%, Spain
+1.15%, Germany
+1.14%, Australia
+1.10%, France
+1.06%, Austria
+0.87%, Italy
+0.73%, Mexico
+0.65%, Chile
+0.55%, New Zealand
+0.13%, Croatia
+Figure 4.2.2
+
+Artificial Intelligence
+Index Report 2025
+1.00%
+0.80%
+0.60%
+0.40%
+0.20%
+0.00%
+2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024
+Chapter 4 Preview 12
+)sgnitsop
+boj
+lla
+fo
+%(
+sgnitsop
+boj
+IA
+Chapter 4: Economy
+4.2 Jobs
+US AI Labor Demand by Skill Cluster and Specialized Skill
+Figure 4.2.3 highlights the most sought-after AI skills in 0.2%. Since last year, most AI-related skill clusters tracked
+the U.S. labor market since 2010. Leading the demand was by Lightcast have had an increase in market share, with the
+artificial intelligence at 0.9%, followed closely by machine exception of autonomous driving and robotics. Generative AI
+learning, also at 0.9%, and natural language processing at saw the largest increase, growing by nearly a factor of four.
+AI job postings (% of all job postings) in the United States by skill cluster, 2010–24
+Source: Lightcast, 2024 | Chart: 2025 AI Index report
+0.94%, Arti cial intelligence
+0.92%, Machine learning
+0.23%, Natural language processing
+0.22%, Generative AI
+0.16%, Neural networks
+0.13%, Autonomous driving
+0.09%, Visual image recognition
+0.07%, Robotics
+0.02%, AI ethics, governance, and regulations
+Figure 4.2.31
+1 A single job posting can list multiple AI skills.
+
+Artificial Intelligence
+Index Report 2025
+Chapter 4: Economy
+4.2 Jobs
+Figure 4.2.4 compares the top 10 specialized skills sought has increased over the past decade, with Python’s notable
+in AI job postings in 2024 versus those from 2012 to 2014.2 increase in popularity highlighting its ascendance as a
+On an absolute scale, the demand for every specialized skill preferred AI programming language.
+Top 10 specialized skills in 2024 AI job postings in the United States, 2012–14 vs. 2024
+Source: Lightcast, 2024 | Chart: 2025 AI Index report
+199,213 (+527%)
+Python (programming language)
+31,782
+193,341 (+131%)
+Computer science
+83,826
+128,938 (+208%)
+Data analysis
+41,842
+119,441 (+133%)
+SQL (programming language)
+51,304
+110,620 (+833%)
+Data science
+11,861
+102,210 (+361%)
+Automation
+22,157
+101,127 (+87%)
+Project management
+54,035
+100,881 (+1,778%)
+Amazon Web Services
+5,371
+88,141 (+334%)
+Agile methodology
+20,330
+
+86,990 (+337%) 2012–14
+Scalability
+19,886
+0 50,000 100,000 150,000 200,000
+Number of AI job postings
+Figure 4.2.4
+2 The decision to select 2012–2014 as the point of comparison was due to the scarcity of data at the jobs/skills level from earlier years. Lightcast therefore used 2012–2014 to have a larger
+sample size for a benchmark from 10 years ago with which to compare. Figure 4.2.4 juxtaposes the total number of job postings requiring certain skills from 2012 to 2014 with the total amount
+in 2024.
+Chapter 4 Preview 13
+
+Artificial Intelligence
+Index Report 2025
+Chapter 4: Economy
+4.2 Jobs
+In 2024, year-over-year U.S. job postings citing generative AI skills increased by more than a factor of three (Figure 4.2.5).
+Figure 4.2.6 illustrates the proportion of AI job postings released in 2024 and 2023 that referenced particular generative AI skills.
+Generative AI skills in AI job postings in the United States, 2023 vs. 2024
+Source: Lightcast, 2024 | Chart: 2025 AI Index report
+66,635 (+323%)
+Generative arti cial intelligence
+15,741
+19,562 (+295%)
+Large language modeling
+4,956
+5,664 (+86%)
+ChatGPT
+3,047
+6,263 (+350%)
+Prompt engineering
+1,393
+2,213 (+67%)
+Generative adversarial networks
+1,323
+1,045 (-48%)
+Text to speech (TTS)
+2,021
+2,834 (+2,047%)
+Retrieval augmented generation
+
+1,496 (+2,238%)
+Microsoft Copilot
+
+756 (+89%)
+Variational autoencoders
+400 2024
+
+733 (+1,566%)
+Multimodal models
+
+0 6,000 12,000 18,000 24,000 30,000 36,000 42,000 48,000 54,000 60,000 66,000 72,000 78,000
+Number of AI job postings
+Figure 4.2.5
+Share of generative AI skills in AI job postings in the United States, 2023 vs. 2024
+Source: Lightcast, 2024 | Chart: 2025 AI Index report
+60.48% (+16%)
+Generative arti cial intelligence
+52.23%
+17.76% (+8%)
+Large language modeling
+16.45%
+5.14% (-49%)
+ChatGPT
+10.11%
+5.68% (+23%)
+Prompt engineering
+4.62%
+0.95% (-86%)
+Text to speech (TTS)
+6.71%
+2.01% (-54%)
+Generative adversarial networks
+4.39%
+2.57% (+487%)
+Retrieval augmented generation
+0.44%
+0.69% (-48%)
+Variational autoencoders
+1.33%
+1.36% (+539%)
+Microsoft Copilot
+0.21% 2024
+
+0.67% (+356%)
+Multimodal models
+0.15%
+0% 10% 20% 30% 40% 50% 60%
+Skill share in AI job postings (%) Figure 4.2.6
+Chapter 4 Preview 14
+
+Artificial Intelligence
+Index Report 2025
+Chapter 4: Economy
+4.2 Jobs
+US AI Labor Demand by Sector
+Figure 4.2.7 shows the percentage of U.S. job postings job postings in 2024 compared to 2023, except for public
+requiring AI skills by industry sector from 2023 to 2024. Nearly administration.
+every sector experienced an increase in the proportion of AI
+AI job postings (% of all job postings) in the United States by sector, 2023 vs. 2024
+Source: Lightcast, 2024 | Chart: 2025 AI Index report
+Information 9.33% (+79.56%)
+5.19%
+Professional, scienti c, and technical services 5.25% (+31.20%)
+4.00%
+Finance and insurance 3.76% (+16.15%)
+3.24%
+Manufacturing 3.75% (+30.21%)
+2.88%
+Utilities 2.15% (+55.08%)
+1.39%
+Educational services 2.05% (+14.98%)
+1.79%
+Management of companies and enterprises 1.92% (+13.57%)
+1.69%
+Mining, quarrying, and oil and gas extraction 1.87% (+67.82%)
+1.11%
+Public administration 1.29% (-26.93%)
+1.76%
+Real estate and rental and leasing 1.21% (+41.95%)
+0.85%
+Wholesale trade 1.20% (+43.41%)
+0.84%
+Retail trade 1.16% (+101.95%)
+0.57%
+Agriculture, forestry, shing and hunting 1.07% (+22.26%)
+0.87%
+
+Transportation and warehousing 0.6 0 1 . % 82% (+35.81%) 2023
+Waste management and administrative support services 0.48% (+15.65%)
+0.41%
+0% 1% 2% 3% 4% 5% 6% 7% 8% 9% 10% 11%
+AI job postings (% of all job postings)
+Figure 4.2.73
+3 The sector classifications in Figure 4.2.7 are based on two-digit NAICS codes. For more information on the Bureau of Labor Statistics’ supersector and NAICS classifications, see the
+following reference.
+Chapter 4 Preview 15
+
+Artificial Intelligence
+Index Report 2025
+Chapter 4: Economy
+4.2 Jobs
+US AI Labor Demand by State Number of AI job postings in the United States by state, 2024
+Source: Lightcast, 2024 | Chart: 2025 AI Index report
+Figure 4.2.8 highlights the number of
+AI job postings in the United States
+AK ME
+by state. The top three states were 2,225 2,472
+California (103,375), Texas (57,785), VT NH MA
+1,304 3,100 29,097
+and New York (37,944).
+WA MT ND SD MN WI MI NY CT RI
+31,067 2,456 1,606 1,839 10,445 7,415 15,583 37,944 8,091 3,569
+Figure 4.2.9 demonstrates what
+OR ID WY NE IA IL IN OH PA NJ
+percentage of a state’s total job
+8,643 4,149 976 3,829 4,274 26,131 7,232 16,518 19,294 19,504
+postings were AI-related. The top
+CA NV UT CO KS MO KY WV DC MD DE
+states according to this metric were 103,375 4,484 6,584 15,927 5,951 9,138 4,341 1,296 10,121 14,906 3,767
+the District of Columbia (4.4%),
+AZ NM OK AR TN VA NC
+followed by Delaware (3.4%) and 12,939 3,617 4,512 4,707 9,184 31,186 18,916
+Washington (3.3%). TX LA MS AL GA SC
+57,785 3,770 2,877 6,876 20,260 5,362
+HI FL
+2,693 25,211
+Figure 4.2.8
+Percentage of US states job postings in AI, 2024
+Source: Lightcast, 2024 | Chart: 2025 AI Index report
+AK ME
+1.60% 1.57%
+VT NH MA
+1.43% 1.16% 2.71%
+WA MT ND SD MN WI MI NY CT RI
+3.27% 1.59% 1.22% 1.18% 1.46% 1.00% 1.51% 2.19% 1.64% 2.13%
+OR ID WY NE IA IL IN OH PA NJ
+1.54% 1.91% 1.74% 1.34% 1.06% 1.87% 0.97% 1.19% 1.46% 2.07%
+CA NV UT CO KS MO KY WV DC MD DE
+2.67% 1.18% 1.75% 1.78% 1.52% 1.26% 1.04% 1.13% 4.44% 2.29% 3.38%
+AZ NM OK AR TN VA NC
+1.50% 1.30% 1.09% 1.86% 1.14% 2.77% 1.52%
+TX LA MS AL GA SC
+1.86% 0.92% 1.37% 1.38% 1.82% 0.98%
+HI FL
+1.44% 1.09%
+Figure 4.2.9
+Chapter 4 Preview 16
+
+Artificial Intelligence
+Index Report 2025
+Chapter 4: Economy
+4.2 Jobs
+Figure 4.2.10 examines which U.S. states Percentage of US AI job postings by state, 2024
+Source: Lightcast, 2024 | Chart: 2025 AI Index report
+accounted for the largest proportion of
+AI job postings nationwide. In 2024,
+AK ME
+15.7% of all AI job postings in the United 0.34% 0.38%
+States were for jobs based in California, VT NH MA
+0.20% 0.47% 4.42%
+followed by Texas (8.8%) and New York
+(5.8%). WA MT ND SD MN WI MI NY CT RI
+4.72% 0.37% 0.24% 0.28% 1.59% 1.13% 2.37% 5.76% 1.23% 0.54%
+OR ID WY NE IA IL IN OH PA NJ
+Figure 4.2.11 illustrates trends in four
+1.31% 0.63% 0.15% 0.58% 0.65% 3.97% 1.10% 2.51% 2.93% 2.96%
+states with a significant number of AI
+CA NV UT CO KS MO KY WV DC MD DE
+job postings: Washington, California, 15.70% 0.68% 1.00% 2.42% 0.90% 1.39% 0.66% 0.20% 1.54% 2.26% 0.57%
+New York, and Texas. Each experienced
+AZ NM OK AR TN VA NC
+a notable increase in the share of total 1.96% 0.55% 0.69% 0.71% 1.39% 4.74% 2.87%
+AI-related job postings from 2023 to TX LA MS AL GA SC
+8.77% 0.57% 0.44% 1.04% 3.08% 0.81%
+2024.
+HI FL
+0.41% 3.83%
+3.00%
+2.50%
+2.00%
+1.50%
+1.00%
+0.50%
+0.00%
+2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024
+Chapter 4 Preview 17
+IA
+ni
+sgnitsop
+boj
+’setats
+SU
+fo
+egatnecreP
+Figure 4.2.10
+Percentage of US states’ job postings in AI by select US state, 2010–24
+Source: Lightcast, 2024 | Chart: 2025 AI Index report
+3.27%, Washington
+2.67%, California
+2.19%, New York
+1.86%, Texas
+Figure 4.2.11
+
+Artificial Intelligence
+Index Report 2025
+25%
+20%
+15%
+10%
+5%
+0%
+2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024
+Chapter 4 Preview 18
+sgnitsop
+boj
+IA
+setatS
+detinU
+fo
+egatnecreP
+Chapter 4: Economy
+4.2 Jobs
+Figure 4.2.12 shows how AI-related job postings have been AI job postings—a particularly notable change in California
+distributed across the top four states over time. In 2024, all and New York, both of which had experienced decreases
+four states reversed multiyear declines in their proportion of since 2020.
+Percentage of US AI job postings by select US state, 2010–24
+Source: Lightcast, 2024 | Chart: 2025 AI Index report
+15.70%, California
+8.77%, Texas
+5.76%, New York
+4.72%, Washington
+Figure 4.2.12
+
+Artificial Intelligence
+Index Report 2025
+Chapter 4: Economy
+4.2 Jobs
+AI Hiring
+The hiring data presented in the AI Index is based on as the percentage of LinkedIn members who added a new
+LinkedIn’s Economic Graph, reflecting the jobs and skills employer in the same period the job began, divided by the
+of the platform’s 1+ billion members. As such, the data is total number of LinkedIn members in the corresponding
+influenced by how members choose to use the platform, location. Conversely, the relative AI talent hiring rate is the
+which can vary based on professional, social, and regional year-over-year change in AI hiring relative to the overall
+cultures, as well as overall site availability and accessibility. hiring rate in the same geographic area.4 Therefore, Figure
+The AI Index notes that Hungary, Indonesia, India, and South 4.2.13 illustrates AI hiring vibrancy in those regions that have
+Korea, included in the sample, have LinkedIn covering a experienced the most significant rise in AI talent recruitment
+lower portion of the labor force, so insights drawn about compared to the overall hiring rate. In 2024, the countries
+these countries should be interpreted with particular caution. with the greatest relative AI hiring rates year-over-year were
+India (33.4%), followed by Brazil (30.8%) and Saudi Arabia
+Figure 4.2.13 reports the relative AI hiring rate year-over-year (28.7%). This means, for example, that in 2024 in India, the
+ratio by geographic area. The overall hiring rate is computed ratio of AI talent hiring relative to overall hiring grew 33.4%.
+Relative AI hiring rate year-over-year ratio by geographic area, 2024
+Source: LinkedIn, 2024 | Chart: 2025 AI Index report
+India 33.39%
+Brazil 30.83%
+Saudi Arabia 28.71%
+Slovenia 28.21%
+Romania 27.31%
+Finland 26.98%
+Argentina 26.39%
+Canada 26.13%
+Singapore 24.97%
+United Arab Emirates 24.88%
+United States 24.73%
+Ireland 24.58%
+South Africa 24.24%
+Mexico 24.02%
+Latvia 23.60%
+0% 5% 10% 15% 20% 25% 30% 35%
+Relative AI hiring rate year-over-year ratio
+Figure 4.2.135
+Figure 4.2.14 showcases the year-over-year ratio of AI hiring Chile have experienced notable upticks in AI hiring rates.
+by geographic areas over the past five years. Starting in 2024, Other countries that have recently experienced similar rises
+several South American countries like Argentina, Brazil, and include Canada, India, South Africa, and the United States.
+4 For each month, LinkedIn calculates the AI hiring rate in the geographic area, divides the AI hiring rate by the overall hiring rate in that geographic area, calculates the year-over-year change
+of this ratio, and then takes the 12-month moving average using the last 12 months.
+5 For brevity, the visualization only includes the top 15 countries for this metric.
+Chapter 4 Preview 19
+
+Artificial Intelligence
+Index Report 2025
+100% 100% 100% 100%
+50% 50% 50% 50%
+0% 0% 0% 0%
+2018 2021 2024 2018 2021 2024 2018 2021 2024 2018 2021 2024
+100% 100% 100% 100%
+50% 50% 50% 50%
+0% 0% 0% 0%
+2018 2021 2024 2018 2021 2024 2018 2021 2024 2018 2021 2024
+100% 100% 100% 100%
+50% 50% 50% 50%
+0% 0% 0% 0%
+2018 2021 2024 2018 2021 2024 2018 2021 2024 2018 2021 2024
+100% 100% 100% 100%
+50% 50% 50% 50%
+0% 0% 0% 0%
+2018 2021 2024 2018 2021 2024 2018 2021 2024 2018 2021 2024
+100% 100% 100% 100%
+50% 50% 50% 50% 0% 0% 0% 0%
+2018 2021 2024 2018 2021 2024 2018 2021 2024 2018 2021 2024
+100% 100% 100% 100%
+50% 50% 50% 50%
+0% 0% 0% 0%
+2018 2021 2024 2018 2021 2024 2018 2021 2024 2018 2021 2024
+100% 100% 100% 100%
+50% 50% 50% 50%
+0% 0% 0% 0%
+2018 2021 2024 2018 2021 2024 2018 2021 2024 2018 2021 2024
+100% 100% 100% 100%
+50% 50% 50% 50%
+0% 0% 0% 0%
+2018 2021 2024 2018 2021 2024 2018 2021 2024 2018 2021 2024
+100% 100% 100% 100%
+50% 50% 50% 50%
+0% 0% 0% 0%
+2018 2021 2024 2018 2021 2024 2018 2021 2024 2018 2021 2024
+100% 100% 100% 100%
+50% 50% 50% 50%
+0% 0% 0% 0%
+2018 2021 2024 2018 2021 2024 2018 2021 2024 2018 2021 2024
+100% 100% 100% 100%
+50% 50% 50% 50%
+0% 0% 0% 0%
+2018 2021 2024 2018 2021 2024 2018 2021 2024 2018 2021 2024
+100% 100% 100%
+50% 50% 50%
+0% 0% 0%
+2018 2021 2024 2018 2021 2024 2018 2021 2024 Figure 4.2.14
+Chapter 4 Preview 20
+oitar
+raey-revo-raey
+etar
+gnirih
+IA
+evitaleR
+Chapter 4: Economy
+4.2 Jobs
+Relative AI hiring rate year-over-year ratio by geographic area, 2018–24
+Source: LinkedIn, 2024 | Chart: 2025 AI Index report
+Argentina Australia Austria Belgium
+26.39% 16.78% 16.23% 10.53%
+Brazil Canada Chile Costa Rica
+30.83% 26.12% 22.18% 17.61%
+Croatia Cyprus Czech Republic Denmark
+7.62% 6.86% 11.29% 20.47%
+Estonia Finland France Germany
+17.40% 26.98% 5.75% 9.10%
+Greece Hong Kong Hungary India
+14.52% 20.83% 22.34% 33.39%
+Indonesia Ireland Israel Italy
+16.61% 24.58% 14.28% 19.78%
+Latvia Lithuania Luxembourg Mexico
+23.59% 12.20% 9.15% 24.02%
+Netherlands New Zealand Norway Poland
+8.57% 12.72% 13.33% 13.05%
+Portugal Romania Saudi Arabia Singapore
+19.67% 27.31% 28.71% 24.97%
+Slovenia South Africa South Korea Spain
+28.21% 24.24% 13.21% 18.22%
+Sweden Switzerland Turkey United Arab Emirates
+19.12% 18.43% 20.36% 24.88%
+United Kingdom United States Uruguay
+13.78% 24.73% 13.22%
+
+Artificial Intelligence
+Index Report 2025
+Chapter 4: Economy
+4.2 Jobs
+AI Skill Penetration
+Figure 4.2.15 and Figure 4.2.16 highlight relative AI skill penetration of AI skills among engineers is estimated to be
+penetration. The aim of this indicator is to measure the 8% (4/50).
+intensity of AI skills in a particular country or by industry or
+gender. The AI skill penetration rate signals the prevalence For the period from 2015 to 2024, the countries with the
+of AI skills across occupations or the intensity with which highest AI skill penetration rates were the United States (2.6)
+LinkedIn members utilize AI skills in their jobs. For example, and India (2.5). They were followed by the United Kingdom
+the top 50 skills for the occupation of engineer are calculated (1.4), Germany (1.3), and Brazil (1.3). In the United States,
+based on the weighted frequency with which they appear in therefore, the relative penetration of AI skills was 2.6 times
+LinkedIn member profiles. If, for instance, four of the skills greater than the global average across the same set of
+that engineers possess belong to the AI skill group, the occupations.
+Relative AI skill penetration rate by geographic area, 2015–24
+Source: LinkedIn, 2024 | Chart: 2025 AI Index report
+United States 2.63
+India 2.51
+United Kingdom 1.40
+Germany 1.32
+Brazil 1.31
+Canada 1.30
+France 1.23
+Spain 1.10
+Indonesia 1.04
+Global 1.00
+Australia 0.95
+Turkey 0.94
+Netherlands 0.92
+Italy 0.90
+Israel 0.87
+0.00 0.50 1.00 1.50 2.00 2.50
+Relative AI skill penetration rate
+Figure 4.2.15
+Chapter 4 Preview 21
+
+Artificial Intelligence
+Index Report 2025
+Chapter 4: Economy
+4.2 Jobs
+Figure 4.2.16 disaggregates AI skill penetration rates by same set of occupations in the country. For all countries in
+gender across different countries or regions. A country’s the sample, with the exception of Saudi Arabia, the relative
+rate of 1.5 for women means female LinkedIn members in AI skill penetration rate is greater for men than women. India
+that country are 1.5 times more likely to list AI skills than the (1.9), United States (1.7), and Canada (1.0) have the highest
+average member in all countries pooled together across the reported relative AI skill penetration rates for women.
+Relative AI skill penetration rate across gender, 2015–24
+Source: LinkedIn, 2024 | Chart: 2025 AI Index report
+India 2.38
+1.91
+United States 2.39
+1.71
+Canada 1.30
+0.97
+United Kingdom 1.29
+0.90
+Germany 1.34
+0.89
+France 1.25
+0.83
+Brazil 1.30
+0.83
+Israel 0.89
+0.79
+Spain 1.13
+0.75
+Netherlands 0.98
+0.72
+Australia 0.89
+0.68
+Italy 0.91
+0.67
+Turkey 0.96
+0.66
+Singapore 0.77 Male
+0.64 Female
+Saudi Arabia 0.59
+0.61
+0.00 0.50 1.00 1.50 2.00 2.50
+Relative AI skill penetration rate
+Figure 4.2.16
+Chapter 4 Preview 22
+
+Artificial Intelligence
+Index Report 2025
+Chapter 4: Economy
+4.2 Jobs
+AI Talent
+Figures 4.2.17 and 4.2.18 examine AI talent by country. A Figure 4.2.17 shows AI talent concentration in various
+LinkedIn member is considered to have AI talent if they geographic areas. In 2024, the countries with the highest
+have explicitly added AI skills to their profile, work or have concentrations of AI talent include Israel (2.0%), Singapore
+worked in AI. Counts of AI talent are used to calculate talent (1.6%), and Luxembourg (1.4%). Figure 4.2.18 looks at the
+concentration, or the portion of members who are AI talent. percent change in AI talent concentration for a selection of
+Note that concentration metrics may be influenced by countries since 2016. During that time period, several major
+LinkedIn coverage in these countries and should be used economies registered substantial increases in their AI talent
+with caution. pools. The countries showing the greatest increases are India
+(252%), Costa Rica (240%), and Portugal (237%).
+AI talent concentration by geographic area, 2024 Percentage change in AI talent concentration by
+Source: LinkedIn, 2024 | Chart: 2025 AI Index report geographic area, 2016 vs. 2024
+Israel 1.98% Source: LinkedIn, 2024 | Chart: 2025 AI Index report
+India 252%
+Singapore 1.64%
+Costa Rica 240%
+Luxembourg 1.44%
+Portugal 237%
+Estonia 1.17%
+Cyprus 219%
+Switzerland 1.16%
+Brazil 217%
+Finland 1.13%
+Estonia 207%
+Ireland 1.11%
+Turkey 198%
+Germany 1.09%
+Croatia 192%
+Netherlands 1.07%
+Denmark 192%
+South Korea 1.06%
+Indonesia 191%
+Lithuania 1.06% Iceland 173%
+Poland 0.94% Uruguay 171%
+Canada 0.93% Argentina 170%
+Hungary 0.92% United Arab Emirates 168%
+Sweden 0.90% Canada 166%
+0.00% 0.50% 1.00% 1.50% 2.00% 0% 40% 80% 120% 160% 200% 240% 280%
+AI talent concentration % change in AI talent concentration
+Figure 4.2.17 Figure 4.2.18
+There are also notable gender differences in AI talent concentration of AI talent was higher among men than women
+concentration. For every country included in the analysis (Figure 4.2.19). Israel reported the highest concentration of
+sample, with the exception of India and Saudi Arabia, the female AI talent in 2024, at 1.6%.
+Chapter 4 Preview 23
+
+Artificial Intelligence
+Index Report 2025
+AI talent concentration by gender and geographic area, 2016–24
+Source: LinkedIn, 2024 | Chart: 2025 AI Index report
+Argentina Australia Austria Belgium
+0.40% 0.45% 1.00% 1.00% 1.00% 1.07% 1.00% 0.95%
+0.20% 0.18% 0.50% 0.52% 0.50% 0.48% 0.50% 0.39%
+0.00% 0.00% 0.00% 0.00%
+2016 2020 2024 2016 2020 2024 2016 2020 2024 2016 2020 2024
+Brazil Canada Chile Costa Rica
+0.40% 0.37% 1.15% 0.60% 0.49% 1.00% 0.85%
+1.00% 0.40%
+0.20% 0.11% 0.50% 0.61% 0.20% 0.17% 0.50% 0.45%
+0.00% 0.00% 0.00% 0.00%
+2016 2020 2024 2016 2020 2024 2016 2020 2024 2016 2020 2024
+Croatia Cyprus Czech Republic Denmark
+1.00% 1.50%
+0.83% 1.00% 1.27% 1.00% 1.14% 1.00% 1.07%
+0.50% 0.46% 0.50% 0.59% 0.50% 0.47% 0.50% 0.44%
+0.00% 0.00% 0.00% 0.00%
+2016 2020 2024 2016 2020 2024 2016 2020 2024 2016 2020 2024
+Estonia Finland France Germany
+2.00% 1.69% 2.00% 1.71% 1.00% 1.06% 1.50% 1.38%
+1.00% 0.81% 1.00% 0.75% 0.50% 0.53% 0 1. . 0 50 0 % % 0.65%
+0.00% 0.00% 0.00% 0.00%
+2016 2020 2024 2016 2020 2024 2016 2020 2024 2016 2020 2024
+Greece Hong Kong India Ireland
+1.50% 1.38% 1.00% 1.05% 1.00% 0.92% 1.50% 1.40%
+1.00% 0.89% 1.00%
+0.50% 0.62% 0.50% 0.52% 0.50% 0.50% 0.75%
+0.00% 0.00% 0.00% 0.00%
+2016 2020 2024 2016 2020 2024 2016 2020 2024 2016 2020 2024
+Israel Italy Latvia Lithuania
+3.00% 2.88% 0.60% 0.55% 1.00% 0.95% 1.50% 1.47%
+2 1. . 0 0 0 0 % % 1.60% 0 0 . .4 20 0 % % 0.29% 0.50% 0.46% 0 1. . 0 50 0 % % 0.74%
+0.00% 0.00% 0.00% 0.00%
+2016 2020 2024 2016 2020 2024 2016 2020 2024 2016 2020 2024
+Luxembourg Mexico Netherlands New Zealand
+1.00%
+2.00% 1.86% 0.40% 0.39% 1.50% 1.38% 0.81%
+1.00% 0.96% 0.20% 0.18% 0 1. . 0 50 0 % % 0.72% 0.50% 0.46%
+0.00% 0.00% 0.00% 0.00%
+2016 2020 2024 2016 2020 2024 2016 2020 2024 2016 2020 2024
+Norway Poland Portugal Romania
+1.00% 0.86% 1.50% 1.30% 1.00% 0.88% 0.75%
+0.50% 0.44% 0 1. . 0 5 0 0% % 0.59% 0.50% 0.36% 0.50% 0.47%
+0.00% 0.00% 0.00% 0.00%
+2016 2020 2024 2016 2020 2024 2016 2020 2024 2016 2020 2024
+Saudi Arabia Singapore South Africa Spain
+0.60% 0.60% 2.00% 1.91% 0.40% 0.40% 1.00% 0.86%
+0 0 . .4 2 0 0 % % 0.40% 1.00% 1.35% 0.20% 0.24% 0.50% 0.37%
+0.00% 0.00% 0.00% 0.00%
+2016 2020 2024 2016 2020 2024 2016 2020 2024 2016 2020 2024
+Sweden Switzerland Turkey United Arab Emirates
+1.50% 2.00% 0.42% 0.59%
+1.00% 1.21% 1.00% 1.55% 0.40% 0.33% 0 0 . . 6 40 0 % % 0.55%
+0.50% 0.58% 0.70% 0.20% 0.20%
+0.00% 0.00% 0.00% 0.00%
+2016 2020 2024 2016 2020 2024 2016 2020 2024 2016 2020 2024
+United Kingdom United States Uruguay
+1.00% 1.08% 1.00% 0.99% 0.40% 0.45% Male
+0.50% 0.56% 0.50% 0.51% 0.20% 0.15% Female
+0.00% 0.00% 0.00%
+2016 2020 2024 2016 2020 2024 2016 2020 2024
+Chapter 4 Preview 24
+noitartnecnoc
+tnelat
+IA
+Chapter 4: Economy
+4.2 Jobs
+Figure 4.2.19
+
+Artificial Intelligence
+Index Report 2025
+80%
+70%
+60%
+50%
+40%
+30%
+20%
+10%
+0%
+2016 2017 2018 2019 2020 2021 2022 2023 2024
+Chapter 4 Preview 25
+noitatneserper
+tnelat
+IA
+Chapter 4: Economy
+4.2 Jobs
+LinkedIn also tracks the gender distribution of AI talent (Figure 4.2.20). In 2024, it estimates that 69.5% of AI professionals on the
+platform are male, while 30.5% are female. This ratio has remained remarkably stable over time.
+Global AI talent representation, 2016–24
+Source: LinkedIn, 2024 | Chart: 2025 AI Index report
+69.46%, Male
+30.54%, Female
+Figure 4.2.20
+LinkedIn’s data on AI talent can also be broken down by country. In every country in the sample, men proportionally outnumber
+women in AI roles (Figure 4.2.21). New Zealand and Romania have the most balanced gender distribution, while Brazil and Chile
+have the least.
+
+Artificial Intelligence
+Index Report 2025
+Chapter 4: Economy
+4.2 Jobs
+AI talent representation by gender and geographic area, 2016–24
+Source: LinkedIn, 2024 | Chart: 2025 AI Index report
+Argentina Australia Austria Belgium
+100% 100% 100% 100%
+71.36% 68.61% 75.66% 75.87%
+50% 50% 50% 50%
+28.64% 31.39% 24.34% 24.13%
+0% 0% 0% 0%
+2016 2020 2024 2016 2020 2024 2016 2020 2024 2016 2020 2024
+Brazil Canada Chile Costa Rica
+100% 100% 100% 100%
+77.11% 67.78% 77.11% 68.65%
+50% 50% 50% 50%
+22.89% 32.22% 22.89% 31.35%
+0% 0% 0% 0%
+2016 2020 2024 2016 2020 2024 2016 2020 2024 2016 2020 2024
+Croatia Cyprus Czech Republic Denmark
+100% 100% 100% 100%
+65.08% 72.84% 73.66% 74.28%
+50% 50% 50% 50%
+34.92% 27.16% 26.35% 25.72%
+0% 0% 0% 0%
+2016 2020 2024 2016 2020 2024 2016 2020 2024 2016 2020 2024
+Estonia Finland France Germany
+100% 100% 100% 100%
+67.10% 64.34% 68.95% 76.23%
+50% 50% 50% 50%
+32.90% 35.66% 31.05% 23.77%
+0% 0% 0% 0%
+2016 2020 2024 2016 2020 2024 2016 2020 2024 2016 2020 2024
+Greece Hong Kong India Ireland
+100% 100% 100% 100%
+73.05% 68.23% 70.08% 68.31%
+50% 50% 50% 50%
+26.95% 31.77% 29.92% 31.69%
+0% 0% 0% 0%
+2016 2020 2024 2016 2020 2024 2016 2020 2024 2016 2020 2024
+Israel Italy Latvia Lithuania
+100% 100% 100% 100%
+74.16% 65.94% 61.46% 66.63%
+50% 50% 50% 50%
+25.84% 34.05% 38.54% 33.37%
+0% 0% 0% 0%
+2016 2020 2024 2016 2020 2024 2016 2020 2024 2016 2020 2024
+Luxembourg Mexico Netherlands New Zealand
+100% 100% 100% 100%
+72.42% 74.05% 71.68% 65.75%
+50% 50% 50% 50%
+27.58% 25.95% 28.32% 34.25%
+0% 0% 0% 0%
+2016 2020 2024 2016 2020 2024 2016 2020 2024 2016 2020 2024
+Norway Poland Portugal Romania
+100% 100% 100% 100%
+72.61% 69.21% 72.51%
+50% 50% 50% 50% 4 59 1. . 0 0 0 0 % %
+27.39% 30.79% 27.49%
+0% 0% 0% 0%
+2016 2020 2024 2016 2020 2024 2016 2020 2024 2016 2020 2024
+Saudi Arabia Singapore South Africa Spain
+100% 100% 100% 100%
+69.02% 62.91% 64.71% 72.21%
+50% 50% 50% 50%
+30.98% 37.09% 35.29% 27.79%
+0% 0% 0% 0%
+2016 2020 2024 2016 2020 2024 2016 2020 2024 2016 2020 2024
+Sweden Switzerland Turkey United Arab Emirates
+100% 100% 100% 100%
+71.38% 74.94% 71.24% 70.61%
+50% 50% 50% 50%
+28.62% 25.06% 28.76% 29.39%
+0% 0% 0% 0%
+2016 2020 2024 2016 2020 2024 2016 2020 2024 2016 2020 2024
+United Kingdom United States Uruguay
+100% 100% 100%
+70.50% 66.32% 73.50%
+50% 50% 50% Male
+29.50% 33.68% 26.50% Female
+0% 0% 0%
+2016 2020 2024 2016 2020 2024 2016 2020 2024 Figure 4.2.21
+Chapter 4 Preview 26
+noitatneserper
+tnelat
+IA
+
+Artificial Intelligence
+Index Report 2025
+Chapter 4: Economy
+4.2 Jobs
+LinkedIn data provides insights on the AI talent gained or lost the geographic area. Figure 4.2.22 examines net AI talent
+due to migration trends.6 Net flows are defined as total arrivals migration per 10,000 LinkedIn members by geographic area.
+minus departures within the given time period. A positive net The geographic areas that report the greatest per capita
+AI talent migration figure indicates that more talent is coming incoming migration of AI talent are Luxembourg (8.9), Cyprus
+into the geographic area than departing. A negative figure (4.7), and United Arab Emirates (4.1).
+indicates that more talent is departing than coming into
+Net AI talent migration per 10,000 LinkedIn members by geographic area, 2024
+Source: LinkedIn, 2024 | Chart: 2025 AI Index report
+Luxembourg 8.92
+Cyprus 4.67
+United Arab Emirates 4.13
+Switzerland 3.15
+Ireland 2.17
+Germany 2.13
+Austria 2.09
+Saudi Arabia 1.61
+Australia 1.48
+Finland 1.30
+Singapore 1.26
+Denmark 1.14
+United States 1.07
+Hong Kong 0.97
+Poland 0.95
+0.00 0.50 1.00 1.50 2.00 2.50 3.00 3.50 4.00 4.50 5.00 5.50 6.00 6.50 7.00 7.50 8.00 8.50 9.00
+Net AI talent migration (per 10,000 LinkedIn members)
+Figure 4.2.22
+Figure 4.2.23 documents AI talent migration data over time. flowing into these countries. Countries with rising talent
+In the last few years, Israel, the Netherlands, and Canada, flows include the United Arab Emirates, Saudi Arabia, and
+among other countries, have seen declining net AI talent Luxembourg.
+migration figures, suggesting that less AI talent has been
+6 LinkedIn membership varies considerably among countries, which makes interpreting absolute movements of members from one country to another difficult. To compare migration
+flows between countries fairly, migration flows are normalized for the country of interest. For example, if country A is the country of interest, all absolute net flows into and out of country
+A (regardless of origin and destination countries) are normalized based on LinkedIn membership in country A at the end of each year and multiplied by 10,000. Hence, this metric indicates
+relative talent migration of all other countries to and from country A.
+Chapter 4 Preview 27
+
+Artificial Intelligence
+Index Report 2025
+Argentina Australia Austria* Belgium
+1.48 3
+1 1 2 2.09 1
+1 0.63
+0 -0.22 0 0 0
+−1 −1 −1 −1
+2020 2022 2024 2020 2022 2024 2020 2022 2024 2020 2022 2024
+Brazil Canada* Chile Costa Rica
+
+1 2 1 1
+1 0.95
+0 -0.09 0 0 -0.19 0 -0.28
+−1 −1 −1 −1
+2020 2022 2024 2020 2022 2024 2020 2022 2024 2020 2022 2024
+Croatia Cyprus* Czech Republic Denmark
+
+1 8 1 0.70 1 1.14
+0 0.01 4 4.67 0 0
+−1 0 −1 −1
+2020 2022 2024 2020 2022 2024 2020 2022 2024 2020 2022 2024
+Estonia* Finland France Germany*
+6 3
+4 1 1.30 1 2 2.13
+2 0 0 0.34 1
+0 0.13 0
+−1 −1 −1
+2020 2022 2024 2020 2022 2024 2020 2022 2024 2020 2022 2024
+Greece Hong Kong Hungary* Iceland
+1 1 0.97 1 1
+0 0.51 0 -0.25 0 −1 -1.15 0
+−1 −1 −2 −1
+2020 2022 2024 2020 2022 2024 2020 2022 2024 2020 2022 2024
+India* Indonesia Ireland* Israel*
+
+1 1 2 2.17 2
+0 1 0
+− − 2 1 -1.55 0 -0.07 0 −2 -2.10
+−1 −1
+2020 2022 2024 2020 2022 2024 2020 2022 2024 2020 2022 2024
+Italy Latvia Lithuania* Luxembourg*
+3 12
+1 1 0.66 2 8 8.92
+
+0 -0.10 0 0 0.56 4
+−1 −1 −1 0
+2020 2022 2024 2020 2022 2024 2020 2022 2024 2020 2022 2024
+Mexico Netherlands* New Zealand Norway
+
+1 2 1 1
+1 0.92 0.55
+0 -0.10 0 0 -0.23 0
+−1 −1 −1 −1
+2020 2022 2024 2020 2022 2024 2020 2022 2024 2020 2022 2024
+Poland Portugal Romania Saudi Arabia
+1.61
+1 0.95 1 1 1
+0.42
+0 0 0 0.06 0
+−1 −1 −1 −1
+2020 2022 2024 2020 2022 2024 2020 2022 2024 2020 2022 2024
+Singapore* Slovenia South Africa South Korea
+
+2 1 1 1
+1 1.26 0.36
+0 0 0 -0.22 0 -0.36
+−1 −1 −1 −1
+2020 2022 2024 2020 2022 2024 2020 2022 2024 2020 2022 2024
+Spain Sweden Switzerland* Turkey
+
+1 0.94 1 3 3.15 1
+0.41 2
+0 0 1 0
+0 -0.49
+−1 −1 −1 −1
+2020 2022 2024 2020 2022 2024 2020 2022 2024 2020 2022 2024
+United Arab Emirates* United Kingdom United States Uruguay
+
+4 4.13 1 1 1.07 1
+0.55
+2 0 0 0 -0.05
+
+−1 −1 −1
+2020 2022 2024 2020 2022 2024 2020 2022 2024 2020 2022 2024
+Chapter 4 Preview 28
+)srebmem
+nIdekniL
+000,01
+rep(
+noitargim
+tnelat
+IA
+teN
+Chapter 4: Economy
+4.2 Jobs
+Net AI talent migration per 10,000 LinkedIn members by geographic area, 2019–24
+Source: LinkedIn, 2024 | Chart: 2025 AI Index report
+Figure 4.2.237
+7 Asterisks indicate that a country’s y-axis label is scaled differently than the y-axis label for the other countries.
+
+Artificial Intelligence
+Index Report 2025
+Chapter 4: Economy
+4.2 Jobs
+Highlight:
+Measuring AI’s Current Economic Integration
+Analysis of over 4 million real-world AI interactions The analysis reveals that while all sectors make some
+provides comprehensive empirical evidence of how AI use of current AI, the dominant sectors are technical
+is being integrated across economic sectors. A recent and creative. As shown in Figure 4.2.24, computer and
+Anthropic study examined usage patterns of their AI mathematical occupations dominate, accounting for
+model classifying users via the U.S. Department of Labor’s 37.2% of all AI interactions. Arts, design, entertainment,
+O*NET occupational framework, offering concrete data sports, and media occupations follow at 10.3%, with
+on which industries and job functions are leveraging educational instruction and library occupations also
+AI. More specifically, the Anthropic team analyzed user showing significant adoption.
+conversations with their Claude.AI model to identify the
+tasks and occupations most frequently using AI.
+O�ce and administrative support 7.90% 12.20%
+Transportation and material moving 0.30% 9.10%
+Sales and related 2.30% 8.80%
+Food preparation and serving related 0.50% 8.70%
+Management 4.50% 6.90%
+Business and �nancial operations 5.90% 6.60%
+Healthcare practitioners and technical 2.60% 6.10%
+Production 2.90% 5.80%
+Educational instruction and library 5.80% 9.30%
+Healthcare support 0.30% 4.70%
+Construction and extraction 0.40% 4.10%
+Installation, maintenance, and repair 0.70% 3.90%
+Computer and mathematical 3.40% 37.20%
+Building and grounds cleaning and maintenance 0.10% 2.90%
+Protective service 0.40% 2.30%
+Personal care and service 0.50% 2.00%
+Architecture and engineering 1.70% 4.50%
+Community and social service 1.60% 2.10%
+Arts, design, entertainment, sports, and media 1.40% 10.30%
+Life, physical, and social science 0.90% 6.40%
+Legal 0.80% 0.90% % of Claude conversations
+Farming, �shing, and forestry 0.10% 0.30% % of US workers
+0% 10% 20% 30% 40%
+Claude usage rate vs. US workforce distribution
+Figure 4.2.23
+Chapter 4 Preview 29
+noitapuccO
+Occupational representation in Claude usage data vs. US workforce distribution
+Source: Handa et al., 2025 | Chart: 2025 AI Index report
+
+Artificial Intelligence
+Index Report 2025
+Chapter 4: Economy
+4.2 Jobs
+Highlight:
+Measuring AI’s Current Economic Integration (cont’d)
+The AI usage patterns demonstrate a clear connection to (typically bachelor’s degree-level) show 50% higher usage
+wage levels and required skills. Figure 4.2.25 illustrates than their baseline workforce representation, while both
+that AI adoption peaks in occupations within the upper minimal-preparation and extensive-preparation roles
+wage quartile but drops significantly at both wage show lower adoption rates.
+extremes. Jobs requiring considerable preparation
+Computer programmers
+6%
+5%
+4%
+Software developers, applications
+Bioinformatics technicians
+3%
+2%
+Tutors Copywriters
+1%
+Obstetricians and gynecologists
+0%
+0 50 100 150 200
+Median annual wage (in thousands of US dollars)
+Figure 4.2.25
+Chapter 4 Preview 30
+snoitasrevnoc
+edualC
+fo
+%
+Occupational usage of Claude by median annual wage
+Source: Handa et al., 2025 | Chart: 2025 AI Index report
+
+Artificial Intelligence
+Index Report 2025
+Chapter 4: Economy
+4.2 Jobs
+Highlight:
+Measuring AI’s Current Economic Integration (cont’d)
+The Anthropic study finds that approximately 36% of remains rare: Only about 4% of occupations show AI
+occupations use AI for at least a quarter of their associated usage across 75% or more of their tasks, suggesting that
+tasks (Figure 4.2.26), indicating substantial penetration wholesale automation of entire job categories is not yet
+beyond technical fields. However, deep integration occurring.
+Depth of AI usage across organizations
+Source: Handa et al., 2025
+Figure 4.2.26
+Chapter 4 Preview 31
+
+Artificial Intelligence
+Index Report 2025
+Chapter 4: Economy
+4.2 Jobs
+Highlight:
+Measuring AI’s Current Economic Integration (cont’d)
+The analysis reveals how AI is being used within implementation tends toward complementing rather than
+organizations. As shown in Figure 4.2.27, 57% of AI replacing human workers. The study finds that cognitive
+interactions demonstrate augmentative patterns skills like critical thinking and writing show high presence
+(enhancing human capabilities) while 43% show in AI interactions, while physical and managerial skills
+automation patterns. This split suggests current AI show minimal presence (Figure 4.2.28).
+Percentage of Claude conversations by type of task execution
+Source: Handa et al., 2025 | Chart: 2025 AI Index report
+Validation Task iteration Learning Feedback loop Directive
+Augmentation 31.33% 23.27%
+Automation 14.80% 27.75%
+0% 10% 20% 30% 40% 50% 60%
+% of Claude conversations
+Figure 4.2.27
+Distribution of occupational skills exhibited by Claude in conversations
+Source: Handa et al., 2025
+Figure 4.2.28
+Chapter 4 Preview 32
+
+Artificial Intelligence
+Index Report 2025
+This section monitors AI investment trends,
+leveraging data from Quid, which analyzes
+investment data from more than 8 million
+companies worldwide, both public and private.
+Employing natural language processing, Quid 4.3 Investment
+sifts through vast unstructured datasets—
+including news aggregations, blogs, company
+records, and patent databases—to detect Corporate Investment
+patterns and insights. Additionally, Quid is
+Figure 4.3.1 illustrates the trend in global corporate AI investment from
+constantly expanding its database to include
+more companies, sometimes resulting in higher 2013 to 2024, including mergers and acquisitions, minority stakes, private
+reported investment volumes for specific years. investments, and public offerings.
+For the first time, this year’s investment section
+in the AI Index includes data on generative AI
+investments. In 2024, the total investment grew to $252.3 billion, an increase of 25.5%
+from 2023. The most significant upturn occurred in private investment,
+which rose by 44.5% compared with the previous year, while mergers and
+acquisitions increased by 12.1%. Over the past decade, AI-related investments
+have increased nearly thirteenfold.
+Merger/acquisition
+360.73
+Minority stake
+
+Private investment
+Public o ering
+
+175.36
+253.25 252.33
+
+221.87
+200 39.83 201 92.19
+121.39
+82.26
+
+88.19
+103.27 145.4
+
+79.62 36.43
+150.79
+53.72 21.89 73.79 113.01 104.34
+
+33.82 24.68
+25.43 43.1 58.18
+14.57 19.04 25.72 20.06 37.32
+
+2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024
+Chapter 4 Preview 33
+)srallod
+SU
+fo
+snoillib
+ni(
+tnemtsevni
+latoT
+Chapter 4: Economy
+4.3 Investment
+Global corporate investment in AI by investment activity, 2013–24
+Source: Quid, 2024 | Chart: 2025 AI Index report
+Figure 4.3.1
+
+Artificial Intelligence
+Index Report 2025
+Startup Activity Global Trends
+Global private AI investment increased 44.5% between 2023
+This section analyzes private investment trends in AI startups
+and 2024, marking the first year-over-year growth since
+that have received over $1.5 million in investment since 2013.
+2021 (Figure 4.3.2). Despite recent fluctuations, private AI
+investment globally has grown substantially in the last decade.
+150.79
+
+2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024
+Chapter 4 Preview 34
+)srallod
+SU
+fo
+snoillib
+ni(
+tnemtsevni
+latoT
+Chapter 4: Economy
+4.3 Investment
+Global private investment in AI, 2013–24
+Source: Quid, 2024 | Chart: 2025 AI Index report
+Figure 4.3.2
+
+Artificial Intelligence
+Index Report 2025
+Funding for generative AI continued to increase sharply times the investment of 2022. Furthermore, generative
+(Figure 4.3.3). In 2024, the sector attracted $33.9 billion, AI accounted for more than a fifth of all AI-related private
+representing an 18.7% increase from 2023 and over 8.5 investment in 2024.
+35 33.94
+
+2019 2020 2021 2022 2023 2024
+Chapter 4 Preview 35
+)srallod
+SU
+fo
+snoillib
+ni(
+tnemtsevni
+latoT
+Chapter 4: Economy
+4.3 Investment
+Global private investment in generative AI, 2019–24
+Source: Quid, 2024 | Chart: 2025 AI Index report
+Figure 4.3.3
+
+Artificial Intelligence
+Index Report 2025
+2,049
+2,000
+1,500
+1,000
+
+2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024
+Chapter 4 Preview 36
+seinapmoc
+fo
+rebmuN
+Number of newly funded AI companies in the world, 2013–24
+Source: Quid, 2024 | Chart: 2025 AI Index report
+
+2019 2020 2021 2022 2023 2024
+seinapmoc
+fo
+rebmuN
+Chapter 4: Economy
+4.3 Investment
+The number of newly funded AI companies in 2024 jumped of newly funded generative AI companies, with 214 new
+to 2,049, an 8.4% increase over the previous year (Figure startups receiving funding, compared to 179 in 2023, and 31
+4.3.4). In addition, 2024 registered an increase in the number in 2019 (Figure 4.3.5).
+Figure 4.3.4
+Number of newly funded generative AI companies in the world, 2019–24
+Source: Quid, 2024 | Chart: 2025 AI Index report
+Figure 4.3.5
+
+Artificial Intelligence
+Index Report 2025
+Figure 4.3.6 visualizes the average size of AI private Figure 4.3.7 reports AI funding events disaggregated by
+investment events, calculated by dividing the total yearly size. In 2024, AI private investment events increased across
+AI private investment by the total number of AI private funding size categories exceeding $100 million and decreased
+investment events. From 2023 to 2024, the average increased or remained constant in smaller categories. In 2024, there
+significantly, growing from $31.6 million to $45.4 million. were 15 AI private investment events that involved funding
+sizes greater than $1 billion.
+45.43
+
+2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024
+Chapter 4 Preview 37
+)srallod
+SU
+fo
+snoillim
+ni(
+tnemtsevni
+egarevA
+Chapter 4: Economy
+4.3 Investment
+Average size of global AI private investment events, 2013–24
+Source: Quid, 2024 | Chart: 2025 AI Index report
+Figure 4.3.6
+Global AI private investment events by funding size,
+2023 vs. 2024
+Source: Quid, 2024 | Table: 2025 AI Index report
+Funding size 2023 2024
+Over 1 billion 9 15
+500 million – 1 billion 9 20
+100 million – 500 million 134 143
+50 million – 100 million 200 196
+Under 50 million 2,945 2,945
+Undisclosed 680 207
+Total 3,977 3,526
+Figure 4.3.7
+
+Artificial Intelligence
+Index Report 2025
+Chapter 4: Economy
+4.3 Investment
+Regional Comparison by Funding Amount
+The United States once again led the world in terms of total 24.1 times the amount invested in the United Kingdom ($4.5
+AI private investment. In 2024, the $109.1 billion invested billion) (Figure 4.3.8). Other notable countries that rounded out
+in the United States was 11.7 times greater than the amount the top 15 in 2024 include Sweden ($4.3 billion), Austria ($1.5
+invested in the next highest country, China ($9.3 billion), and billion), the Netherlands ($1.1 billion), and Italy ($0.9 billion).
+Global private investment in AI by geographic area, 2024
+Source: Quid, 2024 | Chart: 2025 AI Index report
+United States 109.08
+China 9.29
+United Kingdom 4.52
+Sweden 4.34
+Canada 2.89
+France 2.62
+Germany 1.97
+United Arab Emirates 1.77
+Austria 1.51
+Israel 1.36
+South Korea 1.33
+India 1.16
+Netherlands 1.09
+Japan 0.93
+Italy 0.86
+0 5 10 15 20 25 30 35 40 45 50 55 60 65 70 75 80 85 90 95 100 105 110 115
+Total investment (in billions of US dollars)
+Figure 4.3.8
+Chapter 4 Preview 38
+
+Artificial Intelligence
+Index Report 2025
+Chapter 4: Economy
+4.3 Investment
+When aggregating private AI investments since 2013, the 4.3.9). Other countries that have attracted significant AI
+country rankings remain the same: The United States leads investment over the past decade include Israel ($15.0 billion),
+with $470.9 billion invested, followed by China with $119.3 Singapore ($7.3 billion), and Sweden ($7.3 billion).
+billion, and the United Kingdom with $28.2 billion (Figure
+Global private investment in AI by geographic area, 2013–24 (sum)
+Source: Quid, 2024 | Chart: 2025 AI Index report
+United States 470.92
+China 119.32
+United Kingdom 28.17
+Canada 15.31
+Israel 14.96
+Germany 13.27
+India 11.29
+France 11.10
+South Korea 8.96
+Singapore 7.27
+Sweden 7.27
+Japan 5.89
+Australia 3.99
+Switzerland 3.90
+United Arab Emirates 3.67
+0 20 40 60 80 100 120 140 160 180 200 220 240 260 280 300 320 340 360 380 400 420 440 460 480
+Total investment (in billions of US dollars)
+Figure 4.3.9
+Chapter 4 Preview 39
+
+Artificial Intelligence
+Index Report 2025
+Figure 4.3.10, which looks at AI private investment over China (-1.9%) and increased in Europe (+60%) since 2023, the
+time by geographic area, suggests that the gap in private United States has seen a significant increase (+50.7%) during
+investments between the United States and other regions is the same period—and a +78.3% increase since 2022.
+widening. While AI private investments have decreased in
+
+2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024
+Chapter 4 Preview 40
+)srallod
+SU
+fo
+snoillib
+ni(
+tnemtsevni
+latoT
+Chapter 4: Economy
+4.3 Investment
+Global private investment in AI by geographic area, 2013–24
+Source: Quid, 2024 | Chart: 2025 AI Index report
+109.08, United States
+19.42, Europe
+9.29, China
+Figure 4.3.10
+
+Artificial Intelligence
+Index Report 2025
+
+2019 2020 2021 2022 2023 2024
+Chapter 4 Preview 41
+)srallod
+SU
+fo
+snoillib
+ni(
+tnemtsevni
+latoT
+Chapter 4: Economy
+4.3 Investment
+The disparity in regional AI private investment becomes outpaced the combined investments of China and Europe in
+particularly pronounced when examining generative AI- generative AI by approximately $21.8 billion (Figure 4.3.11). By
+related investments. For instance, in 2023, the United States 2024, this gap widened to $25.4 billion.
+Global private investment in generative AI by geographic area, 2019–24
+Source: Quid, 2024 | Chart: 2025 AI Index report
+29.04, United States
+2.11, China
+1.49, Europe
+Figure 4.3.11
+
+Artificial Intelligence
+Index Report 2025
+Chapter 4: Economy
+4.3 Investment
+Regional Comparison by Newly Funded AI Companies
+This section examines the number of newly funded AI regions with 1,073 new AI companies, followed by the United
+companies across different geographic regions. Consistent Kingdom with 116, and China with 98 (Figure 4.3.12).
+with trends in private investment, the United States leads all
+Number of newly funded AI companies by geographic area, 2024
+Source: Quid, 2024| Chart: 2025 AI Index report
+United States 1,073
+United Kingdom 116
+China 98
+India 74
+Germany 67
+France 59
+South Korea 52
+Canada 51
+Japan 42
+Singapore 39
+Israel 36
+Netherlands 24
+Australia 23
+Switzerland 22
+Spain 18
+0 100 200 300 400 500 600 700 800 900 1,000 1,100
+Number of companies
+Figure 4.3.12
+Chapter 4 Preview 42
+
+Artificial Intelligence
+Index Report 2025
+Chapter 4: Economy
+4.3 Investment
+A similar trend is evident in the aggregate data since 2013. In the last decade, the number of newly funded AI companies in the
+United States is around 4.3 times the amount in China, and 7.9 times the amount in the United Kingdom (Figure 4.3.13).
+Number of newly funded AI companies by geographic area, 2013–24 (sum)
+Source: Quid, 2024 | Chart: 2025 AI Index report
+United States 6,956
+China 1,605
+United Kingdom 885
+Israel 492
+Canada 481
+France 468
+India 434
+Germany 394
+Japan 388
+South Korea 270
+Singapore 239
+Australia 178
+Switzerland 154
+Spain 117
+Netherlands 116
+0 500 1,000 1,500 2,000 2,500 3,000 3,500 4,000 4,500 5,000 5,500 6,000 6,500 7,000
+Number of companies
+Figure 4.3.13
+Chapter 4 Preview 43
+
+Artificial Intelligence
+Index Report 2025
+Figure 4.3.14 presents data on newly funded AI companies with Europe, has seen significant increases in the number of
+in specific geographic regions, highlighting a decade-long new AI companies, in contrast to China, which experienced a
+pattern in which the United States consistently surpasses second consecutive annual decline.
+both Europe and China. Since 2022, the United States, along
+1,200
+1,000
+
+2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024
+Figure 4.3.14
+Chapter 4 Preview 44
+seinapmoc
+fo
+rebmuN
+Chapter 4: Economy
+4.3 Investment
+Number of newly funded AI companies by geographic area, 2013–24
+Source: Quid, 2024 | Chart: 2025 AI Index report
+1,143, United States
+447, Europe
+109, China
+
+Artificial Intelligence
+Index Report 2025
+Chapter 4: Economy
+4.3 Investment
+Focus Area Analysis
+Quid also disaggregates private AI investment by focus area. ($16.6 billion); and medical and healthcare ($11 billion). The
+Figure 4.3.15 compares global private AI investment by focus prominence of AI infrastructure, research, and governance
+area in 2024 versus 2023. The focus areas that attracted the reflects large investments in companies specifically building
+most investment in 2024 were AI infrastructure/research/ AI applications, such as OpenAI, Anthropic, and xAI.
+governance ($37.3 billion); data management and processing
+Global private investment in AI by focus area, 2023 vs. 2024
+Source: Quid, 2024 | Chart: 2025 AI Index report
+AI infrastructure/research/governance
+Data management, processing
+Medical and health care
+AV
+Fintech
+Manufacturing
+Semiconductors
+NLP, customer support
+Cybersecurity, data protection
+Robotics
+Drones
+Energy, oil, and gas
+Marketing, digital ads
+Business operations
+Semantic search
+Supply chain
+Insurtech
+AR/VR
+Retail
+Ed tech
+Quantum computing
+IoT
+Agritech
+
+Content creation/translation
+
+Creative, music, video content
+0 2 4 6 8 10 12 14 16 18 20 22 24 26 28 30 32 34 36 38
+Total investment (in billions of US dollars)
+Figure 4.3.15
+Figure 4.3.16 presents trends over time in AI focus area investments. As noted earlier, most focus areas saw a boost in investments
+in the last year. While still substantial, investment in NLP, customer support peaked in 2021 and has since then declined.
+Chapter 4 Preview 45
+
+Artificial Intelligence
+Index Report 2025
+30 30 30 30
+20 20 20 20
+10 10 10 10
+0 0 0 0
+2018 2020 2022 2024 2018 2020 2022 2024 2018 2020 2022 2024 2018 2020 2022 2024
+30 30 30 30
+20 20 20 20
+10 10 10 10
+0 0 0 0
+2018 2020 2022 2024 2018 2020 2022 2024 2018 2020 2022 2024 2018 2020 2022 2024
+30 30 30 30
+20 20 20 20
+10 10 10 10
+0 0 0 0
+2018 2020 2022 2024 2018 2020 2022 2024 2018 2020 2022 2024 2018 2020 2022 2024
+30 30 30 30
+20 20 20 20
+10 10 10 10
+0 0 0 0
+2018 2020 2022 2024 2018 2020 2022 2024 2018 2020 2022 2024 2018 2020 2022 2024
+30 30 30 30
+20 20 20 20
+10 10 10 10
+0 0 0 0
+2018 2020 2022 2024 2018 2020 2022 2024 2018 2020 2022 2024 2018 2020 2022 2024
+30 30 30 30
+20 20 20 20
+10 10 10 10
+0 0 0 0
+2018 2020 2022 2024 2018 2020 2022 2024 2018 2020 2022 2024 2018 2020 2022 2024
+
+2018 2020 2022 2024
+Chapter 4 Preview 46
+)srallod
+SU
+fo
+snoillib
+ni(
+tnemtsevni
+latoT
+Chapter 4: Economy
+4.3 Investment
+Global private investment in AI by focus area, 2018–24
+Source: Quid, 2024 | Chart: 2025 AI Index report
+AI infrastructure/research/governance AR/VR AV Agritech
+37.27
+9.43
+1.35 0.81
+Business operations Content creation/translation Creative, music, video content Cybersecurity, data protection
+1.52 0.76 0.75 3.73
+Data management, processing Drones Ed tech Energy, oil, and gas
+16.59
+2.58 0.97 2.02
+Fintech Insurtech IoT Manufacturing
+6.88 6.58
+1.36 0.84
+Marketing, digital ads Medical and health care NLP, customer support Quantum computing
+10.80
+4.18
+1.60 0.96
+Retail Robotics Semantic search Semiconductors
+5.53
+1.17 3.29 1.43
+Supply chain
+1.40
+Figure 4.3.16
+
+Artificial Intelligence
+Index Report 2025
+4.4 Corporate Activity
+This section examines the practical
+application of AI by corporations,
+highlighting industry usage trends,
+how businesses are integrating AI, 4.4 Corporate Activity
+the specific AI technologies deemed
+most beneficial, and the impact of AI
+usage on financial performance. Industry Usage
+This section incorporates insights from McKinsey’s publications on the state of
+AI alongside data from prior editions. The 2024 McKinsey analysis is based on two
+surveys spanning 2,854 respondents across various regions, industries, company sizes,
+functional areas, and tenures.
+Use of AI Capabilities
+Business use of AI increased significantly after stagnating between 2017 and 2023. The
+latest McKinsey report reveals that 78% of surveyed respondents say their organizations
+have begun to use AI in at least one business function, marking a significant increase
+from 55% in 2023 (Figure 4.4.1). Use of generative AI, which was covered for the first
+time in last year’s survey, more than doubled year over year, with 71% of respondents
+in 2024 saying their organizations regularly use the technology in at least one business
+function, compared to 33% in 2023.
+80%
+70%
+60%
+50%
+40%
+30%
+20%
+10%
+0%
+2017 2018 2019 2020 2021 2022 2023 2024
+Chapter 4 Preview 47
+stnednopser
+fo
+%
+Chapter 4: Economy
+Share of respondents who say their organization uses AI in at least one function, 2017–24
+Source: McKinsey & Company Survey, 2024 | Chart: 2025 AI Index report
+78%, AI
+71%, GenAI
+Figure 4.4.1
+
+Artificial Intelligence
+Index Report 2025
+Chapter 4: Economy
+4.4 Corporate Activity
+Figure 4.4.2 shows AI usage by industry and AI function in 2024. The greatest usage was in IT for tech (48%), followed by product
+and/or service development for tech (47%) and marketing and sales for tech (47%).
+Figure 4.4.28
+8 “Advanced industries” comprises respondents from sectors such as advanced electronics, aerospace and defense, automotive and assembly, and semiconductors. “Energy and materials”
+encompasses respondents from agriculture, chemicals, electric power and natural gas, metals and mining, oil and gas, as well as paper, forest products, and packaging.
+Chapter 4 Preview 48
+
+Artificial Intelligence
+Index Report 2025
+Organizations have reported both cost reductions and supply chain and inventory management (43%), and software
+revenue increases where they have started using AI, but engineering (41%). For revenue gains, the functions that most
+most commonly at low levels (Figure 4.4.3). The areas where commonly benefited from their use of AI include marketing
+respondents most frequently reported that their use of AI and sales (71%), supply chain and inventory management
+has resulted in cost savings were service operations (49%), (63%), and service operations (57%).
+Decrease by <10% Decrease by 10–19% Decrease by ≥20% Increase by >10% Increase by 6–10% Increase by ≤5%
+Marketing and sales 34% 28% 23% 44% 71%
+Risk, legal, and compliance 34% 20% 9%
+Human resources 37% 21% 8% 8%
+Product or service development 23% 11% 8% 10% 16% 30% 56%
+Supply chain and inventory management 43% 29% 11% 10% 14% 39% 63%
+Service operations 49% 28% 16% 12% 10% 35% 57%
+IT 37% 22% 11%
+Software engineering 41% 20% 17% 11% 14% 19% 44%
+Other corporate functions 25% 15% 9%
+Chapter 4 Preview 49
+noitcnuF
+Chapter 4: Economy
+4.4 Corporate Activity
+Cost decrease and revenue increase from analytical AI use by function, 2024
+Source: McKinsey & Company Survey, 2024 | Chart: 2025 AI Index report
+% of respondents
+Figure 4.4.3
+
+Artificial Intelligence
+Index Report 2025
+Chapter 4: Economy
+4.4 Corporate Activity
+Figure 4.4.4 presents global AI usage by organizations, organizations’ reported use grew by 27 percentage points.
+segmented by regions. In 2024, surveyed respondents North America remains the leader in use of AI (82%), but
+in every region reported increased use of AI compared only by a small margin. Europe also experienced a significant
+with 2023. One of the most significant year-over-year increase in AI usage rates, growing by 23 percentage points
+growth rates in AI use was seen in Greater China, where to 80% since 2023.
+AI use by organizations in the world, 2023 vs. 2024
+Source: McKinsey & Company Survey, 2024 | Chart: 2025 AI Index report
+78%
+All geographies
+55%
+72%
+Asia-Paci c
+58%
+80%
+Europe
+57%
+82%
+North America
+61%
+Greater China 75%
+(incl. Hong Kong,
+Taiwan, Macau) 48%
+Developing markets 2024
+(incl. India, 77%
+
+Central/South America,
+49%
+MENA)
+0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+% of respondents
+Figure 4.4.4
+Chapter 4 Preview 50
+
+Artificial Intelligence
+Index Report 2025
+Chapter 4: Economy
+4.4 Corporate Activity
+Deployment of AI Capabilities
+How are organizations deploying AI? Figure 4.4.5 highlights The most common application is marketing strategy content
+the proportion of total surveyed respondents that report support (27%), followed by knowledge management (19%),
+using generative AI for a particular function. It is possible personalization (19%), and design development (14%). Most of
+for respondents to indicate that they deploy AI for multiple the leading reported use cases are within the marketing and
+purposes. sales function. A complementary survey of C-suite executives
+in developed markets found that only 1% described their
+generative AI rollouts as “mature.” Overall, most companies
+are still in the early stages of capturing value at scale from AI.
+Most common generative AI use cases by function, 2024
+Source: McKinsey & Company Survey, 2024 | Chart: 2025 AI Index report
+Marketing strategy content support (i.e., drafting,
+generating ideas, and presenting relevant 27%
+knowledge for creating marketing strategy)
+Knowledge management 19%
+Personalization (e.g., personalized creative
+19%
+content generation at scale)
+Design development 14%
+Code creation (i.e., using code assistants, leveraging
+natural-language-to-code translation, debugging, 13%
+development of tests)
+Automation of sales follow-up interactions 13%
+Integration of gen AI into the work�ow of human customer
+service representatives (e.g., providing real-time suggestions 12%
+for responses during human-to-human phone conversations)
+Sales lead identi�cation and prioritization 11% Service operations
+Accelerated early simulation/testing phases (i.e., re�ning R&D/product development
+and accelerating targeted customer research or 11% Marketing and sales
+interviews via gen AI’s synthesis and writing capabilities) Software engineering
+Scienti�c literature and research review 11% Other corporate functions
+0% 5% 10% 15% 20% 25%
+% of respondents
+Figure 4.4.5
+Chapter 4 Preview 51
+
+Artificial Intelligence
+Index Report 2025
+Chapter 4: Economy
+4.4 Corporate Activity
+Figure 4.4.6 examines the proportion of respondents savings were supply chain and inventory management
+that report cost decreases and revenue increases from (61%), service operations (58%), and both human resources
+their organizations’ use of generative AI in each business and strategy and corporate finance (56%). For revenue
+function. Overall, respondents report both cost reductions gains, the functions most commonly reporting benefits
+and revenue increases across various functions as a result from generative AI include strategy and corporate finance
+of using generative AI, most commonly at low levels. The (70%), supply chain and inventory management (67%), and
+areas where respondents most frequently reported cost marketing and sales (66%).
+Decrease by ≤10% Decrease by 11–19% Decrease by ≥20% Increase by >10% Increase by 6–10% Increase by ≤5%
+Marketing and sales 47% 26% 11% 10% 8% 24% 34% 66%
+Risk, legal, and compliance 51% 29% 9% 13%
+Human resources 56% 32% 14% 10%
+Product or service development 43% 17% 7% 19% 12% 15% 25% 51%
+Supply chain and inventory management 61% 39% 15% 7% 19% 15% 32% 67%
+Service operations 58% 39% 11% 7% 18% 14% 31% 63%
+IT 44% 21% 12% 10%
+Software engineering 52% 23% 16% 13% 12% 13% 31% 57%
+Strategy and corporate nance 56% 35% 6% 15% 11% 12% 47% 70%
+Knowledge management and other
+44% 16% 8% 19%
+internal functions
+Chapter 4 Preview 52
+noitcnuF
+Cost decrease and revenue increase from generative AI use by function, 2024
+Source: McKinsey & Company Survey, 2024 | Chart: 2025 AI Index report
+% of respondents
+Figure 4.4.6
+
+Artificial Intelligence
+Index Report 2025
+Chapter 4: Economy
+4.4 Corporate Activity
+Figure 4.4.7 depicts the variation in generative AI usage (78%), which is shown in Figure 4.4.1. The use gap between
+among businesses across different regions of the world. AI overall and generative AI has contracted sharply from 22
+Across all regions, reported use of generative AI in at least one percentage points in 2023 to 7 percentage points in 2024,
+business function reached 71% in 2024, more than doubling signaling an accelerated usage of generative AI capabilities.
+from 33% in 2023. This amount is just 7 percentage points North America (74%), Europe (73%), and Greater China (73%)
+lower than the percentage who reported using any form of AI lead in organizations’ use of generative AI.
+Generative AI use by organizations in the world, 2023 vs. 2024
+Source: McKinsey & Company Survey, 2024 | Chart: 2025 AI Index report
+71%
+All geographies
+33%
+67%
+Asia-Paci c
+30%
+73%
+Europe
+31%
+74%
+North America
+40%
+Greater China 73%
+(incl. Hong Kong,
+Taiwan, and Macau) 31%
+Developing markets 2024
+(incl. India, 68%
+
+Central/South America, 33%
+MENA)
+0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+% of respondents
+Figure 4.4.79
+9 This figure highlights AI use in at least one business function.
+Chapter 4 Preview 53
+
+Artificial Intelligence
+Index Report 2025
+Chapter 4: Economy
+4.4 Corporate Activity
+AI’s Labor Impact
+Over the last six years, the growing integration of AI into
+the economy has sparked intense interest in its productivity
+2.97
+potential. While early adoption showed promise, quantifying 3.00
+AI’s impact remained challenging until 2023, when the first
+2.60
+wave of rigorous studies emerged. In 2024, a substantial 2.50
+body of empirical research established clear patterns of AI’s
+workplace effects across multiple domains and contexts. This
+2.00
+section analyzes productivity impact data from five major
+academic studies, which together represent the first large-
+1.50
+scale empirical investigation of AI’s workplace effects. The
+research, encompassing over 200,000 professionals across
+1.00
+multiple industries and contexts, reveals consistent productivity
+gains ranging from 10% to 45%, with particularly strong effects
+0.50
+in technical, customer support, and creative tasks. These
+studies employed diverse methodologies, including natural
+experiments, randomized controlled trials, and large-scale 0.00
+Used AI Did not use AI
+surveys, to measure AI’s impact across different organizational
+contexts.
+Productivity Trends
+One of the most reputable studies on AI’s impact on
+productivity, particularly generative AI, was published by
+Erik Brynjolfsson, Danielle Li, and Daniel Rock in .10
+Analyzing data from 5,179 customer support agents, the study
+examined the staggered introduction of a generative AI-
+powered conversational assistant. The researchers found that
+AI adoption increased the number of issues resolved per hour
+by 14.2% (Figure 4.4.8). Moreover, the study uncovered that
+productivity gains emerged quickly after AI was introduced,
+and AI-exposed workers maintained higher efficiency even
+during AI outages.
+Other recently released research has confirmed the
+Brynjolfsson finding. A Microsoft workplace study established
+baseline productivity improvements in common workplace
+tasks, with document editing increasing by 10–13% and email
+processing time decreasing by 11%. Specialized roles showed
+higher gains. For example, security professionals achieved 23%
+faster completion times with 7% higher accuracy, and sales
+teams demonstrated 39% faster response times with 25%
+higher accuracy.
+Chapter 4 Preview 54
+tnega
+troppus
+remotsuc
+rep
+stahc
+ylruoH
+Impact of AI on customer support agents
+Source: Brynjolfsson et al., 2023 | Chart: 2024 AI Index report
+Figure 4.4.8
+Figure 4.4.9 This figure has been removed following a post-publication correction
+(). It referenced a paper that has been retracted.
+10 The paper was published as NBER working paper 31161 in 2023 and then in the “Quarterly Journal of Economics” in 2025.
+
+Artificial Intelligence
+Index Report 2025
+Chapter 4: Economy
+4.4 Corporate Activity
+In the software development domain, two major studies developers experienced productivity increases of 21–40%,
+provided complementary evidence of AI’s impact. A field while senior developers saw more modest gains of 7–16%.
+experiment with 4,867 developers found that AI assistance This pattern was independently confirmed by other studies,
+increased task completion by 26.08% on average. This finding which found coding productivity increases of 14–27% for low-
+was reinforced by another natural experiment with 187,489 ability workers compared to 5–10% for high-ability workers.
+developers; it documented a 12.4% increase in core coding Moreover, their analysis showed AI increased exploration
+activities alongside a 24.9% decrease in time spent on project of new technologies by 21.8% and generated an average
+management tasks. potential salary increase of $1,683 per developer annually,
+suggesting AI tools are not just boosting productivity but
+Equalizing Effect actively enabling skill development. This research supports
+A consistent pattern across studies is AI’s equalizing effect earlier 2023 and 2024 studies showing that AI-driven
+on workplace performance (Figure 4.4.10). In software productivity gains vary based on workers’ initial skill levels.
+development contexts, new research has found that junior
+AI’s productivity equalizing effects
+Study Task Low-skill worker productivity gain High-skill worker productivity gain
+Brynjolfsson et al., 2023 Customer support 34% Indistinguishable from zero
+Dell’Acqua et al., 2023 Consulting 42.96% 16.5%
+Cui et al., 2024 Software engineering 21–40% 7–16%
+Hoffman et al., 2024 Software engineering 12–27% 5–10%
+Figure 4.4.10
+Chapter 4 Preview 55
+
+Artificial Intelligence
+Index Report 2025
+Chapter 4: Economy
+4.4 Corporate Activity
+Adoption and Integration
+The research reveals that productivity gains are strongly
+correlated with comprehensive AI integration and systematic 50%
+46.78%
+implementation. A survey conducted by Romanian
+researchers of 233 employees found that organizations with
+40%
+high AI integration showed a 72% probability of significant
+productivity improvements, compared to just 3.4% for those
+with minimal integration. Their analysis documented a clear
+30%
+spectrum of productivity improvements across the entire 26.18%
+study sample, with 46.8% of respondents reporting gains of
+0–20%, 26.2% seeing gains of 20–40%, and 18.4% achieving 20% 18.45%
+improvements of 40–60%. A smaller proportion saw even
+larger gains, with 7.7% reporting increases of 60–80% and
+10% 7.73%
+0.9% achieving improvements of 80–100% (Figure 4.4.11).
+0.86%
+Workforce Impact 0%
+0–20% 20–40% 40–60% 60–80% 80–100%
+The introduction of AI tools has led to significant shifts in both Productivity gains
+task allocation and team structures. The Microsoft workplace
+study found that AI automation enabled a 45% reduction in
+perceived mental demand (measured as 30/100 vs. 55/100
+on their cognitive load scale), closed 84.6% of the accuracy
+gap for nonnative English speakers, and led to 49% more key
+information being included in professional reports. These
+improvements were particularly pronounced among “power
+users” (users who are intimately familiar with AI, as defined
+by using it at least several times a week) with 29% of AI
+users in this category saving more than 30 minutes per day.
+Research from the Harvard Business School documented
+that AI adoption led to reduced collaborative overhead, with
+projects requiring 79.3% fewer collaborators (team members)
+on average.
+These changes are reshaping professional roles in
+fundamental ways. Debates about AI, like those surrounding
+past technological advancements, often center on automation
+versus augmentation—whether AI will replace jobs or
+enhance human work. While concrete data on AI-driven
+workforce changes remains limited, research is shedding
+light on how people perceive its impact on employment.
+Chapter 4 Preview 56
+stnednopser
+fo
+%
+Distribution of productivity gains from AI use
+Source: Necula et al., 2024 | Chart: 2025 AI Index report
+Figure 4.4.11
+The Romanian survey data suggests varied expectations for
+AI’s impact on workforce size, with 43% of organizations
+anticipating decreases, 30% expecting little change, 15%
+projecting increases, and 12% remaining uncertain about
+long-term implications. A McKinsey survey of executives
+found that 31% expect AI to reduce workforce size, while
+only 19% foresee an increase (Figure 4.4.12). In spite of claims
+about the increase in productivity of software engineers
+due to generative AI, the survey shows that their number is
+expected to increase, consistent with the Jevons Paradox.
+Notably, the share predicting workforce reductions has
+declined from last year, suggesting business leaders are
+becoming less convinced that AI will shrink organizational
+workforces (Figure 4.4.13).
+
+Artificial Intelligence
+Index Report 2025
+Chapter 4: Economy
+4.4 Corporate Activity
+Expectations about the impact of generative AI on organizations’ workforces in the next 3 years, 2024
+Source: McKinsey & Company Survey, 2024 | Chart: 2025 AI Index report
+Decrease by >20% Decrease by 11–20% Decrease by 3–10% Little or no change
+Increase by 3–10% Increase by 11–20% Increase by >20% Don’t know
+Overall 8% 9% 14% 38% 8% 6% 5% 12%
+Service operations 15% 17% 16% 19% 7% 4% 10% 12%
+Marketing and sales 10% 10% 10% 38% 7% 8% 6% 11%
+Supply chain/
+10% 19% 18% 15% 15% 4% 10% 9%
+inventory management
+Manufacturing 8% 15% 18% 20% 18% 7% 11%
+Human resources 8% 14% 24% 26% 6% 5% 4% 13%
+Software engineering 8% 9% 11% 25% 11% 11% 10% 15%
+Product and/or
+7% 7% 9% 33% 16% 10% 8% 10%
+service development
+Strategy and
+7% 13% 11% 29% 17% 5% 8% 9%
+corporate nance
+Risk, legal, and
+6% 17% 14% 25% 13% 8% 15%
+compliance
+IT 5% 10% 10% 21% 17% 15% 9% 14%
+0% 20% 40% 60% 80% 100%
+% of respondents
+Figure 4.4.12
+Chapter 4 Preview 57
+
+Artificial Intelligence
+Index Report 2025
+Chapter 4: Economy
+4.4 Corporate Activity
+8%
+Increase by >20% 46%
+3% >20%
+38%
+5%
+Increase by 11–20%
+4%
+17%
+Increase by 3–10% 10% 11–20%
+8% 18%
+31%
+Little or no change
+30% 14%
+6–10%
+14% 17% Decrease by 3–10% 25%
+10% 12%
+Decrease by 11–20% 10% ≤5%
+20%
+8%
+Decrease by >20%
+8%
+11% 2024
+14% Don’t know 2023
+Don’t know 8%
+12%
+0% 10% 20% 30% 40% 50% 0% 10% 20% 30% 40% 50%
+% of respondents % of respondents
+Chapter 4 Preview 58
+seeyolpme
+fo
+rebmun
+eht
+ni
+egnahC
+dellikser
+eb
+ot
+detcepxe
+seeyolpme
+fo
+erahS
+Expectations about the impact of AI on organizations’ workforces in the next 3 years, 2023 vs. 2024
+Source: McKinsey & Company Survey, 2023–24 | Chart: 2025 AI Index report
+Figure 4.4.13
+
+Artificial Intelligence
+Index Report 2025
+Chapter 4: Economy
+4.5 Robot Deployments
+The deployment of robots equipped
+with AI-based software technologies
+offers a window into the real-world
+application of AI-ready infrastructure.
+This section draws on data from the 4.5 Robot Deployments
+International Federation of Robotics
+(IFR), a nonprofit organization
+dedicated to advancing the robotics Aggregate Trends
+industry. Annually, the IFR publishes
+the World Robotics Reports, which The following section includes data on the installation and operation of industrial
+track global robot installation trends.11
+robots, which are defined as an “automatically controlled, reprogrammable,
+multipurpose manipulator, programmable in three or more axes, which can be either
+fixed in place or mobile for use in industrial automation applications.”
+Figure 4.5.1 reports the total number of industrial robots installed worldwide by year.
+In 2023, industrial robot installations decreased slightly, with 541,000 units marking a
+2.2% decrease from 2022. This reflects the first year-over-year decrease since 2019.
+
+2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+11 Due to the timing of the IFR report, the most recent data is from 2023. Every year, the IFR revisits data collected for previous years and will occasionally update the data if more accurate
+figures become available. Therefore, some of the data reported in this year’s report might differ slightly from data reported in previous years.
+Chapter 4 Preview 59
+)sdnasuoht
+ni(
+dellatsni
+stobor
+lairtsudni
+fo
+rebmuN
+Number of industrial robots installed in the world, 2012–23
+Source: International Federation of Robotics (IFR), 2024 | Chart: 2025 AI Index report
+Figure 4.5.1
+
+Artificial Intelligence
+Index Report 2025
+Chapter 4: Economy
+4.5 Robot Deployments
+The global operational stock of industrial robots reached 4,282,000 in 2023, up from 3,904,000 in 2022 (Figure 4.5.2). Since
+2012, both the installation and utilization of industrial robots have steadily increased.
+4,500
+4,282
+4,000
+3,500
+3,000
+2,500
+2,000
+1,500
+1,000
+
+2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+Chapter 4 Preview 60
+)sdnasuoht
+ni(
+stobor
+lairtsudni
+fo
+rebmuN
+Operational stock of industrial robots in the world, 2012–23
+Source: International Federation of Robotics (IFR), 2024 | Chart: 2025 AI Index report
+Figure 4.5.2
+
+Artificial Intelligence
+Index Report 2025
+Chapter 4: Economy
+4.5 Robot Deployments
+Industrial Robots: Traditional vs. Collaborative Robots
+There is a distinction between traditional robots, which operate Figure 4.5.3 reports the number of industrial robots installed
+in place of humans, and collaborative robots, designed to work in the world by type. In 2017, collaborative robots accounted
+alongside them.12 The robotics community is increasingly for just 2.8% of all new industrial robot installations. By 2023,
+enthusiastic about collaborative robots due to their safety, the number rose to 10.5%.
+flexibility, scalability, and ability to learn iteratively.
+Traditional 553
+
+Collaborative 526
+
+400 387 389
+300 495 484
+
+200 389 366 363
+
+58 57
+
+2017 2018 2019 2020 2021 2022 2023
+Chapter 4 Preview 61
+)sdnasuoht
+ni(
+dellatsni
+stobor
+lairtsudni
+fo
+rebmuN
+Number of industrial robots installed in the world by type, 2017–23
+Source: International Federation of Robotics (IFR), 2024 | Chart: 2025 AI Index report
+Figure 4.5.3
+12 More detail on how the IFR defines collaborative robots can be found here.
+
+Artificial Intelligence
+Index Report 2025
+Chapter 4: Economy
+4.5 Robot Deployments
+By Geographic Area
+Country-level data on robot installations can suggest 46,100 and 7.3 times more than the United States’ 37,600
+which nations prioritize the integration of robots into their (Figure 4.5.4). South Korea and Germany followed with
+economies. In 2023, China led the world with 276,300 31,400 and 28,400 installations, respectively.
+industrial robot installations, six times more than Japan’s
+Number of industrial robots installed by geographic area, 2023
+Source: International Federation of Robotics (IFR), 2024 | Chart: 2025 AI Index report
+China 276.30
+Japan 46.10
+United States 37.60
+South Korea 31.40
+Germany 28.40
+Italy 10.40
+India 8.50
+France 6.40
+Mexico 5.80
+Spain 5.10
+Taiwan 4.40
+Turkey 4.40
+Canada 4.30
+United Kingdom 3.80
+Thailand 3.60
+0 30 60 90 120 150 180 210 240 270
+Number of industrial robots installed (in thousands)
+Figure 4.5.4
+Chapter 4 Preview 62
+
+Artificial Intelligence
+Index Report 2025
+Chapter 4: Economy
+4.5 Robot Deployments
+Since surpassing Japan in 2013 as the leading installer of industrial robots, China has significantly widened the gap with the
+nearest country. In 2013, China’s installations accounted for 20.8% of the global total, reaching 51.1% by 2023 (Figure 4.5.5).
+
+2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+Chapter 4 Preview 63
+)sdnasuoht
+ni(
+dellatsni
+stobor
+lairtsudni
+fo
+rebmuN
+Number of new industrial robots installed in top 5 countries, 2011–23
+Source: International Federation of Robotics (IFR), 2024 | Chart: 2025 AI Index report
+276, China
+46, Japan
+38, United States
+31, South Korea
+28, Germany
+Figure 4.5.5
+
+Artificial Intelligence
+Index Report 2025
+Chapter 4: Economy
+4.5 Robot Deployments
+Since 2021, China has installed more industrial robots than the rest of the world combined, but the margin decreased in 2023
+compared to 2022 (Figure 4.5.6). Despite this year-over-year decline, the sustained trend underscores China’s dominance in
+industrial robot installations.
+
+2016 2017 2018 2019 2020 2021 2022 2023
+Chapter 4 Preview 64
+)sdnasuoht
+ni(
+dellatsni
+stobor
+lairtsudni
+fo
+rebmuN
+Number of industrial robots installed (China vs. rest of the world), 2016–23
+Source: International Federation of Robotics (IFR), 2024 | Chart: 2025 AI Index report
+276, China
+265, Rest of the world
+Figure 4.5.6
+
+Artificial Intelligence
+Index Report 2025
+Chapter 4: Economy
+4.5 Robot Deployments
+According to the IFR report, seven countries reported an include India (59%), the United Kingdom (51%), and Canada
+annual increase in industrial robot installations from 2022 to (37%). The geographic areas with the steepest declines include
+2023 (Figure 4.5.7). The countries with the highest growth rates Taiwan (-43%), France (-13%), and Japan and Italy (both -9%).
+Annual growth rate of industrial robots installed by geographic area, 2022 vs. 2023
+Source: International Federation of Robotics (IFR), 2024 | Chart: 2025 AI Index report
+India 59%
+United Kingdom 51%
+Canada 37%
+Spain 31%
+Turkey 15%
+Thailand 9%
+Germany 7%
+South Korea -1%
+Mexico -3%
+United States -5%
+China -5%
+Italy -9%
+Japan -9%
+France -13%
+Taiwan -43%
+−40% −30% −20% −10% 0% 10% 20% 30% 40% 50% 60%
+Annual growth rate of industrial robots installed
+Figure 4.5.7
+Chapter 4 Preview 65
+
+Artificial Intelligence
+Index Report 2025
+Chapter 4: Economy
+4.5 Robot Deployments
+Country-Level Data on Service Robotics
+Another important class of robots is service robots, which professional cleaning. In 2023, more service robots were
+the International Organization for Standardization defines as installed for every application category than in 2022, with the
+a robot “that performs useful tasks for humans or equipment exception of medical robots (Figure 4.5.8). More specifically,
+excluding industrial automation applications.”13 Such robots the number of service robots installed in agricultural and
+can, for example, be used in medical settings and for hospitality settings increased 2.5 and 2.2 times, respectively.
+Number of service robots installed in the world by application area, 2022 vs. 2023
+Source: International Federation of Robotics (IFR), 2024 | Chart: 2025 AI Index report
+
+Agriculture
+
+Hospitality
+
+Medical and health care
+
+Professional cleaning
+
+Transportation and logistics
+
+0 10 20 30 40 50 60 70 80 90 100 110
+Number of service robots installed (in thousands)
+Figure 4.5.8
+13 A more detailed definition can be accessed here.
+Chapter 4 Preview 66
+
+Artificial Intelligence
+Index Report 2025
+Chapter 4 Preview 67
+
+Artificial Intelligence
+Index Report 2025
+Chapter 4: Economy
+Appendix
+Appendix
+International Federation of United States. The primary source of government data on U.S.
+job postings is the Job Openings and Labor Turnover Survey
+Robotics (IFR)
+(JOLTS) program, conducted by the Bureau of Labor Statistics.
+Data presented in the Robot Installations section was sourced
+Based on comparisons between JOLTS and Lightcast, the
+from the World Robotics 2024 report.
+labor market demand captured by Lightcast data represents
+over 99% of the total labor demand. Jobs not posted online
+Lightcast
+are usually in small businesses (e.g., “Help Wanted” signs in
+Prepared by Vishy Kamalapuram and Elena Magrini
+restaurant windows) and union hiring halls.
+Lightcast delivers job market analytics that empower Measuring Demand for AI
+employers, workers, and educators to make data-driven
+To measure the demand by employers of AI skills, Lightcast
+decisions. The company’s artificial intelligence technology
+uses its skills taxonomy of over 33,000 skills.1 These skills are
+analyzes hundreds of millions of job postings and real-
+organized hierarchically in over 400 skills clusters and 32
+life career transitions to provide insight into labor market
+skills categories. The list of AI skills from Lightcast are shown
+patterns. This real-time strategic intelligence offers crucial
+below, with associated skills clusters. For the purposes of this
+insights, such as what jobs are most in demand, the specific
+report, all skills below were considered AI skills. A posting was
+skills employers need, and the career directions that offer
+considered an AI job if it mentioned any of these skills in the
+the highest potential for workers. For more information, visit
+text of the listing.
+
+AI ethics, governance, and regulation: ethical AI, data
+Job Postings Data
+sovereignty, AI security, artificial intelligence risk.
+To support these analyses, Lightcast mined its dataset of
+millions of job postings collected since 2010. Lightcast
+Artificial intelligence: agentic systems, AI/ML inference,
+collects postings from over 51,000 online job sites to
+AIOps (artificial intelligence for IT operations), AI
+develop a comprehensive, real-time portrait of labor market
+personalization, AI testing, applications of artificial intelligence,
+demand. It aggregates job postings, removes duplicates,
+artificial general intelligence, artificial intelligence, artificial
+and extracts data from job postings text. This includes
+intelligence development, Artificial Intelligence Markup
+information on job title, employer, industry, and region,
+Language (AIML), artificial intelligence systems, automated
+as well as required experience, education, and skills.
+data cleaning, Azure Cognitive Services, Baidu, cognitive
+automation, cognitive computing, computational intelligence,
+Job postings are useful for understanding trends in the labor
+Cortana, Data Version Control (DVC), Edge Intelligence,
+market because they allow for a detailed, real-time look at
+embedded AI, expert systems, explainable AI (XAI), intelligent
+the skills employers seek. To assess the representativeness of
+control, intelligent systems, interactive kiosk, IPSoft Amelia,
+job postings data, Lightcast conducts a number of analyses
+knowledge distillation, knowledge engineering, knowledge-
+to compare the distribution of job postings to the distribution
+based configuration, knowledge-based systems, knowledge
+of official government and other third-party sources in the
+representation, multi-agent systems, neuro-symbolic AI,
+1 
+Chapter 4 Preview 68
+
+Artificial Intelligence
+Index Report 2025
+Chapter 4: Economy
+Appendix
+Open Neural Network Exchange (ONNX), OpenAI Gym, ai, hidden Markov model, hyperparameter optimization,
+operationalizing AI, PineCone, Qdrant, reasoning systems, incremental learning, inference engine, k-means clustering,
+swarm intelligence, synthetic data generation, Watson kernel methods, Kubeflow, LIBSVM, loss functions, machine
+Conversation, Watson Studio, Weka Weaviate. learning, machine learning algorithms, machine learning
+methods, machine learning model monitoring and evaluation,
+Autonomous driving: advanced driver-assistance systems, machine learning model training, Markov chain, matrix
+autonomous cruise control systems, autonomous system, factorization, meta learning, Microsoft Cognitive Toolkit
+autonomous vehicles, dynamic routing, guidance navigation (CNTK), MLflow, MLOps (machine learning operations),
+and control systems, light detection and ranging (LiDAR), mlpack (C++ library), ModelOps, Naive Bayes Classifier,
+object tracking, OpenCV, path analysis, path finding, remote neural architecture compression, neural architecture search
+sensing, scene understanding, unmanned aerial systems (NAS), objective function, Oracle Autonomous Database,
+(UAS). Perceptron, Predictionio, predictive modeling, programmatic
+media buying, Pydata, PyTorch (machine learning library),
+Generative AI: Adobe Sensei, ChatGPT, CrewAI, DALL-E PyTorch Lightning, Random Forest Algorithm, recommender
+image generator, generative adversarial networks, generative systems, reinforcement learning, Scikit-Learn (Python
+AI agents, generative artificial intelligence,Google Bard, package), semi-uupervised learning, soft computing, sorting
+image inpainting, image super-resolution, LangGraph, algorithm, supervised learning, support vector machines
+large language modeling, Microsoft Copilot, multimodal (SVM), t-SNE (t-distributed Stochastic Neighbor Embedding),
+learning, multimodal models, prompt engineering, retrieval- test datasets, topological data analysis (TDA), Torch (machine
+augmented generation, Stable Diffusion, text summarization, learning), training datasets, transfer learning, transformer
+text to speech (TTS), variational autoencoders (VAEs). (machine learning model), unsupervised learning, Vowpal
+Wabbit, Xgboost, Theano (software).
+Machine learning: AdaBoost (adaptive boosting), adversarial
+machine learning, Apache MADlib, Apache Mahout, Apache Natural language processing: AI copywriting, Amazon
+SINGA, Apache Spark, association rule learning, attention Alexa, Amazon Textract, ANTLR, Apache OpenNLP,
+mechanisms, AutoGen, automated machine learning, BERT (NLP Model), chatbot, computational linguistics,
+autonomic computing, AWS SageMaker, Azure Machine conversational AI, DeepSpeech, dialog systems, fastText,
+Learning, bagging techniques, Bayesian belief networks, fuzzy logic, handwriting recognition, Hugging Face (NLP
+Boltzmann Machine, boosting, Chi-Squared Automatic framework), Hugging Face Transformers, intelligent agent,
+Interaction Detection (CHAID), Classification and Regression intelligent virtual assistant, Kaldi, language model, latent
+Tree (CART), cluster analysis, collaborative filtering, concept Dirichlet allocation, Lexalytics, machine translation, Microsoft
+drift detection, confusion matrix, cyber-physical systems, LUIS, natural language generation (NLG), natural language
+Dask (Software), data classification, Dbscan, decision processing (NLP), natural language programming, natural
+models, decision-tree learning, dimensionality reduction, language toolkits, natural language understanding (NLU),
+distributed machine learning, Dlib (C++ library), embedded natural language user interface, nearest neighbour algorithm,
+intelligence, ensemble methods, evolutionary programming, Nuance Mix, optical character recognition (OCR), screen
+expectation maximization algorithm, feature engineering, reader, semantic analysis, semantic interpretation for speech
+feature extraction, feature learning, feature selection, recognition, semantic kernel, semantic parsing, semantic
+federated learning, game AI, Gaussian process, genetic search, sentence transformers, sentiment analysis, Seq2Seq,
+algorithm, Google AutoML, Google Cloud ML Engine, Shogun, small language model, speech recognition, speech
+gradient boosting, gradient boosting machines (GBM), H2O. recognition software, speech synthesis, statistical language
+Chapter 4 Preview 69
+
+Artificial Intelligence
+Index Report 2025
+Chapter 4: Economy
+Appendix
+acquisition, summarization methods, text mining, text LinkedIn
+retrieval systems, text to speech (TTS), tokenization, Vespa,
+Prepared by Rosie Hood, Akash Kaura, and Mar Carpanelli
+voice assistant technology, voice interaction, voice user
+interface, word embedding, Word2Vec models.
+LinkedIn Data
+This body of work represents the world seen through LinkedIn
+Neural networks: Apache MXNet, artificial neural
+data, drawn from the anonymized and aggregated profile
+networks, autoencoders, Caffe (framework), Caffe2,
+information of LinkedIn’s more than 1 billion members around
+Chainer (Deep Learning Framework), convolutional neural
+the world. As such, it is influenced by how members choose
+networks (CNN), Cudnn, deep learning, deep learning
+to use the platform, which can vary based on professional,
+methods, Deeplearning4j, deep reinforcement learning
+social, and regional culture, as well as overall site availability
+(DRL), evolutionary acquisition of neural topologies, Fast.
+and accessibility. In publishing insights from LinkedIn’s
+AI, graph neural networks (GNNs), Keras (neural network
+Economic Graph, LinkedIn aims to provide accurate statistics
+library), Long Short-Term Memory (LSTM), neural ordinary
+while ensuring the privacy of LinkedIn’s members. As a result,
+differential equations, OpenVINO, PaddlePaddle, Pybrain,
+all data shows aggregated information for the corresponding
+recurrent neural network (RNN), reinforcement learning (RL),
+period following strict data quality thresholds that prevent
+residual networks (ResNet), sequence-to-sequence models
+disclosing any information about specific individuals.
+(seq2seq), spiking neural networks, TensorFlow.
+Country Sample
+Robotics: advanced robotics, bot framework, cognitive
+LinkedIn provides data on Argentina, Australia, Austria,
+robotics, meta-reinforcement learning, motion planning,
+Belgium, Brazil, Canada, Chile, Costa Rica, Croatia, Cyprus,
+Nvidia Jetson, OpenAI Gym environments, reinforcement
+Czechia, Denmark, Estonia, Finland, France, Germany,
+learning from human feedback (RLHF), robot framework,
+Greece, Hong Kong SAR, Hungary, Iceland, India, Indonesia,
+robot operating systems, robotic automation software,
+Ireland, Israel, Italy, Latvia, Lithuania, Luxembourg, Mexico,
+robotic liquid handling systems, robotic programming, robotic
+Netherlands, New Zealand, Norway, Poland, Portugal,
+systems, servomotor, SLAM algorithms (Simultaneous
+Romania, Saudi Arabia, Singapore, Slovenia, South Africa,
+Localization and Mapping).
+South Korea, Spain, Sweden, Switzerland, Turkey, United
+Arab Emirates, United Kingdom, United States, and Uruguay.
+Visual image recognition: 3D reconstruction, activity
+recognition, computer vision, contextual image classification,
+Skills
+Deck.gl, digital image processing, digital twin technology, eye
+LinkedIn members self-report their skills on their LinkedIn
+tracking, face detection, facial recognition, general-purpose
+profiles. Currently, more than 41,000 distinct, standardized
+computing on graphics processing units, gesture recognition,
+skills are identified by LinkedIn.
+image analysis, image captioning, image matching, image
+recognition, image segmentation, image sensor, ImageNet,
+LinkedIn categorizes AI skills into two mutually exclusive
+instance segmentation, machine vision, MNIST, motion
+groups: “AI Engineering” and “AI Literacy.” Broadly speaking,
+analysis, object recognition, OmniPage, pose estimation,
+AI Engineering skills refer to the technical expertise and
+RealSense, thermal imaging analysis.
+practical competencies required to design, develop,
+deploy, and maintain artificial intelligence systems, and AI
+Literacy skills refer to the knowledge, abilities, and critical
+thinking competencies needed to understand, evaluate, and
+effectively interact with artificial intelligence technologies.
+Chapter 4 Preview 70
+
+Artificial Intelligence
+Index Report 2025
+Chapter 4: Economy
+Appendix
+As skills are ever evolving, we maintain and refresh these METHODOLOGIES
+classifications on a periodic basis. For a list of skills included
+in this analysis, please see LinkedIn’s AI skills List below. 1. Top AI Skills
+These are the AI skills most frequently added by LinkedIn
+Industry members from 2015 onward.
+LinkedIn’s industry taxonomy is a collection of entities
+that share economic activities and contribute to a specific Interpretation: The most added AI Engineering skills globally
+product or service. An industry represents the products or are machine learning, AI, and deep learning.
+services that a company offers or sells. LinkedIn analyzes
+the following industries in the context of AI: education; 2. Fastest Growing AI Skills
+financial services; manufacturing; professional services; and The year-over-year growth rate for AI skills most frequently
+technology, information, and media. added by all members. Please note that LinkedIn implements
+thresholds to skill add volumes in the most recent year, which
+Gender are set at the 50th percentile of the most recent year’s AI skill
+LinkedIn recognizes that some LinkedIn members identify adds distribution by country.
+beyond the traditional gender constructs of “man” and
+“woman.” If not explicitly self-identified, LinkedIn has inferred Interpretation: The fastest growing AI Engineering skills
+the gender of members included in this analysis either by the globally are custom GPTs, AI productivity, and AI agents.
+pronouns used on their LinkedIn profiles or on the basis of
+first names. Members whose gender could not be inferred as 3. AI Talent Concentration
+either male or female were excluded from any gender analysis. The counts of AI talent are used to calculate talent
+Please note that LinkedIn filtered out countries where their concentration metric. In other words, to calculate the country-
+gender attribution algorithm did not have sufficient coverage. level AI talent concentration, LinkedIn uses the counts of AI
+talent in a particular country divided by the counts of LinkedIn
+AI Jobs or Occupations members in that country. Note that concentration metrics
+LinkedIn member titles are standardized and grouped into may be influenced by LinkedIn coverage in these countries
+over 16,000 occupations. These are not sector or country and should be utilized with caution.
+specific. An AI job requires AI skills to perform the job.
+Examples of such occupations include (but are not limited to): Interpretation: AI talent with AI Engineering skills represents
+machine learning engineer, artificial intelligence specialist, 0.78% of LinkedIn members in the United States.
+data scientist, and computer vision engineer.
+4. Relative AI Talent Hiring Rate YoY Ratio
+AI Talent The LinkedIn hiring rate is a measure of hires normalized by
+A LinkedIn member is considered AI talent if they have LinkedIn membership. It is computed as the percentage of
+explicitly added at least two AI skills to their profile and/or LinkedIn members who added a new employer in the same
+they are or have been employed in an AI job. period the job began, divided by the total number of LinkedIn
+members in the corresponding location.
+The AI hiring rate is computed using the overall hiring rate
+methodology, but it only considers members classified as AI
+Chapter 4 Preview 71
+
+Artificial Intelligence
+Index Report 2025
+Chapter 4: Economy
+Appendix
+talent. The relative AI talent hiring rate YoY ratio is the year- AI SKILLS PENETRATION
+over-year change in the AI hiring rate relative to the overall The aim of this indicator is to measure the intensity of AI skills
+hiring rate in the same country. LinkedIn shares a 12-month in a given category using the following methodology:
+moving average. • LinkedIn computes frequencies for all self-added skills
+by LinkedIn members in a given entity (occupation,
+Interpretation: In the United States, the ratio of AI talent hiring industry, etc.) from 2015 onward.
+relative to overall hiring has grown 24.7% year over year. • LinkedIn reweights skill frequencies using a TF-IDF
+model to get the top 50 most representative skills in
+5. Skill Penetration that entity. These 50 skills compose the “skill genome”
+of that entity.
+SKILLS GENOME • LinkedIn computes the share of skills that belong to the
+For any category (occupation, country, industry, etc.), the AI skill group out of the top skills in the selected entity.
+skills genome is an ordered list (a vector) of the 50 skills most
+characteristic of that category. These most characteristic Interpretation: The AI skills penetration rate signals the
+skills are determined using a TF-IDF algorithm, which down- prevalence of AI skills across occupations, or the intensity
+ranks ubiquitous skills that add little information about that with which LinkedIn members utilize AI skills in their jobs. For
+specific entity (e.g., Microsoft Word) and up-ranks skills example, the top 50 skills for the occupation of engineer are
+unique to that specific entity (e.g., artificial intelligence). calculated based on the weighted frequency with which they
+Further details are available at LinkedIn’s skills genome and appear in LinkedIn members’ profiles. If four of the skills that
+the LinkedIn–World Bank Methodology note. engineers possess belong to the AI skills group, this measure
+indicates that the penetration of AI skills is estimated to be
+As an example, Table 1 details the skills genome of the 8% among engineers (i.e., 4/50).
+technology, information, and media industry in the United
+States in 2024, displaying the top 10 skills ranked by TF-IDF. RELATIVE AI SKILLS PENETRATION
+To allow for skills penetration comparisons across countries,
+Skill name TF-IDF skill rank the skills genomes are calculated, and a relevant benchmark
+is selected (e.g., a global average). A ratio is then constructed
+Amazon Web Services (AWS) 1
+between a country and the benchmark’s AI skills penetrations,
+Software as a Service (SaaS) 2
+controlling for occupations.
+Artificial intelligence (AI) 3
+Python (programming language) 4 Interpretation: If a country has a relative AI skills penetration
+of 1.5, that means AI skills are 1.5 times as frequent as in the
+Go-to-market strategy 5
+benchmark, for an overlapping set of occupations.
+Customer success 6
+Large language models (LLM) 7 GLOBAL COMPARISON
+Salesforce.com 8 For cross-country comparisons, LinkedIn presents the
+relative penetration rate of AI skills, measured as the sum of
+SQL 9
+the penetration of each AI skill across occupations in a given
+Generative AI 10
+country, divided by the average global penetration of AI skills
+across the overlapping occupations in a sample of countries.
+Chapter 4 Preview 72
+
+Artificial Intelligence
+Index Report 2025
+Chapter 4: Economy
+Appendix
+Interpretation: A relative penetration rate of 2 means the 7. AI Talent Migration
+average penetration of AI skills in that country is two times Data on migration comes from the World Bank Group–
+the global average across the same set of occupations. LinkedIn “Digital Data for Development” partnership (see
+ and Zhu et al. (2018)).
+GLOBAL COMPARISON: BY INDUSTRY LinkedIn migration rates are derived from the self-identified
+The relative AI skills penetration by country for a given locations of LinkedIn member profiles. For example, when a
+industry provides an in-depth sectoral decomposition of AI LinkedIn member updates their location from Paris to London,
+skills penetration across industries and countries. this is counted as a migration. Migration data is available from
+2019 onward.
+Interpretation: A country’s relative AI skill penetration rate
+of 2 in the education sector means the average penetration of LinkedIn data provides insights to countries on AI talent
+AI skills in that country is two times the global average across gained or lost due to migration trends. AI talent migration is
+the same set of occupations in that sector. considered for all members with AI skills/holding AI jobs at
+time “t” for country A as the country of interest and country
+GLOBAL COMPARISON: BY GENDER B as the source of inflows and destination for outflows. Thus,
+The relative AI skills penetration by gender provides a cross- net AI talent migration between country A and country B is
+country comparison of AI skills penetrations within a gender. calculated as:
+Since the global averages are distinct for each gender, this
+metric should only be used to compare country rankings
+within each gender, not for cross-gender comparisons within
+countries.
+Net flows are defined as total arrivals minus departures
+within a given time period. LinkedIn membership varies
+Interpretation: A country’s AI skills penetration for women
+between countries, which can prove challenging when
+of 1.5 means that female members in that country are 1.5
+interpreting absolute movements of members from one
+times more likely to list AI skills than the average female
+country to another. Migration flows are therefore normalized
+member in all countries pooled together across the same set
+with respect to each country. For example, for country A, all
+of occupations that exist in the country-gender combination.
+absolute net flows into and out of country A, regardless of
+origin and destination countries, are normalized based on the
+GLOBAL COMPARISON: ACROSS GENDERS
+LinkedIn membership of country A at the end of each year
+The relative AI skills penetration across genders allows
+and multiplied by 10,000. Hence, this metric indicates relative
+for cross-gender comparisons within and across countries
+talent migration from all countries to and from country A.
+globally, since LinkedIn compares a country’s AI skills
+Please note that minimum thresholds have been applied such
+penetration by gender to the same global average regardless
+that transitions have a sufficient sample size.
+of gender.
+Interpretation: The United States had a positive net flow of
+6. Female Representation in AI
+AI talent relative to its membership size at 1.07 net flow per
+This refers to the share of AI talent occupied by women.
+10,000 members.
+Interpretation: Female representation within AI talent with
+8. Career Transitions Into AI Jobs
+AI Engineering skills is 30.5% globally.
+LinkedIn considers the source occupations that feed AI
+occupations, analyzing the share of transitions into AI
+occupations pooled over a five-year period. Career transitions
+Chapter 4 Preview 73
+
+Artificial Intelligence
+Index Report 2025
+Chapter 4: Economy
+Appendix
+are computed by aggregating member-level job transitions representation and reasoning, LangChain, large language
+from one occupation to another occupation the member model operations (LLMOps), large language models (LLM),
+has not previously held. LinkedIn excludes first occupations machine learning, machine learning algorithms, machine
+added by new graduates and intra-occupation transitions. translation, Microsoft Azure Machine Learning, MLOps,
+model compression, model interpretation, model training,
+Interpretation: In the United States, 26.9% of transitions into music generation,nNatural language generation, natural
+AI engineer came from software engineer, followed by 13.3% language processing (NLP), natural language understanding,
+from data scientist. neural network architecture design, neural networks, NLTK,
+object recognition, ontologies, OpenAI API, OpenCV, parsing,
+THE LINKEDIN AI SKILLS LIST pattern recognition, predictive modeling, probabilistic
+generative models, probabilistic programming, prompt flow,
+AI Engineering PyTorch, question answering, random forest, RapidMiner,
+3D reconstruction, AI agents, AI productivity, AI strategy, recommender systems, recurrent neural networks (RNN),
+algorithm analysis, algorithm development, Amazon Bedrock, reinforcement learning, responsible AI, Scikit-Learn, semantic
+Apache Spark ML, applied machine learning, artificial technologies, semantic web, sentiment analysis, speech
+intelligence (AI), artificial neural networks, association recognition, Spring AI, statistical inference, style transfer,
+rules, audio synthesis, autoencoders, automated clustering, StyleGAN, supervised learning, support vector machine
+automated feature engineering, automated machine learning (SVM), synthetic data generation, TensorFlow, text analytics,
+(AutoML), automated reasoning, autoregressive models, text classification, text generation, text mining, text-to-image
+Azure AI Studio, Caffe, chatbot development, chatbots, generation, Theano, time series forecasting, transformer
+classification, cognitive computing, computational geometry, models, unsupervised learning, variational autoencoders
+computational intelligence, computational linguistics, (VAEs), video generation, web mining, Weka, WordNet.
+concept drift adaptation, conditional generation, conditional
+image generation, convolutional neural networks (CNN), AI Literacy
+custom GPTs, decision trees, deep convolutional generative AI Builder, AI prompting, Anthropic Claude, ChatGPT,
+adversarial networks (DCGAN), deep convolutional neural DALL-E, generative AI, Generative AI Studio, generative AI
+nNetworks (DCNN), deep learning, deep neural networks tools, generative art, GitHub Copilot, Google Bard, Google
+(DNN), evolutionary algorithms, expert systems, facial Gemini, GPT-3, GPT-4, LLaMA, Microsoft Copilot, Microsoft
+recognition, feature extraction, feature selection, fuzzy Copilot Studio, Midjourney, multimodal prompting, prompt
+logic, generative adversarial imitation learning, generative engineering, Stable Diffusion.
+adversarial networks (GANs), generative AI, generative
+design optimization, generative flow models, generative Acknowledgments
+modeling, generative neural networks, generative LinkedIn gratefully acknowledges the contributions of Murat
+optimization, generative pre-training, generative query Erer and Carl Shan in developing these methodologies and
+networks (GQNs), generative replay memory, generative metrics, and the feedback from our collaborators at the
+synthesis, gesture recognition, Google Cloud AutoML, graph OECD.AI, Stanford Institute for Human-Centered AI, World
+embeddings, graph networks, hyperparameter optimization, Bank, and Centro Nacional de Inteligencia Artificial (Cenia).
+hyperparameter tuning, image generation, image inpainting,
+image processing, image synthesis, image-to-image
+translation, information extraction, intelligent agents,
+k-means clustering, Keras, knowledge discovery, knowledge
+Chapter 4 Preview 74
+
+Artificial Intelligence
+Index Report 2025
+Chapter 4: Economy
+Appendix
+Quid when investors’ names or funding amounts are not disclosed.
+Quid embeds Capital IQ data as a default and adds in data
+Quid insights prepared by Heather English and Hansen Yang
+from Crunchbase for the data points that are not captured in
+Capital IQ. This not only yields comprehensive and accurate
+Quid uses its own in-house LLM and other smart search
+data on all global organizations, but it also captures early-
+features, as well as traditional Boolean query, to search for
+stage startups and funding events data.
+focus areas, topics, and keywords within many datasets: social
+media, news, forums and blogs, companies, patents, as well as
+Search Parameters
+other custom feeds of data (e.g., survey data). Quid has many
+Boolean query is used to search for focus areas, topics, and
+visualization options and data delivery endpoints, including
+keywords within the archived company database and within
+network graphs based on semantic similarity, in-platform
+their business descriptions and websites. Quid can filter
+dashboarding capabilities, and programmatic PostgreSQL
+out the search results by HQ regions, investment amount,
+database delivery. Quid applies best-in-class AI and NLP to
+operating status, organization type (private/ public), and
+reveal hidden patterns in large datasets, enabling users to
+founding year. Quid then visualizes these companies by
+make data-driven decisions accurately, quickly, and efficiently.
+semantic similarity. If there are more than 7,000 companies
+from the search result, Quid selects the 7,000 most relevant
+Search, Data Sources, and Scope
+companies for visualization based on the language algorithm.
+Over 8 million global public and private company profiles
+Boolean search: “artificial intelligence” or “AI” or “machine
+from multiple data sources are indexed to search across
+learning” or “deep learning”
+company descriptions, while filtering and including metadata
+ranging from investment information to firmographic
+Companies
+information, such as founding year, headquarter location, and
+• Global AI and ML companies that have received
+more. Company information is updated on a weekly basis.
+investments (private, IPO, M&A) from Jan. 1, 2014, to
+The Quid algorithm reads a large amount of text data from
+Dec. 31, 2024.
+each document to make links between different documents
+• Global AI and ML companies that have received over
+based on their similar language. This process is repeated at
+$1.5 million for the past 10 years (Jan. 1, 2014, to Dec.
+an immense scale, which produces a network of different
+31, 2024).
+clusters identifying distinct topics or focus areas. Trends are
+• Global data was also pulled for a generative AI query
+identified based on keywords, phrases, people, companies,
+(Boolean search: “generative AI” or “gen AI” OR
+and institutions that Quid identifies and other metadata that
+“generative artificial intelligence”) for companies that
+is put into the software.
+have received over $1.5 million for the past 10 years
+(Jan. 1, 2014, to Dec. 31, 2024).
+Data
+Target Event Definitions
+Companies
+• Private investment: A private placement is a private
+Organization data is embedded from Capital IQ and
+sale of newly issued securities (equity or debt) by a
+Crunchbase. These companies include every type of
+company to a select investor or group of investors. The
+organization (private, public, operating, operating as a
+stakes that buyers take in private placements are often
+subsidiary, out of business) throughout the world. The
+minority stakes (under 50%), although it is possible to
+investment data includes private investments, M&A, public
+take control of a company through a private placement
+offerings, minority stakes held by PE/ VCs, corporate venture
+as well, in which case the private placement would be
+arms, governments, and institutions both within and outside
+a majority stake investment.
+the United States. Some data is unavailable—for instance,
+Chapter 4 Preview 75
+
+Artificial Intelligence
+Index Report 2025
+Chapter 4: Economy
+Appendix
+• M inority investment: These refer to minority stake The second online survey of 2024 was in the field from July 16
+acquisitions in Quid, which take place when the buyer to July 31, and garnered responses from 1,491 participants in
+acquires less than 50% of the existing ownership stake 101 nations representing the full range of regions, industries,
+in entities, asset products, and business divisions. company sizes, functional specialties, and tenures. Forty-two
+• M &A: This refers to a buyer acquiring more than percent of respondents said they work for organizations with
+50% of the existing ownership stake in entities, asset more than $500 million in annual revenues.
+products, and business divisions.
+To adjust for differences in response rates, the data is weighted
+McKinsey & Company
+by the contribution of each respondent’s nation to global GDP.
+Data used in the “Corporate Activity” section was sourced
+from two McKinsey global surveys: “The State of AI in Early The AI Index also considered data from previous iterations of
+2024: Gen AI Adoption Spikes and Starts to Generate Value” the McKinsey survey. These include:
+and “The State of AI: How Organizations Are Rewiring to The State of AI in 2023: Generative AI’s Breakout Year
+Capture Value.” The State of AI in 2022—and a Half Decade in Review
+The State of AI in 2021
+The first online survey of 2024 was in the field from Feb. 22 The State of AI in 2020
+to March 5, and garnered responses from 1,363 participants AI Proves Its Worth, But Few Scale Impact (2019)
+representing the full range of regions, industries, company AI Adoption Advances, But Foundational Barriers Remain
+sizes, functional specialties, and tenures. Among the (2018)
+respondents, 981 said their organizations had adopted AI in at
+least one business function, and 878 said their organizations
+were regularly using gen AI in at least one function.
+Chapter 4 Preview 76
+
+Artificial Intelligence
+Index Report 2025
+Chapter 4: Economy
+Appendix
+Works Cited
+Brynjolfsson, E., Li, D., & Raymond, L. (2025). Generative AI at Work. The Quarterly Journal of Economics, qjae044. 
+org/10.1093/qje/qjae044
+Cui, Z. (Kevin), Demirer, M., Jaffe, S., Musolff, L., Peng, S., & Salz, T. (2025). The Effects of Generative AI on High-Skilled Work:
+Evidence From Three Field Experiments With Software Developers (SSRN Scholarly Paper 4945566). 
+ssrn.4945566
+Dell’Acqua, F., McFowland, E., Mollick, E. R., Lifshitz-Assaf, H., Kellogg, K., Rajendran, S., Krayer, L., Candelon, F., & Lakhani, K.
+R. (2023). Navigating the Jagged Technological Frontier: Field Experimental Evidence of the Effects of AI on Knowledge Worker
+Productivity and Quality. SSRN Electronic Journal. 
+Handa, K., Tamkin, A., McCain, M., Huang, S., Durmus, E., Heck, S., Mueller, J., Hong, J., Ritchie, S., Belonax, T., Troy, K. K.,
+Amodei, D., Kaplan, J., Clark, J., & Ganguli, D. (2025). Which Economic Tasks Are Performed with AI? Evidence From Millions of
+Claude Conversations (arXiv:2503.04761). arXiv. 
+Hoffmann, M., Boysel, S., Nagle, F., Peng, S., & Xu, K. (2024). Generative AI and the Nature of Work (No. 11479). CESifo Working
+Paper. 
+Jaffe, S., Shah, N. P., Butler, J., Farach, A., Cambon, A., Hecht, B., Schwarz, M., & Teevan, J. (eEds.). (2024). Generative AI in
+Real-World Workplaces: The Second Microsoft Report on AI and Productivity Research. Microsoft. 
+en-us/research/wp-content/uploads/2024/07/Generative-AI-in-Real-World-Workplaces.pdf
+Necula, S.-C., Fotache, D., & Rieder, E. (2024). Assessing the Impact of Artificial Intelligence Tools on Employee Productivity:
+Insights From a Comprehensive Survey Analysis. Electronics, 13(18), Article 18. 
+Chapter 4 Preview 77

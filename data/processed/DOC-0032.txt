@@ -1,0 +1,270 @@
+POLICY BRIEF
+
+SPECIAL
+HEALTHCARE
+SERIES
+Promoting
+KEY TAKEAWAYS
+Algorithmic We studied the trade-offs clinical
+predictive algorithms face
+between accuracy and fairness for
+Fairness in Clinical
+outcomes like hospital mortality,
+prolonged stays in the hospital,
+Risk Prediction and 30-day readmissions to
+the hospital. We found that
+techniques that make these
+programs more fair can degrade
+Stephen R. Pfohl, Agata Foryciarz,
+performance of the algorithm for
+and Nigam H. Shah everyone across the board.
+Making algorithmic fixes on the
+HEALTHCARE PROVIDERS AND MEDICAL PROFESSIONALS ARE INCREASINGLY
+developer’s side should only be
+USING MACHINE LEARNING TO ADVANCE HOW TREATMENT IS DELIVERED
+one option considered to fix this.
+TO PATIENTS. From medical image analysis to a range of data processing
+Policymakers should consider ways
+functions, these machine learning applications will only continue to shape
+to incentivize model developers
+patient-care experiences and medical outcomes. Developers, doctors,
+to engage in participatory design
+patients, and policymakers are just some of the stakeholders grappling with
+practices that incorporate
+these algorithmic uses.
+perspectives from patient
+advocacy groups and civil society
+That said, there is a fundamental problem with machine learning in healthcare:
+organizations.
+We cannot assume developers are making strides to remedy bias and other
+fairness issues in a concerted manner. Discriminatory AI decision-making is
+concerning in any setting. This is especially pronounced in a clinical setting, Algorithmic fixes may work in some
+where individuals’ well-being and physical safety are on the line, and where contexts, but others may require
+medical professionals face life-or-death decisions every day. policymakers to mandate that a
+human stays in the decision-making
+Until now, the conversation about measuring algorithmic fairness in healthcare loop or the use of the algorithm
+has focused on fairness itself—and has not fully taken into account how fairness may not be worthwhile at all.
+
+Policy Brief: Promoting Algorithmic
+Fairness in Clinical Risk Prediction SPECIAL
+HEALTHCARE
+SERIES
+techniques could impact clinical predictive models, Introduction
+which are often derived from large clinical datasets. Our
+new research, published in the Journal of Biomedical
+Informatics, seeks to ground this debate in evidence, There is much excitement about using machine learning
+and suggests the best way forward in developing fairer and observational health data to guide clinical decision-
+machine learning tools for a clinical setting. making. Yet these tools have the potential to introduce
+and exacerbate health disparities for disadvantaged and
+We explicitly measure trade-offs in the fairness and underrepresented populations. Myriad realities contribute
+performance of clinical predictive models. Using three to this fact: inequity in historical and current patterns of
+large datasets spanning decades of health outcomes— care access and delivery, underrepresentation in clinical
+such as hospital mortality, prolonged stays in the datasets, the use of biased or poorly calibrated statistical
+hospital, and 30-day readmissions to the hospital—our methods, and differences in the accessibility, usability, and
+research compared these outcomes with three different effectiveness of predictive models across groups.
+notions of fairness across demographic groupings—
+such as race, ethnicity, sex, and age. In total, we find In response, considerable attention has been devoted
+that improvements in algorithmic fairness, based on to designing clinical predictive models to anticipate and
+minimizing differences between demographic groups, proactively mitigate harm to the advancement of health
+cause lowered performance across multiple metrics. equity, all while upholding ethical standards. Much of
+This exposes many challenges ahead in successfully this research and the policy discussion surrounding
+mitigating bias in algorithms of the kind that has long it have centered on algorithmic fairness. In effect,
+plagued certain demographics within the United States. algorithm fairness methods use mathematical formulas
+representative of an ideal state—such as equal error rates
+Policymakers should recognize that there is no between male and female patients—and work to minimize
+technical solution to address unfairness in clinical deviations from that ideal. Researchers can then use this
+predictive models that does not decrease accuracy. to audit predictive algorithms’ problematic characteristics
+Consequently, they should consider ways to incentivize and promote transparency in their outputs.
+responsible algorithm development alongside policies
+that address broader, structural healthcare inequities Nonetheless, the debate about performance versus
+such as those caused by racism and socioeconomic fairness in clinical algorithms tends to lose sight
+inequality. The use of clinical predictive models must of the broader picture. A range of social, political,
+either be narrowly calibrated to a particular setting and economic factors contribute to massive health
+or constructed so that a human healthcare provider disparities in care access and quality. While algorithmic
+stays in the decision-making loop to ensure fair patient fairness techniques enable individuals to monitor and
+treatment. If machine learning models do not promote manipulate the outputs of predictive models, they are
+health equity, it may be appropriate to abstain from generally insufficient in and of themselves to mitigate
+using an algorithm altogether. the introduction or perpetuation of health disparities
+resulting from model-guided interventions.
+
+Policy Brief: Promoting Algorithmic
+Fairness in Clinical Risk Prediction SPECIAL
+HEALTHCARE
+SERIES
+Health disparities arise as a result of structural racism
+and related inequities in areas such as housing,
+While algorithmic fairness
+education, employment, and criminal justice that affect
+healthcare access, utilization, and quality. These effects techniques enable individuals
+are further compounded by underrepresentation of the
+to monitor and manipulate the
+elderly, women, and ethnic minorities in clinical trials
+and cohort studies, as well as warped financial incentives outputs of predictive models,
+in the healthcare system. At present, researchers often
+they are generally insufficient
+do not consider or explicitly discuss algorithmic fairness
+in this social, political, and economic context—a fact that in and of themselves to
+is especially ironic when discussing definitions of group
+mitigate the introduction
+fairness. Instead, fairness criteria are defined primarily
+in technical terms related to a model’s predictions, or perpetuation of health
+observed outcomes, and whether any of the patients in
+disparities resulting from
+the data belong to a prespecified demographic group.
+What is more, the data is also evaluated on cohorts model-guided interventions.
+derived after the fact.
+Stepping back, this means that algorithmic fairness
+criteria may be misleading, whether the observed
+outcome is a proxy for some underlying cause (e.g.,
+structural racism in health pricing) or the predictive
+predictive models to report on accuracy and group
+model is not appropriately contextualized in terms of the
+fairness metrics. Using different fairness metrics (e.g.,
+related interventions and policies. The conversation about
+conditional prediction parity, calibration, and cross-
+algorithmic fairness thus erroneously confuses model
+group ranking), we specified situations in which there
+performance and accrued benefits in health outcomes.
+was an imbalance within the social strata for the health
+outcome in question. The data was striking. Sometimes,
+Research
+proposed fairness methods made the algorithm’s
+output “fairer” (by the definition used). But they also,
+Outcomes in some cases, lowered the algorithm’s across-the-
+board performance. In most cases, the original trained
+model produced unfair results. Predictions were better
+We conducted a large-scale study examining the trade- calibrated for some racial and ethnic groups than for
+offs between algorithm performance and fairness others—or yielded different numbers of false positives
+criteria, specifically in clinical predictive models. Across and negatives. This, of course, is highly concerning in a
+25 different combinations of datasets, clinical outcomes, clinical setting and could exacerbate harmful inequalities
+and demographic attributes, we trained a series of in the healthcare system.
+
+Policy Brief: Promoting Algorithmic
+Fairness in Clinical Risk Prediction SPECIAL
+HEALTHCARE
+SERIES
+To address these issues, we applied algorithmic fairness
+methods to the model and had some success. These
+...achieving algorithmic
+changes improved performance: Error rates roughly
+equalized across groups, or predictions matched up fairness should be defined
+better with outcomes in a narrowly defined scenario.
+in terms of the impact an
+But these fairness tweaks caused the model’s overall
+predictive power to fall. Oftentimes, satisfying one notion algorithm-guided intervention
+of algorithmic fairness meant another would not be met.
+has on individuals, groups,
+The possible fairness criteria did not all work in tandem.
+and status quo power
+Our research on fairness frameworks broadly yielded
+structures…
+several findings. Common definitions of racial categories
+are entangled with historical and ongoing patterns of
+structural racism, and their continued use reinforces
+the idea of race as an accurate way to describe human
+variability, rather than a socially constructed taxonomy.
+Using these categorizations in algorithmic fairness
+and economic inequality. Algorithms are a bigger
+work thus raises numerous ethical questions. Further,
+and bigger part of this landscape. Yet policymakers
+marginalized groups are often not well-represented by
+must realize the limits of, and problems with, current
+the attributes used to assess group fairness, including
+approaches to algorithmic fairness.
+intersectional identities. Group fairness and algorithmic
+fairness criteria also address individual attributes (e.g., race,
+By considering only technical fixes to observable
+gender) independently and consequently treat them as
+algorithmic properties, evaluating models through
+abstract, interchangeable constructs—without awareness
+the group fairness framework ignores systemic issues
+of meaningful contextual differences between them. For
+and related second- and third-order effects on health
+example, observed differences on the basis of race should
+disparities. It also ignores inequities in the data
+be primarily interpreted as deriving from systemic and
+generation and measurement processes that inform how
+structurally racist factors. By contrast, those observed on
+algorithms work. And it misses the causal framing and
+the basis of sex could be erroneously attributed to clinically
+decision-making that, in practice, connects algorithmic
+meaningful differences in human physiology.
+predictions to clinical decisions—like when a medical
+professional decides how to use algorithmic outputs.
+Policy Discussion
+From a research and a policy standpoint, requiring
+predictive models to satisfy a notion of group fairness
+Striving for health equity requires designing policies provides little more than a “veneer of neutrality.”
+that directly counteract the systemic factors underlying Constraining a model in a way that achieves group
+health disparities—primarily structural forms of racism fairness is insufficient for, and may even work against,
+
+Policy Brief: Promoting Algorithmic
+Fairness in Clinical Risk Prediction SPECIAL
+HEALTHCARE
+SERIES
+promoting health equity via machine learning-guided
+interventions. To be clear, optimizing the satisfaction
+As AI increasingly influences
+of fairness criteria can still be useful. But achieving
+algorithmic fairness should be defined in terms of decisions about our health
+the impact an algorithm-guided intervention has on
+and our lives, it is crucial
+individuals, groups, and status quo power structures
+that directly or indirectly perpetuate health disparities. that we work to accelerate
+these efforts to broaden
+In light of these limitations, policymakers must consider
+ways to incentivize developers to use participatory the research and policy
+design practices that explicitly incorporate a diverse
+community’s understanding of
+set of stakeholder perspectives. For instance, this
+should include patient advocacy groups and civil rights algorithmic fairness.
+organizations. Doing so will allow developers to better
+identify the mechanisms through which measurement
+error, bias, and historical inequities affect data
+collection, measurement, and problem formulation.
+Participatory design would also enable developers
+to better understand the relationship between in healthcare could help developers overcome the
+those technical measurements and policy and other limitations of the current group fairness framework.
+interventions in clinical settings. As AI increasingly influences decisions about our health
+and our lives, it is crucial that we work to accelerate
+All the while, it should not be assumed that algorithm- these efforts to broaden the research and policy
+aided decision-making is always helpful in healthcare. community’s understanding of algorithmic fairness.
+If it is not practical to employ algorithm-aided decision-
+making responsibly, the better approach may be to
+abstain from using it altogether. For example, our
+recent study found that recalibrating risk models for
+subgroups—to better match outcomes—increased
+gaps between groups’ false positive and negative rates.
+Using an equalized odds approach, meanwhile, to
+equalize error rates for all groups, better matched the
+guidelines we looked at yet created different error rates
+for patients in high-risk categories.
+Pursuing this context-driven understanding of
+algorithm development and algorithmic fairness
+
+The original article, “An Empirical Stephen R. Pfohl is a research scientist
+Characterization of Fair Machine Learning at Google and a recent Ph.D. graduate
+for Clinical Risk Prediction,” can be accessed of Biomedical Informatics at Stanford
+at: University.
+article/pii/S1532046420302495?via%3Dihub.
+Agata Foryciarz is a Ph.D. candidate in
+Computer Science at Stanford University.
+Nigam H. Shah is professor of
+Stanford University’s Institute for Human-
+medicine (biomedical informatics) and
+Centered Artificial Intelligence (HAI) applies
+of biomedical data science at Stanford
+rigorous analysis and research to pressing policy
+University. He serves as chief data
+questions on artificial intelligence. A pillar of
+scientist for Stanford Healthcare and is a
+HAI is to inform policymakers, industry leaders,
+faculty affiliate at HAI.
+and civil society by disseminating scholarship
+to a wide audience. HAI is a nonpartisan research
+institute, representing a range of voices.
+The views expressed in this policy brief reflect
+the views of the authors. For further information,
+please contact HAI-Policy@stanford.edu.
+Stanford HAI: Cordura Hall, 210 Panama Street, Stanford, CA 94305-1234
+T 650.725.4537 F 650.123.4567 E HAI-Policy@stanford.edu hai.stanford.edu

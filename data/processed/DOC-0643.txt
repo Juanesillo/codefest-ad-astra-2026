@@ -1,0 +1,805 @@
+Cover Photo: NASA
+U.S. Leadership in Lunar Spectrum
+Policy
+BY Shayna Gersten
+Over the next decade, NASA and many commercial and regulating lunar spectrum use. Despite a lack of
+international entities plan to send missions to the Moon. frameworks, as of January 12, 2024, the ITU has already
+All of these missions will use spectrum to communicate received over 50 filings for lunar missions from 9
+with Earth. However, the international regulatory different countries.1
+frameworks overseeing radio spectrum beyond Earth’s
+orbits (such as “lunar spectrum”) are underdeveloped,
+creating the potential for interference and disruptions
+to communications with missions on and in orbit
+around the Moon. Currently, the United States and
+International Telecommunication Union (ITU) are
+considering specific frameworks for coordinating and
+1 Oliver Hawkins and Peggy Hollinger, “The race to claim the 
+Moon’s airwaves”, Financial Times, 1/13/25, 4b1b-b4a0-380386b5836c
+
+with no commercially substantive payloads. Lunar
+Shayna Gersten is a research intern with the
+Aerospace Security Project (ASP) at the Center lander companies such as Intuitive Machines3 and Firefly
+for Strategic and International Studies in
+Aerospace, which include many commercial payloads to
+Washington, D.C. This piece was researched,
+help offset development costs, receive lunar spectrum
+analyzed, and written by a next generation
+scholar. ASP supports the next generation of licenses under the Part 25 Streamlined Small Spacecraft
+space professionals through its internship
+Authorization. This authorization is designed for
+program. For more, see
+Nohtttapbsl:y/,/ c2a0r2e4e wrsa.sc sthise. ofirrgst/i ynetearrn tshhaitp fsil.i ngs from missions beyond Earth orbit with a 500 kg mass limit.
+co mmercial operators outnumbered government space This weight restriction is incompatible with the actual
+agencies. The U.S.-proposed framework emphasizes mass required for lunar landers, requiring operators to
+international cooperation and coordination in the routinely seek waivers. Additionally, future lunar rovers
+development and operation of lunar communications in that are intended to serve as long-term, commercially
+a shared spectrum environment.2 viable lunar infrastructure would also exceed that mass
+limit. Furthermore, lunar lander applicants under the
+Q1: How and why are communications to and from streamlined Part 25 category explicitly state the
+the Moon currently regulated? temporary nature of their missions in their applications.
+This explicit statement helps avoid asserting long-term
+A1: In the United States, spectrum -- including spectrum claims to lunar frequency usage, particularly significant
+used for communicating between the Earth and Moon, given the absence of substantive internationally
+as well as in lunar orbit and on the Moon’s surface -- is recognized allocations for lunar spectrum. While
+regulated by the Federal Communications Commission companies are able to receive temporary short-term
+(FCC), and the National Telecommunications and licenses that comply with existing U.S. regulations, it
+Information Administration (NTIA). The FCC manages leaves companies aiming for long-term cislunar
+spectrum allocation and licensing for commercial and infrastructure development in a regulatory gray area,
+non-federal entities, while the NTIA oversees spectrum highlighting the need for the U.S., in coordination with
+for federal purposes like defense, public safety, and international bodies, to establish long-term lunar
+scientific research. While the FCC and NTIA regulate spectrum frameworks to support sustained lunar and
+spectrum for entities under U.S. jurisdiction, cislunar commercial activity.
+frameworks for lunar uses are underdeveloped at both
+For example, Lockheed Martin’s subsidiary, Crescent
+domestic and international levels. Since the FCC lacks
+Space, has attempted to file for a 15-year FCC license for
+comprehensive regulations for lunar spectrum use, it
+its Parsec lunar communications system.45 Additionally,
+currently leverages its existing authority to issue short-
+Lockheed has applied for a blanket license to deploy 230
+term spectrum licenses through 47 CFR Part 5
+lunar stations for communications and data storage,
+(Experimental Radio Service) and 47 CFR Part 25
+though industry pushback exists against blanket
+(Streamlined Small Spacecraft Authorization). Part 5
+applications that bypass individual frequency
+licenses are primarily intended for technology
+demonstrations that are non-revenue generating
+missions such as a mission to test a small lunar rover
+2 James Schier, Catherine Sham, Dennis Lee, Kedar Abhyankar, 3 Intuitive Machines FCC License Public Notice,
+Karen Clothier, “International Coordination and Cooperation on 
+Lunar Spectrum”, NASA, 10/2024, 4 Crescent Space Homepage, 
+ 5 
+024_Ka-Band_LunaNet_Spectrum.pdf
+
+approvals.67 Due to the regulatory void, Lockheed has cause no harmful interference to, and shall not claim
+requested FCC waivers and urged the agency to grant protection from harmful interference caused by, a
+licenses with conditional future compliance once lunar station operating in accordance with provisions of the
+guidelines are established. Whether these requests will RR.”11 Securing ITU lunar spectrum allocations and
+be approved before international standards are set thereby ensuring international regulatory protections is
+remains uncertain. crucial as the increase in lunar missions heightens the
+risk of interference.
+Among other responsibilities, the ITU facilitates
+international coordination and global regulations on Internationally binding Radio Regulations designate
+radio spectrum and satellite orbits, including spectrum which portions of the frequency bands are allocated for
+use beyond Earth’s orbits, including cislunar space and specific purposes, ensuring efficient and interference-
+on the Moon. The ITU Radio Regulations (RR), updated free communication. Delineating portions of the
+every three to four years at the World spectrum band for distinct operational uses such as
+Radiocommunication Conference (WRC), are legally lunar emergency beacons, lunar surface
+binding rules for the ITU’s 193 members. The last WRC in communications, or lunar surface-to-orbiter links to
+2023 invited ITU Radiocommunication (ITU-R) Working name a few is critical for establishing a reliable and
+Party 7B to conduct studies to determine future deconflicted lunar communications environment.
+spectrum allocations for lunar space.8 These studies will
+focus on developing rules for using spectrum in support The results from the ITU study will guide the first phase
+of scientific and technical research activities on the of shared lunar spectrum regulations, which will be
+lunar surface and for spacecraft in lunar orbit.9 While the addressed in 2027 at WRC-27.12 Technical studies will
+current focus is limited to missions dedicated to occur in 2025, regulatory conditions will be developed in
+scientific or technical research purposes, this is a critical 2026, and in 2027 the new regulations and allocations
+first step in creating a comprehensive lunar framework. will be signed in the ITU. Once the ITU finalizes
+Currently, lunar operations that are granted temporary spectrum allocations for lunar space, domestic
+FCC licenses are not entitled to protections from frequency agencies, like the FCC, can confidently finalize
+interference by other operations and must cease and issue long-term spectrum licenses on and around
+transmissions if they disrupt other operators.10 Without the Moon, backed by international regulatory
+explicit ITU allocations for lunar frequency bands, lunar protections, frequency designations, and
+space missions can still operate and be filed under ITU acknowledgments.
+Radio Regulation Article 4.4 which states that one, “shall
+6 and the lunar surface, ITU, 
+y=23036041 r/oth/0c/0a/R0C0A0000100015PDFE.pdf
+7 10 James Schier, Catherine Sham, Dennis Lee, Kedar
+y=22718429 Abhyankar, Karen Clothier, “International Coordination and
+8 Cathy Sham, Dennis Lee, Karen Clothier, Kedar Abhyankar, Cooperation on Lunar Spectrum”, NASA, 10/2024,
+International Spectrum Regulatory Recognition of Lunar and 
+Cislunar Activities, NASA, 024_Ka-Band_LunaNet_Spectrum.pdf
+ 11ITU RRs:
+9 Resolution 680 (WRC-23) Studies on frequency-related 
+matters, including possible new or modified space research 12 Cathy Sham, Dennis Lee, Karen Clothier, Kedar Abhyankar,
+service (space-to-space) allocations, for future development of International Spectrum Regulatory Recognition of Lunar and
+communications on the lunar surface and between lunar orbit Cislunar Activities, NASA,
+
+Q2: How are lunar communications coordinated
+internationally? Q3: What actions is NASA taking?
+A2: Today, there are several international fora in which A3: NASA has developed a Lunar Spectrum Management
+countries try to coordinate on lunar spectrum such as Portal (LSMP) which acts as a voluntary international
+the Space Frequency Coordination Group (SFCG), the coordination point for planning lunar missions.14
+Interagency Operations Advisory Group (IOAG), and the Originally created as an internal coordinating tool, the
+Consultative Committee for Space Data Systems Space Frequency Coordination Group (SFCG) is now
+(CCSDS). Among these, the SFCG has a leading role in recommending its usage for lunar spectrum filing for all
+advancing internationally developed shared lunar commercial and governmental space actors.15
+spectrum resolutions. This international technical body, Previously, no pre-coordination process existed for
+comprising 32 member agencies, including major space commercial users unless they partnered with NASA,
+agencies such as NASA, the European Space Agency another U.S. government agency, or an international
+(ESA), Russia’s ROSCOSMOS, and the China National civil space agency. With the increase of commercial
+Space Administration (CNSA), operates with the ITU as operators, the LSMP can provide a valuable
+an observer. Unlike the ITU, the SFCG was not coordination role between commercial and government
+established by treaty and is an informal forum, allowing users, ensuring a safer and more organized operating
+space actors to reach nonbinding agreements on environment by offering tools for effective spectrum
+specific frequencies and technical issues. management like recommended frequency selection,
+interference analysis, and technical pre-coordination
+In 2006, the SFCG established the Lunar Martian processes.16
+Spectrum Group (LMSG), which is chaired by a NASA
+representative who also leads the ITU-R subgroup in Additionally, LunaNet, now being co-developed by
+charge of testing lunar spectrum.13 The LMSG is the main NASA, ESA, and the Japan Aerospace Exploration
+sub-group within the SFCG working on addressing both Agency (JAXA), is an innovative approach to lunar
+lunar and martian spectrum challenges, including communications standards in a shared spectrum
+developing and maintaining spectrum plans, addressing environment. LunaNet operates as a ‘network of
+mission-specific requirements, and facilitating networks’, managed and co-developed by multiple
+collaboration among space agencies. Since the ITU can organizations to deliver interoperable Communications,
+only update its internationally binding Radio Position, Navigation, and Timing (CPNT) services to any
+Regulations every three to four years, forums like the user in the lunar region. Due to LunaNet's emphasis on
+SFCG provide supplementary venues where space interoperability, any company or organization can
+actors can hold international discussions and forge deploy a satellite or communication device in the lunar
+agreements at a pace more commensurate with region and seamlessly integrate as a node within the
+advancements in space technology and mission network, thereby accelerating the network's rapid
+timelines.
+13 Lunar Spectrum Considerations, ICG-17 Plenary, NASA, 15 Resolution A40-1: Assistance in the Assignment of
+Cathy Sham, 2023, Frequencies to Missions in the Lunar Vicinity, SFCG, 2024,
+ 
+17/icg17.02.08.pdf 1%20(Assistance%20in%20the%20Assignment%20of%20Frequ
+14 About the Lunar Spectrum Manager, NASA, encies%20to%20missions%20in%20the%20Lunar%20Reg).pdf
+ 16 Cathy Sham, Lunar Spectrum Considerations, 2024,
+Spectrum-Manager.aspx 
+17/icg17.02.08.pdf
+
+expansion.17 This framework is based on internationally , but the mission encountered landing
+agreed upon standards, protocols, frequency bands, complications and Nokia only had 25 minutes of
+and interface requirements, with shared spectrum network connection to run tests before losing all
+usage as a founding principle.18 It is expected that power.212223 The IOAG, an international forum focused on
+LunaNet will be expanded across the solar system as an interagency space communication standards and
+interplanetary network.19 LunaNet's current spectrum strategies to ensure interoperability among space
+plan comprises X and Ka bands for Earth-Moon satellite agencies, is developing governance structures for
+communications, with possible optical links, and S and LunaNet through its Committee to Study LunaNet
+Ka bands for communications around the Moon as Governance.24 However, at a Lunar PNT meeting jointly
+shown in Figure 1.20 The distance between the Moon and held in with the International Committee
+Earth should ensure that S-band interference does not on Global Navigation Satellite Systems (ICG), a body
+occur between lunar and terrestrial Earth use. within the United Nations Office of Outer Space Affairs
+Additionally, tests are scheduled to assess the (UNOOSA), the IOAG stated that establishing an official
+establishment of a 3GPP type network on the lunar governance structure will take time.25 One idea
+surface. The 3rd Generation Partnership Project (3GPP) proposed was creating a new Secretariat position under
+develops global standards for mobile communications, UNOOSA in charge of LunaNet/Lunar Governance.26 In
+including 4G, 5G, LTE, and other networking standards the near term, NASA, ESA, and JAXA will form the
+currently under development. Replicating frequency Coordinated LunaNet Administration Partners for self-
+band designations that align with those already used in administering critical topics in CPNT and developing
+Earth networks allows operators to leverage existing, non-binding standards amongst space agencies and
+proven technology that can be easily space-hardened, commercial actors.27 These standards are intended to be
+reducing development costs for lunar deployment. co-developed and defined with input from the global
+Nokia and Intuitive Machines, for example, attempted to scientific community and commercial industry under
+deploy the first lunar 4G/LTE cellular network in
+17 James Schiera , Coralí Rouraa , Phillip Paulsenb, Karl Vadenb, us/news/releases/2025/03/10/nokia-and-intuitive-machines-
+Jennifer Rockb, Charles Sheeheb, Angela Peurac , Marc Seibertc deliver-first-cellular-network-to-the-moon-achieve-some-key-
+, Erica Weird, Deeper Dive into Interoperability and Its mission-objectives/
+Implications for LunaNet Communications and Navigation 22Nokia’s Cellular Network Ready for Moon as Intuitive
+Services, NASA, June 28, 2024, Machines Complates Final Lunar Lander Installation, 2025,
+ 
+nteroperability%20for%20LunaNet%20Services.pdf network-ready-for-moon-as-intuitive-machines-completes-
+18 Catherine G. Manning, LunaNet Interoperability final-lunar-lander-installat
+Specification, Feb. 08, 2024, NASA, 23 Cathy Sham, Dennis Lee, Karen Clothier, Kedar Abhyankar,
+ International Spectrum Regulatory Recognition of Lunar and
+communications-navigation-program/lunanet-interoperability- Cislunar Activities, NASA,
+specification/ 
+19 James Schier, Catherine Sham, Dennis Lee, Kedar Abhyankar, 24 Committee to Study LunaNet Governance, IOAG, 2023,
+Karen Clothier, “International Coordination and Cooperation on 
+Lunar Spectrum”, NASA, 10/2024, %20Study%20LunaNet%20Governance%20ToR.pdf
+ 25 Committee to Study LunaNet Governance, IOAG, 2023,
+024_Ka-Band_LunaNet_Spectrum.pdf 
+20 James Schier, Cathay Sham, Karen Clothier, Dennis Lee, %20Study%20LunaNet%20Governance%20ToR.pdf
+Kedar Abhyankar, International Coordination and Cooperation 26
+On LunaNet Spectrum Deck, NASA, 2024, Cislunar-PNT-Workshop.aspx
+ 27
+nternational%20Coordination%20on%20LunaNet%20Spectrr oc=%7B4BB19E35-E276-4A6F-B0D8-
+um.pdf 54C9265EA1D9%7D&file=01%20LunaNet%20for%20ICG-
+21Nokia and Intuitive Machines deliver first cellular network to IOAG%20CisLun%20PNT%2011-
+the Moon; achieve some key mission objectives, 2025, 13Feb2025v4.pdf&action=default
+
+the auspices of international organizations.28 The IOAG by ITU Radio Regulations. Although, in multiple
+and the Consultative Committee for Space Data Systems presentations, Chinese representatives emphasized the
+(CCSDS), both chaired by NASA representatives, have desire for interoperable lunar PNT systems through
+adopted LunaNet’s founding SFCG-recommended standardization at national and international levels.
+frequencies as the optimal choice for lunar spectrum. 29 Furthermore, when presenting on S-band PNT
+CCSDS is a multi-national forum that develops frequencies, Chinese representatives displayed the
+communications and data systems standards for same S-band frequency listed by LunaNet’s PNT
+spaceflight, ensuring interoperability among Augmented Forward System (AFS), 2483.5 - 2500 MHz.
+international space agencies and commercial operators. Despite Beijing’s statement to also study L-band as a
+CCSDS essentially ‘implements’ the operational space PNT backup, CCSDS stated that they will be studying
+communication requirements stemming from the LunaNet’s AFS as a potential standard for lunar PNT,
+IOAG.30 further strengthening NASA’s push for international
+LunaNet adoption.
+However, it remains to be seen whether China, who is
+planning a number of significant lunar missions, will NASA is also embedding compliance mandates in its
+abide by LunaNet standards. Despite this uncertainty, commercial contracts for lunar missions. Contractors for
+Beijing emphasized its desire for interoperability in a the Lunar Communication Relay and Navigation System
+working group session on Lunar Position Navigation and (LCRNS) must adhere to LunaNet standards, ensuring
+Timing (PNT) back in and again in February alignment with NASA’s vision.32 Companies like Intuitive
+2025. Notably, Beijing initially agreed with the United Machines and Lockheed Martin’s subsidiary Crescent
+States on spectrum bands for use around the Moon and Space are already agreeing to adopt these standards.33
+between the Earth and Moon; however, there are
+concerns that Beijing’s recent lunar deployments could Q3: What are the chances NASA’s plans will be
+contradict this agreement, and that they may seek to adopted internationally?
+reverse the decision within the SFCG, possibly testing
+their influence as a space superpower. Furthermore, at
+A2: NASA’s strategic use of contractual mandates and
+the ICG-IOAG Lunar PNT meeting in ,
+active role in international fora positions it to influence
+multiple Chinese representatives mentioned utilizing
+the establishment of global standards for lunar
+both S-band and L-band for Lunar PNT.31 Both the U.S.
+communications. Both ESA and JAXA have committed to
+and the SFCG stated that S-band is the optimal choice
+abide by LunaNet for future lunar missions and mandate
+for lunar PNT and not L-band which could cause harmful
+compliance for their commercial contractors, which will
+interference to radio astronomy observations in the
+Shielded Zone of the Moon (SZM), which are protected further strengthen this foundation.34 ESA’s Moonlight
+28 E64D615DBEA4%7D&file=01%20IOAG-
+oc=%7B838B241A-29D6-49F6-9D66- ICG%20on%20Lunar%20PNT-Feb2025-
+5604FF99D0A6%7D&file=03%20LunaNet%20Perspectives,%20F SFCG.pdf&action=default
+rame,%20Suzuna%20OKAMOTO%20(JAXA)_A.pdf&action=defa 32 LCRNS Lunar Relay Services Requirements, NASA, 2023,
+ult 
+29 CCSDS Blue Book of Recommended Standards Table 3-1: es/384128cc09134971b29c51d6b1256fb7/download?&status=
+Recommended Frequency Bands for Communications in the archived&token=
+Lunar Region, 2024, 33 LM/Crescent Lunar-Cislunar Services Overview, Lockheed
+30 Martin, ,
+oc=%7BCBBE47E8-08DA-480E-B0E1- 
+0365245CB8C2%7D&file=06%20CCSDS-LunarPNT-13-02- =23036041
+25.pdf&action=default 34 Cheryl Graming NASA, Juan Crenshaw NASA, Floor Melman
+31 ESA, Richard Swinden ESA, Masaya Murata JAXA, LunaNet:
+oc=%7BA47F26D6-C27D-460E-B025- Interoperability for Lunar PNT, 2024, UNOOSA ICG, ,
+
+program, a European and Canadian industry consortium Data Systems (CCSDS) recommending LunaNet’s
+encouraging commercial development and control of founding SFCG frequencies in their Blue Book of
+lunar SATCOM, will be fully LunaNet compliant.35 Recommended Standards. CCSDS also created an
+Moonlight will deploy five satellites in-orbit around the annual LunaNet Developers Forum and a Lunar
+Moon, four for navigation and one for communication, Interoperability Forum.3940 Additionally, the SFCG
+targeting the lunar south pole. After the initial Lunar recommends NASA’s LSMP as an international
+Pathfinder satellite mission, ESA has committed to coordination point prior to filing for lunar spectrum and
+requiring LunaNet compliance in future contract there are multiple frequency overlaps between LunaNet
+proposals, ensuring that their commercial partners frequencies and those currently undergoing testing by
+adhere to the same lunar spectrum usage standards.36
+37Similarly, JAXA’s Lunar Navigation Satellite System
+(LNSS) is designed to abide by LunaNet’s frequency
+ranges.38 LNSS will consist of eight relay orbiters
+providing GPS for the lunar south pole, with the first
+deployment scheduled to be built by the Japanese
+company Arkedge Space. The combination of NASA's,
+ESA's, and JAXA's planned lunar SATCOM deployments,
+built with LunaNet principles, should create a robust
+foundation for lunar communications infrastructure.
+Future space actors, both commercial and
+governmental, should be influenced to adopt LunaNet
+principles, recognizing it as the most cost-efficient
+option since the foundational infrastructure will have
+been established. All three systems have a planned
+interoperability test demonstration scheduled for 2029
+to prove to the industry the robustness of the LunaNet
+concept. NASA’s shared lunar spectrum vision is also
+being adopted by international organizations, with the the ITU as shown in Table 1.41 Furthermore, NASA
+IOAG establishing a Committee to Study LunaNet continues to provide technical support for ITU lunar
+Governance and the Consultative Committee for Space spectrum studies, with the results directly influencing
+ 38 Lunar Navigation Satellite System (LNSS) and Its
+B_Lunar_PNT_Jun24/LunarPNT_Jun24_01_01.pdf Demonstration Mission, JAXA, 2022,
+35ESAs Moonlight Programme: Pioneering for Lunar 
+Exploration, ESA, 2024, B/ICG16_WG-B_03.pdf
+ 39 CCSDS LunaNet Developers Forum,
+ommunications/ESA_s_Moonlight_programme_Pioneering_the 
+_path_for_lunar_exploration 40 CCSDS Lunar Interoperability Forum,
+36 US-ESA MOU Lunar Pathfinder, 
+content/uploads/2023/10/22-615-European-Space-Agency- 41 Resolution A40-1: Assistance in the Assignment of
+Space-Lunar-Pathfinder-6.15.2022-TIMS-63201.pdf Frequencies to Missions in the Lunar Vicinity, SFCG, 2024,
+37 Joint Concept of Operations for Cooperative Lunar Relay and 
+Navigation, ESA-NASA, 2022, 1%20(Assistance%20in%20the%20Assignment%20of%20Frequ
+content/uploads/2023/04/joint_con_ops_document_dec_14_2 encies%20to%20missions%20in%20the%20Lunar%20Reg).pdf
+022_final_draft.pdf
+
+WRC-27 regulatory decisions, which will serve as the
+foundation for the FCC's eventual lunar framework.
+The Moon will be the proving ground for all future space
+exploration, and the rules established during this next
+phase in space development will create a framework for
+human exploration across the entire solar system. It is
+imperative that a robust framework is set up based on
+internationally developed shared spectrum usage to
+ensure the success of all future space endeavors.
+Acknowledgments
+The author would like to thank Kari Bingen, Clayton
+Swope, Makena Young, and Krista Auchenbach for their
+support and insights.
+Figure SEQ Figure \* ARABIC 1: Electromagnetic Spectrum Architecture for Lunar Region
+(Source: LunaNet Interoperability Specification Version 5, 2025, 
+interoperability-specification-v5-baseline.pdf?emrc=606f9)
+
+Table 1: Lunar Spectrum Frequencies
+(Sources: (1) Lunar Spectrum Management Portal Recommended Frequency Bands, 
+and (2) International Coordination and Cooperation on LunaNet Spectrum, NASA, 2024, 
+Band_LunaNet_Spectrum.pd)
+Broad Lunar Spectrum Categories SFCG Lunar Band Selected for ITU LunaNet Frequencies
+Frequencies Lunar Testing
+Earth to Lunar Orbit 2025-2110 MHz S 2025 – 2110 MHz
+7190-7235 MHz C 7190-7235 MHz 7190 – 7235 MHz
+22.55-23.15 GHz K 22.55 – 23.15 GHz
+40.0-40.5 GHz Ka
+Lunar Orbit to Earth 2200-2290 MHz S 2200 – 2290 MHz
+8450-8500 MHz X 8450-8500 MHz 8450 – 8500 MHz
+25.5-27.0 GHz Ka 25.5 – 27.0 GHz
+37-38 GHz Ka
+Earth to Lunar Surface 2025-2110 MHz S 2025 – 2110 MHz
+7190-7235 MHz C 7190-7235 MHz 7190 – 7235 MHz
+22.55-23.15 GHz K 22.55 – 23.15 GHz
+Lunar Surface to Earth 2200-2290 MHz S 2200 – 2290 MHz
+8450-8500 MHz X 8450-8500 MHz 8450 – 8500 MHz
+25.5-27.0 GHz Ka 25.5 – 27.0 GHz
+Lunar Orbit to Lunar Surface 390-405 MHz UHF 390-406.1 MHz 406 – 406.1 MHz (emergency beacon)
+2025-2110 MHz S 2025 – 2110 MHz
+23.15-23.55 GHz K 23.15 – 23.55 GHz
+Lunar Surface to Lunar Orbit 435-450 MHz UHF 440-450 MHz 435 – 450 MHz
+2200-2290 MHz S 2200 – 2290 MHz
+27.0-27.5 GHz Ka 27.0 – 27.5 GHz
+Lunar Orbit to Lunar Orbit 2025-2110 MHz S 2025 – 2110 MHz
+2200-2290 MHz S 2200 – 2290 MHz
+23.15-23.55 GHz K 23.15 – 23.55 GHz
+27.0-27.5 GHz Ka 27.0 – 27.5 GHz
+Lunar Surface Wireless Network 390-405 MHz UHF 390-406.1 MHz 406 – 406.1 MHz (emergency beacon)
+410-420 MHz UHF 420-430 MHz 410 – 420 MHz
+435-450 MHz UHF 440-450 MHz 435 – 450 MHz
+2.400-2.480 GHz S 2 400-2 690 MHz 2.4 – 2.48 GHz
+2.5035-2.655 GHz S 2 400-2 690 MHz 2.503 – 2.655 GHz
+3.5-3.8 GHz S 3 500-3 800 MHz 3.5 – 3.8 GHz
+5.15-5.835 GHz C 5 150-5 570 MHz 5.15 – 5.835 GHz
+5.855-5.925 GHz C 5 775-5 925 MHz 5.855 – 5.925 GHz
+25.25-25.5 GHz Ka 25.25-28.35 GHz 25.25 – 25.50 GHz
+27.225-27.5 GHz Ka 25.25-28.35 GHz 27.225 – 27.5 GHz
+27.5-28.35 GHz Ka 25.25-28.35 GHz 27.5 – 28.35 GHz
+Lunar Relay to Lunar Relay Cross Link 13.75-14 GHz Ku 13.75 – 14.0 GHz
+14.5-15.35 GHz Ku 14.5 – 15.35 GHz
+23.15-23.55 GHz K 23.15 – 23.55 GHz
+27.0-27.5 GHz Ka 27.0 – 27.5 GHz
+37-38 GHz Ka
+40-40.5 GHz Ka
+Amateur Radio Operations, Earth-to-Lunar Orbit 144-146 MHz VHF
+435-438 MHz UHF
+2.4-2.45 GHz S
+5.65-5.67 GHz C
+Amateur Radio Operations, Lunar Orbit-to-Earth 144-146 MHz VHF
+435-438 MHz UHF
+10.45-10.5 GHz X
+Lunar PNT (LunaNet AFS for Navigation) 2483.5-2500 MHz S 2483.5 – 2500 MHz
+Earth GNSS to Lunar Surface L 1164 – 1215 MHz
+L 1215 – 1300 MHz
+L 1559 – 1610 MHz
+Optical Links Optical: 1550 nm (Proximity Link)
+Optical: 1550 nm (Cross Link)
+Optical: 1550 nm (Trunk Link)
+
+About CSIS
+The Center for Strategic and International Studies (CSIS) is a bipartisan, nonprofit policy research organization
+dedicated to advancing practical ideas to address the world’s greatest challenges.
+Thomas J. Pritzker was named chairman of the CSIS Board of Trustees in 2015, succeeding former U.S. Senator Sam
+Nunn (D-GA). Founded in 1962, CSIS is led by John J. Hamre, who has served as president and chief executive officer
+since 2000.
+CSIS’s purpose is to define the future of national security. We are guided by a distinct set of values—nonpartisanship,
+independent thought, innovative thinking, cross-disciplinary scholarship, integrity and professionalism, and talent
+development. CSIS’s values work in concert toward the goal of making real-world impact.
+CSIS scholars bring their policy expertise, judgment, and robust networks to their research, analysis, and
+recommendations. We organize conferences, publish, lecture, and make media appearances that aim to increase the
+knowledge, awareness, and salience of policy issues with relevant stakeholders and the interested public.
+CSIS has impact when our research helps to inform the decision making of key policymakers and the thinking of key
+influencers. We work toward a vision of a safer and more prosperous world.
+CSIS does not take specific policy positions; accordingly, all views expressed herein should be understood to be solely
+those of the author(s).
+
+Notes 10) Lunar Spectrum Considerations, ICG-17 Plenary, NASA,
+Cathy Sham, 2023,
+
+LunaNet and Lunar Communications:
+17/icg17.02.08.pdf
+1) Lunar Spectrum Overview and World Radio Conference
+11) Interoperability Management on the Lunar Surface,
+Update, NASA 2024,
+NASA, 2024,
+
+B_Lunar_PNT_Jun24/LunarPNT_Jun24_02_01.pdf?utm
+oads/Interoperability%20Lecture%208%2029%2024.pd
+_source=chatgpt.com
+f
+2) International Spectrum Regulatory Recognition of
+12) NASA’s Lunar Communication and Navigation
+Lunar and Cislunar Activities, NASA,
+Architecture, NASA, 2023,
+
+3) PNT as an Enabling Capability for Artemis, NASA, 2025,
+oads/Lunar%20Communications%20and%20Navigatio
+
+n%20Architecture.pdf
+.%20Keynote%20Addresses/03%20PNT%20as%20an%
+13) Resolution 680 (WRC-23) Studies on frequency-related
+20Enabling%20Capability%20for%20Artemis.pdf
+matters, including possible new or modified space
+4) LunaNet Overview and Interoperability for Lunar PNT,
+research service (space-to-space) allocations, for future
+NASA, 2025, development of communications on the lunar surface
+ and between lunar orbit and the lunar surface, ITU,
+a.%20Overview%20of%20Lunar%20PNT%20Framewor 
+ks%20%26%20Systems%20(Part%20I)/01%20LunaNet r/oth/0c/0a/R0C0A0000100015PDFE.pdf
+%20for%20ICG-IOAG%20CisLun%20PNT%2011- 14) LunaNet Governance: Organizing and Planning for
+13Feb2025v4.pdf LunaNet Operations, NASA,
+5) Overview of LCRNS PNT Services, NASA, 2025, 
+ Id=doi:10.48577/jpl.O4ULBE
+a.%20Overview%20of%20Lunar%20PNT%20Framewor 15) International Coordination and Cooperation On
+ks%20%26%20Systems%20(Part%20I)/03%20PNT%20 LunaNet Spectrum Deck, NASA, 2024,
+Workshop%20LCRNS%20PNT%20Services_v6.pdf?d=w 
+98d1a0836ebb4705a0552ecdd443fda1 oads/International%20Coordination%20on%20LunaNe
+6) LunaNet AFS Properties and Signal Band, NASA, ESA, t%20Spectrrum.pdf
+JAXA, 2025, 16) International Coordination and Cooperation on
+ LunaNet Spectrum Report, NASA, 2024,
+.%20Lunar%20PNT%20Spectrum/03%20LunaNet%20A 
+FS%20Properties%20for%20ICG-IOAG.pdf oads/2024_Ka-Band_LunaNet_Spectrum.pdf
+7) LunaNet Perspectives - How the International 17) LunaNet: A Flexible and Extensible Lunar Exploration
+Standards Community Can Help, NASA, 2025, Communications and Navigation Infrastructure, NASA,
+ 
+.%20Lunar%20Reference%20Systems%20and%20Timi oads/20200001555.pdf
+ng/3(2a).%20Time%20%26%20Reference%20Systems 18) LunaNet Perspective, 2025, JAXA,
+%20Application/05%20LunaNet-InternlStdsHelpICG- 
+IOAGPNTFeb2025v4.pdf .%20Lunar%20Reference%20Systems%20and%20Timi
+8) The Road Ahead: From Cislunar PNT to the Solar System ng/3(2a).%20Time%20%26%20Reference%20Systems
+Internet, Scott Pace, 2025, %20Application/03%20LunaNet%20Perspectives,%20Fr
+ ame,%20Suzuna%20OKAMOTO%20(JAXA)_A.pdf
+.%20Lunar%20PNT%20Governance/02%20Cistunar%20 19) Deeper Dive into Interoperability and its Implications
+PNT%20to%20SSI%20Feb%202025%20- for LunaNet Communication and Navigation Services,
+%20Pace%20FinalR1.pdf NASA,
+9) Lunar Communications and Navigation: Integrating 
+Government, Commercial, and International Partner oads/Interoperability%20for%20LunaNet%20Services.p
+Solutions, NASA, 2023, df
+ 20) A Deeper Dive in to the Meaning and Implications of
+oads/GFFS%20-%20Cislunar%20Infrastructure%20- Interoperability for LunaNet Communications and
+%20Reinhart%20-%20final.pdf Navigation Services, NASA, 2023,
+
+ 32) NASA’s Efforts to Pursue Commercial Communication
+oads/KA_2023%20- Services for Missions in Near Space Report, NASA,
+%20Interoperability%20for%20LunaNet.pdf 
+21) A Deeper Dive in to the Meaning and Implications of oads/Ka-
+Interoperability for LunaNet Communications and band%202023_%20NASA%20CSP%20in%20Near%20Sp
+Navigation Services Report, NASA, 2023, ace.pdf
+ 33) NASA’s Efforts to Pursue Commercial Communication
+oads/KA_2023- Services for Missions in Near Space Deck, NASA,
+Meaning%20of%20Interoperability%20for%20LunaNet. 
+pdf oads/Commerical%20Lunar%20Ka%20Presentation_FI
+22) NASA’s LunaNet Lunar Communications and PNT, NAL.pdf
+NASA, 2024, 34) 3GPP Mobile Telecommunications Technology on the
+ Moon, NASA, 2023,
+B_Lunar_PNT_Jun24/LunarPNT_Jun24_01_02.pdf 
+23) LunaNet: Interoperability for Lunar PNT, NASA 2024, oads/Big%20Sky%20Presentation.2.20.23.pdf
+ 35) Nokia Future Lunar Surface Network Study, 2024,
+B_Lunar_PNT_Jun24/LunarPNT_Jun24_01_01.pdf 
+24) Space Communications in Support of the Artemis oads/NASA%203GPP%20Study%20Final%20Project%2
+Program, NASA, 2021, 0Report%20Consol%20UDR.pdf
+ 36) Lunar Communications Architecture: Enabling the Next
+oads/SpaceOps%202021%20- Era of Space Exploration, New Space Economy,
+%20Space%20Communications%20in%20Support%20 
+of%20the%20Artemis%20Program_v3.pdf communications-architecture-enabling-the-next-era-of-
+25) LunaNet: Empowering Artemis with Communications space-exploration/?amp=1
+and Navigation Interoperability, NASA, 37) NASA’s Approach to Lunar Communications and
+ Navigation: Artemis and Beyond, NASA, 2024,
+empowering-artemis-with-communications-and- 
+navigation-interoperability/ oads/IAC%202024%20NASA%20SCaN%20Lunar%20Arc
+26) Interoperability in the Lunar Sphere through LunaNet hitecture_FINAL.pdf
+and International Cooperation, NASA, 2024, 38) Gateway - A Communications Platform for Lunar
+ Exploration, NASA, 2021,
+oads/LunaNet%20and%20Interoperability%20for%20In 
+terop%20Tokyo%20v2.pdf oads/GW_Comm_ICSSC_Paper.pdf
+27) LunaNet Governance: Organizing and Planning for 39) Lunar Reference Frame Update to the PAC, 2024, NASA,
+LunaNet Operations, NASA, 2023, 
+ content/uploads/2024/08/22-lunar-reference-frame-
+oads/SpaceOps%202023%20Abstract%20on%20LunaN update-pac-july2024.pdf
+et%20Governance.pdf 40) LCRNS Version 4, NASA,
+28) LunaNet PNT Services, Enabling the Future of Lunar 
+Exploration, NASA, 2023, files/LunaNet%20Interoperability%20Specification.pdf
+ 41) CesiumAstro Development of LunaNet AFS Receiver,
+29) Lunar Foundational Reference Systems and Time: Cesium, 2025,
+LunaNet Perspective, NASA, 2024, 
+ .%20Lunar%20PNT%20User,%20Test%20Equipment%
+B_Lunar_PNT_Jun24/LunarPNT_Jun24_02_02.pdf 20%26%20Technologies/03%20CesiumAstro%20Lunar
+30) U.S. Policy on Celestial Time Standardization, NASA, %20AFS%20Final.pdf
+2024, 42) From NaviMoon to NaviLunar - SpacePNT Roadmap
+ from Autonomous Cis-Lunar Navigation to LunaNet
+B_Lunar_PNT_Jun24/LunarPNT_Jun24_02_03.pdf Enabled Applications, SpacePNT, 2025,
+31) LunaNet Interoperability Specification Document, 
+NASA, .%20Lunar%20PNT%20User,%20Test%20Equipment%
+content/uploads/2023/09/lunanet-interoperability- 20%26%20Technologies/04%20ICG-
+specification-v5-draft.pdf IOAG_Cislunar_PNT.pdf
+
+43) GNSS and LCNS Receiver technologies from the Lab to 
+the Moon, Qascom, 2025, .%20Lunar%20PNT%20User,%20Test%20Equipment%
+ 20%26%20Technologies/05%20ICGIOAG%20Workshop
+.%20Lunar%20PNT%20User,%20Test%20Equipment% %20on%20Cislunar%20PNT%20Fantinato_v14.pdf
+20%26%20Technologies/05%20ICGIOAG%20Workshop 5) Necessity of Governance, 2025, IOAG and CNSA,
+%20on%20Cislunar%20PNT%20Fantinato_v14.pdf?d= 
+wdf46c025eded4fe6a260973421dddb9e .%20Lunar%20PNT%20Governance/00%20Governance
+44) Intuitive Machines LANS/PNT Lunar User Terminal %20Session%20-%20Introduction--cochairs.pdf
+Architecture, Intuitive Machines, 2025, 6) Considerations on Lunar PNT Governance, CNSA
+ LESEC, 2025,
+.%20Lunar%20PNT%20User,%20Test%20Equipment% 
+20%26%20Technologies/06_Stewart_ICG_IOAG_IM_AF .%20Lunar%20PNT%20Governance/03%20Considerati
+S_RX_Vienna_Feb2025.pdf ons%20on%20Lunar%20PNT%20Governance%20Princi
+ples-Ruihong%20YANG.pdf
+Lunar Spectrum Management Portal: 7) The Envision of Earth-Moon and Deep Space
+1) LSMP Homepage, Communication-Navigation-Remote Sensing Integrated
+ Constellation System 2024,
+Spectrum-Manager.aspx 
+2) Recommended Frequency Bands, B_Lunar_PNT_Jun24/LunarPNT_Jun24_01_06.pdf
+ 8) The Envision of Earth-Moon and Deep Space
+Frequency-Bands.aspx Communication-Navigation-Remote Sensing Integrated
+3) Lunar Mission Landscape, Constellation System 2023,
+ 
+Landscape.aspx 17/icg17_wgb_06.pdf
+4) Spectrum Regulations for Lunar Environment System, 9) Research on Lunar Communication Network
+ Architecture and Protocol, 2023,
+tions-for-Lunar-Region-Systems.aspx 
+5) NASA Spectrum Planning & Pre-Coordination: Lunar 10) International Research Station (ILRS), CNSA, 2023,
+Missions, Catherine Sham, Youtube, 
+ TPs/ILRS_presentation20230529_.pdf
+11) Verification of BDS SSV and Analysis of BDS/GNSS
+Applications in Lunar Vicinity, ,
+
+China Lunar Plans: B_Lunar_PNT_Jun24/LunarPNT_Jun24_01_07.pdf
+1) Strategic PNT Requirements for ILRS: Enabling
+Sustainable Lunar Exploration, 2025, Non-U.S. Lunar PNT Plans:
+ 1) NovaMoon: A LANS Monitoring and Local Differential
+.%20Keynote%20Addresses/02%20Preliminary%20PNT Station, ESA, 2025,
+%20requirements%20for%20ILRS.pdf 
+2) Conception of Lunar PNT, 2025, DSEL, .%20Lunar%20PNT%20User,%20Test%20Equipment%
+ 20%26%20Technologies/07%20NOVAMOON_A%20LAN
+b.%20Overview%20of%20Lunar%20PNT%20Framewor S%20Monitoring%20and%20Local%20Differential%20S
+ks%20%26%20Systems%20(Part%20II)/02%20Concepti tation_Dr%20Javier%20Ventura-Traveset.pdf
+on%20of%20Lunar%20PNT.pdf 2) ESA Lunar Navigation Strategy: Moonlight, Lunar
+3) Spectrum Conception on Navigation Satellite of CAST: Pathfinder and NovaMoon Programmes, 2025,
+From the Earth to the Moon (CAST), 2025, 
+ a.%20Overview%20of%20Lunar%20PNT%20Framewor
+.%20Lunar%20PNT%20Spectrum/05%20ICG-IOAG- ks%20%26%20Systems%20(Part%20I)/02%20ESA%20L
+Huiliang%20LIU- unar%20PNT%20Strategy_Dr%20Javier%20Ventura-
+Spectrum%20Conception%20on%20Navigation%20Sat Traveset_ESA.pdf?d=waf74d10c6571437394a4df9d8567
+ellite.pdf 201c
+4) Evolution and Integration of BDS: Experiences Sharing 3) Outline of Lunar Exploration Scenario in ISECG, JAXA,
+with the Moon, 2025, CAST, 2025,
+
+ 12) Lunar Reference Frame and Lunar Time Reference -
+.%20Keynote%20Addresses/01%20Outline%20of%20Lu ESA’s View, 2024,
+nar%20Exploration%20Scenario%20in%20ISECG.pdf 
+4) Japan Lunar Navigation Satellite System (LNSS) and Its B_Lunar_PNT_Jun24/LunarPNT_Jun24_02_04.pdf
+Contribution Towards LANS, JAXA, 2025, 13) Japan Lunar Navigation Satellite System (LNSS) and its
+ Contribution Towards Lunar Augmented Navigation
+b.%20Overview%20of%20Lunar%20PNT%20Framewor Service, JAXA, 2024,
+ks%20%26%20Systems%20(Part%20II)/01%20Japan% 
+20Lunar%20Navigation%20Satellite%20System%20(LN B_Lunar_PNT_Jun24/LunarPNT_Jun24_01_05.pdf
+SS)%20and%20Its%20Contribution%20Towards%20LA 14) Moonlight: LCNS, and Lunar Pathfinder, ESA, 2024,
+NS_Masaya_Murata_public.pdf 
+5) Lunar Navigation Satellite System (LNSS) and Its B_Lunar_PNT_Jun24/LunarPNT_Jun24_01_04.pdf
+Demonstration Mission, Arkedge Space - JAXA, 2025, 15) LuGRE Lunar GNSS Receiver Experiment Deck, NASA,
+ 
+%20Lunar%20PNT%20User,%20Test%20Equipment%20%
+B_Lunar_PNT_Jun24/LunarPNT_Jun24_01_03.pdf
+26%20Technologies/08%20250213_CisLunar_WS_Presen
+16) ArkEdge Space Selected by JAXA to Develop Lunar
+tation_AE.pdf
+Navigation System, 2024,
+6) Pseudolite System for Lunar PNT, ISRO, 2025,
+
+selected-by-jaxa-to-develop-lunar-navigation-system/
+b.%20Overview%20of%20Lunar%20PNT%20Framewor
+ks%20%26%20Systems%20(Part%20II)/03%20Pseudoli
+te%20System%20for%20Lunar%20PNT_Cislunar_Work
+IOAG:
+shop_11_Feb2025_Ashish_ISRO_FINAL.pdf
+1) IOAG LunaNet Governance Study Preliminary Results,
+7) Korean Cislunar PNT, KARI, 2025,
+2025,
+
+b.%20Overview%20of%20Lunar%20PNT%20Framewor
+.%20Lunar%20PNT%20Governance/04%20IOAG%20Lu
+ks%20%26%20Systems%20(Part%20II)/04%20250211_
+naNet%20Governance%20Study%20Preliminary%20Re
+Cislunar%20Workshop_Korean%20Cislunar%20PNT_jm
+sults%20final.pdf
+joo.pdf
+2) Committee to Study LunaNet Governance Terms of
+8) Pseudolite Lunar PNT Spectrum Perspective, ISRO,
+Reference, IOAG,
+2025,
+
+e%20to%20Study%20LunaNet%20Governance%20ToR.
+.%20Lunar%20PNT%20Spectrum/04%20Pseudolite_PN
+pdf
+T_Spectrum_Perspective_Cislunar_Workshop_12_Feb2
+3) Cislunar Infrastructure: Convergence of Architecture,
+025_Ashish_ISRO_FINAL.pdf?d=w54c7544f7b7849d780d
+Governance, and Interoperability, 2024,
+2182b8fc8c010
+
+9) BIPM Perspective, BIPM, 2025,
+oads/Cislunar%20Infrastructure.pdf
+
+4) Interoperability Plenary Communique ,
+.%20Lunar%20Reference%20Systems%20and%20Timi
+
+ng/3(1).%20Time%20%26%20Reference%20Systems,%
+5%20Communique_FINAL.pdf
+20Frames%20-
+5) Report from IOAG to ICG, 2023,
+%20Definition%20%26%20Standards/03%20Tavella%2
+
+0ICG%20IOAG%20Moon%20PNT%20Vienna%20feb%20
+27/PF-27.01b.pdf
+2025.pdf
+6) The Future Lunar Communications Architecture, 2022,
+10) Leveraging PNT Receivers in 2483.5 - 2500 MHz for Lunar
+
+In-Situ Users, CNES, 2025,
+communications%20architecture%20study%20report%
+
+20FINAL%20v1.3.pdf
+.%20Lunar%20PNT%20User,%20Test%20Equipment%
+7) Update on Frequency Bands for Lunar In-Situ
+20%26%20Technologies/01_CNES_Issler.pdf
+PNT/GNSS Constellations, ICG, 2022,
+11) Joint WG Session on Lunar PNT ,
+
+6/09.pdf
+-groups/b/LunarPNT_Jun24.html
+
+8) Public IOAG Documents Database, interference caused by lunar surface communications
+ systems.
+tems.aspx# 9) SFCG RES A 40-1: Recommends space agencies and
+CCSDS: commercial entities coordinate with their respective
+1) How CCSDS can Contribute to Cislunar PNT
+national space agencies and consult the NASA-
+Interoperability, 2025,
+developed Lunar Spectrum Management Portal (LSMP)
+
+during the initial planning stages of lunar missions.
+.%20GNSS%20Lessons%20Learned/06%20CCSDS-
+LunarPNT-13-02-25.pdf
+FCC Lunar Applications:
+2) CCSDS, 
+1) Lockheed Martin/Crescent Space Parsec, Primary:
+3) Blue Book of Recommended Standards,
+
+Additional: 
+4) CCSDS LunaNet Developers Forum,
+news.com/pdf/879521
+
+2) Lockheed Martin/Crescent Space 230 Lunar Stations,
+aspx
+
+5) CCSDS Lunar Interoperability Forum,
+Additional:
+
+6) Spectrum Factors Considered by Lunar In-Situ PNT
+ent_key=23036041
+Service Design in the Lunar Environment, 2025,
+3) Intuitive Machines, Nova-C/IM-1 Lunar Lander,
+
+.%20Lunar%20PNT%20Spectrum/02%20Spectrum%20
+4) Lockheed Martin Lunar WAC Comments, 2022,
+Factors%20for%20Lunar%20PNT%20Service%20in%20
+
+the%20Lunar%20Environment.pdf
+filings/filing/1092629914809
+5) Blue Origin ISAM Comments,
+
+SFCG:
+filings/filing/1031125796955
+1) SFCG Overview and WRC-27 Lunar Objective, 2025,
+6) CTIA Comments Against Lockheed's 230 Lunar Stations,
+
+.%20Lunar%20PNT%20Spectrum/01%20IOAG-
+ent_key=22718429
+ICG%20on%20Lunar%20PNT-Feb2025-SFCG.pdf
+7) Astrolab Comments Against Lockheed’s 230 Lunar
+2) Frequency Assignment Guidelines for Communications
+Stations,
+in the Mars Region, Recommendation SFCG 22-1R4,
+
+ent_key=24232971
+6/09.pdf
+8) T-Mobile Comments Against Lockheed’s 230 Lunar
+3) SFCG REC 32-2R5: Recommends frequencies for lunar
+Stations,
+communications, PNT services, and search-and-rescue
+
+operations. ent_key=22932385
+4) SFCG RES 23-5: Limits active system use in the Moon's 9) KSAT Comments Supporting Lockheed’s 230 Lunar
+Shielded Zone to protect radio astronomy and requires Stations,
+coordination for such activities. 
+5) SFCG REC 41-1: Establishes technical requirements for ent_key=22919961
+efficient spectrum use in Earth-to-space, space-to- 10) Firefly Aerospace,
+space, and lunar relay communications. 
+6) SFCG REC 42-1: Defines S-band and Ka-band frequency
+65A1.pdf
+11) Intuitive Machines,
+plans for in-situ lunar data relay to support
+
+interoperability and communication.
+152A1.pdf
+7) SFCG REC 29-2: Provides guidelines for active remote
+sensing frequencies in the lunar region, ensuring
+compatibility with passive science missions like radio
+Other:
+astronomy.
+8) SFCG Prov. REC 43-1: Recommends design
+considerations to protect in-situ S-band PNT links from
+
+1) FCC Lunar Spectrum Proposal to the ITU, 16) FCC 47 CFR 25.164 Spectrum Warehousing,
+ 
+954A3_Rcd.pdf I/subchapter-B/part-25/subpart-B/subject-group-
+2) Lunar Landing and Operations Policy Analysis, NASA, ECFR3e61a02158c60ca/section-25.164
+2022, 17) FCC CFR Title 47 Part 5, Experimental Licenses,
+content/uploads/2023/05/nasa-otps-lunar-landing-and- 
+operations-policy-analysis-final-report-2.pdf I/subchapter-A/part-5?ref=broadbandbreakfast.com
+3) Spectrum Management, GAO, 2021,
+
+4) Lunar Celestial Reference System, ADS, 2023,
+ NASA Lunar Spectrum Procurement Contracts:
+K/abstract 1) Near Space Network Services Subcat 2.2 Geo to Cislunar
+5) National Cislunar Space Strategy, White House, Relay Services,
+ 
+content/uploads/2024/12/Cislunar-Implementation- f/view
+Plan-Final.pdf 2) Utilizing Public-Private Partnerships to Advance Tipping
+6) CesiumAstro Gets NASA Contract for LunaNet Point Technology,
+Technology, ProQuest, 
+ 1/view
+UrlRefId=info:xri/sid:summon&sourcetype=Wire%20Fee 3) Lunar Terrain Vehicle Instruments,
+ds 
+7) 2024 Reports and Recommendations, Beyond Earth ary!init.do?solId={564C34E1-AD06-31DB-6E0D-
+Institute, 4CDB3B1B4B66}&path=open
+content/uploads/2024/11/BE_2024-Reports-and- 4) Economic, Social, and Policy Analyses of Lunar Surface
+Recommendations_For_Download-1.pdf Sustainability,
+8) The Evolution of Lunar Communication - From the 
+Beginning to the Present, International Journal of ment/cmdocumentid=983541/solicitationId=%7B48D6B2
+Satellite Communications and Networking, 2023, 1B-0171-D79D-E111-
+ BCDFCC02E0F0%7D/viewSolicitationDocument=1/F.21%2
+9) Outcomes of WRC-23, 2024, 0ESPOD_Lunar_corrected.pdf
+ 5) Interoperability Deep Space Standards,
+01/2024_ITUNewsMag01-en.pdf 
+10) FCC Seeks Comment on Recommendation Approved by 6) AFPP to Advance Tipping Point technologies,
+WAC, 
+774A1.pdf ary!init.do?solId=%7B9987D88F-0A12-5203-FC25-
+11) U.S. Frequency Allocations Chart, 423773FAF134%7D&path=open
+ 7) Near Space Network Services,
+y_2016_spectrum_wall_chart.pdf 
+12) CITEL Lunar Spectrum, 7c/view
+ 8) LTE Proximity Communications for Future Lunar Missions,
+mentsFile/2784 
+13) ESA Moonlight, b/view
+ 9) NSN Final RFP,
+cure_Communications/Moonlight 
+14) US-ESA MOU Lunar Pathfinder, 5/view
+ 10) Lunar Terrain Vehicle Services (LTVS),
+content/uploads/2023/10/22-615-European-Space- 
+Agency-Space-Lunar-Pathfinder-6.15.2022-TIMS- 9/view
+63201.pdf 11) Lunar Logistics and Mobility Studies,
+15) US-ESA LunaNet, 
+content/uploads/2023/04/joint_con_ops_document_de 1/view
+c_14_2022_final_draft.pdf
+
+12) 2025 Request for White Papers: NASA SBIR Phase II,
+
+da/view
+13) 2024 SBIR Phase I - Advancing Lunar Communication
+Infrastructure Using Flexible Software Defined Radio,

@@ -1,0 +1,231 @@
+capa: au_compilado_R02, fid: 186, b_ADM2_PCODE: BR1507904, b_ADM1_PCODE: BR15, b_ADM1_PT: Pará, b_ADM2_PT: Soure, b_adm1_geral: Pará, b_adm2_geral: Soure, b_ID_concatenated: para-soure, au_country: Brasil, au_level1: Pará, au_level2: Soure, au_population: 25315, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: VERDADEIRO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: Comando Vermelho (CV), au_popup_window_pt: Comando Vermelho (CV), au_popup_window_en: Comando Vermelho (CV), au_ID_concatenated: para-soure, au_area km: 2856.988711839885
+
+capa: au_compilado_R02, fid: 552, b_ADM2_PCODE: BR1600204, b_ADM1_PCODE: BR16, b_ADM1_PT: Amapá, b_ADM2_PT: Calçoene, b_adm1_geral: Amapá, b_adm2_geral: Calçoene, b_ID_concatenated: amapa-calcoene, au_country: Brasil, au_level1: Amapá, au_level2: Calçoene, au_population: 11461, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: VERDADEIRO, au_pcc: VERDADEIRO, au_others: VERDADEIRO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - Comando Vermelho (CV) 
+- Primeiro Comando da Capital (PCC)
+- Família Terror do Amapá (FTA) 
+- Amigos para Sempre (APS) 
+- União do Crime Amapá (UCA), au_popup_window_pt: - Comando Vermelho (CV) 
+- Primeiro Comando da Capital (PCC)
+- Família Terror do Amapá (FTA) 
+- Amigos para Sempre (APS) 
+- União do Crime Amapá (UCA), au_popup_window_en: - Comando Vermelho (CV) 
+- Primeiro Comando da Capital (PCC)
+- Família Terror do Amapá (FTA) 
+- Amigos para Sempre (APS) 
+- União do Crime Amapá (UCA), au_ID_concatenated: amapa-calcoene, au_area km: 14117.39925986678
+
+capa: au_compilado_R02, fid: 553, b_ADM2_PCODE: BR1600550, b_ADM1_PCODE: BR16, b_ADM1_PT: Amapá, b_ADM2_PT: Pracuúba, b_adm1_geral: Amapá, b_adm2_geral: Pracuúba, b_ID_concatenated: amapa-pracuuba, au_country: Brasil, au_level1: Amapá, au_level2: Pracuúba, au_population: 4048, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: VERDADEIRO, au_pcc: VERDADEIRO, au_others: VERDADEIRO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - Comando Vermelho (CV) 
+- Primeiro Comando da Capital (PCC)
+- Família Terror do Amapá (FTA) 
+- Amigos para Sempre (APS) 
+- União do Crime Amapá (UCA), au_popup_window_pt: - Comando Vermelho (CV) 
+- Primeiro Comando da Capital (PCC)
+- Família Terror do Amapá (FTA) 
+- Amigos para Sempre (APS) 
+- União do Crime Amapá (UCA), au_popup_window_en: - Comando Vermelho (CV) 
+- Primeiro Comando da Capital (PCC)
+- Família Terror do Amapá (FTA) 
+- Amigos para Sempre (APS) 
+- União do Crime Amapá (UCA), au_ID_concatenated: amapa-pracuuba, au_area km: 4950.438216915109
+
+capa: au_compilado_R02, fid: 554, b_ADM2_PCODE: BR1600105, b_ADM1_PCODE: BR16, b_ADM1_PT: Amapá, b_ADM2_PT: Amapá, b_adm1_geral: Amapá, b_adm2_geral: Amapá, b_ID_concatenated: amapa-amapa, au_country: Brasil, au_level1: Amapá, au_level2: Amapá, au_population: 8440, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: VERDADEIRO, au_pcc: VERDADEIRO, au_others: VERDADEIRO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - Comando Vermelho (CV) 
+- Primeiro Comando da Capital (PCC)
+- Família Terror do Amapá (FTA) 
+- Amigos para Sempre (APS) 
+- União do Crime Amapá (UCA), au_popup_window_pt: - Comando Vermelho (CV) 
+- Primeiro Comando da Capital (PCC)
+- Família Terror do Amapá (FTA) 
+- Amigos para Sempre (APS) 
+- União do Crime Amapá (UCA), au_popup_window_en: - Comando Vermelho (CV) 
+- Primeiro Comando da Capital (PCC)
+- Família Terror do Amapá (FTA) 
+- Amigos para Sempre (APS) 
+- União do Crime Amapá (UCA), au_ID_concatenated: amapa-amapa, au_area km: 8453.964972667965
+
+capa: au_compilado_R02, fid: 555, b_ADM2_PCODE: BR1600709, b_ADM1_PCODE: BR16, b_ADM1_PT: Amapá, b_ADM2_PT: Tartarugalzinho, b_adm1_geral: Amapá, b_adm2_geral: Tartarugalzinho, b_ID_concatenated: amapa-tartarugalzinho, au_country: Brasil, au_level1: Amapá, au_level2: Tartarugalzinho, au_population: 13816, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: VERDADEIRO, au_pcc: VERDADEIRO, au_others: VERDADEIRO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - Comando Vermelho (CV) 
+- Primeiro Comando da Capital (PCC)
+- Família Terror do Amapá (FTA) 
+- Amigos para Sempre (APS) 
+- União do Crime Amapá (UCA), au_popup_window_pt: - Comando Vermelho (CV) 
+- Primeiro Comando da Capital (PCC)
+- Família Terror do Amapá (FTA) 
+- Amigos para Sempre (APS) 
+- União do Crime Amapá (UCA), au_popup_window_en: - Comando Vermelho (CV) 
+- Primeiro Comando da Capital (PCC)
+- Família Terror do Amapá (FTA) 
+- Amigos para Sempre (APS) 
+- União do Crime Amapá (UCA), au_ID_concatenated: amapa-tartarugalzinho, au_area km: 6686.149281935744
+
+capa: au_compilado_R02, fid: 556, b_ADM2_PCODE: BR1600501, b_ADM1_PCODE: BR16, b_ADM1_PT: Amapá, b_ADM2_PT: Oiapoque, b_adm1_geral: Amapá, b_adm2_geral: Oiapoque, b_ID_concatenated: amapa-oiapoque, au_country: Brasil, au_level1: Amapá, au_level2: Oiapoque, au_population: 30786, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: VERDADEIRO, au_pcc: VERDADEIRO, au_others: VERDADEIRO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - Comando Vermelho (CV) 
+- Primeiro Comando da Capital (PCC)
+- Família Terror do Amapá (FTA) 
+- Amigos para Sempre (APS) 
+- União do Crime Amapá (UCA), au_popup_window_pt: - Comando Vermelho (CV) 
+- Primeiro Comando da Capital (PCC)
+- Família Terror do Amapá (FTA) 
+- Amigos para Sempre (APS) 
+- União do Crime Amapá (UCA), au_popup_window_en: - Comando Vermelho (CV) 
+- Primeiro Comando da Capital (PCC)
+- Família Terror do Amapá (FTA) 
+- Amigos para Sempre (APS) 
+- União do Crime Amapá (UCA), au_ID_concatenated: amapa-oiapoque, au_area km: 23034.92944999704
+
+capa: au_compilado_R02, fid: 557, b_ADM2_PCODE: BR1600154, b_ADM1_PCODE: BR16, b_ADM1_PT: Amapá, b_ADM2_PT: Pedra Branca do Amapari, b_adm1_geral: Amapá, b_adm2_geral: Pedra Branca do Amapari, b_ID_concatenated: amapa-pedra_branca_do_amapari, au_country: Brasil, au_level1: Amapá, au_level2: Pedra Branca do Amapari, au_population: 13888, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: VERDADEIRO, au_pcc: VERDADEIRO, au_others: VERDADEIRO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - Comando Vermelho (CV) 
+- Primeiro Comando da Capital (PCC)
+- Família Terror do Amapá (FTA) 
+- Amigos para Sempre (APS) 
+- União do Crime Amapá (UCA), au_popup_window_pt: - Comando Vermelho (CV) 
+- Primeiro Comando da Capital (PCC)
+- Família Terror do Amapá (FTA) 
+- Amigos para Sempre (APS) 
+- União do Crime Amapá (UCA), au_popup_window_en: - Comando Vermelho (CV) 
+- Primeiro Comando da Capital (PCC)
+- Família Terror do Amapá (FTA) 
+- Amigos para Sempre (APS) 
+- União do Crime Amapá (UCA), au_ID_concatenated: amapa-pedra_branca_do_amapari, au_area km: 9623.34856719977
+
+capa: au_compilado_R02, fid: 558, b_ADM2_PCODE: BR1600238, b_ADM1_PCODE: BR16, b_ADM1_PT: Amapá, b_ADM2_PT: Ferreira Gomes, b_adm1_geral: Amapá, b_adm2_geral: Ferreira Gomes, b_ID_concatenated: amapa-ferreira_gomes, au_country: Brasil, au_level1: Amapá, au_level2: Ferreira Gomes, au_population: 7184, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: VERDADEIRO, au_pcc: VERDADEIRO, au_others: VERDADEIRO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - Comando Vermelho (CV) 
+- Primeiro Comando da Capital (PCC)
+- Família Terror do Amapá (FTA) 
+- Amigos para Sempre (APS) 
+- União do Crime Amapá (UCA), au_popup_window_pt: - Comando Vermelho (CV) 
+- Primeiro Comando da Capital (PCC)
+- Família Terror do Amapá (FTA) 
+- Amigos para Sempre (APS) 
+- União do Crime Amapá (UCA), au_popup_window_en: - Comando Vermelho (CV) 
+- Primeiro Comando da Capital (PCC)
+- Família Terror do Amapá (FTA) 
+- Amigos para Sempre (APS) 
+- União do Crime Amapá (UCA), au_ID_concatenated: amapa-ferreira_gomes, au_area km: 4971.286147999432
+
+capa: au_compilado_R02, fid: 559, b_ADM2_PCODE: BR1600212, b_ADM1_PCODE: BR16, b_ADM1_PT: Amapá, b_ADM2_PT: Cutias, b_adm1_geral: Amapá, b_adm2_geral: Cutias, b_ID_concatenated: amapa-cutias, au_country: Brasil, au_level1: Amapá, au_level2: Cutias, au_population: 4723, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: VERDADEIRO, au_pcc: VERDADEIRO, au_others: VERDADEIRO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - Comando Vermelho (CV) 
+- Primeiro Comando da Capital (PCC)
+- Família Terror do Amapá (FTA) 
+- Amigos para Sempre (APS) 
+- União do Crime Amapá (UCA), au_popup_window_pt: - Comando Vermelho (CV) 
+- Primeiro Comando da Capital (PCC)
+- Família Terror do Amapá (FTA) 
+- Amigos para Sempre (APS) 
+- União do Crime Amapá (UCA), au_popup_window_en: - Comando Vermelho (CV) 
+- Primeiro Comando da Capital (PCC)
+- Família Terror do Amapá (FTA) 
+- Amigos para Sempre (APS) 
+- União do Crime Amapá (UCA), au_ID_concatenated: amapa-cutias, au_area km: 2178.2671532910963
+
+capa: au_compilado_R02, fid: 563, b_ADM2_PCODE: BR1500305, b_ADM1_PCODE: BR15, b_ADM1_PT: Pará, b_ADM2_PT: Afuá, b_adm1_geral: Pará, b_adm2_geral: Afuá, b_ID_concatenated: para-afua, au_country: Brasil, au_level1: Pará, au_level2: Afuá, au_population: 40473, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: VERDADEIRO, au_pcc: FALSO, au_others: VERDADEIRO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - Comando Vermelho (CV)
+- Família Terror do Amapá (FTA), au_popup_window_pt: - Comando Vermelho (CV)
+- Família Terror do Amapá (FTA), au_popup_window_en: - Comando Vermelho (CV)
+- Família Terror do Amapá (FTA), au_ID_concatenated: para-afua, au_area km: 8340.200923593029
+
+capa: au_compilado_R02, fid: 564, b_ADM2_PCODE: BR1600402, b_ADM1_PCODE: BR16, b_ADM1_PT: Amapá, b_ADM2_PT: Mazagão, b_adm1_geral: Amapá, b_adm2_geral: Mazagão, b_ID_concatenated: amapa-mazagao, au_country: Brasil, au_level1: Amapá, au_level2: Mazagão, au_population: 23773, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: VERDADEIRO, au_pcc: VERDADEIRO, au_others: VERDADEIRO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - Comando Vermelho (CV) 
+- Primeiro Comando da Capital (PCC)
+- Família Terror do Amapá (FTA) 
+- Amigos para Sempre (APS) 
+- União do Crime Amapá (UCA), au_popup_window_pt: - Comando Vermelho (CV) 
+- Primeiro Comando da Capital (PCC)
+- Família Terror do Amapá (FTA) 
+- Amigos para Sempre (APS) 
+- União do Crime Amapá (UCA), au_popup_window_en: - Comando Vermelho (CV) 
+- Primeiro Comando da Capital (PCC)
+- Família Terror do Amapá (FTA) 
+- Amigos para Sempre (APS) 
+- União do Crime Amapá (UCA), au_ID_concatenated: amapa-mazagao, au_area km: 13294.876429558852
+
+capa: au_compilado_R02, fid: 565, b_ADM2_PCODE: BR1600600, b_ADM1_PCODE: BR16, b_ADM1_PT: Amapá, b_ADM2_PT: Santana, b_adm1_geral: Amapá, b_adm2_geral: Santana, b_ID_concatenated: amapa-santana, au_country: Brasil, au_level1: Amapá, au_level2: Santana, au_population: 118803, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: VERDADEIRO, au_pcc: VERDADEIRO, au_others: VERDADEIRO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - Comando Vermelho (CV) 
+- Primeiro Comando da Capital (PCC)
+- Família Terror do Amapá (FTA) 
+- Amigos para Sempre (APS) 
+- União do Crime Amapá (UCA), au_popup_window_pt: - Comando Vermelho (CV) 
+- Primeiro Comando da Capital (PCC)
+- Família Terror do Amapá (FTA) 
+- Amigos para Sempre (APS) 
+- União do Crime Amapá (UCA), au_popup_window_en: - Comando Vermelho (CV) 
+- Primeiro Comando da Capital (PCC)
+- Família Terror do Amapá (FTA) 
+- Amigos para Sempre (APS) 
+- União do Crime Amapá (UCA), au_ID_concatenated: amapa-santana, au_area km: 1541.3345062947756
+
+capa: au_compilado_R02, fid: 566, b_ADM2_PCODE: BR1600535, b_ADM1_PCODE: BR16, b_ADM1_PT: Amapá, b_ADM2_PT: Porto Grande, b_adm1_geral: Amapá, b_adm2_geral: Porto Grande, b_ID_concatenated: amapa-porto_grande, au_country: Brasil, au_level1: Amapá, au_level2: Porto Grande, au_population: 19048, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: VERDADEIRO, au_pcc: VERDADEIRO, au_others: VERDADEIRO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - Comando Vermelho (CV) 
+- Primeiro Comando da Capital (PCC)
+- Família Terror do Amapá (FTA) 
+- Amigos para Sempre (APS) 
+- União do Crime Amapá (UCA), au_popup_window_pt: - Comando Vermelho (CV) 
+- Primeiro Comando da Capital (PCC)
+- Família Terror do Amapá (FTA) 
+- Amigos para Sempre (APS) 
+- União do Crime Amapá (UCA), au_popup_window_en: - Comando Vermelho (CV) 
+- Primeiro Comando da Capital (PCC)
+- Família Terror do Amapá (FTA) 
+- Amigos para Sempre (APS) 
+- União do Crime Amapá (UCA), au_ID_concatenated: amapa-porto_grande, au_area km: 4427.039399619965
+
+capa: au_compilado_R02, fid: 567, b_ADM2_PCODE: BR1600303, b_ADM1_PCODE: BR16, b_ADM1_PT: Amapá, b_ADM2_PT: Macapá, b_adm1_geral: Amapá, b_adm2_geral: Macapá, b_ID_concatenated: amapa-macapa, au_country: Brasil, au_level1: Amapá, au_level2: Macapá, au_population: 489676, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: VERDADEIRO, au_pcc: VERDADEIRO, au_others: VERDADEIRO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - Comando Vermelho (CV) 
+- Primeiro Comando da Capital (PCC)
+- Família Terror do Amapá (FTA) 
+- Amigos para Sempre (APS) 
+- União do Crime Amapá (UCA), au_popup_window_pt: - Comando Vermelho (CV) 
+- Primeiro Comando da Capital (PCC)
+- Família Terror do Amapá (FTA) 
+- Amigos para Sempre (APS) 
+- União do Crime Amapá (UCA), au_popup_window_en: - Comando Vermelho (CV) 
+- Primeiro Comando da Capital (PCC)
+- Família Terror do Amapá (FTA) 
+- Amigos para Sempre (APS) 
+- União do Crime Amapá (UCA), au_ID_concatenated: amapa-macapa, au_area km: 6565.378494257194
+
+capa: au_compilado_R02, fid: 568, b_ADM2_PCODE: BR1600253, b_ADM1_PCODE: BR16, b_ADM1_PT: Amapá, b_ADM2_PT: Itaubal, b_adm1_geral: Amapá, b_adm2_geral: Itaubal, b_ID_concatenated: amapa-itaubal, au_country: Brasil, au_level1: Amapá, au_level2: Itaubal, au_population: 6097, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: VERDADEIRO, au_pcc: VERDADEIRO, au_others: VERDADEIRO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - Comando Vermelho (CV) 
+- Primeiro Comando da Capital (PCC)
+- Família Terror do Amapá (FTA) 
+- Amigos para Sempre (APS) 
+- União do Crime Amapá (UCA), au_popup_window_pt: - Comando Vermelho (CV) 
+- Primeiro Comando da Capital (PCC)
+- Família Terror do Amapá (FTA) 
+- Amigos para Sempre (APS) 
+- União do Crime Amapá (UCA), au_popup_window_en: - Comando Vermelho (CV) 
+- Primeiro Comando da Capital (PCC)
+- Família Terror do Amapá (FTA) 
+- Amigos para Sempre (APS) 
+- União do Crime Amapá (UCA), au_ID_concatenated: amapa-itaubal, au_area km: 1622.7273005334998
+
+capa: au_compilado_R02, fid: 570, b_ADM2_PCODE: BR1502509, b_ADM1_PCODE: BR15, b_ADM1_PT: Pará, b_ADM2_PT: Chaves, b_adm1_geral: Pará, b_adm2_geral: Chaves, b_ID_concatenated: para-chaves, au_country: Brasil, au_level1: Pará, au_level2: Chaves, au_population: 21501, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: VERDADEIRO, au_pcc: FALSO, au_others: VERDADEIRO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - Comando Vermelho (CV)
+- Família Terror do Amapá (FTA), au_popup_window_pt: - Comando Vermelho (CV)
+- Família Terror do Amapá (FTA), au_popup_window_en: - Comando Vermelho (CV)
+- Família Terror do Amapá (FTA), au_ID_concatenated: para-chaves, au_area km: 12534.753950447886
+
+capa: au_compilado_R02, fid: 641, b_ADM2_PCODE: BR1500404, b_ADM1_PCODE: BR15, b_ADM1_PT: Pará, b_ADM2_PT: Alenquer, b_adm1_geral: Pará, b_adm2_geral: Alenquer, b_ID_concatenated: para-alenquer, au_country: Brasil, au_level1: Pará, au_level2: Alenquer, au_population: 75882, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: VERDADEIRO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: Comando Vermelho (CV), au_popup_window_pt: Comando Vermelho (CV), au_popup_window_en: Comando Vermelho (CV), au_ID_concatenated: para-alenquer, au_area km: 23641.687941462034
+
+capa: au_compilado_R02, fid: 642, b_ADM2_PCODE: BR1504802, b_ADM1_PCODE: BR15, b_ADM1_PT: Pará, b_ADM2_PT: Monte Alegre, b_adm1_geral: Pará, b_adm2_geral: Monte Alegre, b_ID_concatenated: para-monte_alegre, au_country: Brasil, au_level1: Pará, au_level2: Monte Alegre, au_population: 64002, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: VERDADEIRO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: Comando Vermelho (CV), au_popup_window_pt: Comando Vermelho (CV), au_popup_window_en: Comando Vermelho (CV), au_ID_concatenated: para-monte_alegre, au_area km: 18152.668182308047
+
+capa: au_compilado_R02, fid: 644, b_ADM2_PCODE: BR1500503, b_ADM1_PCODE: BR15, b_ADM1_PT: Pará, b_ADM2_PT: Almeirim, b_adm1_geral: Pará, b_adm2_geral: Almeirim, b_ID_concatenated: para-almeirim, au_country: Brasil, au_level1: Pará, au_level2: Almeirim, au_population: 36442, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: VERDADEIRO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: Comando Vermelho (CV), au_popup_window_pt: Comando Vermelho (CV), au_popup_window_en: Comando Vermelho (CV), au_ID_concatenated: para-almeirim, au_area km: 72955.3293106646
+
+capa: au_compilado_R02, fid: 646, b_ADM2_PCODE: BR1600055, b_ADM1_PCODE: BR16, b_ADM1_PT: Amapá, b_ADM2_PT: Serra do Navio, b_adm1_geral: Amapá, b_adm2_geral: Serra do Navio, b_ID_concatenated: amapa-serra_do_navio, au_country: Brasil, au_level1: Amapá, au_level2: Serra do Navio, au_population: 5003, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: VERDADEIRO, au_pcc: VERDADEIRO, au_others: VERDADEIRO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - Comando Vermelho (CV) 
+- Primeiro Comando da Capital (PCC)
+- Família Terror do Amapá (FTA) 
+- Amigos para Sempre (APS) 
+- União do Crime Amapá (UCA), au_popup_window_pt: - Comando Vermelho (CV) 
+- Primeiro Comando da Capital (PCC)
+- Família Terror do Amapá (FTA) 
+- Amigos para Sempre (APS) 
+- União do Crime Amapá (UCA), au_popup_window_en: - Comando Vermelho (CV) 
+- Primeiro Comando da Capital (PCC)
+- Família Terror do Amapá (FTA) 
+- Amigos para Sempre (APS) 
+- União do Crime Amapá (UCA), au_ID_concatenated: amapa-serra_do_navio, au_area km: 7712.494027125475
+
+capa: au_compilado_R02, fid: 647, b_ADM2_PCODE: BR1600279, b_ADM1_PCODE: BR16, b_ADM1_PT: Amapá, b_ADM2_PT: Laranjal do Jari, b_adm1_geral: Amapá, b_adm2_geral: Laranjal do Jari, b_ID_concatenated: amapa-laranjal_do_jari, au_country: Brasil, au_level1: Amapá, au_level2: Laranjal do Jari, au_population: 37872, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: VERDADEIRO, au_pcc: VERDADEIRO, au_others: VERDADEIRO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - Comando Vermelho (CV) 
+- Primeiro Comando da Capital (PCC)
+- Família Terror do Amapá (FTA) 
+- Amigos para Sempre (APS) 
+- União do Crime Amapá (UCA), au_popup_window_pt: - Comando Vermelho (CV) 
+- Primeiro Comando da Capital (PCC)
+- Família Terror do Amapá (FTA) 
+- Amigos para Sempre (APS) 
+- União do Crime Amapá (UCA), au_popup_window_en: - Comando Vermelho (CV) 
+- Primeiro Comando da Capital (PCC)
+- Família Terror do Amapá (FTA) 
+- Amigos para Sempre (APS) 
+- União do Crime Amapá (UCA), au_ID_concatenated: amapa-laranjal_do_jari, au_area km: 30784.32048390208
+
+capa: au_compilado_R02, fid: 652, b_ADM2_PCODE: BR1505304, b_ADM1_PCODE: BR15, b_ADM1_PT: Pará, b_ADM2_PT: Oriximiná, b_adm1_geral: Pará, b_adm2_geral: Oriximiná, b_ID_concatenated: para-oriximina, au_country: Brasil, au_level1: Pará, au_level2: Oriximiná, au_population: 72889, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: VERDADEIRO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: Comando Vermelho (CV), au_popup_window_pt: Comando Vermelho (CV), au_popup_window_en: Comando Vermelho (CV), au_ID_concatenated: para-oriximina, au_area km: 107614.3407572179
+
+capa: au_compilado_R02, fid: 653, b_ADM2_PCODE: BR1505106, b_ADM1_PCODE: BR15, b_ADM1_PT: Pará, b_ADM2_PT: Óbidos, b_adm1_geral: Pará, b_adm2_geral: Óbidos, b_ID_concatenated: para-obidos, au_country: Brasil, au_level1: Pará, au_level2: Óbidos, au_population: 55527, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: VERDADEIRO, au_invest. with presence: FALSO, au_ID_concatenated: para-obidos, au_area km: 28016.379479309802

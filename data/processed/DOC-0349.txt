@@ -1,0 +1,770 @@
+Expert Insights
+PERSPECTIVE ON A TIMELY POLICY ISSUE
+OWEN J. DANIELS, HANNA DOHMEN
+Open Models, Soft Power, and
+the Spectrum of U.S.-China
+Artificial Intelligence Competition
+T
+he competition between the United States and China in artificial intelli-
+gence (AI) is entering a new phase and is increasingly focused on influenc-
+ing the global AI ecosystem, and open models are emerging as a critical
+aspect of soft power. Soft power refers to the ability to exert influence and
+shape other actors’ behaviors and preferences through factors other than military
+strength, such as shared ideology, commercial opportunities, or cultural attractive-
+ness. Our analysis informs the United States’ open-source AI strategy by first exam-
+ining the diverging frameworks of the United States’ and China’s AI action plans.
+We evaluate how AI developers in both countries are approaching open models to
+gain influence. We also offer recommendations for U.S. policymakers to ensure that
+the United States maintains its technological leadership. We argue that a strategy
+that emphasizes stronger support for an open-model ecosystem in the United States,
+a recalibration of export controls, and the creation of incentives for firms to adopt
+permissive licensing practices is needed to counter the influence that China hopes
+to gain through diffusing its technology and tech infrastructure. Beyond the pos-
+
+Open models refer to AI systems whose weights (the
+parameters that determine the model’s outputs for a given
+The open-model
+input), are freely available to users to download and adapt
+ecosystem appears to be for specific use cases.1 A model’s level of openness can also
+vary depending on certain factors, such as the licensing
+an increasingly important restrictions governing the model’s use.
+The U.S. plan, Winning the Race: America’s AI Action
+playing field for soft-power Plan, is postured as a domestic policy document to guide
+the federal government’s execution of AI policy and recom-
+competition between the
+mends (1) ensuring access to large-scale computing power
+for researchers and start-ups, (2) creating public-private
+United States and China.
+partnerships to increase widespread access to private-
+sector computing and other resources, and (3) encourag-
+ing small and medium-sized businesses to adopt open
+sibility that China might be seen as the primary champion models.2 The document cites the importance of creating
+of sharing AI’s benefits globally, particularly in the devel- open models “to ensure America has leading open models
+oping world, the broad adoption of Chinese open models founded on American values” and because open models’
+might collectively lead to AI developers and researchers potential to become global standards in commercial and
+being locked into using China’s technology. academic research lends them “geostrategic value.”3 The
+plan notes that, “While the decision of whether and how
+to release an open or closed model is fundamentally up
+The United States’ and the People’s
+to the developer, the Federal government should create a
+Republic of China’s Artificial
+supportive environment for open models.”4 The plan is the
+Intelligence Action Plans strongest indicator of the administration’s stance on open-
+source models, but it should be read as part of a broader
+As the releases of the United States’ and China’s new
+policy framework that promotes the exportation of the
+AI plans in 2025 suggest, market drivers and a battle
+U.S. technology stack—the AI hardware, models, software,
+for influence, in addition to national security concerns,
+applications, and standards. National security concerns
+appear to be central to the competition. National secu-
+and economic influence, the latter of which is executed by
+rity is an important consideration in the U.S.-China AI
+U.S. firms, both play significant roles in the plan.
+rivalry, but it represents only one dimension of a broader
+China’s “Global AI Governance Action Plan” also
+and nuanced competition. The two action plans illustrate
+embraces the open-model environment’s geostrategic
+this point through their calls to develop open AI models,
+value, although the document couches the framing in
+although they do so in differing ways and levels of detail.
+
+more globally beneficial terms because China’s plan is DeepSeek and Moonshot AI released the R1 and Kimi
+primarily an instrument of global diplomacy.5 Although K2 models, respectively, in 2025, thus introducing highly
+the U.S. plan and China’s plan have international scopes customizable and performant Chinese models onto the
+and policy implications, China’s plan appears—at least in market. Both models were capable of competing with lead-
+its framing—to focus more on establishing collaborations ing U.S. closed and open models alike. Moreover, because
+with other nations, particularly in the developing world. As of the generally open-source nature of China’s leading AI
+the document states, China aims to “build transnational models, the entire innovation ecosystem benefits from
+open-source communities and secure, reliable open-source cross-pollination. Open-model developers can use their
+platforms . . . promote the open sharing of basic resources, peer’s model architectures, libraries, and mechanisms to
+lower the barriers to technological innovation and appli- build and improve their own models, which results in a
+cation, avoid duplication of investment and waste of stronger innovative ecosystem.
+resources, and promote the inclusiveness and accessibility Global researchers and businesses seek to reap the
+of AI technology services.”6 The plan identifies support- societal benefits of AI, as vaunted by model developers
+ing countries in the Global South in developing, engaging and technologists, in such areas as the economy, health
+with, and applying AI as critical steps to achieving more care, and education—particularly in the developing world,
+equitable and inclusive technology development. How- where polling suggests optimism about AI’s transforma-
+ever, reading between the lines, we note that China’s plan tive potential is high.10 However, China might have an
+also appears set on entrenching its national technology advantage embedding its technology in AI stacks if the
+in global stacks—note the language on avoiding wasteful U.S. market does not produce viable alternatives. OpenAI
+“duplication of investment.”7 Still, language throughout the released its gpt-oss-120b open model in early ,
+plan focuses on cooperating in international fora (such as the company’s first open release since 2019, which is a
+the United Nations) to boost global AI development, create seeming acknowledgment of open ecosystems’ increasing
+shared international standards and governance mecha- influence in attracting AI users.11
+nisms, and, ultimately, “adhere to the spirit of openness Open models are not without downside risks com-
+and sharing.”8 pared with their closed counterparts, particularly from
+In short, the open-model ecosystem appears to be a security perspective.12 Open models can be adapted to
+an increasingly important playing field for soft-power exploit model vulnerabilities, remove safety features, and
+competition between the United States and China regard- misuse or maliciously deploy models. Furthermore, China
+ing AI. China arguably has a head start in developing its has openly acknowledged that open models are a pathway
+strategy. Since releasing its Next Generation Artificial Intel- to military-civil integration that promotes the adoption of
+ligence Development Plan in 2017,9 China has called for the civilian technologies for military ends.13
+development of open AI models as a pathway to harness- However, in the broader context of the U.S.-China
+ing innovation in AI across sectors and domains. China’s rivalry, including the competition for global political and
+
+economic influence and collaboration with other nations this way, developers can compete globally while taking
+to uncover AI’s full potential, open models will likely be an advantage of the United States’ leadership position in
+important tool in the countries’ soft-power tool kits. As of computing power.15 Ways to strengthen the open-model
+early 2026, competition for the best open models is highly ecosystem could include exploring policy mechanisms
+dynamic. Rankings on leaderboards that capture which that encourage researchers and companies to use U.S.
+models are most frequently downloaded and used are open models in exchange for access to greater comput-
+fluid, and many researchers gravitate toward using the best ing resources, which would draw on the strength of the
+models available rather than orienting toward U.S. or United States’ cutting-edge AI infrastructure.16 Such incen-
+Chinese models in particular. Data are limited and the tives could increase the likelihood that researchers and
+market dynamics that drive researchers and businesses would-be commercial adopters of open models turn to U.S.
+to adopt one model over another are not clear, espe- developers and help create a flourishing open research and
+cially because models’ practical use cases remain largely commercial environment in the United States. There is an
+nascent. However, perception that a powerful, adaptable important distinction between releasing powerful open
+model could be used to solve problems is clearly reso- models that can proliferate and having a vibrant research
+nant: Researchers at the U.S. Center for AI Standards and ecosystem that is best positioned to capitalize on such
+Innovation found that downloads of DeepSeek models on models. China has achieved some significant successes in
+model-sharing platforms increased nearly 1,000 percent the former, but the United States should strive for success in
+since the release of DeepSeek’s R1 model in .14 the latter. Maintaining the U.S. lead in the closed ecosystem
+Although China’s flashy releases of models—such as those frontier should continue to be a top priority, particularly
+from DeepSeek or Moonshot AI—grab attention, Chinese for national security uses of AI, but the United States needs
+dominance in the space is by no means preordained. That to complement its efforts by fostering a more-robust open-
+said, the United States needs to remain a key player in model ecosystem to meet China’s soft-power challenge.
+the open-model ecosystem, such as by providing funding
+for research and creating the conditions for companies to
+Open Models and Soft Power
+combat the possibility that researchers and commercial
+developers become locked in to using Chinese models over
+To more fully understand the relationship between open
+the long term. The U.S. government needs to closely moni-
+models and soft-power influence, it is useful to understand
+tor the dynamics and trends of the open-model ecosystem
+the specific characteristics that differentiate open models
+by collecting data that can inform future policies and
+from proprietary, closed models.
+exploring what incentives might lead more U.S. companies
+to make their model weights open access.
+U.S. strategy should be geared toward facilitating a
+stronger U.S. ecosystem for open models in the long term;
+
+Benefits of Open Models
+The benefits of open
+The benefits of open models lie in the models’ capac-
+ity to allow a greater variety of actors to participate in AI
+models lie in the models’
+research and development, including academic and com-
+mercial researchers who might not otherwise have access to
+capacity to allow a
+the compute to pretrain their own models. Broadly speak-
+ing, the common users of open models can be split into
+greater variety of actors to
+two nonexclusive camps of researchers and commercial
+developers. Researchers are interested in accessing models participate in AI research
+for a variety of purposes, such as evaluating model perfor-
+mance and finding new use cases that are well suited to AI and development.
+solutions by fine-tuning models. These researchers can visit
+open-model repositories (such as Hugging Face),17 browse
+for models that could be used for specific tasks (such as
+to develop market applications of open models using their
+multimodal content generation models, natural language–
+work, and they might favor the models that they used for
+processing models, and computer vision models); download
+research purposes when developing applications. Both
+a model, then adapt or fine-tune the model to perform opti-
+researchers and commercial developers are likely to prize
+mally with the researcher’s data or in a specific application’s
+a powerful, low-latency model that suits their research
+context. Open models offer flexibility and performance
+or business tasks. Nonetheless, the research-commercial
+with lower barriers to entry. Commercial developers—some
+distinction highlights the varying uses of open models
+of whom might be researchers seeking to profit from their
+and how different actors might prize a particular model’s
+academic work—might try to capitalize on open models
+unique characteristics.
+for a less costly, less compute-intensive, and more adapt-
+Broadly speaking, researchers are often interested
+able way to build AI business applications.18 Open-source
+in accessing suites of the best available models and the
+models arguably also benefit from a broader user base’s
+original model’s weights to test for factors (such as output
+increased capacity to identify security issues, vulnerabili-
+replicability) in order to prod at models’ limitations or
+ties, or other failure modalities within the models.
+to compare and rank the different models’ performance.
+Thinking about open models’ usefulness to research-
+This type of research can help advance AI progress more
+ers and commercial developers is helpful for framing
+broadly, occasionally without immediately obvious eco-
+policy approaches to the challenges and opportunities
+nomic upsides.
+these models present. There certainly is not an iron curtain
+Commercial developers—whether they are AI com-
+between research and commercial approaches to open-
+panies or other (non-AI) companies seeking to harness AI
+model development; researchers might be well positioned
+
+Licensing of Open Models
+Releasing powerful open
+There are varying degrees of openness, which are partly
+determined by the licensing rules under which a model is
+models could help China
+released. For example, users might be able to download a
+model and modify its weights or fine-tune it for a specific
+position itself as the main
+purpose, but users cannot access the model’s source code
+or distribute the derivative model or its outputs—this
+diffuser of AI capabilities,
+would make the model open weight, but the model would
+particularly to the not meet open-source criteria.19
+Generally speaking, more Chinese developers have
+developing world. released models under more-permissive licenses than U.S.
+developers. For instance, Meta’s Llama models are distrib-
+uted under a community license agreement,20 which allows
+users to download the model weights and code but imposes
+for a specific product—might be more interested in access-
+limitations on distribution, including for businesses that
+ing a powerful model that is well suited to a particular
+provide AI services to more than 700 million monthly
+application. Developers can build products that are viable
+active users. Developers must attribute credit to Meta for
+on the marketplace using an open model at a lower cost-
+models that are Llama offshoots. Google’s Gemma models
+to-performance ratio than using a proprietary model, thus
+are also released under a proprietary license21—as opposed
+achieving powerful performance at lower costs with open
+to an industry-standard license—which reserves the
+models that have near-frontier capabilities. Using a model
+right to restrict use of Gemma services that the company
+to rapidly build prototypes, easily incorporate products
+believes are in violation of its prohibited use policy. These
+into existing workflows, and attract the attention of finan-
+proprietary restrictions have led some proponents of open
+cial backers or venture capitalists might be of paramount
+models to claim that Llama and Gemma models are not
+importance. Commercially speaking, a model’s adaptabil-
+truly open source because the companies create obstacles
+ity might be more significant for users than the ability to
+for businesses to incorporate the models into products.22
+research a model’s capabilities, so accessing the data that a
+Many of the latest and most-advanced open models
+model was trained on or its original weights might be less
+released by Chinese developers adhere to standard indus-
+of a priority.
+try licenses and are less restrictive to use.23 DeepSeek’s R1
+was released under an MIT License, which allows anyone
+to use, modify, and distribute derivatives of the model and
+requires users only to include a copyright notice in dis-
+tributions.24 Kimi K2 models are released under a similar
+
+but modified MIT license that maintains the permissive OpenAI chief executive officer Sam Altman noted shortly
+standard while requiring that commercial products with after DeepSeek’s R1 release, OpenAI’s lack of an open-
+more than 100 million monthly active users or more than model strategy as of put it “on the wrong side
+$20 million in monthly revenue must prominently display of history.”28 This idea links directly to the notion of soft-
+“Kimi K2” on their interfaces.25 In a move that seemingly power influence with AI, and specifically in the context of
+follows Chinese developers’ more-permissive licensing the U.S.-China rivalry. Academic and commercial actors
+approaches, OpenAI released its first open-source model, with constrained resources—in terms of either compute or
+gpt-oss, under the Apache 2.0 License.26 The Apache 2.0 financial resources—might prize a model’s level of open-
+License imposes no commercial-use limitations, instead ness if its capabilities are equal to or comparable with a
+allowing developers to release derivatives without having to less-open competitor’s model. The existing open-model
+adhere to company use policies. space is fluid and competitive, and the degree to which a
+A model’s licensing details matter significantly for model is open could be a favorably differentiating factor.
+commercial developers. For commercial uses, permissive Models that can offer the right balance of performance and
+licenses (such as the MIT and Apache 2.0 licenses, under favorable licensing might be especially attractive to users,
+which the R1, Kimi K2, and gpt-oss models were released) and the prominent marketing pushes of such companies
+encourage models’ adoption by reducing the risk of legal as DeepSeek and Moonshot AI appear geared toward users
+uncertainty, regulatory burdens, and the possibility of seeking these qualities.
+model adopters profiting from technological applications
+or bearing responsibility for model misuses. Licensing
+New Models, Same Strategy
+agreements with use restrictions or distribution require-
+ments often use ambiguous terms, which could lead to the
+Although the releases of powerful open models and the
+commercial developer facing legal action from the model
+support for open ecosystems in the U.S. and Chinese AI
+provider.27 This is especially critical for start-ups with
+action plans are notable, adopting an open strategy for
+small teams and limited financial and legal resources.
+emerging technology development is not new for China.
+For researchers, however, the level of openness that such
+Since the 2010s, China’s AI technology developers and
+licenses provide does not guarantee replicability. Even the
+planners have advocated using open technology devel-
+most permissively licensed models do not provide access
+opment as a strategic policy tool—including in the 2017
+to training data.
+AI plan, the 2021 14th Five-Year Plan, and various other
+The choices that AI developers make in licensing their
+policy documents.29 There appear to be several motiva-
+models—whether open sourcing models at all, using pro-
+tions for this focus. First, China hopes to broaden its influ-
+prietary licenses, or using permissive licenses—are not only
+ence abroad in global AI stacks, which is in line with other
+technical and legal decisions; they are also important fac-
+steps the country has taken to become a world-leading
+tors in shaping commercial AI adoption and research. As
+digital infrastructure provider in telecommunications,30
+
+surveillance technologies,31 and data center development.32 tectures (e.g., DeepSeek’s Multi-Head Latent Attention)
+Second, China aims to depend less on Western compo- within such industry frameworks as vLLM helps ensure
+nents of the AI supply chain, particularly for computing that these models become developer defaults.37 This locks
+resources. This aim is especially salient as China contends users and developers into using China’s architecture and
+with U.S. export controls restricting its ability to import can solidify China’s diffusion of the AI ecosystem.
+most leading-edge semiconductors and to access other However, although Chinese open models (such as
+Western compute needed to develop leading AI models.33 DeepSeek’s R1) have fewer licensing restrictions, they
+Third, as part of its well-established military-civil fusion might be restricted in other important ways. Researchers
+efforts, China appears eager to harness advances in open have raised concerns that R1 might effectively censor infor-
+models to seek advantages in its military rivalry with the mation about topics that are considered politically sensitive
+United States.34 in China. Some research indicates that publicly released,
+Releasing powerful open models could help China fine-tuned versions of DeepSeek’s models deflect or refuse
+position itself as the main diffuser of AI capabilities, par- to answer questions about certain topics, such as the
+ticularly to the developing world, which could have market Tiananmen Square massacre, and this censorship remained
+and infrastructure implications. As mentioned previously, even in the models’ distilled versions.38 In ,
+publics in developing countries appear more sanguine on researchers at cybersecurity firm CrowdStrike suggested
+AI’s ability to provide benefits than those in their devel- that DeepSeek was providing unhelpful answers or com-
+oped counterparts. For instance, Google and Ipsos polling puter code with security flaws in response to user queries
+found that more than 70 percent of people surveyed in from groups that the Chinese government opposes;39
+emerging markets—such as Brazil, Mexico, South Africa, whether intentional or not, the finding provides anecdotal
+and the United Arab Emirates—said that AI would bring support of the possibility that Chinese models might prove
+positive societal benefits across a variety of areas; for com- unreliable to China’s political opponents.
+parison, only half of U.S. respondents noted the same.35 There are several implications for the United States’
+Through its willingness to export powerful open models, and China’s soft-power competition. Barring other alter-
+as well as its vocal and persistent advocacy for the Global natives, researchers and companies around the globe
+South in conversations involving international AI gover- might seek to use powerful open Chinese models (such as
+nance at the United Nations and in its own multilateral DeepSeek’s R1) that have fewer potential hurdles to make
+global AI governance initiative,36 China appears to be new findings or achieve profitability, respectively. The
+making a push to be seen as the primary exporter of AI’s ability to fully manipulate models to meet localized needs
+benefits to the non-Western world. might be especially attractive in the developing world,
+This influence extends beyond the models themselves benefitting Chinese model developers’ reputations and
+and includes the broader open-model ecosystem’s infra- potentially making it more difficult for U.S. companies to
+structure. For example, support for Chinese model archi- break into emerging markets. For example, it is not dif-
+
+ficult to imagine the good will—not to mention the poten-
+tial lock-in effects—that could result from a researcher in
+To compete effectively,
+a country other than the United States or China using a
+Chinese open model to help solve a national disease out- the United States should
+break, which could beget broader use of Chinese models
+compared with U.S. ones. focus on promoting
+This kind of outcome is in line with the objectives
+detailed in the Chinese AI action plan, which are explicitly multiple pathways to AI
+aimed at cultivating cooperation in AI with the Global
+progress.
+South. The tone of the document also contrasts markedly
+with the U.S. plan, which emphasizes the goal of achiev-
+ing U.S. global dominance in AI. In addition, the uptake
+of Chinese open models might propagate censorship or sized this point on social media when he stated, “A year
+disinformation that aligns with PRC objectives, including ago, policymakers in DC were debating a ban on open
+the censorship of Chinese history and information about weight models . . . from day one, the Trump administra-
+China’s troubling human rights practices. Yet the pos- tion changed course and made clear America needs to offer
+sibility that Chinese models could be considered unsafe the best open models for innovators to build on and for
+or unreliable for use by certain actors and groups adds yet America to export.”41
+another nuance. These developments represent a potential inflection
+point for the global open-source AI ecosystem in which the
+U.S. public and private sectors have recognized the impor-
+Formulating an Open-Model
+tance of competing with China by using open models. How-
+Strategy for the United States
+ever, whether this truly is an inflection point will depend
+on how the U.S. government implements policies to support
+As the U.S.-Chinese AI competition evolves to incorporate
+the open AI ecosystem for both academic researchers and
+a greater focus on open models, diffusion, and technology
+commercial developers, as well as how and whether Meta,
+adoption, there are several considerations for developing
+OpenAI, and their competitors adapt their approaches.
+a new U.S. AI strategy. The United States’ 2025 AI action
+As the Trump administration begins to implement its AI
+plan represents an evolution of the U.S. position on open
+action plan, it should focus on the following areas.
+models and specifically advocates encouraging open-model
+development because the administration recognizes open-
+source AI’s value for spurring innovation and the broader
+adoption of AI.40 Michael Kratsios, director of the White
+House’s Office of Science and Technology Policy, empha-
+
+develop viable alternatives to Chinese models in terms of
+capacity and openness.
+Export controls could slow
+Model performance alone is unlikely to be sufficient
+the spread of Chinese in securing global adoption of U.S. open models. Costs,
+licensing, and levels of model access all play roles. Com-
+models in global AI stacks, mercial developers and researchers consider costs, reliabil-
+ity, transparency, and legal requirements.44 According to
+while an invigorated U.S. a 2025 survey of developers across 41 countries conducted
+by McKinsey & Company, the Mozilla Foundation, and the
+open ecosystem could
+Patrick J. McGovern Foundation, 63 percent of respondents
+prefer open-source AI because of lower costs.45 Moreover,
+counter China’s strategy.
+developers also indicated that their preference was attribut-
+able to the full visibility into model weights, which allows
+them to adapt models to specific use cases. Markets might
+Promoting Open-Source Artificial provide firms with incentives to provide less-restrictive
+Intelligence Development licensing requirements in the push to gain users.
+To facilitate the growth of the U.S. open-source
+To compete effectively, the United States should focus on
+model ecosystem for academic research that could be
+promoting multiple pathways to AI progress, including
+beneficial for the globe, the administration and Con-
+both open-model ecosystem growth and closed model
+gress could also consider strengthening support for the
+development. Open models offer distinctive benefits for
+National AI Research Resource,46 an important pilot
+commercial developers and researchers alike. In the private
+program providing computational resources and develop-
+sector, the U.S. government should encourage leading firms
+ment infrastructure to under-resourced organizations.47
+to shift toward open-source models. Some U.S. companies
+Congress can codify and fully fund the program to bol-
+have already been pursuing open-model strategies; Meta
+ster its compute resources and strengthen the U.S. open-
+has been the leading U.S. open-model player, but others
+source model ecosystem.48
+exist, such as the Allen Institute for AI’s Tulu models,
+Apart from the academic community, the U.S. gov-
+Microsoft’s Phi models, and NVIDIA’s GR00T N1 model.
+ernment could also encourage open-model adoption by
+OpenAI’s release of gpt-oss is the latest and most notable
+partnering with major cloud service providers, such as
+indicator of this emerging trend.42 As the Trump admin-
+Amazon Web Services, Microsoft Azure, or Google Cloud
+istration pursues closer ties to AI firms,43 it should explore
+Platform. Cloud service providers already offer compute
+incentives it could use to encourage these companies to
+credits for start-ups.49 Similarly, the administration could
+partner with these providers to offer subsidized or free
+
+compute credits that are designated for open-model devel- shifted toward test-time inference scaling, which allows
+opment and adoption. The U.S. government could also the models to allocate additional computational resources
+consider differentiating between trusted and nontrusted during the deployment phase to improve the model’s per-
+open models, rewarding developers and adopters who align formance and output. A primary method within test-time
+with certain criteria of openness. Federal funding could be inference scaling is multistep reasoning, often imple-
+conditioned on meeting licensing, transparency, and repro- mented through chain-of-thought structures in which the
+ducibility standards. model “thinks” before it provides an output to the user’s
+Taken together, these efforts could help align adop- query. This shift has notable implications for the compu-
+tion incentives with the U.S. government’s strategic objec- tational demands for both training and deploying state-of-
+tives. In the long term, the efforts could create conditions the-art models.
+in which researchers and commercial users alike develop As reasoning-capable models grow in prominence
+preferences for U.S. models, thus increasing the likelihood and are used more widely, inference compute becomes
+that the United States remains globally competitive in open more critical both for capability uplift and widespread
+models even amid Chinese companies’ flashy new model deployment. For instance, DeepSeek’s R1 allegedly used
+releases. The potential efforts offer positive incentives for far less compute for training using the company’s develop-
+researchers and firms that could pay future dividends in ment techniques,50 but it relied more heavily on inference
+soft-power competition. to “reason” by decomposing a problem into component
+parts and effectively showing its work to users. This trend
+underscores the demand for hardware that is optimized for
+Rightsizing Export Controls for the
+inference workloads rather than training alone. Although
+Inference Paradigm
+many AI chips can be used in both the training and infer-
+Complementary to positive policy incentives, the United ence stages of AI development, certain qualities of AI
+States needs to calibrate its export control strategy to new hardware—such as high memory capacity51—make some
+developments in the field. Put simply, most computing chips more suitable for inference than for training.
+power in advanced AI models is devoted to two processes: Previously, U.S. export control policy regarding AI
+training, which is used to teach and tune a model before primarily focused on inhibiting China’s ability to train AI
+its deployment, and inference, which enables a model to models,52 seemingly imposing prohibitive entry costs to
+respond to user needs once deployed. Chinese open-source Chinese companies looking to develop frontier models from
+AI developers, such as DeepSeek, are capitalizing on an scratch. However, as demonstrated by R1, Kimi K2, and
+emerging paradigm shift in AI computing resources from many other Chinese models that have been released recently
+training to inference capabilities. Traditionally, AI models (as of ), export controls may not substantially
+were optimized to provide immediate responses to user slow China’s model development. DeepSeek’s success dem-
+queries. However, the existing trend in AI development has onstrates that algorithmic optimizations and more-efficient
+
+Although we acknowledge that lifting some U.S. export
+restrictions can provide a commercial benefit for U.S.
+The U.S. government
+companies, the combination of right-sized controls and
+needs to help present shifting global compute demands could hamper a key ele-
+ment of China’s AI diffusion strategy and present a narrow
+emerging U.S. open window of opportunity for the United States to expand its
+AI soft power.
+models as attractive
+Countering China’s Narratives While
+alternatives to Chinese
+Protecting U.S. Interests
+competitors.
+Promoting open-model development and using calibrated
+export restrictions might appear to be contradictory policy
+levers. However, they are both needed to effectively export
+harnessing of the performance of larger models to improve U.S. AI, protect U.S. advantages at the technological fron-
+smaller models can reduce export controls’ effectiveness on tier, and compete for AI soft power using open models.
+limiting training compute. The AI paradigm shift toward Export controls could slow the spread of Chinese models in
+an increasing demand for inference-optimized compute global AI stacks, while an invigorated U.S. open ecosystem
+suggests that export controls that target such compute could (one that offers alternatives to such models as R1, Kimi
+constrain Chinese companies’ abilities to achieve capabil- K2, and Alibaba’s Qwen) could counter China’s strategy to
+ity uplift by focusing on inference and deploying models at establish itself as the main diffuser of AI’s benefits. But to
+scale for users both inside China and abroad. avoid being branded globally as the world’s policeman of
+If the U.S. government’s objectives remain focused AI diffusion, the U.S. market needs to produce viable alter-
+on slowing China’s ability to develop and deploy frontier natives that users perceive to be as open as China’s models.
+AI models in service of U.S. national security and foreign By offering performant and accessible open models, U.S.
+policy interests, export controls could remain a criti- companies give AI developers across the globe reliable
+cal policy lever for limiting China’s inference capacity in alternatives that reduce the risk that they and researchers
+China and abroad as part of an overarching AI strategy. become entrenched in the Chinese AI technology stack.
+A risk of allowing PRC firms to access AI chips for both For commercial developers in particular, when an applica-
+training and inference is that Chinese compute infrastruc- tion is built on one specific model and optimized for that
+ture providers can scale some of their services, including model’s unique behavior, it could become burdensome and
+services for users in other countries who hope to access costly to switch models if the product is not developed with
+and tailor powerful Chinese open models for their needs. interoperability in mind.
+
+Over the long term, the U.S. government will need China for inference could yet further incentivize Chinese
+to understand the incentive structures that motivate the chipmakers’ pursuit of leading-edge capabilities and drive
+leading U.S. AI firms to adopt permissive licenses for their global capital toward China to fund the pursuit of alterna-
+open models. OpenAI’s recent choice to use a permissive tives to U.S. hardware.
+license—potentially driven by DeepSeek’s success—stands Soft power in AI is as much about carrots as it is about
+out among actions that leading labs have taken, and the sticks, and the U.S. government needs to help present
+greater proclivity of Chinese firms to use less restrictive emerging U.S. open models as attractive alternatives to
+licenses is notable. To some extent, this is a soft-power Chinese competitors. The United States should embrace
+problem because it involves differing elements of perception the benefits that open models can provide to many coun-
+and practicality: Llama’s licensing restrictions for busi- tries while highlighting the continuing importance of
+nesses providing services to more than 700 million monthly export controls for national security, especially given con-
+active users is a measure that few companies might actually cerns about China’s development and deployment of AI.
+expect to reach, and developers gladly used Llama when it Embracing the development of a stronger U.S. open-model
+was considered to be the premier open model available to ecosystem can provide allies and partners in more- and
+users. But, coupled with Llama’s restrictions on certain uses less-developed countries with attractive alternatives to
+and the improved performance of alternative models, com- China’s models, foster global collaboration and AI innova-
+mercial developers might opt to use models in which navi- tion, and promote technological influence abroad while
+gating licensing restrictions is most seamless. The United bolstering innovation at home. Combined with attractive
+States might need more large firms to loosen their licensing U.S. alternatives to Chinese open models, export controls
+restrictions so that the firms can compete reputationally to limit China’s compute capacity both inside and outside
+with Chinese open-model companies over time. China could hinder China’s ability to develop and diffuse
+Beyond licensing, encouraging and incentivizing the technology that might propagate narratives and disinfor-
+further use of U.S. compute infrastructure globally should mation that run counter to U.S. interests.
+also play a key role in the U.S. government’s strategy. When More broadly, it is worth remembering that technol-
+global developers train and deploy a model—even if the ogy is but one variable in the more complex formula that
+model is a derivative of a Chinese open model—it is ben- makes up a country’s soft power. Being seen as a willing
+eficial for the United States to encourage the use of U.S. diffuser of AI’s benefits could certainly benefit the United
+hardware. Overly limiting access to U.S. compute outside States’ global image, but AI policy will also interact with
+other political, economic, and security factors in the larger
+equation, many of which could lessen allies’ and partners’
+willingness to embrace a U.S. vision for AI.
+
+Notes 20 Meta, “Llama 4 Community License Agreement.”
+1 Daniels and Hanna, “China’s Overlooked AI Strategy.” 21 Google AI for Developers, “Gemma Terms of Use.”
+2 White House, Winning the Race: America’s AI Action Plan. 22 Wiggers, “‘Open’ AI Model Licenses Often Carry Concerning
+Restrictions.”
+3 White House, Winning the Race: America’s AI Action Plan, p. 4.
+23 Soos, “Apache vs. MIT License.”
+4 White House, Winning the Race: America’s AI Action Plan, p. 4.
+24 DeepSeek-AI, “MIT License.”
+5 Ministry of Foreign Affairs of the People’s Republic of China, “Global
+25 Moonshot AI, “Kimi K2.”
+AI Governance Action Plan.”
+6 Ministry of Foreign Affairs of the People’s Republic of China, “Global 26 OpenAI, “Introducing gpt-oss.”
+AI Governance Action Plan.” 27 Wiggers, “‘Open’ AI Model Licenses Often Carry Concerning
+7 Ministry of Foreign Affairs of the People’s Republic of China, “Global Restrictions.”
+AI Governance Action Plan.” 28 Wiggers, “Sam Altman: OpenAI Has Been on the ‘Wrong Side of His-
+8 Ministry of Foreign Affairs of the People’s Republic of China, “Global tory’ Concerning Open Source.”
+AI Governance Action Plan.” 29 Arcesati and Meinhardt, China’s Open-Source Tech Development:
+9 Webster et al., “DigiChina: China’s ‘New Generation Artificial Intel- Insights into a Growing Ecosystem.
+ligence Development Plan’ (2017).” 30 Lee, “Navigating the US-China 5G Competition.”
+10 Edelman Trust Institute, 2025 Edelman Trust Barometer. 31 Beraja et al., “Exporting the Surveillance State via Trade in AI.”
+11 OpenAI, “gpt-oss-120b & gpt-oss-20b Model Card”; Miller, 32 Shilov, “China Is Developing Nation-Spanning Network to Sell Sur-
+“Open Foundation Models: Implications of Contemporary Artificial plus Data Center Compute Power—Latency, Disparate Hardware Are
+Intelligence.” Key Hurdles.”
+12 Miller, “Open Foundation Models: Implications of Contemporary 33 Bureau of Industry and Security, Department of Commerce, “Imple-
+Artificial Intelligence.” mentation of Additional Export Controls: Certain Advanced Comput-
+13 China’s State Council, A Next Generation Artificial Intelligence Devel- ing Items; Supercomputer and Semiconductor End Use; Updates and
+Corrections.”
+opment Plan.
+14 Center for AI Standards and Innovation, Evaluation of DeepSeek AI 34 Pomfret and Pang, “Exclusive: Chinese Researchers Develop AI
+Model for Military Use on Back of Meta’s Llama.”
+Models.
+15 McGuire, China’s AI Chip Deficit: Why Huawei Can’t Catch Nvidia 35 Google and Ipsos, Our Life with AI: The Reality of Today and the
+Promise of Tomorrow.
+and U.S. Export Controls Should Remain.
+16 Synergy Research Group, “Cloud Market Share Trends—Big Three 36 Daniels, Narayanan, and McFaul, “Analyzing the Global AI Gover-
+nance Ecosystem.”
+Together Hold 63% While Oracle and the Neoclouds Inch Higher.”
+17 Hugging Face, homepage. 37 vLLM, “vLLM Large Scale Serving: DeepSeek @ 2.2k tok/s/H200 with
+Wide-EP.”
+18 Miller, Hoffmann, and Gelles, The Use of Open Models in Research.
+38 Rannaberg, “Deep Dive into Censorship of DeepSeek R1 Based
+19 Open Source Initiative, “The Open Source Definition (Annotated).” Models.”
+
+39 Menn, “AI Firm DeepSeek Writes Less-Secure Code for Groups China 47 Miller and Gelles, “The NAIRR Pilot: Estimating Compute.”
+Disfavors.”
+48 Hourihan, Eight Ways Congress Can Help U.S. Researchers Drive AI-
+40 White House, Winning the Race: America’s AI Action Plan. Powered Scientific Breakthroughs.
+41 Kratsios, “A year ago, policymakers in DC were debating a ban on 49 Google Cloud, “The Next Generation of Startups Are Building on
+open weight models. From day one, the Trump administration changed Google Cloud”; AWS Startups, “Apply for Activate Credits.”
+course and made clear America needs to offer the best open models for
+50 DeepSeek-AI, DeepSeek-R1: Incentivizing Reasoning Capability in
+innovators to build on and for America to export. Today, our companies
+LLMs Via Reinforcement Learning.
+are leading.”
+42 OpenAI, “Introducing gpt-oss.” 51 Somala, “Ban the H20: Competing in the Inference Age.”
+43 Schiffer and Knight, “OpenAI Announces Massive US Government 52 Bureau of Industry and Security, Department of Commerce,” Imple-
+mentation of Additional Export Controls: Certain Advanced Comput-
+Partnership.”
+ing and Semiconductor Manufacturing Items; Supercomputer and
+44 Bisht et al., “Open Source in the Age of AI.” Semiconductor End Use; Entity List Modification”; Bureau of Industry
+and Security, Department of Commerce, “Implementation of Additional
+45 Bisht et al., “Open Source in the Age of AI.”
+Export Controls: Certain Advanced Computing Items; Supercomputer
+46 National Artificial Intelligence Research Resource Pilot, homepage. and Semiconductor End Use; Updates and Corrections.”
+
+References Edelman Trust Institute, 2025 Edelman Trust Barometer: Trust and the
+Crisis of Grievance with Insights for the Technology Sector, undated.
+Arcesati, Rebecca, and Caroline Meinhardt, China’s Open-Source Tech
+Google, Ipsos, Our Life with AI: The Reality of Today and the Promise of
+Development: Insights into a Growing Ecosystem, Mercator Institute for
+Tomorrow, .
+China Studies, .
+Google AI for Developers, “Gemma Terms of Use,” webpage, last
+AWS Startups, “Apply for Activate Credits,” webpage, undated. As of
+updated March 24, 2025. As of November 5, 2025:
+November 6, 2025:
+
+Google Cloud, “The Next Generation of Startups Are Building on
+Beraja, Martin, Andrew Kao, David Y. Yang, and Noam Yuchtman,
+Google Cloud,” webpage, undated. As of November 6, 2025:
+“Exporting the Surveillance State via Trade in AI,” National Bureau of
+
+Economic Research, Working Paper 31676, .
+Hourihan, Matt, Eight Ways Congress Can Help U.S. Researchers
+Bisht, Ankit, Roger Roberts, Brittany Presten, and Katherine Ottenbreit,
+Drive AI-Powered Scientific Breakthroughs, Association of American
+“Open Source in the Age of AI,” McKinsey & Company, February 11,
+Universities, July 11, 2025.
+2025.
+Hugging Face, homepage, undated. As of November 5, 2025:
+Bureau of Industry and Security, Department of Commerce,
+
+“Implementation of Additional Export Controls: Certain Advanced
+Computing and Semiconductor Manufacturing Items; Supercomputer Kratsios, Michael [@mkratsios47], “A year ago, policymakers in DC
+and Semiconductor End Use; Entity List Modification,” Federal Register, were debating a ban on open weight models. From day one, the Trump
+Vol. 87, No. 197, October 13, 2022. administration changed course and made clear America needs to offer
+the best open models for innovators to build on and for America to
+Bureau of Industry and Security, Department of Commerce,
+export. Today, our companies are leading,” X post, August 5, 2025. As of
+“Implementation of Additional Export Controls: Certain Advanced
+November 6, 2025:
+Computing Items; Supercomputer and Semiconductor End Use; Updates
+
+and Corrections,” Federal Register, Vol. 88, No. 205, October 25, 2023.
+Lee, Nicol Turner, “Navigating the US-China 5G Competition,”
+Center for AI Standards and Innovation, Evaluation of DeepSeek AI
+Brookings Institution, .
+Models, National Institute of Standards and Technology, September 30,
+2025. McGuire, Chris, China’s AI Chip Deficit: Why Huawei Can’t Catch
+Nvidia and U.S. Export Controls Should Remain, Council on Foreign
+China’s State Council, A Next Generation Artificial Intelligence
+Relations, December 15, 2025.
+Development Plan, trans. by Rogier Creemers, Graham Webster, Paul
+Triolo, and Elsa Kania, New America, July 20, 2017. Menn, Joseph, “AI Firm DeepSeek Writes Less-Secure Code for Groups
+China Disfavors,” Washington Post, September 16, 2025.
+Daniels, Owen J., and Hanna Dohmen, “China’s Overlooked AI
+Strategy,” Foreign Affairs, July 25, 2025. Meta, “Llama 4 Community License Agreement,” webpage, April 5,
+2025. As of November 5, 2025:
+Daniels, Owen J., Mina Narayanan, and Cole McFaul, “Analyzing the
+
+Global AI Governance Ecosystem,” 2025 IEEE Conference on Artificial
+Intelligence, Institute of Electrical and Electronics Engineers, . Miller, Kyle, “Open Foundation Models: Implications of Contemporary
+Artificial Intelligence,” Center for Security and Emerging Technology,
+DeepSeek-AI, DeepSeek-R1: Incentivizing Reasoning Capability in LLMs
+March 12, 2024.
+Via Reinforcement Learning, arXiv, arXiv:2501.12948v1, January 20,
+2025. Miller, Kyle, and Rebecca Gelles, “The NAIRR Pilot: Estimating
+Compute,” Center for Security and Emerging Technology, May 8, 2024.
+DeepSeek-AI, “MIT License,” software license, HuggingFace,
+January 20, 2025. As of November 5, 2025: Miller, Kyle, Mia Hoffmann, and Rebecca Gelles, The Use of Open
+ Models in Research, Center for Security and Emerging Technology,
+.
+
+Ministry of Foreign Affairs of the People’s Republic of China, “Global Somala, Venkat, “Ban the H20: Competing in the Inference Age: How
+AI Governance Action Plan,” July 26, 2025. As of November 5, 2025: Inference Scaling Should Change US AI Strategy,” ChinaTalk, March 7,
+ 2025. As of November 6, 2025:
+
+Moonshot AI, “Kimi K2,” webpage, . As of November 5, 2025:
+inference
+
+Soos, “Apache vs. MIT License,” February 16, 2022.
+National Artificial Intelligence Research Resource Pilot, homepage,
+undated. As of November 6, 2025: Synergy Research Group, “Cloud Market Share Trends—Big Three
+ Together Hold 63% While Oracle and the Neoclouds Inch Higher,”
+November 19, 2025.
+OpenAI, “gpt-oss-120b & gpt-oss-20b Model Card,” August 5, 2025.
+vLLM, “vLLM Large Scale Serving: DeepSeek @ 2.2k tok/s/H200 with
+OpenAI, “Introducing gpt-oss,” August 5, 2025.
+Wide-EP,” blog post, December 17, 2025. As of February 20, 2026:
+Open Source Initiative, “The Open Source Definition (Annotated),” 
+webpage, last updated February 16, 2024. As of November 5, 2025:
+Webster, Graham, Rogier Creemers, Elsa Kania, and Paul Triolo,
+
+“DigiChina: China’s ‘New Generation Artificial Intelligence
+Pomfret, James, and Jessie Pang, “Exclusive: Chinese Researchers Development Plan’ (2017),” webpage, August 1, 2017. As of November 5,
+Develop AI Model for Military Use on Back of Meta’s Llama,” Reuters, 2025:
+November 1, 2024. 
+generation-artificial-intelligence-development-plan-2017/
+Rannaberg, Carl, “Deep Dive into Censorship of DeepSeek R1 Based
+Models,” Medium, March 24, 2025. White House, Winning the Race: America’s AI Action Plan, .
+Schiffer, Zoë, and Will Knight, “OpenAI Announces Massive US Wiggers, Kyle, “‘Open’ AI Model Licenses Often Carry Concerning
+Government Partnership,” Wired, August 6, 2025. Restrictions,” TechCrunch, March 14, 2025.
+Shilov, Anton, “China Is Developing Nation-Spanning Network to Sell Wiggers, Kyle, “Sam Altman: OpenAI Has Been on the ‘Wrong Side of
+Surplus Data Center Compute Power—Latency, Disparate Hardware History’ Concerning Open Source,” TechCrunch, January 31, 2025.
+Are Key Hurdles,” Tom’s Hardware, July 24, 2025.
+
+Acknowledgments
+We would like to thank Michael J. Mazarr, Anca Agachi, Helen Toner, Igor Mikolic-
+Torreira, Kyle Miller, and Mia Hoffmann for their feedback and assistance. We also
+thank our reviewers, William Marcellino and Jennifer Staats.
+
+About the Authors
+Owen J. Daniels is the associate director of analysis and Andrew W. Marshall Fellow
+at Georgetown University’s Center for Security and Emerging Technology and a
+Nonresident Senior Fellow at the Atlantic Council. His research focuses on the gov-
+ernance of AI and the integration of AI into militaries, among other topics. He holds
+a B.A. in International Politics with minors in Arabic language and near eastern
+studies from Princeton University.
+Hanna Dohmen is a senior research analyst at Georgetown University’s Center for
+Security and Emerging Technology and a Nonresident Fellow at the Atlantic Coun-
+cil. Her research focuses on U.S. competitiveness in emerging technologies, eco-
+nomic statecraft, and U.S. innovation policy, among other topics. She holds a B.S. in
+regional and comparative studies of Europe and Asia.
+
+About This Paper stand, anticipate, and prepare to navigate the national security and
+geopolitical implications of AGI. The center convenes leading technolo-
+In this paper, we aim to inform the United States’ open-source artificial
+gists, strategists, economists, political scientists, and outside experts
+intelligence (AI) strategy and make recommendations to advance U.S.
+to consider the feasibility and effectiveness of prospective AGI-enabled
+competitiveness in the context of competition with China. We analyze
+capabilities; the domestic and international implications of their use;
+the United States’ and China’s respective AI action plans, how AI com-
+and the strategies and policies that governments, businesses, and civil
+panies in both countries approach open-source AI models, and the
+society could adopt to respond to new realities. For more information,
+implications for U.S. soft power. We conclude by recommending that
+visit 
+U.S. policymakers show stronger support for U.S. open-source eco-
+systems, recalibrate export controls that account for inference demand,
+Funding
+and incentivize firms to adopt more permissive licensing practices.
+This effort was independently initiated and conducted within the Center
+Center for the Geopolitics of AGI for the Geopolitics of Artificial General Intelligence using income from
+operations and gifts from RAND supporters, including philanthropic
+RAND Global and Emerging Risks is a division of RAND that delivers
+gifts made or recommended by DALHAP Investments Ltd., Ergo
+rigorous and objective public policy research on the most consequential
+Impact, Founders Pledge, Charlottes och Fredriks Stiftelse, Good
+challenges to civilization and global security. This work was commis-
+Ventures, Longview, and Coefficient Giving. RAND donors and grantors
+sioned by the division’s Center for the Geopolitics of Artificial General
+have no influence over research findings or recommendations.
+Intelligence (AGI), which is committed to helping decisionmakers under-
+RAND is a research organization that develops solutions to public policy challenges to help make communities throughout the world safer and
+more secure, healthier and more prosperous. RAND is nonprofit, nonpartisan, and committed to the public interest.
+Research Integrity
+Our mission to help improve policy and decisionmaking through research and analysis is enabled through our core values of quality and
+objectivity and our unwavering commitment to the highest level of integrity and ethical behavior. To help ensure our research and analysis
+are rigorous, objective, and nonpartisan, we subject our research publications to a robust and exacting quality-assurance process; avoid
+both the appearance and reality of financial and other conflicts of interest through staff training, project screening, and a policy of mandatory
+disclosure; and pursue transparency in our research engagements through our commitment to the open publication of our research findings
+and recommendations, disclosure of the source of funding of published research, and policies to ensure intellectual independence. For more
+information, visit 
+RAND’s publications do not necessarily reflect the opinions of its research clients and sponsors. is a registered trademark.
+Limited Print and Electronic Distribution Rights
+This publication and trademark(s) contained herein are protected by law. This representation of RAND intellectual property is provided for
+noncommercial use only. Unauthorized posting of this publication online is prohibited; linking directly to its webpage on rand.org is encouraged.
+Permission is required from RAND to reproduce, or reuse in another form, any of its research products for commercial purposes. For
+information on reprint and reuse permissions, please visit 
+For more information on this publication, visit 
+
+© 2026 RAND Corporation
+PE-A4686-1

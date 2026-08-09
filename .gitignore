@@ -1,6 +1,5 @@
 # Ignorar archivos de datos locales
 data/raw/
-data/processed/
 data/chunks/
 data/*.jsonl
 # Ignorar archivos de índice de FAISS

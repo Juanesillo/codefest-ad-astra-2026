@@ -1,0 +1,805 @@
+January 13, 2023
+Photo by: ISTOK / BLACKJACK3D
+U.S. Space-Based Nuclear
+Command and Control: A Guide
+BY Marie Villarreal Dean
+The United States has long depended on a vast array of and protect this vital infrastructure. This information
+complex sensing and communications infrastructure to should serve as a resource for scholars, practitioners,
+receive warning in the event of a nuclear attack and to and decisionmakers to better understand this complex
+execute nuclear orders. This command and control system and the unique challenges it faces in today’s
+network is highly reliant on space-based assets to space environment.
+operate and provide dependable information to
+The U.S. Nuclear Command and Control Network
+decision makers in the event of a nuclear crisis. This
+paper aims to provide a comprehensive outline of the
+The U.S. nuclear command, control, and
+contribution of satellites in the U.S. nuclear command
+communications (NC3) network is a complex system
+and control network, analyze space assets in the nuclear
+modernization process, explore vulnerabilities and the Marie Villarreal Dean was a research intern for the
+risks they face as the space environment becomes more Aerospace Security Project at the Center for Strategic
+contested, and propose policy solutions to strengthen and International Studies in Washington, D.C.
+AEROSPACE.CSIS.ORG | 1
+
+composed of many critical parts designed to support the direction of forces.2 These functions are carried out
+United States’ nuclear deterrent. The Department of through a system of interconnected elements that
+Defense defines NC3 as the facilities, equipment, include warning satellites and radars, communication
+communications, procedures, and personnel that satellites, aircraft and ground stations, fixed and mobile
+enable the President to exercise nuclear authority. 1 The command posts, and control centers for nuclear
+graphic below shows a simplified rendering of the systems. The current system is often referred to as
+components of this network, including the nuclear having two layers: a “thick-line,” which consists of both
+platforms themselves, sensors, communications standard operational and crisis architectures, and a
+infrastructure, and the decision-makers. “thin-line,” which provides survivable, secure, and
+enduring connectivity to the president, secretary of
+defense, and combatant commanders. NC3 serves as
+the link between the nuclear forces and presidential
+authority.3
+The nuclear command and control network requires a
+high degree of survivability to continue performing even
+in a worst-case nuclear war scenario. It has been
+designed to be survivable to various extreme conditions
+and has incorporated hardening, mobility, redundancy,
+and concealment measures.4
+Figure 1: Space-Based Nuclear Command & Control. Space-Based Assets in NC3
+Source: “Nuclear Matters Handbook 2020 [Revised],” Chapter 2,
+The space-based component of NC3 is integral to the
+
+hapter2.html. defense of the United States because it is “the preferred
+means to transmit a presidential order to use nuclear
+The Nuclear Posture Review (NPR) is the guiding weapons and would provide the first warning of an
+document for U.S. nuclear policy for each incoming nuclear attack.”5 Satellites provide secure
+administration. The latest NPR was published in 2022 communications; intelligence, surveillance, and
+and outlines the five critical functions of the nuclear reconnaissance (ISR); missile launch early warning; and
+command and control system: detection, warning and positioning, navigation, and timing (PNT) functions as
+attack characterization; adaptive nuclear planning; well as the synchronization of NC3 systems and
+decision-making conferencing; receiving and executing networks. These systems consist of a satellite or
+Presidential orders; and enabling the management and constellation of many satellites, ground stations,
+1Deputy Assistant Secretary of Defense for Nuclear Matters. 3 Claeys, Suzanne. “NC3: Challenges Facing the Future
+“Nuclear Matters Handbook 2020 [Revised],” 2020. System,” 2020. 
+ facing-future-system.
+/chapter2.html.
+4 Critchlow, Robert. “Nuclear Command and Control: Current
+2 U.S. Department of Defense. “2022 Nuclear Posture Review,” Programs and Issues.” CRS Report, 3 ,
+. 
+
+1/1/2022-NATIONAL-DEFENSE-STRATEGY-NPR-MDR.PDF. 5 Acton, James, and Thomas McDonald. “Nuclear Command-
+and-Control Satellites Should Be Off Limits.” Defense One,
+2021. 
+command-and-control-satellites-should-be-limits/187472/.
+| 2
+
+sensors, and uplink/downlinks for transmitting and covers everything from the base of the Arctic Circle to
+receiving data, and terminals for the end-users.6 northern Antarctica. AEHF communications are also
+Additionally, earth observation, electronic intelligence, shared with select allies and partners. AEHF provides
+and meteorological forecasting are also space-based assured communications for the President, senior
+functions that contribute to NC3. According to Lt. Gen. national security leaders, and military tactical and
+Jack Weinstein, Air Force deputy chief of staff for strategic forces throughout a nuclear war.9 AEHF is one
+strategic deterrence and nuclear integration, “we need of a few publicly acknowledged avenues through which
+an unblinking eye to find out what is going on. That executive authorization orders can be transmitted. The
+unblinking eye is provided by space…[the NC3 network] AEHF constellation provides support across land, air and
+is entirely dependent on space.”7 naval warfare; special operations; strategic nuclear
+operations; strategic defense; theater missile defense;
+Communications
+and space operations and intelligence.10 The six aging
+MILSTAR satellites, the first of which launched in 1994,
+The primary NC3 satellite communications (SATCOM)
+infrastructure is the geosynchronous Advanced have since been supplemented by the newer AEHF
+constellation. 11 The final AEHF payload was launched in
+Extremely High Frequency (AEHF) constellation of six
+satellites, which is the follow-on to the 1990s MILSTAR as the first Space Force mission, with the
+total program cost for six satellites at $15 billion.12
+program. AEHF is supported by additional protected
+SATCOM units in polar orbit, which currently consists of
+two Enhanced Polar System (EPS) hosted payloads and
+supporting systems providing coverage above 65
+degrees latitude.8 AEHF is a multi-service
+communications constellation that is designed to be
+protected against certain forms of counterspace attack.
+AEHF provides jam-resistant communications for the
+NC3 network, as well as other land, sea, and air assets.
+Notably, AEHF serves latitudes located within 65
+degrees north and 65 degrees south latitude, which
+6 Lt Gen Deptula, David, William LaPlante, and Robert Haddick. Display/Article/2485377/end-of-an-era-the-aehf-program-
+“Modernizing U.S. Nuclear Command, Control, and comes-to-a-close/.
+Communications.” Mitchell Institute for Aerospace Studies,
+10 Capt. Elizabeth Forbes, Space Force. “End of an Era: The
+February 14, 2019. 
+AEHF Program Comes to a Close.” Los Angeles Air Force Base,
+content/uploads/2021/02/a2dd91_ed45cfd71de2457eba3bcc
+e4d0657196.pdf#page=26.
+2021. 
+Display/Article/2485377/end-of-an-era-the-aehf-program-
+7 Erwin, Sandra. “Another Way to Define Nuclear Triad: Three comes-to-a-close/.
+Legs, plus ‘Space Capability.’” SpaceNews, May 1, 2018.
+11 Air Force. “MILSTAR Satellite Communications System.”
+
+2015. 
+three-legs-plus-space-capability/.
+Sheets/Display/Article/104563/milstar-satellite-
+8 Northrop Grumman. “Enhanced Polar System.” Northrop communications-system/; Analysis from the Satellite
+Grumman. Accessed October 12, 2022. Dashboard 
+
+12 Erwin, Sandra. “Is the Cost of Military Space Programs Going
+system.
+Up or Down? Depends on How You Count.” SpaceNews, March
+9 Capt. Elizabeth Forbes, Space Force. “End of an Era: The 19, 2018. 
+AEHF Program Comes to a Close.” Los Angeles Air Force Base, space-programs-going-up-or-down-depends-on-how-you-
+2021. count/.
+| 3
+
+Missile Warning NUDET
+Space-Based Infrared System (SBIRS) is the primary While early warning and secure communications
+early warning satellite constellation. Made up of six satellites are well-known for their role in national
+satellites with nuclear-hardened components, SBIRS security, other satellites fulfilling more mundane tasks
+consists of two hosted sensor payloads in a Highly receive less attention but are still important to national
+Elliptical Orbit (HEO) and four security operations. These satellite
+dedicated payloads in systems and their respective ground
+Geosynchronous Orbit (GEO).13 stations are integral parts of the larger NC3
+SBIRS uses infrared sensors that system.
+detect thermal signatures to
+Hosted sensors on the Global Positioning
+surveil the Earth, providing vast
+System (GPS), Defense Support Program
+amounts of data used for
+(DSP), and other classified GEO
+Figure 2: Depiction of SBIRS Missile Warning
+missile defense, battlespace
+Satellite constellations also contribute to NC3.18
+awareness, missile warning, and
+These satellites host the space segment of
+Source: Space Force, Lockheed Martin
+tactical intelligence,, sending
+ the United States Nuclear Detonation
+raw unprocessed data through 926454/newest-missile-warning-satellite-
+(NUDET) Detection System (USNDS),19
+five separate downlinks to the accepted-for-operations/
+which according to the Air Force, “provides
+ground. The follow-on to the Defense Support Program
+a near real-time worldwide, highly survivable capability
+(DSP) constellation, SBIRS is designed to meet system
+to detect, locate, and report any nuclear detonations in
+survivability and endurance requirements, and
+the earth's atmosphere or in near space.”20 These
+hardened against a nuclear electro-magnetic blast in
+sensors have been operating since the first GPS launch
+space.1415 As of August 4, 2022, all six satellites have been
+in 1978, and provide nuclear force management,
+successfully launched into GEO orbit.16 The original Air
+technical intelligence, and treaty monitoring to the
+Force budget calculations expected SBIRS to cost $5
+National Command Authority, U.S. Strategic Command,
+billion for six satellites– the current numbers place
+U.S. Space Command, and the Air Force Technical
+SBIRS at $19.2 billion dollars for six satellites.17
+Applications Center, with funding supplied by the Air
+13 Lockheed Martin. “SBIRS,” February 13, 2022. space-programs-going-up-or-down-depends-on-how-you-
+ count/.
+14 USAF. Defense Support Program Satellites. 2015. 18 USAF. “NUDET Detection System.” 2023 Space Procurement
+ Justification Book, 2021, p.135.
+Sheets/Display/Article/104611/defense-support-program- 
+satellites/. OCUREMENT/FY20_PB_3021_Space.pdf?ver=2019-03-18-
+152805-323#page=137.
+15 USAF. “Space Based Infrared System.” Air Force, 2019.
+ 19 USAF. “NUDET Detection System.” 2020 Space Procurement
+Sheets/Display/Article/104549/space-based-infrared-system/. Justification Book, 2019, p.137.
+
+16 Erwin, Sandra. “ULA Launches the Last SBIRS U.S. Space
+OCUREMENT/FY20_PB_3021_Space.pdf?ver=2019-03-18-
+Force Missile Warning Satellite.” SpaceNews, August 4, 2022.
+152805-323#page=137.
+
+space-force-missile-warning-satellite/.
+20 USAF. “NUDET Detection System.” 2020 Space Procurement
+17 Erwin, Sandra. “Is the Cost of Military Space Programs Going Justification Book, 2019, p.137.
+up or down? Depends on How You Count.” SpaceNews, March 
+19, 2018. OCUREMENT/FY20_PB_3021_Space.pdf?ver=2019-03-18-
+152805-323#page=137.
+| 4
+
+Force and the NNSA.21 The Space Force requested $7 am doing it with submarines built in the '80s and '90s,
+million for continued NUDET system procurement in its and air-launched cruise missile built in the '80s,
+FY2023 budget.22 intercontinental ballistic missiles built in the '70s, a
+bomber built in the '60s, part of our nuclear command
+NC3 Modernization
+and control that predates the internet, and a nuclear
+The ongoing nuclear modernization process began with weapons complex that dates back to the Manhattan
+the upgrading of the next-generation B2 bomber in the era.25
+early 2000s23 and continued more broadly as outlined in
+the 2012 Nuclear Posture Review under President Having been designed to counter the Soviet missile
+Obama.24 The current modernization push was threat, the NC3 architecture was last significantly
+supported by political compromise and was concurrent updated in the 1980s. In the years since, the US has
+with the ratification of the New START treaty in 2010. It faced new nuclear threats without advancing the NC3
+has been driven by several factors, including an increase system to meet them. Advanced technologies also have
+of foreign competition with Russia and China as both complicated NC3 requirements by creating new threats
+states modernize their own strategic arsenals, as well as to the systems themselves.26 The modernization process
+the need to replace an aging arsenal and support also extends to space-based assets and a space domain
+infrastructure and upgrade nuclear infrastructure with that sees increasing congestion and contestation. The
+today’s digital technology. Admiral Richard, former national security space enterprise has shifted to adjust
+commander of U.S. Strategic Command, recently architecture and acquisitions practices to an
+testified that: increasingly contested environment. In a memo
+The strategic security environment is now a three-party chartering the establishment of the Space Development
+nuclear near-peer reality. Today's nuclear force is the Agency (SDA), former acting Defense Secretary Patrick
+minimum required to achieve our national Shanahan wrote that:
+strategy. Right now I am executing my strategic
+A national security space architecture that provides the
+deterrence mission under historic stress, crisis levels of
+persistent, resilient, global, low-latency surveillance
+deterrence, crisis deterrence dynamics that we have
+needed to deter, or if deterrence fails, defeat adversary
+only seen a couple of times in our nation's history, and I
+21 Inspector General, Department of Defense. “Evaluation of whitehouse.gov, November 17, 2010.
+the Space-Based Segment of the U.S. Nuclear Detonation 
+Detection System,” . office/2010/11/17/fact-sheet-enduring-commitment-us-
+ nuclear-deterrent.
+1/1/DODIG-2018-160.PDF.
+25 “Testimony on United States Strategic Command and
+22U.S. Department of Defense. “Department of Defense Fiscal United States Space Command in Review of the Defense
+Year 2023 Budget Estimates, Space Force Procurement,” April Authorization Request for Fiscal Year 2023, Senate Armed
+2022, p.133. Services Committee,” March 8, 2022.
+ 
+OCUREMENT_/FY23%20Space%20Force%20Procurement.pdf C-Hearing-Transcript/.
+?ver=vMyfar1xW31ifPHFc-mz6A%3d%3d#page=133.
+26 Lt Gen Deptula, David, William LaPlante, and Robert
+23 Klotz, Frank, and Alexandra Evans. “Modernizing the U.S. Haddick. “Modernizing U.S. Nuclear Command, Control, and
+Nuclear Triad: The Rationale for a New Intercontinental Communications.” Mitchell Institute for Aerospace Studies,
+Ballistic Missile.” RAND, , Figure 1, p.4. February 14, 2019.
+ 
+PEA1400/PEA1434-1/RAND_PEA1434-1.pdf. nuclear-command-control-and-communications/.
+24 White House: Office of the Press Secretary. “Fact Sheet: An
+Enduring Commitment to the U.S. Nuclear Deterrent.”
+| 5
+
+action is a prerequisite to maintain our long-term Gen OPIR) constellation. The first block of this
+competitive advantage. We cannot achieve these goals, constellation will consist of three satellites in GEO
+and we cannot match the pace our adversaries are covering mid-latitudes and two satellites in polar highly
+setting, if we remain bound by legacy methods and
+elliptical orbits for upper latitude coverage.29 Lockheed
+culture.27
+Martin was awarded the non-competitive, sole-source
+Modernization includes upgrading and replacing contract worth $2.9 billion to develop the three Next
+satellites to reduce obsolescence and removing aging Gen OPIR geosynchronous satellites in 2018 with a
+systems, equipping new payloads with more advanced follow-on contract of $4.9 billion. The first GEO satellite
+sensors, expanding capacity, and designing systems for is planned for initial launch in 2025, while the first polar
+survivability and resiliency. Specific systems in need of
+satellite, built by Northrop Grumman, will likely launch
+modernization include various missile launch early
+in 2028.30 Delivery of the full constellation is expected by
+warning and communications satellites, including SBIRS
+2028. Another initiative, the Future Operationally
+and AEHF. Along with developing new constellations to
+Resilient Ground Evolution (FORGE), will modernize the
+keep pace with missile technologies, additional
+ground station segment of this system and process data
+modernization is likely to include upgrades in sensors,
+from both SBIRS and Next Gen OPIR.31 The 2023 Fiscal
+ground stations, terminals, and resiliency, survivability
+Year budget research and development request for this
+and hardening of the entire network.
+system was $3.5 billion for the total ground, GEO, and
+The latest projections from the Congressional Budget
+polar components, 32 with total projected program costs
+Office estimate that approximately 15% of the
+estimated at $14.4 billion.33
+requested budget for nuclear modernization from 2021-
+2030 is dedicated to command, control, In 2017, General John Hyten, former vice chairman of
+communications, and early warning systems.28
+the Joint Chiefs of Staff, called the aging SBIRS satellites
+“big juicy targets,” referring to their lack of defenses
+NextGen OPIR
+against anti-satellite weapons, and criticized the
+SBIRS will be supplemented and eventually replaced by timeline for the development of the next-generation
+the Next Generation Overhead Persistent Infrared (Next replacement. This invigorated the Air Force to speed up
+27 Krzyzaniak, John. “‘Big, Fat, Juicy Targets’— the Problem Generation%20Overhead%20Persistent%20Infrared%20Progr
+with Existing Early-Warning Satellites. And a Solution.” am%20Selects%20Mission%20Payload%20Suppliers%20v4.p
+Bulletin of the Atomic Scientists, September 30, 2019. df?ver=7qUXGXb35DOGSCh2uAQEGw%3D%3D.
+
+31U.S. Government Accountability Office, and John
+problem-with-existing-early-warning-satellites/.
+Ludwigson. “Space Acquisitions: Changing Environment
+28Congressional Budget Office. “Projected Costs of U.S. Presents Continuing Challenges and Opportunities for DOD,”
+Nuclear Forces, 2021 to 2030.” May 24, 2021. . 
+
+32 Office of the Under Secretary of Defense (Comptroller).
+29U.S. Government Accountability Office, and John “Department of Defense Budget, Fiscal Year 2023, RDT&E
+Ludwigson. “Space Acquisitions: Changing Environment Programs,” .
+Presents Continuing Challenges and Opportunities for DOD,” 
+. udget/FY2023/FY2023_r1.pdf#page=50.
+30 Space Systems Command. “Next-Generation Overhead 33 U. S. Government Accountability Office. “Missile Warning
+Persistent Infrared Program Selects Mission Payload Satellites: Comprehensive Cost and Schedule Information
+Suppliers.” . Would Enhance Congressional Oversight.” .
+ 
+%20RELEASES/Next-
+| 6
+
+the development of the system and integrate more missile warning capability against emerging missile and
+advanced features, from better sensors to resiliency counter-space threats.”36
+measures.34 Next Gen OPIR is planned to be more
+Space Development Agency
+resilient against threats, which were a concern for the
+SBIRS constellation. According to a Lockheed Martin The Space Development Agency is also developing a
+global infrared hypersonic and ballistic missile tracking
+representative, “a space program of this size — which
+layer in LEO and MEO as a key component of its National
+includes developing two entirely new missile warning
+Defense Space Architecture that will be integrated with
+payloads — has never moved this fast.”35
+the broader NC3 network.37 The first eight satellites will
+The development of the Next Gen OPIR constellation is launch in Tranche 0,38 and the next wave will be
+being divided between two contractors to reinforce composed of 28 additional satellites in LEO launching in
+redundancy for sensitive national security payloads. For 2025.39 The end goal is an entire constellation in LEO and
+example, if one of the contractors were to experience a MEO interfacing with each other seamlessly and capable
+delay or other issue, the entirety of the planned of boost-phase missile detection and tracking.40 SDA
+constellation wouldn't be compromised and could recently announced that it has awarded L3Harris and
+continue on schedule. Resilience is being addressed at Northrop Grumman a total of $1.3 billion in contracts to
+every step of the development process, from payload develop prototype satellites capable of tracking
+requirements to architecture design, with Space Force hypersonic missiles in flight.41 The main motivation
+Colonel Brian Denaro describing Next Gen OPIR as the behind this larger space missile warning architecture is
+cornerstone of U.S. integrated missile warning, tracking, to have satellites in lower orbits that can provide
+and battlespace awareness, saying that, “Next Gen OPIR enhanced tracking capability for hypersonic missiles
+is designed to provide a resilient space-based global and gliders, while also having the added benefit of
+increasing redundancy.
+34 Erwin, Sandra. “The End of SBIRS: Air Force Says It’s Time to 38 Space Development Agency. “SDA Awards Contracts for the
+Move on.” SpaceNews, February 19, 2018. First Generation of the Tracking Layer – Space Development
+ Agency.” 
+time-to-move-on/. first-generation-of-the-tracking-layer/.
+35 SpaceNews. “Lockheed Martin Gets $4.9 Billion Contract to 39 U.S. Department of Defense. “Space Development Agency
+Build Three Missile-Warning Satellites for U.S. Space Force,” Makes Awards for 28 Satellites to Build Tranche 1 Tracking
+January 5, 2021. Layer.” .
+gets-4-9-billion-contract-to-build-three-missile-warning- 
+satellites/. 6294/space-development-agency-makes-awards-for-28-
+satellites-to-build-tranche-1-trac/.
+36 Space Systems Command. “United States Space Force Next
+Gen OPIR GEO Program Completes Block 0 GEO Space Vehicle 40 Miller, Amanda. “Emerging Emphasis on Missile Tracking
+C.” August 24, 2021. Reflected in Space Force’s 2023 Budget Request.” Air Force
+ Magazine, April 26, 2022.
+Display/Article/2744261/united-states-space-force-next-gen- 
+opir-geo-program-completes-block-0-geo-space. missile-tracking-reflected-in-space-forces-2023-budget-
+request/.
+37 Hitchens, Theresa. “Space Development Agency Missile
+Tracking Data Will Inform NC3.” Breaking Defense, November 41 Williams, Lauren. “Hypersonic Missile-Tracking Satellites
+11, 2022. Greenlit For Development.” Defense One, 2022.
+ 
+pace-development-agency-missile-tracking-data-will-inform- systems/2022/07/hypersonic-missile-tracking-satellites-
+nc3/. greenlit-development/374618/.
+| 7
+
+Beyond AEHF Typically, while most of the technical specifications of
+these satellite systems are highly classified, there is a
+The modernization plan for AEHF involves
+variety of publicly available information available on the
+supplementing and then replacing it with the new
+Advanced Extremely High Frequency (AEHF)
+Evolved Strategic Satellite (ESS) constellation, a Space
+constellation. Developed as the successor to the
+Force program.42 It will provide expanded global
+MILSTAR communications constellation, the program
+strategic and secure communications capabilities to
+began in 1999, was developed in 2001, reached its initial
+support NC3 functions.43 Lockheed Martin, Boeing, and
+operational capability in 2018, and is now operated and
+Northrop Grumman are developing competing designs
+maintained by the Space Force. The first of the six
+for the ESS program over the next few years. Contracts
+satellites launched in 2010, with the final unit launched
+for the full ESS system are expected to be awarded in
+in 2020. Its operational schedule faced some setbacks,
+2025.4445 AEHF was originally intended to be replaced by
+including technical issues with AEHF-1 resulting in it
+the Transformational Satellite Communications System
+being stranded on-orbit and later recovered, and further
+(TSAT) program, but due to cost overruns and delays the
+delays on AEHF-4.49 AEHF provides extremely high-
+program was canceled in 2010 and instead two more
+frequency (EHF) uplink and crosslink capabilities and
+AEHF satellites were launched as an interim measure.46
+super high-frequency (SHF) communications. Its
+The Enhanced Polar System Recapitalization effort, capacity is ten times that of MILSTAR, featuring an
+increased coverage area. Its anti-jam payload includes
+designed as a stopgap between the Enhanced Polar
+onboard signal processing, radio frequency equipment,
+System and the upcoming polar component of the ESS,
+crossbanded EHF/SHF communication antennas, with a
+is currently in development and scheduled to launch in
+mass of 6,168 kg at launch. Its hardened and survivable
+2022. The $429 million contract for the polar segment
+mission control and terminal segments are made up of
+was awarded to Northrop Grumman.47
+fixed and mobile ground, air, and sea terminals, which
+facilitate data transfer rates from 75 bps to 8 Mbps.50 The
+AEHF Case Study48
+original Air Force cost estimate for the entire AEHF
+42 Congressional Research Service, and John R Hoehn. 46 Gates, Robert. “Budget Press Briefing as Prepared for
+“Nuclear Command, Control, and Communications (NC3) Delivery by Secretary of Defense Robert M. Gates,” .
+Modernization,” . 
+ /Reports/2009/April%202009/Day07/Gates_budget_040609.p
+df.
+43 U.S. Government Accountability Office, and John
+Ludwigson. “Space Acquisitions: Changing Environment 47 Strout, Nathan. “Space Force’s Stopgap Polar
+Presents Continuing Challenges and Opportunities for DOD,” Communications System Passes Another Milestone.”
+. C4ISRNet, July 9, 2020. 
+tech/space/2020/07/09/space-forces-stopgap-polar-
+44 Capt. Elizabeth Forbes, and Space Force. “End of an Era: communications-system-passes-another-milestone/.
+The AEHF Program Comes to a Close.” Los Angeles Air Force
+Base, 2021. 48 Air Force. “Advanced Extra High Frequency (AEHF),” March
+ 13, 2007.
+Display/Article/2485377/end-of-an-era-the-aehf-program- 
+comes-to-a-close/. angeles.af.mil/SMC/MC/aehf.htm.
+45 “Lockheed Martin Wins $258M US Space Force Contract for 49 Ray, Justin. “Two U.S. Military Satellite Launches Delayed
+ESS Program Prototype,” November 11, 2020. into Next Year – Spaceflight Now,” 2017.
+ 
+military/2020/11/11/lockheed-martin-wins-258m-us-space- satellite-launches-delayed-into-next-year/.
+force-contract-for-ess-program-prototype/.
+50 Airforce Technology. “Advanced Extremely High Frequency
+(AEHF) Satellite System.” . 
+| 8
+
+system was $6 billion, while the total cost came out to pause,” according to Secretary of Defense Lloyd Austin.
+be $15 billion.51 Instead of relying upon sheer military strength to deter
+adversaries, integrated deterrence envisions pulling on
+every available lever of influence to achieve the desired
+Challenges and Policy Recommendations foreign policy and military effect. 53
+As the modernization process continues, there are Cybersecurity
+several challenges to maintaining and developing a
+Because of the digital nature of space systems, cyber
+strong space-based NC3 capability as the U.S. faces
+interference and attacks remain a top concern for the
+increasing threats in the space domain. Questions
+national security space enterprise, and indeed “many of
+around cybersecurity, force design and proliferation,
+the most daunting challenges for NC3 resilience lie at
+escalation and deterrence, and defenses are driving
+the intersection of cyberspace and outer space
+current policy discussions.
+domains, where cyber-attacks are directed at space-
+The 2022 National Defense Strategy features the based NC3 assets.”54 Vulnerabilities along supply chains
+concept of “integrated deterrence” – which, per the and through contractors could also present openings for
+deputy undersecretary of defense for policy Sasha bad actors or other failures to disrupt the complex
+Baker, is “a framework for working across warfighting network. According to Erin Miller, Executive Director of
+domains, theaters and the spectrum of conflict, in the Space Information Sharing and Analysis Center
+collaboration with all instruments of national power, as (ISAC), “due to the different regulations and
+well as with U.S. allies and our partners.”52 Space-based requirements used by firms and within the government,
+assets will be a key part of the United States’ ability to it is difficult to ensure that components from all levels of
+continue integrating forces and networks, across both the supply chain have the same quality of cyber
+conventional and strategic missions. “Integrated protection.”55 A 2019 DOT&E Cyber Assessment report
+deterrence is about using the right mix of technology, highlighted such concerns and the results of the
+operational concepts, and capabilities—all woven evaluation of NC3 capability were “briefed to the highest
+together in a networked way that is so credible, and levels of DOD leadership and have resulted in a
+flexible, and formidable that it will give any adversary significant increase in focus in this vital area.”56
+technology.com/projects/advanced-extremely-high- 54 Dunnmon, et al. “Nuclear Command and Control in the
+frequency-aehf/. Twenty-First Century: Maintaining Surety in Outer Space and
+Cyberspace.” Project on Nuclear Issues. Center for Strategic
+51 Erwin, Sandra. “Is the Cost of Military Space Programs Going
+and International Studies (CSIS), 2017.
+Up or Down? Depends on How You Count.” SpaceNews, March
+
+19, 2018. 
+space-programs-going-up-or-down-depends-on-how-you- 55 Gillete, Amber. “From Supply Chains to Spacecraft: Taking
+count/. an Integrated Approach to Cybersecurity in Space | Wilson
+Center.” Accessed January 8, 2023.
+52 Lopez, C. Todd. “Integrated Deterrence at Center of
+
+Upcoming National Defense Strategy.” U.S. Department of
+spacecraft-taking-integrated-approach-cybersecurity-space.
+Defense, . 
+Stories/Article/Article/2954945/integrated-deterrence-at- 56 Office of Test and Evaluation (DOT&E). “Cyber Assessment,”
+center-of-upcoming-national-defense-strategy/
+2019.
+
+53 Osborn, Kris. “What Does the Pentagon’s ‘Integrated
+her/2019cyber-assessments.pdf?ver=2020-01-30-115600-
+Deterrence’ Strategy Mean?” The National Interest. The
+800#page=4.
+Center for the National Interest, November 16, 2021.
+
+pentagons-integrated-deterrence-strategy-mean-196372.
+| 9
+
+In terms of acquisition, a 2021 SpaceNews op-ed the 2022 Russian hack against commercial satellite
+explained why cybersecurity and supply chain operator Viasat in Ukraine shows, satellite ground
+management must go hand in hand: “Given current stations are generally a weak link in this system and can
+resource constraints, the leanness of the new U.S. be relatively easy targets in a conflict.59 A key
+Space Force, and the push for agility and rapid recommendation of the 2020 Cyberspace Solarium
+acquisition, commercial reliance is likely to increase. Commission report stated that:
+The proliferation of vendors providing data, software,
+Even more concerning is the potential cyber threat to
+hardware, and services in this environment presents
+the U.S. nuclear deterrent and the survivability and
+an array of opportunities to adversaries with
+resilience of NC3 systems and NLCC programs facing the
+cascading effects, which punctuates the importance
+full spectrum of cyber threats. These threats are
+of immediately elevating cyber hygiene and supply
+particularly alarming because they can undermine the
+chain risk management (SCRM).”57
+stability of nuclear deterrence and create the conditions
+The Space Force is also at the forefront of recognizing for inadvertent nuclear war. The greatest risk is that
+these risks and increasing focus on preparing to counter precisely because cyber interactions take place below
+them, with the formation of the Space Delta 6 the threshold of armed conflict, the combination of
+cybersecurity squadron, as well as the new Space cyber risks and NC3 systems can, in effect, lower that
+Force Infrastructure Asset Pre-Assessment Program threshold. With this in mind, Congress should direct DoD
+(IA-PRE) that aims to “advance the security posture of to routinely assess every segment of the NC3 and NLCC
+current and future commercial satellite enterprise for adherence to cybersecurity best practices,
+communications procurements for the DoD.” vulnerabilities, and evidence of compromise.60
+To mitigate these challenges, government and industry Proliferation
+should continue to focus on designing for resiliency with
+Furthermore, shifting space architecture design away
+a focus on cybersecurity at every step of the process,
+from few numbers of expensive satellites that take a
+and guard against supply chain interdiction from
+long time to build, launch, and position, towards larger
+research and development to launch. Because cyber
+constellations of smaller, cheaper satellites could help
+anti-satellite operations are among the counterspace
+increase resiliency and protect against common mode
+threats that worry experts the most, building in robust
+failures that occur when one satellite is interfered with,
+cybersecurity measures for satellite payloads and
+leading to the weakening of the entire constellation.
+ground stations during the modernization process and
+This new infrastructure could also include a streamlined
+similar efforts should be a priority.58 Contractors and
+launch program to rapidly replace damaged satellites
+commercial companies should ensure cybersecurity
+and investing in air or ground redundancy systems.
+hardening at every step of the process to help mitigate
+Because constellations take so long to build, launch,
+system weaknesses and vulnerabilities. Furthermore, as
+57 Pillow, Liz. “Op-Ed | SOS Space: Why Cybersecurity and 59 Erwin, Sandra. “U.S. Space Force to Step up Protection of
+Supply Chain Risk Management Must Go Hand in Hand.” Satellite Ground Systems in the Wake of Russia’s Cyber
+SpaceNews, November 16, 2021. Attacks.” SpaceNews, May 19, 2022.
+ed-sos-space-why-cybersecurity-and-supply-chain-risk- 
+management-must-go-hand-in-hand/. protection-of-satellite-ground-systems-in-the-wake-of-
+russias-cyber-attacks/.
+58 Erwin, Sandra. “Cyber Warfare Gets Real for Satellite
+60 Cyberspace Solarium Commission, Senator Angus King, and
+Operators.” SpaceNews, March 20, 2022.
+Representative Mike Gallagher. “Final Report,” ,
+
+p.119. 
+operators/.
+content/uploads/2022/05/CSC-Final-Report.pdf.
+| 10
+
+and get into position, many systems won’t be operating these systems were targeted. An adversary's targeting of
+at full capacity for years, so building in additional air, U.S. conventional space capabilities in an attempt to
+ground communications or missile warning support is gain an advantage in a conventional conflict could have
+an important consideration. The Space Development destabilizing effects on U.S. confidence in its nuclear
+Agency is at the forefront of this effort, with proliferation forces if the strategic space-based NC3 capabilities were
+and a spiral mode of architecture development as its affected as incidental damage.63 The variety of possible
+two pillars approach to the National Defense Space offensive actions in space also could impact the degree
+Architecture, allowing for higher resilience, more to which certain modes of attack on certain assets
+flexibility, and the ability to “quickly pivot in response or would create escalation concerns. The jamming of dual-
+even preemptively to advances in the threat.”61 use satellite communications during a conventional
+Additionally, top officials have stressed the need for a conflict might elicit a different response than the
+proliferated force design, including former Space jamming of a missile detection satellite or the detection
+Force Chief of Space Operations General Raymond: of a co-orbital vehicle shadowing one of these systems.
+“We have got to shift our space architecture, if you Both the mode of attack and the target, as well as the
+will, from a handful of exquisite capabilities that are context of a possible conflict could impact the degree to
+very hard to defend to a more robust, more resilient which certain attacks would raise strategic concerns.64
+architecture.”62 However, some scholars have argued that the
+entanglement of strategic and tactical functions in NC3
+Entanglement, Escalation, & Deterrence
+satellites serves as a deterrent against aggressive action,
+Disruption of space assets could have serious impacts instead of as a potential tripwire.65 Adversaries may not
+want to risk targeting these assets for tactical purposes
+on U.S. nuclear posture and general force readiness by
+impacting missile warning and secure communications because of the prospect of unintended escalation.
+Therefore, disentanglement might work counter to
+capabilities and the disruption of critical space
+deterrence efforts. A strategy of entanglement might be
+infrastructure. These effects could be amplified in a
+more desirable as a result, and if so, it is also possible
+conflict scenario where U.S. forces are under attack. If
+an adversary were looking to undermine U.S. nuclear that the potential for this type of unintended escalation
+in space might decrease.
+security, these qualities would make the space-based
+NC3 segment an attractive target.
+Additionally, because these space systems are a part of
+Military satellites can be entangled systems, meaning the nuclear command and control network, some
+experts have proposed that countries most dependent
+that some fulfill both strategic and tactical missions.
+While the benefits of entanglement include cost on their satellites negotiate “keep-out” zones around
+reductions and operational benefits, a concern is the
+possibility of unintended escalation that could exist if
+61 Space Development Agency. “Introduction,” , p. 5. the Risks of an Inadvertent Nuclear War.” International
+ Security 43, no. 1 (): 56–99.
+About-Us-2020-to-2021_march-2022-1.pdf#page=5. 
+64 Egeli, Sitki. “Space-to-Space Warfare and Proximity
+62 Erwin, Sandra. “Raymond: Space Force in 2022 to Focus on Operations: The Impact on Nuclear Command, Control, and
+the Design of a Resilient Architecture.” SpaceNews, January Communications and Strategic Stability.” Journal for Peace
+18, 2022. and Nuclear Disarmament 4, no. 1 (January 2, 2021): 116–40.
+2022-to-focus-on-the-design-of-a-resilient-architecture/. 
+65 Stewart, Brian. “Deterrence Through Entanglement.”
+63 Acton, James M. “Escalation through Entanglement: How
+Georgia Institute of Technology, 2022.
+the Vulnerability of Command-and-Control Systems Raises
+
+| 11
+
+each other’s high-altitude satellites.66 This type of more ambiguous language of the Obama-era, simply
+international norm or treaty creation is promising to stating that “the United States would only consider the
+mitigate threats, although the willingness of major use of nuclear weapons in extreme circumstances to
+nuclear powers like the U.S., Russia, and China to join defend the vital interests of the United States or its Allies
+such an agreement is questionable. A potential and partners.”69 There has been a longstanding
+challenge is that countries signing on to this agreement understanding that targeting these systems could be
+would have to be willing to disclose which of their highly escalatory and destabilizing, so maintaining
+satellites perform such operations and their locations in robust NC3 capabilities and protecting them from
+orbit, against concerns that this information sharing interference is crucial.
+would increase the vulnerability of those assets.
+Space Defenses
+According to expert Ankit Panda, “space-based NC3
+NC3 satellites can also benefit from both passive and
+assets deserve special consideration after the 2018
+active protective measures. Passive measures include
+NPR’s widening of the conditions for nuclear use.”67 In
+disaggregated, distributed, and proliferated
+the 2018 NPR, the U.S. “would only consider the
+constellations, creating larger groups of smaller
+employment of nuclear weapons in extreme
+satellites that perform critical functions. A
+circumstances to defend the vital interests of the United
+disaggregation strategy could help mitigate the problem
+States, its allies, and partners. Extreme circumstances
+of entanglement in dual-use infrastructure – for
+could include significant non-nuclear strategic attacks.
+example, “the Evolved Strategic SATCOM (ESS) system
+Significant non-nuclear strategic attacks include, but
+will support strategic users for missions such as nuclear
+are not limited to, attacks on the U.S., allied, or partner
+command and control, whereas the Protected Tactical
+civilian population or infrastructure, and attacks on U.S.
+Service (PTS) system will support tactical SATCOM users
+or allied nuclear forces, their command and control, or
+that need a high level of jam resistance. This could
+warning and attack assessment capabilities.”68 By
+reduce the potential for unintentional escalation by
+including “non-nuclear strategic attacks” on NC3 in the
+forcing an adversary to be explicit about the capabilities
+list of the circumstances under which the U.S might
+it is targeting in an attack.”70 However, a strategy of
+consider nuclear use, this sent the message that
+disaggregation may not be feasible or the best option
+interfering with NC3 may cross a line. It also raised
+for some space systems, depending on technical or
+questions as to what types of aggressive activity would
+budgetary limitations or strategic concerns. And of
+qualify as a “non-nuclear strategic attack” – a term
+course, “an adversary may not be able to distinguish
+which the Trump Administration never fully defined. In
+between satellites that are intended for different
+the 2022 NPR, the Biden Administration reverted to the
+missions, and even if such differences are disclosed, an
+66 Acton, James, and Thomas McDonald. “Nuclear Command- 
+and-Control Satellites Should Be Off Limits.” Defense One, 1/1/2018-NUCLEAR-POSTURE-REVIEW-FINAL-REPORT.PDF.
+.
+69 U.S. Department of Defense. “2022 Nuclear Posture
+
+Review,” , p.9.
+command-and-control-satellites-should-be-limits/187472/.
+
+67 Panda, Ankit. “Space-Based Nuclear Command and Control 1/1/2022-NATIONAL-DEFENSE-STRATEGY-NPR-MDR.PDF.
+and the ‘Non-Nuclear Strategic Attack.’” The Diplomat, . 70 Harrison, Todd. “Defense Against The Dark Arts In Space:
+nuclear-command-and-control-and-the-non-nuclear- Protecting Space Systems from Counterspace Weapons.”
+strategic-attack/. CSIS, 2021. 
+dark-arts-space-protecting-space-systems-counterspace-
+68 Department of Defense. “2018 Nuclear Posture Review,” weapons
+.
+| 12
+
+adversary may not trust this distinction and attack both creating a safe and sustainable space environment. The
+anyway.”71 first meeting of the UN Open-Ended Working Group On
+Reducing Space Threats in discussed these
+Other passive measures include redundant, mobile, and
+norms, and future meetings show promise of beginning
+hardened ground stations, wherein satellite operations
+discussions around space security.73 The US-led
+are not dependent on a single, fixed, and vulnerable
+moratorium on destructive kinetic ASAT testing was
+ground station to receive and transmit key data but can
+recently adopted into a UN resolution by a 154-8 vote.
+be supported by other ground stations or air receivers.
+Nine states have committed to the unilateral
+Defenses like advanced space situational awareness,
+moratorium, while China and Russia voted against the
+electromagnetic shielding, rapid deployment, and
+resolution and India abstained. The U.S., Russia, China,
+reconstitution of satellite payloads, and using encrypted
+and India are the only states to have tested an ASAT
+and air-gapped systems are among the additional ways
+weapon. This resolution could signal a degree of
+that NC3 space systems can protect themselves from
+momentum on policy options that could work to reduce
+accidents or interference. Active satellite defense
+risks in space.74 One future possibility could see nations
+measures can take the form of jamming and spoofing,
+with strong national security interests in space begin
+lasers, targeting counterspace systems with
+talks to negotiate the terms of a treaty banning
+cyberattacks, or firing projectiles or physically seizing
+purposeful interference with or targeting of critical
+threatening objects. While some of these defensive
+satellites, to include those involved in each other's
+options add to the cost or weight of a satellite payload,
+strategic forces.75 However, any such diplomatic efforts
+a mixture of these has the potential to provide
+must work towards solution that all countries can agree
+important nuclear command and control satellites with
+to and navigate sensitive national security concerns
+a robust defense.72
+inherent to space assets, which has so far proved
+International options to reduce the impacts of a challenging.
+congested and contested orbital environment also exist.
+Summary
+Creating a strong global space traffic management
+system would contribute to the ability of all countries to The space leg of the U.S. nuclear command and control
+obtain strong space situational awareness, and reduce network is a highly complex system, with the nature of
+the risks posed by accidental collisions. Recent the orbital environment presenting unique challenges to
+initiatives have also promoted the creation of its security. The open-source nature of this project
+international norms around responsible behavior in naturally imposes limits on what it can answer on highly
+space, with the end goal of guiding conduct and sensitive national security infrastructure, but it will
+71 Harrison, Todd. “Defense Against The Dark Arts In Space: n-talks-on-space-norms-surprisingly-collegial-but-fireworks-
+Protecting Space Systems from Counterspace Weapons.” to-come-sources/.
+CSIS, 2021. 
+74 Foye, Heather, and Gabriela Rosa Hernández. “UN First
+dark-arts-space-protecting-space-systems-counterspace-
+Committee Calls for ASAT Test Ban.” Arms Control
+weapons
+Association. .
+72 Harrison, Todd. “Defense Against The Dark Arts In Space: 
+Protecting Space Systems from Counterspace Weapons.” committee-calls-asat-test-ban.
+CSIS, 2021. 
+75 Hitchens, Theresa. “At Home and Internationally,
+dark-arts-space-protecting-space-systems-counterspace-
+‘governance’ Is the Space Watchword: 2023 Preview.”
+weapons.
+Breaking Defense, December 28, 2022.
+73 Hitchens, Theresa. “UN Talks on Space Norms Surprisingly 
+Collegial, but Fireworks to Come: Sources.” Breaking Defense, -home-and-internationally-governance-is-the-space-
+May 31, 2022. watchword-2023-preview/.
+
+| 13
+
+hopefully provide a resource for researchers, analysts,
+and policymakers on this important topic. The next
+phase of research on this topic should include questions
+on the role of the National Reconnaissance Office and
+other intelligence community architecture in the NC3
+system, how the military is altering capability and
+survivability requirements in the next 10-20 years given
+the rapidly changing space threat environment, how
+tradeoffs between the increased need for survivability
+and resulting increases in payload complexity and costs
+are being decided, and the potential impacts on
+international security as other nuclear powers invest in
+their own advanced space nuclear command and
+control assets. In conclusion, developing strong
+successors to NC3 space programs and adapting new
+systems are critical to staying abreast of the rapidly
+changing and increasingly dangerous space
+environment.
+Acknowledgments
+The author would like to thank the Brooke Owens
+Fellowship, Kari Bingen, Kaitlyn Johnson, Makena
+Young, Patricia Cooper, James Acton, Benjamin Bahney,
+Carlos Niederstrasser, Brian Stewart, and Michael Dickey
+for their support and expert insights.
+| 14
+
+About CSIS
+The Center for Strategic and International Studies (CSIS) is a bipartisan, nonprofit policy research organization dedicated to
+advancing practical ideas to address the world’s greatest challenges.
+Thomas J. Pritzker was named chairman of the CSIS Board of Trustees in 2015, succeeding former U.S. Senator Sam Nunn (D-GA).
+Founded in 1962, CSIS is led by John J. Hamre, who has served as president and chief executive officer since 2000.
+CSIS’s purpose is to define the future of national security. We are guided by a distinct set of values—nonpartisanship,
+independent thought, innovative thinking, cross-disciplinary scholarship, integrity and professionalism, and talent development.
+CSIS’s values work in concert toward the goal of making real-world impact.
+CSIS scholars bring their policy expertise, judgment, and robust networks to their research, analysis, and recommendations. We
+organize conferences, publish, lecture, and make media appearances that aim to increase the knowledge, awareness, and
+salience of policy issues with relevant stakeholders and the interested public.
+CSIS has impact when our research helps to inform the decisionmaking of key policymakers and the thinking of key influencers.
+We work toward a vision of a safer and more prosperous world.
+CSIS is ranked the number one think tank in the United States as well as the defense and national security center of excellence for
+2016-2018 by the University of Pennsylvania’s annual think tank report.
+CSIS does not take specific policy positions; accordingly, all views expressed herein should be understood to be solely those of
+the author(s).
+| 15

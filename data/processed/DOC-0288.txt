@@ -1,0 +1,225 @@
+340 20 VOL 311 SCIENCE 
+ASAN
+)POT(
+:TIDERC
+POLICYFORUM
+PLANETARY SCIENCE
+Risks in Space from Orbiting
+Debris
+J.-C. Liou1and N. L. Johnson2
+Since the launch of Sputnik I, space activi- (17), 200-year future projec- objects 10 cm and larger triples in 200
+ties have created an orbital debris environ- tion Monte Carlo simulations years, leading to a factor of 10 increase
+ment that poses increasing impact risks to were executed and evaluated, in collisional probabilities among
+existing space systems, including human space under the assumptions that no objects in this region (see chart on page
+flight and robotic missions (1, 2). Currently, rocket bodies and spacecraft were 341, top right). This population growth is
+more than 9000 Earth-orbiting man-made launched after and due to higher spatial densities, larger and
+objects (including many breakup fragments), that no future disposal maneuvers were allowed more massive rocket bodies and spacecraft with
+with a combined mass exceeding 5 million kg, for existing spacecraft (few of which currently near-polar inclinations, and longer orbit decay
+are tracked by the U.S. Space Surveillance have such a capability) (18). times in this region as compared with other parts
+Network and maintained in the U.S. satellite cat- The simulated 10-cm and larger debris popu- of LEO.
+alog (3–5). Three accidental collisions between lations in LEO (defined as the region between The current debris population in the LEO
+catalogued objects during the period from late altitudes of200 and 2000 km) between 1957 and region has reached the point where the environ-
+1991 to early 2005 have already been docu- the end of a 200-year future projection period ment is unstable and collisions will become the
+mented (6), although, fortunately, most dominant debris-generating
+none resulted in the creation of mechanism in the future. Even
+large, trackable debris clouds. The without new launches, collisions
+most recent () was will continue to occur in the LEO
+between a 31-year-old U.S. rocket environment over the next 200
+body and a fragment from the third years, primarily driven by the high
+stage of a Chinese CZ-4 launch collision activities in the region
+vehicle that had exploded in between 900- and 1000-km alti-
+. tudes, and will force the debris pop-
+Several studies conducted dur- ulation to increase. In reality, the sit-
+ing 1991–2001 demonstrated, with uation will undoubtedly be worse
+assumed future launch rates, the because spacecraft and their orbital
+potential increase in the Earth satel- stages will continue to be launched.
+lite population, resulting from ran- Postmission disposal of vehicles
+dom, accidental collisions among (for example, bylimiting postmis-
+resident space objects (7–13). In sion orbital lifetimes to less than 25
+some low Earth orbit (LEO) altitude years) is now advocated by the major
+regimes, where the number density space-faring nations and organiza-
+of objects is above a critical spatial tions of the world, including NASA
+density, the production rate of new (21), the Department of Defense, the
+debris due to collisions exceeds the Department of Transportation, and
+loss of objects due to orbital decay. the Federal Communications Com-
+LEGEND (LEO-to-GEO En- mission in the United States; the
+vironment Debris model), is a high- Inter-Agency Space Debris Coor-
+fidelity three-dimensional physical dination Committee (22); the Euro-
+model developed by the U.S. National Aero- indicate that collision fragments replace other pean Space Agency (23); and the Japan Aerospace
+nautics and Space Administration (NASA) that decaying debris (due to atmospheric drag and Exploration Agency (24). Postmission disposal
+is capable of simulating the historical environ- solar radiation pressure) through 2055, keeping will slow down the growth of future debris popu-
+ment, as well as the evolution of future debris the total LEO population approximately con- lations (25). However, this mitigation measure
+populations (14, 15). stant (see chart, above). Beyond 2055, however, will be insufficient to constrain the Earth satellite
+The LEGEND future projection adopts a the creation of new collision fragments exceeds population. Only remediation of the near-Earth
+Monte Carlo approach to simulate future on- the number of decaying debris, forcing the total environment—the removal of existing large
+orbit explosions and collisions (16). A total of 50 satellite population to increase. An average of objects from orbit—can prevent future problems
+18.2 collisions (10.8 catastrophic, 7.4 noncata- for research in and commercialization of space.
+strophic) would be expected in the next 200 For the near term, no single remediation tech-
+years (19, 20). nique appears to be both technically feasible and
+A detailed analysis indicates that the pre- economically viable. Electrodynamic tethers or
+dicted catastrophic collisions and the resulting drag enhancement structures could rapidly
+population increase are nonuniform throughout accelerate the orbital decay of decommissioned
+LEO (see chart on , top left). About spacecraft and rocket bodies, but attaching such
+60% of all catastrophic collisions occur between devices to the satellites with conventional
+900- and 1000-km altitudes. The number of robotic means would incur excessive costs for
+)OEL
+,mc
+01>(
+stcejbo
+fo
+rebmun
+evitceffE
+12000 Total Intacts and mission-related debris
+Explosion fragments
+10000 Collision fragments
+
+0591 0791 0991 0102 0302 0702 0902
+Year
+0502 0112 0312 0512 0712 0912 0122
+Space junk represents a growing threat to
+commercialization and other activities in space.
+Growth of future debris populations.Effective number of LEO objects, 10 cm
+and larger, from the LEGEND simulation. The effective number is defined as the
+fractional time, per orbital period, an object spends between 200- and 2000-km
+altitudes. Intacts are rocket bodies and spacecraft that have not experienced
+breakups.
+1J.-C. Liou is in the Engineering Science Contract Group
+(ESCG)/ERC at NASAJohnson Space Center, Mail Code
+JE104, 2224 Bay Area Boulevard, Box 7, Houston, TX
+77058, USA. 2N. L. Johnson is in the Orbital Debris
+Program Office, NASAJohnson Space Center, Houston, TX
+77058, USA.
+*Author for correspondence. E-mail: jer-chyi.liou1@
+jsc.nasa.gov
+Published by AAAS
+Downloaded
+from
+
+on
+January
+3,
+
+POLICYFORUM
+5.E–08 2204
+
+4.E–08
+3.E–08
+2.E–08
+1.E–08
+0.E–00
+the benefit gained. Even if a single remediating 6. Orbital Debris Q. News9(2), 1 (2005). long-term F10.7 projection is a repeat of a 13-month
+vehicle carried several deorbiting packages 7. D. J. Kessler, Adv. Space Res. 11(12), 63 (1991). running smoothed average cycle derived from solar
+8. S.-Y. Su, Adv. Space Res. 13(8), 221 (1993). cycles 18 to 23. Asimple smooth function is used to
+within the same altitude and inclination, the
+9. A. Rossi, A. Cordelli, P. Farinella, L. Anselmo, J. Geophys. interpolate the two solar flux components during the
+energy requirements to visit multiple target Res. Planets99(E11), 23195 (1994). transition. Explosion probabilities of future rocket bodies
+spacecraft would normally be high due to differ- 10. L. Anselmo, A. Cordelli, P. Farinella, C. Pardini, A. Rossi, and spacecraft were based on an analysis of launch his-
+ences in target orbital planes (26, 27). “Modelling the evolution of the space debris population: tory and recent explosions. Vehicle types with a history of
+Recent research work in Pisa”[European Space Agency explosion, but which have had the breakup causes fixed,
+The placement of ion engines on the satellites
+(ESA) SP-393, 339-344, European Space Operations were not included. Collision probabilities among objects
+in order to direct them back to Earth would have Centre (ESOC), Darmstadt, Germany, 1997]. were estimated with a fast pair-wise comparison algo-
+the same problems as the previously mentioned 11. D. J. Kessler, “Critical Density of Spacecraft in Low Earth rithm, Cube (15). The size threshold of objects in colli-
+strategies and, in addition, would require signifi- Orbit” (NASAJSC-28949, NASAJohnson Space Center, sion considerations and in populations shown in the fig-
+Houston, TX, 2000). ures in this Policy Forum was selected to be 10 cm.
+cant, long-term power and attitude control sub-
+12. D. J. Kessler, P. D. Anz-Meador, “Critical number of space- Historically, this is the detection limit of the Space
+systems. Current manned spacecraft cannot craft in Low Earth Orbit: Using satellite fragmentation Surveillance Network sensors, and more than 95% of the
+reach the key orbital regimes above 600 km and data to evaluate the stability of the orbital debris envi- debris population mass is in objects 10 cm and larger.
+are even more expensive than robotic missions. ronment” (ESASP-473, 265-272, ESOC, Darmstadt, 19. Acatastrophic collision occurs when the ratio of impact
+Germany, 2001). energy to target mass exceeds 40 J/g. The outcome of a
+The use of ground-based lasers to perturb the
+13. P. H. Krisko, J. N. Opiela, D. J. Kessler, “The critical den- catastrophic collision is the total fragmentation of the
+orbits of the satellites is not now practical sity theory in LEO as analyzed by EVOLVE 4.0” (ESASP- target, i.e., resident space object, whereas a noncata-
+because of the considerable mass of the satellites 473, 273-278, ESOC, Darmstadt, Germany, 2001). strophic collision only results in minor damage to the tar-
+and the consequent need to deposit extremely 14. J.-C. Liou, D. T. Hall, P. H. Krisko, J. N. Opiela, Adv. Space get and generates a small amount of debris that has min-
+Res. 34(5), 981 (2004). imal contribution to population growth.
+high amounts of energy on the vehicles to effect
+15. J.-C. Liou, Adv. Space Res., in press (doi:10.1016/j.asr.2005. 20. N. L. Johnson, P. H. Krisko, J.-C. Liou, P. D. Anz-Meador,
+the necessary orbital changes. 06.021). Adv. Space Res. 28(9), 1377 (2001).
+Hence, the success of any environmental 16.Within a given projection time step, once the explosion 21. NASAOrbital Debris Program Office (
+remediation policies will probably be dependent probability is estimated for an intact object, a random jsc.nasa.gov/).
+number is drawn and compared with the probability to 22. Inter-Agency Space Debris Coordination Committee
+on the development of cost-effective, innovative
+determine if an explosion would occur. Asimilar procedure (IADC) members include national space agencies of the
+ways to remove existing derelict vehicles. The is applied to collisions for each pair of target and projectile United States, the Russian Federation, China, Japan,
+development of this new technology may require involved within the same time step. Because of the nature India, France, Germany, Italy, and the United Kingdom,
+both governments and the private sector working of the Monte Carlo process, multiple projection runs must as well as the ESA.
+be performed and analyzed before one can draw reliable 23. “ESOC: focal point for ESAspace debris activities”
+together. Without environment remediation and
+and meaningful conclusions from the outcome. (
+the wide implementation of existing orbital 17. Astatistical analysis of LEGEND predictions, based on the 24. “Space debris and space envionment” (
+debris mitigation policies and guidelines, the bootstrap method, indicates that the average from 50 sions/projects/engineering/space/debris/index_e.html).
+risks to space system operations in near-Earth Monte Carlo runs leads to a standard error of the average 25. IADC Space Debris Mitigation Guidelines(IADC-02-01,
+on the order of 5% or less, which was sufficient for the Inter-Agency Space Debris Coordination Committee,
+orbits will continue to climb.
+recent study. 2002); (
+18. On the other hand, satellite explosions, the principal 26. The energy requirements to visit satellites at the same
+References and Notes source of debris larger than 10 cm now in orbit about the altitude and inclination in different orbital planes can
+1. Interagency Report on Orbital Debris(Office of Science Earth (5), were permitted at their current historical rates. be reduced by maneuvering the remediating vehicle to a
+and Technology Policy, U.S. National Science and All objects were propagated forward in time while different altitude, taking advantage of differential pre-
+Technology Council, Washington, DC, 1995). decayed objects were removed from the environment cession of the line of nodes due to the Earth’s oblate-
+2. “Technical Report on Space Debris: Text of the Report immediately. Perturbations included in the orbit propa- ness, and then returning to the altitude of interest. This
+adopted by the Scientific and Technical Subcommittee of gator are Earth’s solar-lunar gravitational perturbations, concept was described by one of the authors (Johnson)
+the United Nations Committee on the Peaceful Uses of atmospheric drag, and solar radiation pressure, as well as as means for more economically removing nuclear
+Outer Space” (United Nations, New York, 1999). Earth’s shadow effects. The simulation program outputs power reactors from Earth orbit (27). The amount of pro-
+3. Orbital Debris Q. News9(1), 10 (2005), ( the orbital elements and other physical properties of the pellant savings derived from this technique is dependent
+bris.jsc.nasa.gov/newsletter/newsletter.html). objects at the end of each year for post processing analy- upon the time one is willing to wait between remedia-
+4. Orbital Debris Q. News9(3), 10 (2005). sis. The solar flux F10.7 values used in the projection tion operations.
+5. N. L. Johnson, D. O. Whitlock, P. D. Anz-Meador, E. M. period have two components: a short-term projection 27. N. L. Johnson, Space Policy2(3), 223 (1986)].
+Cizek, S. A. Portman, History of On-Orbit Satellite [2005–2007, obtained from U.S. National Oceanic and
+Fragmentations(SC-62530, NASAJohnson Space Center, Atmospheric Administration (NOAA) Space Environment
+Houston, TX, ed. 13, 2004). Center] and a long-term projection (2008–2204). The 10.1126/science1121337
+ SCIENCE VOL 311 20 341
+002 003 004 005 006 007 008 009 0001 0011 0021 0031 0041 0051 0061 0071 0081 0091 0002
+Altitude (km)
+)3mk/jbo(
+ytisned
+laitapS
+Projected environment.Spatial density distributions, for objects 10 cm and
+larger, for three different years.
+)mk
+0001–009
+,mc
+01>(
+stcejbo
+fo
+rebmun
+evitceffE
+3500 Total
+Intacts and mission-related debris
+3000 Explosion fragments
+Collision fragments
+
+0591 0791 0991 0102 0302 0702 0902
+Year
+0502 0112 0312 0512 0712 0912 0122
+The red zone.Effective number of objects, 10 cm and larger, between 900- and
+1000-km altitudes from the LEGEND simulation.
+Published by AAAS
+Downloaded
+from
+
+on
+January
+3,
+
+Risks in Space from Orbiting Debris
+J.-C. Liou and N. L. Johnson
+Science 311 (5759), 340-341.
+DOI: 10.1126/science.1121337
+ARTICLE TOOLS 
+REFERENCES This article cites 9 articles, 0 of which you can access for free
+
+PERMISSIONS 
+Use of this article is subject to the Terms of Service
+Science (print ISSN 0036-8075; online ISSN 1095-9203) is published by the American Association for the Advancement of
+Science, 1200 New York Avenue NW, Washington, DC 20005. 2017 © The Authors, some rights reserved; exclusive
+licensee American Association for the Advancement of Science. No claim to original U.S. Government Works. The title
+Science is a registered trademark of AAAS.
+Downloaded
+from
+
+on
+January
+3,

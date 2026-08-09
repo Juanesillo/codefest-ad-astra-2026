@@ -1,0 +1,43 @@
+Fenómeno: F1 — IA y Capacidades Estratégicas, Observatorio: AI_Index_Stanford, Código: AIINDEX, PDF: 44, JSON: 0, CSV: 17, Excel: 4, Imagen: 0, Texto: 0, PBF (Mapas): 0, Total datos: 65
+
+Fenómeno: F1 — IA y Capacidades Estratégicas, Observatorio: Atlantic_Council, Código: ATLCOUNCIL, PDF: 0, JSON: 186, CSV: 0, Excel: 0, Imagen: 0, Texto: 0, PBF (Mapas): 0, Total datos: 186
+
+Fenómeno: F1 — IA y Capacidades Estratégicas, Observatorio: CENIA, Código: CENIA, PDF: 12, JSON: 15, CSV: 0, Excel: 0, Imagen: 0, Texto: 0, PBF (Mapas): 0, Total datos: 27
+
+Fenómeno: F1 — IA y Capacidades Estratégicas, Observatorio: CSET_Georgetown, Código: CSET, PDF: 127, JSON: 0, CSV: 0, Excel: 0, Imagen: 0, Texto: 0, PBF (Mapas): 0, Total datos: 127
+
+Fenómeno: F1 — IA y Capacidades Estratégicas, Observatorio: DAIO, Código: DAIO, PDF: 33, JSON: 1, CSV: 1, Excel: 0, Imagen: 0, Texto: 0, PBF (Mapas): 0, Total datos: 35
+
+Fenómeno: F1 — IA y Capacidades Estratégicas, Observatorio: Defensa21_LatAm, Código: DEFENSA21, PDF: 0, JSON: 2, CSV: 0, Excel: 0, Imagen: 0, Texto: 0, PBF (Mapas): 0, Total datos: 2
+
+Fenómeno: F1 — IA y Capacidades Estratégicas, Observatorio: ILIA_Latam, Código: ILIA, PDF: 10, JSON: 0, CSV: 0, Excel: 0, Imagen: 0, Texto: 0, PBF (Mapas): 0, Total datos: 10
+
+Fenómeno: F1 — IA y Capacidades Estratégicas, Observatorio: RutaN_GEIAL, Código: RUTAN, PDF: 5, JSON: 1, CSV: 1, Excel: 0, Imagen: 0, Texto: 0, PBF (Mapas): 0, Total datos: 7
+
+Fenómeno: F2 — Seguridad del Entorno Espacial, Observatorio: CSIS_Aerospace, Código: CSIS, PDF: 110, JSON: 103, CSV: 1, Excel: 0, Imagen: 0, Texto: 0, PBF (Mapas): 0, Total datos: 214
+
+Fenómeno: F2 — Seguridad del Entorno Espacial, Observatorio: ESA_Space_Debris, Código: ESA, PDF: 24, JSON: 16, CSV: 0, Excel: 0, Imagen: 0, Texto: 0, PBF (Mapas): 0, Total datos: 40
+
+Fenómeno: F2 — Seguridad del Entorno Espacial, Observatorio: INPE, Código: INPE, PDF: 4, JSON: 55, CSV: 0, Excel: 0, Imagen: 0, Texto: 0, PBF (Mapas): 0, Total datos: 59
+
+Fenómeno: F2 — Seguridad del Entorno Espacial, Observatorio: SWF_Counterspace, Código: SWF, PDF: 68, JSON: 56, CSV: 1, Excel: 0, Imagen: 8, Texto: 1, PBF (Mapas): 1, Total datos: 135
+
+Fenómeno: F2 — Seguridad del Entorno Espacial, Observatorio: UNOOSA, Código: UNOOSA, PDF: 31, JSON: 0, CSV: 0, Excel: 0, Imagen: 0, Texto: 0, PBF (Mapas): 0, Total datos: 31
+
+Fenómeno: F3 — Dinámicas Territoriales, Observatorio: Alertas_Tempranas, Código: ALERTAS, PDF: 62, JSON: 363, CSV: 0, Excel: 0, Imagen: 0, Texto: 0, PBF (Mapas): 0, Total datos: 425
+
+Fenómeno: F3 — Dinámicas Territoriales, Observatorio: Amazon_Underworld, Código: AMAZONUW, PDF: 0, JSON: 1, CSV: 1, Excel: 0, Imagen: 0, Texto: 0, PBF (Mapas): 73, Total datos: 75
+
+Fenómeno: F3 — Dinámicas Territoriales, Observatorio: CEEEP, Código: CEEEP, PDF: 0, JSON: 80, CSV: 0, Excel: 0, Imagen: 0, Texto: 0, PBF (Mapas): 0, Total datos: 80
+
+Fenómeno: F3 — Dinámicas Territoriales, Observatorio: CEOBS, Código: CEOBS, PDF: 17, JSON: 20, CSV: 1, Excel: 0, Imagen: 0, Texto: 0, PBF (Mapas): 0, Total datos: 38
+
+Fenómeno: F3 — Dinámicas Territoriales, Observatorio: MAPP_OEA, Código: MAPPOEA, PDF: 33, JSON: 1, CSV: 1, Excel: 0, Imagen: 0, Texto: 0, PBF (Mapas): 0, Total datos: 35
+
+Fenómeno: F3 — Dinámicas Territoriales, Observatorio: RESDAL, Código: RESDAL, PDF: 105, JSON: 1, CSV: 1, Excel: 0, Imagen: 0, Texto: 0, PBF (Mapas): 0, Total datos: 107
+
+Fenómeno: F3 — Dinámicas Territoriales, Observatorio: SIPRI, Código: SIPRI, PDF: 74, JSON: 53, CSV: 1, Excel: 0, Imagen: 0, Texto: 0, PBF (Mapas): 0, Total datos: 128
+
+Fenómeno: F3 — Dinámicas Territoriales, Observatorio: Wilson_Center, Código: WILSON, PDF: 0, JSON: 0, CSV: 0, Excel: 0, Imagen: 0, Texto: 0, PBF (Mapas): 0, Total datos: 0
+
+Fenómeno: TOTAL, PDF: 759, JSON: 954, CSV: 26, Excel: 4, Imagen: 8, Texto: 1, PBF (Mapas): 74, Total datos: 1826

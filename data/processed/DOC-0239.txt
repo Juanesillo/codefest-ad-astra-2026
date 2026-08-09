@@ -1,0 +1,458 @@
+Design choices of Central Bank Digital Currencies will transform digital payments and geopolitics
+
+In this analysis, the Atlantic Council GeoTech Center examines the geopolitical implications of Central Bank Digital Currencies (CBDCs) and calls for the United States to lead on setting standards for CBDC and financial technology.
+
+CBDCs will be used by countries to create new monetary systems that will be leveraged in great power competition to form economic alliances, avoid sanctions, and depending on design potentially surveil the transactions associated with users of the currencies. World leaders from both the public and private sectors must understand CBDCs because, depending on the technology design choices, CBDCs will:
+
+Revolutionize the way money is exchanged and payments are made
+
+Redefine the relationship between the state, private sector financial institutions, and technology companies
+
+Give countries the ability to design independent payments systems that operate separate from the US dollar-based order
+
+The Stone, Bronze, and Iron ages each reflect the tools used to craft civilization. In the current digital age, money is being transformed to reflect the most valued asset, data. No longer is money rooted in printed cash that has exchanged thousands of hands; instead, its digitization has changed the way people transact and institutions conduct business. What began as the first electronic payment offered by Western Union in the 1870s has become sprawling digital payments ecosystems. The latest innovation is entirely new non-state types of money predicated on cryptography. Just like fiat currency, these new forms of money are able to serve as a unit of account, store of value, and medium of exchange. The payment evolution’s only logical end is the digitization of the state-backed currency created by the central bank: the central bank digital currency (CBDC).
+
+This analysis consists of two parts. Part I explores how CBDCs can improve payments, the underlying factors in a country that are necessary for a CBDC to be effective, and the payment values countries must decide upon. Part II assesses the geopolitical implications of CBDCs. CBDCs challenge the existing order of global payments. They allow countries to create monetary systems that operate independently of the existing US dollar-based order. Furthermore, CBDCs will be a primary tool used by major powers in economic diplomacy to form alliances, subvert sanctions, and collect payment data at a granularity not possible through fiat currency.
+
+This report concludes with a call for the United States to reassert its role as a guiding voice, and set standards for CBDC and financial technology. CBDC development is driven by a host of nations, each determining their own set of values and some looking to export these values. Global economic stability and prosperity hinges upon shared working norms. In 1944, the United States ushered in an era of unprecedented monetary stability when it established the US dollar as the global reserve currency. American leadership is needed once again.
+
+Part I. Central Bank Digital Currency and its Opportunities
+
+Central bank digital currency is a new form of digital currency offered by a central bank to replace fiat cash. Like cryptocurrencies and other private payment providers, central banks give users the ability to make digital payments without the use of physical cash. CBDCs would be a liability of the state (unlike private payment platforms which are managed by private companies and cryptocurrencies which are managed by protocols). Governments in advanced economies are exploring CBDCs as a means to curb the growth of private payment providers and cryptocurrencies, which they see as a competitive risk to central bank-issued cash. Governments in emerging markets are interested in CBDCs as a means to promote financial inclusion and more effective digital payments systems.
+
+CBDC, while novel in its creation, utilizes existing technology that underpins private payment providers and cryptocurrency.
+
+Digital Ledger: CBDCs are based on a digital ledger, or database, which keeps track of CBDC ownership and transactions by users who have accounts on the ledger. The ledger will likely be centralized in the form of a core ledger managed by the issuing central bank. On this core ledger, the central bank would issue CBDCs and process transactions. The core ledger could have some decentralized features based on distributed ledger technology, in which maintenance or processing of transactions could be performed by a group of entities rather than a single body. Distributed ledger technology is unlikely to be fully embraced due to technical limitations, but certain characteristics of it are being explored by central banks such as programmability, ledger management, and use of cryptography. The government faces a number of costs and benefits based on the design choices and so must choose what it believes best serves the purposes of the payments system (e.g. resilience, bandwidth, scalability, transaction speed).
+
+Account-Based System or Digital Tokens: An account-based system or digital tokens determines how users are represented and make transactions in the payments system. In an account-based model, transactions are recorded in the database and referenced to individual identities. For this to be done en masse, a digital identity system is needed for every user. Alternatively, a digital token-based system utilizes public-private key pairs and digital signatures to sign a message and make a transaction. A token-based system offers universal access since a user identity is not required, also allowing for high levels of privacy. The challenge, however, is that users must remember their private key, or they lose access to their funds. Furthermore, it is difficult to create an effective anti-money laundering and know your customer framework on a tokenized system.
+
+Digital Wallet: A digital wallet is a system that securely stores payment information for users to make transactions. Account-based and digital token systems both require some form of digital wallet that gives users the ability to securely store money. Digital wallets could either be offered by the government or a private entity.
+
+Wholesale or Retail Interlinkages and Application Program Interfaces (APIs): CBDCs can be wholesale, retail, or both. A wholesale CBDC is designed specifically for financial institutions. A retail CBDC, on the other hand, is issued directly to the general public. Depending on the type of CBDC being implemented, linkages must be developed across platforms. Wholesale CBDCs will require linkages with financial institutions, securities and foreign exchange platforms, and other financial market systems. A retail CBDC will require linkages to consumer payment applications, foreign exchange systems, and digital wallets. APIs will be necessary for these linkages, connecting users to the core ledger and to one another to create the overall payment network.
+
+The underlying technology of CBDCs (digital ledgers, account-based systems, digital tokens, digital wallets, and APIs) has existed for decades. Recent advances in financial technology and cryptography, however, have allowed for the creation of digital payment ecosystems that are resilient, protect privacy, avoid double-counting, and quickly process large volumes of transactions. Furthermore, broad adoption of financial technology by companies and individuals, as well as the accessibility of smartphones, makes CBDC a possible replacement to fiat currency.
+
+Based on this technology, CBDC offers several key advantages to traditional fiat currency.
+
+More consumer protection and security than that offered by private payment providers: Central banks are heavily incentivized to ensure a robust payments system and protect consumer data from private firms. Private payment providers, on the other hand, do not value social costs the same as central banks. Consequently, private payment providers are not incentivized to invest in security and resiliency measures to the same degree as central banks. Private companies also have strong incentives to collect and monopolize on the “data exhaust” produced by CBDC flows.
+
+Promote financial inclusion through inclusive mobile money: Cash may be difficult to obtain for underpopulated and rural communities due to lack of bank branches and mechanisms to safely distribute cash. This is likely to worsen as more people adopt digital forms of money. Unbanked people also may be unable to access private digital payments systems. CBDCs would provide individuals access to a digital payments system without a private bank account.
+
+Reduce costs associated with issuing and managing cash: Issuing and managing cash is expensive, with costs including printing, distribution, and replacement. For example, the costs of issuing and managing cash in the Euro area is 0.5% of GDP.
+
+Enhance monetary policy and more effectively manage money supply: Interest-bearing CBDCs would increase the economy’s response to interest rate changes. CBDCs could also be used to charge negative interest rates in the case of an economic crisis.
+
+Determining Whether a CBDC is Possible
+
+Central banks have choices to make when determining whether to create a CBDC. The first step is deciding whether a CBDC is an effective tool given the economic circumstances of the country and the level of technology accessible to institutions and citizens. Countries need certain technical and infrastructure capabilities if CBDCs are to be a worthwhile project.
+
+Comprehensive Digital Infrastructure: CBDC requires digital infrastructure; it is an ineffective solution in cash-based economies with poor internet connectivity, low smartphone penetration, and general inability to access technology. For CBDCs to be realized, a lion’s share of the populace across all demographics needs access to digital infrastructure. Additionally, CBDCs have technological requirements that must be met.
+
+A Well-Functioning Central Bank: CBDCs give central banks new responsibilities that add considerable costs and risks. CBDCs require central banks to take on a number of new operations such as interfacing with customers, maintaining technology, being responsible for anti-money laundering, avoiding human errors, etc. Additionally, the central bank may need to intervene on behalf of the banking sector if CBDCs replace the use of retail bank accounts (banking-sector disintermediation). Lastly, retail CBDCs would cause a central bank’s balance sheet to grow significantly.
+
+Effective Governance: CBDCs will involve new forms of digital payments and change the role of central banks and private financial institutions. New policies and regulations will be needed for: consumer protection, financial stability, anti-money laundering and know your customer frameworks, cybersecurity, etc. Government bodies, therefore, will need to be capable of taking on this new challenge to promote a financial and payments system that benefits the country.
+
+Financial Technology Knowledge by the Central Bank and Government: CBDC development requires technical expertise. While the creation of digital notes, user interfaces, digital wallets, and payments infrastructure can be outsourced to government contractors, members of the central bank and government officials will need to understand the implications and risks of the technical design. By understanding the design, the central bank and government can put in place appropriate policies and regulations to manage the payments infrastructure and create a system that promotes economic prosperity.
+
+Political Will and the Values of the CBDC-based Payments System
+
+Central banks have a number of design choices. These include the architecture of the system, type of ledger, account-based vs. token, and linkages with other institutions. Design choices will be predicated on the constraints listed above, and just as importantly, on political will.
+
+Politics will be central to the success or failure of CBDC development. Political decisions will need to be made on the values of the payments system to be adopted by users—a CBDC will be the primary factor in the allocation of resources after all. Political decision-making will revolve on the following payments system values:
+
+How/when CBDCs and digital currencies are used in daily transactions
+
+Role of the central bank and other financial institutions
+
+The CBDC will be designed accordingly based on the values agreed upon by political actors. Once implemented, the design will have far-reaching implications on domestic and international institutions.
+
+Part II. Central Bank Digital Currency and its Geopolitical Implications
+
+In , 730 delegates representing 44 states convened in Bretton Woods, New Hampshire to create a new international monetary system led by the United States. This system, in which the US dollar (pegged to gold) was made the international reserve currency, would promote global stability and economic growth.
+
+The Bretton Woods system eventually ended in 1971 when the US dollar was de-pegged from gold, but its legacy remains. The US dollar today remains the global reserve currency, serving as a unit of account, store of value, and medium of exchange. Over 60% of all foreign central bank reserves are denominated in dollars, and over half of cross-border trade is denominated in US dollars. As a result, most international transactions are cleared by US-based banks.
+
+The Federal Reserve is the epicenter of payment settlement—performed by correspondent banks which transfer money between accounts held by the Fed. Additionally, the US maintains significant control over the Society for Worldwide Interbank Financial Telecommunication (SWIFT), the cross-border messaging system necessary for banks to make transactions. Global transactions rarely happen without interfacing with the US dollar.
+
+Overall, the current global payments system is based on American values. Many payments are conducted through the United States banking system of the Fed and private financial institutions (commercial, investment, and correspondent banks). United States laws and policies that regulate the operations of financial institutions therefore have far-reaching implications on the transactions performed outside the country.
+
+The Wall Street Journal showcases this by describing a transaction between a Canadian lumber company and a French purchaser: “A Canadian lumber company sells boards to a French buyer. The buyer’s bank in France and the seller’s bank in Canada settle the payment, in dollars, via “correspondent banks” that have accounts at the Fed. The money is transferred seamlessly between the banks’ Fed accounts because their status as correspondent banks means they are seen as safe counterparties. The use of these accounts, the U.S. says, means every transaction technically touches U.S. soil, giving it legal jurisdiction.”
+
+The United States has leveraged this hegemony and weaponized the US dollar in recent decades, using it as a means to impose sanctions with greater frequency. Specifically, the United States has restricted the use of US dollars or forced SWIFT to prevent cross-country interbank transactions from sanctioned parties; other parties have limited power in working around US-imposed sanctions.
+
+A New Payments Ecosystem Independent from the US Dollar
+
+The US dollar is unlikely to be replaced as the global reserve currency in the immediate future. CBDCs, however, give countries the ability to operate outside the US dollar-led system by serving as a means to create independent payment mechanisms that link financial institutions together without the need for correspondent banks and SWIFT. This allows countries to:
+
+Establish their own independent values for a monetary system
+
+Export payment system values independent from the current global system and make financial transfers to sanctioned and rogue parties without international oversight
+
+Collect transaction data, also know as “digital exhaust”, at the individual level
+
+China and the Creation of an Alternate Payment Mechanism
+
+China’s primary desire for a CBDC has been in response to projects like Bitcoin and Facebook’s Libra, which risk establishing payment values different from the Chinese Communist Party. While China does not look to upend the US dollar-based system or replace the US dollar as the global reserve currency, it is in the country’s best interests to have a payment process that does not rely on the US dollar. The geopolitical implications of a Chinese CBDC, therefore, are a critical issue.
+
+China has made extensive efforts to develop a CBDC and has completed the “top-level” design. Recently, the Agriculture Bank of China issued a test app for mobile phones and the People’s Bank of China began a pilot program to introduce a digital currency in four cities. While the full design is yet to be revealed, the Chinese CBDC as of now is meant to only partially replace current cash in circulation. The CBDC would be issued to commercial banks that would then re-distribute the CBDC to the retail market; it is not meant to threaten the retail banking sector.
+
+The immediate effects of a Chinese CBDC on global payments will be minimal, but the long-term ramifications cannot be understated. The Chinese CBDC fits within a greater context of the country’s efforts to create an independent payments system based on its Cross-Border Inter-Bank Payments System (CIPS). CIPS provides clearing and settlement services for cross-border RMB transactions, and is expected to eventually feature an independent messaging system that does not utilize SWIFT. Furthermore, Chinese payment applications like Alipay and WeChat Pay allow for direct payment transfers between Chinese citizens. Together, a Chinese CBDC, CIPS, and China’s robust digital payments ecosystem would result in a digital ecosystem that facilitates rapid and efficient payments across the country.
+
+This payments ecosystem, when developed, can be exported to incorporate other countries. Alipay and WeChat Pay are already making significant inroads in Southeast Asia. Given transaction volume, Southeast Asian central banks will find it advantageous to join CIPS for more efficient financial transfers. Belt and Road Initiative countries will find similar benefits as they take Chinese loans and look to improve their financial infrastructure. Africa’s payments in RMB increased by 123% from 2016 to 2019—it is no surprise then that the Chinese government is exploring how to integrate a CBDC with Belt and Road Initiative countries. When fully realized, the Chinese system would allow for cross-border transactions between institutions and individuals without going through correspondent banks. While China may not seek to take on the responsibility of leading the global payments system, a CBDC is a critical piece for the country to solidify an independent economic ecosystem.
+
+Western Europe and the Effort to Determine the Implications of CBDCs
+
+The European Union, befitting its recent role as the global voice on technology regulation, is exploring how CBDCs affect the digital payments landscape and the design features needed to fit existing monetary values. European central banks have not determined whether to launch a CBDC yet. Instead, they are taking the time to understand its opportunities and challenges, particularly regarding CBDC design and the implications on privacy, financial inclusion, private payment providers, payment needs, and financial stability.
+
+Many of the recent efforts were necessitated by the announcement of Libra, which prompted serious questions regarding the role of private companies in the digital payments space. The development of CBDCs by other countries is another sign that European banks must respond. Christine Lagarde as IMF Director made the case for digital currencies, “based on new and evolving requirements for money, as well as essential public policy objectives. My message is that while the case for digital currency is not universal, we should investigate it further, seriously, carefully, and creatively.”
+
+Initially, Sweden was the only country in the European Union considering a CBDC. More recently, France, Germany, and the European Central Bank have also stepped into the fray. France began tests this year to experiment how a CBDC could complete interbank settlement, identify additional advantages of a CBDC, and understand the impact on financial stability. The Bank of France is soliciting applications to experiment the use of a digital euro. The experiment’s objectives are:
+
+“To show how conventional use cases for central bank money can be achieved through a CBDC based on different technologies”
+
+“Identify the benefits of introducing a CBDC for the current ecosystem and understand how a CBDC might foster financial innovation”
+
+“Conduct a detailed analysis of the potential effects of introducing a CBDC on financial stability, monetary policy and the regulatory environment”
+
+While Germany has not made as significant of a step as France, the Bundesbank is also exploring the possibility of a CBDC. The Association of German Banks has advocated for the creation of a digital euro, calling on policymakers “to achieve a social consensus on how programmable digital money can be integrated into the existing financial system.”
+
+The European Central Bank, as one would expect given the work of the German and French central banks, is assessing the potential for a CBDC. They have formed a working group consisting of the Bank of England, the Bank of Japan, the Sveriges Riksbank (Sweden), the Swiss National Bank, and the Bank of International Settlement. The European Central Bank makes the case for CBDCs as a means to address a “fragmented point-of-sale and online payments infrastructure.” The Bank looks to fulfill five objectives:
+
+Full pan-European reach and a seamless customer experience
+
+Convenience and cost efficiency
+
+European identity and governance
+
+Global acceptance in the long run
+
+The ECB hopes that the private industry can offer a solution to these objectives, but is open to creating a CBDC if the need arises.
+
+Further west of the European Union, the United Kingdom released a report examining the opportunities, challenges, and design for a British CBDC. The Bank of England showcased a possible CBDC model to “illustrate the key issues as a basis for further discussion and exploration of the opportunities and challenges that CBDC could pose for payments, the Bank’s objectives for monetary and financial stability, and the wider economy.” While the Bank has not yet determined whether to launch a CBDC, they look to define the key principles that a CBDC should address for monetary and financial stability.
+
+The European CBDC effort is a means to improve the region’s financial system, particularly in the wake of Facebook’s Libra and other private company offerings. The European project was created to economically tie together a number of countries with a history of military conflict. Today, these countries transact with one another heavily and many are interconnected through the euro. The economic alliances already in play necessitate the exploration of CBDCs as a payment innovation that “would be good for the [European] financial center and its integration into the world financial system.” As François Villeroy de Galhau, Governor of the Bank of France, notes, “we as central banks must and want to take up this call for innovation at a time when private initiatives—especially payments between financial players—and technologies are accelerating, and public and political demand is increasing. Other countries have paved the way; it is now up to us to play our part, both ambitiously and methodically.”
+
+A Bank of International Settlements survey of 63 central banks found that 70% are engaged in CBDC work. Some are simply researching its opportunities, while others have or will create a digital currency. Emerging markets are leading the charge, seeing it as a means to improve payments infrastructure and promote financial inclusion as they digitize their economies. The implications are clear: CBDCs will play a critical role in shaping the future of digital payments.
+
+Enter the digital currency horse race. The effects of CBDCs are magnified when linked to other countries. These connections create a fuller digital ecosystem that facilitates more efficient cross-border payments between individuals and institutions. The financial centers of the world see emerging markets up for grabs in the competitive expansion of cross-border digital payments networks. CBDCs serve as a weapon in economic competition. The major powers of the world have no wish to see a CBDC and digital payments design imposed upon them by another country.
+
+Mu Changchun, deputy director at the People’s Bank of China says, “in the future, the process of digital currency issuance will be the way of horse racing, the leader will win the entire market; who is more efficient, who can better serve the public, who it will survive in the future; if a front-runner takes the lead in taking action, the technology they use will be adopted by other parties.”
+
+Similarly, François Villeroy de Galhau, Governor of the Bank of France notes that “I see a certain interest to move quickly on the issue of at least a wholesale [CBDC] to be the first issuer at the international level and thus derive the benefits reserved for a reference [CBDC].”
+
+German Finance Minister Olaf Scholz is most explicit: “such a payment system would be good for the [European] financial center and its integration into the world financial system…We should not leave the field to China, Russia, the U.S. or any private providers.”
+
+CBDCs serve as an opportunity for governments to establish and export norms on the role of currency in society. These norms could set global standards for payments systems. As discussed in Part I, norms include: how/when CBDCs and digital currencies are used in daily transactions, privacy, consumer protection, accessibility/convenience, and the role of the central bank and other financial institutions. In their effort to export payments system values, advanced economies offer emerging markets and other players several opportunities:
+
+Financial Ecosystem: Advanced economies can provide a large financial ecosystem for efficient domestic and cross-country transactions between individuals and institutions. This is particularly useful for countries engaging in significant amounts of trade and remittances, or for countries with lack of trust in domestic institutions. An example would be Belt and Road Initiative countries participating in a payments network led by China.
+
+Technical Support: The IMF finds in their study that “various central banks surveyed plan to outsource CBDC development.” Whether central banks turn to private sector contractors for support or not, launching a CBDC requires technical expertise, digital infrastructure, and financial technology knowledge. Advanced economies can help emerging markets achieve technological leaps in their payments system. Specifically, they can offer support to emerging markets either in the form of letting other countries adopt an interoperable payments system managed by the advanced economy’s central bank and/or providing technical assistance to countries in the development process of a digital payments system.
+
+Circumvent Sanctions: Advanced economies can establish cross-border payment processes with countries under international sanctions or terrorist groups to bypass the US dollar and SWIFT. The European Union, for example, could establish a CBDC payment link to Iran and circumvent United States sanctions. Advanced economies could also purchase digital currencies from sanctioned countries. Venezuela, for example, issued the petro so investors could “do an end run around sanctions imposed against their country by the Trump administration.”
+
+CBDC and the New Currency: Data
+
+In addition to serving as a means for establishing payment alliances and values, the exportation of CBDCs gives governments an even more powerful currency: data. While CBDCs would limit international oversight, central banks will have the ability to track CBDC payments. Transaction data would be centrally housed within the core ledger, giving governments the ability to monitor the economy and determine interventions. Privacy, however, is at risk. The central bank would be able to identify individual users and payment flows, making the anonymity currently offered by cash obsolete. Governments would be able to track payment flows domestically and internationally. As a result, governments could more effectively repress opposition groups or tacitly support the funding of terrorist organizations.
+
+Furthermore, individuals and financial institutions of countries who have adopted another country’s CBDC-based payments system could see their financial transactions being tracked and collected. CBDCs would allow for an unprecedented level of intrusion by a foreign central bank, which would have visibility into transactions well beyond what is possible with the US dollar-based system. Similar to privacy concerns around private payment providers, CBDCs pose the heightened risk that a government is privy to payments information. As a result, the technical design of the ledger and CBDC system will need to be heavily examined to ensure a level of privacy that guarantees national sovereignty.
+
+Missing in Action: The United States and the Need for a Global Voice
+
+Unlike Bretton Woods, no clear voice has emerged to define the standards for CBDCs. The United States thus far has no plans to develop a CBDC. In a letter to Congress, United States Federal Reserve Chairman Jerome Powell writes that “the characteristics that make the development of central bank digital currency more immediately compelling for some countries differ from those of the US.” Given the robust payments landscape in the United States, Powell’s reasoning makes sense. The claim that United States does not need a CBDC at the moment is justifiable.
+
+Missing in this assessment, however, is the need for a global voice on CBDC standards. In 1944, the United States helped usher in financial and economic stability by establishing a system of norms and values that the world could coalesce around. United States reticence this time around has created a vacuum in which countries are exploring CBDC design without a shared set of principles. Countries are establishing their own settlement systems and implementing laws and regulations for private sector payments to operate and innovate around. Furthermore, the vacuum in financial technology leadership is evident by the fact that the private sector is playing an increasingly important role in promoting payments system values for which governments are then forced to respond to after the fact. A key example is recent government responses against Libra.
+
+Whether the United States decides to launch a CBDC or not, it must provide global leadership and support the development of a common set of values for other countries and private sector companies to operate around. The United States made some forays through its response to Libra, culminating in a request for Facebook to halt development. A stronger and more explicit stance is needed. Given the country’s role in global payments, as well as the fact that it houses a substantial portion of private sector innovation, the United States government (specifically Congress, the Federal Reserve, the Securities and Exchange Commission, and the Department of Treasury) should look to establish principles for others to embrace. Specifically, the United States must take on a leadership role to determine common norms around the following values:
+
+The Role of Central Banks: wholesale vs. retail CBDCs and the role of central banks when it comes to allowing and restricting certain types of payments (e.g. terrorism)
+
+CBDC Technology: the technical design for CBDCs, the core ledger, APIs, payment functionality, programmable money, cryptography, an account-based vs. token-based system, and interoperability across central banks
+
+Consumer Protection: privacy and cybersecurity standards for CBDC-based payments systems (both public and private sector) to maintain resiliency, the extent to which central banks and digital payment providers can track payments and identify users, and public disclosure requirements for transparency and reporting
+
+Financial Stability and Integrity: CBDC effects on the banking system, commercial bank deposits, and the implementation of monetary policy
+
+Private Sector Innovation: the role of private sector in the overall payments ecosystem, their protocols, and integration with other providers
+
+Financial inclusion: methods to ensure that CBDCs serve the most marginalized of communities without further entrenching social and economic inequality
+
+CBDCs are a new frontier for payments infrastructure and central banks. Their geopolitical ramifications cannot be underestimated. CBDCs pave the path for circumventing sanctions, forming new alliances, and establishing norms around identity, privacy, innovation, and cybersecurity. The nascent technology, however, is being explored by many countries without a guiding voice on how to ensure prosperity for its end user: the individual. The United States has historically served as the leading nation on global payments guiding both policy and innovation. The country must once again step into the limelight and take on a leading role.
+
+Given the geopolitical implications and current US involvement, world leaders in the private and public sectors will need to:
+
+Explicitly define international values for a digital payments ecosystem that protects users and ensures financial stability
+
+Establish cross-border collaboration across central banks and government agencies on CBDC design, and bring in other countries currently not exploring CBDCs
+
+Craft clear policies and regulations that delineate the role of private sector and public sector innovation in payments systems
+
+Explore public-private partnerships to coordinate innovation and ensure that advancements support central bank efforts to manage the monetary system
+
+Raise the voices of historically marginalized, underserved, and unbanked communities to ensure that new payment designs promote financial inclusion
+
+The development of CBDCs tasks nations and companies to reimagine money in a more equitable and efficient model. Clear voices will be needed to offer common values for the world to coalesce around as the payments system is remade. Global prosperity depends on it.
+
+The Atlantic Council GeoTech Center would like to thank Nikhil Raghuveera for serving as both Guest Author and lead author for this report. Nikhil is a dual degree MBA/MPA student at The Wharton School and the Harvard Kennedy School with a background in economic consulting, nonprofit consulting, cryptocurrency, and venture capital who will be graduating this .
+
+Francis-Pulin, Mia, “Electronic Payments: A Brief History,” Forte Blog.
+
+Mancini-Griffoli et al., “Casting Light on Central Bank Digital Currency,” IMF Staff Discussion Note, .
+
+Auer, Raphael and Rainer Böhme, “The Technology of Retail Central Bank Digital Currency,” BIS Quarterly Review, .
+
+Scorer, Simon, “Central Bank Digital Currency: DLT, or not DLT? That is the Question,” Bank Underground, June 5, 2017.
+
+Tripathi, Ajit, “4 Reasons Central Banks Should Launch Retail Digital Currencies,” CoinDesk, March 21, 2020.
+
+De Meijer, Carlo, “Towards a Central Bank Digital Currency: Retail Versus Wholesale, Finextra, July 26, 2019.
+
+Mancini-Griffoli et al., “Casting Light on Central Bank Digital Currency,” IMF Staff Discussion Note, .
+
+Adrian, Tobias and Tommaso Mancini-Griffoli, “Central Bank Digital Currencies: 4 Questions and Answers,” IMFBlog, December 12, 2019.
+
+Adrian, Tobias and Tommaso Mancini-Griffoli, “Central Bank Digital Currencies: 4 Questions and Answers,” IMFBlog, December 12, 2019.
+
+Mancini-Griffoli et al., “Casting Light on Central Bank Digital Currency,” IMF Staff Discussion Note, .
+
+“Creation of the Bretton Woods System,” Federal Reserve History, November 22, 2013.
+
+Rosalsky, Greg, “75 Years Ago the U.S. Dollar Became the World’s Currency. Will that Last?,” NPR, July 30, 2019.
+
+“Currency Composition of Official Foreign Exchange Reserves,” IMF.
+
+“Dethroning the Dollar, America’s Aggressive Use of Sanctions Endangers the Dollar’s Reign,” The Economist, January 18, 2020.
+
+Goodman, Peter, “The Dollar is Still King. How (in the World) Did That Happen?,” The New York Times, February 22, 2019.
+
+“America’s Aggressive Use of Sanctions Endangers the Dollar’s Reign,” The Economist, January 18, 2020.
+
+Scheck, Justin and Bradley Hope, “The Dollar Underpins American Power. Rivals Are Building Workarounds.,” The Wall Street Journal, May 29, 2019.
+
+Imperiale, Johnpatrick, “Sanctions by the Numbers,” Center for New American Security, February 27, 2020.
+
+Tang, Frank, “Facebook’s Libra Forcing China to Step Up Plans for its Own Cryptocurrency, Says Central Bank Official,” South China Morning Post, July 8, 2019.
+
+Khatri, Yogita, “China’s Central Bank is One Step Closer to Issuing its Digital Currency – Report,” The Block, March 24, 2020.
+
+Cheng, Jonathan, “China Rolls Out Pilot Test of Digital Currency,” The Wall Street Journal, April 20, 2020.
+
+Etienne, Jinze, “First Look: China’s Central Bank Digital Currency,” Binance Research, August 28, 2019.
+
+Yang, Yuan and Hudson Lockett, “What is China’s Digital Currency Plan,” Financial Times, November 25, 2019.
+
+“About the System,” China International Payment Service Corp.
+
+“What is it? CIPS,” BNP Paribas Securities Services, October 22, 2018.
+
+“The Mobile Payments Race: Why China is Leading the Pack —for Now,” Knowledge@Wharton, January 17, 2018.
+
+Wood, Miranda, “How China’s Central Bank Digital Currency Will Help Renminbi to Challenge Dollar,” Ledger Insights.
+
+Slater, Adam, “China’s Central Bank Digital Currency (CBDC) is Close as Alipay Helps Effort,” Asia Crypto Today, March 25, 2020.
+
+Wood, Miranda, “European Central Bank Confirms Exploring Digital Euro as Retail, Wholesale CBDC,” Ledger Insights.
+
+“Central Bank Digital Currency: Opportunities, Challenges and Design Summary,” Bank of England, March 12, 2020.
+
+Lagarde, Christine, “Winds of Change: The Case for New Digital Currency,” IMF, November 14, 2018.
+
+Heasman, Will, “France’s CBDC Test Moves Digital Euro One Step Closer to Reality,” Cointelegraph, April 9, 2020.
+
+Partz, Helen, “Bank of France Launches Experiment Program on Central Bank Digital Currency,” Cointelegraph, March 30, 2020.
+
+“Central Bank Digital Currency Experiments with the Banque de France,” Banque de France.
+
+Dhall, Rajan, “Germany’s Bundesbank are Looking Very Closely at Central Bank Digital Currencies (CBDCs),” FXStreet, August 30, 2019.
+
+Tenner, Tobias and Siegfried Utzig, “German Banks Say: The Economy Needs a Programmable Digital Euro!,” Bankenverband, October 30, 2019.
+
+“Central Bank Group to Assess Potential Cases for Central Bank Digital Currencies,” European Central Bank, January 21, 2020.
+
+“ECB Outlines Issues Relating to Retail Digital Euro,” Ledger Insights.
+
+“Innovation and its Impact on the European Retail Payment Landscape,” European Central Bank, .
+
+“Central Bank Digital Currency: Opportunities, Challenges and Design Summary,” Bank of England, March 12, 2020.
+
+Foxley, William “German Finance Minister Supports Digital Euro, But ‘Very Critical’ of Libra,” Coindesk, October 7, 2019.
+
+Khatri, Yogita, “France’s Central Bank Begins Experimenting with Digital Euro,” The Block, April 1, 2020.
+
+“Central Bank Digital Currencies,” BIS Committee on Payments and Market Infrastructures, .
+
+McIntosh, Rachel, “BIS: Countries with Emerging Economies Are Leading CBDC Development,” Finance Magnates, January 24, 2020.
+
+McIntosh, Rachel, “BIS: Countries with Emerging Economies Are Leading CBDC Development,” Finance Magnates, January 24, 2020.
+
+Wood, Miranda, “China Central Bank: Digital Currency Issuance a “Horse Race”, Won’t Need Bank Accounts,” Ledger Insights.
+
+“France Plans to Test Institutional CBDC in 2020,” Ledger Insights.
+
+Foxley, William “German Finance Minister Supports Digital Euro, But ‘Very Critical’ of Libra,” Coindesk, October 7, 2019.
+
+Mancini-Griffoli et al., “Casting Light on Central Bank Digital Currency,” IMF Staff Discussion Note, .
+
+Semple, Kirk and Nathaniel Popper, “Venezuela Launches Virtual Currency, Hoping to Resuscitate Economy,” The New York Times, February 20, 2018.
+
+Vigna, Paul, “Brace for the Digital-Money Wars,” The Wall Street Journal, December 7, 2019.
+
+Munro, Andrew, “US Fed: Here are 9 Reasons Why We’re Not Creating a US Digital Currency,” Finder, NOvemer 29, 2019.
+
+O’Neal Stephen, “Facebook Libra Regulatory Overview: Major Countries’ Stances on Crypto,” Cointelegraph, July 16, 2019.
+
+The GeoTech Center champions positive paths forward that societies can pursue to ensure new technologies and data empower people, prosperity, and peace.
+
+Related Experts: David Bray and
+
+In this analysis, the Atlantic Council GeoTech Center examines the geopolitical implications of Central Bank Digital Currencies (CBDCs) and calls for the United States to lead on setting standards for CBDC and financial technology.
+CBDCs will be used by countries to create new monetary systems that will be leveraged in great power competition to form economic alliances, avoid sanctions, and depending on design potentially surveil the transactions associated with users of the currencies. World leaders from both the public and private sectors must understand CBDCs because, depending on the technology design choices, CBDCs will:
+Revolutionize the way money is exchanged and payments are made
+Redefine the relationship between the state, private sector financial institutions, and technology companies
+Give countries the ability to design independent payments systems that operate separate from the US dollar-based order
+The Stone, Bronze, and Iron ages each reflect the tools used to craft civilization. In the current digital age, money is being transformed to reflect the most valued asset, data. No longer is money rooted in printed cash that has exchanged thousands of hands; instead, its digitization has changed the way people transact and institutions conduct business. What began as the first electronic payment offered by Western Union in the 1870s has become sprawling digital payments ecosystems. The latest innovation is entirely new non-state types of money predicated on cryptography. Just like fiat currency, these new forms of money are able to serve as a unit of account, store of value, and medium of exchange. The payment evolution’s only logical end is the digitization of the state-backed currency created by the central bank: the central bank digital currency (CBDC).
+This analysis consists of two parts. Part I explores how CBDCs can improve payments, the underlying factors in a country that are necessary for a CBDC to be effective, and the payment values countries must decide upon. Part II assesses the geopolitical implications of CBDCs. CBDCs challenge the existing order of global payments. They allow countries to create monetary systems that operate independently of the existing US dollar-based order. Furthermore, CBDCs will be a primary tool used by major powers in economic diplomacy to form alliances, subvert sanctions, and collect payment data at a granularity not possible through fiat currency.
+This report concludes with a call for the United States to reassert its role as a guiding voice, and set standards for CBDC and financial technology. CBDC development is driven by a host of nations, each determining their own set of values and some looking to export these values. Global economic stability and prosperity hinges upon shared working norms. In 1944, the United States ushered in an era of unprecedented monetary stability when it established the US dollar as the global reserve currency. American leadership is needed once again.
+Part I. Central Bank Digital Currency and its Opportunities
+Central bank digital currency is a new form of digital currency offered by a central bank to replace fiat cash. Like cryptocurrencies and other private payment providers, central banks give users the ability to make digital payments without the use of physical cash. CBDCs would be a liability of the state (unlike private payment platforms which are managed by private companies and cryptocurrencies which are managed by protocols). Governments in advanced economies are exploring CBDCs as a means to curb the growth of private payment providers and cryptocurrencies, which they see as a competitive risk to central bank-issued cash. Governments in emerging markets are interested in CBDCs as a means to promote financial inclusion and more effective digital payments systems.
+CBDC, while novel in its creation, utilizes existing technology that underpins private payment providers and cryptocurrency.
+Digital Ledger: CBDCs are based on a digital ledger, or database, which keeps track of CBDC ownership and transactions by users who have accounts on the ledger. The ledger will likely be centralized in the form of a core ledger managed by the issuing central bank. On this core ledger, the central bank would issue CBDCs and process transactions. The core ledger could have some decentralized features based on distributed ledger technology, in which maintenance or processing of transactions could be performed by a group of entities rather than a single body. Distributed ledger technology is unlikely to be fully embraced due to technical limitations, but certain characteristics of it are being explored by central banks such as programmability, ledger management, and use of cryptography. The government faces a number of costs and benefits based on the design choices and so must choose what it believes best serves the purposes of the payments system (e.g. resilience, bandwidth, scalability, transaction speed).
+Account-Based System or Digital Tokens: An account-based system or digital tokens determines how users are represented and make transactions in the payments system. In an account-based model, transactions are recorded in the database and referenced to individual identities. For this to be done en masse, a digital identity system is needed for every user. Alternatively, a digital token-based system utilizes public-private key pairs and digital signatures to sign a message and make a transaction. A token-based system offers universal access since a user identity is not required, also allowing for high levels of privacy. The challenge, however, is that users must remember their private key, or they lose access to their funds. Furthermore, it is difficult to create an effective anti-money laundering and know your customer framework on a tokenized system.
+Digital Wallet: A digital wallet is a system that securely stores payment information for users to make transactions. Account-based and digital token systems both require some form of digital wallet that gives users the ability to securely store money. Digital wallets could either be offered by the government or a private entity.
+Wholesale or Retail Interlinkages and Application Program Interfaces (APIs): CBDCs can be wholesale, retail, or both. A wholesale CBDC is designed specifically for financial institutions. A retail CBDC, on the other hand, is issued directly to the general public. Depending on the type of CBDC being implemented, linkages must be developed across platforms. Wholesale CBDCs will require linkages with financial institutions, securities and foreign exchange platforms, and other financial market systems. A retail CBDC will require linkages to consumer payment applications, foreign exchange systems, and digital wallets. APIs will be necessary for these linkages, connecting users to the core ledger and to one another to create the overall payment network.
+The underlying technology of CBDCs (digital ledgers, account-based systems, digital tokens, digital wallets, and APIs) has existed for decades. Recent advances in financial technology and cryptography, however, have allowed for the creation of digital payment ecosystems that are resilient, protect privacy, avoid double-counting, and quickly process large volumes of transactions. Furthermore, broad adoption of financial technology by companies and individuals, as well as the accessibility of smartphones, makes CBDC a possible replacement to fiat currency.
+Based on this technology, CBDC offers several key advantages to traditional fiat currency.
+More consumer protection and security than that offered by private payment providers: Central banks are heavily incentivized to ensure a robust payments system and protect consumer data from private firms. Private payment providers, on the other hand, do not value social costs the same as central banks. Consequently, private payment providers are not incentivized to invest in security and resiliency measures to the same degree as central banks. Private companies also have strong incentives to collect and monopolize on the “data exhaust” produced by CBDC flows.
+Promote financial inclusion through inclusive mobile money: Cash may be difficult to obtain for underpopulated and rural communities due to lack of bank branches and mechanisms to safely distribute cash. This is likely to worsen as more people adopt digital forms of money. Unbanked people also may be unable to access private digital payments systems. CBDCs would provide individuals access to a digital payments system without a private bank account.
+Reduce costs associated with issuing and managing cash: Issuing and managing cash is expensive, with costs including printing, distribution, and replacement. For example, the costs of issuing and managing cash in the Euro area is 0.5% of GDP.
+Enhance monetary policy and more effectively manage money supply: Interest-bearing CBDCs would increase the economy’s response to interest rate changes. CBDCs could also be used to charge negative interest rates in the case of an economic crisis.
+Determining Whether a CBDC is Possible
+Central banks have choices to make when determining whether to create a CBDC. The first step is deciding whether a CBDC is an effective tool given the economic circumstances of the country and the level of technology accessible to institutions and citizens. Countries need certain technical and infrastructure capabilities if CBDCs are to be a worthwhile project.
+Comprehensive Digital Infrastructure: CBDC requires digital infrastructure; it is an ineffective solution in cash-based economies with poor internet connectivity, low smartphone penetration, and general inability to access technology. For CBDCs to be realized, a lion’s share of the populace across all demographics needs access to digital infrastructure. Additionally, CBDCs have technological requirements that must be met.
+A Well-Functioning Central Bank: CBDCs give central banks new responsibilities that add considerable costs and risks. CBDCs require central banks to take on a number of new operations such as interfacing with customers, maintaining technology, being responsible for anti-money laundering, avoiding human errors, etc. Additionally, the central bank may need to intervene on behalf of the banking sector if CBDCs replace the use of retail bank accounts (banking-sector disintermediation). Lastly, retail CBDCs would cause a central bank’s balance sheet to grow significantly.
+Effective Governance: CBDCs will involve new forms of digital payments and change the role of central banks and private financial institutions. New policies and regulations will be needed for: consumer protection, financial stability, anti-money laundering and know your customer frameworks, cybersecurity, etc. Government bodies, therefore, will need to be capable of taking on this new challenge to promote a financial and payments system that benefits the country.
+Financial Technology Knowledge by the Central Bank and Government: CBDC development requires technical expertise. While the creation of digital notes, user interfaces, digital wallets, and payments infrastructure can be outsourced to government contractors, members of the central bank and government officials will need to understand the implications and risks of the technical design. By understanding the design, the central bank and government can put in place appropriate policies and regulations to manage the payments infrastructure and create a system that promotes economic prosperity.
+Political Will and the Values of the CBDC-based Payments System
+Central banks have a number of design choices. These include the architecture of the system, type of ledger, account-based vs. token, and linkages with other institutions. Design choices will be predicated on the constraints listed above, and just as importantly, on political will.
+Politics will be central to the success or failure of CBDC development. Political decisions will need to be made on the values of the payments system to be adopted by users—a CBDC will be the primary factor in the allocation of resources after all. Political decision-making will revolve on the following payments system values:
+How/when CBDCs and digital currencies are used in daily transactions
+Role of the central bank and other financial institutions
+The CBDC will be designed accordingly based on the values agreed upon by political actors. Once implemented, the design will have far-reaching implications on domestic and international institutions.
+Part II. Central Bank Digital Currency and its Geopolitical Implications
+In , 730 delegates representing 44 states convened in Bretton Woods, New Hampshire to create a new international monetary system led by the United States. This system, in which the US dollar (pegged to gold) was made the international reserve currency, would promote global stability and economic growth.
+The Bretton Woods system eventually ended in 1971 when the US dollar was de-pegged from gold, but its legacy remains. The US dollar today remains the global reserve currency, serving as a unit of account, store of value, and medium of exchange. Over 60% of all foreign central bank reserves are denominated in dollars, and over half of cross-border trade is denominated in US dollars. As a result, most international transactions are cleared by US-based banks.
+The Federal Reserve is the epicenter of payment settlement—performed by correspondent banks which transfer money between accounts held by the Fed. Additionally, the US maintains significant control over the Society for Worldwide Interbank Financial Telecommunication (SWIFT), the cross-border messaging system necessary for banks to make transactions. Global transactions rarely happen without interfacing with the US dollar.
+Overall, the current global payments system is based on American values. Many payments are conducted through the United States banking system of the Fed and private financial institutions (commercial, investment, and correspondent banks). United States laws and policies that regulate the operations of financial institutions therefore have far-reaching implications on the transactions performed outside the country.
+The Wall Street Journal showcases this by describing a transaction between a Canadian lumber company and a French purchaser: “A Canadian lumber company sells boards to a French buyer. The buyer’s bank in France and the seller’s bank in Canada settle the payment, in dollars, via “correspondent banks” that have accounts at the Fed. The money is transferred seamlessly between the banks’ Fed accounts because their status as correspondent banks means they are seen as safe counterparties. The use of these accounts, the U.S. says, means every transaction technically touches U.S. soil, giving it legal jurisdiction.”
+The United States has leveraged this hegemony and weaponized the US dollar in recent decades, using it as a means to impose sanctions with greater frequency. Specifically, the United States has restricted the use of US dollars or forced SWIFT to prevent cross-country interbank transactions from sanctioned parties; other parties have limited power in working around US-imposed sanctions.
+A New Payments Ecosystem Independent from the US Dollar
+The US dollar is unlikely to be replaced as the global reserve currency in the immediate future. CBDCs, however, give countries the ability to operate outside the US dollar-led system by serving as a means to create independent payment mechanisms that link financial institutions together without the need for correspondent banks and SWIFT. This allows countries to:
+Establish their own independent values for a monetary system
+Export payment system values independent from the current global system and make financial transfers to sanctioned and rogue parties without international oversight
+Collect transaction data, also know as “digital exhaust”, at the individual level
+China and the Creation of an Alternate Payment Mechanism
+China’s primary desire for a CBDC has been in response to projects like Bitcoin and Facebook’s Libra, which risk establishing payment values different from the Chinese Communist Party. While China does not look to upend the US dollar-based system or replace the US dollar as the global reserve currency, it is in the country’s best interests to have a payment process that does not rely on the US dollar. The geopolitical implications of a Chinese CBDC, therefore, are a critical issue.
+China has made extensive efforts to develop a CBDC and has completed the “top-level” design. Recently, the Agriculture Bank of China issued a test app for mobile phones and the People’s Bank of China began a pilot program to introduce a digital currency in four cities. While the full design is yet to be revealed, the Chinese CBDC as of now is meant to only partially replace current cash in circulation. The CBDC would be issued to commercial banks that would then re-distribute the CBDC to the retail market; it is not meant to threaten the retail banking sector.
+The immediate effects of a Chinese CBDC on global payments will be minimal, but the long-term ramifications cannot be understated. The Chinese CBDC fits within a greater context of the country’s efforts to create an independent payments system based on its Cross-Border Inter-Bank Payments System (CIPS). CIPS provides clearing and settlement services for cross-border RMB transactions, and is expected to eventually feature an independent messaging system that does not utilize SWIFT. Furthermore, Chinese payment applications like Alipay and WeChat Pay allow for direct payment transfers between Chinese citizens. Together, a Chinese CBDC, CIPS, and China’s robust digital payments ecosystem would result in a digital ecosystem that facilitates rapid and efficient payments across the country.
+This payments ecosystem, when developed, can be exported to incorporate other countries. Alipay and WeChat Pay are already making significant inroads in Southeast Asia. Given transaction volume, Southeast Asian central banks will find it advantageous to join CIPS for more efficient financial transfers. Belt and Road Initiative countries will find similar benefits as they take Chinese loans and look to improve their financial infrastructure. Africa’s payments in RMB increased by 123% from 2016 to 2019—it is no surprise then that the Chinese government is exploring how to integrate a CBDC with Belt and Road Initiative countries. When fully realized, the Chinese system would allow for cross-border transactions between institutions and individuals without going through correspondent banks. While China may not seek to take on the responsibility of leading the global payments system, a CBDC is a critical piece for the country to solidify an independent economic ecosystem.
+Western Europe and the Effort to Determine the Implications of CBDCs
+The European Union, befitting its recent role as the global voice on technology regulation, is exploring how CBDCs affect the digital payments landscape and the design features needed to fit existing monetary values. European central banks have not determined whether to launch a CBDC yet. Instead, they are taking the time to understand its opportunities and challenges, particularly regarding CBDC design and the implications on privacy, financial inclusion, private payment providers, payment needs, and financial stability.
+Many of the recent efforts were necessitated by the announcement of Libra, which prompted serious questions regarding the role of private companies in the digital payments space. The development of CBDCs by other countries is another sign that European banks must respond. Christine Lagarde as IMF Director made the case for digital currencies, “based on new and evolving requirements for money, as well as essential public policy objectives. My message is that while the case for digital currency is not universal, we should investigate it further, seriously, carefully, and creatively.”
+Initially, Sweden was the only country in the European Union considering a CBDC. More recently, France, Germany, and the European Central Bank have also stepped into the fray. France began tests this year to experiment how a CBDC could complete interbank settlement, identify additional advantages of a CBDC, and understand the impact on financial stability. The Bank of France is soliciting applications to experiment the use of a digital euro. The experiment’s objectives are:
+“To show how conventional use cases for central bank money can be achieved through a CBDC based on different technologies”
+“Identify the benefits of introducing a CBDC for the current ecosystem and understand how a CBDC might foster financial innovation”
+“Conduct a detailed analysis of the potential effects of introducing a CBDC on financial stability, monetary policy and the regulatory environment”
+While Germany has not made as significant of a step as France, the Bundesbank is also exploring the possibility of a CBDC. The Association of German Banks has advocated for the creation of a digital euro, calling on policymakers “to achieve a social consensus on how programmable digital money can be integrated into the existing financial system.”
+The European Central Bank, as one would expect given the work of the German and French central banks, is assessing the potential for a CBDC. They have formed a working group consisting of the Bank of England, the Bank of Japan, the Sveriges Riksbank (Sweden), the Swiss National Bank, and the Bank of International Settlement. The European Central Bank makes the case for CBDCs as a means to address a “fragmented point-of-sale and online payments infrastructure.” The Bank looks to fulfill five objectives:
+Full pan-European reach and a seamless customer experience
+Convenience and cost efficiency
+European identity and governance
+Global acceptance in the long run
+The ECB hopes that the private industry can offer a solution to these objectives, but is open to creating a CBDC if the need arises.
+Further west of the European Union, the United Kingdom released a report examining the opportunities, challenges, and design for a British CBDC. The Bank of England showcased a possible CBDC model to “illustrate the key issues as a basis for further discussion and exploration of the opportunities and challenges that CBDC could pose for payments, the Bank’s objectives for monetary and financial stability, and the wider economy.” While the Bank has not yet determined whether to launch a CBDC, they look to define the key principles that a CBDC should address for monetary and financial stability.
+The European CBDC effort is a means to improve the region’s financial system, particularly in the wake of Facebook’s Libra and other private company offerings. The European project was created to economically tie together a number of countries with a history of military conflict. Today, these countries transact with one another heavily and many are interconnected through the euro. The economic alliances already in play necessitate the exploration of CBDCs as a payment innovation that “would be good for the [European] financial center and its integration into the world financial system.” As François Villeroy de Galhau, Governor of the Bank of France, notes, “we as central banks must and want to take up this call for innovation at a time when private initiatives—especially payments between financial players—and technologies are accelerating, and public and political demand is increasing. Other countries have paved the way; it is now up to us to play our part, both ambitiously and methodically.”
+A Bank of International Settlements survey of 63 central banks found that 70% are engaged in CBDC work. Some are simply researching its opportunities, while others have or will create a digital currency. Emerging markets are leading the charge, seeing it as a means to improve payments infrastructure and promote financial inclusion as they digitize their economies. The implications are clear: CBDCs will play a critical role in shaping the future of digital payments.
+Enter the digital currency horse race. The effects of CBDCs are magnified when linked to other countries. These connections create a fuller digital ecosystem that facilitates more efficient cross-border payments between individuals and institutions. The financial centers of the world see emerging markets up for grabs in the competitive expansion of cross-border digital payments networks. CBDCs serve as a weapon in economic competition. The major powers of the world have no wish to see a CBDC and digital payments design imposed upon them by another country.
+Mu Changchun, deputy director at the People’s Bank of China says, “in the future, the process of digital currency issuance will be the way of horse racing, the leader will win the entire market; who is more efficient, who can better serve the public, who it will survive in the future; if a front-runner takes the lead in taking action, the technology they use will be adopted by other parties.”
+Similarly, François Villeroy de Galhau, Governor of the Bank of France notes that “I see a certain interest to move quickly on the issue of at least a wholesale [CBDC] to be the first issuer at the international level and thus derive the benefits reserved for a reference [CBDC].”
+German Finance Minister Olaf Scholz is most explicit: “such a payment system would be good for the [European] financial center and its integration into the world financial system…We should not leave the field to China, Russia, the U.S. or any private providers.”
+CBDCs serve as an opportunity for governments to establish and export norms on the role of currency in society. These norms could set global standards for payments systems. As discussed in Part I, norms include: how/when CBDCs and digital currencies are used in daily transactions, privacy, consumer protection, accessibility/convenience, and the role of the central bank and other financial institutions. In their effort to export payments system values, advanced economies offer emerging markets and other players several opportunities:
+Financial Ecosystem: Advanced economies can provide a large financial ecosystem for efficient domestic and cross-country transactions between individuals and institutions. This is particularly useful for countries engaging in significant amounts of trade and remittances, or for countries with lack of trust in domestic institutions. An example would be Belt and Road Initiative countries participating in a payments network led by China.
+Technical Support: The IMF finds in their study that “various central banks surveyed plan to outsource CBDC development.” Whether central banks turn to private sector contractors for support or not, launching a CBDC requires technical expertise, digital infrastructure, and financial technology knowledge. Advanced economies can help emerging markets achieve technological leaps in their payments system. Specifically, they can offer support to emerging markets either in the form of letting other countries adopt an interoperable payments system managed by the advanced economy’s central bank and/or providing technical assistance to countries in the development process of a digital payments system.
+Circumvent Sanctions: Advanced economies can establish cross-border payment processes with countries under international sanctions or terrorist groups to bypass the US dollar and SWIFT. The European Union, for example, could establish a CBDC payment link to Iran and circumvent United States sanctions. Advanced economies could also purchase digital currencies from sanctioned countries. Venezuela, for example, issued the petro so investors could “do an end run around sanctions imposed against their country by the Trump administration.”
+CBDC and the New Currency: Data
+In addition to serving as a means for establishing payment alliances and values, the exportation of CBDCs gives governments an even more powerful currency: data. While CBDCs would limit international oversight, central banks will have the ability to track CBDC payments. Transaction data would be centrally housed within the core ledger, giving governments the ability to monitor the economy and determine interventions. Privacy, however, is at risk. The central bank would be able to identify individual users and payment flows, making the anonymity currently offered by cash obsolete. Governments would be able to track payment flows domestically and internationally. As a result, governments could more effectively repress opposition groups or tacitly support the funding of terrorist organizations.
+Furthermore, individuals and financial institutions of countries who have adopted another country’s CBDC-based payments system could see their financial transactions being tracked and collected. CBDCs would allow for an unprecedented level of intrusion by a foreign central bank, which would have visibility into transactions well beyond what is possible with the US dollar-based system. Similar to privacy concerns around private payment providers, CBDCs pose the heightened risk that a government is privy to payments information. As a result, the technical design of the ledger and CBDC system will need to be heavily examined to ensure a level of privacy that guarantees national sovereignty.
+Missing in Action: The United States and the Need for a Global Voice
+Unlike Bretton Woods, no clear voice has emerged to define the standards for CBDCs. The United States thus far has no plans to develop a CBDC. In a letter to Congress, United States Federal Reserve Chairman Jerome Powell writes that “the characteristics that make the development of central bank digital currency more immediately compelling for some countries differ from those of the US.” Given the robust payments landscape in the United States, Powell’s reasoning makes sense. The claim that United States does not need a CBDC at the moment is justifiable.
+Missing in this assessment, however, is the need for a global voice on CBDC standards. In 1944, the United States helped usher in financial and economic stability by establishing a system of norms and values that the world could coalesce around. United States reticence this time around has created a vacuum in which countries are exploring CBDC design without a shared set of principles. Countries are establishing their own settlement systems and implementing laws and regulations for private sector payments to operate and innovate around. Furthermore, the vacuum in financial technology leadership is evident by the fact that the private sector is playing an increasingly important role in promoting payments system values for which governments are then forced to respond to after the fact. A key example is recent government responses against Libra.
+Whether the United States decides to launch a CBDC or not, it must provide global leadership and support the development of a common set of values for other countries and private sector companies to operate around. The United States made some forays through its response to Libra, culminating in a request for Facebook to halt development. A stronger and more explicit stance is needed. Given the country’s role in global payments, as well as the fact that it houses a substantial portion of private sector innovation, the United States government (specifically Congress, the Federal Reserve, the Securities and Exchange Commission, and the Department of Treasury) should look to establish principles for others to embrace. Specifically, the United States must take on a leadership role to determine common norms around the following values:
+The Role of Central Banks: wholesale vs. retail CBDCs and the role of central banks when it comes to allowing and restricting certain types of payments (e.g. terrorism)
+CBDC Technology: the technical design for CBDCs, the core ledger, APIs, payment functionality, programmable money, cryptography, an account-based vs. token-based system, and interoperability across central banks
+Consumer Protection: privacy and cybersecurity standards for CBDC-based payments systems (both public and private sector) to maintain resiliency, the extent to which central banks and digital payment providers can track payments and identify users, and public disclosure requirements for transparency and reporting
+Financial Stability and Integrity: CBDC effects on the banking system, commercial bank deposits, and the implementation of monetary policy
+Private Sector Innovation: the role of private sector in the overall payments ecosystem, their protocols, and integration with other providers
+Financial inclusion: methods to ensure that CBDCs serve the most marginalized of communities without further entrenching social and economic inequality
+CBDCs are a new frontier for payments infrastructure and central banks. Their geopolitical ramifications cannot be underestimated. CBDCs pave the path for circumventing sanctions, forming new alliances, and establishing norms around identity, privacy, innovation, and cybersecurity. The nascent technology, however, is being explored by many countries without a guiding voice on how to ensure prosperity for its end user: the individual. The United States has historically served as the leading nation on global payments guiding both policy and innovation. The country must once again step into the limelight and take on a leading role.
+Given the geopolitical implications and current US involvement, world leaders in the private and public sectors will need to:
+Explicitly define international values for a digital payments ecosystem that protects users and ensures financial stability
+Establish cross-border collaboration across central banks and government agencies on CBDC design, and bring in other countries currently not exploring CBDCs
+Craft clear policies and regulations that delineate the role of private sector and public sector innovation in payments systems
+Explore public-private partnerships to coordinate innovation and ensure that advancements support central bank efforts to manage the monetary system
+Raise the voices of historically marginalized, underserved, and unbanked communities to ensure that new payment designs promote financial inclusion
+The development of CBDCs tasks nations and companies to reimagine money in a more equitable and efficient model. Clear voices will be needed to offer common values for the world to coalesce around as the payments system is remade. Global prosperity depends on it.
+The Atlantic Council GeoTech Center would like to thank Nikhil Raghuveera for serving as both Guest Author and lead author for this report. Nikhil is a dual degree MBA/MPA student at The Wharton School and the Harvard Kennedy School with a background in economic consulting, nonprofit consulting, cryptocurrency, and venture capital who will be graduating this .
+Francis-Pulin, Mia, “Electronic Payments: A Brief History,” Forte Blog.
+Mancini-Griffoli et al., “Casting Light on Central Bank Digital Currency,” IMF Staff Discussion Note, .
+Auer, Raphael and Rainer Böhme, “The Technology of Retail Central Bank Digital Currency,” BIS Quarterly Review, .
+Scorer, Simon, “Central Bank Digital Currency: DLT, or not DLT? That is the Question,” Bank Underground, June 5, 2017.
+Tripathi, Ajit, “4 Reasons Central Banks Should Launch Retail Digital Currencies,” CoinDesk, March 21, 2020.
+De Meijer, Carlo, “Towards a Central Bank Digital Currency: Retail Versus Wholesale, Finextra, July 26, 2019.
+Mancini-Griffoli et al., “Casting Light on Central Bank Digital Currency,” IMF Staff Discussion Note, .
+Adrian, Tobias and Tommaso Mancini-Griffoli, “Central Bank Digital Currencies: 4 Questions and Answers,” IMFBlog, December 12, 2019.
+Adrian, Tobias and Tommaso Mancini-Griffoli, “Central Bank Digital Currencies: 4 Questions and Answers,” IMFBlog, December 12, 2019.
+Mancini-Griffoli et al., “Casting Light on Central Bank Digital Currency,” IMF Staff Discussion Note, .
+“Creation of the Bretton Woods System,” Federal Reserve History, November 22, 2013.
+Rosalsky, Greg, “75 Years Ago the U.S. Dollar Became the World’s Currency. Will that Last?,” NPR, July 30, 2019.
+“Currency Composition of Official Foreign Exchange Reserves,” IMF.
+“Dethroning the Dollar, America’s Aggressive Use of Sanctions Endangers the Dollar’s Reign,” The Economist, January 18, 2020.
+Goodman, Peter, “The Dollar is Still King. How (in the World) Did That Happen?,” The New York Times, February 22, 2019.
+“America’s Aggressive Use of Sanctions Endangers the Dollar’s Reign,” The Economist, January 18, 2020.
+Scheck, Justin and Bradley Hope, “The Dollar Underpins American Power. Rivals Are Building Workarounds.,” The Wall Street Journal, May 29, 2019.
+Imperiale, Johnpatrick, “Sanctions by the Numbers,” Center for New American Security, February 27, 2020.
+Tang, Frank, “Facebook’s Libra Forcing China to Step Up Plans for its Own Cryptocurrency, Says Central Bank Official,” South China Morning Post, July 8, 2019.
+Khatri, Yogita, “China’s Central Bank is One Step Closer to Issuing its Digital Currency – Report,” The Block, March 24, 2020.
+Cheng, Jonathan, “China Rolls Out Pilot Test of Digital Currency,” The Wall Street Journal, April 20, 2020.
+Etienne, Jinze, “First Look: China’s Central Bank Digital Currency,” Binance Research, August 28, 2019.
+Yang, Yuan and Hudson Lockett, “What is China’s Digital Currency Plan,” Financial Times, November 25, 2019.
+“About the System,” China International Payment Service Corp.
+“What is it? CIPS,” BNP Paribas Securities Services, October 22, 2018.
+“The Mobile Payments Race: Why China is Leading the Pack —for Now,” Knowledge@Wharton, January 17, 2018.
+Wood, Miranda, “How China’s Central Bank Digital Currency Will Help Renminbi to Challenge Dollar,” Ledger Insights.
+Slater, Adam, “China’s Central Bank Digital Currency (CBDC) is Close as Alipay Helps Effort,” Asia Crypto Today, March 25, 2020.
+Wood, Miranda, “European Central Bank Confirms Exploring Digital Euro as Retail, Wholesale CBDC,” Ledger Insights.
+“Central Bank Digital Currency: Opportunities, Challenges and Design Summary,” Bank of England, March 12, 2020.
+Lagarde, Christine, “Winds of Change: The Case for New Digital Currency,” IMF, November 14, 2018.
+Heasman, Will, “France’s CBDC Test Moves Digital Euro One Step Closer to Reality,” Cointelegraph, April 9, 2020.
+Partz, Helen, “Bank of France Launches Experiment Program on Central Bank Digital Currency,” Cointelegraph, March 30, 2020.
+“Central Bank Digital Currency Experiments with the Banque de France,” Banque de France.
+Dhall, Rajan, “Germany’s Bundesbank are Looking Very Closely at Central Bank Digital Currencies (CBDCs),” FXStreet, August 30, 2019.
+Tenner, Tobias and Siegfried Utzig, “German Banks Say: The Economy Needs a Programmable Digital Euro!,” Bankenverband, October 30, 2019.
+“Central Bank Group to Assess Potential Cases for Central Bank Digital Currencies,” European Central Bank, January 21, 2020.
+“ECB Outlines Issues Relating to Retail Digital Euro,” Ledger Insights.
+“Innovation and its Impact on the European Retail Payment Landscape,” European Central Bank, .
+“Central Bank Digital Currency: Opportunities, Challenges and Design Summary,” Bank of England, March 12, 2020.
+Foxley, William “German Finance Minister Supports Digital Euro, But ‘Very Critical’ of Libra,” Coindesk, October 7, 2019.
+Khatri, Yogita, “France’s Central Bank Begins Experimenting with Digital Euro,” The Block, April 1, 2020.
+“Central Bank Digital Currencies,” BIS Committee on Payments and Market Infrastructures, .
+McIntosh, Rachel, “BIS: Countries with Emerging Economies Are Leading CBDC Development,” Finance Magnates, January 24, 2020.
+McIntosh, Rachel, “BIS: Countries with Emerging Economies Are Leading CBDC Development,” Finance Magnates, January 24, 2020.
+Wood, Miranda, “China Central Bank: Digital Currency Issuance a “Horse Race”, Won’t Need Bank Accounts,” Ledger Insights.
+“France Plans to Test Institutional CBDC in 2020,” Ledger Insights.
+Foxley, William “German Finance Minister Supports Digital Euro, But ‘Very Critical’ of Libra,” Coindesk, October 7, 2019.
+Mancini-Griffoli et al., “Casting Light on Central Bank Digital Currency,” IMF Staff Discussion Note, .
+Semple, Kirk and Nathaniel Popper, “Venezuela Launches Virtual Currency, Hoping to Resuscitate Economy,” The New York Times, February 20, 2018.
+Vigna, Paul, “Brace for the Digital-Money Wars,” The Wall Street Journal, December 7, 2019.
+Munro, Andrew, “US Fed: Here are 9 Reasons Why We’re Not Creating a US Digital Currency,” Finder, NOvemer 29, 2019.
+O’Neal Stephen, “Facebook Libra Regulatory Overview: Major Countries’ Stances on Crypto,” Cointelegraph, July 16, 2019.
+The GeoTech Center champions positive paths forward that societies can pursue to ensure new technologies and data empower people, prosperity, and peace.
+Related Experts: David Bray and

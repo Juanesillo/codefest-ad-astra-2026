@@ -1,0 +1,71 @@
+Hypervelocity impacts and protecting spacecraft
+
+The consequences of meteoroid and debris impacts on spacecraft can range from small surface pits due to micrometre-size impactors and clear-hole penetrations for millimetre­-size objects, to mission-­critical damage for projectiles larger than 1 cm.
+
+Any impact of a 10 cm catalogue object on a spacecraft or orbital stage will most likely entail a catastrophic disintegration of the target.
+
+This destructive energy is a consequence of high impact velocities, which can reach 15 km/s for space debris and 72 km/s for meteoroids.
+
+Effects of hypervelocity impacts
+
+Since only larger space objects can be catalogued and tracked, only these can be avoided through active measures or by evasive manoeuvres. Smaller, uncatalogued objects can only be defeated by passive protection techniques, as used with the International Space Station (ISS).
+
+The effects of hypervelocity impacts are a function of projectile and target material, impact velocity, incident angle and the mass and shape of the projectile.
+
+Beyond 4 km/s (depending on the materials), an impact will lead to a complete break­up and melting of the projectile. Typical impact velocities are around 14 km/s for space debris, and significantly higher for meteroids.
+
+At low velocities, plastic deformation normally prevails. With increasing velocities the impactor will leave a crater on the target. Beyond 4 km/s (depending on the materials), an impact will lead to a complete break­up and melting of the projectile, and an ejection of crater material to a depth of typically 2–5 times the diameter of the projectile.
+
+In hypervelocity impacts, the projectile velocity exceeds the speed of sound within the target material. The resulting shockwave that propagates across the material is reflected by the surfaces of the target, and reverses its direction of travel. The superimposition of progressing and reflected waves can lead to local stress levels that exceed the material’s strength, thus causing cracks and/or the separation of spalls at significant velocities.
+
+With decreasing target thickness, the effects will range from cratering, via internal cracks, to spall detachment to, finally, clear-hole perforations.
+
+ESA’s space projects use damage assessment tools in combination with debris and meteoroid environment models to predict potential damage from hypervelocity impacts, and to define effective protection measures through shielding and design.
+
+Among many others, ESA experts have been involved in the development and testing of protective shields for the Columbus module of the Space Station.
+
+Whipple shields: double-­layer protection
+
+Passive protection can be achieved through Whipple shields with aluminium and Nextel–Kevlar bumper layers.
+
+ESA Space Debris Office: any impact of a 10-cm catalogue object on a spacecraft or orbital stage will most likely entail a catastrophic disintegration of the target
+
+The shields are composed of an external, thin bumper shield that is exposed to the debris flux − the stream of oncoming particles − and causes the impactors to completely disintegrate during impact.
+
+The resulting cloud of liquified projectile and target material that forms behind the bumper leads to a much wider spatial and temporal distribution of momentum, allowing the back wall of the shield to withstand the subsequent impact pressure.
+
+Intermediate fabric layers further slow the cloud particles.
+
+Today, these shields have reached a mature state of development.
+
+Today, local damage due to hypervelocity impacts are modelled by ‘hydrocodes’. These complex simulations are well validated for small impactors and large targets and ground testing can be conducted for comparison.
+
+Current areas of high interest in this regard are the reduction of design margins required for no structural perforation, material models, composite materials, non-spherical impactors or damage to elements under electrical charge (like solar arrays).
+
+Future research will try to improve our understanding of the outcome of hypervelocity collisions between two larger bodies. Key interest is in the fragmentation characteristics like size distribution, the resulting change in velocity (delta-V), distribution and changes in directionality as a function of the collision geometry and energy.
+
+While ground tests are possible, they are difficult, and the prime focus is on simulations.
+
+The consequences of meteoroid and debris impacts on spacecraft can range from small surface pits due to micrometre-size impactors and clear-hole penetrations for millimetre­-size objects, to mission-­critical damage for projectiles larger than 1 cm.
+Any impact of a 10 cm catalogue object on a spacecraft or orbital stage will most likely entail a catastrophic disintegration of the target.
+This destructive energy is a consequence of high impact velocities, which can reach 15 km/s for space debris and 72 km/s for meteoroids.
+Effects of hypervelocity impacts
+Since only larger space objects can be catalogued and tracked, only these can be avoided through active measures or by evasive manoeuvres. Smaller, uncatalogued objects can only be defeated by passive protection techniques, as used with the International Space Station (ISS).
+The effects of hypervelocity impacts are a function of projectile and target material, impact velocity, incident angle and the mass and shape of the projectile.
+Beyond 4 km/s (depending on the materials), an impact will lead to a complete break­up and melting of the projectile. Typical impact velocities are around 14 km/s for space debris, and significantly higher for meteroids.
+At low velocities, plastic deformation normally prevails. With increasing velocities the impactor will leave a crater on the target. Beyond 4 km/s (depending on the materials), an impact will lead to a complete break­up and melting of the projectile, and an ejection of crater material to a depth of typically 2–5 times the diameter of the projectile.
+In hypervelocity impacts, the projectile velocity exceeds the speed of sound within the target material. The resulting shockwave that propagates across the material is reflected by the surfaces of the target, and reverses its direction of travel. The superimposition of progressing and reflected waves can lead to local stress levels that exceed the material’s strength, thus causing cracks and/or the separation of spalls at significant velocities.
+With decreasing target thickness, the effects will range from cratering, via internal cracks, to spall detachment to, finally, clear-hole perforations.
+ESA’s space projects use damage assessment tools in combination with debris and meteoroid environment models to predict potential damage from hypervelocity impacts, and to define effective protection measures through shielding and design.
+Among many others, ESA experts have been involved in the development and testing of protective shields for the Columbus module of the Space Station.
+Whipple shields: double-­layer protection
+Passive protection can be achieved through Whipple shields with aluminium and Nextel–Kevlar bumper layers.
+ESA Space Debris Office: any impact of a 10-cm catalogue object on a spacecraft or orbital stage will most likely entail a catastrophic disintegration of the target
+The shields are composed of an external, thin bumper shield that is exposed to the debris flux − the stream of oncoming particles − and causes the impactors to completely disintegrate during impact.
+The resulting cloud of liquified projectile and target material that forms behind the bumper leads to a much wider spatial and temporal distribution of momentum, allowing the back wall of the shield to withstand the subsequent impact pressure.
+Intermediate fabric layers further slow the cloud particles.
+Today, these shields have reached a mature state of development.
+Today, local damage due to hypervelocity impacts are modelled by ‘hydrocodes’. These complex simulations are well validated for small impactors and large targets and ground testing can be conducted for comparison.
+Current areas of high interest in this regard are the reduction of design margins required for no structural perforation, material models, composite materials, non-spherical impactors or damage to elements under electrical charge (like solar arrays).
+Future research will try to improve our understanding of the outcome of hypervelocity collisions between two larger bodies. Key interest is in the fragmentation characteristics like size distribution, the resulting change in velocity (delta-V), distribution and changes in directionality as a function of the collision geometry and energy.
+While ground tests are possible, they are difficult, and the prime focus is on simulations.

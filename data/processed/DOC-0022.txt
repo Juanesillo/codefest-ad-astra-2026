@@ -1,0 +1,1192 @@
+Artificial Intelligence
+Index Report 2025
+CHAPTER 7:
+Education
+
+Artificial Intelligence
+Index Report 2025
+Chapter 7: Education
+Overview 3
+Chapter Highlights 4
+7.1 Background 5
+7.2 K–12 CS and AI Education 6
+United States 6
+Foundational Computer Science 6
+Advanced Computer Science 10
+Education Standards and Guidance 13
+Teacher Perspectives 14
+Global 16
+Access 16
+Guidance 17
+7.3 Postsecondary CS and
+AI Education 19
+Degree Graduates 19
+United States 19
+Global 25
+Guidance 29
+7.4 Looking Ahead 30
+Appendix 31
+ACCESS THE PUBLIC DATA
+
+AArrttiifificciiaall IInntteelllliiggeennccee
+IInnddeexx RReeppoorrtt 22002255
+CHAPTER 7:
+Education
+Overview
+AI has entered the public consciousness through generative AI’s impact on work—
+enhancing efficiency and automating tasks—but it has also driven innovation in
+education and personalized learning. Still, while AI promises benefits, it also poses
+risks—from hallucinating false outputs to reinforcing biases and diminishing critical
+thinking. With the AI education market expected to grow substantially, ethical concerns
+about the technology’s misuse—AI tools have already falsely accused marginalized
+students of cheating—are mounting, highlighting the need for responsible creation
+and deployment.
+Addressing these challenges requires both technical literacy and critical engagement
+with AI’s societal impact. Expanding AI expertise must begin in K–12 and higher
+education in order to ensure that students are prepared to be responsible users and
+developers. AI education cannot exist in isolation—it must align with broader computer
+science (CS) education efforts. This chapter examines the global state of AI and CS
+education, access disparities, and policies shaping AI’s role in learning.
+This chapter was a collaboration prepared by the Kapor Foundation, CSTA, PIT-UN
+and the AI Index. The Kapor Foundation works at the intersection of racial equity and
+technology to build equitable and inclusive computing education pathways, advance
+tech policies that mitigate harms and promote equitable opportunity, and deploy
+capital to support responsible, ethical, and equitable tech solutions. The CSTA is a
+global membership organization that unites, supports, and empowers educators to
+enhance the quality, accessibility, and inclusivity of computer science education. The
+Public Interest Technology University Network (PIT-UN) fosters collaboration between
+universities and colleges to build the PIT field and nurture a new generation of civic-
+minded technologists.
+Chapter 7 Preview 3
+
+AArrttiifificciiaall IInntteelllliiggeennccee
+IInnddeexx RReeppoorrtt 22002255
+CHAPTER 7:
+Education
+Chapter Highlights
+1. Access to and enrollment in high school CS courses in the U.S. has increased slightly from the previous
+school year, but gaps remain. Student participation varies by state, race/ethnicity, school size, geography, income,
+gender, and disability.
+2. CS teachers in the U.S. want to teach AI but do not feel equipped to do so. Despite 81% of CS teachers
+agreeing that using AI and learning about AI should be included in a foundational CS learning experience, less than half of high
+school CS teachers felt equipped to teach AI.
+3. Two-thirds of countries worldwide offer or plan to offer K–12 CS education. This fraction has doubled since
+2019, with African and Latin American countries progressing the most. However, students in African countries have the least
+access to CS education due to schools’ lack of electricity.
+4. Graduates who earned their master’s degree in AI in the U.S. nearly doubled between 2022 and 2023.
+While increased attention on AI will be slower to emerge in the number of bachelor’s and PhD degrees, the surge in master’s
+degrees could indicate a future trend for all degree levels.
+5. The U.S. continues to be a global leader in producing information, technology, and communications
+(ICT) graduates at all levels. Spain, Brazil, and the United Kingdom follow the U.S. as the top producers at various levels,
+while Turkey boasts the best gender parity.
+Chapter 7 Preview 4
+
+Artificial Intelligence
+Index Report 2025
+Chapter 7: Education
+7.1 Background
+7.1 Background
+To expand our understanding of the current state of AI risks of using it. AI education encompasses AI literacy plus
+education, it is imperative to differentiate between AI in students’ proficiency in the technical skills required to build
+education, AI literacy, and AI education (see Figure 7.1.1). AI (data analyses undergirding AI technologies, identifying
+AI in education is the usage of AI tools in the teaching and and mitigating data biases, etc.). For the purposes of this
+learning process while AI literacy refers to the foundational chapter, the data presented covers AI education.
+understanding of AI—how it works, how to use it, and the
+Figure 7.1.1
+Chapter 7 Preview 5
+
+Artificial Intelligence
+Index Report 2025
+Chapter 7: Education
+7.2 K–12 CS and AI Education
+The world faces significant challenges
+in developing a robust and diverse
+workforce when disparities in
+infrastructure, access to resources and
+courses, and participation in high quality 7.2 K–12 CS and AI Education1
+coursework continue to exacerbate
+vast inequities in K–12 students’ ability
+United States
+to contribute to a technology-enabled
+future. While it is difficult to accurately
+To begin exploring the prevalence and quality of AI education within the United
+estimate the extent of the problem due
+to the unstandardized nature of data States, it is important to start with the CS education landscape in its earliest stages
+collection and metrics development, almost a decade ago. With the launch of President Barack Obama’s “Computer
+this section focuses on the earliest
+Science for All” initiative in 2016, billions in investments were provided to ensure that
+stage in the computing pipeline by
+all K–12 students learn CS to become creators in the digital economy and responsible
+examining the current status of K–12
+CS and AI education with existing citizens of a technology-driven society. The federal funding was dedicated to
+global data. enhancing professional learning efforts, improving instructional resources, and
+building effective regional partnerships toward expanding CS education access. The
+National Science Foundation also led the development and implementation of two
+new computing courses (Exploring Computer Science and AP Computer Science
+Principles) aimed at engaging a broader group of students in computing. At the same
+time, the technology industry and philanthropy invested millions in national efforts to
+introduce millions of students across the country to CS.
+Public high schools teaching foundational CS (% of total in state),
+Foundational Computer Science
+
+In the past decade, educational Source: Code.org, CSTA, and ECEP Alliance, 2024 | Chart: 2025 AI Index report
+advocates have implored policymakers
+AK ME
+to adopt legislation to improve access 51% 63%
+to CS education. These efforts have VT NH MA
+72% 95% 83%
+paid off. In the 2017–18 academic year,
+35% of U.S. high schools offered CS, WA MT ND SD MN WI MI NY CT RI
+50% 31% 47% 51% 36% 52% 54% 52% 84% 83%
+which increased to 60% of U.S. high
+schools in 2023–24. However, national OR ID WY NE IA IL IN OH PA NJ
+60% 46% 74% 52% 84% 60% 91% 61% 75% 86%
+trends can obscure the reality that
+CA NV UT CO KS MO KY WV DC MD DE
+prioritization of CS education varies
+52% 95% 81% 59% 35% 58% 76% 78% 53% 100% 61%
+by state. For example, 100% of high
+AZ NM OK AR TN VA NC
+schools in Arkansas and Maryland offer 43% 54% 64% 100% 61% 68% 69%
+CS, compared to only 31% in Montana
+TX LA MS AL GA SC
+(Figure 7.2.1). 56% 39% 85% 94% 78% 92%
+HI FL
+72% 38%
+Figure 7.2.1
+1 Since AI has historically been studied under CS, this chapter references CS education data when AI-specific data is unavailable.
+Chapter 7 Preview 6
+
+Artificial Intelligence
+Index Report 2025
+100%
+91.18%
+80% 76.40%
+60%
+43.12%
+40%
+20%
+0%
+Small Medium Large
+Chapter 7 Preview 7
+sloohcs
+fo
+%
+Schools o ering foundational CS courses by size,
+
+Source: Code.org, CSTA, and ECEP Alliance, 2024 | Chart: 2025 AI Index report
+100%
+80%
+67.00%
+65.01%
+60.00%
+60%
+50.03%
+40%
+20%
+0%
+<25% 25–49% 50–75% >75%
+% of students on free and reduced lunch
+sloohcs
+fo
+%
+100%
+80%
+70.13%
+60% 58.15% 56.05%
+40%
+20%
+0%
+Urban Suburban Rural
+Schools o ering foundational CS courses by free and
+reduced lunch student population, 2024
+Source: Code.org, CSTA, and ECEP Alliance, 2024 | Chart: 2025 AI Index report
+sloohcs
+fo
+%
+Chapter 7: Education
+7.2 K–12 CS and AI Education
+Significant gaps remain in equitable access to CS education, lunch (FRL); those in small schools; students living in urban
+with some student groups left behind. In the 2023–24 and rural areas; and Native students were less likely to have
+academic year, students eligible for free or reduced-price access to CS education (Figures 7.2.2, 7.2.3, 7.2.4, and 7.2.5).
+Schools o ering foundational CS courses by
+geographic area, 2024
+Source: Code.org, CSTA, and ECEP Alliance, 2024 | Chart: 2025 AI Index report
+Figure 7.2.2 Figure 7.2.3
+Figure 7.2.4
+
+Artificial Intelligence
+Index Report 2025
+100%
+91.55%
+82.46% 82.98% 83.27%
+79.74% 80.39%
+80%
+66.34%
+60%
+40%
+20%
+0%
+Native American Black Hispanic/Latino White Two+ races Native Hawaiian Asian
+Public high school enrollment in CS (% of students), 2024
+Data about participation in CS
+Source: Code.org, CSTA, and ECEP Alliance, 2024 | Chart: 2025 AI Index report
+across 41 states indicates lags in
+student engagement with courses.
+AK ME
+In the 2020–21 academic year, - -
+only 5.1% of high school students
+VT NH MA
+participated in CS, with a marginal 4% - 8%
+increase to 6.4% in 2023–24. Similar
+WA MT ND SD MN WI MI NY CT RI
+5% 4% 5% - 2% 4% - 5% 9% 18%
+to CS access, CS participation
+varies highly between states—with OR ID WY NE IA IL IN OH PA NJ
+7% 2% 9% 4% 5% 7% 7% - 6% 9%
+26% of high school students in
+South Carolina enrolled in CS but CA NV UT CO KS MO KY WV DC MD DE
+- - 13% - 3% 3% 11% 4% - 16% 5%
+only 2% enrolled in Florida, Arizona,
+and Idaho (Figure 7.2.6). AZ NM OK AR TN VA NC
+2% 3% 5% 20% 6% 5% 5%
+TX LA MS AL GA SC
+6% 3% 11% 8% 7% 26%
+HI FL
+4% 2%
+Chapter 7 Preview 8
+stneduts
+fo
+%
+Chapter 7: Education
+7.2 K–12 CS and AI Education
+Access to foundational CS courses by race/ethnicity, 2024
+Source: Code.org, CSTA, and ECEP Alliance, 2024 | Chart: 2025 AI Index report
+Figure 7.2.5
+Figure 7.2.6
+
+Artificial Intelligence
+Index Report 2025
+Chapter 7: Education
+7.2 K–12 CS and AI Education
+An analysis of CS enrollment by race and ethnicity shows underrepresented relative to their share of the K–12 population.
+that efforts to expand access have resulted in near or above Additionally, Hispanic and Native Hawaiian/Pacific Islander
+proportional representation for Black, Native American/ students, students with individualized education programs
+Alaskan, and white students at the national level (Figure (IEPs), those eligible for free or reduced-price lunch, and
+7.2.7). However, data gaps—particularly from nine states— English language learners remain underrepresented nationally
+warrant caution in viewing these trends as complete. Girls are (Figure 7.2.7 and Figure 7.2.8).
+Public high school enrollment in CS vs. national demographics by race/ethnicity, 2024
+Source: Code.org, CSTA, and ECEP Alliance, 2024 | Chart: 2025 AI Index report
+Asian 2.60
+Black/African American 1.13
+Hispanic/Latino/Latina/Latinx 0.69
+Native American/Alaskan 1.00
+Native Hawaiian/Paci c Islander 0.75
+Two or more races 0.80
+White 1.00
+0 1 2 3
+Ratio of enrollment in CS to national demographics
+Figure 7.2.7
+Chapter 7 Preview 9
+
+Artificial Intelligence
+Index Report 2025
+Chapter 7: Education
+7.2 K–12 CS and AI Education
+Public high school enrollment in CS vs. national demographics by subgroup, 2024
+Source: Code.org, CSTA, and ECEP Alliance, 2024 | Chart: 2025 AI Index report
+Economically disadvantaged 0.72
+English language learners 0.64
+Girls 0.65
+Students with 504 plans 1.33
+Students with IEPs 0.67
+0.00 0.50 1.00 1.50
+Ratio of enrollment in CS to national demographics
+Figure 7.2.82
+Advanced Computer Science
+In order to build students’ AI competencies, it is essential participating in the AP CS exam (Figure 7.2.9), students
+to offer access to advanced coursework in addition to do not participate in proportion to their racial and ethnic
+foundational courses. While AI is not specifically covered in representation in the general student body (Figure 7.2.10
+Advanced Placement (AP) CS A, AP CS Principles (AP CS and Figure 7.2.11). Asian students, white boys, and multiracial
+P) does address some AI content areas. Because AP CS P students are overrepresented in the population of students
+was designed to attract a broader class of students, the who take AP CS exams, while all other student groups are
+potential exists to expose a diverse student population to AI underrepresented (Figure 7.2.12).
+topics. Yet, despite the growth in raw numbers of students
+2 A student with a 504 plan receives accommodations under Section 504 of the Rehabilitation Act of 1973, a U.S. civil rights law that prohibits discrimination against individuals with
+disabilities. A student with an IEP (individualized education program) receives special education services under the Individuals with Disabilities Education Act. An IEP is a legally binding
+document that outlines a learning plan for a student with a disability designed to meet their unique needs and improve educational outcomes.
+Chapter 7 Preview 10
+
+Artificial Intelligence
+Index Report 2025
+Chapter 7: Education
+7.2 K–12 CS and AI Education
+250 243.18
+201.61
+
+179.19 181.04
+158.56
+
+130.90
+99.87
+
+54.38
+50 46.34
+37.33
+29.55
+24.78
+19.39 19.83 20.96 19.39 21.14
+
+2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+Chapter 7 Preview 11
+)sdnasuoht
+ni(
+nekat
+smaxe
+ecneics
+retupmoc
+PA
+fo
+rebmuN
+Number of AP computer science exams taken, 2007–23
+Source: Code.org, CSTA, and ECEP Alliance, 2024 | Chart: 2025 AI Index report
+90,000
+80,000
+70,000
+60,000
+50,000
+40,000
+30,000
+20,000
+10,000
+
+2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+nekat
+smaxe
+ecneics
+retupmoc
+PA
+fo
+rebmuN
+Figure 7.2.9
+AP computer science exams taken by race/ethnicity, 2007–23
+Source: Code.org, CSTA, and ECEP Alliance, 2024 | Chart: 2025 AI Index report
+91,216, White
+69,695, Asian
+43,083, Hispanic/Latino/Latina
+16,351, Black/African American
+11,238, Two or more races
+801, Native American/Alaskan
+321, Native Hawaiian/Paci c Islander
+0, Other
+Figure 7.2.10
+
+Artificial Intelligence
+Index Report 2025
+Chapter 7: Education
+7.2 K–12 CS and AI Education
+60%
+50%
+40%
+30%
+20%
+10%
+0%
+2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+Chapter 7 Preview 12
+)stneduts
+gnidnopser
+latot
+fo
+%(
+nekat
+smaxe
+ecneics
+retupmoc
+PA
+AP computer science exams taken (% of total responding students) by race/ethnicity, 2007–23
+Source: Code.org, CSTA, and ECEP Alliance, 2024 | Chart: 2025 AI Index report
+37.50%, White
+28.70%, Asian
+17.70%, Hispanic/Latino/Latina
+6.70%, Black/African American
+4.60%, Two or more races
+0.30%, Native American/Alaskan
+0.10%, Native Hawaiian/Paci c Islander
+0.00%, Other
+Figure 7.2.11
+AP computer science exam participation vs. national demographics by race/ethnicity, 2023
+Source: Code.org, CSTA, and ECEP Alliance, 2024 | Chart: 2025 AI Index report
+Asian
+Black/African American
+Hispanic/Latino/Latina/Latinx
+Native American/Alaskan
+Native Hawaiian/Paci c Islander
+Two or more races
+Male
+White Female
+0 1 2 3 4 5 6 7 8
+Ratio of AP CS exam participation to national demographics
+Figure 7.2.12
+
+Artificial Intelligence
+Index Report 2025
+Chapter 7: Education
+7.2 K–12 CS and AI Education
+Education Standards and Guidance
+Federal guidance issued thus far has focused on AI in only two standards at the advanced high school level that
+education rather than AI education. The U.S. Department specifically require AI knowledge. However, existing CS
+of Education’s Office of Educational Technology released a standards support foundational AI knowledge and skills,
+series of reports about AI in education in 2023 and 2024. One covering topics such as perception, data structures, and
+of the reports focuses on recommendations for educational algorithms. The U.S. state-adopted K–12 CS standards
+technology developers, and two of them are intended for averaged 97% coverage of the same subconcepts as the
+educators, educational leaders, and policymakers. The most CSTA standards, indicating strong national coherence in CS
+recent report, from , offers guidance on the instruction. Among the 44 states that have adopted K–12 CS
+safe and effective implementation of AI in K–12 schools. standards, 33 have AI-specific standards, which are generally
+minimal, aligned to the CSTA standards, and focused on high
+As of , 26 states have issued guidance on AI in school grades (Figure 7.2.13).3 Four of these states recently
+education. And while there is considerable overlap between adopted more significant AI-specific standards that span
+CS and AI education content and what teachers currently grades K–12: Colorado (2024), Florida (2024), Ohio (2022),
+cover in the classroom, K–12 CS standards contain minimal and Virginia (2024), while Arkansas has defined standards for
+AI content. The Computer Science Teachers Association a high school AI and machine learning course.
+(CSTA) K–12 standards, last published in 2017, contain
+Adoption of AI-specific K 12 computer science standards by US state
+Source: CSTA and IACE, 2024 | Chart: 2025 AI Index report
+AK ME
+VT NH MA
+WA MT ND SD MN WI MI NY CT RI
+OR ID WY NE IA IL IN OH PA NJ
+CA NV UT CO KS MO KY WV DC MD DE
+AZ NM OK AR TN VA NC
+TX LA MS AL GA SC
+HI FL
+CS standards with significant AI-specific content
+CS standards with minimal AI-specific content
+CS standards with no AI-specific content
+No CS standards
+Figure 7.2.13
+3 This project is supported by the National Science Foundation (NSF) under Grant No. 2311746. Any opinions, findings, and conclusions or recommendations expressed in this material are
+those of the author(s) and do not necessarily reflect the views of the NSF.
+Chapter 7 Preview 13
+
+Artificial Intelligence
+Index Report 2025
+50%
+46%
+44%
+40%
+34%
+30%
+20%
+10%
+0%
+Elementary school Middle school High school
+4 This project is supported by the National Science Foundation (NSF) under Grant No. 2118453. Any opinions, findings, and conclusions or recommendations expressed in this material are
+those of the author(s) and do not necessarily reflect the views of the NSF. Survey responses may not total 100%, as some questions allowed respondents to select multiple options.
+5 The percentages in the figure do not sum to 100% because respondents could select multiple options if they taught more than one grade level.
+Chapter 7 Preview 14
+srehcaet
+fo
+%
+Percentage of teachers who feel equipped to teach AI
+by grade level
+Source: Computer Science Teacher Landscape Survey, 2024 | Chart: 2025 AI Index report
+Elementary school Middle school High school
+100% 96% 96%
+92% 93% 94%
+84%
+88% 86%85% 90% 87% 89%
+82%
+80% 75% 72% 74% 73%
+65%
+61%
+60% 56%
+51%
+40%
+20%
+0%
+Algorithms Arti cial Intelligence Computing systems Computational Data and analysis Impacts and ethics Programming
+(AI) (e.g., hardware/ thinking of computing
+software)
+Concept
+srehcaet
+fo
+%
+Chapter 7: Education
+7.2 K–12 CS and AI Education
+Teacher Perspectives
+To examine the perspectives and practices of CS teachers
+as it relates to AI education, the Computer Science Teacher
+Landscape Survey collected data from 2,901 pre-K through
+12 CS teachers nationally (33% of respondents were
+elementary school teachers, 36% taught middle school, and
+51% taught high school).4,5
+As AI education gains importance for future workforce
+readiness, it is important to understand the preparedness of
+the current educator workforce. While 81% of CS teachers
+believe AI should be included in foundational CS education,
+less than half feel equipped to teach it—46% in high school,
+44% in middle school, and just 34% in elementary school
+(Figure 7.2.14).
+When asked to identify the CS-related topics they cover in
+Figure 7.2.14
+class, over two-thirds of middle and high school CS teachers
+stated they cover AI specifically, despite the lack of explicit of CS teachers said they include components of AI, such as
+definition in CS standards; fewer elementary teachers (65%) algorithms, computing systems, computational thinking, and
+reported covering AI (Figure 7.2.15). Greater proportions programming.
+AI concepts taught in CS classrooms by grade level
+Source: Computer Science Teacher Landscape Survey, 2024 | Chart: 2025 AI Index report
+Figure 7.2.15
+
+Artificial Intelligence
+Index Report 2025
+Elementary school Middle school High school
+100%
+80%
+70%
+60%
+48%
+42%
+40%
+35%
+33%
+22%
+20% 17%
+13%
+6% 5% 6%
+2%
+0%
+1–2 hours 3–5 hours 6–19 hours 20+ hours
+Time
+When asked to name the greatest benefits of using AI in To equip students to use AI responsibly, the educator
+the classroom, teachers most commonly said improving workforce must be upskilled. In a 2024 survey of 364 CS
+their productivity, differentiating student learning, providing teachers, 88% identified the need for more resources for AI-
+improved academic support to students, and preparing related professional development. When asked to identify
+students for the future. When asked about the greatest risks, specific resources, CS teachers said they needed to gain
+teachers’ greatest concerns were the misuse of AI (often more AI literacy (e.g., how AI works, how to use AI, and the
+related to academic integrity); that AI use could limit student ethical impacts of AI).
+learning or engagement; overreliance on the technology; that
+AI could generate misinformation and replicate biases; and
+other ethical concerns, including student privacy.
+Chapter 7 Preview 15
+srehcaet
+fo
+%
+Chapter 7: Education
+7.2 K–12 CS and AI Education
+Of the 2,245 teachers who did spend class time on AI content, the majority spent fewer than five hours per course. Elementary
+school teachers spent the least amount of time, with 70% spending only one to two hours (Figure 7.2.16).
+Time spent learning AI in CS classrooms by grade level
+Source: Computer Science Teacher Landscape Survey, 2024 | Chart: 2025 AI Index report
+Figure 7.2.16
+
+Artificial Intelligence
+Index Report 2025
+Chapter 7: Education
+7.2 K–12 CS and AI Education
+Global
+Thus far, very few countries (e.g., Ghana, South Korea, Access
+Netherlands) include AI education in their curricula In 2024, approximately two-thirds of the world’s countries
+explicitly; countries more often flag the importance of AI offered or planned to offer CS education (Figure 7.2.17).
+education in the national education strategy conversation CS education is mandatory in primary and/or secondary
+without providing a detailed implementation plan. Because schools in 30% of countries, with Europe home to the highest
+AI education has historically been subsumed under CS concentration of these countries. In the past five years,
+or information and communications technology (ICT) all geographic regions have made progress in offering CS
+education, tracking CS and/or ICT education will serve as a education, with Africa and Latin America registering the largest
+proxy for tracking AI education in this analysis. Similar to the increases (Figure 7.2.18). Still, students in African countries are
+challenges inherent in tracking CS education in the United the least likely to have access to CS education. This is likely
+States, caution is called for when interpreting global metrics due to infrastructure challenges; in 2023, only 34% of primary
+because CS and ICT education are sometimes conflated schools in sub-Saharan Africa had access to electricity,
+with digital or computer literacy.6 hindering schools’ ability to teach students computer literacy
+skills, let alone providing them with CS and AI education.
+Availability of CS education by country, 2024
+Source: Raspberry Pi Computing Education Research Centre, 2024 | Chart: 2025 AI Index report
+CS mandatory in primary and secondary
+CS mandatory in primary or secondary only
+CS as an elective course everywhere
+CS in some schools/districts
+CS cross curricular
+CS planned
+No CS
+Figure 7.2.17
+6 Digital literacy is the “ability to use information and communication technologies to find, evaluate, create, and communicate information, requiring both cognitive and technical skills,”
+whereas computer literacy is the “general use of computers and programs, such as productivity software.”
+Chapter 7 Preview 16
+
+Artificial Intelligence
+Index Report 2025
+Globally, the lack of standardized data collection makes it challenging to track progress in AI education. Language barriers and
+infrequent updates on implementation further complicate accurate monitoring across countries.
+Africa 9.40% 49.05% (+39.65 pp)
+Asia 24.50% 57.89% (+33.39 pp)
+Europe 63.49% 88.88% (+25.39 pp)
+
+LAC 29.54% 70.45% (+40.91 pp)
+0% 20% 40% 60% 80% 100%
+% of countries o ering CS education
+Chapter 7 Preview 17
+tnenitnoC
+Chapter 7: Education
+7.2 K–12 CS and AI Education
+Change in access to CS education by continent, 2019 vs. 2024
+Source: Raspberry Pi Computing Education Research Centre, 2024 | Chart: 2025 AI Index report
+Figure 7.2.18
+Guidance
+Countries on a global scale have been quicker to develop to harnessing technologies toward ensuring “inclusive and
+guidance and policies for the use of AI in education as equitable quality education and promoting lifelong learning
+opposed to developing national standards for teaching AI. opportunities for all” (See Sustainable Development Goal
+As of , 10 countries have issued guidance 4). Since then, UNESCO published the Beijing Consensus on
+on AI in education: Australia, Belgium, Canada, Japan, New Artificial Intelligence and Education (in 2019) to offer specific
+Zealand, South Korea, Ukraine, the United Kingdom, the guidance on how to integrate AI technologies to ensure
+U.S., and Uruguay. This is not surprising given the decade- all people have access to quality education by 2030 (See
+long conversation across countries about developing Education 2030 Agenda). Within this set of recommendations,
+guidelines and policy recommendations for AI in education. there were four implementation and policy adoption guidelines
+As early as 2015, United Nations Educational, Scientific, and that touch upon AI concepts in K–12 education.
+Cultural Organization (UNESCO) member states committed
+
+Artificial Intelligence
+Index Report 2025
+Chapter 7: Education
+7.2 K–12 CS and AI Education
+Similar to the AI4K12 initiative, which released a set AI4K12 guidelines organized around 5 Big Ideas in AI
+of K–12 AI education standards organized around Source: AI4K12, 2024
+“Five Big Ideas in AI” (Figure 7.2.19), international
+organizations are also developing AI curricular
+frameworks for countries to use. Last year, UNESCO
+published AI competency frameworks for students
+and teachers. The student framework includes four
+core competencies: a human-centered mindset,
+ethics of AI, AI techniques and applications, and
+AI system design. In each competency, students
+progress from understanding to applying to creating.
+In the European Union, many countries rely on
+DigComp 2.2, a framework for developing citizens’
+digital competence, along with CS learning objectives
+for students. The most recent version has guidance
+on recommended knowledge, skills, and attitudes
+for interacting with AI, though it does not explicitly
+include guidance on teaching citizens to build AI
+systems.
+Figure 7.2.19
+Chapter 7 Preview 18
+
+Artificial Intelligence
+Index Report 2025
+Chapter 7: Education
+7.3 Postsecondary CS and AI Education
+The role AI will play in the U.S. labor force and the economic future is yet
+to be fully understood, but its impact is expected to be substantial. The
+technology workforce already contributes significantly to the U.S. economy,
+with 9.6 million working as tech employees across industries. While there
+are strong concerns about displaced employment as a result of automation,
+projected demands for AI-related roles, such as database management
+and data infrastructure solutions, are likely to increase. Therefore, a global
+commitment to ensure postsecondary institutions are equipped to train the
+future workforce and expand the computing pipeline is essential.
+7.3 Postsecondary CS and AI Education
+Degree Graduates
+United States
+Data on U.S. postsecondary CS and AI education trends in offering certificate and both associate and bachelor’s degree
+this section comes from the National Center for Education programs in AI and related fields (Figure 7.3.2). Notable
+Statistics (NCES). Notably, the Classification of Instructional examples include Maricopa Community Colleges, Houston
+Programs (CIP), a national standard for classifying academic Community College, Miami Dade College, and several
+programs, was developed by NCES under the U.S. Department schools in the Bay Area Community College Consortium.
+of Education. In 2016, AI-specific curricula were designated
+under CIP code 11.0102, which covers programs focused The number of graduates with bachelor’s degrees in
+on “symbolic inference, representation, and simulation by computing has increased 22% over the last 10 years (Figure
+computers and software of human learning and reasoning 7.3.1). In 2023, the top five producers of CS bachelor’s
+processes and capabilities, and the computer modeling graduates were Western Governors University, University of
+of human motor control and motion. Includes instruction California–Berkeley, Southern New Hampshire University,
+in computing theory, cybernetics, human factors, natural University of Texas at Dallas, and University of Michigan.7
+language processing, and applicable aspects of engineering, While the increased attention on AI will be slower to show
+technology, and specific end-use applications.” at the bachelor’s degree level, given its four-year cycle, AI’s
+explosive growth has already become visible in master’s
+While the number of students earning associate degrees in degrees, with a 26% increase in CS graduates between 2022
+CS has largely remained stable over the past decade, several and 2023, and an overall increase of 83% in the last decade.
+community colleges are also pioneering AI education,
+7 Western Governors University and Southern New Hampshire University are primarily online institutions.
+Chapter 7 Preview 19
+
+Artificial Intelligence
+Index Report 2025
+Male Female
+100%
+80%
+68%
+60% 77% 78% 76%
+40%
+20%
+32%
+23% 22% 24%
+0%
+Associate Bachelor’s Master’s PhD
+Chapter 7 Preview 20
+setaudarg
+yradnocestsop
+fo
+%
+90,000
+80,000
+70,000
+60,000
+50,000
+40,000
+30,000
+20,000
+10,000
+
+2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+CS postsecondary graduates in the United States by gender, 2023
+Source: National Center for Education Statistics’ Integrated Postsecondary Education Data System, 2013–23 | Chart: 2025 AI Index report
+setaudarg
+SC
+wen
+fo
+rebmuN
+Chapter 7: Education
+7.3 Postsecondary CS and AI Education
+New CS postsecondary graduates in the United States, 2013–23
+Source: National Center for Education Statistics’ Integrated Postsecondary Education Data System, 2013–23 | Chart: 2025 AI Index report
+87,435, Bachelor’s
+52,107, Master’s
+20,725, Associate
+2,540, PhD
+Figure 7.3.1
+Despite the fact that women graduate from college at higher rates than men, degree completion data shows an
+underrepresentation of women in CS (Figure 7.3.2).
+Figure 7.3.2
+
+Artificial Intelligence
+Index Report 2025
+Chapter 7: Education
+7.3 Postsecondary CS and AI Education
+Black students account for 8% of bachelor’s degrees, 8% of degrees and over half (52%) of PhDs in computing; and
+master’s degrees, and 7% of PhDs in computing (Figure 7.3.3). Asian students are overrepresented in the postsecondary
+Hispanic students account for 13% of bachelor’s degrees, computing space, accounting for 23% of bachelor’s degrees,
+8% of master’s degrees, and 4% of PhDs in computing. By 28% of master’s degrees, and 17% of PhDs.
+contrast, white students account for 46% of bachelor’s
+CS vs. all postsecondary graduates in the United States by race/ethnicity (US residents only), 2023
+Source: National Center for Education Statistics’ Integrated Postsecondary Education Data System, 2013–23 | Chart: 2025 AI Index report
+Native American/Alaskan Black Hispanic NHPI Two or more Asian White Unknown
+All 12% 27% 4% 6% 47% 4%
+Associate
+CS 12% 20% 4% 13% 44% 6%
+All 10% 18% 4% 9% 56% 3%
+Bachelor’s
+CS 8% 13% 4% 23% 46% 5%
+All 12% 13% 3% 8% 57% 6%
+Master’s
+CS 8% 8% 3% 28% 40% 12%
+All 10% 10% 3% 12% 58% 6%
+PhD
+CS 7% 4% 3% 17% 52% 15%
+0% 20% 40% 60% 80% 100%
+% of postsecondary graduates
+Figure 7.3.3
+The majority of students in computing-related graduate of the 95,130 international master’s students and 60% of the
+programs are from countries outside of the U.S.—a percentage 13,070 international PhD students) (Figure 7.3.4 and Figure
+that has steadily grown over the years. In 2023, nonresidents 7.3.5).
+accounted for 67% of master’s degree graduates and 60%
+of PhD graduates. Between 2022 and 2023, international The number of institutions in the U.S. that offer an AI-specific
+CS master’s students increased more than twofold, growing bachelor’s degree nearly doubled between 2022 and 2023,
+from 15,811 to 34,850 (IPEDS). Students from India and China while the number of institutions offering an AI-specific
+make up the vast majority of this graduate student body (93% master’s degree has sharply increased as well (Figure 7.3.6).
+Chapter 7 Preview 21
+
+Artificial Intelligence
+Index Report 2025
+Chapter 7: Education
+7.3 Postsecondary CS and AI Education
+Number of international CS master’s students enrolled in US universities, 2022
+Source: National Science Board; National Science Foundation, 2023 | Chart: 2025 AI Index report
+India 72.02
+China 13.19
+Taiwan 1.18
+Nepal 0.99
+Bangladesh 0.88
+Nigeria 0.86
+South Korea 0.53
+Pakistan 0.48
+Vietnam 0.29
+Saudi Arabia 0.26
+Turkey 0.23
+Canada 0.23
+Ghana 0.18
+Brazil 0.14
+Iran 0.14
+Colombia 0.10
+Japan 0.09
+United Kingdom 0.08
+France 0.07
+Mexico 0.06
+Other locations 3.14
+0 5 10 15 20 25 30 35 40 45 50 55 60 65 70 75
+Number of international CS master’s students (in thousands)
+Figure 7.3.4
+Number of international CS PhD students enrolled in US universities, 2022
+Source: National Science Board; National Science Foundation, 2023 | Chart: 2025 AI Index report
+China 5,130
+India 2,760
+Bangladesh 980
+Iran 660
+South Korea 380
+Saudi Arabia 370
+Nepal 250
+Pakistan 240
+Taiwan 220
+Nigeria 190
+Vietnam 190
+Turkey 160
+Canada 130
+Sri Lanka 80
+Brazil 50
+Ghana 50
+Egypt 50
+Colombia 40
+Italy 40
+Mexico 30
+Other locations 1,060
+0 300 600 900 1,200 1,500 1,800 2,100 2,400 2,700 3,000 3,300 3,600 3,900 4,200 4,500 4,800 5,100
+Number of international CS PhD students
+Figure 7.3.5
+Chapter 7 Preview 22
+
+Artificial Intelligence
+Index Report 2025
+
+2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+Chapter 7 Preview 23
+snoitutitsni
+fo
+rebmuN
+Chapter 7: Education
+7.3 Postsecondary CS and AI Education
+Number of institutions o ering AI bachelor’s and master’s degrees in the US, 2013–23
+Source: National Center for Education Statistics’ Integrated Postsecondary Education Data System, 2013–23 | Chart: 2025 AI Index report
+45, Master’s
+19, Bachelor’s
+Figure 7.3.6
+There was a sharp increase in students graduating with graduates; meanwhile, Pennsylvania State University had its
+master’s degrees in AI between 2022 and 2023 (Figure first graduating class in 2022 (Figure 7.3.8). Until recently,
+7.3.7). Carnegie Mellon University, which graduated more Carnegie Mellon was one of the only universities to offer
+AI majors than any other institution, doubled its number of dedicated programs in AI.
+
+2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+setaudarg
+IA
+wen
+fo
+rebmuN
+New AI bachelor’s and master’s graduates in the United States, 2013–23
+Source: National Center for Education Statistics’ Integrated Postsecondary Education Data System, 2013–23 | Chart: 2025 AI Index report
+935, Master’s
+104, Bachelor’s
+Figure 7.3.7
+
+Artificial Intelligence
+Index Report 2025
+Chapter 7: Education
+7.3 Postsecondary CS and AI Education
+Top postsecondary institutions graduating students in AI in 2023 by degree type8
+Source: National Center for Education Statistics’ Integrated Postsecondary Education Data System, 2023
+Graduates in AI Bachelor’s Programs
+Carnegie Mellon University 32
+Full Sail University 19
+Concordia University Wisconsin 16
+University of Advancing Technology 10
+Pennsylvania State University-Main Campus 7
+Graduates in AI Master’s Programs
+Carnegie Mellon University 178
+University of Pennsylvania 98
+University of North Texas 76
+Northeastern University 55
+San Jose State University 52
+Graduates in AI PhD Programs
+Carnegie Mellon University 28
+Capitol Technology University 4
+University of Pittsburgh-Pittsburgh Campus 1
+Figure 7.3.8
+8 This list includes only universities that use the AI-specific CIP code for their programs, rather than general CS. However, many students studying AI worldwide are likely enrolled in broader
+CS programs.
+Chapter 7 Preview 24
+
+Artificial Intelligence
+Index Report 2025
+Chapter 7: Education
+7.3 Postsecondary CS and AI Education
+Global
+No single dataset provides a fully standardized accounting digital information, including computers, computerised
+of AI or CS postsecondary education across all countries. networks (including the Internet), microelectronics,
+However, the Organization for Economic Cooperation multimedia, software and programming.”
+and Development has compiled data covering its member
+countries and several non-OECD nations.9 The International The U.S. remains a global leader in ICT-related fields,
+Standard Classification of Education is used to compare producing more graduates at each of the associate,
+education statistics relied on by the OECD to evaluate global bachelor’s, master’s, and PhD levels than any other country
+progress. Information and communications technologies, or included in the sample (Figures 7.3.9 to 7.3.12). Notably, the
+ICT, includes such areas of study as “informatics, information U.S. graduates more than twice as many associate, master’s,
+and communication technologies, or CS. These subjects and PhD students—and nearly twice as many bachelor’s
+include a wide range of topics concerned with the new students—as the next highest country (Figure 7.3.9).
+technologies used for the processing and transmission of
+New ICT short-cycle tertiary graduates by country, 2022
+Source: OECD, 2022 | Chart: 2025 AI Index report
+United States 38,746
+Spain 17,764
+Turkey 16,464
+Canada 16,275
+Colombia 12,852
+France 10,820
+United Kingdom 9,425
+Australia 7,249
+South Korea 6,983
+Mexico 3,720
+Chile 2,946
+Sweden 2,885
+Israel 2,157
+New Zealand 1,889
+Austria 1,273
+0 3,000 6,000 9,000 12,000 15,000 18,000 21,000 24,000 27,000 30,000 33,000 36,000 39,000
+Number of new ICT short-cycle tertiary graduates
+Figure 7.3.9
+9 While this dataset provides insights across some country lines, it omits a number of countries likely to have large numbers of ICT graduates. The exclusion of India, China, and countries in
+Africa highlights the need for global standardized data collection to ensure inclusion of countries that have made significant investments in computing education and make up a significant
+proportion of the global majority. There is also a significant lag in collecting and reporting global data on education; as a result, the most recent year for which data is available is 2022.
+Chapter 7 Preview 25
+
+Artificial Intelligence
+Index Report 2025
+Chapter 7: Education
+7.3 Postsecondary CS and AI Education
+New ICT bachelor’s graduates by country, 2022
+Source: OECD, 2022 | Chart: 2025 AI Index report
+United States 116,401
+Brazil 61,760
+Mexico 32,738
+Germany 21,365
+United Kingdom 20,435
+South Korea 19,603
+Australia 14,584
+Peru 13,054
+Canada 13,053
+Poland 12,817
+France 10,472
+Spain 6,650
+Romania 6,256
+Turkey 6,023
+Chile 5,090
+0 8,000 16,000 24,000 32,000 40,000 48,000 56,000 64,000 72,000 80,000 88,000 96,000 104,000 112,000 120,000
+Number of new ICT bachelor’s graduates
+Figure 7.3.10
+New ICT master’s graduates by country, 2022
+Source: OECD, 2022 | Chart: 2025 AI Index report
+United States 55,706
+United Kingdom 21,688
+France 13,940
+Germany 12,500
+Australia 9,716
+Poland 4,164
+Canada 4,044
+Ireland 3,728
+Mexico 3,373
+Spain 3,214
+Colombia 2,982
+Korea 2,910
+Netherlands 2,452
+Italy 2,403
+Romania 2,200
+0 4,000 8,000 12,000 16,000 20,000 24,000 28,000 32,000 36,000 40,000 44,000 48,000 52,000 56,000
+Number of new ICT master’s graduates
+Figure 7.3.11
+Chapter 7 Preview 26
+
+Artificial Intelligence
+Index Report 2025
+Chapter 7: Education
+7.3 Postsecondary CS and AI Education
+New ICT PhD graduates by country, 2022
+Source: OECD, 2022 | Chart: 2025 AI Index report
+United States 2,759
+United Kingdom 1,156
+Germany 1,008
+France 733
+South Korea 617
+Australia 425
+Brazil 374
+Canada 309
+Spain 247
+Italy 194
+Mexico 144
+Switzerland 142
+Finland 140
+Sweden 122
+Netherlands 120
+0 150 300 450 600 750 900 1,050 1,200 1,350 1,500 1,650 1,800 1,950 2,100 2,250 2,400 2,550 2,700 2,850
+Number of new ICT PhD graduates
+Figure 7.3.12
+Gender parity in AI-related fields continues to be a challenge one-third of graduates. Turkey is among the countries that
+globally (Figure 7.3.13). On average, women comprise fare best with respect to gender parity, with women there
+approximately one-quarter of ICT postsecondary graduates comprising at least half of all graduates at the associate,
+at the associate, bachelor’s, and PhD levels. Women fare bachelor’s, master’s, and PhD levels.
+slightly better at the master’s level, comprising closer to
+Chapter 7 Preview 27
+
+Artificial Intelligence
+Index Report 2025
+Percentage of new ICT postsecondary graduates who are female by country, 2022
+Source: OECD, 2022 | Chart: 2025 AI Index report
+100% Australia 100% Austria 100% Belgium 100% Brazil
+50% 24% 23% 33% 34% 50% 10% 19% 21% 13% 50% 10% 14% 17% 50% 15% 19% 19%
+NA NA
+0% 0% 0% 0%
+SC B M PhD SC B M PhD SC B M PhD SC B M PhD
+100% Bulgaria 100% Canada 100% Chile 100% Colombia
+50% 35% 40% 25% 50% 29% 22% 31% 24% 50% 13% 12% 22% 50% 25% 18% 28% 38%
+NA NA
+0% 0% 0% 0%
+SC B M PhD SC B M PhD SC B M PhD SC B M PhD
+100% Costa Rica 100% Croatia 100% Czech Republic 100% Denmark
+50% 31% 21% 18% 50% 26% 25% 50% 16% 19% 18% 50% 10% 19% 35%
+NA NA NA NA NA
+0% 0% 0% 0%
+SC B M PhD SC B M PhD SC B M PhD SC B M PhD
+100% Estonia 100% Finland 100% France 100% Germany
+50% 24% 45% 38% 50% 25% 30% 21% 50% 14% 17% 22% 26% 50% 21% 24% 20%
+NA NA NA
+0% 0% 0% 0%
+SC B M PhD SC B M PhD SC B M PhD SC B M PhD
+100% Greece 100% Hungary 100% Iceland 100% Ireland
+50% 30% 42% 22% 50% 12% 18% 18% 17% 50% 28% 9% 50% 37% 27% 36% 35%
+NA NA NA
+0% 0% 0% 0%
+SC B M PhD SC B M PhD SC B M PhD SC B M PhD
+100% Israel 100% Italy 100% South Korea 100% Latvia
+56%
+50% 32% 18% 28% 50% 17% 17% 25% 28% 50% 26% 32% 23% 15% 50% 20% 21% 28%
+NA
+0% 0% 0% 0%
+SC B M PhD SC B M PhD SC B M PhD SC B M PhD
+100% Lithuania 100% Luxembourg 100% Mexico 100% Netherlands
+50% 16% 34% 50% 13% 17% 42% 23% 50% 27% 27% 33% 33% 50% 13% 15% 29% 14%
+NA NA
+0% 0% 0% 0%
+SC B M PhD SC B M PhD SC B M PhD SC B M PhD
+100% New Zealand 100% Norway 100% Peru 100% Poland
+50% 36% 29% 34% 35% 50% 27% 23% 29% 43% 50% 31% 50% 23% 19% 12%
+NA NA NA NA
+0% 0% 0% 0%
+SC B M PhD SC B M PhD SC B M PhD SC B M PhD
+100% Portugal 100% Romania 100% Slovakia 100% Slovenia
+50% 37% 50% 33% 42% 35% 50% 50%
+6% 20% 11% NA NA 18% 17% 11% 13% 21% 23% 15%
+0% 0% 0% 0%
+SC B M PhD SC B M PhD SC B M PhD SC B M PhD
+100% Spain 100% Sweden 100% Switzerland 100% Turkey
+55% 50% 51% 53%
+50% 12% 14% 22% 23% 50% 30% 36% 41% 33% 50% 11% 17% 19% 50%
+NA
+0% 0% 0% 0%
+SC B M PhD SC B M PhD SC B M PhD SC B M PhD
+100% United Kingdom 100% United States Short-cycle (SC)
+Bachelor’s (B)
+50% 24% 18% 31% 28% 50% 24% 24% 35% 26% Master’s (M)
+0% 0% PhD
+SC B M PhD SC B M PhD Figure 7.3.13
+Chapter 7 Preview 28
+setaudarg
+yradnocestsop
+TCI
+elamef
+fo
+%
+Chapter 7: Education
+7.3 Postsecondary CS and AI Education
+
+Artificial Intelligence
+Index Report 2025
+Chapter 7: Education
+7.3 Postsecondary CS and AI Education
+Guidance
+Most existing university policies and guidance around AI are the most impacted by AI, almost all institutional policies
+pertain to how students use AI for assignments; guidance on are affected by technology policies (e.g., purchasing AI tools
+AI education itself tends to be relegated to the department using university resources, respecting intellectual property/
+level (primarily in computing departments). copyright laws, using AI to create malware or viruses)—from
+cybersecurity and data privacy to online learning and data
+AI is being used across campuses by both students and and analytics.
+faculty at high rates: 86% of students use AI in their studies,
+and 61% of faculty use AI in their teaching. Yet the guidelines In addition to the K–12 guidance UNESCO provided in the 2019
+around usage still lack clarity and standardization across Beijing Consensus on Artificial Intelligence and Education, it
+universities. As of early 2025, 39% of institutions have an AI- offered specific guidance that is relevant for both K–12 and
+related acceptable use policy, an increase of 16 percentage postsecondary settings with an eye toward achieving the
+points from 2024. Larger universities (10,000-plus students) Education 2030 agenda goals via AI technologies. The 2019
+are more likely to have a policy than smaller institutions (fewer report includes five implementation and policy guidelines
+than 5,000 students). Although teaching and learning policies pertaining to AI education in postsecondary settings.
+Chapter 7 Preview 29
+
+Artificial Intelligence
+Index Report 2025
+Chapter 7: Education
+7.4 Looking Ahead
+7.4 Looking Ahead
+The intentional design of an equitable AI educational future. There are already CS-based infrastructure, policies,
+ecosystem will be critical for the responsible development and implementation strategies that offer opportunities to
+and deployment of future technological innovations. The integrate AI education more seamlessly. As AI innovations
+current systems in which AI has proliferated have led to rapidly evolve, transforming education is urgent so that
+detrimental outcomes, such as mis/disinformation campaigns future creators of these technologies are made aware of
+to influence national political outcomes, development of AI- potential harms and have the competencies to mitigate
+enabled weapons, and infringement of copyright-protected negative impacts. Academic institutions around the world
+intellectual property. The pressing need to prioritize a must continue to progress (and monitor their progress) on
+better approach to building AI is evident. To do so, it is creating AI pathways, adopt policies to expand access to
+necessary to reimagine an educational program where AI relevant courses, and implement strategies to upskill the
+competencies, inclusive of building a lens interrogating educator workforce and engage students to participate and
+the ethics of AI in addition to technical creation, are seen build competencies equitably.
+as core to preparing students for a technology-powered
+Chapter 7 Preview 30
+
+Artificial Intelligence
+Index Report 2025
+Chapter 7: Education
+Appendix
+Appendix
+Code.org, CSTA, ECEP Alliance Global K-12 AI Education
+State-Level Data The Raspberry Pi Computing Education Research Centre, based
+Appendix 2 of the State of Computer Science Education in the Department of Computer Science and Technology at the
+2024 report includes a full description of the methodology University of Cambridge, compiled this dataset, expanding on
+used by Code.org, CSTA, and ECEP Alliance to collect their research conducted by the Brookings Institution for its 2021
+data. The staff at Code.org also maintains a database of the report Building Skills for Life: How to Expand and Improve
+state of American K–12 education and, in this policy primer, Computer Science Education Around the World. We made
+provides a greater amount of detail on the state of American one change to their dataset to clarify that CS in the United
+K–12 education in each state. States is available in some schools/districts and not available
+everywhere as an elective course. For more information about
+AP Computer Science Data the methodology, please refer to their report.
+The AP Computer Science data is provided to Code.org as per
+an agreement the College Board maintains with Code.org. The
+IPEDS
+AP Computer Science data comes from the College Board’s
+national and state summary reports. The Integrated Postsecondary Education Data System
+(IPEDS) combines annual surveys conducted by the U.S.
+Access to Computer Science Education Department of Education’s National Center for Education
+Data on access to computer science education was drawn Statistics (NCES). IPEDS gathers information from every
+from Code.org, CSTA, and ECEP Alliance’s State of Computer college, university, and technical and vocational institution
+Science Education 2024 report. that participates in federal student financial aid programs.
+2024 K-12 Computer Science Completion Data
+This chapter used data from the Completions survey, which
+Landscape Teacher Landscape
+collects data on the number of students who complete a
+Survey postsecondary education program. Graduates in AI-related
+fields were identified as those whose first major was either
+For more information or access to the dataset, please contact Computer and Information Sciences, General (11.01); Computer
+membership@csteachers.org. Programming (11.02); or Computer Science (11.07), according
+to the Classification of Instructional Programs (CIP) codes.
+The number of graduates in AI-related fields included in this
+State Standards Comparison
+year’s report differs from previous years because the AI Index
+CSTA and the Institute for Advancing Computing Education used multiple CIP codes.
+(IACE) published a State Standards Comparison report in
+. The dataset of approximately 10,000 state-
+OECD
+adopted K-12 standards is available as a spreadsheet, as well
+as a Python notebook that may be useful for data analysis. This chapter used data from the OECD Data Explorer,
+Colorado and Virginia’s standards were adopted in late 2024 specifically from the table “Number of enrolled students,
+and are not included in this dataset. graduates and new entrants by field of education.” The
+methodology for this dataset can be found in Education at a
+Glance 2024 Sources, Methodologies and Technical Notes.
+Chapter 7 Preview 31
