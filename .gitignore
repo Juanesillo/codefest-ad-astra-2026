@@ -2,7 +2,6 @@
 data/raw/
 data/processed/
 data/chunks/
-data/*.csv
 data/*.jsonl
 # Ignorar archivos de índice de FAISS
 indices/
