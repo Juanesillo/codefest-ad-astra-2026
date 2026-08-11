@@ -5,7 +5,7 @@ data/*.jsonl
 # Ignorar archivos de índice de FAISS
 indices/
 *.faiss
-entrega/base_vectorial/
+entrega/base_vectorial/*/metadata.jsonl
 # Ignorar el entorno virtual
 .venv/
 # Ignorar archivos de caché de Python
@@ -17,3 +17,6 @@ __pycache__/
 *.ipynb_checkpoints
 
 .DS_Store
+
+# PDF del spec descargado suelto en la raíz (material de referencia, no del proyecto)
+CODEFEST_2026-1 (1).pdf
