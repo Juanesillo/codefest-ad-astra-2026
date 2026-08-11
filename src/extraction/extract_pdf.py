@@ -28,49 +28,31 @@ def extract_pdf(path: str, idioma_ocr: str = "spa+eng+por") -> str:
         for pagina in pdf.pages:
             x0, y0, x1, y1 = pagina.bbox
             alto = y1 - y0
-            # Ignorar el 8% superior (encabezados) y el 8% inferior (pie de
-            # página). Los márgenes se calculan relativos al bbox real de la
-            # página en vez de asumir que empieza en (0, 0): algunos PDFs
-            # traen un MediaBox con origen distinto de cero (páginas con
-            # marcas de corte, recortadas de un pliego mayor, etc.), y usar
-            # coordenadas absolutas ahí produce un bbox fuera de la página.
+            # recorta 8% arriba/abajo para sacar encabezado y pie de página.
+            # se calcula sobre el bbox real (no desde 0,0) porque algunos
+            # PDFs traen el MediaBox desplazado (páginas recortadas de un
+            # pliego más grande) y con coordenadas absolutas el crop queda mal
             area_util = (x0, y0 + alto * 0.08, x1, y1 - alto * 0.08)
             pagina_recortada = pagina.crop(area_util)
-            # 1. Extraer texto nativo incrustado en el PDF, ya sin encabezado/pie
-            texto_nativo = pagina_recortada.extract_text() or ""
-            texto_nativo = texto_nativo.strip()
-            
-            # 2. Extraer y procesar imágenes con OCR
+            texto_nativo = (pagina_recortada.extract_text() or "").strip()
+
             texto_imagenes = []
             for img in pagina.images:
                 try:
-                    # Obtener las coordenadas (bounding box) de la imagen en la página
                     bbox = (img["x0"], img["top"], img["x1"], img["bottom"])
-                    
-                    # Validar que las coordenadas formen un área válida
                     if bbox[0] < bbox[2] and bbox[1] < bbox[3]:
-                        # Recortar esa región específica y convertirla en una imagen (PIL)
-                        recorte = pagina.within_bbox(bbox)
-                        pil_img = recorte.to_image(resolution=300).original
-                        
-                        # Extraer texto de la imagen usando el OCR ya configurado
+                        pil_img = pagina.within_bbox(bbox).to_image(resolution=300).original
                         texto_ocr = pytesseract.image_to_string(pil_img, lang=idioma_ocr)
                         if texto_ocr.strip():
                             texto_imagenes.append(texto_ocr.strip())
                 except Exception:
-                    # Si falla el recorte o el OCR de una imagen en particular, no rompemos el script
-                    continue
-            
-            # 3. Concatenar texto nativo y texto de imágenes de la página actual
+                    continue  # imagen individual rota, no tumba la página completa
+
             texto_final_pagina = texto_nativo
             if texto_imagenes:
-                if texto_final_pagina:
-                    texto_final_pagina += "\n\n[TEXTO DE IMAGEN/GRÁFICO]:\n"
-                else:
-                    texto_final_pagina = "[TEXTO DE IMAGEN/GRÁFICO]:\n"
-                    
-                texto_final_pagina += "\n\n".join(texto_imagenes)
-                
+                prefijo = "\n\n[TEXTO DE IMAGEN/GRÁFICO]:\n" if texto_final_pagina else "[TEXTO DE IMAGEN/GRÁFICO]:\n"
+                texto_final_pagina += prefijo + "\n\n".join(texto_imagenes)
+
             if texto_final_pagina.strip():
                 texto_paginas.append(texto_final_pagina.strip())
 

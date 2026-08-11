@@ -32,25 +32,17 @@ def count_tokens_batch(textos: list[str]) -> list[int]:
     return [len(ids) for ids in encoded["input_ids"]]
 
 
-# Estimado empírico (medido sobre una muestra del corpus con el tokenizer de
-# bge-m3): ~3.7 caracteres por token en textos es/en/pt mixtos. Se usa solo
-# como presupuesto para decidir dónde cortar (barato, sin llamar al
-# tokenizer por cada oración); el num_tokens real de cada chunk final se
-# mide después con el tokenizer, así que un error en esta estimación no
-# afecta la metadata, solo el tamaño exacto del chunk.
+# ~3.7 caracteres/token medido a ojo sobre una muestra con el tokenizer de
+# bge-m3. Es solo para presupuestar el corte sin llamar al tokenizer por
+# cada oración; el num_tokens real de cada chunk se recalcula al final.
 CHARS_PER_TOKEN_ESTIMATE = 3.7
 
 
 def _wrap_oversized(unit: str, max_chars: int) -> list[str]:
-    """Corta una unidad (oración/fila) que por sí sola ya excede el
-    presupuesto de caracteres. En la práctica esto solo ocurre con texto sin
-    puntuación real que el segmentador de oraciones no pudo dividir (listas
-    largas de nombres en agradecimientos, bloques OCR degradados, o texto
-    corrupto tipo "(cid:123)" de PDFs con fuentes mal decodificadas). Se
-    corta por límites de palabra cuando hay espacios; si una "palabra" en sí
-    misma sigue excediendo el presupuesto (texto sin espacios en absoluto,
-    como el caso "(cid:...)"), se corta directo por caracteres como último
-    recurso. La prosa normal nunca pasa por esta rama."""
+    """Para cuando una oración/fila sola ya se pasa del presupuesto (listas
+    de nombres sin puntuación, texto OCR roto, cid:123 de PDFs mal
+    decodificados). Corta por palabra, y si ni eso alcanza (sin espacios),
+    corta a lo bruto por caracteres. Prosa normal no debería llegar acá."""
     max_chars = max(1, int(max_chars))
     if len(unit) <= max_chars:
         return [unit]
@@ -90,10 +82,8 @@ def _pack_units(units: list[str], joiner: str, max_tokens: int, overlap: int) ->
     al inicio del siguiente."""
     max_chars = max_tokens * CHARS_PER_TOKEN_ESTIMATE
 
-    # Margen de seguridad extra para el wrap de emergencia: texto anómalo
-    # (glitches de extracción con caracteres duplicados, listas de nombres)
-    # tokeniza mucho peor que prosa normal (~2 char/token en vez de ~3.7),
-    # así que se usa un presupuesto más chico solo para esa rama.
+    # texto anómalo tokeniza peor que prosa normal, por eso el wrap de
+    # emergencia usa un presupuesto más conservador (mitad del normal)
     units_expandidas: list[str] = []
     for u in units:
         units_expandidas.extend(_wrap_oversized(u, max_chars * 0.5))
@@ -129,15 +119,13 @@ def chunk_document(doc: dict, max_tokens: int = 450, overlap_sentences: int = 1)
     texto_completo = doc["texto_completo"]
 
     if formato in TABULAR_FORMATS or formato in GEO_FORMATS:
-        # Unidad natural = fila / elemento (ya separados por "\n\n" en
-        # extract_tabular.py / extract_pbf.py / extract_mvt.py). No se
-        # solapan: cada fila es un registro independiente.
+        # csv/xlsx/pbf ya vienen separados por fila en "\n\n"; cada fila es
+        # un registro independiente, no tiene sentido solaparlas
         unidades = [u.strip() for u in texto_completo.split("\n\n") if u.strip()]
         joiner = "\n\n"
         overlap = 0
     else:
-        # Prosa (pdf, html, json, txt, imágenes con OCR): segmentación
-        # oracional + solape de oraciones completas entre chunks.
+        # prosa: cortamos por oración y solapamos para no perder contexto
         unidades = split_sentences(texto_completo, doc.get("idioma", "es"))
         joiner = " "
         overlap = overlap_sentences
@@ -146,7 +134,7 @@ def chunk_document(doc: dict, max_tokens: int = 450, overlap_sentences: int = 1)
         return []
 
     textos_chunk = _pack_units(unidades, joiner, max_tokens, overlap)
-    num_tokens_list = count_tokens_batch(textos_chunk)  # una sola llamada por documento
+    num_tokens_list = count_tokens_batch(textos_chunk)
 
     chunks = []
     for posicion, (texto_chunk, num_tokens) in enumerate(zip(textos_chunk, num_tokens_list)):

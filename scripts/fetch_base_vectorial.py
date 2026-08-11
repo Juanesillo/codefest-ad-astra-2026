@@ -1,11 +1,6 @@
 # scripts/fetch_base_vectorial.py
-"""Descarga index.faiss y metadata.jsonl desde la carpeta de Drive
-compartida (demasiado pesados para GitHub) y los deja en
-entrega/base_vectorial/encoder_<nombre>/, donde generador.py los espera.
-
-Uso:
-    python scripts/fetch_base_vectorial.py
-"""
+"""Baja index.faiss y metadata.jsonl desde Drive (no caben en GitHub) a
+entrega/base_vectorial/encoder_bge_m3/, donde generador.py los usa."""
 from pathlib import Path
 import sys
 

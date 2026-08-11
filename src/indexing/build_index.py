@@ -27,12 +27,9 @@ def run(
     superbatch_size: int = 2000,
     limit: int | None = None,
 ) -> None:
-    """Lee data/chunks/chunks.jsonl en streaming (por superlotes de
-    `superbatch_size`, sin cargar el corpus completo en memoria), codifica
-    cada superlote con el encoder (que internamente hace mini-lotes de
-    `batch_size` para el forward pass del modelo), y va agregando los
-    vectores a un único IndexFlatIP. `limit` permite correr sobre un
-    subconjunto chico para pruebas rápidas."""
+    """Lee chunks.jsonl en streaming por superlotes (para no cargar todo el
+    corpus en memoria), codifica cada superlote y va llenando un único
+    IndexFlatIP. `limit` sirve para probar con un subconjunto chico."""
     out_path = Path(out_dir)
     out_path.mkdir(parents=True, exist_ok=True)
 

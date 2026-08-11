@@ -19,7 +19,7 @@ def extract_mvt(path: str) -> str:
 
     try:
         tile = mapbox_vector_tile.decode(data)
-    except Exception as e:
+    except Exception:
         return ""  # tile vacío o corrupto, no bloquear el pipeline
 
     partes = []

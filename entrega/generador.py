@@ -1,13 +1,13 @@
 # entrega/generador.py
-"""Lee las 50 consultas de evaluación (consultas.txt), busca en el índice
-FAISS (base_vectorial/encoder_bge_m3/) y genera resultados.jsonl con el
-esquema exacto de la Sección 9 del spec (3 documentos + 10 fragmentos por
-consulta, cada fragmento con máximo 250 palabras).
+"""Lee las 50 consultas (consultas.txt), busca en el índice FAISS
+(base_vectorial/encoder_bge_m3/) y genera resultados.jsonl con el esquema
+de la Sección 9 del spec: 
 
-Autocontenido: no depende de nada fuera de esta carpeta (entrega/), solo
-de las librerías instaladas (faiss-cpu, sentence-transformers, nltk). Así
-la carpeta se puede evaluar copiada y aislada del resto del repositorio.
-"""
+3 documentos 
+10 fragmentos por consulta, cadafragmento con máximo 250 palabras.
+
+No depende de nada fuera de esta carpeta, solo de faiss-cpu,
+sentence-transformers y nltk (ver requeriments.txt)."""
 import json
 import re
 from pathlib import Path
@@ -22,7 +22,7 @@ INDEX_DIR = ENTREGA_DIR / "base_vectorial/encoder_bge_m3"
 CONSULTAS_PATH = ENTREGA_DIR / "consultas.txt"
 OUT_PATH = ENTREGA_DIR / "resultados.jsonl"
 
-MODEL_NAME = "BAAI/bge-m3"  # mismo encoder usado para construir el índice
+MODEL_NAME = "BAAI/bge-m3"  # encodermultilingue
 K_RETRIEVE = 30  # pool de chunks para agregar a nivel documento
 TOP_DOCS = 3
 TOP_FRAGMENTS = 10
@@ -146,11 +146,9 @@ def _dividir_fragmento(texto: str, idioma: str = "es") -> list[str]:
 
 
 def build_fragments(hits: list[dict], top_fragments: int = TOP_FRAGMENTS) -> list[dict]:
-    """Construye la lista de fragmentos de salida (Sección 9.2/9.3): recorre
-    los chunks recuperados en orden de relevancia, divide los que superen
-    las 250 palabras en sub-fragmentos (cada uno con su propio rank, pero el
-    mismo chunk_id de origen para trazabilidad), y devuelve exactamente
-    `top_fragments` entradas."""
+    """Arma los top_fragments de salida (Sección 9.2/9.3): recorre los hits
+    en orden, parte los que superen 250 palabras (mismo chunk_id de origen
+    en todos los sub-fragmentos, para trazabilidad) y devuelve la lista."""
     fragmentos: list[dict] = []
     for h in hits:
         piezas = _dividir_fragmento(h["texto"], h.get("idioma", "es"))
