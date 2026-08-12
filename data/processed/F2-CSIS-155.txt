@@ -1,0 +1,259 @@
+APRIL 20, 2026
+Cover Photo: NASA
+Artemis Rewritten: NASA’s New Moon Plan, Its
+Risks, and Whether the U.S. Can Still Beat China
+BY Shreya Chandra
+In early 2026, NASA made a consequential change to This schedule change aims to reduce technical and
+the Artemis program: Artemis III was no longer planned operational risks during the lunar landing by first testing
+as a crewed lunar landing mission. Instead, Artemis III the human landing systems and conducting docking
+had been changed to a low Earth Orbit (LEO) operations closer to Earth, before attempting such
+demonstration flight that would test integrated activities near the Moon. But this change also introduces
+operations between the Orion spacecraft and one or new risks.
+both commercial lunar landers being developed by
+SpaceX and Blue Origin. Under the new architecture, the
+Shreya Chandra was a research intern with the
+first crewed lunar landing shifts to Artemis IV, now Aerospace Security Project (ASP) at the Center for
+targeted for 2028.1 NASA also added an extra mission to Strategic and International Studies in Washington, D.C.
+This piece was produced as part of ASP’s internship
+increase launch cadence, standardized the early Space
+program supporting emerging space professionals. For
+Launch System (SLS) configuration, and publicly more information on ASP’s internship program, see
+embraced a more aggressive long-term goal of building 
+a permanent lunar base under its new “Ignition”
+initiative.
+AEROSPACE.CSIS.ORG | 1
+
+The central question now is whether this restructuring communications infrastructure.2 Earlier iterations of
+improves America’s odds of returning astronauts to the Artemis also relied heavily on the Lunar Gateway, a
+Moon before China by acknowledging and attempting to planned space station in lunar orbit (bolstered by
+mitigate risks that were a part of the original plan. international collaboration) intended to support crew
+staging and longer-term cislunar operations.3
+In principle, this architecture is designed to support a
+repeatable campaign that can evolve into sustained
+lunar operations and eventually support preparation for
+Mars. In practice, however, Artemis is far more
+operationally complex than Apollo, and that complexity
+is central to both its strategic value and its repeated
+delays.
+Q2: What is NASA changing with Artemis?
+Artemis II / NASA
+A2: The most immediate change is mission sequencing.
+Q1: What is Artemis?
+Artemis III is now a test mission in LEO planned for 2027,
+not a lunar landing. NASA says the mission will launch
+A1: Artemis is NASA’s current
+astronauts aboard Orion on SLS
+human lunar exploration
+program, intended to return In practice, however, Artemis and use that crewed flight to
+rehearse rendezvous and docking
+astronauts to the Moon for the
+is far more operationally
+operations with the HLS being
+first time since Apollo while
+complex than Apollo, and developed by SpaceX and,
+establishing the foundation for
+potentially, Blue Origin.4 The
+a sustained U.S. presence in
+that complexity is both
+point is to validate the integrated
+cislunar space and on the lunar
+central to its strategic value interfaces between NASA’s crew
+surface. Unlike Apollo, which
+vehicle and the private landers
+relied on a relatively self- and its repeated delays.
+before attempting a real lunar
+contained government-
+descent.
+developed mission architecture,
+Artemis is built around a distributed system of
+That pushes the first Moon landing to Artemis IV in
+government and commercial elements that must
+2028.5 NASA has also added an additional Artemis
+operate together across multiple missions. Its core
+mission to increase launch cadence and says it intends
+components include the SLS, which launches crews
+to pursue at least one Artemis mission per year after
+from Earth; the Orion spacecraft, which carries
+2027.6 At the same time, it is standardizing the SLS
+astronauts into deep space; commercial Human
+configuration rather than transitioning to a more
+Landing Systems (HLS), which are intended to transport
+complex upper stage variant, a move meant to simplify
+crews between lunar orbit and the surface of the Moon;
+production and improve flight tempo. NASA explained
+and a broader set of supporting systems that include
+this as creating a more repeatable campaign as opposed
+lunar surface spacesuits, logistics delivery, and
+2 | Chandra | Artemis Rewritten
+
+to treating each Artemis launch like a custom one-off been treated as bespoke hardware. NASA’s move to
+event. standardize the early SLS configuration is meant to
+reduce disruption, simplify integration, and allow
+Then came the bigger shift. At its Ignition launches on a more annual basis. If that works, it could
+event, NASA unveiled a broader strategic pivot away make Artemis feel less like a demonstration program
+from the long-emphasized Lunar Gateway orbital and more like an operational campaign.
+station and toward a direct-to-lunar surface
+infrastructure model.7 NASA announced a phased plan
+to spend roughly $30 billion over seven years building a
+permanent lunar base, with early phases focused on
+robotic buildup and technology demonstrations,
+followed by initial infrastructure emplacement, and
+eventually long-duration crewed occupation.8 NASA is
+effectively canceling Gateway as the centerpiece of the
+architecture and redirecting resources toward surface
+systems.
+Lunar South Pole Illustration / NASA
+Third, the shift away from Gateway reflects a growing
+Q3: What is this change aiming to fix?
+recognition that an orbital station does not put boots on
+the Moon.9 Gateway may still have strategic value,
+A3: The new plan is trying to solve three problems:
+especially for international cooperation and logistics,
+technical risks, schedule fluctuations, and architectural
+but it adds complexity, cost, and dependencies.
+inefficiency.
+Repurposing its architecture allows for a prioritization of
+surface systems (e.g., robotic landers, mobility assets,
+First, the original Artemis III mission attempted to
+power, construction, and eventually habitation). If the
+combine too many firsts into a single flight. It would
+objective has moved beyond flags and footprints to a
+have required Orion crew operations in deep space, a
+durable presence, NASA is now arguing that money
+successful rendezvous with Starship HLS in lunar orbit,
+should go where the permanence actually happens—on
+confidence in a commercial lander architecture not yet
+the lunar surface.
+fully demonstrated, lunar descent and ascent, and
+surface extravehicular activity (EVA) systems (all on the
+Q4: What are the risks from this new plan?
+first crewed landing mission). NASA’s decision to turn
+Artemis III into a LEO integration test strongly suggests
+A4: The revised architecture is more rational than the
+the agency no longer believes that such a stack of first-
+old one, but it is still risky. It also risks upsetting
+time events is prudent. It is separating interface
+international partners, who have made significant
+validation from the landing itself in a return to an
+investments in the old plan, even if the revision is
+Apollo-style incremental test philosophy.
+technically clearer.
+Second, the new plan is trying to address Artemis’
+The new plan still depends heavily on commercial
+glacial cadence. For years, the program has suffered
+landers that are behind schedule. NASA’s LEO
+from long gaps between missions because SLS, Orion,
+demonstration for Artemis III reduces immediate
+and supporting ground infrastructure have effectively
+| 3
+
+mission risk, but it does not eliminate the core sound coherent on paper. In execution, they create a
+dependency on SpaceX’s Starship HLS and Blue Origin’s larger program surface area with more points of failure.
+Blue Moon systems.10 NASA now plans to proceed with Q5: Can the United States still beat China back to the
+whichever lander is ready first, which sounds pragmatic Moon?
+yet underscores how uncertain the schedule remains. If
+neither vehicle is ready on time, the restructured A5: Yes, the United States can still be first to return
+sequence simply becomes a better-organized delay. astronauts to the lunar surface, but the strategic
+significance of that outcome has diminished. In the
+Abandoning or sideling Gateway may create current environment, first arrival is not the decisive
+international and contractual turbulence. Gateway has metric. Sustained access is.
+been a major anchor point for partnership with allies
+such as Japan, Canada, and the European Space NASA’s recent Artemis shuffle suggests the agency is
+Agency.11 Reallocating that architecture toward a beginning to recognize that distinction. A lunar return
+surface base may be strategically sensible, but it can that cannot be repeated at a useful cadence offers
+strain diplomatic commitments, complicate industrial limited geopolitical value, particularly if China follows
+work already underway, and trigger political backlash with a more stable and expandable architecture. The
+from stakeholders whose hardware was built around the more consequential question is whether the United
+original concept. Uncertainty abounds regarding States can translate a first landing into a durable
+international partner roles after the shift. presence supported by regular logistics, surface
+infrastructure, and operational continuity. If Artemis
+The third risk is budget realism. NASA’s $30 billion moon produces only a symbolic near-term success, while
+base plan is bold, but seven years is a very aggressive China develops a more repeatable model, then the
+horizon for building even a modest sustained outpost on United States may win the first milestone while
+the Moon. Several reports emphasize that the “base” conceding the longer-term strategic advantage.
+will be phased, which likely means an initial foothold
+rather than a fully mature settlement.12 In practice, this Acknowledgments
+is likely to be a small early surface node with power, The author would like to thank Kari Bingen, Clayton
+cargo, and repeat access. The envisioned sprawling Swope, and Christina Nordby for their support and
+lunar colony is still years out. If expectations are not insights.
+managed, the plan could become vulnerable to the
+same overpromising that already hurt Artemis.
+It appears NASA is trying to accelerate and simplify at
+the same time. That is the right instinct, but these goals
+can conflict. More missions, faster cadence, annual
+landing, surface infrastructure, and a moon base all
+4 | Chandra | Artemis Rewritten
+
+About CSIS
+The Center for Strategic and International Studies (CSIS) is a bipartisan, nonprofit policy research organization
+dedicated to advancing practical ideas to address the world’s greatest challenges.
+Thomas J. Pritzker was named chairman of the CSIS Board of Trustees in 2015, succeeding former U.S. Senator Sam
+Nunn (D-GA). Founded in 1962, CSIS is led by John J. Hamre, who has served as president and chief executive officer
+since 2000.
+CSIS’s purpose is to define the future of national security. We are guided by a distinct set of values—nonpartisanship,
+independent thought, innovative thinking, cross-disciplinary scholarship, integrity and professionalism, and talent
+development. CSIS’s values work in concert toward the goal of making real-world impact.
+CSIS scholars bring their policy expertise, judgment, and robust networks to their research, analysis, and
+recommendations. We organize conferences, publish, lecture, and make media appearances that aim to increase the
+knowledge, awareness, and salience of policy issues with relevant stakeholders and the interested public.
+CSIS has impact when our research helps to inform the decision making of key policymakers and the thinking of key
+influencers. We work toward a vision of a safer and more prosperous world.
+CSIS does not take specific policy positions; accordingly, all views expressed herein should be understood to be solely
+those of the author(s).
+| 5
+
+Notes
+1 NASA, “NASA Adds Mission to Artemis Lunar Program, Updates
+Architecture,” NASA.gov, February 27, 2026,
+
+lunar-program-updates-architecture/.
+2 NASA, “Artemis,” NASA.gov, 
+space/artemis/.
+3 NASA, “NASA Marks Artemis Progress with Gateway Lunar Space
+Station,” NASA.gov, March 14, 2024,
+
+progress-with-gateway-lunar-space-station/.
+4 Irene Klotz, “NASA Adds Lunar Lander LEO Docking Demo to
+Artemis Campaign,” Aviation Week, February 27, 2026,
+
+lander-leo-docking-demo-artemis-campaign.
+5 Adam Ducker, "NASA Artemis Mission Changes 2028 Moon Landing
+SLS," Axios, March 16, 2026,
+
+mission-changes-2028-moon-landing-sls.
+6 Eric Berger, “NASA Shakes Up Its Artemis Program to Speed Up
+Lunar Return,” Ars Technica, February 27, 2026,
+
+program-to-speed-up-lunar-return/.
+7 NASA, “NASA Unveils Initiatives to Achieve America’s National
+Space Policy,” NASA.gov, March 24, 2026,
+
+achieve-americas-national-space-policy/.
+8 Jack Daleo, “NASA’s $30B Plan to Build a Moon Base,”
+Astronomy.com, March 25, 2026,
+
+build-a-moon-base/.
+9 ScienceAlert Staff, “NASA Abandons Its Ambitious Lunar Space
+Station in Major Shake-Up,” ScienceAlert.com, March 26, 2026,
+
+space-station-in-major-shake-up.
+10 NASA Office of Inspector General, “Artemis Lander Program Faces
+Schedule Delays and Unmitigated Crew Safety Risks,” Oig.nasa.gov,
+March 10, 2026, 
+faces-schedule-delays-and-unmitigated-crew-safety-risks/.
+11 European Space Agency, “Gateway,” ESA.int,
+
+loration/Exploration/Gateway.
+12 Eric Berger, “NASA Kills Lunar Space Station to Focus on Ambitious
+Moon Base,” Ars Technica, March 24, 2026,
+
+station-to-focus-on-ambitious-moon-base/; Innovation News
+Network, “NASA Outlines Phased Moon Base Strategy,”
+Innovationnewsnetwork.com, March 25, 2026,
+
+moon-base-strategy/68109/; and NASASpaceflight Staff, “NASA Moon
+Base Pivots Gateway,”
+ March 24,
+2026, 
+pivots-gateway/.
+6 | Chandra | Artemis Rewritten

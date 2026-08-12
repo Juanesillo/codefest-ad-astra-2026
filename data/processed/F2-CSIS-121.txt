@@ -1,0 +1,5 @@
+nombre: SpaceThreat_2025, scraped_at: 2026-07-15T19:49:26.126132Z, status: ok, fenomeno: F2 - Seguridad del entorno espacial, año: 2025, titulo: Space Threat Assessment 2025, page_url: size_bytes: 11112024, dest: csis_pdfs/SpaceThreat_2025.pdf, pdf_url: 
+
+nombre: SpaceThreat_2024, scraped_at: 2026-07-15T19:49:30.454203Z, status: ok, fenomeno: F2 - Seguridad del entorno espacial, año: 2024, titulo: Space Threat Assessment 2024, page_url: size_bytes: 9523305, dest: csis_pdfs/SpaceThreat_2024.pdf, pdf_url: 
+
+nombre: SpaceThreat_2023, scraped_at: 2026-07-15T19:49:52.035758Z, status: ok, fenomeno: F2 - Seguridad del entorno espacial, año: 2023, titulo: Space Threat Assessment 2023, page_url: size_bytes: 13979394, dest: csis_pdfs/SpaceThreat_2023.pdf, pdf_url:

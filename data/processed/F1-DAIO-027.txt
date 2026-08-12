@@ -1,0 +1,2305 @@
+Guarding the Alliance’s
+Eastern Frontiers
+Defense AI in Poland
+Ein Projekt im Rahmen von
+Rafał Lipka, Jakub Wernik, and Wojciech Dzięgiel
+DAIO Study 25|29
+
+About the Defense AI Observatory
+The Defense AI Observatory (DAIO) at the Helmut Schmidt University in Hamburg
+monitors and analyzes the use of artificial intelligence by armed forces. DAIO comprises
+three interrelated work streams:
+Culture, concept development, and organizational transformation in the context of
+military innovation
+Current and future conflict pictures, conflict dynamics, and operational experience,
+especially related to the use of emerging technologies
+Defense industrial dynamics with a particular focus on the impact of emerging
+technologies on the nature and character of techno-industrial ecosystems
+DAIO is an integral element of GhostPlay, a capability and technology development
+project for concept-driven and AI-enhanced defense decision-making in support of fast-
+paced defense operations. GhostPlay is funded by the Center for Digital and Technology
+Research of the German Bundeswehr (dtec.bw). dtec.bw is funded by the European Union
+– NextGenerationEU.
+Ein Projekt im Rahmen von
+
+Guarding the Alliance’s
+Eastern Frontiers
+Defense AI in Poland
+Ein Projekt im Rahmen von
+Rafał Lipka, Jakub Wernik, and Wojciech Dzięgiel
+DAIO Study 25|29
+
+About the Authors
+Rafał Lipka graduated in economics from the Warsaw School of Economics (SGH) and has
+served as an expert in defense and international security at the Pulaski Foundation since
+2014. His research interests include armed forces modernization, the defense industry, and
+the political economy of the Transatlantic region, as well as East and Southeast Asia, with a
+particular focus on structural reforms, industrial policy and economic diversification.
+Jakub Wernik graduated from the Warsaw School of Economics with a degree in Finance
+and Accounting. He also completed postgraduate studies on the innovative economy. He is
+currently a doctoral student at the Doctoral School of the University of Warsaw, specializing
+in political science and administration. He has gained professional experience in consult-
+ing firms, non-governmental organizations, and public institutions, including the National
+Bank of Poland and the National Center for Research and Development. He is currently a
+research fellow at the Pulaski Foundation.
+Wojciech Dzięgiel is a Member of the Board of the Casimir Pulaski Foundation. He is a
+lawyer by training, having specialized in Public International Law and has graduated from
+the Hague Academy of International Law (2002) and Utrecht University (2003). After grad-
+uating from law school, he joined the state public administration and later was admitted to
+the National School of Public Administration (2005-2006). Mr. Dzięgiel is a career diplomat
+and has previously worked at the Ministry of Foreign Affairs of Poland studies on innovation
+economy at the Warsaw University (2017), ESG and sustainable finance at the Kozminski
+University (2023) and AI for Executives at the University of Warsaw (2025).
+Design
+Almasy Information Design Thinking
+Imprint
+Rafał Lipka, Jakub Wernik, and Wojciech Dzięgiel, Guarding the Alliance’s Eastern Frontiers.
+Defense AI in Poland. DAIO Study 25/29 (Hamburg: Defense AI Observatory, 2025)
+Defense AI Observatory | Chair of Political Theory | Helmut Schmidt University
+Holstenhofweg 85 | 22043 Hamburg | T +49 40 6541 2776
+ | contact@defenseai.eu | @Defense_AIO
+ISSN (online): 2749–5337
+ISSN (print): 2749–5345
+4 GUARDING THE ALLIANCE’S EASTERN FRONTIERS
+
+Content
+1 Summary ..................................................................................................................... 6
+2 Thinking About Defense AI ....................................................................................... 9
+2.1 Defense and Security Landscape –
+Enormous Needs, Even Greater Challenges Ahead ....................................................10
+2.2 Strategic Approach to the Implementation of Defense AI ...........................................13
+2.3 Preparing for the Implementation of AI for Defense and Security Purposes .................17
+3 Developing Defense AI. ........................................................................................... 20
+3.1 R&D Priorities ............................................................................................................22
+3.2 Overview of Poland’s Defense AI Ecosystem ..............................................................26
+3.3 AI in Transformation of the Defense Industry ..............................................................37
+4 Organizing Defense AI ............................................................................................. 38
+5 Funding Defense AI ................................................................................................. 41
+6 Fielding and Operating Defense AI. ....................................................................... 45
+6.1 Command, Control, Communications, Computers,
+Intelligence, Surveillance, and Reconnaissance (C4ISR) ..............................................46
+6.2 Cybersecurity ............................................................................................................47
+6.3 Other Applications ....................................................................................................48
+7 Training for Defense AI ............................................................................................ 50
+8 Conclusion. ................................................................................................................ 54
+Literature ...................................................................................................................... 57
+WWW.DEFENSEAI.EU 5
+
+1 Summary
+Poland has recently launched an ambitious plan to integrate artificial intelligence
+(AI) technologies into its defense sector as part of a broader digital transformation
+agenda. These initiatives reflect both the need to enhance the effectiveness of
+public institutions and the determination to modernize the Polish Armed Forces
+in line with evolving security challenges. The Ministry of National Defense has
+assumed a central role in this process, with growing emphasis on cross-ministerial
+collaboration and institutional support.
+A milestone in this effort has been the publication of Poland’s Military AI Strategy
+2024–2039 by the Ministry of National Defense and the establishment of the Arti-
+ficial Intelligence Implementation Center within the Cyberspace Defense Forces.
+This decision reflects a more centralized and coordinated approach, designed to
+capitalize on existing expertise and ensure synergies between the armed forces,
+industry, and the research sector. At the same time, significant challenges remain,
+particularly in securing adequate funding and building the necessary human capi-
+tal to sustain these initiatives.
+Although the adoption of AI in the military is still in its early stages, Poland’s
+efforts mirror the approach taken by leading NATO nations. Strategic documents
+adopted by the Ministry of National Defense outline a broad research and devel-
+opment agenda, covering areas such as Cognitive AI, Data Science, Cybersecurity,
+Command, Control, Communications, Computers, Intelligence, Surveillance,
+and Reconnaissance (C4ISR), Human-Machine Interfaces (HMI), and autonomous
+platforms, among others. In addition to identifying specific R&D priorities, the
+government has also launched national programs—such as PERUN—designed to
+stimulate the development of domestic solutions in these fields.
+At the same time, several AI technologies have already been developed and
+deployed by the Cyberspace Defense Forces Component Command, particularly
+in the area of cybersecurity, where they are used to enhance threat detection. Also
+notable in this context is the Legion Battle Management System, currently being
+developed by specialists within the Cyberspace Defense Forces. Its AI-enabled
+architecture reportedly allows for the automated analysis of imagery data provided
+by unmanned platforms operated by the Polish Armed Forces. Furthermore, AI is
+increasingly being integrated into operational systems, including unmanned aerial
+vehicles.
+6 GUARDING THE ALLIANCE’S EASTERN FRONTIERS
+
+To date, little is known about the allocation of funds for acquiring AI-enabled
+systems for the Armed Forces, as such expenses are embedded within the broad-
+er procurement programs of the Ministry of National Defense. Nonetheless,
+significant resources have been dedicated to establishing the Artificial Intelligence
+Implementation Center, which is tasked with coordinating most efforts related to
+the development of AI solutions for the military. At the same time, the government
+is preparing additional funding mechanisms—such as the Artificial Intelligence
+Fund and the Defense and Security Fund—intended to support research and
+development of dual-use technologies.
+AI is emerging as a key tool for enhancing training within the Polish Armed Forces,
+with potential applications ranging from personalized e-learning and automated
+assessment to advanced simulations and VR-based scenario design. While not a
+substitute for live exercises, AI-enabled simulators can reduce both the costs and
+risks of training, while strengthening decision-making skills at all levels of com-
+mand. The growing role of AI is also reshaping military education, with institutions
+such as the Military University of Technology in Warsaw integrating AI into curric-
+ula and expanding cooperation with industry. At the same time, the Ministry of
+National Defense is establishing partnerships with global technology companies—
+including Microsoft and Oracle—to modernize training, strengthen cybersecurity,
+and build cloud and AI infrastructure, ensuring long-term benefits for both de-
+fense and the broader economy.
+Poland’s defense-focused AI development stands in contrast to the broader
+national AI ecosystem, which remains fragmented and dominated by multina-
+tional corporations. Although domestic enterprises and startups are pursuing AI
+solutions with both civilian and military applications, the country continues to rely
+heavily on foreign technology providers. Without targeted policies and sufficient
+resources to support domestic innovation and strengthen public-private coopera-
+tion, this dependency is likely to persist for the foreseeable future.
+The defense industry—especially state-owned enterprises—faces additional
+structural challenges. Despite increasing demand for advanced technologies,
+these companies remain heavily dependent on public procurement and are largely
+absent from international markets. As Poland acquires major weapon systems from
+foreign contractors, the need to automate production processes and integrate AI
+into manufacturing becomes increasingly urgent, particularly given the country’s
+demographic constraints.
+WWW.DEFENSEAI.EU 7
+
+Poland continues to align its defense innovation agenda with broader trends
+among NATO allies. Initiatives such as the Cyber LEGION program and strong
+performance in international exercises like Locked Shields demonstrate the
+country’s growing competence in cyber operations and its willingness to involve
+civilian specialists in national defense. This also illustrates a pragmatic approach
+that seeks to balance military requirements with the expertise of the wider techno-
+logical community in Poland.
+While Poland’s defense AI strategy remains in the early stages of implementation,
+the direction taken by Polish decision-makers is promising. Success will depend on
+the government’s ability to translate broad strategies into concrete policies, secure
+sustained investment, and foster closer collaboration between the armed forces,
+industry, and academia. If these conditions are met, Poland could emerge as a re-
+gional leader in military AI integration and contribute significantly to strengthening
+NATO’s eastern flank and the Alliance’s broader defense capabilities.
+8 GUARDING THE ALLIANCE’S EASTERN FRONTIERS
+
+2 Thinking
+About
+Defense AI
+WWW.DEFENSEAI.EU 9
+
+2.1 Defense and Security Landscape –
+Enormous Needs, Even Greater Challenges Ahead
+The geostrategic situation is undoubtedly key to understanding Poland’s stance
+on the implementation of AI-based technologies in the broader context of mili-
+tary modernization efforts and the state’s overall security policy. Poland’s current
+approach to security and defense can best be summarized by the ancient Latin
+adage attributed to Vegetius, a Roman writer from the 4th century CE: “If you
+want peace, prepare for war.”
+After decades of neglect, the Polish government was compelled to rapidly rethink
+its priorities following Russia’s invasion of Ukraine in and, conse-
+quently, to expand the nation’s military power through the large-scale acquisition
+of a wide range of weapon systems. With a defense budget projected to reach
+approximately PLN187bn (USD50bn)1 or 4.7 percent of GDP in 2025,2 more than
+half of which is allocated to defense procurement,3 Poland continues to build up
+its military with the ultimate goal of becoming the most capable land power in
+Europe.4 Nonetheless, Poland’s military shopping spree is not limited to heavy
+land-based equipment such as main battle tanks, artillery systems, missile launch-
+ers, and various types of armored vehicles. It also includes the acquisition of state-
+of-the-art combat aircraft, air defense systems, unmanned aerial systems (UAS), a
+wide range of naval vessels, and numerous other advanced combat systems across
+all branches of the Polish Armed Forces.5
+Many of these weapon systems either already incorporate or are designed to be
+integrated with AI technologies to varying degrees, especially in the areas of re-
+al-time data processing, autonomous operation, and threat detection. All of this is
+accompanied by structural reforms, personnel expansion, and a multitude of new
+initiatives aimed at enhancing Poland’s defense capabilities and deterrence pos-
+ture. The modernization and transformation effort is not only a response to con-
+ventional military threats but also to a broader strategic shift toward an intense,
+data-centric battlespace, in which decision-making requires greater automation.
+Consequently, AI is emerging as a strategic enabler and an essential component
+of the armed forces, allowing for optimization of human and material resources as
+well as rapid reactions to counter emerging threats.
+1 BasedontheaverageUSD/PLNexchangerateinearlyJune2025.ThePolish2025defensespendingisexpectedtoreach
+approximatelyPLN187blnin2025.
+2 “Odpowiedzialny,alehojny–budżetna2025rokprzyjęty”[ResponsiblebutGenerous–2025BudgetAdopted].
+3 Dmitruk,“WydatkinaobronnośćPolskiwlatach2022-2025wedługMON”[Poland’sdefensespendingin2022–2025according
+totheMinistryofNationalDefense].
+4 Mader,“PolandonthewaytobecomingthestrongestarmyinEurope.”
+5 Lipka/Czub,“Sivispacem,parabellum:TransformationofthePolishArmedForcesinResponsetoEmergingThreats.”
+10 GUARDING THE ALLIANCE’S EASTERN FRONTIERS
+
+The threat lurking in the East is not purely military in nature, as Poland is also
+facing numerous hybrid threats that challenge the security of its infrastructure,
+energy supply, cyberspace, and even its physical borders. These broader security
+challenges also create a need for AI-enhanced solutions.
+Border security is a case in point as hostile policies of Minsk and Moscow have cre-
+ated constant migratory pressure in recent years. The governments of Belarus and
+Russia have been orchestrating an influx of migrants from less developed nations,
+exploiting the vulnerability of these people and weaponizing their plight against
+Poland, the Baltic states, and the entire European Union with the aim of creating
+chaos and political instability. As a result, in late 2021, the Polish government
+opted for the construction of a physical barrier along the Polish-Belarusian border,6
+which is accompanied by electronic surveillance systems and other security meas-
+ures that Poland continues to develop to date in order to reduce the probability
+of illegal incursions into Polish territory.7 In , Poland’s Ministry of the
+Interior and Administration announced the implementation of similar measures in
+northeast Poland, along the 200 km-long Polish-Russian border.8
+These migration-related issues should be viewed within the broader European
+context of a continent-wide migrant crisis that has impacted numerous countries,
+including Poland’s key ally, neighbor, and most important economic partner—
+Germany. In autumn 2024, the government of the Federal Republic introduced
+checks at all land borders, affecting the movement of people and goods between
+Poland and Germany.9 Rising tensions between the two capitals, coupled with
+fears of uncontrolled, illegal migration from Germany to Poland, led Warsaw to
+implement similar measures in .10
+The internal disorder triggered by migratory pressures highlights the vital im-
+portance of initiatives aimed at strengthening the security of the EU’s external
+borders—not only for the European Union and Poland, but also for NATO, given
+the hybrid warfare tactics employed by Russia and Belarus. These tactics have
+included deliberate acts of sabotage targeting infrastructure and businesses in
+Poland. For instance, in , Polish prosecutors charged a Belarusian
+citizen with orchestrating an arson attack that destroyed a large retail store in
+Warsaw.11 Reports indicate that the individual acted in cooperation with Russian
+intelligence and special services.12
+6 Drabik,“Poland:Fenceintheswamp.”
+7 “PolandEffectivelyProtectstheEUBorder.”
+8 “Ruszyłabudowazaporyelektronicznejnagranicypolsko-rosyjskiej”[ConstructionoftheelectronicbarrieronthePolish-Rus-
+sianborderhasbegun].
+9 “ChecksatallGermanlandbordersstartonMonday.”
+10 Doerries/Barth,“PolandimposeschecksonGermanandLithuanianbordersamidmigrationfears.”
+11 “PolandchargesBelarusianwitharsononbehalfofRussianintelligence.”
+12 Ibid.
+WWW.DEFENSEAI.EU 11
+
+A series of arsons across Poland between early and mid-2025, affecting business-
+es, residential buildings, and critical infrastructure, raises serious concerns about
+the security situation on NATO’s eastern flank and the potential for ongoing hybrid
+attacks by the Russian Federation.13 While these incidents may not appear directly
+linked to the development and deployment of AI in the defense sector, their scale
+and frequency have clearly influenced the thinking of Polish policymakers, prompt-
+ing them to accelerate efforts to strengthen national security and the protection of
+external borders.
+In , the Polish government announced a new initiative codenamed “East
+Shield,” aimed at enhancing Poland’s security and border defense from a strictly
+military perspective.14 The National Deterrence and Defense Program – East Shield
+is arguably one of the most comprehensive efforts of its kind in recent Polish
+history. Its ultimate goal is to establish a system of fortifications, bunkers, trenches,
+minefields, anti-tank barriers, and other critical infrastructure, all supported by ad-
+vanced surveillance systems.15 The government emphasizes the defensive nature
+of this initiative and hopes that such a system will serve as a powerful deterrent
+against potential Russian aggression. The strategic importance of the program for
+the EU’s overall defense capabilities was also recognized in the White Paper for
+European Defense – Readiness 2030, published by the European Commission in
+.16
+It is worth noting that effective border protection requires the integration of vari-
+ous types of sensors, which generate vast amounts of data necessitating real-time
+analysis and rapid decision-making regarding appropriate countermeasures based
+on the nature of the threat. These demands are among the key reasons for the
+planned acquisition of advanced data management systems that make extensive
+use of AI (Figure 1). Such systems have reportedly already been deployed to sup-
+port the physical barrier along the Polish-Russian17 and the Polish- Belarusian bor-
+der,18 with further implementation of even more sophisticated solutions planned
+under the East Shield program.19
+13 Krzysztoszek,“SeriesoffiresacrossPoland,Russiansabotagesuspected.”
+14 “TarczaWschód”wzmocnibezpieczeństwoPolskiiwschodniejflankiNATO”[‘EasternShield’willstrengthenthesecurityof
+PolandandNATO’seasternflank].
+15 “NarodowyProgramOdstraszaniaiObrony–TarczaWschód”[NationalDeterrenceandDefenceProgramme–EastShield].
+16 “WhitePaperforEuropeanDefence–Readiness2030.”
+17 Bujak,Tomasz,InterviewbyGraf,Jędrzej,“PolskasztucznainteligencjadlaTarczyWschód”[Polishartificialintelligencefor
+theEastShield].
+18 Mężyński,Andrzej,“SztucznainteligencjanagranicyzBiałorusią.MSWiAzmodernizowało“zaporętechniczną”[Artificialintel-
+ligenceontheborderwithBelarus:TheMinistryoftheInteriorandAdministrationhasmodernizedthe‘technicalbarrier’].
+19 Thesesolutionswillincludethedeploymentofdronedetectionandtrackingsystems,incorporatingradars,thermalimaging,
+andacousticmonitoring.Thesecapabilitieswillstrengthentheabilitytocounterunmannedaerialvehicles,whichhavebecome
+increasinglyprevalentinrecentconflicts,asdemonstratedbythewarinUkraine.
+programme/(lastaccessed5September2025).
+12 GUARDING THE ALLIANCE’S EASTERN FRONTIERS
+
+Figure 1: Overview of the Selected Components of the East Shield Program20
+AI-Supported
+Operational Centers
+Effectors Sensors
+Sensor-Equipped Masts Other Military Sensors,
+Kinetic Non-kinetic Deployed Along the Border Including Satellites, AEW&C
+(SIGINT, IMINT, Acoustic) Aircraft, UAS,
+Reconnaissance Airships
+Figure 1: Overview of the Selected Components of the East Shield Program20
+2.2 Strategic Approach to the Implementation
+of Defense AI
+At the strategic level, Poland’s national AI development strategy is based on the
+2020 Policy for the Development of Artificial Intelligence in Poland, the imple-
+mentation of which is a consequence of the publication of numerous documents
+related to Poland’s digitalization and development efforts. These include the
+Public Data Opening Program, the Strategy for Responsible Development, the
+From Paper to Digital Poland Program, the Dynamic Poland 2020 Strategy for
+Innovation and Efficiency of the Economy, among others.21 The strategy also
+takes into account the Coordinated Plan on Artificial Intelligence of the European
+Commission, as well as other strategic recommendations and AI-related guidelines
+published by the European Union and the Organization for Economic Co-opera-
+tion and Development (OECD).
+20 BasedonthePresentationoftheGeneralStaffregardingtheimplementationoftheEastShieldProgram.
+schod.wp.mil.pl/en/about-the-programme/(lastaccessed5September2025).
+21 “PolicyfortheDevelopmentofArtificialIntelligenceinPolandfrom2020.AppendixtotheResolutionno.196oftheCouncilof
+Ministersof28December2020(item23).”
+WWW.DEFENSEAI.EU 13
+
+The policy deliberately excludes the defense and security dimensions of the state’s
+activities, while emphasizing that the civilian sector is expected to cooperate with
+the military in multiple areas, as outlined in the 2020 National Security Strategy of
+the Republic of Poland. These include the need for development and implemen-
+tation of new, highly innovative technologies, including “automated and robotized
+weapon platforms using artificial intelligence.”22 However, the policy does refer-
+ence the military and other key actors, including the Ministry of National Defense,
+as major future users of AI-based solutions. For example, it identifies the Ministry
+of National Defense as one of the key stakeholders in advancing AI development
+in Poland, particularly in areas such as education, scientific research, and collabo-
+ration with highly innovative enterprises. The strategy also emphasizes the need to
+increase national investment in AI for defense and security purposes.23
+Given the deterioration of the security situation on NATO’s eastern flank, a new
+National Security Strategy is highly anticipated. The updated strategy will likely
+address key challenges and outline development priorities across multiple areas,
+including those related to AI. As of late , it remains unclear when the final
+version of the document will be published, although the new Strategy was offi-
+cially approved by the government on July 25, 2025.24 It is worth noting, however,
+that the President’s Chancellery drafted its recommendations for the upcoming
+strategy in , identifying the development of AI and autonomous systems
+as top priorities, particularly in the field of education and research and develop-
+ment (R&D).25
+In the defense context, the most important document concerning artificial intelli-
+gence is Poland’s Ministerial Artificial Intelligence Strategy until 2039 (Resortowa
+strategia sztucznej inteligencji do roku 2039)—hereafter referred to as Poland’s
+Military AI Strategy 2024–2039—published in by the Ministry of
+National Defense. The Strategy’s primary objective is to develop, integrate, and
+implement AI in the areas of defense and security under the Ministry’s jurisdiction.
+This includes the creation of dedicated structures responsible for:
+1. Coordinating all AI-related initiatives at the Ministry level;
+2. Conducting research and development, as well as testing and implementing
+selected solutions provided by partner institutions;
+3. Maintaining and operating deployed systems.26
+22 NationalSecurityStrategyOfTheRepublicOfPoland.
+23 Ibid.
+24 “StrategiaBezpieczeństwaNarodowegoRzeczypospolitejPolskiej”[NationalSecurityStrategyoftheRepublicofPoland].
+25 “RekomendacjedoStrategiiBezpieczeństwaNarodowegoRzeczypospolitejPolskiej”[RecommendationsfortheNational
+SecurityStrategyoftheRepublicofPoland].
+26 “Resortowastrategiasztucznejinteligencjidoroku2039”[Poland’sMinisterialArtificialIntelligenceStrategyuntil2039].
+14 GUARDING THE ALLIANCE’S EASTERN FRONTIERS
+
+The document presents a holistic approach to defense-related applications of AI
+by highlighting the strategic context for the development of such technologies,
+analyzing the Ministry’s current level of readiness for AI implementation and outlin-
+ing a vision for the advancement of military AI in Poland. Moreover, it is assessing
+opportunities and threats, identifying key future directions and objectives for the
+Ministry, and recommending actions that need to be taken. The Strategy explicitly
+mentions the role of AI for data analytics to support decision making, for instance
+in the context of targeting and intelligence, surveillance and reconnaissance (ISR)
+operations. Advancements in AI technologies are also emphasized in the context
+of improving cybersecurity and developing autonomous weapon systems, includ-
+ing the deployment of drone swarms. The strategy further highlights the use of
+such technologies in information warfare, while noting that AI can pose a signif-
+icant threat in the hands of non-state actors, including terrorist organizations, as
+well as state actors that may use it to conduct various forms of hybrid operations,
+such as disinformation campaigns.
+According to the authors, the implementation of advanced technologies—
+including AI—is a prerequisite for maintaining capable Armed Forces with a strong
+deterrence posture. By 2039, AI-based technologies are expected to be widely
+deployed in the following areas:
+1. Autonomous weapon systems used in both offensive and defensive oper-
+ations. These systems will be capable of operating fully autonomously or
+supporting operators in navigation or decision-making, thereby enhancing
+operational effectiveness and reducing risks to military personnel.
+2. Data collection and analytics in intelligence, surveillance, and reconnaissance
+(ISR) operations. AI will enable the effective processing of large volumes of
+data to anticipate and assess adversary actions, and to support planning and
+execution of military operations. The automation is expected to significantly
+reduce the workload of military personnel, as well as increase the effectiveness
+of target detection and identification.
+3. Military logistics, including planning, resource management, transportation,
+maintenance, repair and operations (MRO), and supply chain management.
+The implementation of AI technologies is expected to significantly reduce risks
+related to human error and improve cost-effectiveness of logistics operations.
+4. Cyber operations, by increasing the effectiveness of both defensive and offen-
+sive actions in cyberspace.
+5. Personnel training, through more efficient, adaptive, personalized and data-
+driven approaches.
+6. Military decision-making, particularly in enhancing data analytics and situation-
+al awareness to support tactical, operational and strategic-level judgments by
+providing accurate assessments and recommendations.
+WWW.DEFENSEAI.EU 15
+
+Besides threats such as hostile cyber operations against military AI systems as
+well as potential malfunctions and errors, among others, the strategy highlights
+the importance of legal and moral aspects of developing and deploying AI-based
+solutions for the military purpose.
+Developing AI, automation and autonomous systems is a key topic of the Re-
+search Priorities of the Ministry of National Defense for 2021–2035 (Priorytetowe
+kierunki badań naukowych w resorcie obrony narodowej w latach 2021-2035),
+introduced by Ministerial Decision No. 2/DIn on 10 .27 This document
+has undoubtedly influenced the final shape of Poland’s Military AI Strategy. Its
+main objective is to identify the critical technologies that must be developed and
+implemented within the Polish Armed Forces to ensure the country possesses
+the necessary defensive capabilities by the mid-2030s. The document places the
+development of AI and related technologies at the top of the Ministry’s extensive
+list of R&D priorities. The authors highlight several potential applications of AI,
+including its integration into Command, Control, Communications, Computers, In-
+telligence, Surveillance, and Reconnaissance (C4ISR) systems. AI is also envisioned
+as a key enabler in training programs and simulators using virtual and augmented
+reality (VR/AR) technologies, offering a cost-effective way to enhance soldiers’
+combat readiness and improve competencies related to maintaining advanced
+weapon systems. Other applications include, among others, space technologies
+such as satellite systems, and innovations in combat medicine.
+The broad vision for AI implementation in the Polish military—though vague in
+some areas or left unspecified due to the classified nature of many applications—
+is best summarized by the words of the Polish Minister of National Defense,
+Władysław Kosiniak-Kamysz:
+We are not only building cybersecurity, but we also aim to stay ahead of our
+adversaries and competitors, while simultaneously becoming a leader of an
+alliance of nations of good will – countries that allocate their spending toward
+innovative and effective solutions. We are a NATO record-holder in terms of
+spending on transformation. Transformation is not just about purchasing equip-
+ment – it is an investment in digital security and the implementation of artificial
+intelligence. In a few years, there will be no military capable of functioning
+without artificial intelligence. We are fully aware of this – perhaps more so than
+some other countries in this part of Europe and the world. We know that without
+the implementation of artificial intelligence, it will be impossible to train soldiers,
+make logistical decisions, conduct operations, or manage the battlefield.28
+27 “Priorytetowekierunkibadańnaukowychwresorcieobronynarodowejwlatach2021-2035”[Prioritydirectionsofscientific
+researchintheMinistryofNationalDefensefor2021–2035].
+28 “WicepremierW.Kosiniak–Kamysz:niemadziśważniejszejsprawyniżbezpieczeństwoPolaków”[DeputyPrimeMinisterW.
+Kosiniak-Kamysz:ThereisnomoreimportantissuetodaythanthesecurityofPoles].
+16 GUARDING THE ALLIANCE’S EASTERN FRONTIERS
+
+Last but not least, it is worth noting that the application of AI is one of the key
+components of Poland’s highly anticipated Digitalization Strategy 2035. Based on
+the publicly available draft, the Strategy is unlikely to address the defense-related
+aspects of AI implementation, as its primary focus lies on the economic and in-
+dustrial implications of adopting advanced digital technologies. Nonetheless, the
+Strategy clearly emphasizes the importance of applying AI in areas such as cyber-
+security and public administration, while also encouraging collaboration between
+the civilian and military sectors due to the dual-use nature of these technologies.29
+2.3 Preparing for the Implementation of AI
+for Defense and Security Purposes
+Government documents—particularly Poland’s Military AI Strategy 2024–2039—
+place strong emphasis on the readiness of the Ministry of National Defense and
+the Armed Forces to deploy various technologies utilizing AI, as outlined in
+the Operational Goal no 1: Preparation for fielding artificial intelligence in the
+Ministry. The Ministry’s approach is largely based on the concept of human-ma-
+chine teaming (HMT) “in order to multiply the existing capabilities, combining
+human’s cognitive abilities and creativity with machines’ analytical capabilities
+and speed.”30 This highlights the supportive role of AI within the Ministry and the
+Polish Armed Forces, with humans remaining the ultimate decision-makers and
+bearing full responsibility for the consequences of employing such technologies.
+Paradoxically, one of the greatest challenges facing the government in this area
+is the availability of a skilled civilian workforce and military personnel—including
+both the competencies of current Ministry staff and the government’s ability to
+attract highly skilled and knowledgeable talent. The Strategy addresses these
+issues by presenting a set of actions aimed at enhancing personnel competencies
+across technical, operational, ethical, and legal dimensions of AI implementation.
+Regarding the latter, the Ministry has recognized the need to review existing
+legislation and operational procedures to ensure they are adapted for the integra-
+tion of AI—particularly in situations where certain aspects of command and control
+(C2) may be delegated to such systems. The document also outlines measures to
+retain specialists and recruit staff with the necessary skills and expertise, recom-
+mending that the employment practices be aligned with those applied in the field
+of cybersecurity. It is worth noting that, for the time being, the Ministry of National
+Defense can capitalize on the growing interest in voluntary military service and
+29 “Strategiacyfryzacjipaństwa”[NationalDigitalizationStrategy].
+30 “Resortowastrategiasztucznejinteligencjidoroku2039”[Poland’sMinisterialArtificialIntelligenceStrategyuntil2039].
+WWW.DEFENSEAI.EU 17
+
+the public’s heightened engagement with defense and security matters driven by
+the ongoing conflict in Ukraine. Over the past two years, the Ministry has seen a
+significant increase in applications, prompting the government to increase yearly
+recruitment limits.31 However, it remains unclear whether these developments will
+positively impact efforts to recruit specialists in the field of AI.32
+Given the ambitious plans to deploy AI in multiple domains simultaneously, the
+Ministry of National Defense will also need to update its ICT (Information and
+Communication Technology) infrastructure to ensure adequate computing power
+for both current and future needs. This includes adopting cloud-based services,
+developing classified on-premise systems, and establishing new procedures to
+safeguard data security. The latter is particularly important as the development of
+AI solutions for the Ministry will involve research institutes and private companies
+that will require access to highly sensitive and classified information. This will pose
+a significant challenge in the near future, especially given that the anonymized and
+secure databases required for developing specific AI systems reportedly do not
+exist.33
+Significant attention has been given to the organizational preparedness of the
+Ministry and the Armed Forces. The Ministry has drafted a plan to establish
+dedicated departments within its organizational structure, including the General
+Staff, to effectively coordinate AI-related projects—particularly those requiring
+collaboration with other ministries and international partners. Simultaneously, the
+Strategy introduces the concept of creating an AI Implementation Center, which
+would be responsible for the technical and technological aspects of deploying AI
+in the defense sector, as well as for coordinating R&D efforts in this field.
+Although the Strategy repeatedly emphasizes the importance of adhering to
+national and international law—including International Humanitarian Law—as
+well as ethical norms in the operation of AI-enabled military systems, it provides
+little detail on specific considerations in this regard. The document explicitly
+acknowledges ethical challenges related to delegating decision-making authority
+to combat systems, particularly in the use of kinetic measures to destroy selected
+targets. Nonetheless, it reaffirms that the development and implementation of
+AI in the military will comply with the provisions of the 2023 Political Declaration
+on Responsible Military Use of Artificial Intelligence and Autonomy, which Poland
+31 “MONzwiększanatenroklimitdlaochotnikówwDZSWiobniżaw2025r.”[TheMinistryofNationalDefenseincreasesthe
+limitforvolunteersintheVoluntaryBasicMilitaryServiceforthisyearandlowersitin2025].
+32 On13August2025,MGKarolMolendastated:“ThroughoutPoland,underthepatronageoftheCyberCommand,weestab-
+lisheduniformedITclasses.Wealsoincreasedthenumberofstudentsatmilitaryuniversities.Wefocusedonlong-termdevel-
+opment.Nowwecanseetangibleresults.Today,Ihadtheopportunitytowelcomeover130secondlieutenants,graduatesof
+cybersecurity-relatedprograms,toourranks.”Quotedbasedon:
+(lastaccessed5September2025).
+33 “OsztucznejinteligencjinaseminariumnaukowymwCDISSZ”[OnArtificialIntelligenceattheScientificSeminarintheCDISSZ].
+18 GUARDING THE ALLIANCE’S EASTERN FRONTIERS
+
+ultimately endorsed34 following cross-ministerial consultations—despite the gov-
+ernment’s initial reluctance to sign due to the reportedly unclear implications of
+endorsement.35
+It is also important to note that Poland has yet to enact a dedicated AI law that
+would fully align national regulations with the EU Artificial Intelligence Act of 2024,
+although existing legislation is being gradually adapted.36 A draft of Poland’s AI
+Law was published in late 2024 for public consultation, which concluded in Febru-
+ary 2025.37 As of , a revised draft has been released, providing for the
+establishment of an AI Development and Security Authority.38
+34 “PoliticalDeclarationonResponsibleMilitaryUseofArtificialIntelligenceandAutonomy.”
+35 Palczewski,“Wojsko:deklaracjaoużyciuAI.BrakujePolski;MSZwyjaśnia.”[Military:DeclarationontheUseofAI.Poland
+Missing;ForeignMinistryExplains].
+36 Dudkowiak,“AILawinPoland.”
+37 “ProjektUstawyosystemachsztucznejinteligencjizezmianamipokonsultacjachspołecznych”[DraftActonArtificialIntelli-
+genceSystemswithAmendmentsFollowingPublicConsultations].
+38 Ciechoński,“RządowepracenadustawąwdrażającąAIActnaostatniejprose”[GovernmentWorkontheLawImplementingthe
+AIActintheFinalStretch].
+WWW.DEFENSEAI.EU 19
+
+3 Developing
+Defense AI
+20 GUARDING THE ALLIANCE’S EASTERN FRONTIERS
+
+The Ministry’s concept of developing and implementing AI is primarily based on
+the scalability of adopted solutions, as outlined in the Operational Goal no 2: Scal-
+able Implementation of Artificial Intelligence.39 Given the innovative and rapidly
+evolving nature of AI technologies—as well as the need for collaboration between
+the Ministry and various entities, including other ministries and the industry—a
+learning-by-doing approach is considered optimal in the context of changing
+capabilities and potential future applications. The authors place significant empha-
+sis on the need to establish procedures for testing, verification, and validation of
+machine learning algorithms, which will require the active involvement of devel-
+opers. Considering these factors, the Ministry intends to promote a systematic,
+yet incremental and evolutionary approach to developing new solutions through
+experimentation with less sophisticated models. This hybrid approach—combining
+on-premise systems with commercial AI solutions, such as those utilizing cloud
+architecture—is expected to effectively stimulate the growth of AI innovation
+within the defense sector. Furthermore, the government plans to engage all key
+stakeholders in this process, including developers, procurement entities, and
+future system operators. This will involve applying DevSecOps (development,
+security, and operations) principles throughout the development and implementa-
+tion lifecycle.
+Poland’s efforts to accelerate the AI implementation process build on the experi-
+ence gained from the establishment of the Cyberspace Defense Forces in 2022,
+following the Minister’s decision issued in 2019.40 Moreover, the aforementioned
+Artificial Intelligence Implementation Center—whose formation began in 2025—
+will operate within the structure of the Cyberspace Defense Forces Component
+Command, which is capable of ensuring access to specialists with required exper-
+tise, at least during the Center’s initial phase of operations.41 Its primary objective
+will be to implement AI technologies in key areas of military operations, including:
+Analysis of intelligence and reconnaissance data,
+Development of autonomous combat systems,
+Decision-making support and logistics optimization,
+Verification and implementation of available AI technologies for military
+applications.
+Given the unit’s capabilities to conduct the full spectrum of cyber operations
+and its ability to attract highly qualified talent, the government’s plans appear
+well-founded and appropriately tailored to Poland’s needs, while significantly
+39 “Resortowastrategiasztucznejinteligencjidoroku2039”[Poland’sMinisterialArtificialIntelligenceStrategyuntil2039].
+40 “2022–rok,wktórympowstałyWojskaObronyCyberprzestrzeni”[2022–theyearinwhichtheCyberspaceDefenseForces
+wereestablished].
+41 BasedonthedataprovidedbytheCyberspaceDefenseForcesComponentCommand,followingtheauthors’requestfor
+information.
+WWW.DEFENSEAI.EU 21
+
+reducing the risks associated with establishing such an organization within the
+armed forces. This also demonstrates the awareness of Polish decision-makers
+regarding recent trends among leading NATO member states in the fields of
+digitalization and AI. For example, dedicated AI development and implementation
+centers have been established in countries such as the United States,42 the United
+Kingdom,43 and many others.44
+3.1 R&D Priorities
+Prior to the publication of Poland’s Military AI Strategy 2024–2039—which pro-
+vides a primary road map outlining the government’s policy on developing and
+adopting AI in the Polish Armed Forces and the Ministry of National Defense—the
+National Center for Research and Development launched the PERUN program
+in .45 The main objective of this initiative is to support develop-
+ment of innovative projects through collaboration between the industry, research
+institutes, and academia in the field of defense and security, as outlined in the
+Research Priorities of the Ministry of National Defense for 2021–2035. Notewor-
+thy is the fact that six of the program’s thematic areas are directly connected to the
+development of AI-based technologies and the automation of defense systems.
+These include applications in cybersecurity, intelligence, surveillance, and recon-
+naissance, drone swarms, and the so-called manned-unmanned teaming, which
+aims to enhance the effectiveness of cooperation between human-operated plat-
+forms and autonomous systems.46 Expected outcomes of these projects include,
+among others:
+1. The implementation of AI in automating security-related processes within ICT
+systems;
+2. Countering disinformation through the analysis of digital data to detect Deep-
+fake content;
+3. Automation of ISR data analysis;
+4. The development of AI-enabled communication protocols for drone swarms
+operating in coordination with manned systems.
+42 “ChiefDigital&ArtificialIntelligenceOfficeCelebratesFirstYear”
+43 Formore,see:
+2025).
+44 Borchert,“TheVeryLongGameofDefenseAIAdoption:Introduction,”pp.18-20.
+45 “Czasnarealizacjęprojektówwzakresiebadańnaukowychipracrozwojowychnarzeczobronnościibezpieczeństwapaństwa
+–ruszyłProgramNCBRpk.PERUN”[Timetoimplementprojectsinthefieldofscientificresearchanddevelopmentworkfor
+nationaldefenseandsecurity–theNCBRprogramcode-namedPERUNhasbeenlaunched].
+46 “Załączniknr2doRegulaminuKonkursu1/PERUN/2023”[AppendixNo.2totheRulesofCompetition1/PERUN/2023].
+22 GUARDING THE ALLIANCE’S EASTERN FRONTIERS
+
+The implementation of the PERUN program reflects an evolutionary and incremen-
+tal approach to advancing innovative defense technologies in Poland. This marks
+a considerable improvement over the previous program of such kind, codenamed
+SZAFIR,47 which ended in 2022 and was considered rather outdated, failing to ac-
+count for rapid technological advancements and insights drawn from the ongoing
+conflict in Ukraine.
+It is important to emphasize that the need for a state-funded program aimed at
+accelerating the development of domestic high-tech innovations arises from limited
+R&D funding opportunities in Poland, a highly competitive international environment,
+and the constraints imposed by similar international initiatives, all of which present
+serious challenges to many Polish companies. This is particularly relevant in the case
+of Polish state-owned defense enterprises, which are heavily dependent on public
+procurement and—with very few exceptions, such as Mesko, the producer of the
+GROM/PIORUN man-portable air-defense systems48—remain virtually absent from
+international markets due to competition from much larger and more technologically
+advanced counterparts.49 Therefore, the establishment of such programs is essential
+to stimulate the development of domestic solutions, thereby enhancing the industry’s
+competitiveness and its capacity to generate innovations in the long term.
+It is worth noting that almost 200 projects have been positively evaluated under
+the formal requirements of the PERUN program. Given the classified nature of
+these endeavors, it is currently difficult to determine the exact number of submit-
+ted AI-related applications. However, the range of applicants—comprising both
+leaders and members of participating consortia—includes universities, R&D institu-
+tions, and private as well as state-owned companies, with a significant number of
+applications submitted by public military universities acting as project leaders.50
+While the PERUN program is intended to support various R&D projects through
+2033, its scope and content do not fully reflect the strategic, long-term research
+priorities of the Ministry of National Defense. These long-term plans for the
+development and implementation of AI are outlined in the Research Priorities of
+the Ministry of National Defense for 2021–2035. The most important components
+of this plan, along with their anticipated impact on the functioning of the Polish
+Armed Forces, are presented in Table 1.
+47 “4/SZAFIR/2021.”
+48 “PIORUNMANPADS.”
+49 Comparedtodatafor2022,thevalueofactualexportsandintra-EUtransfersofarmsandmilitaryequipmentin2023in-
+creasedbyover€572M,reaching€1,753M.Intermsofvalue,Ukrainianentitiesrankedfirstforrecipientsofproductsexported
+fromPolandin2023(approximately81%ofexportvalue),followedbytheUnitedStates(7%),Spain,andGermany(1%each).
+Formore,see:
+accessed5September2025).
+50 “Listawnioskówpozytywnieocenionychpodwzględemformalnym(Konkursnr1/PERUN/2023)”[ListofApplicationsPositively
+EvaluatedinTermsofFormalCriteria(CompetitionNo.1/PERUN/2023)].
+WWW.DEFENSEAI.EU 23
+
+Table 1: Selected Research Priorities of the Ministry of National Defense for
+2021–2035 in the field of AI51
+Field of Impact on the Armed Forces Approach to Due
+Research R&D Financing Date
+1. Cognitive AI Establishingefficientmechanismsformachine Nationaland 2035
+learning international
+Developingnewalgorithmsandproceduresfor R&Dprograms
+effectivedecision-making
+Creatingautomatedsoftwaresolutionsfor
+detectingandcounteringcyberthreats
+2. Data Science Usingbigdataanalyticstouncoverhidden Nationaland 2033
+relationshipsbetweendatasets international
+Improvingtheefficiencyofidentifyingsolutions R&Dprograms
+tooperationalneedsandchallenges
+2.1. Command Supportingcommandandcontrolprocesses Nationaland 2035
+and Control Streamlininglogistics international
+Reducingoveralloperationalcosts R&Dprograms
+2.2. Cyberse- Safeguardingoperationsinthecyberdomain NationalR&D 2035
+curity Enhancingtheefficiencyofcyberthreatdetec- programs
+tion
+Automatingcountermeasurestocyberthreats
+Ensuringtheeffectivenessofbothoffensive
+anddefensivecyberoperations
+Strengtheningthecapacitytodevelopnewsolu-
+tionsbasedoncollecteddataandoperational
+experience
+2.3. ISR Reducingthetimerequiredforimagerydata NationalR&D 2030
+(Intelligence, analysis programs
+Surveillance, Increasingtheeffectivenessofthreatdetection
+and Reconnais- systems
+sance) Enablingcontentanalysisofaudioandtextdata
+toenhancesystemcapabilities
+51 Basedon:“Priorytetowekierunkibadańnaukowychwresorcieobronynarodowejwlatach2021-2035”[Prioritydirectionsof
+scientificresearchintheMinistryofNationalDefensefor2021–2035].
+24 GUARDING THE ALLIANCE’S EASTERN FRONTIERS
+
+Field of Impact on the Armed Forces Approach to Due
+Research R&D Financing Date
+3. Development Improvingsituationalawarenessforcommand- Programsofthe 2028
+of an Efficient ersoverseeingunitscomposedofbothsoldiers NationalCenter
+Human- andunmannedplatforms forResearchand
+Machine Enablingeffectivehuman-machinecooperation Development
+Interface (HMI) Enhancingtheergonomicsofsystemsusedto
+controlunmannedplatforms
+4. Development Reducingoperationalrisksrelatedtohuman Programsofthe 2028
+of Autonomous error NationalCenter
+Platforms Increasingtheefficiencyoflogisticsandmedi- forResearchand
+calevacuationfromcombatzones Development
+Enhancingreconnaissancecapabilities andthrough
+Improvingthesafetyofmilitarypersonnel international
+duringoperations consortiawithin
+theframeworks
+oftheEuropean
+DefenseAgency
+(EDA)and
+theEuropean
+DefenseFund
+(EDF)
+Table 1 demonstrates that most of Poland’s R&D priorities related to artificial intel-
+ligence were projected to rely primarily on national sources of funding, although
+participation in international frameworks such as the European Defense Agency
+and the European Defense Fund is also anticipated. It is worth noting that Polish
+state-owned companies have faced significant challenges in the past when apply-
+ing for dedicated EU funds. For example, under the Act in Support of Ammunition
+Production (ASAP), only one Polish company—Dezamet—succeeded in securing
+modest funding to expand its manufacturing base.52
+Although Polish entities are generally interested in participating in EDF-funded
+projects, most past participants have been research and development institutes,
+52 Król,“MONwyjaśniaaferęzgrantaminaamunicję”[DefenseMinistryAddressesAmmunitionGrantScandal].
+WWW.DEFENSEAI.EU 25
+
+universities, and private companies involved in large consortia as subcontractors.53
+The absence of Polish companies in consortia conducting AI-related R&D projects
+within the EDF framework in 2024 is concerning. However, it is worth noting that
+two Polish entities—WB Electronics and the Military University of Technology—are
+taking part in the 2023 Artificial Intelligence Deployable Agent (AIDA) project of
+the European Defense Fund.54 This highlights both the growing awareness among
+Polish companies of the opportunities related to EDF’s support for innovative
+projects and the capacity of the private sector and academia to successfully secure
+such funding.
+3.2 Overview of Poland’s Defense AI Ecosystem
+Current efforts to develop AI-based solutions in Poland appear to focus primarily
+on Command, Control, Communications, Computers, Intelligence, Surveillance,
+and Reconnaissance (C4ISR), as well as the automation of related processes—al-
+though other innovations, such as the development of AI-supported autonomous
+systems, are also being pursued. The broader AI ecosystem (Figure 1) remains
+relatively diverse, encompassing both defense companies and firms focused on
+dual-use technologies, along with startups and other entities established to stimu-
+late the growth of such innovations in Poland. Collaboration between state-owned
+companies within the Polish Armaments Group (PGZ, Polska Grupa Zbrojeniowa)
+and startups has also been observed—suggesting that the development and
+implementation of AI in the defense and security sectors may provide emerging
+Polish businesses with new opportunities.
+The Ministry of National Defense’s perspective on the development of Poland’s
+AI ecosystem is best captured by Brig. Gen. Marcin Górka, head of the Ministry’s
+Innovation Department:
+Our goal is to build an innovation ecosystem that responds to the military’s
+needs and supports technology development in collaboration with the de-
+fense industry. Stability and inclusiveness are important to us – the Ministry
+of Defense’s doors are open to civilian technologies that can be adapted to
+enhance national security. The IDA program demonstrates that we are ready
+to collaborate with innovators and that we want them to better understand the
+needs of the armed forces.55
+53 Palowski,“MiliardzUEnatechnologieobronne.Skorzystapolskiprzemysł?”[ABillionfromtheEUforDefenseTechnologies.
+WillPolishIndustryBenefit?].
+54 “ArtificialIntelligenceDeployableAgent.”
+55 “IDADemoDay2024:Polskietechnologiedual-usedlabezpieczeństwairozwojusektoraobronnego”[IDABootcamp2025–
+PFRseeksinnovativesolutionsfordefense].
+26 GUARDING THE ALLIANCE’S EASTERN FRONTIERS
+
+Figure 2: Poland’s AI Ecosystem According to the Policy for the Development of Ai in
+Poland from 2020
+AI Entrepreneurs
+SMEs, Large Companies,
+International Investors
+AI Research and
+Science
+Public Sector
+Universities, NCBR,
+Ministries, PFR, PAiHetc.
+National Science Center
+Data
+etc.
+Management
+Minister in charge
+Funding of computerization Research
+Coordination of the AI Policy
+AI Customers
+SOEs, Government & Its Infrastructure AI Education
+Agencies, Public Sector,
+Armed Forces
+Companies
+This section will concentrate primarily on Polish entities or on enterprises with a
+strong connection to the Polish market—whether through their founders’ back-
+grounds, their origins, or the scale of their operations in Poland. Nonetheless, it is
+important to note that the Polish government cooperates with numerous multi-
+national technology companies and other global entities that undeniably shape
+the overall picture of the Polish defense AI ecosystem. Such cooperation agree-
+WWW.DEFENSEAI.EU 27
+
+ments have been signed to date with Google,56 Microsoft,57 Oracle,58 and Intel.59
+AI-based services with potential applications in administration and other public
+services are also promoted by major consulting firms, including Accenture.60
+Other notable examples include international defense contractors that not only
+integrate AI into their combat platforms61 but also transform the manufacturing of
+defense systems by implementing smart factory technologies.62 These examples
+illustrate why mapping a complete picture of the AI ecosystem is so challenging:
+an ever-growing number of companies are adopting such technologies to varying
+degrees across a wide range of applications. This trend, in turn, directly influences
+the perspective of Polish decision-makers and local entities, which must contend
+with fierce competition from multinational companies firmly established in global
+markets. At the same time, it also creates opportunities for new frameworks of
+cooperation that could benefit the Polish Armed Forces and support the trans-
+formation of the domestic defense industry through well-designed procurement
+programs and offset agreements.
+A key example of a domestically developed solution is the Legion Battle Manage-
+ment System (BMS), currently being introduced into operational service. It was
+developed by the previously mentioned Cyberspace Defense Forces Component
+Command, a specialized unit of the Polish Armed Forces responsible for cyber-
+security and AI implementation.63 Additionally, AI has reportedly been integrated
+into the EyeQ Air and EyeQ Land systems, developed by WB Group—one of
+Poland’s most successful private defense companies, known particularly for its un-
+manned aerial systems. These systems are designed to automate the processes of
+target identification, classification, tracking, and threat assessment, thereby signif-
+icantly enhancing operators’ situational awareness while reducing their workload.
+They are reportedly ready for integration with fire control and battle management
+systems operated by the Polish Armed Forces.64 It is also worth noting that WB
+Group is said to be the only Polish company participating in the AIDA (Artificial
+Intelligence Deployable Agent) project, which is funded by the European Defence
+Fund.65
+56 “GoogleInvestsBillionsinPoland’sDigitalFuture.”
+57 “MicrosoftInvestsPLN3BillioninaNewDataCenterinPoland.”
+58 “WspółpracaDKWOCzOraclewobszarzecyberbezpieczeństwa”[DKWOC’sCooperationwithOracleintheFieldofCybersecu-
+rity].
+59 “AIforIndustry–rozwójkompetencjiAIwpolskimprzemyśle.PorozumienieMRiT-Intelpodpisane”[AIforIndustry–Develop-
+ingAICompetenciesinPolishIndustry.MRiT–IntelAgreementSigned].
+60 “Accenturezasilanegeneratywnąsztucznąinteligencją”[AccenturePoweredbyGenerativeArtificialIntelligence].
+61 “Alreadyintheglobaldefenseindustry,unmannedandartificialintelligence(AI)arebecomingessentialelementsofweapons
+development.”
+62 “SmartFactoriesTransitionfromAutomationtoIntelligence.”
+63 “SIBMSLegion.”
+64 “AISystems.”
+65 “WBGROUPintheAIDAproject.”
+28 GUARDING THE ALLIANCE’S EASTERN FRONTIERS
+
+The AI race has attracted numerous startups that either fully specialize in devel-
+oping such solutions or operate at the intersection of AI and other technologies.
+Poland reflects this trend, with various entities either originating in the country or
+choosing to establish offices in major Polish cities to strengthen their presence in
+the European market. As a result, the startup scene in Poland appears particularly
+dynamic, especially considering that AI is classified as a dual-use technology—of-
+fering both a high return on investment and diverse applications across military
+and civilian sectors.66
+One such company is Digica, which maintains offices in Germany, the United
+Kingdom, the United States, and Poland. The company provides a wide range of
+AI-based services across multiple sectors, including healthcare and defense. Its
+solutions are reportedly being implemented in several NATO member states. In
+2024, Digica was awarded a contract by PIT-RADWAR, a subsidiary of the Polish
+Armaments Group, to develop AI solutions aimed at enhancing the capabilities of
+PIT-RADWAR’s hardware, including its radar systems.67
+DataWalk is another company with Polish origins, which currently runs its offices in
+both Poland and the United States. The company portrays itself as an alternative
+to the famous American company Palantir, and even if it is less known than its
+US-based competitor, the company has achieved numerous successes by receiv-
+ing contracts for the development of solutions for the U.S. Department of Justice
+Money Laundering and Asset Recovery Section (MLARS), U.S. Department of De-
+fense, U.S. Department of State, as well as numerous disclosed and undisclosed
+businesses and public institutions from Europe, Asia, Africa, and Americas.68 The
+company specializes in “revealing patterns, relationships, and anomalies for large-
+scale, multi-source intelligence investigations and data analysis”, with a potential
+application in supporting decision making in the military.69
+AI and machine learning are also among the key technologies used in the SKYctrl
+anti-drone system developed by the Polish company Advanced Protection Sys-
+tems (APS).70 The SKYctrl system integrates, among other components, 3D MIMO
+radars, tracking and identification systems supported by AI, as well as jammers,
+and is reportedly ready for integration with hard-kill systems. It is worth noting that
+the system has been battle-tested in Ukraine as early as 2022.71 This milestone
+has contributed to the adoption of the company’s products not only by Poland
+but also by the armed forces of Saudi Arabia, the UAE, and Qatar.72 Although the
+66 “NavigatingDual-UseTechnologies:AFounder’sHandbooktoOpportunitiesandChallenges.”
+67 “PIT-RADWARS.A.podpisałumowęzfirmąDigica”[PIT-RADWARS.A.signedacontractwithDigica].
+68 “Formore,see:
+69 Formore,see:
+70 “SKYctrlComprehensiveanti-dronesystem.”
+71 Kushnikov,“TheUkrainianmilitaryreceivedtheSKYCTRLanti-dronesystem.”
+72 “FIELDctrlUltraprecise3DMIMOradars.”
+WWW.DEFENSEAI.EU 29
+
+military application of SKYctrl has garnered the most attention, the system can
+also be deployed to protect various types of critical infrastructure, such as airports,
+power plants, and government buildings, with many additional potential use cases
+where hostile drones may pose a threat.73
+The development and implementation of AI in the defense and security sectors
+is not solely the domain of relatively new companies and startups. A growing
+number of well-established Polish tech firms are also investing in such technolo-
+gies. For instance, the Polish company TELBUD, founded in 1987, has developed
+and successfully commercialized a family of PSIM-class (Physical Security Infor-
+mation Management) systems under the ARGUS brand.74 One publicly disclosed
+application of this technology is the integration of various protection and security
+systems along the Polish-Russian and Polish-Belarusian borders. The system has
+also been adopted by the Polish Air Navigation Services Agency, which is respon-
+sible for managing air traffic in Poland.75 The list of companies developing such
+solutions in Poland is considerably longer and likely includes numerous well-estab-
+lished technology firms and startups offering a variety of products and services at
+different stages of development and commercialization. However, due to limited
+access to information, the examples mentioned above should be regarded as
+reference points for the Polish defense AI ecosystem rather than as a complete list
+of businesses active in this field. It is also important to note that certain AI technol-
+ogies currently under development may have dual-use applications in the future,
+and a much broader market analysis would therefore be required to fully assess
+the potential of domestic firms in this regard. Given that a growing number of
+specialized defense companies in Poland are likely to join this trend in the coming
+years—particularly with the development of new technologies and solutions by
+relatively small firms capable of partnering with both private and state-owned en-
+terprises—the emergence of these players highlights the need for a better under-
+standing of other non-business entities that contribute to the sector’s growth.
+73 Formore,see:
+74 “Formore,see:
+75 Bujak,Tomasz,InterviewbyGraf,Jędrzej,“PolskasztucznainteligencjadlaTarczyWschód”[Polishartificialintelligencefor
+theEastShield].
+30 GUARDING THE ALLIANCE’S EASTERN FRONTIERS
+
+Figure 3: Types of Dual Use Technologies76
+Space
+Data and AI Technologies
+Technologies
+Cybersecurity
+Human-machine
+Interface Solutions
+Types of Dual-use
+Technologies
+Autonomous
+Energy Systems
+Technologies
+Biosecurity Advanced
+Technologies Materials
+Communications
+Technologies
+Figure 2: Types of Dual Use Technologies76
+Research and Technology Organizations
+In the context of Poland’s defense R&D ecosystem, it is crucial to highlight the
+role of the National Center for Research and Development (Narodowe Centrum
+Badań i Rozwoju, NCBR), an executive agency of the Polish government operating
+under the direct supervision of the Minister of Science and Higher Education.
+The NCBR is responsible for fostering cooperation between scientific institutions
+and businesses, as well as providing funding for relevant R&D projects, including
+those related to defense and national security—such as the previously mentioned
+PERUN program.
+76 Basedon:
+nologies(lastaccessed5September2025).
+WWW.DEFENSEAI.EU 31
+
+The Łukasiewicz Research Network, which encompasses more than 20 specialized
+research institutes across Poland, is a prominent example of a public entity es-
+tablished to stimulate innovation and technological advancement in the country.
+Research and development in defense and national security is identified as a top
+priority among the various areas in which the network operates.77 In mid-2025,
+the Łukasiewicz – AI Institute was officially inaugurated in Katowice, Silesia, as a
+specialized branch of the network responsible for coordinating R&D projects in AI
+and cybersecurity.78 Although the institute is expected to focus primarily on imple-
+menting AI in the broader economy while supporting the digitalization of Polish
+small and medium-sized enterprises (SMEs), its creation demonstrates that public
+institutions recognize the importance of fostering the AI ecosystem and driving
+business transformation in Poland.
+Additional research activities address the development of Explainable AI, aimed
+at creating algorithms whose decision-making processes are fully transparent and
+easily understandable to human users.79 Researchers at the Military University of
+Technology in Warsaw (WAT) are currently working on implementing such solutions
+in medicine to enhance diagnostics, which could increase the efficiency of the
+healthcare system and potentially enable further advances in combat medicine.
+These technologies could not only have a tangible impact across a broad range of
+medical fields but also improve the reliability of AI-based solutions and strengthen
+trust in them.80 Other research projects conducted by WAT scientists include AI
+algorithms for analyzing satellite imagery,81 designing road traffic management
+solutions,82 creating AI-supported techniques to detect deepfake content,83 and
+building automated cybersecurity solutions aimed at improving threat detection
+efficiency.84
+Two new institutes will be key for future research and development on defense AI.
+First, the Council of Ministers under the joint supervision of the Minister of Digital-
+ization and the Minister of National Defense have launched the IDEAS Institute in
+.85 The Institute will conduct research in AI, with a primary focus on
+applications in healthcare, defense, and public administration. However, as noted
+during the legislative process, the legal status of a research institute entails certain
+77 Formore,see:
+78 “Łukasiewicz–AIoficjalnieotwarty.Rozwójsztucznejinteligencjiicyfryzacjabiznesutonaszepriorytety”[Łukasiewicz–AI
+officiallyopened.Thedevelopmentofartificialintelligenceandbusinessdigitalizationareourpriorities].
+79 Naruszko,“Sztucznainteligencjaskrócikolejkidolekarza?”[WillArtificialIntelligenceShortenWaitTimesforDoctors?].
+80 Ibid.
+81 Wrzos,“NaukowcyzWATopracowalialgorytmdoocenywysokościbudynków”[ScientistsfromWATHaveDevelopedan
+AlgorithmforAssessingBuildingHeights].
+82 Wrzos,“Sztucznainteligencjazredukujekorkinadrogach“[ArtificialIntelligenceWillReduceTrafficJams].
+83 Ołowniuk,“Deepfake–jakrozpoznaćfałszywetreści?”[Deepfake–HowtoRecognizeFakeContent?].
+84 “WojskowaAkademiaTechnicznastworzyłanarzędzieAIdowykrywaniacyberataków”[TheMilitaryUniversityofTechnology
+HasDevelopedanAIToolforDetectingCyberattacks].
+85 “RozporządzenieRadyMinistrówzdnia25lutego2025r.wsprawieutworzeniaInstytutuBadawczegoIDEAS”[Regulationof
+theCouncilofMinistersofFebruary25,2025,ontheEstablishmentoftheIDEASResearchInstitute].
+32 GUARDING THE ALLIANCE’S EASTERN FRONTIERS
+
+risks and operational challenges. In addition, the level of public funding allocated
+for its first year poses a substantial obstacle.
+Second, the Artificial Intelligence Implementation Center (CISI) has been tasked to
+coordinate R&D projects, facilitating collaboration between the military, academia,
+and industry, and, finally, evaluating commercial products and services available on
+the market to advance defense AI.86 According to Maj. Gen. Karol Molenda, com-
+mander of the Polish Cyber Command, the Center is not intended to function as
+another R&D hub; instead, it will focus primarily on the development and practical
+application of technologies created by other entities, which should considerably
+shorten the time needed to bring such solutions into operational service.87 The
+Center will also integrate data from various manned and unmanned combat plat-
+forms of the Polish Armed Forces to enhance operational awareness.88
+The establishment of the Center could potentially address one of the key chal-
+lenges related to conducting R&D projects in Poland. Although R&D spending in
+Poland remains relatively low compared to other leading European countries—
+for instance, in 2023 Poland allocated only 1.56 percent of GDP to R&D, while
+countries such as Sweden, Belgium, Austria, Germany, and Finland spent over 3
+percent—the main obstacle lies in the efficient use of funding and the commercial-
+ization of scientific projects.89 The structural problems contributing to this situation
+are beyond the scope of this report; however, it is important to note that the
+existence of the Center could significantly increase the proportion of projects that
+are successfully implemented rather than ending up among the many solutions
+that never find practical application.
+Additional Ecosystem Elements
+It is noteworthy that Poland is also actively involved in allied initiatives such as
+DIANA (Defence Innovation Accelerator for the North Atlantic). In 2024, Kraków
+Technology Park (KPT) and the AGH University of Science and Technology an-
+nounced the establishment of the FORT Kraków, which will operate in close collab-
+oration with the Innovations Department of the Ministry of National Defense.90 The
+creation of the FORT Kraków marks a significant milestone in the development
+of Poland’s AI ecosystem, given its focus on supporting startups specializing in
+86 “WWojskuPolskimpowstajeCentrumImplementacjiSztucznejInteligencji”[AnArtificialIntelligenceImplementationCenteris
+beingestablishedinthePolishArmedForces].
+87 Molenda,Karol,InterviewbyOkulska,Inez,“PiątyżywiołwstarciuzAI”[TheFifthElementinConfrontationwithAI].
+88 “Gen.Molenda:14kwietniaruszaCentrumImplementacjiSztucznejInteligencji”[Gen.Molenda:TheArtificialIntelligence
+ImplementationCenterwilllaunchonApril14].
+89 “Grossdomesticexpenditureonresearchanddevelopmentin2023.”
+90 “KrakówDIANA–ruszapolskiakceleratorinnowacjiobronnychNATO”[KrakówDIANA–LaunchofthePolishNATOdefense
+innovationaccelerator].
+WWW.DEFENSEAI.EU 33
+
+innovative dual-use technologies—including AI—that could substantially enhance
+the defense capabilities and resilience of NATO member states.91
+These institutions will provide startups with business development expertise and
+technological acceleration, leveraging AGH’s advanced R&D infrastructure. In
+addition to the accelerator site in Kraków, Poland hosts seven dedicated DIANA
+test centers—including the Center for Geospatial and Satellite Analysis (CENA-
+GIS), the Industrial Research Institute for Automation and Measurements PIAP
+(Łukasiewicz – PIAP), Łukasiewicz – EMAG, and the Poznań Supercomputing and
+Networking Center (PSNC)—available to innovators participating in the DIANA
+program. These sites offer not only the infrastructure required to evaluate new
+technologies but also the specialized expertise of their personnel.92 For instance,
+PSNC operates an aerospace laboratory featuring a hangar, research facilities,
+and a training ground for testing technologies such as unmanned aerial and
+ground vehicles, AI applications, as well as cybersecurity and quantum computing
+solutions. Łukasiewicz PIAP, on the other hand, specializes in AI-driven robotics
+and unmanned systems, among other areas. Besides the institutions mentioned
+above, it is also worth emphasizing the role of organizations such as the Military
+Institute of Engineer Technology (Wojskowy Instytut Techniki Inżynieryjnej, WITI),
+the Military Institute of Armored and Automotive Technology (Wojskowy Instytut
+Techniki Pancernej i Samochodowej, WITPiS), and the Military University of Tech-
+nology, which will serve as key end-users of AI technologies. All institutions within
+the DIANA network bring significant experience in supporting such initiatives and
+maintain diverse networks of business and institutional partners, including both
+Polish and international defense companies and public agencies.93
+Initiatives such as DIANA are also complemented by programs launched by other
+institutions, including the Polish Development Fund (Polski Fundusz Rozwoju,
+PFR), a state-owned company focused on providing financial and expert assistance
+to Polish entrepreneurs, as well as investing in large-scale development projects.
+One such initiative is the Investments Dual-use Adaptation (IDA) program, which
+aims to accelerate the growth of domestic innovations.
+The program enables participating innovators to assess whether their solutions
+could have dual-use applications and to obtain expert guidance on how to ad-
+vance their technology to meet military requirements. Through the program,
+companies gain direct access to potential end-users of their technologies, in-
+cluding the military, defense contractors, defense experts, and representatives of
+the Ministry of National Defense. Beyond its technical aspects, the program also
+91 “AboutKrakowDIANAAccelerator.”
+92 “DIANAispartneringwithmorethan180testcentresfromacrosstheNATOAlliance.”
+93 “TestingServicesforDIANAStartups:Capabilitiesof7PolishTestCentersinNATODIANANetwork.”
+34 GUARDING THE ALLIANCE’S EASTERN FRONTIERS
+
+emphasizes the value of networking, offering participants opportunities to connect
+with potential investors, such as representatives of venture capital (VC) funds.94
+The 2025 edition of the IDA program is supported by Palantir, Iceye, WB Group,
+and Polish Armaments Group, among others.95
+The construction of Poland’s first AI factories—Cyfronet AGH in Kraków and PI-
+AST-AI in Poznań—marks an essential and long-awaited investment in the national
+AI ecosystem. PIAST-AI is designed to serve as an innovation hub, providing the
+services and infrastructure needed to drive advancements in IT and cybersecurity,
+healthcare and life sciences, the public sector, space technologies, robotics, and
+cross-sector sustainable development.96 At the same time, the Ministry of Digital
+Affairs is pursuing participation in the European Commission’s initiative to establish
+five AI Gigafactories across the EU. Under this program, the Ministry plans an in-
+vestment of PLN5bn (approximately €1.15bn), including PLN2bn (around €0.47bn)
+from the state budget, to acquire 30,000 graphics processing units (GPUs) for a
+cluster of five leading research centers in Poland by 2029.97
+Preliminary Insights from Ukraine
+The battlefields of Ukraine offer valuable insights into the use of AI for military pur-
+poses and provide opportunities to test a wide range of combat systems supplied
+by Kyiv’s allies and partners.98 This is also true for Polish defense companies and
+the Armed Forces, whose systems have been transferred to Ukraine. The Rus-
+so-Ukrainian conflict has seen the deployment of unmanned systems supported by
+AI on an unprecedented scale, particularly in geospatial and imagery intelligence
+as well as the use of AI in BMS to support planning, in fire control systems, to
+monitor and detect disinformation, and data analysis99 AI-enhanced assets help
+Ukraine withstand relentless Russian attacks while inflicting significant damage on
+Moscow’s military capabilities and critical infrastructure.100
+These developments have been closely monitored and analyzed by Polish deci-
+sion-makers. The Ministry of National Defense places strong emphasis on expand-
+ing the Armed Forces’ capabilities in unmanned aerial systems (UAS), acquiring
+significant numbers of tactical and operational drones across all branches of
+94 “IDA–Inwestycjeiadaptacjatechnologiipodwójnegozastosowania”[IDA–Investmentsandadaptationofdual-usetechnologies].
+95 “IDABootcamp2025–PFRszukainnowacyjnychrozwiązańdlaobronności”[IDABootcamp2025–PFRseeksinnovative
+solutionsfordefense].
+96 “TheLaunchoftheFirstPolishAIFactory–PIAST-AI.”
+97 “PolskamazamiardołączyćdoprogramuGigafabrykAI”[PolandintendstojointheAIGigafactoryProgram].
+98 Bondar,UnderstandingtheMilitaryAIEcosystemofUkraine.
+99 Goncharuk,SurvivaloftheSmartest?DefenseAIinUkraine;Bendett,“RolesandImplicationsofAIintheRussian-Ukrainian
+Conflict.”
+100 PardoDeSantayana,“ArtificialintelligenceandthewarinUkraine.”
+WWW.DEFENSEAI.EU 35
+
+the military. In late , to address the demand for relatively inexpensive,
+mass-produced mini-UAS and loitering munitions, the Ministry announced several
+key initiatives.
+First, the government unveiled plans to establish a dedicated Drone Center based
+on the infrastructure of the Air Force Institute of Technology (Instytut Techniczny
+Wojsk Lotniczych, ITWL) and supported by joint scientific efforts of all military
+research institutes operating under the direct supervision of the Innovations
+Department of the Ministry of National Defense. These include Military Institute
+of Armored and Automotive Technology (Wojskowy Instytut Techniki Pancernej i
+Samochodowej, WITPiS), Military Institute of Armament Technology (Wojskowy
+Instytut Techniczny Uzbrojenia, WITU), Military Institute of Engineer Technology
+(Wojskowy Instytut Techniki Inżynieryjnej, WITI), and the Military Institute of Chem-
+istry and Radiometry (Wojskowy Instytut Chemii i Radiometrii, WIChiR). This hub
+will serve as a testing ground for unmanned land, sea, and aerial systems, while
+also supporting their development and integration into operational service.101 The
+Drone Center is expected to foster collaboration across all branches of the Armed
+Forces, military R&D institutes, and industry, as well as with specialized units such
+as the Cyberspace Defense Forces and the AI Implementation Center, given that
+these two entities, in particular, will play a central role in integrating AI technolo-
+gies into combat platforms operated by the Armed Forces, including unmanned
+systems.
+Second, to accelerate innovation and facilitate the deployment of unmanned
+systems, the Ministry has also begun establishing specialized drone laboratories
+within selected military units, including Poland’s Special Forces and Territorial
+Defense Forces. These laboratories will enable the testing of technologies, tactics,
+and procedures related to the deployment of UAS under the program codenamed
+“Szerszeń” (Hornet).
+Finally, to enable the mass deployment of drones, the Ministry is reportedly
+preparing special procurement regulations that will allow commanders to acquire
+certified unmanned systems or components from a ministerial list of secure and
+trusted suppliers under simplified procedures.102
+101 “RewolucjadronowawSiłachZbrojnychRP”[DroneRevolutioninthePolishArmedForces].
+102 “Szerszeńizielonalinia,czylizaczątekdronizacjiarmii”[HornetandGreenLine,thebeginningoftheArmedForces’Droniza-
+tion].
+36 GUARDING THE ALLIANCE’S EASTERN FRONTIERS
+
+3.3 AI in Transformation of the Defense Industry
+Considering the scale of Poland’s military procurement, the need to establish sus-
+tainable mass production of combat equipment, and the government’s ambition
+to allocate a substantial share of orders to the domestic industry, AI is emerging
+both as a challenge and an opportunity for Polish defense contractors. Although
+this issue extends beyond the direct application of AI in the military, the impor-
+tance of such technologies in production automation and robotics is undeniable.
+According to a survey conducted by the Pulaski Foundation and KPBN, nearly 60
+percent of Polish defense companies face a shortage of skilled workers—such as
+technicians and engineers—highlighting the growing gap between the available
+workforce and labor demand, driven by the country’s increasingly unfavorable
+demographic situation.103 At the same time, the adoption of AI in Poland’s broad-
+er economy remains very low compared to other industrialized nations, with
+fewer than 6 percent of Polish companies using such technologies in 2024.104
+Furthermore, research by the Pulaski Foundation indicates that only 40 percent of
+surveyed defense companies positively assess their readiness to integrate AI into
+their operations.
+These findings are alarming given that leading European defense companies,
+such as BAE Systems, are already implementing AI to boost competitiveness and
+enhance operational efficiency.105 Since Poland’s defense industry is dominated by
+large state-owned enterprises that are highly dependent on public procurement,
+transformation of the sector will require not only substantial funding but also pro-
+found changes in organizational culture and corporate governance. Such changes
+are crucial in light of the country’s pressing needs in areas such as ammunition
+production and the manufacturing of drones and heavy equipment for the Land
+Forces.
+The strategic documents discussed in this report omit the issue of industry trans-
+formation, as a dedicated Defense Industry Strategy is anticipated in late 2025.
+Nonetheless, it is clear that incorporating AI into this process will be essential.
+Without the ability to meet the government’s requirements for both quality and
+delivery timelines, the Polish defense industry will be unable to fully capitalize on
+growing defense spending. Automation of production and other business pro-
+cesses will still require significant investment and knowledge transfer, which could
+potentially be facilitated through ongoing procurement programs, with foreign
+partners serving as providers of both technology and expertise.
+103 “DefenseandResilience:ProspectsofCompaniesDevelopment.”
+104 Kolasa,“InnowacyjnośćPolski.Zestawienie–grudzień2024”[Poland’sInnovation.Report–December2024].
+105 “InternationalDefenseInsightReport,Securingstrategicadvantagefordefensecompanies.”
+WWW.DEFENSEAI.EU 37
+
+4 Organizing
+Defense AI
+38 GUARDING THE ALLIANCE’S EASTERN FRONTIERS
+
+Prior to the publication of Poland’s Military AI Strategy, the government’s efforts
+aimed primarily to enhance the effectiveness of public institutions and their
+services, as well as to drive the digital transformation of companies across mul-
+tiple industries—excluding the defense sector and the Armed Forces. However,
+in recent years, a more centralized and comprehensive approach has begun to
+take shape, involving the direct collaboration among numerous ministries. This
+approach has created a complex organizational framework, in which the Ministry
+of National Defense serves as a key actor responsible for coordinating AI-related
+initiatives within the defense sector.
+The establishment of the Artificial Intelligence Implementation Center at the
+Cyberspace Defense Forces Component Command reflects this evolving dynamic
+and a growing recognition of the need to centralize the state’s efforts in integrat-
+ing AI and other advanced technologies into the Armed Forces. The decision
+to leverage the organizational and technological capabilities of the Cyberspace
+Defense Forces was deliberate. Modeled on structures used by the U.S. Armed
+Forces, this unit has cooperated with its American counterparts on numerous
+occasions, including joint exercises.106 The Cyber Command’s ability to conduct a
+full spectrum of defensive and offensive operations, develop innovative solutions
+to strengthen national cybersecurity, and maintain a proven record of collaboration
+with other NATO members provides a solid foundation for expanding capabili-
+ties through the integration of AI.107 Both Polish officials108 and foreign experts109
+emphasize that Poland’s cybersecurity capabilities are among the most robust in
+NATO, which directly influences the nation’s position in international rankings.110
+As of mid-2025, it remains unclear when the AI Implementation Center will
+become fully operational. Nonetheless, the establishment of a single institution
+responsible for coordinating R&D projects, fostering collaboration with external
+partners, and overseeing implementation efforts within the Polish Armed Forces
+represents a significant step in the right direction. This approach is expected to
+enhance efficiency within the Ministry and improve interoperability among the
+various AI solutions introduced into the Armed Forces.
+106 McGovern,“16thAirForcecontinuesPolandCyberCommandpartnershipwithfirst-evermalwareattackexercise.”
+107 Kozłowski,“Polish“cyberclaws”.
+108 “AIwpolskimwojsku.SzefMONzabieragłos”[AIinthePolishmilitary:MinisterofNationalDefencespeaksout].
+109 Sylvia,“EuropeanDigitalDefencePrioritiesinanUncertainWorld,”pp.18-22.
+110 Forinstance,theNationalCyberSecurityIndex(NCSI)ranksPolandfifthglobally,despiteitsrelativelylowoveralllevelof
+digitaldevelopment,whileMIT’sCyberDefenseIndex2022/23placedPolandsixthamongthetop20countrieswiththemost
+advancedcybersecurityassets.ItisalsoworthemphasizingthattheteamfromtheCyberspaceDefenseForceshasranked
+amongtheleadingparticipantsinLocked Shields 2025,theannualexerciseorganizedsince2010bytheNATO’sCooperative
+CyberDefenseCentreofExcellence(CCDCOE).Formore,see:
+September2025),“TheCyberDefenseIndex2022/23;”“PolacyporazkolejnynapodiumzawodówLockedShields”[Poles
+onceagainonthepodiumattheLockedShieldscompetition].
+WWW.DEFENSEAI.EU 39
+
+Given that the Cyberspace Defense Forces Component Command has already
+developed its own battle management system and reportedly employs a range
+of AI-supported tools in cybersecurity, among others, the AI Implementation
+Center—backed by its experienced staff—should be well positioned to manage
+complex projects and identify commercial solutions adaptable to military require-
+ments. Above all, the presence of such an entity within the military could ensure
+that AI integration is both well-coordinated and more consistent across all branch-
+es of the Armed Forces.
+This centralized approach should help prevent the inefficiencies and lack of
+coordination seen in past procurement programs, where the Ministry of National
+Defense acquired multiple combat platforms with similar specifications simulta-
+neously. While some of these acquisitions were fully justified—driven by growing
+tensions on NATO’s eastern flank and Poland’s substantial donations of military
+equipment to Ukraine, particularly heavy systems such as main battle tanks and ar-
+tillery—in other cases, the decisions appeared questionable. They inflated logistics
+costs, complicated maintenance, and significantly increased life-cycle expenses.
+With the AI Implementation Center in place, such costly redundancies are far more
+likely to be avoided.
+Despite the Ministry of National Defense’s reluctance to provide a detailed plan
+for the AI Implementation Center’s future operations, certain aspects of its upcom-
+ing activities have been publicly disclosed. The AI Implementation Center began
+recruiting specialists in mid-. According to Maj. Gen. Karol Molenda,
+Commander of the Cyberspace Defense Forces, one of its first priorities will be
+enhancing the Armed Forces’ operational awareness by integrating and analyzing
+data from various sensors operated by the Polish Armed Forces using AI-support-
+ed systems.111 To achieve this, the military will need to develop its own secure
+infrastructure to process and effectively utilize large volumes of classified data. The
+AI Implementation Center will also need to address numerous challenges related
+to data processing, storage, and oversight mechanisms, as well as establish unified
+procedures in the areas of data management, security, and privacy.
+In , the Cyberspace Defense Forces launched the program Cyber
+LEGION. Its official name—Program for Consolidating the Polish Cyber Commu-
+nity Around the Polish Armed Forces and Cyberspace Defense Forces – Cyber
+LEGION—reflects its underlying concept. The initiative’s primary goal is to allow
+cybersecurity professionals to contribute to military activities in a flexible way that
+does not require them to abandon their civilian careers.112
+111 “Gen.Molenda:14kwietniaruszaCentrumImplementacjiSztucznejInteligencji”[Gen.Molenda:TheArtificialIntelligence
+ImplementationCenterwilllaunchonApril14].
+112 “Zostańcyberlegionistą!Wojskoruszaznowymprogramem”[Becomeacyberlegionnaire!Themilitarylaunchesanew
+program].
+40 GUARDING THE ALLIANCE’S EASTERN FRONTIERS
+
+5 Funding
+Defense AI
+WWW.DEFENSEAI.EU 41
+
+The true scale of Poland’s defense AI spending is shrouded in secrecy, making
+it impossible to draw definitive conclusions from ongoing and planned modern-
+ization programs. Some of these costs are likely embedded within large-scale
+procurement efforts—such as those involving UAS for the Land Forces and other
+combat systems across all branches of the Polish Armed Forces. Given that
+Poland’s defense spending is projected to rise from 4.7 percent of GDP in 2025
+to 5 percent in 2026 and that the nation continues to devote more than half of its
+total military expenditure to procuring advanced weapon systems, it is likely that
+the budget for developing and acquiring AI technologies will also grow, even if, at
+present, it remains relatively modest in the context of overall military spending.113
+As of mid-2025, it remains difficult to estimate expenditures on the acquisition
+of AI-enabled weapon systems. However, the Ministry of National Defense has
+been more forthcoming about general spending related to the structural changes
+in the Armed Forces required to implement scalable AI technologies. In , Cezary Tomczyk, Secretary of State in the Ministry of National Defense,
+announced that the Ministry had allocated PLN100M (approximately €23M) for
+the development of AI technologies and the establishment of the Artificial Intelli-
+gence Implementation Center within the Cyberspace Defense Forces Component
+Command.114 At the same time, the Polish government is developing a plan to
+establish a Defense and Security Fund by fall 2025, with an estimated budget of
+PLN25–26bn (approximately €6bn). The fund will draw on financial resources from
+the EU’s recovery funds115 and will be overseen by a Coordinating Committee
+comprising the Ministry of Development Funds and Regional Policy, the Ministry
+of National Defense, the Ministry of State Assets, the Ministry of Digital Affairs, the
+Ministry of the Interior and Administration, the Ministry of Economic Development
+and Technology, and the Ministry of Infrastructure.116 The fund’s beneficiaries will
+include both state-owned and private companies, particularly those involved in
+manufacturing heavy equipment for the Armed Forces.117
+The Coordinating Committee responsible for implementing the Fund began its work
+in , with one of its first tasks being to define a list of priority investments
+requiring financial support. Although publicly available information does not explic-
+itly identify AI as one of the investment areas, it is worth noting that current plans
+include funding for dual-use infrastructure—such as cybersecurity systems for critical
+113 Miłosz,“TylePolskawydanaobronnośćw2026roku.Idziemynarekord”[ThisishowmuchPolandwillspendondefensein
+2026:weareheadingforarecord].
+114 Palczewski,“NowajednostkawWojskuPolskim.InwestycjeMONwstrategicznyobszar”[AnewunitinthePolishArmed
+Forces:MinistryofNationalDefenceinvestsinastrategicarea].
+115 “FunduszBezpieczeństwaiObronnościwesprzeinwestycjesamorządowe”[TheSecurityandDefenseFundwillsupportlocal
+governmentinvestments],MinisterstwoFunduszyiPolitykiRegionalnej.
+116 “ŚrodkizKPOzasiląFunduszBezpieczeństwaiObronności”[FundsfromtheNationalRecoveryPlan(KPO)willbeallocated
+totheSecurityandDefenseFund].
+117 FunduszBezpieczeństwaiObronnościwesprzeinwestycjesamorządowe”[TheSecurityandDefenseFundwillsupportlocal
+governmentinvestments].
+42 GUARDING THE ALLIANCE’S EASTERN FRONTIERS
+
+infrastructure and data centers—both of which will likely involve the application of
+AI technologies. Preliminary plans allocate approximately PLN11–12bn (€2.6–2.8bn)
+to enhancing the security of dual-use infrastructure, with an additional PLN4bn
+(€0.94bn) earmarked for modernizing industry and supporting R&D projects in the
+field of dual-use technologies. This funding is also expected to support startups
+developing innovations for defense and security purposes.118
+Despite the classified nature of most information, it is worth noting that Poland
+has numerous instruments for financing the development of AI-based dual-use
+technologies. These special funds are included in neither the Ministry of National
+Defense’s budget nor the Armed Forces Support Fund, both of which provide the
+vast majority of financial resources for military procurement and modernization.
+Considering that AI is a dual-use technology—originating from R&D programs in
+the civilian sector and now being implemented in the military—the Polish gov-
+ernment appears well aware of the synergistic effects that arise from developing
+such technologies for both civilian and defense applications. It also recognizes the
+opportunities for the Polish economy, particularly through the growth of domestic
+enterprises specializing in AI. Therefore, to maximize the overall economic impact
+and stimulate innovation for defense and security purposes, most initiatives aimed
+at creating special AI funds in Poland involve a broad range of stakeholders.
+One such initiative is the ongoing establishment of the Artificial Intelligence Fund,
+whose operations will be overseen by the Ministry of Digital Affairs, the Ministry
+of National Defense, the Ministry of Science and Higher Education, the National
+Center for Research and Development (NCBR), the Polish Development Fund
+(Polski Fundusz Rozwoju, PFR), Bank Gospodarstwa Krajowego (BGK), and the Na-
+tional Science Center.119 The Artificial Intelligence Fund is intended to support the
+development of innovative AI technologies and their future commercialization by
+providing expertise and assistance in business development.120 In 2025, the Min-
+istry of Digital Affairs plans to allocate PLN4.5bn (over €1bn) to digitalization and
+the development of AI and cloud services. This funding will enable the National
+Center for Research and Development to launch several AI-related programs, such
+as Ścieżka SMART, dedicated to large companies seeking cooperation with SMEs
+and conducting R&D projects in areas identified within the National Intelligence
+Specializations. The SMART program also offers additional opportunities for com-
+panies, including funding for R&D infrastructure development, digitalization, and
+expansion into foreign markets.121
+118 Dmitruk,“PierwsześrodkizFunduszuBezpieczeństwaiObronnościw2026roku”[ThefirstfundsfromtheSecurityand
+DefenceFundwillbeavailablein2026].
+119 “NCBRczęściąFunduszuSztucznejInteligencji”[TheNCBRwillbepartoftheArtificialIntelligenceFund].
+120 “PFRpodpisałlistintencyjnywsprawieFunduszuSztucznejInteligencji–nowemożliwościdlarozwojupolskiejgospodarki”[PFR
+SignedaLetterofIntentontheArtificialIntelligenceFund–NewOpportunitiesfortheDevelopmentofthePolishEconomy].
+121 “ŚcieżkaSMARTnabórFENG.01.01-IP.01-001/24.”
+WWW.DEFENSEAI.EU 43
+
+The National Center for Research and Development (NCBR) is also preparing the
+8th edition of the INFOSTRATEG program, with a budget of PLN500M (approx-
+imately €115M), aimed at advancing AI and blockchain solutions in Poland.122
+Additionally, the Center coordinates the STEP (Strategic Technologies for Europe
+Platform) program—an EU financial instrument designed to support R&D initi-
+atives across the Union—with a budget of PLN300M (€70M) allocated for deep
+tech development.123 Concurrently, NCBR continues implementing the previously
+mentioned PERUN program, with a total budget of PLN3bn (€0.7bn) dedicated to
+innovations in defense and security.124
+The list of potential sources for defense AI funding is not limited to national and
+EU instruments, as Poland is witnessing growing interest from private financial
+institutions—such as venture capital (VC) funds—in investing in innovative dual-use
+technologies, including AI. To streamline collaboration between venture capital
+funds and innovators, and to increase the likelihood of commercializing new
+technologies, the Polish Development Fund launched the PFR Deep Tech program
+with a dedicated budget of PLN300M (approximately €70M).125 The program,
+developed in cooperation with the Ministry of Finance, is modeled on similar
+initiatives in other NATO member states, including France, the United Kingdom,
+and the United States.126 The active involvement of the Polish Ministry of National
+Defense is anticipated at a later stage. The PFR’s financial resources will be used
+to support joint investments with selected specialized venture capital funds in
+dual-use technologies such as:
+Artificial Intelligence
+Quantum Computing
+Advanced Defense Systems
+Robotics
+Space Exploration and Technology
+Broad-spectrum Cybersecurity.127
+The total amount of funds—combining PFR’s resources with those provided by
+participating VC funds—is estimated at PLN600M (€141M), which should be suffi-
+cient to support the development of approximately 50 to 80 innovative projects.128
+122 Lewkowicz,“MC:4,5mldzłnarozwójcyfryzacjiw2025r.wramachFunduszuAI”[MinistryofDigitalAffairs:PLN4.5Billion
+forDigitalizationDevelopmentin2025UndertheAIFund].
+123 “Platformakonkursowa”[CompetitionPlatform],NarodoweCentrumBadańiRozwoju.
+124 “Czasnarealizacjęprojektówwzakresiebadańnaukowychipracrozwojowychnarzeczobronnościibezpieczeństwapańst-
+wa–ruszyłProgramNCBRpk.PERUN.”
+125 “IDA–Inwestycjeiadaptacjatechnologiipodwójnegozastosowania.”
+126 Ibid.
+127 Ibid.
+128 “PFRDeepTech:600mlnPLNnainwestycjewzaawansowanetechnologie”[PFRDeepTech:PLN600millionforinvestments
+inadvancedtechnologies].
+44 GUARDING THE ALLIANCE’S EASTERN FRONTIERS
+
+6 Fielding and
+Operating
+Defense AI
+WWW.DEFENSEAI.EU 45
+
+6.1 Command, Control, Communications, Computers,
+Intelligence, Surveillance, and Reconnaissance (C4ISR)
+The current status of defense AI system implementation in the Polish Armed
+Forces remains largely unknown due to the classified nature of most information
+related to such plans. Little is known about the systems developed to date that
+have entered operational service, although certain specific applications have been
+publicly disclosed by the Ministry of National Defense.
+The most prominent example is the previously mentioned BMS Legion, developed
+by the Cyberspace Defense Forces Component Command. The decision to rely
+on in-house expertise and programming capabilities was driven by the vulnerabil-
+ities of commercial solutions, which could be compromised by the enemy. While
+this approach may pose challenges in ensuring compatibility with systems used
+by other NATO member states, its advantages—particularly regarding system
+security—outweigh its drawbacks.129 The successful development of the BMS also
+demonstrates the intellectual and organizational capabilities of the Cyberspace
+Defense Forces Component, which has succeeded in attracting highly skilled IT
+experts and now employs approximately 6,500 military and civilian personnel.130
+This highlights the organization’s strong effectiveness, a quality particularly impor-
+tant for establishing and ensuring the efficient operation of the AI Implementation
+Center.
+The target configuration of the BMS Legion is expected to significantly enhance
+battlefield awareness at the tactical level through the following capabilities:
+1. Monitoring the positions of friendly forces;
+2. Providing information on the location and movement of enemy forces;
+3. Offering a dedicated tactical chat to streamline the flow of information and
+warnings between units in real time;
+4. Supporting the decision-making process;
+5. Operating sensors on combat platforms;
+6. Supporting logistics of the combat platforms;
+7. Facilitating the exchange of information related to the use of weapons of mass
+destruction (WMD).131
+129 Molenda,Karol,InterviewbyOkulska,Inez,“PiątyżywiołwstarciuzAI.”
+130 “CentrumImplementacjiSztucznejInteligencjimawystartowaćwtymroku.Polskiewojskocorazszerzejkorzystaztej
+technologii”[TheArtificialIntelligenceImplementationCenterissettolaunchthisyear,asthePolishmilitaryincreasingly
+adoptsthistechnology].
+131 “SIBMSLegion.”
+46 GUARDING THE ALLIANCE’S EASTERN FRONTIERS
+
+As of mid-2025, the primary function of the BMS Legion is the automated analysis
+of imagery data from unmanned aerial systems. Publicly available information
+suggests that the system is primarily intended to extend the capabilities of various
+platforms operated by the Land Forces132 and to provide tactical information to
+JASMINE, the network centric Headquarters Management System developed
+by TELDAT,133 a Polish company specializing in defense ICT systems.134 In early
+, the Polish Armed Forces confirmed integrating the BMS Legion
+with Poland’s K2 main battle tanks (MBTs).135 This could indicate that most modern
+land combat platforms—including MBTs, infantry fighting vehicles (IFVs), and other
+heavy vehicles—will be equipped with the system in the future.
+According to Maj. Gen. Karol Molenda, commander of the Polish Cyber Com-
+mand, the AI Implementation Center plans to extend the application of the BMS
+Legion and integrate it with the Integrated Multi-Level Information System of
+the Ministry of National Defense (Zintegrowany Wieloszczeblowy System Infor-
+matyczny Resortu Obrony Narodowej, ZWSI RON). The ZWSI RON system com-
+prises four dedicated modules focusing on financial resources, human resources,
+organizational structures, and logistics.136 The latter module is expected to be
+integrated with the BMS Legion to streamline the flow of information on logistical
+processes and equipment within the Polish Armed Forces.137 The Polish Armed
+Forces reportedly tested certain AI technologies within its battle management
+system for friend-or-foe identification during the Anakonda-23 exercises in 2023.138
+6.2 Cybersecurity
+Possibly one of the most advanced applications of AI in the Polish Armed Forces
+to date is in the field of cybersecurity. AI has reportedly been deployed by the
+Cyberspace Defense Forces to support the detection of anomalies and software
+vulnerabilities in defense ICT systems, which are particularly exposed to opera-
+tions carried out by so-called APT (Advanced Persistent Threat) groups.
+An APT can be defined as an attack conducted by well-organized groups using so-
+phisticated methods to penetrate networks and gain access to specific information
+132 “Zanami‘Warsztatydotyczącewizjinowoczesnejłączności’”[The“WorkshopsontheVisionofModernCommunications”are
+behindus],WojskoPolskie.
+133 “HMSJASMINE-HeadquartersManagementSystemforOperationalandTacticalLevel,”Teldat.
+134 “Zanami‘Warsztatydotyczącewizjinowoczesnejłączności’,”WojskoPolskie.
+135 Ibid.
+136 Stańczyk,“IntegratedMulti-levelInformationSystemoftheMinistryofNationalDefenceasanITSystemsupportingthe
+managementofmilitaryresources,”pp.734-751.
+137 Molenda,Karol,InterviewbyOkulska,Inez,“PiątyżywiołwstarciuzAI,”HAIMagazine.
+138 Palczewski,“WojskoRProśnie.GenerałMolendaszczerzeopotencjalePolski”[ThePolishArmedForcesaregrowing:Gener-
+alMolendaspeakscandidlyaboutPoland’spotential].
+WWW.DEFENSEAI.EU 47
+
+or carry out acts of cyber sabotage.139 Although the term originally did not specify
+the type of actors involved, in this context it refers to cybercriminal organizations
+linked to state actors—Russian special services in particular. Given the scope and
+scale of military and civilian ICT infrastructure and the large number of users,
+AI-based technologies are essential for instantly detecting potential threats to the
+security of the armed forces and the state’s critical infrastructure.140 Senior military
+officials in Poland maintain that the country is already engaged in an ongoing
+conflict in cyberspace, with personnel of the Polish Cyberspace Defense Forces
+intervening on average every two hours.141 This is unsurprising, considering that
+Poland ranks third in Europe among the most targeted countries by state-spon-
+sored cyberattacks.142
+6.3 Other Applications
+Little is known about other specific applications of AI technologies in the Polish
+military, although the Ministry of National Defense has acknowledged that large
+language models (LLMs) are used to varying degrees to automate processes,
+analyze images and voice data, perform real-time translations and transcriptions,
+and support decision-making.143
+Beyond their roles in C4ISR and cybersecurity, one of the most likely areas for
+future AI application is personnel training—particularly in preparing personalized
+educational materials, as well as in developing scenarios and conducting data
+analysis for wargaming and simulations. Additionally, certain Polish-made combat
+platforms—such as WB Group’s GLADIUS unmanned reconnaissance and strike
+system, which includes both reconnaissance UAVs and loitering munitions144—
+have reportedly been integrated with AI technologies. These capabilities enable
+the systems to operate autonomously even in the presence of hostile electronic
+warfare measures.145
+The implementation of AI is also a key component of the ongoing East Shield
+program, which aims to fortify Poland’s eastern borders with a complex system of
+military infrastructure, including AI-supported operations centers and automated
+139 Ahmad,“Strategically-motivatedadvancedpersistentthreat:Definition,process,tacticsandadisinformationmodelof
+counterattack,”pp.402-418.
+140 Molenda,Karol,InterviewbyOkulska,Inez,“PiątyżywiołwstarciuzAI,”HAIMagazine.
+141 Palczewski,“Atakinapolskąinfrastrukturękrytyczną.DowódcaDKWOC:zmieniamypodejścieNATO”[AttacksonPolish
+criticalinfrastructure:CommanderoftheCyberspaceDefenseForcesCommand–WearechangingNATO’sapproach].
+142 Witcher,“Microsoft’sPolandInvestment:YourNextBigBreakinCybersecurity.”
+143 “AIwsłużbieMON-u”[AIintheServiceoftheMinistryofNationalDefense].
+144 “FirstGladiussystemdelivered.”
+145 Maciejewski,“MSPO2023:kieleckapremierasystemuGladiusGrupyWB”[MSPO2023:KielcePremiereofWBGroup’s
+GladiusSystem].
+48 GUARDING THE ALLIANCE’S EASTERN FRONTIERS
+
+combat systems.146 Furthermore, under a contract signed in 2020, the Polish Air
+Force is currently expecting the delivery of 32 F-35A TR-3 Block 4, with the first
+aircraft scheduled to arrive in 2026.147 The acquisition of these stealth fighter jets is
+perceived as a milestone in modernization and digitalization of the Polish Armed
+Forces148 given their advanced armament, sensors, and the reportedly AI-enabled
+architecture of the TR-3 Block 4.149
+146 “EastShield,”GeneralStaffofthePolishArmedForces,27May2024.
+147 “17.polskiF-35”[17thPolishF-35].
+148 Palowski,“PolskieF-35:rewolucja,którątrzebawykorzystać”[PolishF-35s:ARevolutiontoCapitalizeOn].
+149 Suciu,“TheF-35LightningIINewestUpgradeIsAlmostComplete.”
+WWW.DEFENSEAI.EU 49
+
+7 Training for
+Defense AI
+50 GUARDING THE ALLIANCE’S EASTERN FRONTIERS
+
+Training of military personnel has been identified as one of the most promising
+applications of AI in the Polish Armed Forces, as outlined in Poland’s Military AI
+Strategy 2024–2039. The authors of the Strategy perceive AI tools as revolution-
+ary, particularly in e-learning given the possibility of personalizing materials and
+adapting them to the specific needs of individual soldiers.150 The potential applica-
+tions involve automating the training assessment process, creating tailored learn-
+ing content, and supporting direct multilingual communication between trainers
+and trainees.
+The Strategy also highlights the role of AI algorithms in designing scenarios and
+supporting the development of realistic simulations, such as those utilizing virtual
+reality (VR), to create more intelligent and challenging adversaries. These simula-
+tions could stimulate trainees to develop rapid decision-making skills in dynamic
+combat environments at the tactical, operational, and political-strategic levels,
+depending on the specific purpose of the training and the scenario. While such
+tools cannot fully replace live training, AI-supported advanced simulators can
+significantly reduce both the costs and risks associated with the training process.151
+The growing importance of AI is directly influencing the operations of military
+universities. For example, the Military University of Technology in Warsaw (WAT)
+has introduced regulations governing the use of AI by both staff and students.
+Machine learning and AI have also been integrated into the university’s IT studies
+curriculum.152 At the same time, WAT actively seeks partnerships with business
+entities—such as IBM—to accelerate research into AI applications in fields like
+cybersecurity and logistics.153
+The Ministry of National Defense is also seeking partnerships with multinational
+corporations not only to foster innovation in groundbreaking defense technol-
+ogies, but also to advance education and research in AI, cloud technologies,
+and quantum computing. In the Ministry and Microsoft agreed
+to expand the scope of their collaboration, particularly in cybersecurity.154 At the
+same time, Microsoft signed a separate agreement with the Polish government to
+invest PLN2.8bn (around €0.66bn) in cloud and AI infrastructure in Poland, with
+completion expected by . This investment is anticipated to deliver nu-
+merous benefits to the Polish economy and workforce, including providing training
+150 “Resortowastrategiasztucznejinteligencjidoroku2039,”MinisterstwoObronyNarodowej,11October2024.
+151 Krakowski,KrzysztofandSzewczyk,Kamil,“Systemysymulacjiwirtualnejwszkoleniubojowymżołnierzywojsklądowych–
+stanobecnyiperspektywyrozwoju”[Virtualsimulationsystemsincombattrainingofgroundforcessoldiers–currentstatus
+anddevelopmentperspectives].
+152 “Załączniknr1douchwałySenatuWATnr103/WAT/2023zdnia22czerwca2023r.”[AnnexNo.1toResolutionNo.103/
+WAT/2023oftheSenateoftheMilitaryUniversityofTechnologyofJune22,2023],WojskowaAkademiaTechniczna–Wyd-
+ziałCybernetyki,22June2023.
+153 “WATzacieśniawspółpracęzIBM-em”[WATStrengthensCooperationwithIBM].
+154 “Nowetechnologie,pracebadawczo–rozwojowe,cyberbezpieczeństwo–WojskoPolskierozwijawspółpracęzMicrosoft”[New
+Technologies,ResearchandDevelopment,Cybersecurity–ThePolishArmedForcesExpandCooperationwithMicrosoft].
+WWW.DEFENSEAI.EU 51
+
+opportunities, strengthening national cybersecurity, and supporting the education
+sector and other institutions with dedicated AI solutions.155
+In , the Cybersecurity Training Center for Excellence (Eksperckie
+Centrum Szkolenia Cyberbezpieczeństwa, ECSC) at the Ministry of National De-
+fense signed an agreement with Oracle to enhance the skills and competencies of
+the Ministry’s military and civilian personnel in cyberspace, drawing on the exper-
+tise and knowledge transfer provided by the American company. The initiative’s
+primary objective is to modernize training programs and education in military ICT
+infrastructure, cybersecurity, cloud computing, and AI.156 In , the
+ECSC also partnered with Microsoft to incorporate Microsoft Academy courses
+into its training programs. This collaboration established a certified Microsoft
+training center, giving Ministry personnel access to cutting-edge AI and cloud
+solutions, as well as the opportunity to acquire the skills needed to operate them
+effectively in relevant operational contexts.157
+It is also worth noting that AI and cybersecurity-related training modules and webi-
+nars have been integrated into the curriculum for Polish civil servants. For instance,
+in 2024, a program to train 400 civil servants included 32 hours of lectures cover-
+ing available AI technologies and their practical applications, risks associated with
+their implementation, relevant national and international regulations—particularly
+the EU AI Act—as well as policies aimed at building Poland’s AI ecosystem.158
+155 “MicrosoftannouncesaPLN2.8billioninvestmentincloudandAIinfrastructure,skillingandcybersecurityinPoland.”
+156 “EksperckieCentrumSzkoleniaCyberbezpieczeństwaiOraclenarzeczmodernizacjiWojskaPolskiego”[ExpertCybersecurity
+TrainingCenterandOraclefortheModernizationofthePolishArmedForces],EksperckieCentrumSzkoleniaCyberbezpiec-
+zeństwaim.prof.ZdzisławaKrygowskiego,17September2024.
+157 “EksperckieCentrumSzkoleniaCyberbezpieczeństwawpartnerstwiezMicrosofturuchamiaakademięrozwojukompetencji
+narzeczcyberobronnościkraju”[TheExpertCybersecurityTrainingCenter,inPartnershipwithMicrosoft,LaunchesaCompe-
+tencyDevelopmentAcademyfortheCountry’sCyberDefense].
+158 Formoreinformationoncivilservantstrainingprograms,see:
+nych-w-sluzbie-cywilnej-na-2024-r(lastaccessed5September2025).
+52 GUARDING THE ALLIANCE’S EASTERN FRONTIERS
+
+Table 2: Selected Cooperation Initiatives between the Polish Armed Forces and the
+Private Sector in Innovative Technologies
+Partner Polish Entity Initiative/Agreement
+Cisco CyberDefenseForces Apartnershipinthefieldofcybersecurity,including
+ComponentCommand) theexchangeofknowledgeonthelatestcyber
+threatsandjointeffortstostrengthentheprotection
+ofcriticalinfrastructure.Cisco'sTalosunitprovides
+informationondetectedthreats.
+Microsoft CyberDefenseForces DKWOChasjoinedtheMicrosoftGovernment
+ComponentCommandand SecurityProgram(GSP),whichprovidescontrolled
+thePolishArmedForces accesstosourcecode,threatinformation,andtech-
+nicalcontent.Aseparatecooperationagreement
+wassignedtodeepencooperationinnewtechnol-
+ogies,includingcloudcomputing,AI,andquantum
+computing,tostrengthenthearmy'sresilience.
+Oracle CyberDefenseForces Anagreementwassignedoncooperationinthe
+ComponentCommand fieldofcybersecurity,AI,andcloudinfrastructure.
+Thegoalistobuildjointtaskforcesfortheex-
+changeofinformationonthreatsandthebuildingof
+knowledge,whichistoincreasethecountry'scyber
+resilience.
+Google CyberDefenseForces Anagreementoncooperationinthefieldofcyberse-
+ComponentCommand curityanddatastorageinthecloud,alsoincluding
+plansforjointPolish-Americantraining.Theagree-
+mentwassignedforatleastoneyear.
+WWW.DEFENSEAI.EU 53
+
+8 Conclusion
+54 GUARDING THE ALLIANCE’S EASTERN FRONTIERS
+
+Assessing Poland’s efforts to develop and implement AI in the defense sector
+is undoubtedly a difficult task, given the numerous uncertainties surrounding
+government plans in this area. Since the country is still at the very early stages of
+deploying such technologies—and with only limited details regarding this policy
+publicly available—a final judgment would certainly be premature. Nonetheless,
+the overall picture of Poland’s endeavors is relatively optimistic.
+The government has published a military AI strategy and has already begun imple-
+menting it, for example, by establishing the Artificial Intelligence Implementation
+Center. The decision to leverage the expertise and capabilities of the Cyberspace
+Defense Forces in launching this initiative reflects a more centralized and sound
+approach that could yield greater efficiency and foster synergistic effects through
+cooperation among all key stakeholders, including the Ministry of National De-
+fense, the Polish Armed Forces, industry, and the R&D sector. The competence
+of the AI Implementation Center’s staff will be crucial in this regard. However, it is
+equally important to note that the development of more detailed policies and reg-
+ulations, as well as the creation of adaptable AI technologies for the military, will
+require both substantial funding and highly skilled human resources. These factors
+will remain significant challenges, despite Poland’s growing defense budget and
+increasing public interest in military service.
+While Poland’s efforts to implement AI within the military appear relatively cen-
+tralized, the same cannot be said for the broader AI ecosystem, which remains
+fragmented and dominated by multinational corporations. Although Polish
+companies—ranging from established enterprises to startups—are pursuing
+innovations with both civilian and military applications, Poland’s reliance on foreign
+technology providers is undeniable. This situation is unlikely to change in the fore-
+seeable future unless well-designed policies—accompanied by adequate fund-
+ing—are introduced to support the growth of domestic technology and defense
+firms.
+Nonetheless, it is worth noting that Poland is making efforts to stimulate the
+growth of the entire AI ecosystem, with particular emphasis on indigenous solu-
+tions, by establishing a range of dedicated funds and policies aimed at fostering
+innovation in domestic companies. These initiatives rely primarily on national
+resources, supplemented to some extent by EU funding, although the latter’s
+potential could be leveraged more effectively. This is especially evident in Poland’s
+participation in EDF projects, where Polish entities often play only a subsidiary
+role. It is also worth noting that opportunities to utilize such funds are recognized
+mainly by private companies and universities, while state-owned enterprises make
+use of them only to a very limited degree.
+WWW.DEFENSEAI.EU 55
+
+Beyond strictly military applications of AI pursued by defense companies, great-
+er emphasis should be placed on the development of dual-use technologies.
+While interest in such technologies is growing and additional funds are being
+established to support innovative projects, it remains crucial to create an effec-
+tive system that fosters business cooperation among various entities—including
+startups and private enterprises—to ensure the successful commercialization of
+new solutions. This is particularly important for building a sustainable ecosystem
+of domestic firms and R&D institutions, which in the long term will reduce Poland’s
+dependence on foreign suppliers. The rationale for such policies is both economic
+and security driven as adopting domestic solutions could strengthen Poland’s
+technological autonomy while stimulating the growth of local businesses. In turn,
+this would help reorient the economy toward more innovative, high value-added
+production, generating better-paid jobs, expanding the tax base, and fostering
+long-term economic resilience.
+Promising prospects notwithstanding, the modernization and transformation of
+Poland’s defense industry—particularly its state-owned enterprises—also remains
+uncertain, especially as the country continues to acquire numerous weapon
+systems, mostly from foreign defense contractors. The automation of production,
+along with the implementation of AI (for example, through smart factories), is
+undeniably necessary given the needs of the military and the nation’s deteriorat-
+ing demographic situation. While this issue lies beyond the scope of this report,
+further research in this area is essential to fully grasp the importance of AI in the
+modern defense sector, particularly in the context of the mass production of
+military equipment.
+56 GUARDING THE ALLIANCE’S EASTERN FRONTIERS
+
+Literature
+“17.polskiF-35”[17thPolishF-35],AgencjaLotnicza “AIwpolskimwojsku.SzefMONzabieragłos”[AI
+ALTAIR,16June2025, inthePolishmilitary:MinisterofNationalDefence
+view?news_id=46241(lastaccessed5September2025). speaksout],PolskaAgencjaPrasowa,3March2025,
+
+“2022–rok,wktórympowstałyWojskaObro- skim-powstaje-centrum-implementacji-sztucznej-inteli-
+nyCyberprzestrzeni”[2022–theyearinwhichthe gencji(lastaccessed5September2025).
+CyberspaceDefenseForceswereestablished],Wojsko
+Polskie,undated, “AIwsłużbieMON-u”[AIintheServiceofthe
+articles/aktualnosci-w/2022-rok-w-ktorym-powsta- MinistryofNationalDefense],PolskaZbrojna,16
+ly-wojska-obrony-cyberprzestrzeni(lastaccessed5 May2025,
+September2025). show/43843?t=AI-w-sluzbie-MON-u(lastaccessed5
+September2025).
+“4/SZAFIR/2021,”NarodoweCentrumBadańi
+Rozwoju,31August2021 “Alreadyintheglobaldefenseindustry,unmanned
+ncbr/4szafir2021(lastaccessed5September2025). andartificialintelligence(AI)arebecomingessential
+elementsofweaponsdevelopment,”MaeilBusiness
+“AboutDataWalk,”DataWalk, Newspaper,14January2025,
+company(lastaccessed5September2025). business/11217061(lastaccessed5September2025).
+“AboutKrakowDIANAAccelerator,”KrakowDIANA “ArtificialIntelligenceDeployableAgent,”European
+Accelerator, DefenceFundundated,
+September2025). ec.europa.eu/document/download/f1aa1eeb-a368-
+41ab-be91-54728c24ccba_en?filename=EDF-2023-DA-
+“Accenturezasilanegeneratywnąsztucznąinteli- CYBER-DAAI%20AIDA.pdf(lastaccessed5September
+gencją”[AccenturePoweredbyGenerativeArtificial 2025).
+Intelligence],Microsoft,10July2023,
+microsoft.com/pl-pl/features/accenture-zasilane-gen- “CentrumImplementacjiSztucznejInteligencjima
+eratywna-sztuczna-inteligencja(lastaccessed5 wystartowaćwtymroku.Polskiewojskocorazszerzej
+September2025). korzystaztejtechnologii”[TheArtificialIntelligence
+ImplementationCenterissettolaunchthisyear,as
+“AIforIndustry–rozwójkompetencjiAIwpolskim thePolishmilitaryincreasinglyadoptsthistechnol-
+przemyśle.PorozumienieMRiT-Intelpodpisane”[AI ogy],PortalMundurowy,15January2025,https://
+forIndustry–DevelopingAICompetenciesinPolish portal-mundurowy.pl/index.php/innowacje-i-biznes/
+Industry.MRiT–IntelAgreementSigned],Ministerstwo centrum-implementacji-sztucznej-inteligencji-ma-wystar-
+RozwojuiTechnologii,27June2025, towac-w-tym-roku-polskie-wojsko-coraz-szerzej-korzys-
+pl/web/rozwoj-technologia/ai-for-industry--rozwoj-kom- ta-z-tej-technologii(lastaccessed5September2025).
+petencji-ai-w-polskim-przemysle-porozumienie-mrit-in-
+tel-podpisane(lastaccessed5September2025). “ChecksatallGermanlandbordersstarton
+Monday,”FederalMinistryoftheInterioroftheFederal
+“AIforSecurity,”NCBRIDEAS,undated, RepublicofGermany,15September2024,https://
+as-ncbr.pl/en/research/ai-for-security(lastaccessed5 
+September2025). EN/2024/09/binnengrenzkontrollen_pm2-en.html(last
+accessed5September2025).
+“AISystems,”WBGroup,undated,
+wbgroup.pl/en/kategoria-produktow/ai-systems(last “ChiefDigital&ArtificialIntelligenceOffice
+accessed5September2025). CelebratesFirstYear,”U.S.DepartmentofDefense,19
+July2023,
+WWW.DEFENSEAI.EU 57
+
+Release/Article/3464012/chief-digital-artificial-intel- nia-cyberbezpieczenstwa-i-oracle-na-rzecz-modernizac-
+ligence-office-celebrates-first-year(lastaccessed5 ji-wojska-polskiego(lastaccessed5September2025).
+September2025).
+“EksperckieCentrumSzkoleniaCyberbezpieczeńst-
+“CyberwojskaifirmaGoogle”[CyberspaceDefense wawpartnerstwiezMicrosofturuchamiaakademię
+ForcesandGoogle],PolskaZbrojna,5October2023, rozwojukompetencjinarzeczcyberobronnościkraju”
+ [TheExpertCybersecurityTrainingCenter,inPartnership
+Cyberwojska-i-firma-Google(lastaccessed5September withMicrosoft,LaunchesaCompetencyDevelopment
+2025). AcademyfortheCountry’sCyberDefense],Microsoft
+News,21May2025,
+“Czasnarealizacjęprojektówwzakresiebadań pl-pl/2025/05/21/eksperckie-centrum-szkolenia-cy-
+naukowychipracrozwojowychnarzeczobronnościi berbezpieczenstwa-w-partnerstwie-z-microsoft-uru-
+bezpieczeństwapaństwa–ruszyłProgramNCBRpk. chamia-akademie-rozwoju-kompetencji-na-rzecz-cybero-
+PERUN”[Timetoimplementprojectsinthefieldof bronnosci-kraju(lastaccessed5September2025).
+scientificresearchanddevelopmentworkfornational
+defenseandsecurity–theNCBRprogramcode-named “FIELDctrlUltraprecise3DMIMOradars,”APS,
+PERUNhasbeenlaunched],NarodoweCentrumBadańi undated,
+Rozwoju,24November2023, cise-3d-mimo-radars(lastaccessed5September2025).
+ncbr/czas-na-realizacje-projektow-w-zakresie-badan-
+naukowych-i-prac-rozwojowych-na-rzecz-obronnosci-i- “FirstGladiussystemdelivered,”WBGroup,15
+bezpieczenstwa-panstwa--ruszyl-program-ncbr-pk-perun December2022,
+(lastaccessed5September2025). nosci/first-gladius-system-delivered(lastaccessed5
+September20252025).
+“DefenseandResilience:ProspectsofCompanies
+Development,”KPBN2025, “FunduszBezpieczeństwaiObronnościwesprze
+alnosci/premiera-raportu-obronnosc-i-odpornosc---per- inwestycjesamorządowe”[TheSecurityandDefense
+spektywy-rozwoju-przedsiebiorstw(lastaccessed5 Fundwillsupportlocalgovernmentinvestments],Min-
+September2025). isterstwoFunduszyiPolitykiRegionalnej,30May2025,
+
+“DIANAispartneringwithmorethan180testcentres pieczenstwa-i-obronnosci-wesprze-inwestycje-samorza-
+fromacrosstheNATOAlliance,”DIANANATO,undated, dowe(lastaccessed5September2025).
+
+accessed5September2025). “FunduszBezpieczeństwaiObronnościwesprze
+inwestycjesamorządowe”[TheSecurityandDefense
+“DKWOCwłączonedoprogramuMicrosoftGovern- Fundwillsupportlocalgovernmentinvestments],Min-
+mentSecurityProgram”[DKWOCjoinstheMicrosoft isterstwoFunduszyiPolitykiRegionalnej,30May2025,
+GovernmentSecurityProgram],WojskoPolskie,undated, 
+ pieczenstwa-i-obronnosci-wesprze-inwestycje-samorza-
+nosci-w/dkwoc-wlaczone-do-programu-microsoft-gov- dowe(lastaccessed5September2025).
+ernment-security-program(lastaccessed5September
+2025). “Gen.Molenda:14kwietniaruszaCentrumImple-
+mentacjiSztucznejInteligencji”[Gen.Molenda:The
+“EastShield,”GeneralStaffofthePolishArmed ArtificialIntelligenceImplementationCenterwilllaunch
+Forces,27May2024, onApril14],PortalSamorządowy,2April2025,https://
+pl/u/59/0f/590f9be9-9609-4a9a-ab5d-fb5371503b5a/ 
+tarcza_wschod_prezentacja_sgwp_27052024.pdf(last gen-molenda-14-kwietnia-rusza-centrum-implementac-
+accessed5September2025). ji-sztucznej-inteligencji,605209.html(lastaccessed5
+September2025).
+“EksperckieCentrumSzkoleniaCyberbezpieczeńst-
+waiOraclenarzeczmodernizacjiWojskaPolskiego” “GoogleInvestsBillionsinPoland’sDigitalFuture,”
+[ExpertCybersecurityTrainingCenterandOracleforthe ChancelleryofthePrimeMinister,13February2025
+ModernizationofthePolishArmedForces],Eksperckie 
+CentrumSzkoleniaCyberbezpieczeństwaim.prof.Zd- vests-billions-in-polands-digital-future(lastaccessed5
+zisławaKrygowskiego,17September2024, September2025).
+mil.pl/komunikaty-prasowe/eksperckie-centrum-szkole-
+58 GUARDING THE ALLIANCE’S EASTERN FRONTIERS
+
+“Grossdomesticexpenditureonresearchand ji-i-cyfryzacja-biznesu-to-nasze-priorytety(lastaccessed
+developmentin2023,”Eurostat,December2024,https:// 5September2025).
+ec.europa.eu/eurostat/statistics-explained/index.php?-
+title=R%26D_expenditure(lastaccessed5September “Markets,”APS,undated,
+2025). markets(lastaccessed5September2025).
+“HMSJASMINE-HeadquartersManagement “MicrosoftannouncesaPLN2.8billioninvestment
+SystemforOperationalandTacticalLevel,”Teldat, incloudandAIinfrastructure,skillingandcybersecurity
+undated, inPoland,”MicrosoftNews,17February2025,https://
+systems/166-hms-jasmine.html(lastaccessed5Sep- news.microsoft.com/pl-pl/2025/02/17/microsoft-an-
+tember2025). nounces-a-pln-2-8-billion-investment-in-cloud-and-ai-in-
+frastructure-skilling-and-cybersecurity-in-poland(last
+“IDA–Inwestycjeiadaptacjatechnologiipodwój- accessed5September2025).
+negozastosowania”[IDA–Investmentsandadaptation
+ofdual-usetechnologies],GrupaPFR,undated,https:// “MicrosoftInvestsPLN3BillioninaNewData
+grupapfr.pl/program/ida-inwestycje-i-adaptacja-tech- CenterinPoland,”ChancelleryofthePrimeMinister,17
+nologii-podwojnego-zastosowania(lastaccessed5 February2025,
+September2025). microsoft-invests-pln-3-billion-in-a-new-data-center-in-
+poland(lastaccessed5September2025).
+“IDABootcamp2025–PFRszukainnowacyjnych
+rozwiązańdlaobronności”[IDABootcamp2025– “MONzwiększanatenroklimitdlaochotników
+PFRseeksinnovativesolutionsfordefense],Polski wDZSWiobniżaw2025r.”[TheMinistryofNational
+FunduszRozwoju,26May2025, DefenseincreasesthelimitforvolunteersintheVolun-
+ida-bootcamp-2025-pfr-szuka-innowacyjnych-rozwi- taryBasicMilitaryServiceforthisyearandlowersitin
+azan-dla-obronnosci#(lastaccessed5September 2025],PortalMundurowy,20December2024,https://
+2025). 
+zwieksza-na-ten-rok-limit-dla-ochotnikow-w-dzsw-i-ob-
+InternationalDefenseInsightReport,Securing niza-w-2025-r(lastaccessed5September2025).
+strategicadvantagefordefensecompanies(nolocation:
+Accenture,2024), “NarodowyProgramOdstraszaniaiObrony–Tarcza
+dam/accenture/final/industry/aerospace-and-defense/ Wschód”[NationalDeterrenceandDefenceProgramme
+document/Securing-Strategic-Advantage-Defense-Com- –EastShield],MinisterstwoObronyNarodowej,https://
+panies.pdf(lastaccessed5September2025). tarczawschod.wp.mil.pl/u/9b/2b/9b2b06d2-f368-4eae-
+bde1-b3d2664c01ec/tarcza_wschod_-_ulotka.pdf(last
+“KrakówDIANA–ruszapolskiakceleratorinnowacji accessed5September2025).
+obronnychNATO”[KrakówDIANA–LaunchofthePolish
+NATOdefenseinnovationaccelerator],MILMAG,16 “NationalCyberSecurityIndex,”e-Governance
+March2024, AcademyFoundation,
+ski-akcelerator-innowacji-obronnych-nato(lastaccessed /?order=-ncsi(lastaccessed5September2025).
+5September2025).
+“NavigatingDual-UseTechnologies:AFounder’s
+“Listawnioskówpozytywnieocenionychpod HandbooktoOpportunitiesandChallenges,”Balnord&
+względemformalnym(Konkursnr1/PERUN/2023)”[List PolskiFunduszRozwoju,15December2024,https://
+ofApplicationsPositivelyEvaluatedinTermsofFormal 
+Criteria(CompetitionNo.1/PERUN/2023)],Narodowe use-tech-handbook-for-deep-tech-companies(last
+CentrumBadańiRozwoju, accessed5September2025).
+ment/7d8b059d-4f73-4f4a-808d-d08087166c7b(last
+accessed5September2025). “NCBRczęściąFunduszuSztucznejInteligencji”
+[TheNCBRwillbepartoftheArtificialIntelligenceFund],
+“Łukasiewicz–AIoficjalnieotwarty.Rozwój NarodoweCentrumBadańiRozwoju,18November
+sztucznejinteligencjiicyfryzacjabiznesutonasze 2025,
+priorytety”[Łukasiewicz–AIofficiallyopened.The duszu-sztucznej-inteligencji(lastaccessed5September
+developmentofartificialintelligenceandbusiness 2025).
+digitalizationareourpriorities],SiećBadawczaŁukasie-
+wicz,4July2025, “Nowetechnologie,pracebadawczo–rozwo-
+wicz-ai-oficjalnie-otwarty-rozwoj-sztucznej-inteligenc- jowe,cyberbezpieczeństwo–WojskoPolskierozwija
+WWW.DEFENSEAI.EU 59
+
+współpracęzMicrosoft”[NewTechnologies,Re- “PIT-RADWARS.A.podpisałumowęzfirmąDigica”
+searchandDevelopment,Cybersecurity–ThePolish [PIT-RADWARS.A.signedacontractwithDigica],
+ArmedForcesExpandCooperationwithMicrosoft], PIT-RADWAR,30April2024,
+MinisterstwoObronyNarodowej,17February2025, com/a/2065,pit-radwar-s-a-podpisal-umowe-z-firma-digi-
+ ca#(lastaccessed5September2025).
+nologie-prace-badawczo--rozwojowe-cyberbezpiec-
+zenstwo--wojsko-polskie-rozwija-wspolprace-z-microsoft “Platformakonkursowa”[CompetitionPlatform],Nar-
+(lastaccessed5September2025). odoweCentrumBadańiRozwoju,undated,
+gov.pl/web/ncbr/platforma-konkursowa#/ncbr?sort=an-
+“Osztucznejinteligencjinaseminariumnaukowym nouncementDate,desc&description=step&current-
+wCDISSZ”[OnArtificialIntelligenceattheScientific Page=0&limit=10(lastaccessed5September2025).
+SeminarintheCDISSZ],CentrumDoktryniSzkolenia
+SiłZbrojnychim.gen.broniWładysławaSikorskiego, “PolacyporazkolejnynapodiumzawodówLocked
+19March2025, Shields”[PolesonceagainonthepodiumattheLocked
+ci-2025/o-sztucznej-inteligencji-na-seminarium-nau- Shieldscompetition],WojskoPolskie,undated,https://
+kowym-w-cdis-sz(lastaccessed5September2025). 
+acy-po-raz-kolejny-na-podium-zawodow-locked-shields/
+“Odpowiedzialny,alehojny–budżetna2025rok (lastaccessed5September2025).
+przyjęty”[ResponsiblebutGenerous–2025Budget
+Adopted],KancelariaPrezesaRadyMinistrów,28August “PolandchargesBelarusianwitharsononbehalfof
+2024, Russianintelligence,”Reuters,12March2025,https://
+ale-hojny--budzet-na-2025-rok-przyjety(lastaccessed5 
+September2025). sian-with-arson-behalf-russian-intelligence-2025-03-12
+(lastaccessed5September2025).
+“Ourareasofactivity,”ŁukasiewiczResearch
+Network,undated, “PolandEffectivelyProtectstheEUBorder,”Chan-
+know-us(lastaccessed5September2025). celleryofthePrimeMinisteroftheRepublicofPoland,
+22March2025,
+“OurCustomers,”DataWalk,undated, poland-effectively-protects-the-eu-border(lastaccessed
+walk.com/company/our-customers(lastaccessed5 5September2025).
+September2025).
+“PolicyfortheDevelopmentofArtificialIntelligence
+“Ouroriginsdatebackto1987,”Telbud,undated, inPolandfrom2020.AppendixtotheResolutionno.
+ 196oftheCouncilofMinistersof28December2020
+5September2025). (item23),”TheCouncilofMinistersoftheRepublicof
+Poland,
+“PFRDeepTech:600mlnPLNnainwestycjew ju-sztucznej-inteligencji-w-polsce-od-roku-2020(last
+zaawansowanetechnologie”[PFRDeepTech:PLN600 accessed5September2025).
+millionforinvestmentsinadvancedtechnologies],Min-
+isterstwoAktywówPaństwowych,6May2025,https:// “PoliticalDeclarationonResponsibleMilitaryUseof
+ ArtificialIntelligenceandAutonomy,”OfficialWebsite
+mln-pln-na-inwestycje-w-zaawansowane-technologie oftheUnitedStatesGovernment,
+(lastaccessed5September2025). gov/bureau-of-arms-control-deterrence-and-stability/
+political-declaration-on-responsible-military-use-of-ar-
+“PFRpodpisałlistintencyjnywsprawieFunduszu tificial-intelligence-and-autonomy(lastaccessed5
+SztucznejInteligencji–nowemożliwościdlarozwoju September2025).
+polskiejgospodarki”[PFRSignedaLetterofIntenton
+theArtificialIntelligenceFund–NewOpportunitiesfor “PolskamazamiardołączyćdoprogramuGigafabryk
+theDevelopmentofthePolishEconomy],PolskiFundusz AI”[PolandintendstojointheAIGigafactoryProgram],
+Rozwoju,15November2024, PolskaAgencjaPrasowa,12June2025,
+pfr-podpisal-list-intencyjny-w-sprawie-funduszu-sz- pap.pl/wiadomosci/gry-i-technologie/polska-ma-zam-
+tucznej-inteligencji(lastaccessed5September2025). iar-dolaczyc-do-programu-gigafabryk-ai-opis(last
+accessed5September2025).
+“PIORUNMANPADS,”Mesko,undated,https://
+ “Priorytetowekierunkibadańnaukowychwresorcie
+accessed5September2025). obronynarodowejwlatach2021-2035”[Prioritydirec-
+60 GUARDING THE ALLIANCE’S EASTERN FRONTIERS
+
+tionsofscientificresearchintheMinistryofNational pl/web/ncbr/sciezka-smart-nabor-feng0101-ip01-00124
+Defensefor2021–2035],MinisterstwoObronyNaro- (lastaccessed5September2025).
+dowej,
+4c03-8714-148d0e2a6899(lastaccessed5September “SIBMSLegion,”RegionalneCentrumInformatyki
+2025). Olsztyn,22April2024,
+aktualnosci/si-bms-legion(lastaccessed5September
+“ProjektUstawyosystemachsztucznejinteligencji 2025).
+zezmianamipokonsultacjachspołecznych”[DraftAct
+onArtificialIntelligenceSystemswithAmendmentsFol- “SKYctrlComprehensiveanti-dronesystem,”APS,
+lowingPublicConsultations],MinisterstwoCyfryzacji,11 undated,
+February2025, hensive-anti-drone-system(lastaccessed5September
+jekt-ustawy-o-systemach-sztucznej-inteligencji-ze-zmi- 2025).
+anami-po-konsultacjach-spolecznych(lastaccessed5
+September2025). “SmartFactoriesTransitionfromAutomationto
+Intelligence,”Hanwha,15September2017,https://
+“RekomendacjedoStrategiiBezpieczeństwaNaro- 
+dowegoRzeczypospolitejPolskiej”[Recommendations smart-factories-transition-from-automation-to-intelli-
+fortheNationalSecurityStrategyoftheRepublicof gence.do(lastaccessed5September2025).
+Poland],TheOfficialWebsiteofthePresidentoftheRe-
+publicofPoland,4July2024, “ŚrodkizKPOzasiląFunduszBezpieczeństwai
+storage/file/core_files/2024/7/4/7fa9f08052b51758d- Obronności”[FundsfromtheNationalRecoveryPlan
+6ed4e9a11a9d32d/REKOMENDACJE%20SBNRP%20 (KPO)willbeallocatedtotheSecurityandDefense
+4%20lipca%202024.pdf(lastaccessed5September Fund],MinisterstwoObronyNarodowej,4April2025,
+2025). 
+ki-z-kpo-zasila-fundusz-bezpieczenstwa-i-obronnosci
+“Resortowastrategiasztucznejinteligencjidoroku (lastaccessed5September2025).
+2039”[Poland’sMinisterialArtificialIntelligenceStrate-
+gyuntil2039],MinisterstwoObronyNarodowej,11Oc- “StrategiaBezpieczeństwaNarodowegoRzeczy-
+tober2024, pospolitejPolskiej”[NationalSecurityStrategyofthe
+resortowa-strategia-sztucznej-inteligencji-do-roku-2039 RepublicofPoland],KancelariaPrezesaRadyMinistrów,
+(lastaccessed5September2025). 25July2025,
+gia-bezpieczenstwa-narodowego-rzeczypospolitej-polsk-
+“RewolucjadronowawSiłachZbrojnychRP”[Drone iej(lastaccessed5September2025).
+RevolutioninthePolishArmedForces],Ministerstwo
+ObronyNarodowej,22July2025, “Strategiacyfryzacjipaństwa”[NationalDigital-
+pl/web/obrona-narodowa/rewolucja-dronowa-w-si- izationStrategy],MinisterstwoCyfryzacji,undated,
+lach-zbrojnych-rp(lastaccessed5September2025). 
+ji-panstwa---20-czerwca-br-na-pge-narodowym(last
+“RozporządzenieRadyMinistrówzdnia25lutego accessed5September2025).
+2025r.wsprawieutworzeniaInstytutuBadawczegoIDE-
+AS”[RegulationoftheCouncilofMinistersofFebruary “Szerszeńizielonalinia,czylizaczątekdronizacji
+25,2025,ontheEstablishmentoftheIDEASResearch armii”[HornetandGreenLine,thebeginningofthe
+Institute],SejmRP, ArmedForces’Dronization],DziennikZbrojny,24
+DocDetails.xsp?id=WDU20250000238(lastaccessed5 July2025,
+September2025). news,1,12167,aktualnosci-z-polski,szerszen-i-zielo-
+na-linia-czyli-zaczatek-dronizacji-armii(lastaccessed5
+“Ruszyłabudowazaporyelektronicznejnagranicy September2025).
+polsko-rosyjskiej”[Constructionoftheelectronicbarrier
+onthePolish-Russianborderhasbegun],Ministerstwo “TarczaWschód”wzmocnibezpieczeństwoPolskii
+SprawWewnętrznychiAdministracji,18April2023, wschodniejflankiNATO”[‘EasternShield’willstrength-
+ enthesecurityofPolandandNATO’seasternflank],
+ry-elektronicznej-na-granicy-polsko-rosyjskiej(last MinisterstwoObronyNarodowej,27May2025,https://
+accessed5September2025). 
+mocni-bezpieczenstwo-polski-i-wschodniej-flanki-nato
+“ŚcieżkaSMARTnabórFENG.01.01-IP.01-001/24,” (lastaccessed5September2025).
+NarodoweCentrumBadańiRozwoju,
+WWW.DEFENSEAI.EU 61
+
+“TestingServicesforDIANAStartups:Capabilitiesof jne/bottropnowe-narzedzie-do-wykrywania-cyberatakow
+7PolishTestCentersinNATODIANANetwork,”Krakow (lastaccessed5September2025).
+DIANAAccelerator,undated,
+home/diana.krakow/prezentacje/Polish_DIANA_Test_ “WspółpracaDKWOCzOraclewobszarzecyberbez-
+Centers_Services.pdf(lastaccessed5September pieczeństwa”[DKWOC’sCooperationwithOracleinthe
+2025). FieldofCybersecurity],MinisterstwoObronyNarodowej,
+1April2025,
+“TheCyberDefenseIndex2022/23,”MITTechnol- wspolpraca-dkwoc-z-oracle-w-obszarze-cyberbezpiec-
+ogyReview,undated, zenstwa(lastaccessed5September2025).
+com/2022/11/15/1063189/the-cyber-defense-in-
+dex-2022-23(lastaccessed5September2025). “Zanami‘Warsztatydotyczącewizjinowoczesnej
+łączności’”[The“WorkshopsontheVisionofModern
+“TheLaunchoftheFirstPolishAIFactory–PI- Communications”arebehindus],WojskoPolskie,
+AST-AI,”PCSS,23June2025, undated,
+piast-ai(lastaccessed5September2025). aktualnosci-w/warsztaty-dotyczace-wizji-nowocz-
+esnej-lacznosci(lastaccessed5September2025).
+“WWojskuPolskimpowstajeCentrumImplemen-
+tacjiSztucznejInteligencji”[AnArtificialIntelligence “Załączniknr1douchwałySenatuWATnr103/
+ImplementationCenterisbeingestablishedinthePolish WAT/2023zdnia22czerwca2023r.”[AnnexNo.1to
+ArmedForces],MinisterstwoObronyNarodowej,3 ResolutionNo.103/WAT/2023oftheSenateofthe
+March2025, MilitaryUniversityofTechnologyofJune22,2023],
+/w-wojsku-polskim-powstaje-centrum-implementacji-sz- WojskowaAkademiaTechniczna–WydziałCybernetyki,
+tucznej-inteligencji(lastaccessed5September2025). 22June2023,
+edukacja/programy-studiow/2023-2024/wcy/wcy_infor-
+“WATzacieśniawspółpracęzIBM-em”[WAT matyka_i_st_stacjon_uchwala_nr_103-wat-2023.pdf(last
+StrengthensCooperationwithIBM],PolskaZbrojna,26 accessed5September2025).
+May2023,
+cleshow/39628?t=WAT-zaciesnia-wspolprace-z-IBM-em “Załączniknr2doRegulaminuKonkursu1/
+(lastaccessed5September2025). PERUN/2023”[AppendixNo.2totheRulesof
+Competition1/PERUN/2023],NarodoweCentrum
+“WBGROUPintheAIDAproject,”WGGroup,28 BadańiRozwoju,
+October2024 ment/82729c5e-4b6e-420b-95c0-ed4f32743c0d(last
+wb-group-in-the-aida-project(lastaccessed5September accessed5September2025).
+2025).
+“Zostańcyberlegionistą!Wojskoruszaznowym
+“WhitePaperforEuropeanDefence–Readiness programem”[Becomeacyberlegionnaire!Themilitary
+2030,”EuropeanCommission,19March2025,https:// launchesanewprogram],PolskaZbrojna,9May2025,
+commission.europa.eu/document/download/e6d5db69- 
+e0ab-4bec-9dc0-3867b4373019_en?filename=White%20 tle=Zostan-cyberlegionista-Wojsko-rusza-z-nowym-pro-
+paper%20for%20European%20defence%20 gramem(lastaccessed5September2025)
+%E2%80%93%20Readiness%202030.pdf(lastaccessed
+5September2025). Ahmad,Atifetal.,“Strategically-motivatedadvanced
+persistentthreat:Definition,process,tacticsanda
+“WojskacybernetyczneiOraclebędąwspółpracow- disinformationmodelofcounterattack,”Computers
+aćm.in.wzakresiesztucznejinteligencji”[TheCyber & Security,86(September2019,pp.402-418,https://
+ForcesandOraclewillcooperate,amongotherareas,in doi.org/10.1016/j.cose.2019.07.001(lastaccessed5
+artificialintelligence],PolskaAgencjaPrasowa,1April September2025).
+2025,
+gie/wojska-cybernetyczne-i-oracle-beda-wspolpracow- Bendett,Sam,“RolesandImplicationsofAIin
+ac-min-w-zakresie(lastaccessed5September2025). theRussian-UkrainianConflict,”Russia Matters,20
+July2023,
+“WojskowaAkademiaTechnicznastworzyła roles-and-implications-ai-russian-ukrainian-conflict(last
+narzędzieAIdowykrywaniacyberataków”[TheMilitary accessed5September202519August2025).
+UniversityofTechnologyHasDevelopedanAIToolfor
+DetectingCyberattacks],Defence24,2September2021, Bondar,Kateryna,UnderstandingtheMilitaryAI
+ EcosystemofUkraine(Washington,DC:CSIS,2024),
+62 GUARDING THE ALLIANCE’S EASTERN FRONTIERS
+
+ Dudkowiak,Michał,“AILawinPoland,”10July2025,
+standing_the_Military_AI_Ecosystem_of_Ukraine.pdf(19 
+August2025).
+Goncharuk,Vitaliy,SurvivaloftheSmartest?Defense
+Borchert,Heiko,“TheVeryLongGameofDefense AIinUkraine(Hamburg:DefenseAIObservatory,2024),
+AIAdoption:Introduction,”inHeikoBorchert,Torben 
+Schütz,andJosephVerbovszky(eds.),TheVeryLong daio_study2422_survival_of_the_smartest_vitaliy_gon-
+Game.25CaseStudiesontheGlobalStateofDefense charuk.pdf(lastaccessed5September2025).
+AI(Cham:Springer,2024),pp.1-38,
+com/chapter/10.1007/978-3-031-58649-1_1(last Kolasa,Michał,“InnowacyjnośćPolski.Zestaw-
+accessed5September2025). ienie–grudzień2024”[Poland’sInnovation.Report
+–December2024],PolskiFunduszRozwoju,13De-
+Bujak,Tomasz,InterviewbyGraf,Jędrzej,“Polska cember2024
+sztucznainteligencjadlaTarczyWschód”[Polishartifi- ski-grudzien-2024-r(lastaccessed5September2025).
+cialintelligencefortheEastShield],Defence24,3March
+2025, Kozłowski,Andrzej,“Polish“cyberclaws”.Building
+na-inteligencja-dla-tarczy-wschod-wywiad(lastaccessed ofthecyberarmyoftherisingmilitarypowerinEurope,”
+5September2025). CasimirPulaskiFoundation,26June2023,
+laski.pl/en/polish-cyberclaws-building-of-the-cyberarmy-
+Ciechoński,Tomasz,“Rządowepracenadustawą of-the-rising-military-power-in-europe(lastaccessed5
+wdrażającąAIActnaostatniejprostej”[Government September2025).
+WorkontheLawImplementingtheAIActintheFinal
+Stretch],Prawo.pl,22August2025, Krakowski,KrzysztofandSzewczyk,Kamil,“Systemy
+pl/biznes/projekt-ustawy-o-systemach-ai-przyjety-przez- symulacjiwirtualnejwszkoleniubojowymżołnierzy
+komitet,534550.html(lastaccessed5September2025). wojsklądowych–stanobecnyiperspektywyrozwo-
+ju”[Virtualsimulationsystemsincombattrainingof
+Dmitruk,Tomasz,“PierwsześrodkizFunduszuBez- groundforcessoldiers–currentstatusanddevelop-
+pieczeństwaiObronnościw2026roku”[Thefirstfunds mentperspectives],Wiedza Obronna,291/2(2025),
+fromtheSecurityandDefenceFundwillbeavailablein 
+2026],DziennikZbrojny,13July2025, view/355/327(lastaccessed5September2025).
+brojny.pl/aktualnosci/news,1,12165,aktualnosci-z-pol-
+ski,pierwsze-srodki-z-funduszu-bezpieczenstwa-i-obron- Król,Tomasz,“MONwyjaśniaaferęzgrantamina
+nosci-w-2026-roku(lastaccessed5September2025). amunicję”[DefenseMinistryAddressesAmmunition
+GrantScandal].INFOR,16March2024,
+Dmitruk,Tomasz,“WydatkinaobronnośćPolski infor.pl/prawo/nowosci-prawne/6543488,mon-wy-
+wlatach2022-2025wedługMON”[Poland’sdefense jasnia-afere-z-grantami-na-amunicje.html(lastaccessed
+spendingin2022–2025accordingtotheMinistryof 5September2025).
+NationalDefense],DziennikZbrojny,7December2024,
+ Krzysztoszek,Aleksandra,“SeriesoffiresacrossPo-
+tualnosci-z-polski,wydatki-na-obronnosc-polski-w-lat- land,Russiansabotagesuspected,”EURACTIV,15July
+ach-2022-2025-wedlug-mon(lastaccessed5September 2025,
+2025). series-of-fires-across-poland-russian-sabotage-suspect-
+ed(lastaccessed5September2025).
+Doerries,ClaudiaandBarth,Oliver,“Poland
+imposeschecksonGermanandLithuanianborders Kushnikov,Vadim,“TheUkrainianmilitaryreceived
+amidmigrationfears,”Reuters,7July2025,https:// theSKYCTRLanti-dronesystem,”Militarnyi,2October
+ 2022,
+es-checks-german-lithuanian-borders-amid-migra- military-received-the-sky-ctrl-anti-drone-system(last
+tion-fears-2025-07-07/(lastaccessed5September accessed5September2025).
+2025).
+Lewkowicz,Monika,“MC:4,5mldzłnarozwój
+DrabikPiotr,“Poland:Fenceintheswamp,”Balkan cyfryzacjiw2025r.wramachFunduszuAI”[Ministry
+Insight,29February2029, ofDigitalAffairs:PLN4.5BillionforDigitalizationDe-
+com/2024/02/29/poland-fence-in-the-swamp/(last velopmentin2025UndertheAIFund],NaukawPolsce,
+accessed5September2025). 13January2025,
+news%2C106169%2Cmc-45-mld-zl-na-rozwoj-cyfryzacji-
+WWW.DEFENSEAI.EU 63
+
+w-2025-r-w-ramach-funduszu-ai.html(lastaccessed18 da-na-obronnosc-w-2026-roku-idziemy-na-rekord(last
+September2025). accessed5September2025).
+Lipka,RafałandCzub,Sebastian,“Sivispacem, Molenda,Karol,InterviewbyOkulska,Inez,“Piąty
+parabellum:TransformationofthePolishArmedForces żywiołwstarciuzAI”[TheFifthElementinConfron-
+inResponsetoEmergingThreats,”CasimirPulaski tationwithAI],HAIMagazine,31March2025,https://
+Foundation,15November2024, haimagazine.com/pl/hai-magazine/numer-4/piaty-zywi-
+si-vis-pacem-para-bellum-transformation-of-the-polish- ol-w-starciu-z-ai(lastaccessed5September2025).
+armed-forces-in-response-to-emerging-threats(last
+accessed5September2025). Naruszko,Dominika,“Sztucznainteligencjaskróci
+kolejkidolekarza?”[WillArtificialIntelligenceShorten
+Maciejewski,Adam,“MSPO2023:kieleckapremiera WaitTimesforDoctors?],GłosAkademicki,nr3(334)
+systemuGladiusGrupyWB”[MSPO2023:Kielce marzec2024,ROKXXVIIIISSN1507-9988,Wojskowa
+PremiereofWBGroup’sGladiusSystem],ZBiAM,5 AkademiaTechniczna,
+September2023, wp-content/uploads/2024/05/ga-3-334-marzec-2024.
+premiera-systemu-galdius-grupy-wb(lastaccessed5 pdf(lastaccessed5September2025).
+September2025).
+National Security Strategy Of The Republic Of Poland
+Mader,Georg,“Polandonthewaytobecomingthe (2020),(Warsaw,Poland:NationalSecurityBureau,
+strongestarmyinEurope,”MilitärAktuell,26March 2020),
+2025, al_Security_Strategy_of_the_Republic_of_Poland_2020.
+becoming-the-strongest-army-in-europe(lastaccessed5 pdf(15August2025).
+September2025).
+Ołowniuk,Julia,“Deepfake–jakrozpoznaćfałszywe
+Marszycki,Mikołaj,“DKWOCiCiscopodpisałyporo- treści?”[Deepfake–HowtoRecognizeFakeContent?],
+zumienieowspółpracywzakresiecyberbezpieczeńst- WATDziałPromocjiiKomunikacji,3February2025,
+wa”[DKWOCandCiscosignedacooperationagreement 
+inthefieldofcybersecurity],ITWIZ,28October2022, rozpoznac-falszywe-tresci(lastaccessed5September
+ 2025).
+ienie-o-wspolpracy-w-zakresie-cyberbezpieczenstwa/
+(lastaccessed5September2025). Palczewski,Szymon,“Atakinapolskąinfrastrukturę
+krytyczną.DowódcaDKWOC:zmieniamypodejście
+McGovern,Matthew,“16thAirForcecontinues NATO”[AttacksonPolishcriticalinfrastructure:Com-
+PolandCyberCommandpartnershipwithfirst-ever manderoftheCyberspaceDefenseForcesCommand
+malwareattackexercise,”AirCombatCommand,4De- –WearechangingNATO’sapproach],Defence24,6
+cember2024, May2025,
+play/Article/3987296/16th-air-force-continues-poland- ataki-na-polska-infrastrukture-krytyczna-dowod-
+cyber-command-partnership-with-first-ever-malwa(last ca-dkwoc-zmieniamy-podejscie-nato(lastaccessed5
+accessed5September2025). September2025).
+Mężyński,Andrzej,“Sztucznainteligencjana Palczewski,Szymon,“NowajednostkawWojsku
+granicyzBiałorusią.MSWiAzmodernizowało“zaporę Polskim.InwestycjeMONwstrategicznyobszar”[Anew
+techniczną”[Artificialintelligenceontheborderwith unitinthePolishArmedForces:MinistryofNational
+Belarus:TheMinistryoftheInteriorandAdministration Defenceinvestsinastrategicarea],Defence24,3March
+hasmodernizedthe‘technicalbarrier’],Forsal.pl,30 2025,
+March2025, wa-jednostka-w-wojsku-polskim-inwestycje-mon-w-stra-
+artykuly/9767361,sztuczna-inteligencja-na-granicy-z-bi- tegiczny-obszar(lastaccessed5September2025).
+alorusia-mswia-zmodernizowalo-z.html(lastaccessed5
+September2025). Palczewski,Szymon,“WojskoRProśnie.GenerałMo-
+lendaszczerzeopotencjalePolski”[ThePolishArmed
+Miłosz,Maciej,“TylePolskawydanaobronność Forcesaregrowing:GeneralMolendaspeakscandidly
+w2026roku.Idziemynarekord”[Thisishowmuch aboutPoland’spotential],Defence24,25March2024,
+Polandwillspendondefensein2026:weareheading 
+forarecord],Rzeczpospolita,20February2025,https:// nie-general-molenda-szczerze-o-potencjale-polski(last
+ accessed5September2025).
+64 GUARDING THE ALLIANCE’S EASTERN FRONTIERS
+
+Palczewski,Szymon,“Wojsko:deklaracjaoużyciu Witcher,Rob,“Microsoft’sPolandInvestment:Your
+AI.BrakujePolski;MSZwyjaśnia”[Military:Declaration NextBigBreakinCybersecurity,”DestinationCertifica-
+ontheUseofAI.PolandMissing;ForeignMinistry tion,6June2025,
+Explains],Defence24,14November2023,https:// crosoft-poland-investment(lastaccessed5September
+cyberdefence24.pl/armia-i-sluzby/wojsko-deklarac- 2025).
+ja-o-uzyciu-ai-brakuje-polski-aktualizacja(lastaccessed
+5September2025). Wrzos,Marcin,“NaukowcyzWATopracowali
+algorytmdoocenywysokościbudynków”[Scientists
+Palowski,Jakub,“MiliardzUEnatechnologie fromWATHaveDevelopedanAlgorithmforAssessing
+obronne.Skorzystapolskiprzemysł?”[ABillionfromthe BuildingHeights],WATDziałPromocjiiKomunikacji,
+EUforDefenseTechnologies.WillPolishIndustryBene- 25November2024,
+fit?],Defence24,10February2025, nauka-i-technologia/sztuczna-inteligencja-oszacu-
+przemysl/miliard-z-ue-na-technologie-obronne-skorzys- je-wysokosc-budynkow(lastaccessed5September
+ta-polski-przemysl(lastaccessed5September2025). 2025).
+Palowski,Jakub,“PolskieF-35:rewolucja,którą Wrzos,Marcin,“Sztucznainteligencjazredukujekor-
+trzebawykorzystać,”[PolishF-35s:ARevolutionto kinadrogach“[ArtificialIntelligenceWillReduceTraffic
+CapitalizeOn],Defence24,28August2024, Jams],WATDziałPromocjiiKomunikacji,10January
+fence24.pl/sily-zbrojne/polskie-f-35-rewolucja-ktora-tr- 2024,
+zeba-wykorzystac(lastaccessed5September2025). sztuczna-inteligencja-zredukuje-korki-na-drogach(last
+accessed5September2025).
+PardoDeSantayana,José,Artificialintelligence
+andthewarinUkraine(Madrid:InstitutoEspanolde
+EstudiosEstratégicos,2024),
+es/documents/2073105/2278118/la_inteligencia_arti-
+ficial_y_la_guerra_de_ucrania_2024_dieeea81_eng.pdf
+(lastaccessed5September2025).
+Stańczyk,Konrad,“IntegratedMulti-levelInformation
+SystemoftheMinistryofNationalDefenceasanITSys-
+temsupportingthemanagementofmilitaryresources,”
+Journal of Modern Science,53:4(2023),pp.734-751,
+
+September2025).
+Suciu,Peter,“TheF-35LightningIINewestUpgrade
+IsAlmostComplete,”TheNationalInterest,18June
+2025,
+lightning-ii-newest-upgrade-is-almost-complete(last
+accessed5September2025).
+Sylvia,Noah,EuropeanDigitalDefencePriorities
+inanUncertainWorld(London:RoyalUnitedServices
+InstituteforDefenceandSecurityStudies,2025),
+
+ties-march-2025.pdf(lastaccessed5September2025).
+WicepremierW.Kosiniak–Kamysz:niemadziś
+ważniejszejsprawyniżbezpieczeństwoPolaków”
+[DeputyPrimeMinisterW.Kosiniak-Kamysz:Thereisno
+moreimportantissuetodaythanthesecurityofPoles],
+MinisterstwoObronyNarodowej,29February2024,
+
+w-kosiniak--kamysz-nie-ma-dzis-wazniejszej-sprawy-niz-
+bezpieczenstwo-polakow(lastaccessed5September
+2025).
+WWW.DEFENSEAI.EU 65
+
+66 GUARDING THE ALLIANCE’S EASTERN FRONTIERS
+
+Defense AI Observatory Studies
+25|28 Umaima Ali, An Underdeveloped Strategic Necessity. Defence AI in Pakistan
+25|27 Heiko Borchert, Christian Brandlhuber, and Jeronimo Dzaack, Thinking Before Sinking.
+Red and Blue AI Tactics for Naval Combat
+24|26 Heiko Borchert and Christian Brandlhuber, His Hands Can’t Hit What His Eyes Can’t See.
+Emergent AI Tactics for Successful Operations in the Air Littoral
+24|25 Mahmoud Javadi, Heavy Thunder, No Rain: Defense AI in Iran
+24|24 Kitsch Liao, Intelligent National Defense Amid Strategic Ambiguity? Defense AI in Taiwan
+24|23 Motohiro Tsuchiya, Overcoming the Long Shadow of the Past. Defense AI in Japan
+24|22 Vitaliy Goncharuk, Survival of the Smartest? Defense AI in Ukraine
+24|21 Youngwook Park, Wil the One Ring Hold? Defense AI in South Korea
+23|20 Tomas Jermalivičius, Caught Between Today and Tomorrow. Defence AI in Estonia
+23|19 Nikolaos Karampekios, Konstantinos Sakalis, and Iraklis Oikonomou, Harnessing the Potential.
+Defense AI in Greece
+23|18 Andreas Graae, Servers Before Tanks? Defence AI in Denmark
+23|17 Kévin Martin and Lucie Liversain, A Winding Road Before Scaling-Up? Defense AI in France
+23|16 Sami O. Järvinen, Cautious Data-Driven Evolution. Defence AI in Finland
+23|15 Inbar Dolinko and Liran Antebi, Embracing the Organized Mess. Defense AI in Israel
+23|14 Alastair Finlan, A Fertile Soil for AI? Defense AI in Sweden
+23|13 John Lee, “Overtaking on the Curve?” Defense AI in China
+23|12 Heiko Borchert, Torben Schütz, and Joseph Verbovszky, Master and Servant. Defense AI in
+Germany
+23|11 Katarzyna Zysk, High Hopes Amid Hard Realities. Defense AI in Russia
+23|10 Yvonne Hofstetter and Joseph Verbovzsky, How AI Learns the Bundeswehr’s
+“Innere Führung.” Value-Based Engineering with IEEE7000™-2021
+23|09 Robert C Engen, When the Teeth Eat the Tail: A Review of Canada’s Defence Artificial
+Intelligence
+23|08 Çağlar Kurç, Enabling Technology of Future Warfare. Defense AI in Turkey
+23|07 Lauren A. Kahn, Risky Incrementalism. Defense AI in the United States
+22|06 Yvonne Hofstetter, Wie KI Innere Führung lernt. Wertbasierte Technik mit IEEE7000™-2021
+22|05 Andrea Gilli, Mauro Gilli, and Ivan Zaccagnini, Exploring the Benefits of a New Force Enabler:
+Defense AI in Italy
+22|04 Kenneth Payne, Bright Prospects – Big Challenges. Defense AI in the United Kingdom
+22|03 Heiko Borchert, Christian Brandlhuber, Armin Brandstetter, and Gary S. Schaal, Free Jazz on the
+Battlefield. How GhostPlay’s AI Approach Enhances Air Defense
+22|02 Peter Layton, Evolution not Revolution. Australia’s Defence AI Pathway
+21|01 Heiko Borchert, Torben Schütz, Joseph Verbovszky, Beware the Hype. What Military Conflicts in
+Ukraine, Syria, Libya, and Nagorno-Karabakh (Don’t) Tell Us About the Future of War

@@ -1,0 +1,107 @@
+The road to the AI Impact Summit: How to build AI infrastructure from the ground up
+
+The central question for AI in 2026 is not whether governments have an artificial intelligence (AI) strategy—it’s whether they can operationalize it and quickly deliver the benefits to their citizens. Governments are increasingly treating AI as an essential capability for economic competitiveness, public service delivery, and political legitimacy. The United States and China may frame the global narrative most loudly, but other countries are feeling the same pressure in a more practical way. They are increasingly confronted with the difficulties of building AI-enabled infrastructure from the ground up, including the dependencies that come with it.
+
+What does it take to build a comprehensive AI infrastructure and policy environment for widespread adoption? Last month, the Atlantic Council GeoTech Center, the Internal Telecommunication Union, and Access Partnership convened a roundtable titled “Laying the Digital Foundations” to address this question. For many countries, the answer carries significant geopolitical weight. It can narrow gaps between the Global North and Global South when it comes to the ability to adopt and benefit from AI technologies. It can also create space for transatlantic cooperation on ensuring the AI models of the future are embedded with human-centered values.
+
+The discussion touched on several main areas: energy supply, data centers, cultural-specific models, network equipment, data authentication regimes, and other innovative technologies that could shape infrastructure choices over the next several years. The consensus was that AI readiness does not mean building an “AI Stack” that can be easily copied and pasted from country to country, because the enabling conditions for AI readiness in each country often vary significantly. Instead, it will require a set of interoperable choices that must be adapted to local conditions. Below are more takeaways from last month’s roundtable, which should be top of mind for policymakers as they convene for the AI Impact Summit in New Delhi, India, from February 16 to 20.
+
+Electricity is becoming a binding constraint
+
+The growing demand for data centers arising from AI is creating immediate pressure on electricity grids. Demand for data centers globally could triple by 2030. This means that even if governments can’t add power capacity, they will struggle to keep pace with demand even if they have strong policy ambitions. Finding ways to decentralize the power supply from the grid without destabilizing local systems may be a critical pathway to supporting and connecting a larger number of data centers.
+
+At the roundtable, there was cautious optimism that AI can support parts of the energy transition over time, including by improving system efficiency and accelerating pathways for renewable energy sources such as nuclear fusion and geothermal energy. Yet, these pathways have little to no impact on near-term delivery dependence, and novel and efficient approaches are needed to reduce the current bottlenecks.
+
+Infrastructure patterns are diversifying beyond data centers
+
+Building data centers may not be the only answer, as such facilities cannot realistically be built everywhere. Distributed AI infrastructure that can overcome data latency or disconnection may be within reach. Edge devices, such as smartphones, tablets, smart cars, and smart glasses, have been seen as emerging tools to complement data centers by distributing workloads away from centralized data infrastructure. These devices can reduce latency for data transmission and optimize output. Edge devices don’t just distribute data; they also create new data and analyze it in real time. Such “inference on the cloud”—running a trained machine learning model on the cloud to generate data close to or at the source—is on the rise with the proliferation of generative AI on smart devices. China has been developing a competitive market for edge devices; enterprises are also bringing data to on-premises facilities rather than relying on centralized data centers. This is a good reminder that capability is not defined by one layer alone. A comprehensive strategy for transatlantic and Global South tech diplomacy must consider multiple options, including data centers, edge devices, and on-premises services to shape the global AI ecosystem.
+
+Connectivity still determines who benefits
+
+Beyond data center considerations, connectivity for populations in lower- and middle-income countries remains a critical determinant of access. Online access is still a prerequisite for using AI. Investing in the right kind of networks beyond data centers or edge devices matters. A key issue is modernizing network equipment, as outdated equipment not only hinders users from being digitally connected effectively but also creates security risks. Governments must identify, segment, or replace that equipment for it to remain secure. Network access and security are also increasingly confronted with another issue: the rise of AI agents. The market for agentic AI is expected to reach $103.28 billion by 2034. Some participants stressed that governments would need to adapt to the new challenges from agentic AI with its always-on capabilities, which allow it to constantly make automatic decisions for systems and users.
+
+Data governance, sovereignty, and the cooperation problem
+
+The discussion surfaced a set of geopolitical tensions underlying infrastructure decisions. There was concern at the roundtable about global data governance being shaped by the European Union. The bloc’s regulatory environment for data, as well as its ambition for AI sovereignty, could complicate transatlantic cooperation. At the same time, fragmentation of data sharing remains a barrier to building and improving systems across border—a clear area of need for mutual cooperation. Respecting user rights continues to be a critical part of discussions of transatlantic AI governance. Meanwhile, middle powers, such as India, are caught in the middle of these pressures. That is because India faces the question from partners of whether to adopt US or Chinese AI models, even as its domestic priorities focus on services for the most economically vulnerable communities, language inclusion, and data ownership.
+
+Six pathways to lay the digital foundations for AI
+
+Participants at the roundtable proposed six practical pathways that policymakers can treat as general rules for 2026.
+
+Treat financing as infrastructure policy. Governments and the private sector should restructure financing approaches that support data center construction and related capacity. This should include making permitting more predictable and providing clearer incentives for construction where appropriate.
+
+Reduce grid pressure through practical energy planning. As data center demand grows, decentralizing parts of the power supply, where feasible, can help reduce the energy burden on the grids and speed connections for new loads.
+
+Plan for multiple deployment models. Beyond centralized data centers, policymakers should also invest in edge devices and on-premises services to widen adoption pathways and reduce latency.
+
+Modernize networks as a core AI requirement. Closing connectivity gaps and upgrading network equipment is essential for performance and security, especially as automated and persistent systems increase baseline network demand.
+
+Build content governance alongside infrastructure. Governments should enact policies to ensure that AI models reflect local cultural context and language, support standards for the verification of AI-generated content, and strengthen media literacy to protect information integrity.
+
+Cooperate on cross-border data rules that protect rights and reduce fragmentation. Governments should develop practical approaches for cross-border data sharing that preserve user rights and accountability while enabling legitimate access for system improvements and public interest use cases.
+
+What to watch in the year ahead
+
+In the year ahead, expect to see AI infrastructure gain momentum as more countries move beyond the simplistic debate around innovation versus regulation and adopt more pragmatic approaches to AI competitiveness. Several global fora this year, such as the AI Impact Summit, the Group of Seven (G7), Group of Twenty (G20), and the United Nations General Assembly, will also dedicate time to understanding what it will take to build more AI infrastructure. It is important to keep in mind that there is still no consensus on what a “complete AI stack” includes, and that is partly because it spans both physical and digital layers. Policymakers would do well to opt for flexibility, whether it is policy frameworks, physical and digital requirements, or end users, rather than adopting a one-size-fits-all approach. However, following the steps above can allow nations to strengthen their AI infrastructure muscles, allowing them to become not just AI-ready, but AI-competent—able to deliver systems that work, earn trust, and can endure real-world conditions.
+
+Ryan Pan is a program assistant at the Atlantic Council GeoTech Center.
+
+Coley Felt is an assistant director at the Atlantic Council GeoTech Center.
+
+Raul Brens Jr. is the director of the Atlantic Council GeoTech Center.
+
+The GeoTech Center champions positive paths forward that societies can pursue to ensure new technologies and data empower people, prosperity, and peace.
+
+The AI Impact Summit must focus on pathways, not pilots, to scale up AI adoption
+
+GeoTech Cues By Trisha Ray, Keyzom Ngodup Massally, and Shalini Kapoor
+
+The AI Impact Summit should bring together tech companies, government agencies, researchers, civil society, and funders to focus efforts on scaling up AI adoption.
+
+Sovereign remedies: Between AI autonomy and control
+
+Sovereign AI has gained a foothold in several capitals around the world.
+
+G7 leaders have the opportunity to strengthen digital resilience. Here’s how they can seize it.
+
+GeoTech Cues By Sara Ann Brackett, Coley Felt, Raul Brens Jr.
+
+At the upcoming Group of Seven Leaders’ Summit in Canada, member state leaders should advance a coherent, shared framework for digital resilience policy.
+
+Image: Servers line a data center hallway, March 23, 2025. (Planet Volumes/Unsplash)
+
+The central question for AI in 2026 is not whether governments have an artificial intelligence (AI) strategy—it’s whether they can operationalize it and quickly deliver the benefits to their citizens. Governments are increasingly treating AI as an essential capability for economic competitiveness, public service delivery, and political legitimacy. The United States and China may frame the global narrative most loudly, but other countries are feeling the same pressure in a more practical way. They are increasingly confronted with the difficulties of building AI-enabled infrastructure from the ground up, including the dependencies that come with it.
+What does it take to build a comprehensive AI infrastructure and policy environment for widespread adoption? Last month, the Atlantic Council GeoTech Center, the Internal Telecommunication Union, and Access Partnership convened a roundtable titled “Laying the Digital Foundations” to address this question. For many countries, the answer carries significant geopolitical weight. It can narrow gaps between the Global North and Global South when it comes to the ability to adopt and benefit from AI technologies. It can also create space for transatlantic cooperation on ensuring the AI models of the future are embedded with human-centered values.
+The discussion touched on several main areas: energy supply, data centers, cultural-specific models, network equipment, data authentication regimes, and other innovative technologies that could shape infrastructure choices over the next several years. The consensus was that AI readiness does not mean building an “AI Stack” that can be easily copied and pasted from country to country, because the enabling conditions for AI readiness in each country often vary significantly. Instead, it will require a set of interoperable choices that must be adapted to local conditions. Below are more takeaways from last month’s roundtable, which should be top of mind for policymakers as they convene for the AI Impact Summit in New Delhi, India, from February 16 to 20.
+Electricity is becoming a binding constraint
+The growing demand for data centers arising from AI is creating immediate pressure on electricity grids. Demand for data centers globally could triple by 2030. This means that even if governments can’t add power capacity, they will struggle to keep pace with demand even if they have strong policy ambitions. Finding ways to decentralize the power supply from the grid without destabilizing local systems may be a critical pathway to supporting and connecting a larger number of data centers.
+At the roundtable, there was cautious optimism that AI can support parts of the energy transition over time, including by improving system efficiency and accelerating pathways for renewable energy sources such as nuclear fusion and geothermal energy. Yet, these pathways have little to no impact on near-term delivery dependence, and novel and efficient approaches are needed to reduce the current bottlenecks.
+Infrastructure patterns are diversifying beyond data centers
+Building data centers may not be the only answer, as such facilities cannot realistically be built everywhere. Distributed AI infrastructure that can overcome data latency or disconnection may be within reach. Edge devices, such as smartphones, tablets, smart cars, and smart glasses, have been seen as emerging tools to complement data centers by distributing workloads away from centralized data infrastructure. These devices can reduce latency for data transmission and optimize output. Edge devices don’t just distribute data; they also create new data and analyze it in real time. Such “inference on the cloud”—running a trained machine learning model on the cloud to generate data close to or at the source—is on the rise with the proliferation of generative AI on smart devices. China has been developing a competitive market for edge devices; enterprises are also bringing data to on-premises facilities rather than relying on centralized data centers. This is a good reminder that capability is not defined by one layer alone. A comprehensive strategy for transatlantic and Global South tech diplomacy must consider multiple options, including data centers, edge devices, and on-premises services to shape the global AI ecosystem.
+Connectivity still determines who benefits
+Beyond data center considerations, connectivity for populations in lower- and middle-income countries remains a critical determinant of access. Online access is still a prerequisite for using AI. Investing in the right kind of networks beyond data centers or edge devices matters. A key issue is modernizing network equipment, as outdated equipment not only hinders users from being digitally connected effectively but also creates security risks. Governments must identify, segment, or replace that equipment for it to remain secure. Network access and security are also increasingly confronted with another issue: the rise of AI agents. The market for agentic AI is expected to reach $103.28 billion by 2034. Some participants stressed that governments would need to adapt to the new challenges from agentic AI with its always-on capabilities, which allow it to constantly make automatic decisions for systems and users.
+Data governance, sovereignty, and the cooperation problem
+The discussion surfaced a set of geopolitical tensions underlying infrastructure decisions. There was concern at the roundtable about global data governance being shaped by the European Union. The bloc’s regulatory environment for data, as well as its ambition for AI sovereignty, could complicate transatlantic cooperation. At the same time, fragmentation of data sharing remains a barrier to building and improving systems across border—a clear area of need for mutual cooperation. Respecting user rights continues to be a critical part of discussions of transatlantic AI governance. Meanwhile, middle powers, such as India, are caught in the middle of these pressures. That is because India faces the question from partners of whether to adopt US or Chinese AI models, even as its domestic priorities focus on services for the most economically vulnerable communities, language inclusion, and data ownership.
+Six pathways to lay the digital foundations for AI
+Participants at the roundtable proposed six practical pathways that policymakers can treat as general rules for 2026.
+Treat financing as infrastructure policy. Governments and the private sector should restructure financing approaches that support data center construction and related capacity. This should include making permitting more predictable and providing clearer incentives for construction where appropriate.
+Reduce grid pressure through practical energy planning. As data center demand grows, decentralizing parts of the power supply, where feasible, can help reduce the energy burden on the grids and speed connections for new loads.
+Plan for multiple deployment models. Beyond centralized data centers, policymakers should also invest in edge devices and on-premises services to widen adoption pathways and reduce latency.
+Modernize networks as a core AI requirement. Closing connectivity gaps and upgrading network equipment is essential for performance and security, especially as automated and persistent systems increase baseline network demand.
+Build content governance alongside infrastructure. Governments should enact policies to ensure that AI models reflect local cultural context and language, support standards for the verification of AI-generated content, and strengthen media literacy to protect information integrity.
+Cooperate on cross-border data rules that protect rights and reduce fragmentation. Governments should develop practical approaches for cross-border data sharing that preserve user rights and accountability while enabling legitimate access for system improvements and public interest use cases.
+What to watch in the year ahead
+In the year ahead, expect to see AI infrastructure gain momentum as more countries move beyond the simplistic debate around innovation versus regulation and adopt more pragmatic approaches to AI competitiveness. Several global fora this year, such as the AI Impact Summit, the Group of Seven (G7), Group of Twenty (G20), and the United Nations General Assembly, will also dedicate time to understanding what it will take to build more AI infrastructure. It is important to keep in mind that there is still no consensus on what a “complete AI stack” includes, and that is partly because it spans both physical and digital layers. Policymakers would do well to opt for flexibility, whether it is policy frameworks, physical and digital requirements, or end users, rather than adopting a one-size-fits-all approach. However, following the steps above can allow nations to strengthen their AI infrastructure muscles, allowing them to become not just AI-ready, but AI-competent—able to deliver systems that work, earn trust, and can endure real-world conditions.
+Ryan Pan is a program assistant at the Atlantic Council GeoTech Center.
+Coley Felt is an assistant director at the Atlantic Council GeoTech Center.
+Raul Brens Jr. is the director of the Atlantic Council GeoTech Center.
+The GeoTech Center champions positive paths forward that societies can pursue to ensure new technologies and data empower people, prosperity, and peace.
+The AI Impact Summit must focus on pathways, not pilots, to scale up AI adoption
+GeoTech Cues By Trisha Ray, Keyzom Ngodup Massally, and Shalini Kapoor
+The AI Impact Summit should bring together tech companies, government agencies, researchers, civil society, and funders to focus efforts on scaling up AI adoption.
+Sovereign remedies: Between AI autonomy and control
+Sovereign AI has gained a foothold in several capitals around the world.
+G7 leaders have the opportunity to strengthen digital resilience. Here’s how they can seize it.
+GeoTech Cues By Sara Ann Brackett, Coley Felt, Raul Brens Jr.
+At the upcoming Group of Seven Leaders’ Summit in Canada, member state leaders should advance a coherent, shared framework for digital resilience policy.
+Image: Servers line a data center hallway, March 23, 2025. (Planet Volumes/Unsplash)

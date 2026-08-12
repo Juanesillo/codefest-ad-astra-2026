@@ -1,0 +1,1510 @@
+Harnessing the
+Potential
+Defense AI in Greece
+Ein Projekt im Rahmen von
+Nikolaos Karampekios, Konstantinos Sakalis, and Iraklis Oikonomou
+DAIO Study 23|19
+
+About the Defense AI Observatory
+The Defense AI Observatory (DAIO) at the Helmut Schmidt University in Hamburg
+monitors and analyzes the use of artificial intelligence by armed forces. DAIO comprises
+three interrelated work streams:
+Culture, concept development, and organizational transformation in the context of
+military innovation
+Current and future conflict pictures, conflict dynamics, and operational experience,
+especially related to the use of emerging technologies
+Defense industrial dynamics with a particular focus on the impact of emerging
+technologies on the nature and character of techno-industrial ecosystems
+DAIO is an integral element of GhostPlay, a capability and technology development
+project for concept-driven and AI-enhanced defense decision-making in support of fast-
+paced defense operations. GhostPlay is funded by the Center for Digital and Technology
+Research of the German Bundeswehr (dtec.bw). dtec.bw is funded by the European Union
+– NextGenerationEU.
+Imprint
+Nikolaos Karampekios, Konstantinos Sakalis, and Iraklis Oikonomou, Harnessing the Poten-
+tial. Defense AI in Greece. DAIO Study 23/19 (Hamburg: Defense AI Observatory, 2023).
+Defense AI Observatory | Chair of Political Theory | Helmut Schmidt University
+Holstenhofweg 85 | 22043 Hamburg | T +49 40 6541 2776
+ | contact@defenseai.eu | @Defense_AIO
+ISSN (online): 2749-5337
+ISSN (print): 2749-5345
+Ein Projekt im Rahmen von
+
+Harnessing the
+Potential
+Defense AI in Greece
+Nikolaos Karampekios, Konstantinos Sakalis, and
+Ein Projekt im Rahmen von
+Iraklis Oikonomou
+DAIO Study 23|19
+
+About the Authors
+Nikolaos Karampekios, PhD in technology policy, NTUA – UoA, is the Head of the Innova-
+tion and Networking Unit of the Research, Development, Innovation Services and Metrics
+Department at the National Documentation Centre (EKT). His work has appeared, among
+others, in Science and Public Policy, Journal of Scientometrics, Quantitative Science Studies,
+International Journal of Manpower, SN Social Sciences, International Migration, Population,
+Space and Place; Defence and Peace Economics; Collection and Curation; Journal of Knowl-
+edge Economy; Science and Diplomacy; Science Diplomacy Review. On defense, Nikos has
+explored (among others) the knowledge capital of the Greek defense industrial base (Defence
+and Peace Economics), the rise of the European defence R&D funding (The Emergence of EU
+Defense Research Policy. From Innovation to Militarization, Springer Press) and the institution-
+alization of EDA (The European Defence Agency. Arming Europe, Routledge Press). Nikolaos
+participates in a number of OECD, JRC and EU working groups. ORCID account: orcid.
+org/0000-0002-4906-9557. He can be reached at: nkarampekios@ekt.gr
+Konstantinos Sakalis is a PhD Candidate at the Department of History and Philosophy of
+Science, National and Kapodistrian University of Athens. Currently, he works on his thesis
+on the “History of artificial intelligence in Greece” following undergraduate studies in
+electronics and telecommunications engineering (BSc, Hellenic Air Force Academy, 2005)
+and economics (BA, Aristotle University of Thessaloniki, 2010), and graduate studies in
+information systems (MSc, Hellenic Open University, 2015) and philosophy (MA, Aristotle
+University of Thessaloniki, 2016). Konstantinos has been assigned to various posts at the
+Hellenic Air Force General Staff, having served as an aide-de-camp and technology advisor
+to three different Alternate Ministers of the National Defense.
+Iraklis Oikonomou is an independent researcher based in Athens, Greece. He holds a
+PhD in International Politics from the University of Wales Aberystwyth and has conduct-
+ed post-doctoral research at Ghent University and the University of Sussex. His research
+interests include EU armaments and space policies, and the militarization of European
+integration. He has co-edited the following volumes: (with T. Hoerber, 2023, Routledge)
+The Militarization of European Space Policy; (with N. Karampekios & E. G. Karayannis, 2018,
+Springer), The Emergence of EU Defense Research Policy: From Innovation to Militarisation;
+(with N. Karampekios, 2015, Routledge), The European Defence Agency: Arming Europe,
+Routledge; (with H. Golemis, 2012, Nissos), Poulantzas Today. He has published articles,
+among others, in Space Policy, Studia Diplomatica, Rethinking Marxism, and Monthly
+Review, and book reviews of his have appeared in European Security and Intelligence and
+National Security. Also, he has co-edited three special issues of the Greek journal Utopia
+and has contributed one dozen chapters in edited volumes.
+Acknowledgments
+The authors would like to thank Heiko Borchert, Torben Schütz, Joseph Verbovsky and the
+participants at the 2023 DAIO International Defense AI Conference for valuable comments and
+suggestions. Thanks also extended to Dimitris Nodaros for insights on the domestic industrial
+ecosystem. The authors are solely responsible for any errors in fact, analysis or omission.
+4 HARNESSING THE POTENTIAL
+
+Content
+1 Summary ..................................................................................................................... 6
+2 Thinking About Defense AI ....................................................................................... 7
+3 Developing Defense AI. ........................................................................................... 12
+3.1 Defense AI Ecosystem ...............................................................................................13
+3.2 Important Defense AI Projects in Development ..........................................................17
+4 Organizing Defense AI ............................................................................................. 23
+5 Funding Defense AI ................................................................................................. 27
+6 Fielding and O perating Defense AI ............................................................................................................. 30
+6.1 Situational Awareness and Situational Understanding .................................................31
+6.2 Augmenting Existing Capabilities ..............................................................................31
+6.3 Border Security ..........................................................................................................32
+7 Training for Defense AI ............................................................................................ 35
+7.1 Simulation-Based Training..........................................................................................36
+7.2 Military Education......................................................................................................37
+7.3 Conferences ..............................................................................................................39
+7.4 Entrepreneurial-minded training activities ..................................................................39
+8 Conclusion. ................................................................................................................ 40
+Literature ...................................................................................................................... 43
+WWW.DEFENSEAI.EU 5
+
+1 Summary
+Greek defense policy officials have recognized Artificial Intelligence (AI) as a po-
+tential force enabler/disabler on the modern battlefield. Considering the country’s
+geostrategic risk landscape and in view of harnessing technological opportunities,
+the Greek defense ecosystem – i.e., the armed forces and the defense industry
+– has launched three main lines of effort to prepare for and adopt defense AI:
+research and development (R&D) collaboration, procuring defense AI from key
+partners, and providing a holistic approach to training and education.
+First, Greece makes maximum use of actively participating in European defense
+research, development, and innovation (RDI) projects and launching national R&D
+initiatives to enable the domestic ecosystem to get access to cutting-edge knowl-
+edge and technologies and/or tests them under real operational conditions.
+Second, procuring top-notch defense material (including land, air and naval
+assets) that exploits AI techniques and processes will enable the armed forces to
+understand its operational capabilities, significantly expediting the learning curves
+of both military officers and engineers as well as closing capability gaps that
+emerged from the country’s systematic underinvestment during the 2009–2018
+economic crisis. In addition, the defense industry will benefit as well. As subcon-
+tractors to international procurement projects or as main contractors to various
+export cases, exploiting AI will increase their production capacity and upgrade
+their list of products.
+Finally, Greek is stepping up efforts to advance the education of its military
+personnel. Both within the confines of standard military education or subsequent
+civilian post-graduate degrees, a growing AI-related educational, research and
+entrepreneurial ecosystem to which they can link to and get hands-on experience
+is becoming visible, thus creating beneficial feedback loops.
+In line with the platonic “necessity being the mother of invention,” the Greek de-
+fense establishment has been a quick adopter of AI and its defense promises, for
+several reasons, both negative and positive. Long-standing bilateral problems with
+neighboring countries, the potential to apply defense-related AI into the civilian
+realm and vice versa, as well as an innate understanding of the need to ride the
+current scientific and technological wave are some of them.
+6 HARNESSING THE POTENTIAL
+
+2 Thinking
+About
+Defense AI
+WWW.DEFENSEAI.EU 7
+
+AI is defined as the next general-purpose technology that will shape the tech-
+nological and economic evolution of the 21st century, affecting a wide range of
+industries and societies at large. Increasingly seen as an enabling condition, AI
+boosts and heightens the performance of other cutting-edge technologies, such
+as robotics, in addition to ‘educating’ decision support systems linked to applica-
+tions, such as autonomous vehicles, by way of crunching ever increasing amounts
+of classifiable data. This reality has been well recognized at the top political level
+in Greece1 and initial exercises mapping the domestic AI-related capabilities have
+been initiated.2
+Defense is a field that could not remain immune to the potential benefits of AI.
+This has not evaded Greek policy makers, both civilian and defense alike. Addi-
+tionally, AI has been recognized as one of the main strategic axes of the Digital
+Transformation Bible, the flagship policy report that drives the digital transfor-
+mation in Greece developed by the Ministry of Digital Governance.3 As for the
+definition of AI, the document refers to it as “a collection of technologies that, by
+combining data, algorithms and increased computing power, is able to learn and
+make decisions that until recently were made solely by humans, with the aim of
+achieving defined goals.”4
+At the time of writing this study, the Ministry of Digital Governance is preparing a
+National Strategy on AI (NSonAI) scheduled to be published by the end of 2023.5
+While the NSonAI has not been made public yet it is believed that it touches
+upon the relevant security and military challenges and offers strategic outlines for
+developing a robust defense AI strategy. The NSonAI is expected to
+set a framework for a holistic policy on the future development and application
+of AI in Greece, which will be structured in a set of coordinated and interrelat-
+ed actions. It will set out the conditions for the development of AI, including
+the skills and trust framework, data policy and ethical principles for its safe
+development and use. It will outline national priorities and areas for maximis-
+ing the benefits of AI to address societal challenges and economic growth.6
+Additionally, a high-profile team of experts was created at end of ,
+under the auspices of the Prime Minister’s office. It has been tasked with offering
+1 Mitsotakis,“ΗΕλλάδατο2040,μιαχώραστηνπρώτηγραμμήτηςΕυρώπης,”p.4.
+2 Sahinietal.,ΕντοπισμόςκαιανάλυσητωνελληνικώνεπιστημονικώνδημοσιεύσεωνστοντομέατηςΤεχνητήςΝοημοσύνηςμε
+τεχνικέςΜηχανικήςΜάθησης.
+3 MinistryofDigitalGovernance,“DigitalTransformationBible2020–2025.”AccordingtoOECD’sAIObservatory,AIhasbeen
+includedasoneofthemain“strategicinterventionaxes”intheDigitalTransformationBible,thepublishedreferencedocument
+thatdrivesthedigitaltransformationofthecountry.Availableat:
+2Faipo.oecd.org%2F2021-data-policyInitiatives-26788(lastaccessed9October2023).
+4 MinistryofDigitalGovernance,“DigitalTransformationBible2020–2025,”p.158.
+5 VanRoyetal.,AIWatch-NationalstrategiesonArtificialIntelligence:AEuropeanperspective,pp.70–71.
+6 MinistryofDigitalGovernance,“DigitalTransformationBible2020–2025,”pp.159–160.
+8 HARNESSING THE POTENTIAL
+
+propositions on how Greece should best position itself in relation to AI, exploring
+avenues for the latter to be incorporated into multiple policy domains, including
+defence. While announcing the establishment of the advisory team, PM Mitsotakis
+referred explicitly to “artificial intelligence and the armed forces” as “a great
+challenge for the transformation of the deterrent capacity of our country.”7
+Development and implementation of a Greek defense AI strategy must center
+on the key specificities and considerations, including external threats, as laid out
+by the Ministry of National Defense (MoD). Indeed, traditional security consider-
+ations loom large in the country’s decision to embrace AI. As AI is considered a
+game-changer and Greek’s competitors have already adopted and implemented
+defense AI strategies, Athens has embarked on a path to incorporate AI in de-
+fense as well. Although a comprehensive defense AI strategy has not yet been
+published, this view is reflected in two preceding MoD documents: the National
+defense Industrial Strategy8 and the Strategic Analysis of Developments after
+2030.9 Authored in the previous decade, both documents seek to position the
+domestic defense industrial base and the force structure (respectively) in relation
+to cutting edge technologies that can influence defense affairs. As of , both are being updated.
+While such systemic documents are being re-authored, they indicate an oper-
+ational reality that domestic defense policy makers have been quick to grasp
+and appreciate. In numerous high-profile meetings, AI has been pointed out
+by high-ranking officials as a key technological objective,10 an objective that
+Greek Armed Forces should be increasingly aligning with in order to address the
+challenges emanating from its geostrategic environment. Therefore, Greece is
+preparing to incorporate AI into 21st century defense scenarios and projections,
+attribute robotics and other unmanned vehicles a larger role in warfare and paving
+the foundation to accomplish military objectives in multi-domain operations. Or, as
+former Deputy Defense Minister Nikos Hardalias, pointed out:
+The importance of new technologies, and in particular Emerging and Disrup-
+tive Technologies, is crucial, and we need to exploit them at all levels. These
+technologies, such as quantum technologies, AI, robotics and autonomous
+weapon systems can have a catalytic effect on the battlefield as we know it…
+We see how important weapons systems and technologies such as drones,
+satellite internet and cyber weapons have become today.11
+7 HellenicRepublic,“ΕνημερωτικόσημείωμαγιατησυνεδρίασητηςΣυμβουλευτικήςΕπιτροπήςγιατηνΤεχνητήΝοημοσύνη.”
+8 GeneralDirectorateforDefenseInvestmentandArmaments,“NationalDefenceIndustrialStrategy.”
+9 HellenicNationalDefenceGeneralStaff,“ΣτρατηγικήΑνάλυσηΕξελίξεωνγιατηνΕλλάδαμετάτο2030,ΣΑΕ2030.”
+10 HellenicNationalDefenceGeneralStaff,“ΟμιλίατουΑρχηγούΓΕΕΘΑστοΠανεπιστήμιοΠειραιώςμεθέμα“Σύγχρονες
+ΑπειλέςκαιΠροκλήσειςΑσφάλειας””;MinistryofDefence,“ΣυμμετοχήΥΕΘΑκ.ΝίκουΠαναγιωτόπουλουστηνΆτυπηΣύνοδο
+ΥπουργώνΆμυναςτηςΕ.Ε.;“ΣυμμετοχήΥΕΘΑΝικόλαουΠαναγιωτόπουλουστηΣύνοδοΥπουργώνΑμύνηςτουΝΑΤΟ.
+11 Hardalias,“ΟμιλίαΥΦΕΘΑΝικόλαουΧαρδαλιάστηνΗμερίδα“Τεχνολογία-Καινοτομία,Άμυνα&Στρατηγική.”
+WWW.DEFENSEAI.EU 9
+
+Significantly, this rationale has been taken up by the incoming Minister of National
+Defense Nikos Dendias, who has already signalled his acute understanding of the
+need for Greek armed forces to continue strengthening their digital and tech-
+savvy footprint in relation to AI and cybersecurity. Indeed, enhancing the produc-
+tion capabilities of the domestic industrial sector and a much more holistic and
+institutionally rounded approach on innovation has been indicated. As of Novem-
+ber 2023, a dedicated legislation is in the making.
+Another prominent individual whose strategic thinking can be seen as reflecting
+the broader understanding of the Greek techno-military establishment is Panagi-
+otis Kikiras, Head of Unit, Innovative Research, at the European Defence Agency.
+In the absence of a formal strategic document, it is worth quoting his thinking in
+detail
+AI has the potential to be a game changer for the defence sector (…). Today,
+changes at the technological, operational and economic levels are leading
+to the emergence of all those technologies that can optimise functionality
+and minimise technological and economic risk. The application of AI shares
+the above characteristics, reducing the risk of loss of human lives on the
+battlefields, offering better efficiency than human soldiers, and the cost of its
+introduction is 10 times less than the corresponding cost of training soldiers.
+Moreover, today AI technologies are more mature and driven by investments
+in non-military sectors. This trend, and because of the rapid maturation rates
+of products in consumer markets, has led to the exponential growth of AI tech-
+nologies, which has allowed its immediate introduction into defence without
+the slow and short maturation time of typical military products.12
+As addressed in the following chapters, Greek defense planning has been sys-
+tematically incorporating AI in its daily business in the form of developing and
+participating in AI-related research, development, and innovation (RDI) projects
+to get access to cutting-edge knowledge and/or testing this new technology
+under real operational conditions. Importantly, policy makers have realized that
+such cutting-edge technologies are being developed by both the defense and
+civilian ecosystem, thus trying to “spin-in” commercial solutions into their wider
+military planning by way of instigating synergies within the domestic civilian R&D
+ecosystem.13
+Also, the Greek Armed Forces seek to acquire operational application(s) of AI by
+way of procuring top-notch defense material from global industry players. A third
+channel, and perhaps more important since it points to sustainability, is through
+12 Kikiras,InterviewtoGiannisMouratidis.
+13 Hardalias,“ΟμιλίαΥΦΕΘΑΝικόλαουΧαρδαλιάστηνημερίδα“ΣυνδέονταςτηνΈρευναμετηνΑμυντικήΒιομηχανία”.”
+10 HARNESSING THE POTENTIAL
+
+educating personnel. Seeking to expand knowledge boundaries, personnel of
+the armed forces are presented with a pluralism of study options in relation to AI.
+Either within the confines of standard military education or subsequent civilian
+post-graduate degrees military personnel are faced with a growing AI-related
+educational, research and entrepreneurial ecosystem to which they can link to and
+get hands-on experience, thus, obtaining relevant skills and dexterities.
+In advancing national defense AI capabilities, Greek takes a slightly different path
+on one important aspect: ethics. Although ethical considerations on the wider
+use of AI have been pointed out in Greek society, on its military applications a
+much more pragmatic approach has been the norm. Overcoming a decade of
+near-zero new entries of defense equipment and the continuous strategic rivalry
+with Turkey are the key considerations for policy makers. These have sidelined any
+societal debate about ethical questions surrounding defense AI. Nevertheless,
+MoD should keep track of the international debate on the ethics of defense AI and
+in-house reflections on the ethical challenges of AI during warfare.
+WWW.DEFENSEAI.EU 11
+
+3 Developing
+Defense AI
+12 HARNESSING THE POTENTIAL
+
+3.1 Defense AI Ecosystem
+While a defense AI strategy is still in the making, it should be noted that parallel
+digitalization-relevant steps are being institutionalized within MoD. Accordingly, a
+Data Protection Officer has been named by the Army, signaling a more up-to-date
+approach in relation to data protection. However, there is no defense data strate-
+gy in place by the MoD.
+Greek’s defense AI ecosystem consists of two broad groups. First is the public
+administration mainly comprising the national armed forces and the homeland
+security (roughly falling under the auspices of the Ministry of Citizen Protection)
+apparatus, not the least because many foreign threats are inextricably linked with
+civilian security considerations. The second group consists of private and publicly
+owned firms engaged in providing the “tools” for defense. All in all, the common-
+ly accepted understanding is that the country
+consistently supports cooperation with the private sector and the academic
+community to promote innovation and the exploitation of Emerging and Dis-
+ruptive Technologies to the maximum extent possible, in line with the opera-
+tional requirements and specifications of the armed forces14
+Obviously, this macro-analysis can be broken down. The armed forces are not just
+a “consumer” of AI products. With a highly educated profile and increased oper-
+ational experience and participation in NATO and EU agencies the armed forces
+actively shape the AI-related discussion in relation to needs and requirements.
+Moreover, as an end-user of cutting-edge RDI projects, officers get to test AI-en-
+hanced equipment and acquire first-hand experience during the development
+phase. As their exposure to AI increases, their proficiency in evaluating the pros
+and cons of this new technology will mature as well.
+Equally, defense firms constitute an important aspect of the defense AI ecosys-
+tem. Increasingly active in RDI activities and starting to capitalize on their export
+potential, Greek firms are engaged in the production of defense services and
+products of various technological levels and capabilities. With an industry structure
+having a few large companies that are export oriented and/or work as contractors
+for global defense firms, most are SMEs focused on the delivery of specific parts in
+the domestic defense value chain. Most established companies are active in both
+civilian and defense markets. This is not only a consequence of the growing focus
+on providing dual use technology. Furthermore, the decision to serve two different
+14 Hardalias,“ΟμιλίαΥΦΕΘΑΝικόλαουΧαρδαλιάστηνΗμερίδα“Τεχνολογία-Καινοτομία,Άμυνα&Στρατηγική.”
+WWW.DEFENSEAI.EU 13
+
+markets also originates from the fact that during the decade-long economic crisis,
+firms had to diversify in order to survive. Moreover, established companies operate
+parallel to start ups and spin offs offering innovative new products and solutions.
+Among others, the following defense companies have been active in the field of
+defense AI:
+Hellenic Instruments is a specialized defense electronics company15
+Planetek offers remote sensing solutions16
+Intracom Defense works on missile electronics, tactical communications, C4I
+systems, and unmanned systems17
+Space Hellas designs and supports integrated ICT and security solutions18
+Terra Spatium offers remote sensing and geoinformation solutions19
+Eight Bells is a research and consulting company focusing on AI, cybersecurity,
+optical networks, and sensors20
+FEAC Engineering provides virtual engineering services through computer
+aided engineering and simulation techniques21
+Lambda Automata develops advanced sensor-fusion capabilities to combine
+legacy and novel sensing solutions22
+Olympia Electronics offers electronic safety and security solutions23
+Prisma Electronics develops smart sensor wireless network technology24
+Spirit Aeronautical Systems develops unmanned systems technology25
+Satways develops integrated geospatial C2 solutions26
+In addition to these companies, the Greek defense AI ecosystem also includes
+several leading research institutes, different directorates of the Greek MoD and
+the armed forces as well as international partners as highlighted in Figure 1 and
+Table 1.
+15 Formoreinformation,see:
+16 Formoreinformation,see:
+17 Formoreinformation,see:
+18 Formoreinformation,see:
+19 Formoreinformation,see:
+20 Formoreinformation,see:
+21 Formoreinformation,see:
+22 Formoreinformation,see:
+23 Formoreinformation,see:
+24 Formoreinformation,see:
+25 Formoreinformation,see:
+26 Formoreinformation,see:
+14 HARNESSING THE POTENTIAL
+
+Figure 1: Conceptualizing the national defense AI ecosystem
+EUanddomesticRDI
+projects.Civilianacademic
+Overallgoverment
+andresearchactivities–
+priorities(eg.Digital
+domesticandinternational.
+Transformation,
+Entrepreneur-enhancing
+NationalSecurity).
+actions,valorizationof
+researchresults.
+Government Academic
+(Defenseand andresearch
+defense-related activities
+policy-making) (defense)
+Domestic
+defense
+industry
+Atriplehelix
+Europeandefense
+approach(inner
+industrialcollaboration.
+circles).
+(Sub)contractorsin
+Includingaselect
+hightechprocurement
+listofvariables
+opportunities.
+superimposingthe
+ecosystem(outer
+circles).
+Source:Authors
+WWW.DEFENSEAI.EU 15
+
+Table 1: Actors in the Greek defense AI ecosystem
+• NATO • Lockheed Martin (USA) • NATO’s Defence
+• EU Directorate-General • Dassault Aviation Innovation Accelerator
+for Defence Industry (France) for the North Atlantic
+and Space (DGDEFIS) • MBDA (France) (DIANA)
+• European Defense • Israel Aerospace • National Centre of
+Agency (EDA) Industries (IAI) Scientific Research
+“Demokritos”
+• Rafael Advanced De-
+• Elevate Greece
+fense Systems (Israel)
+• Hellenic Manufacturers
+of Defense Materiel
+Association (SEKPY)
+• GeneralDirectoratefor • HellenicAerospace • HellenicArmyAcademy
+DefenseInvestmentsand Industry(HAI) • NavalCadetsSchool
+Armaments(GDDIA) • HellenicInstruments • HellenicAirForce
+• DirectorateforDefense • Planetek Academy
+InvestmentsandTechno-
+• IntracomDefense • NationalTechnicalUniver-
+logicalResearch
+• SpaceHellas sityofAthens(NTUA)
+• DirectorateforDefense
+• TerraSpatium
+ProgramsandPrincipal
+Contracts • EightBells
+• GeneralDirectorate • LambdaAutomata
+ofNationalDefense • OlympiaElectronics
+PolicyandInternational
+• PrismaElectronics
+Relations(GDNDPIR)
+• Sunlight
+• LandForces:Communica-
+• Satways
+tionsDivision
+• SKYTALIS
+• HellenicAirForce:C’
+Branch(Support)D’Branch • THEON
+(PolicyandPlanning)
+Source:Authors
+16 HARNESSING THE POTENTIAL
+
+3.2 Important Defense AI Projects in Development
+Currently, several AI-related defense projects are in various stages of develop-
+ment. A useful distinction for the purposes of this analysis is the source of funding
+with projects being funded by European competitive funds, co-funded by Euro-
+pean and national funds, including Recovery and Resilience Facility, and nationally
+funded projects including procurement contracts.
+International Development Projects
+By way of international development projects, the lion’s share refers to European
+projects aiming at establishing a common defense R&D and industrial capability.
+Indeed, it should be noted that participation in EU projects is a significant pathway
+for Greek actors to obtain both funds (this holds also for those co-funded projects)
+and top-tier know-how. This pathway is more important in relation to other EU coun-
+tries, and a pathway wherein Greek actors exhibit particular success.27 The following
+overview includes projects with Greek partners as coordinators and/or members:28
+CTIRISP (Cyber Threats and Incident Response Information Sharing Platform)
+focuses on sharing cyber threat intelligence through a networked member-
+state platform, with the aim of strengthening cyber defense capabilities.29
+DECISMAR (Development of a Decision Support Toolbox for enhancing the
+feasibility study of the Upgrade of Maritime Surveillance) aims at developing a
+decision support toolbox (DSTx), implemented as a cyber-secured and fu-
+ture-proofed integrated IT environment.30
+d-THOR (Digital Ship Structural Health Monitoring) develops a system based
+on innovative utilization of large amounts of load and response measurements
+from robust and advanced sensors, a digital framework complying with recog-
+nized open standards for data exchange, and hybrid analysis and modelling
+which combines physics-based and data-driven models.31
+FaRADAI (Frugal and Robust AI for Defence Advanced Intelligence) focusses
+on frugal learning, i.e., the ability of a system to adapt and learn from its en-
+vironment, including from user supervision, for a reasonable cost and without
+intervention from expert developers. Within the FaRADAI project, current
+advances in AI technologies will be thoroughly researched in parallel with a
+27 DefenceRedefined,“Greecein5thplaceforfundingfromEuropeanDefenceFund.”
+28 WechosetoincludeprogramsthatcapturethedominantperceptionofdefenseAIinrelationtothesetofemergingtechnolo-
+giesinthefieldofdefense,i.e.,developmentofUAVsanddecision-makingprocessautomationsystems,ratherthanprojects
+inwhichGreekinstitutionsparticipatesolelybasedonthedescriptionsusingthetermAI.Thelengthofthelistisindicativeof
+Greece’semphasisonsecuringEuropeanfundingandexpandingthenetworkofinternationalpartnerships.
+29 PESCO,“CyberThreatsandIncidentResponseInformationSharingPlatform(CTIRISP).”
+30 EuropeanCommission,“DECISMAR.”
+31 EuropeanDefenceFund,“dTHOR.”
+WWW.DEFENSEAI.EU 17
+
+detailed study of the main challenges imposed by a defense system. FaRADAI
+is coordinated by the Center for Research & Technology Hellas (CERTH).32
+GEOMETOC (Geo-Meteorological and Oceanographic Support Coordination
+Element) enhances the acquisition of geospatial, meteorological and ocean-
+ographic data through Geo-Data Infrastructure and the provision of related
+services through Services based on advanced analytics and big data.33
+HARMSPRO (Harbour & Maritime Surveillance and Protection) provides
+Member States with the ability to conduct surveillance and protection of
+specified maritime areas, from harbors up to littoral waters, to obtain security
+and safety of maritime traffic and structures. It delivers an integrated system
+of maritime sensors, software and platforms (surface, underwater and aerial
+vehicles), which fuse and process data, to aid the detection and identification
+of a range of potential maritime threats.34
+LOTUS (Low Observable Tactical Unmanned air System) addresses feasibility
+issues, including the detailed design, prototyping and testing of a low-observ-
+able, airworthy and interoperable tactical Remotely Piloted Air Systems system
+targeted at ISR missions with increased data processing capabilities.35
+MAS MCM (Maritime Semi Autonomous Systems for Mine Countermeasures)
+will develop autonomous vehicles, using cutting-edge technology and an
+open architecture to counter the threat of sea mines. Indeed, the technologies
+were tested in the field during the Robotic Experimentation and Prototyping
+Augmented by Maritime Unmanned Systems (REPMUS22) exercise.36
+MIRICLE (Mine Risk Clearance for Europe) addresses the main components
+of a stand-off mine warfare solution such as a mission system, communication
+network, mine countermeasures vessel and robots, using AI for supporting
+decision making.37
+PANDORA (Cyber Defence Platform for Real-time Threat Hunting, Incident
+Response and Information Sharing) contributes to EU cyber defense capacity
+building, by designing and implementing an open technical solution for re-
+al-time threat hunting and incident response, focusing on endpoint protection,
+as well as information sharing.38
+PRIVILEDGE (PRIVacy and homomorphic encryption for artificiaL intelligence)
+focuses on developing encryption techniques of confidential military data by
+way of exploiting AI.39
+32 EuropeanDefenceFund,“FaRADAI.”
+33 PESCO,“Geo-MeteorologicalandOceanographic(GEOMETOC)SupportCoordinationElement(GMSCE).”
+34 PESCO,“Harbour&MaritimeSurveillanceandProtection(HARMSPRO).”
+35 EuropeanCommission,“LOTUS.”
+36 PESCO,“Maritime(Semi-)AutonomousSystemsforMineCountermeasures(MASMCM);DefenceIndustryEurope,“PESCO
+maritimeminecountermeasuresprojecttestedinmultinationalexercise.”
+37 EuropeanCommission,“MIRICLE.”
+38 EuropeanCommission,“PANDORA.”
+39 EuropeanCommission,“PRIVILEDGE”
+18 HARNESSING THE POTENTIAL
+
+USSPS (Development of Unmanned Semi-fixed Sea Platforms for Maritime
+Surveillance) develops a system to improve Maritime Surveillance by exploiting
+unmanned semi-fixed platforms at sea.40
+National Development Projects
+Through several co-funded operational programs, such as the 2021–2027 Partner-
+ship and Cooperation Agreement, the Recovery and Resilience Facility as well as
+national funds, Greece has invested in developing systems related to security and
+defense AI along three lines of efforts: big data and data fusion to enhance situa-
+tional awareness, unmanned systems, and safety and predictive maintenance.41
+Big Data and Data Fusion
+The THORAX integrated information system is one of the flagship projects.42
+The system aspires to provide “an ‘umbrella’ of protection, combining all kinds
+of information and will contribute to the defense armoring of the country,” as
+the Deputy Minister of Research and Technology has said on multiple occasions.
+THORAX aims to connect domestically produced research, innovation, and
+technology with the pillars of National Defense, Security and Civil Protection. The
+system will transmit real-time information concerning search and rescue opera-
+tions, border security, illegal immigration or earthquakes to the MoD’s National
+Operational Center, thus enabling decision-making at the government level
+commensurate with the needs of emerging crisis situations. AI will be used for
+real-time data fusion of information obtained through multiple, air, land, and sea-
+based sensors.
+Unmanned Systems
+Greece has been aspiring to develop unmanned systems for use in different
+military domains.43 First, Greek needs to leap-frog to cover the lost as use of
+unmanned systems in various operation theaters is widening. In addition, Turkey,
+Greece’s strategic competitor, has become highly adept at developing and using
+these systems thus raining global prominence. The Greek inability to counter
+these systems entails a tactical disadvantage in addition to know-how deficiency
+in a cutting-edge field. Moreover, Greece has established a privileged partnership
+with both the United States and Israel to make use of their unmanned systems to
+cover the country’s tactical deficiencies as a short-term, stop-gap measure. Against
+this background, the following projects are worth mentioning:
+40 EuropeanCommission,“USSPS.”
+41 Theselectionprocessishighlydependentuponenduserrequirements.Thatis,theGreekMoD,afteraninternalreviewpro-
+cess,haspushedforwardforaselectlistofprojectsbaseduponitstacticalandfutureorientedneedsandpriorities.
+42 MinistryofDevelopment&Investments,“ΜνημόνιοσυνεργασίαςμεταξύτωνΥπουργείωνΑνάπτυξης&Επενδύσεωνκαι
+ΕθνικήςΆμυνας;Nedos,“‘Thorax’κατάυβριδικώναπειλών–ΝέοσύστημαστοΓΕΕΘΑ.”
+43 EllinikosStratos,“ΠρογράμματαανάπτυξηςελληνικώνUAV.”
+WWW.DEFENSEAI.EU 19
+
+Efforts to develop Greek unmanned aerial vehicles go back to 1982, with the
+first flight of the HAI E1-79 Pegasus followed by its second version (Pegasus
+II) in 2005 which is currently part of the arsenal of the Hellenic Air Force.44
+The HCUAV RX-1 was developed in the context of a collaborative project in
+the 2007–2013 National Strategic Reference Framework, led and coordinated
+by Fluid and Turbine Engineering Laboratory of the Mechanical Engineering
+Department of AUTH.45 The DELEAR RX-3 platform which emerged from RX-1
+was produced as part of the above mentioned LOTUS project.46 The RX-3
+vehicle will adopt AI to perceive the environment (situational awareness) and
+to autonomously execute parts of its mission (autonomy).
+A second and parallel attempt emerged from a joint venture project involving
+the Naval Cadets School, the National Technical University of Athens and the
+EFA Group of Companies,47 which strive to develop the Greek UAV ARCHY-
+TAS.48 According to public sources, a TRL-8 prototype is expected within Q4 of
+2023 and industrial production is expected within Q1 of 2024.49
+A third attempt concerns the development of the first Greek UCAV. Named
+GRYPAS, it was initialized in with the signing of a Memorandum of
+Cooperation between the Ministries of Finance (financial provider) and National
+Defense, the Hellenic Aerospace Industry, and several Greek universities.50 This
+development project takes into consideration the operational needs of the
+armed forces for a medium-altitude long-endurance UAV, specifically for intelli-
+gence missions (detection of enemies) or strike missions. AI will be implemented
+for automated navigation and/or recognition of certain (types of) targets.
+Predictive Maintenance and Safety
+An additional source of European and national co-funding comes from the Hel-
+lenic Foundation for Research and Innovation. A relevant project of the Naval
+Cadet School is NAVMAT. A knowledge-based system that goes beyond simple
+keyword-based indexing and retrieval, NAVMAT is a platform for recording,
+indexing, comparing, assessing, and retrieving information, history of operations
+and maintenance, evidence and testimony for incidents of failure in the Naval en-
+vironment. Based on materials failure ontology, it makes use of AI algorithms and
+cutting-edge approaches in data handling and aims at optimizing naval materials
+failure management and supporting decision making in Maintenance and Repair
+Operations by the Naval Cadets School.51
+44 HellenicAirForce,“PegasusII.”
+45 DefencePoint,“ΑερόχημαHCUAVRX-1απότηνελληνικήεταιρίαSpaceSonicμεηλεκτρονικάIDE.”
+46 DELAER,“TheDELAERconcept”;IntracomDefense,“LOTUS:NextGenerationTacticalUAVfromINTRACOMDEFENSEforISRmissions.”
+47 ThisconsortiumincludesTheon(electro-opticalsensors),SCYTALIS(datalinks),andUCANDRONE(designandmanufacturing
+oftheaircraft).
+48 Nikitas,“ΤοελληνικόUAV‘ΑΡΧΥΤΑΣ’τηςEFAVENTURES.
+49 MinistryofDefence,“ΑπάντησηΥΕΘΑΝικόλαουΠαναγιωτόπουλουσεερώτησηΚοινοβουλευτικούΕλέγχου.
+50 DefenceReview,“ΤοελληνικόUCAVμετηνονομασία“Γρύπας”ανακοίνωσαναπόκοινούταΥπουργείαΕθνικήςΆμυναςκαι
+ΥπουργείοΟικονομικών.”
+51 NAVMAT,“ΑΙ-poweredNAVMATprototypeatICEAFVII.”
+20 HARNESSING THE POTENTIAL
+
+Procurement Projects
+During the last three to five years, Greek has signed approximately 200 major
+defense procurement contracts.52 The need to overcome a decade of near-zero
+new entries of defense equipment and a long standing strategic rivalry with Turkey
+have been the main drivers to sign these contracts. These external drivers have
+been coupled with a more utilitarian approach: procuring ready-to-use high tech
+defense systems from foreign contractors requires the national defense industrial
+base to be involved to ensure smooth operation. In addition, there is a growing in-
+terest in using international procurement projects as avenues to help mature local
+defense companies and provide them springboards into entering more digital
+product segments.
+Importantly, these objectives are in line with a wider political understanding with
+the governments of the states where the respective industrial groups, from which
+the procurement(s) will take place, are headquartered. Countries such as the
+United States, France, and Israel have recognized the increased geopolitical sig-
+nificance of Greece and maintain strategic interests that are in line with Greece’s
+objectives. In the words of former Deputy Defence Minister Hardalias, exploring
+the possibilities and investing in AI-related systems and technologies
+is a security issue that is both national and supranational, and therefore
+concerns both NATO and the EU. But it can only be carried out effectively
+through international cooperation with partners with whom we share common
+principles and values.53
+This has dripped down to a more collaborative approach in matters of industrial
+production. Importantly, a conscientious effort is being undertaken to transform
+this “one-way street” of high-tech procurement from such countries to an industri-
+al production scheme wherein Greek defense industry will participate in product
+development for the purposes of the specific procurement contract and as part of
+the production value chain globally. It is to be noted that this geopolitical align-
+ment is further exhibited in EU RDI projects, wherein Greek entities extensively
+collaborate with French, Italian and Spanish actors.
+Regarding industrial production, Naval Group’s 3 Belharra-type frigates (FDI-HN),
+Dassault Aviation’s 24 Rafale, the modernization of 4 MEKO-type frigates as well as
+the acquisition of 20 Lockheed Martin-made F-35 fighter jets are of special interest as
+most of these assets are/will be data-powered and sensor-enabled. These projects will
+require the local industry to make substantial efforts in view of sensor fusion capabili-
+52 e-Amyna,“Συμβάσεις-συμφωνίεςΥΠΕΘΑ/ΓΔΑΕΕ2019–2023.”
+53 Hardalias,“ΟμιλίαΥΦΕΘΑΝικόλαουΧαρδαλιάστηνΗμερίδα“Τεχνολογία-Καινοτομία,Άμυνα&Στρατηγική.”
+WWW.DEFENSEAI.EU 21
+
+ties and other types of decision support tools operators can use for integrating dispa-
+rate sensor and information data, optronics for target acquisition, as well as parsing of
+Failure, Reporting, Analysis, and Corrective Action (FRACAS) data. However, if and to
+what extent local industry partners can contribute is still under discussion and needs
+to be assessed in view of local competencies and international supplier requirements.
+This includes a detailed understanding of the domestic defense industry’s research
+and technological capabilities – a task that is currently being undertaken and aims to
+map the technological, innovation and industrial existing potential.
+In addition, MBDA’s contract to provide ASTER 30 B1area air defense and MM40
+Exocet Block 3C anti-ship missiles for the FDI-HN as well as the Meteor air-to-air
+missile, the SCALP cruise missile, the MICA air-to-air missile, and the AM39 Exocet
+anti-ship missile in Rafale are linked to collaborating with domestic parties. One
+such case is, for example, the contribution of the National Technical University
+of Athens to develop AI-relevant technologies. This case, as well as the case of
+MBDA seeking to establish R&D partnerships with the domestic industry and aca-
+demia through its “R&D Booster” initiative, indicates the aforementioned geopo-
+litical alliance between France and Greece, through which France as the supplier
+is seeking to broaden its footprint in Greece’s defense relevant ecosystem for the
+purposes of knowledge transfer.54
+54 MBDAi“MBDAawardedtwocontractsbyGreecefornavalandaircraftweaponry”;MBDA,“MBDAtoboostcooperationwith
+GreekDefenceindustry.”
+22 HARNESSING THE POTENTIAL
+
+4 Organizing
+Defense AI
+WWW.DEFENSEAI.EU 23
+
+Greek’s defense institutions are reorganizing for the advent of defense AI. As
+discussed above, the new NSonAI will be published later this year. But early
+indications suggest that this strategy will cover defense AI issues in relation to
+inter-ministerial and cross-departmental arrangements as well as security and
+military considerations. These aspects notwithstanding, the MoD currently lacks
+a single, unitary coordinating authority responsible for defense AI. Rather the
+respective policies as well as the gathering of knowledge related to defense AI are
+being carried out within multiple centers within MoD structure:55
+The General Directorate for Defense Investments and Armaments (GDDIA),
+and more specifically the Directorate for Defense Investments and Technolog-
+ical Research (DDITR), is responsible for managing state-funded and European
+R&D projects, including those that are AI-focused. As such, this Directorate
+is familiar with the EU’s AI-related priorities, the capabilities of participating
+Greek actors, and the respective project results.
+In collaboration with DDITR, the Directorate for Defense Programs and Prin-
+cipal Contracts within the same General Directorate manages major procure-
+ment projects, including sub-contracting the domestic industrial base. Given
+that most – if not all – of the current procurement projects, including those
+that were detailed in chapter 3, do entail a domestic co-production aspect,
+GDDIA is highly engaged in organizing technological and industrial actions on
+defense AI.
+Moreover, given the hybrid security threats posed by both state and non-state
+actors in Greece’s land and sea borders, additional operational centers and
+assets performing multiple data-collection missions are being operated in
+tandem by defense, police, and coast guard forces. Thus, the Hellenic Nation-
+al Defense General Staff is also exposed to AI-relevant assets and technolo-
+gies that are being deployed within the context of security-relevant R&D and
+procurement projects.
+As of end of , a new Joint Center for Research and Technological
+Development & Innovation (KETAK) has been established by the MoD that
+seeks to address real, operational requirements by all branches of the armed
+forces. Although only few details have been revealed, one can assume that
+setting up KEΤAK was a way to create economies of scale among the R&D
+centers of each branch and pool resources.
+Lastly, the General Directorate of National Defense Policy and International
+Relations (GDNDPIR) is responsible for addressing the policy-relevant issues
+on AI, as well as other cutting-edge technologies, thereby considering the
+55 TheMoD’sNationalDefenceIndustrialStrategyandtheStrategicAnalysisofDevelopmentsafter2030donotmentionAIas
+partofthecuttingedgetechnologiesthatcaninfluencedefenseaffairs.Itshouldbenotedthatthefirstwasauthoredin2017,
+whilethesecondin2015.Atthetimeofwritingthisstudy,bothpaperswereunderreview.
+24 HARNESSING THE POTENTIAL
+
+country’s international relations, allied obligations, and requirements stemming
+from bilateral defense cooperation agreements.
+This multiplicity of administrative entities within MoD creates several inroads for
+the MoD to be educated on defense AI and to reflect on how operational needs
+shape Greece’s defense AI understanding and approach. In addition, there are
+several service-specific inroads via the Communications Division of the Land
+Forces, the Submarine Directorate of the Hellenic Navy and C’ Branch (Support) in
+coordination with the D’ Branch (Policy and Planning) of Hellenic Air Force Gen-
+eral Staff. Service-specific insights gained through these avenues can – at a later
+stage – inform the set up and implementation of new R&D projects, thus creating
+a positive feedback loop. Although this decentralized and horizontal approach
+is beneficial, thought should be given to setting up an overarching single point
+of entry within the MoD. As our concluding chapter will argue, such an approach
+could also streamline inter-agency interaction and help overcome institutional
+inertia.
+As argued before, the defense industry is an important economic and policy actor
+in relation to defense AI and an essential part of the defense ecosystem. Firms are
+engaged in several ways in organizing AI-relevant defense activities:
+First, by participating in and, thus, acquiring know-how on such matters
+through EU, national and in-house R&D projects. In addition to funding and
+know-how, being part of EU RDI consortia offers significant networking and
+collaboration opportunities. Indeed, certain private firms have been exhibiting
+a steady participation in such projects. These companies can serve as national
+“transmission mechanisms” that help diffuse international experience among
+national partners and enable them to develop competitive future products and
+services.
+Second, by participating as a (sub)contractor to the domestic procurement
+process. Being part of the production pipeline, Greek firms stand to gain by
+becoming trusted partners of the main contractor(s) on similar procurement
+contracts globally.
+Third, by participating in global tenders. This is due to the in-house innova-
+tion and technological prowess. Defense is a highly regulated market. As the
+GDDIA is responsible to regularly update the Registry of Manufacturers of
+Defense Material,56 the MoD is familiar with each firm’s AI-related capabili-
+ties. This is also relevant for the Hellenic Manufacturers of Defense Material
+Association (SEKPY), which is the largest national defense cluster with more
+than 200 member companies. To further promote the commercial interest of
+56 GeneralDirectorateforDefenseInvestmentsandArmaments,“RegistryofManufacturersofDefenseMaterial.”
+WWW.DEFENSEAI.EU 25
+
+their members, industrial associations should undertake all relevant measures
+to regularly map, increase and disseminate the technological capabilities and
+skills of its members in relation to such cutting-edge technologies. This syncs
+with GGDIA’s objectives and offers a validated set of data to be incorporated
+to the country’s (defense) technology and industrial policy. Even though the
+MoD maintains an overview of available technological capabilities, such map-
+ping would bring added value to the equation. For instance, an industry-led
+initiative could help highlight faster the strong innovative elements of the
+sector, thereby informing dual-use industrial policy. Also, attracting talent and
+locating skills gaps will also be assisted, enabling the provision of additional
+training / upskilling opportunities. Lastly, potential bureaucratic obstacles in
+the effective and timely monitoring of industrial capabilities by the MoD can
+be more effectively bypassed in this way.
+Being knowledgeable about the AI capabilities of the domestic defense indus-
+trial base is important, as a new AI-focused domestic ecosystem is emerging.
+Dedicated platforms such as Elevate Greece and a renewed emphasis on innova-
+tion, as set out by the Minister of National Defense Nikos Dendias, and his explicit
+aim to set up a dedicated Project Management Office in his upcoming legislation,
+will potentially streamline and boost existing good practices, such as the MoD’s
+defense-related start-up competitions and Defense Innovation Challenge, thus
+providing a comprehensive overview of the national defense AI ecosystem.
+Moreover, the new NATO Defense Innovation Accelerator for the North Atlan-
+tic (DIANA) is expected to provide Greece’s ecosystem with a further boost.
+Operating as a start-up incubator/accelerator and building on existing test
+facilities,57 DIANA has enlisted four Greek research centers.58 These will focus on
+AI, autonomous technologies, quantum technologies, biotechnology, and novel
+materials. In combination with new NATO Innovation Fund, the objective is to
+kick-start deep-tech startups, including spin offs, and to bring them into technolo-
+gy development projects relevant for NATO. Thus, it is to be hoped that activities
+at the four Greek research centers will help create operational, educational, and
+entrepreneurial synergies.
+57 NATO,“NATOsharpenstechnologicaledgewithinnovationinitiatives.”
+58 FoundationforResearchandTechnology-Hellas(inCreteandinPatras),NationalCentreforScientificResearchDemokritos
+(inAthens),CentreforResearchandTechnologyHellas(inThessaloniki).
+26 HARNESSING THE POTENTIAL
+
+5 Funding
+Defense AI
+WWW.DEFENSEAI.EU 27
+
+Broadly speaking, an increase in R&D investment has been the new norm within
+the Greek RDI ecosystem. Despite the existing shortfalls that originate from the
+fallout of the economic crisis 2009–2018, political decision-makers agree on the
+need and the relevance of increasing Greece’s participation in European RDI
+projects and advancing the proficiency of the local workforce as key enablers of
+the country’s long-term economic vitality. Or, as the National Defense Industrial
+Strategy puts it:
+Regardless of the type of research, the participation of the armed forces in
+research programs, funded either by the state budget or externally, as a stra-
+tegic partner or contractor with significant operational experience, specialized
+personnel, infrastructure and means should be encouraged.59
+Among other things, this understanding has become the guiding principle to set
+up the Hellenic Foundation for Research and Innovation and the Deputy Ministry
+of Research and Technology, the creation of Elevate Greece, a state registry on
+startups and an informed gateway for potential investors, a large portion of the
+2021–2027 Partnership and Cooperation Agreement, the Recovery and Resilience
+Facility as well as other national funds being directed towards R&D. A pro-business
+climate spurred domestic R&D spending (from 0.68% of GDP in 2011 to 1.45%
+of GDP in 2021), which, in turn, helped renew the attention of global investors to
+engage in Greece’s high-tech sector.
+Consistent with the abovementioned pattern, spending on defense procurement
+and R&D has been on the rise as of recently. Historically, Greek Armed Forces
+has been a procurer of foreign defense material, but even defense purchases
+plummeted during the crisis years. Similarly, R&D activities attracted low interest
+from policy officials. As indicated in Figure 2 and Figure 3, both trends have been
+reversed. Procurement has spiked since 2020 with the government signaling its
+willingness to buy top defense equipment. Overall, awareness of the importance
+of RDI as a “vertical” theme of activities has increased. To be part of global value
+chains and long-term partners of global firms, domestic companies have realized
+they need to engage in knowledge-intensive activities that initiate in-house learn-
+ing processes that are critical for product/services development. However, despite
+a general uptick in defense RDI spending it is impossible to provide a financial
+breakdown of Greece’s spending on defense AI as the respective figures are classi-
+fied. Nonetheless, the projects discussed in chapter 3.2 underline the seriousness
+with which the country strives to engage on defense AI and expand the armed
+forces respective knowledge and capabilities.
+59 GeneralDirectorateofDefenseInvestment&Armaments,2017,p.2.
+28 HARNESSING THE POTENTIAL
+
+Figure 2: Greece’s Defense Equipment Procurement Expenditure 2006–2021
+in million Euros
+3,000
+2,500
+2,000
+1,500
+1,000
+
+2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021
+Source:EDA;authors’calculation
+Figure 3: Greece’s Defense R&D Expenditure 2006–2021 in million Euros
+
+2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021
+Source:EDA;authors’calculation
+WWW.DEFENSEAI.EU 29
+
+6 Fielding and
+Operating
+Defense AI
+30 HARNESSING THE POTENTIAL
+
+Gauging the true state of fielding and operating defense AI is difficult. Although
+Greece participates in AI-relevant R&D activities, the production and operation of
+AI systems is not particularly developed. Based on open-source information we
+contend that some of the R&D projects discussed in chapter 3 have been turned
+into field experiments. In addition, Greece’s purchase of off-the-shelf defense
+systems and future defense procurement plans include integrated AI components.
+Both lines of effort thus serve as proxy indicators for the primary use cases of
+defense AI solutions that are about to be fielded. In this regard we see three focus
+areas for the use of defense AI: improving situational awareness and situational
+understanding, augmenting existing defense capabilities, and advancing border
+security. Defense AI also becomes more important to enhance training as we will
+discuss in chapter 7.
+6.1 Situational Awareness and
+Situational Understanding
+A case in point here concerns the streamlining and operationalizing of multiple
+data sources for real-time command and control. This has been the focus of the
+new Intelligence Fusion Cell (IFC) of the Special Warfare Command, funded by the
+Hellenic National Defense General Staff. Populated by personnel from the coun-
+try’s security and defense establishment, IFC focuses on providing full-spectrum,
+multi-domain operational and strategic intelligence through AI and upgraded
+equipment, thus achieving interoperability and enabling intelligence sharing
+among multiple authorities within the country as well as NATO allies.60
+6.2 Augmenting Existing Capabilities
+Like other countries, Greece also strives to advance existing defense capabili-
+ties with the use of defense AI. In this regard, the following projects are worth
+mentioning:
+Press statements issued by the Greek MoD61 during the Parmenion-21 exercise
+in suggest that the ARCHYTAS UAV has significantly matured
+and is ready for operational demonstration. Transferring this system into the
+60 HellenicNationalDefenseGeneralStaff,“ΕγκαίνιατουΚόμβουΠληροφοριώνΔυνάμεωνΕιδικώνΕπιχειρήσεωντης
+ΔιοίκησηςΕιδικούΠολέμουτουΓΕΕΘΑ.”
+61 MinistryofDefense,“ΠαρουσίαΥΦΕΘΑΝικόλαουΧαρδαλιάστηντελικήφάσητηςΤΑΜΣ‘ΠΑΡΜΕΝΙΩΝ-21’.”
+WWW.DEFENSEAI.EU 31
+
+portfolio of the Greek Armed Forces will significantly advance intelligence
+collection and assessment capabilities.
+Also, the Hellenic Air Force, in , procured HERON UAV from Israel
+Aerospace Industries62 to conduct intelligence, surveillance, target acquisition
+and reconnaissance (ISTAR) missions.63 These missions are built upon the
+ability to combine and enhance open-source maritime (as well as other types
+of terrain) data with AI-driven insights to quickly identify patterns of vessel
+behavior and anomalies. This advances the tipping and cueing capabilities of
+the Greek Armed Forces to identify and track large objects such as ships and
+calculate mission-relevant risk levels.
+The Hellenic Air Force is using IRIS-T missiles.64 These missiles are carried by
+F-16BLK 52+ and F-16BLK 52+ADV aircraft. They provide improved accuracy
+as the imaging IR seeker head in conjunction with intelligent image process-
+ing allows for autonomously identifying the target in order to select the best
+aiming point.
+Sixth generation SPIKE non-line of sight (NLOS) missiles provide a similar
+capability improvement. This advanced electro-optical/infrared missile system
+can integrate data through machine-learning techniques with multiple ground,
+aviation, or maritime platforms, enabling a highly accurate target image acqui-
+sition process even for NLOS targets. Coupled with Orbiter 3 UAV systems as
+target designators, SPIKE NLOS systems will increase the operational capabili-
+ties of the Greek defense force.65
+6.3 Border Security
+At the intersection of defense and national security, border security is a strategic
+priority for Greece as the prevention of irregular immigration proves most chal-
+lenging. Consequently, Greece is emphasizing deterrence through introducing
+border surveillance technologies. These systems implement automated informa-
+tion management in the field through data collection. Surveillance solutions, which
+were field-tested in 2021, consist of a network of long-range cameras and radars
+installed along the Greece-Turkey border, transmitting real-time image and data
+on border conditions.66
+Due to the increased pressure by irregular immigration, the land border with
+Turkey in Evros is heavily populated with advanced technological products and
+62 IAI,“HeronMulti-RoleMALEUAS.”
+63 Nikitas,“UAVHeron:Άριστηηπρώτηεμπειρίαεπιχειρησιακήςαξιοποίησης.”
+64 HellenicAirForce,“AIM-2000(IRIS-T)InfraredImagingSeeker–Tail.”
+65 Egozi,“AeronauticstodeliverOrbiter3dronestoGreece.”
+66 Souliotis,“ΗλεκτρονικήασπίδαστονΕβρο–Σελειτουργίακάμερεςκαιραντάρ.”
+32 HARNESSING THE POTENTIAL
+
+know-how exploited by the Greek police and border control. For example, RE-
+ACTION (Real-time ArtifiCial InTellIgence for Borders Surveillance via RPAS data
+aNalytics to support Law Enforcement Agencies) is a follow-up of multiple EU
+projects (CERETAB, AIDERS and ROBORDER). Operated by the Ministry of Migra-
+tion and Asylum and developed by CERTH-ITI, REACTION aims to build a com-
+prehensive platform and intelligence architecture for border surveillance by way of
+fusing multiple data streams obtained from UAVs through AI (Ministry of Migration
+& Asylum, undated). AKRITAS and NESTOR are two further cases of advanced
+border surveillance systems in use by Greek security forces. Both aim to provide
+pre-frontier situational awareness beyond maritime and land borders for early
+warning through thermal imaging and AI-enhanced radio frequency spectrum
+analysis technologies.67
+Similarly, sea borders are being monitored by the Hellenic Coast Guard making
+use of advanced EU projects such as PROMENADE (Artificial intelligence and big
+data for improved maritime awareness).68 It focuses on automatic vessel detection,
+tracking and behavior analysis based on machine-learning. This multi-sensor and
+multi-source environment is being streamlined with AI-data fusion techniques to
+operational rooms operated in tandem by defense, police and coast guard forces
+to provide for increased situational awareness against state and non-state actors,
+among others. A further case in point is ARESIBO, a research project in which the
+Naval Cadet School participates in conjunction with the National and Kapodistrian
+University of Athens and CERTH. This project is meant to
+enhance the current state-of-the-art through technological breakthroughs in
+Mobile Augmented Reality and Wearables, Robust and Secure Telecommuni-
+cations, Swarm Robotics and Planning of Context-Aware Autonomous Mis-
+sions, and Artificial Intelligence (AI), to implement user-friendly tools for border
+and coast guards.69
+Although these systems mostly concern officials of the Ministry of Citizen Pro-
+tection and the Immigration Policy, they do not exclude the participation of the
+Ministry of National Defense, since Greek Army personnel is involved in joint
+patrols with the police, as press reports covering the immigration situation in Evros
+suggest. Obviously, joint patrols offer the armed forces opportunities to gain first-
+hand experience in operating non-defense electronic surveillance systems used by
+the Greek State. In addition, the External Border Control and Surveillance System,
+estimated to cost almost €30M, is a very important project aimed at strengthening
+the national ability to control and monitor the external borders and, by extension,
+67 Frontex,“Horizonprojects,NESTOR;”Cordis,“aNEnhancedpre-frontierintelligencepicturetoSafeguardTheEurOpeanboR-
+ders.
+68 Cordis,undatedb.
+69 ARESIBO,“ARESIBO-ARforfieldandC2activities.”
+WWW.DEFENSEAI.EU 33
+
+the security of the country. It concerns the supply of equipment, accompanied by
+the necessary software. Media reports also suggest that officers belonging to the
+security and defense branches of the Greek state are jointly working in the re-
+spective control rooms. This suggests a need for inter-agency information sharing
+mechanisms and interoperability requirements. Moreover, the operational deploy-
+ment of THORAX (see chapter 3.2) will advance data sharing as defense, police,
+and coast guard forces will use a common approach to data dissemination.
+34 HARNESSING THE POTENTIAL
+
+7 Training for
+Defense AI
+WWW.DEFENSEAI.EU 35
+
+Training for and with AI has been high on the MoD’s priorities list. On several
+public occasions, top civilian and military decision-makers of the MoD have under-
+lined the value of AI (as well as quantum technologies, robotics, and autonomous
+weapon systems) as a means towards enabling military prowess and turning the
+tables on the battlefield. Subsequently, they have emphasized the value of lifelong
+learning, continuous education, and training as a means for countering modern
+threats and gearing up for the complexity of modern operations.70
+Against this background, MoD personnel are actively encouraged to seek rele-
+vant educational opportunities. Training for and with AI takes place via simula-
+tion-based training, in operational settings, within the military academies, at the
+postgraduate level, through conferences as well as other entrepreneurial-minded
+activities.
+7.1 Simulation-Based Training
+A case in point regarding enhanced operational training has been the inauguration
+of the Synthetic Training Squadron (Moira Epixeirisiakis Synthetikis Ekpaideysis) on
+Andravida Air Base.71 The squadron aims at enhancing interoperability between
+Special Forces and air power by way of exploiting the operational characteristics
+of its eleven simulators. Making use of Augmented Reality technology coupled
+with AI allows for the training squadron to offer for a richer and more realistic
+behavior of simulated individuals, teams and platforms in target-rich and complex
+environments as well as enabling network-centric operations.
+It is noteworthy that Hellenic Air Force personnel has completed the operational
+deployment of the simulators, thus underlining the proficiency of the staff in using
+and developing advanced technology systems. In addition to the launch of the
+Synthetic Training Squadron, the establishment of the Flight Training Center (FTC)
+in Kalamata Air Base with its Mission Training Center will upgrade the operational
+training of aircrew by way of using new technologies and flight simulators.72 Cut-
+ting-edge technologies exploited in FTC will use data-driven tools for optimizing
+training delivery built on adaptive training platforms that are powered by AI.
+70 HellenicNationalDefenseGeneralStaff,“ΟμιλίατουΑρχηγούΓΕΕΘΑστοΠανεπιστήμιοΠειραιώςμεθέμα“Σύγχρονες
+ΑπειλέςκαιΠροκλήσειςΑσφάλειας”.”
+71 HellenicAirForce,“ΕγκαίνιατωνΕγκαταστάσεωντηςΜοίραςΕπιχειρησιακήςΣυνθετικήςΕκπαίδευσηςτουΚέντρου
+ΑεροπορικήςΤακτικής”;HellenicAirForce,“ΜοίραΕπιχειρησιακήςΣυνθετικήςΕκπαίδευσης.”
+72 Mononews,“ElbitSystems:ΠροχωράτοέργοτουΔιεθνούςΚέντρουΕκπαίδευσηςΠιλότωνστηνΚαλαμάτα.”
+36 HARNESSING THE POTENTIAL
+
+7.2 Military Education
+Education in military academies, participation in postgraduate programs on new
+technologies, the development of educational programs for officer schools, as
+well as the organization of conferences currently constitute the main avenues for
+the personnel of the Hellenic Armed Force to acquire (new) skills and resources,
+including AI.
+Training and Education at Military Academies
+The Hellenic Army Academy, Hellenic Naval Academy, Hellenic Air Force Academy
+provide the basic education of new officers. These academies have incorporated
+themes of disruptive and emerging technologies in their educational programs.
+In addition to acquiring advanced mathematical skills (as the necessary scientific
+prerequisite for AI) in functional analysis, numerical methods, or probability theory
+during early semesters, students proceed to advanced AI-relevant topics such as
+optimization problems by way if using neural networks, distributed systems, signal
+processing and data fusion.73 Respective theses treat the subject placing emphasis
+on making use of AI in applied subjects such as detection of noise propagation,
+data distribution and border control systems.
+Post-Graduate Training and Education
+Historically, Greek military officers have been actively seeking postgraduate edu-
+cational opportunities both within and outside of their core military competencies
+and stages of the operational training necessary for their grade. As such, officers
+study at purely civilian university schools and departments obtaining postgraduate
+degrees that treat the mathematical aspects of AI (i.e., degrees in Applied Mathe-
+matics), seek optimization in real-life problems (e.g., Machine Learning and Deep
+Learning in structural engineering, geotechnical engineering, bridge engineering)
+as well as its core IT-relevant aspects (in multiple Computer Science departments).
+The Hellenic Army has formalized cooperation agreements with Greek Universities
+for offering postgraduate opportunities to its personnel. A case in point is the
+Hellenic Army Academy’s participation in two Masters of Science with the School
+of Production Engineering and Management of Technical University of Crete.74
+Entitled “Master of Science in Intelligent Systems Engineering” and “Master of
+Science in Operation Research and Decision Making” both treat AI within the
+scope of computational intelligence, machine learning, big data analytics, and
+73 HellenicAirForceAcademy,UndergraduateStudyProgramme2022–2023;HellenicArmyAcademy,UndergraduateStudy
+Programme2022–2023;HellenicNavalAcademy,ΠρόγραμμαΣπουδώνΣΝΔ–ΚατεύθυνσηΜάχιμων–ΈτοςΕισαγωγής
+2023–2024.”
+74 HellenicArmyAcademy&TechnicalUniversityofCrete,‘MasterinIntelligentSystems’.
+WWW.DEFENSEAI.EU 37
+
+data science in relation to real-life operational conditions such as tracking of un-
+manned systems. A “Master of Science in Cryptography, Security and Information
+Systems” is offered by the Hellenic Army Academy to its army officers. Herein,
+analysis and evaluation of symmetric crypto methods using AI (cryptanalysis) as
+well as methods for privacy-preserving machine learning and inference are a few
+domains of cryptography that are addressed through AI.75 Also, the Hellenic Naval
+Academy has recently signed a cooperation agreement with the National Centre
+of Scientific Research “Demokritos,” a leading Greek research center, for educa-
+tional and R&D purposes in the fields of AI, machine-learning, big data analytics
+and new materials.76 Indicative of the increased focus on AI by the academic and
+research community has been the recent foundation of the “Archimedes” Center
+for Research in Artificial Intelligence, Data Science and Algorithms. Operating as
+a Research Unit of the Athena Research Center it can provide research capabilities
+on relevant issues.77
+The Senior War Colleges of the three military services as well as other educa-
+tional institutions Supreme Joint War College (Anotati Diakladiki Sxoli Polemou
+– ADISPO) and National Defense College (Sxoli Ethnikis Amynas - SETHA) provide
+extra avenues to educate active-duty senior officers. These educational institutions
+provide courses that cover a wide range of topics related to national defense and
+security, military strategy in conjunction with defense AI and new technologies.
+An equally important avenue for attaining educational experience is through
+NATO’s postgraduate opportunities offered to Greek officers. While there is no
+open-source data on the number of the officers attending such courses nor the
+exact subject(s) of the offered post-graduate courses, a simple digital search, for
+example, in Monterey’s Postgraduate School indicates that AI has been introduced
+as a key subject.78 In the EU context, AI-relevant educational opportunities should
+be explored in the context of the European Security and Defence College (ESDC).
+Extracurricular Training and Education
+In relation to extracurricular activities, one case has been the Common Module on
+Unmanned Aerial Systems provided by the Hellenic Air Force Academy in collab-
+oration with the ESDC.79 Therein, the technological principles of Unmanned Aerial
+Systems and their applications, specifications and classification of different catego-
+ries, types and sensors were presented.
+75 HellenicArmyAcademy,PostgraduateStudyProgramme.
+76 HellenicNavalAcademy,“ΥπογραφήΠρωτοκόλλουΣυνεργασίαςμεταξύΣχολήςΝαυτικώνΔοκίμωνκαιΕΚΕΦΕ
+“Δημόκριτος”.”
+77 ATHENAResearchCenter,“ARCHIMEDESUnit.”
+78 NavalPostgraduateSchool,AIforMilitaryUseCertificate;America’sNavy,“ArtificialIntelligenceSummitatNPSAccelerates
+CriticalCapabilities.”
+79 HellenicAirForceAcademy,CommonModuleonUnmannedAerialSystems.
+38 HARNESSING THE POTENTIAL
+
+7.3 Conferences
+Educational activities in the form of conferences on topics related to defense AI
+have been taking place. For example, the Hellenic Air Force has been organizing
+its Annual Air Power Conference, inter alia, with the goal to discuss early tech-
+nology adoption to preserve operational advantage. The topic of AI has received
+attention in multiple conferences.80 In a special section entitled “Artificial Intelli-
+gence and Man in the Loop: Opportunities - Capabilities - Prospect” the panel
+discussed how AI can influence developments in military conflicts and delved into
+relevant topics such as Machine Learning Methods on Noisy and Sparse Data.
+An additional conference entitled “Technology – Innovation, Defense and Strat-
+egy,” aimed at senior officers, was organized in 2023 by the National Defense
+College. The purpose was to broaden the knowledge of the participants with an
+emphasis on the impact of innovation and the application of new technologies in
+the armed forces. The conference also addressed the use of AI in defense.81 The
+topic was presented by researchers at the National Centre of Scientific Research
+“Demokritos” further indicating the formal and informal links between the domes-
+tic research ecosystem and armed forces.
+7.4 Entrepreneurial-minded training activities
+In 2022, the MoD conducted the Defense Innovation Challenge focusing on
+situational awareness. The overall goal was to stimulate innovative in-house ideas
+that can help transform the operational horizon.82 AI-related projects that sought
+to identify submarines (Submarine Identification with Artificial Intelligence) were
+shortlisted for future proofing.83 In addition, the challenge made it clear that of-
+ficers and their innovative ideas constitute a valuable source that the MoD should
+systematically tap into to enhance ongoing force transformation activities.
+80 HellenicAirForce,“8oΣυνέδριοΑεροπορικήςΙσχύος.”
+81 HellenicNationalDefenseGeneralStaff,“ΗμερίδαμεΘέμα“Τεχνολογία–Καινοτομία,ΆμυνακαιΣτρατηγική”.”
+82 GeneralDirectorateforDefenseInvestmentsandArmaments;“1stCompetitionofInnovationandTechnologyoftheMinistryof
+NationalDefence.”
+83 AssociationofGraduatesofHellenicAirForceTechnicalNCOAcademy,“ΥΠΕΘΑ:1οςΔιαγωνισμόςΚαινοτομίαςκαι
+Τεχνολογίας.”
+WWW.DEFENSEAI.EU 39
+
+8 Conclusion
+40 HARNESSING THE POTENTIAL
+
+This report shows that Greek defense policy officials have actively taken steps to
+harness the potential of the technological and operational “window of opportu-
+nity” that AI presents. Several factors – such as long-standing bilateral problems
+with neighboring countries, looming tactical and operational gaps coupled with
+technological obsolescence due to the decade-long economic default – have
+prompted the MoD to actively seek industrial and defense materiel upgrades. In
+combination with the strive to revitalize the dormant defense industry and cap-
+italize upon the highly educated military personnel, these drivers have pushed
+the defense establishment towards riding the current scientific and technological
+wave. Despite notable progress, several long-term challenges remain to be tack-
+led to seize AI’s potential for the Greek military ecosystem.
+First and foremost, Greek defense planners and officers should remain alert of the
+scientific breakthroughs in the field. Operating a “black box” where algorithms
+and key optimization techniques remain unknown to military engineers, data
+scientists, and mathematicians is problematic for sustaining long-term operational
+advantages. Enhanced cooperation with the science establishment, focused bib-
+liometric and technometric analysis and network and centrality analysis to locate
+knowledge-rich areas of expertise should be the norm.
+Second, participating in collaborative RDI projects is an important avenue to
+access top-notch know-how and accumulate experience. Importantly, current
+and future operational requirements should systematically guide the selection of
+RDI projects the Greek Armed Forces want to participate in. While such a future
+oriented, technology-based, tactical list is currently not publicly available, the
+aforementioned actions indicate a conscientious approach in both closing existing
+operational gaps and leveraging technologies to leapfrog. This pattern should
+continue, and such know-how should start being transposed into the strategic and
+tactical planning of the country’s defense forces and the production lines of Greek
+firms.
+Third, procuring cutting-edge defense material, among others, entails a signifi-
+cant learning curve for military personnel. Thus, the MoD should move swiftly to
+become a proficient end user in current and future R&D projects. To the extent
+possible, Greek defense procurement officials should actively negotiate with
+foreign contractors specific conditions to ensure that Greek Armed Forces are
+granted “enhanced” user rights related to new defense equipment. In addition,
+domestic defense contractors should be given access to proprietary know-how
+in case they engage with international partners in co-production agreements.
+Enabling an operational relationship with domestic civilian universities and the
+country’s highly performant science diaspora is yet another channel to gather
+cutting-edge scientific and technological information on AI. This will also advance
+Greece’s understanding related to increasing vulnerabilities that are bound to
+WWW.DEFENSEAI.EU 41
+
+appear to interconnected systems – ranging from cyber-attacks, manipulated and
+corrupt data as well as data transmission flows.
+Fourth, the MoD should adopt a more systemic view to monitor defense AI-rel-
+evant policy discussions in NATO, European agencies, and in other bilateral and
+multilateral formats. Greek military delegates should “tag” and send AI-related in-
+formation to a single point within the ministry for the latter to keep track of all con-
+current activities. Indeed, this international aspect of accumulating AI knowledge
+is important. For example, NATO’s new Data and Artificial Intelligence Review
+Board (DARB) is a key forum to exchange best practices and views on AI.84 Greece
+will be appointing a representative to DARB and should thus use this forum to
+systematically gather information on international defense AI developments. The
+same holds true for European institutions like EDA, the European Space Agency
+(ESA) and the European Network and Information Security Agency (ENISA) that
+have begun incorporating AI as key missions within their scope.85
+Finally, while multiple military units engage in AI for a number of both narrow and/
+or wider objectives, establishing a new function similar to the US DoD’s Chief
+Digital and Artificial Intelligence Office should be explored. A single administrative
+point would help to establish and implement a unified defense AI vision in line
+with the wider national ambition, collect and document all relevant information
+in a structured manner and – potentially – recognize and streamline interagency
+overlap and push back organizational inertia and institutional turf war. Further,
+this office can push towards greater collaboration with domestic academic and
+research institutions as well as international partners.
+In addition to AI being a scientific, technological, and operational challenge, first
+and foremost it presents a learning challenge. This report has discussed the Greek
+defense establishment’s ability to ‘learning to learn’. While much remains to be
+done, there is reason to be optimistic.
+84 NATO,NATO’sDataandArtificialIntelligenceReviewBoard.
+85 Seerespectively:EuropeanSpaceAgency,“Artificialintelligenceinspace”;ArtificialIntelligenceApplications&Innovations,
+“The2ndWorkshoponDefenseApplicationsofAI(DAAI)”;ENISA,“Ad-HocWorkingGrouponArtificialIntelligenceCybersecurity.”
+42 HARNESSING THE POTENTIAL
+
+Literature
+America’sNavy,“ArtificialIntelligenceSummitat aerochima-hcuav-rx-1-apo-tin-elliniki-space-sonic-me-ile-
+NPSAcceleratesCriticalCapabilities,”19January ktronika-tis-ide(lastaccessed9October2023).
+2023,
+Article/3272831/artificial-intelligence-summit-at-nps-ac- DefenceRedefined,“Greecein5thplaceforfunding
+celerates-critical-capabilities/(lastaccessed9October fromEuropeanDefenceFund,”27July2022,https://
+2023). defenceredefined.com.cy/edf-greece-in-5th-place-for-
+funding-from-european-defence-fund/(lastaccessed9
+ARESIBO,“ARESIBO-ARforfieldandC2activities,” October2023).
+undated,
+2023). DefenceReview,“ΤοελληνικόUCAVμετην
+ονομασία“Γρύπας”ανακοίνωσαναπόκοινού
+ArtificialIntelligenceApplications&Innovations, ταΥπουργείαΕθνικήςΆμυναςκαιΥπουργείο
+“The2ndWorkshoponDefenseApplicationsofAI Οικονομικών,”12January2023,
+(DAAI),”undated, gr/new-hellenic-ucav-grypas/(lastaccessed9October
+daai/(lastaccessed9October2023). 2023).
+AssociationofGraduatesofHellenicAirForce DELAER,“TheDELAERconcept,”DELAERproject
+TechnicalNCOAcademy,“ΥΠΕΘΑ:1οςΔιαγωνισμός website,undated,
+ΚαινοτομίαςκαιΤεχνολογίας,”27May2022, laer-concept/(lastaccessed9October2023).
+ e-Amyna,“Συμβάσεις-συμφωνίεςΥΠΕΘΑ/
+onismos-kainotomias-kai-texnologias(lastaccessed9 ΓΔΑΕΕ2019–2023,”Listofmajordefensecontracts
+October2023). awardedintheperiod2019–2023,compiledby
+e-Amyna,16May2023,
+ATHENAResearchCenter,“ARCHIMEDESUnit,” status/1658400669752074241?ref_src=twsrc%5Etf-
+undated, w%7Ctwcamp%5Eembeddedtimeline%7Ctwterm%5E-
+accessed9October2023). screen-name%3Ae_amyna%7Ctwcon%5Es1(last
+accessed9October2023).
+Cordis,“aNEnhancedpre-frontierintelligence
+picturetoSafeguardTheEurOpeanboRders-Project Egozi,Arie,“AeronauticstodeliverOrbiter3drones
+Description,”undated, toGreece,”DefenceIndustryEurope,17April2023,
+id/101021851(lastaccessed9October2023). 
+er-3-drones-to-greece/(lastaccessed9October2023).
+Cordis,“imPROvedMaritimeawarENessbymeans
+ofAIandBDmEthods-ProjectDescription,”undated, ElevateGreece,“RegisteredStartupDatabase,”
+ undated,
+accessed9October2023). (lastaccessed9October2023).
+DefenceIndustryEurope,“PESCOmaritimemine EllinikikosStratos,“Προγράμματαανάπτυξης
+countermeasuresprojecttestedinmultinational ελληνικώνUAV,”Ellinikos-Stratos.com,undated,https://
+exercise,”28November2022, 
+eu/pesco-maritime-mine-counter-measures-project-test- accessed9October2023).
+ed-in-multinational-exercise/(lastaccessed9October
+2023). ENISA,“Ad-HocWorkingGrouponArtificialIntel-
+ligenceCybersecurity,”undated,
+DefencePoint,“ΑερόχημαHCUAVRX-1απότην europa.eu/topics/iot-and-smart-infrastructures/artifi-
+ελληνικήεταιρίαSpaceSonicμεηλεκτρονικάIDE,” cial_intelligence/ad-hoc-working-group(lastaccessed9
+23March2019, October2023).
+WWW.DEFENSEAI.EU 43
+
+EuropeanCommission,“PRIVILEDGE,”Factsheet,29 highlightsolutions,ideasandapplicationsinthefield
+June2021, ofdefence,”15May2021,
+eu/priviledge_en(lastaccessed9October2023). en/1st-competition-of-innovation-and-technology-of-the-
+ministry-of-national-defence-to-highlight-solutions-ideas-
+EuropeanCommission,“USSPS,”30June2021, and-applications-in-the-field-of-defence/(lastaccessed
+ 9October2023).
+(lastaccessed9October2023).
+GeneralDirectorateforDefenseInvestmentsand
+EuropeanCommission,“MIRICLE,”Factsheet,30 Armaments,“NationalDefenceIndustrialStrategy,”
+June2021, March2017,
+eu/miricle_en(lastaccessed9October2023). uploads/2021/09/NDIS-ENGLISH.pdf(lastaccessed9
+October2023).
+EuropeanCommission,“DECISMAR,”Factsheet,15
+June2020, Hardalias,Nikos,“ΟμιλίαΥΦΕΘΑΝικόλαου
+corner/detail/en/fs_20_1078(lastaccessed9October ΧαρδαλιάστηνΗμερίδα“Τεχνολογία-Καινοτομία,Άμυνα
+2023). &Στρατηγική”τηςΣχολήςΕθνικήςΆμυνας,”Ministry
+ofNationalDefence,16February2023,
+EuropeanCommission,“LOTUS,”Factsheet,15June mod.mil.gr/omilia-yfetha-nikolaoy-chardalia-stin-imeri-
+2020, da-technologia-kainotomia-amyna-amp/(lastaccessed
+detail/en/fs_20_1086(lastaccessed9October2023). 9October2023).
+EuropeanCommission,“PANDORA,”Factsheet,15 Hardalias,Nikos,“ΟμιλίαΥΦΕΘΑΝικόλαου
+June2020, Χαρδαλιάστηνημερίδα“ΣυνδέονταςτηνΈρευναμετην
+corner/detail/en/fs_20_1089(lastaccessed9October ΑμυντικήΒιομηχανία”,”MinistryofNationalDefence,9
+2023). May2023.
+EuropeanDefenceFund,“FaRADAI,”Factsheet,2022, 
+ laoy-chardalia-stin-imerida-syndeontas-tin-ereyna-tin/
+files/2022-07/Factsheet_EDF21_FaRADAI_0.pdf(last (lastaccessed9October2023).
+accessed9October2023).
+HellenicAirForce,“ΕγκαίνιατωνΕγκαταστάσεων
+EuropeanDefenceFund,“dTHOR,”Factsheet,2022, τηςΜοίραςΕπιχειρησιακήςΣυνθετικήςΕκπαίδευσης
+ τουΚέντρουΑεροπορικήςΤακτικής,”12December
+uploads/2023/08/dTHOR.pdf(lastaccessed9October 2022,
+2023).
+
+EuropeanSpaceAgency,“Artificialintelligencein seon-tis-moiras-epicheirisiakis-synthetikis-ekpaideysis/
+space,”2023, (lastaccessed9October2023).
+Preparing_for_the_Future/Discovery_and_Preparation/
+Artificial_intelligence_in_space(lastaccessed9October HellenicAirForce,“PegasusII,”undated,https://
+2023). 
+October2023).
+FRONTEX,“Horizonprojects,NESTOR,”3September
+2022, HellenicAirForce,“AIM-2000(IRIS-T)Infrared
+horizon-projects/nestor-MDU4gJ(lastaccessed9 ImagingSeeker–Tail,”undated,
+October2023). equipment/aim-2000-iris-t-infrared-imaging-seeker-tail/
+(lastaccessed9October2023).
+GeneralDirectorateforDefenseInvestmentsand
+Armaments,“RegistryofManufacturersofDefense HellenicAirForce,“ΜοίραΕπιχειρησιακής
+Material,”18May2023, ΣυνθετικήςΕκπαίδευσης,”undated,
+registry-of-manufacturers-of-defense-material/(last structure/ata/keat/squadrons-schools/moira-epicheiri-
+accessed9October2023). siakis-synthetikis-ekpaideysis/(lastaccessed9October
+2023).
+GeneralDirectorateforDefenseInvestments
+andArmaments,“1stCompetitionofInnovationand
+TechnologyoftheMinistryofNationalDefenceto
+44 HARNESSING THE POTENTIAL
+
+HellenicAirForce,“8oΣυνέδριοΑεροπορικής το2030,ΣΑΕ2030,”July2015,
+Ισχύος,”undated, gr/wp-content/uploads/2019/11/sae2030.pdf(last
+(lastaccessed9October2023). accessed9October2023).
+HellenicAirForceAcademy,UndergraduateStudy HellenicNavalAcademy,“ΥπογραφήΠρωτοκόλλου
+Programme2022–2023,February2023, ΣυνεργασίαςμεταξύΣχολήςΝαυτικώνΔοκίμωνκαι
+google.com/file/d/1vCAa5yNM3aGdbqjAESe9aHa- ΕΚΕΦΕ“Δημόκριτος”,”4April2023,
+kIAP6Tbas/view(lastaccessed9October2023). gr/el/activities/recent-activities/item/20230421b(last
+accessed9October2023).
+HellenicAirForceAcademy,“CommonModuleon
+UnmannedAerialSystems(UASs)atHellenicAirForce HellenicNavalAcademy,“ΠρόγραμμαΣπουδώνΣΝΔ
+Academy(HAFA),”4July2023, –ΚατεύθυνσηΜάχιμων–ΈτοςΕισαγωγής2023–2024,”
+en/2023/04/common-module-on-unmanned-aerial-sys- 2023,
+tems-uass-at-hellenic-air-force-academy-hafa-2/(last programma_spoudon/max_2023_2024.pdf(lastac-
+accessed9October2023). cessed9October2023).
+HellenicArmyAcademy,UndergraduateStudy HellenicRepublic,“Ενημερωτικόσημείωμαγιατη
+Programme2022–2023,October2022, συνεδρίασητηςΣυμβουλευτικήςΕπιτροπήςγιατην
+gr/odigos-proptychiakon-spoydon/(lastaccessed9 ΤεχνητήΝοημοσύνηυπότονΠρωθυπουργόΚυριάκο
+October2023). Μητσοτάκη,”25October2023,
+ister.gr/2023/10/25/32870(lastaccessed27October
+HellenicArmyAcademy,PostgraduateStudyPro- 2023).
+gramme,undated,
+IAI,“HeronMulti-RoleMALEUAS,”
+ co.il/p/heron(lastaccessed9October2023).
+accessed9October2023).
+IntracomDefense,“LOTUS:NextGenerationTactical
+HellenicArmyAcademy&TechnicalUniversityof UAVfromINTRACOMDEFENSEforISRmissions,”30
+Crete,‘MasterinIntelligentSystems’,undated,http:// November2020,
+ lotus-next-generation-tactical-uav-from-intracom-de-
+fensefor-isr-missions/(lastaccessed9October2023).
+HellenicNationalDefenceGeneralStaff,“Ημερίδα
+μεΘέμα“Τεχνολογία–Καινοτομία,Άμυνακαι Kikiras,Panagiotis,InterviewtoGiannis
+Στρατηγική”,”17February2023, Mouratidis,Netweek,29June2017,
+gr/imerida-me-thema-technologia-kainotomia-amy- gr/%CF%80%CE%B1%CE%BD%CE%B1%CE%B3%CE%B9%
+na-kai-stratigiki/(lastaccessed9October2023). CF%8E%CF%84%CE%B7%CF%82-%CE%BA%CE%AF%CE%
+BA%CE%B9%CF%81%CE%B1%CF%82-%CE%B5%CF%80%
+HellenicNationalDefenceGeneralStaff,“Ομιλίατου CE%B9%CE%BA%CE%B5%CF%86%CE%B1%CE%BB%CE%
+ΑρχηγούΓΕΕΘΑστοΠανεπιστήμιοΠειραιώςμεθέμα AE%CF%82-%CF%84%CE%B7%CF%82-%CE%BC%CE%BF/
+“ΣύγχρονεςΑπειλέςκαιΠροκλήσειςΑσφάλειας”,”5 (lastaccessed9October2023).
+May2022,
+MBDA,“MBDAawardedtwocontractsbyGreecefor
+ navalandaircraftweaponry,”PressRelease,28March
+panepistimio-peiraios-me-thema-sygchrones-apeiles-kai- 2022,
+prokliseis-asfaleias/(lastaccessed9October2023). mbda-awarded-two-contracts-by-greece-for-naval-and-
+aircraft-weaponry/(lastaccessed9October2023).
+HellenicNationalDefenceGeneralStaff,“Εγκαίνια
+τουΚόμβουΠληροφοριώνΔυνάμεωνΕιδικών MBDA,“MBDAtoboostcooperationwithGreek
+ΕπιχειρήσεωντηςΔιοίκησηςΕιδικούΠολέμουτου Defenceindustry,”PressRelease,10May2023,https://
+ΓΕΕΘΑ,”19September2022, newsroom.mbda-systems.com/mbda-cooperates-close-
+inia-toy-komvoy-pliroforion-dynameon-eidikon-epicheiri- ly-with-greek-defence-industry/(lastaccessed9October
+seon-tis-dioikisis-eidikoy-polemoy-toy-geetha/(last 2023).
+accessed9October2023).
+MinistryofDevelopment&Investments,“Μνημόνιο
+HellenicNationalDefenceGeneralStaff, συνεργασίαςμεταξύτωνΥπουργείωνΑνάπτυξης&
+“ΣτρατηγικήΑνάλυσηΕξελίξεωνγιατηνΕλλάδαμετά
+WWW.DEFENSEAI.EU 45
+
+ΕπενδύσεωνκαιΕθνικήςΆμυναςγιατηνυλοποίηση implementationoftherelevantinteroperabilitylegal
+τουπρογράμματος‘ΘΩΡΑΞ–THORAX’,”2October2020, framework,”undated,
+ 
+C%CE%BD%CE%B7%CE%BC%CF%8C%CE%B- accessed9October2023).
+D%CE%B9%CE%BF-%CF%83%CF%85%CE%BD%CE%B5%
+CF%81%CE%B3%CE%B1%CF%83%CE%AF%CE%B1%CF% Mitsotakis,Kyriakos,“ΗΕλλάδατο2040,μιαχώρα
+82-%CE%BC%CE%B5%CF%84%CE%B1%CE%BE%CF%8D- στηνπρώτηγραμμήτηςΕυρώπης,”Βουλή-Επίτου
+%CF%84%CF%89%CE%BD-%CF%85%CF%80%CE%B- Περιστηλίου,12April2023,pp.4–5,
+F%CF%85/(lastaccessed9October2023). lenicparliament.gr/userfiles/ebooks/periodiko_t061/4/
+index.html(lastaccessed9October2023).
+MinistryofDefense,“ΑπάντησηΥΕΘΑΝικόλαου
+ΠαναγιωτόπουλουσεερώτησηΚοινοβουλευτικού Mononews,“ElbitSystems:Προχωράτοέργο
+Ελέγχου(υπ.Αριθμ.1901/24–01–2023)μεθέμα: τουΔιεθνούςΚέντρουΕκπαίδευσηςΠιλότωνστην
+“Προβληματισμοίσχετικάμετηνυλοποίησητου Καλαμάτα,”21October2022,
+πολύ-προβεβλημμένουπρογράμματοςανάπτυξηςUAV gr/business/elbit-systems-prochora-to-ergo-tou-dieth-
+Αρχύτας”,”21February2023, nous-kentrou-ekpedefsis-piloton-stin-kalamata(last
+apantisi-yetha-nikolaoy-panagiotopoyloy-se-erotisi-koi- accessed9October2023).
+novoyleytikoy-elegchoy-yp-arithm-313/(lastaccessed9
+October2023). NATO,“NATOsharpenstechnologicaledgewith
+innovationinitiatives,”7April2022,
+MinistryofDefense,“ΣυμμετοχήΥΕΘΑΝικόλαου int/cps/en/natohq/news_194587.htm(lastaccessed9
+ΠαναγιωτόπουλουστηΣύνοδοΥπουργώνΑμύνηςτου October2023).
+ΝΑΤΟστιςΒρυξέλλες(16–17Φεβ22),”17February
+2022, ΝΑΤΟ,“NATO’sDataandArtificialIntelligence
+laoy-panagiotopoyloy-sti-synodo-ypoyrgon-amynis-na- ReviewBoard:Summaryoftheestablishmentofthe
+to-stis/(lastaccessed9October2023). Board,”13October2022,
+en/natohq/official_texts_208374.htm(lastaccessed9
+MinistryofDefense,“ΠαρουσίαΥΦΕΘΑΝικόλαου October2023).
+ΧαρδαλιάστηντελικήφάσητηςΤΑΜΣ‘ΠΑΡΜΕΝΙΩΝ-21’
+στηΧίο–ΕπίσκεψησεΕΦ‘Οινουσσών’,‘Παναγιάς’και NavalPostgraduateSchool,“AIforMilitaryUse
+‘ΑγίαςΕλένης’,”30September2021, Certificate,”undated,
+mil.gr/paroysia-yfetha-nikolaoy-chardalia-stin-teliki-fasi- tificate(lastaccessed9October2023).
+tis-tams-parmenion/(lastaccessed9October2023).
+NAVMAT,“ΑΙ-poweredNAVMATprototypeatICEAF
+MinistryofDefense,“ΣυμμετοχήΥΕΘΑκ.Νίκου VII,”23June2023,
+ΠαναγιωτόπουλουστηνΆτυπηΣύνοδοΥπουργών ered-navmat-prototype-iceaf-vii-june-23(lastaccessed9
+ΆμυναςτηςΕ.Ε.στοΕλσίνκι,”29August2019,https:// October2023).
+
+otopoyloy-stin-atypi-synodo-ypoyrgon-amynas/(last Nedos,Vassilis,“‘Thorax’κατάυβριδικώναπειλών
+accessed9October2023). –ΝέοσύστημαστοΓΕΕΘΑ,”ΗΚαθημερινή,18
+Φεβρουαρίου2022,
+MinistryofDefense,“DefenceInnovationChallenge,” tics/561722623/thorax-kata-yvridikon-apeilon-neo-systi-
+undated, ma-sto-geetha/(lastaccessed9October2023).
+ Nikitas,Giannis,“ΤοελληνικόUAV‘ΑΡΧΥΤΑΣ’
+camp/en/(lastaccessed9October2023). τηςEFAVENTURES:Πολλαπλασιαστήςισχύοςτων
+ΕλληνικώνΕνόπλωνΔυνάμεων,”DefenceReview,10
+MinistryofDigitalGovernance,“DigitalTransforma- May2022,
+tionBible2020–2025,”June2021, chytas-tis-efa-ventures-pollapl/(lastaccessed9October
+egy.gov.gr/en/vivlos_pdf?page=158(lastaccessed9 2023).
+October2023).
+Nikitas,Giannis,“UAVHeron:Άριστηηπρώτη
+MinistryofMigration&Asylum,“Reaction-Call: εμπειρίαεπιχειρησιακήςαξιοποίησηςμεεπίκεντροτη
+BMVI/2021/SA/1.5.4:Supporttocomplywiththe διακλαδικότηταστηνΤΑΜΣ‘ΠΑΡΜΕΝΙΩΝ2021’,”De-
+fenceReview,8October2021,
+46 HARNESSING THE POTENTIAL
+
+hellenic-armed-forces-operational-experience-uav-heron/
+(lastaccessed9October2023).
+PESCO,“CyberThreatsandIncidentResponseInfor-
+mationSharingPlatform(CTIRISP),”undated,https://
+
+cident-response-information-sharing-platform/(last
+accessed9October2023).
+PESCO,“Maritime(Semi-)AutonomousSystemsfor
+MineCountermeasures(MASMCM),undated,https://
+
+tonomous-systems-for-mine-countermeasures/(last
+accessed9October2023).
+PESCO,“Geo-MeteorologicalandOceanographic
+(GEOMETOC)SupportCoordinationElement(GMSCE),”
+undated,
+teorological-and-oceanographic-geometoc-support-co-
+ordination-element-gmsce/(lastaccessed9October
+2023).
+PESCO,“Harbour&MaritimeSurveillanceandProtec-
+tion(HARMSPRO),undated,
+eu/project/harbour-and-maritime-surveillance-and-pro-
+tection/(lastaccessed9October2023).
+Sachini,Evi,Malliou,Nena,Chrysomallidis,Charalam-
+bos,Karampekios,Nikos,Sioumalas-Christodoulou,
+Konstantinos,Christopoulos,Stefanos,Εντοπισμόςκαι
+ανάλυσητωνελληνικώνεπιστημονικώνδημοσιεύσεων
+στοντομέατηςΤεχνητήςΝοημοσύνηςμετεχνικές
+ΜηχανικήςΜάθησης.(Athens:NationalCenterof
+Documentation,2022),
+tions/633(lastaccessed9October2023).
+Souliotis,Giannis,“ΗλεκτρονικήασπίδαστονΕβρο
+–Σελειτουργίακάμερεςκαιραντάρ,”ΗΚαθημερινή,
+22October2021,
+ty/561551092/ilektroniki-aspida-ston-evro-se-leitoy-
+rgia-kameres-kai-rantar/(lastaccessed9October2023).
+VanRoy,Vincent,Rossetti,Fiammeta,Perset,Karine,
+Galindo-Romero,Laura,AIWatch-NationalStrategies
+onArtificialIntelligence:AEuropeanperspective
+(Luxemburg:PublicationsOfficeoftheEuropeanUnion,
+2021).
+WWW.DEFENSEAI.EU 47
+
+48 HARNESSING THE POTENTIAL
+
+Defense AI Observatory Studies
+23|19 Nikolaos Karampekios, Konstantinos Sakalis, and Iraklis Oikonomou, Harnessing the
+Potential. Defense AI in Greece
+23|18 Andreas Graae, Servers Before Tanks? Defence AI in Denmark
+23|17 Kévin Martin and Lucie Liversain, A Winding Road Before Scaling-Up? Defense AI in
+France
+23|16 Sami O. Järvinen, Cautious Data-Driven Evolution. Defence AI in Finland
+23|15 Inbar Dolinko and Liran Antebi, Embracing the Organized Mess. Defense AI in Israel
+23|14 Alastair Finlan, A Fertile Soil for AI? Defense AI in Sweden
+23|13 John Lee, “Overtaking on the Curve?” Defense AI in China
+23|12 Heiko Borchert, Torben Schütz, and Joseph Verbovszky, Master and Servant. Defense
+AI in Germany
+23|11 Katarzyna Zysk, High Hopes Amid Hard Realities. Defense AI in Russia
+23|10 Yvonne Hofstetter and Joseph Verbovzsky, How AI Learns the Bundeswehr’s
+“Innere Führung.” Value-Based Engineering with IEEE7000™-2021
+23|09 Robert C Engen, When the Teeth Eat the Tail: A Review of Canada’s Defence Artificial
+Intelligence
+23|08 Çağlar Kurç, Enabling Technology of Future Warfare. Defense AI in Turkey
+23|07 Lauren A. Kahn, Risky Incrementalism. Defense AI in the United States
+22|06 Yvonne Hofstetter, Wie KI Innere Führung lernt. Wertbasierte Technik mit
+IEEE7000™-2021
+22|05 Andrea Gilli, Mauro Gilli, and Ivan Zaccagnini, Exploring the Benefits of a New Force
+Enabler: Defense AI in Italy
+22|04 Kenneth Payne, Bright Prospects – Big Challenges. Defense AI in the United
+Kingdom
+22|03 Heiko Borchert, Christian Brandlhuber, Armin Brandstetter, and Gary S. Schaal, Free
+Jazz on the Battlefield. How GhostPlay’s AI Approach Enhances Air Defense
+22|02 Peter Layton, Evolution not Revolution. Australia’s Defence AI Pathway
+21|01 Heiko Borchert, Torben Schütz, Joseph Verbovszky, Beware the Hype. What Military
+Conflicts in Ukraine, Syria, Libya, and Nagorno-Karabakh (Don’t) Tell Us About the
+Future of War

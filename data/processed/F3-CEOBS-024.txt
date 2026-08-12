@@ -1,0 +1,1843 @@
+Green Field Tool User Guidance
+Using the environmental assessment and
+management tool for mine action field
+operations
+
+About
+Contents
+Norwegian People’s Aid (NPA) is a politically independent membership-based organisation working in Norway and in more than
+30 countries around the world. NPA’s international work covers three core areas: Mine action and disarmament, development 1. Introduction .......................................................................6
+and humanitarian relief aid. NPA’s first demining operations took place in Cambodia in 1992 and today cover the full life-cycle of
+1.1 Mine action and the environment 6
+weapons and ammunitions – with interventions to protect civilians and the environment before, during and after conflict.
+1.2 Purpose of the Green Field Tool 6
+1.3 Scope of the Green Field Tool 7
+The Conflict and Environment Observatory (CEOBS) is a UK charity that undertakes research and advocacy on the
+1.4 Getting started 8
+environmental dimensions of armed conflicts and military activities, and their derived humanitarian consequences. CEOBS’
+1.5 When to use the Green Field Tool? 9
+overarching aim is to ensure that the environmental consequences of armed conflicts and military activities are properly
+1.6 Alignment with IMAS guidance 9
+documented and addressed and that those affected are assisted.
+1.7 Responsibilities 10
+Acknowledgement
+1.8 Gender or conflict sensitivity 10
+NPA and CEOBS would like to thank Mines Advisory Group and The HALO Trust, as well as mine action stakeholders who took
+2. Structure and format of the tool .......................................11
+part in consultation workshops and members of the Environmental Issues and Mine Action working group for their engagement
+2.1 Overview 11
+and feedback.i These include consultees in Ukraine and PDR Lao. We would also like to thank the Norwegian Refugee Council for
+2.2 Microsoft Excel format 12
+consultation meeting and sharing of best practices from the Nexus Environmental Assessment Tool (NEAT+).ii
+2.3 ArcGIS® Survey123 12
+This publication, together with the public release of the Green Field Tool and development of the environmental reporting 2.4 Amendments and revisions 14
+indicators, was possible thanks to UK International Development funding from the UK government. Our thanks also to initial 2.5 Core programme information 14
+funding from the government of Norway. 2.6 Step 1 Environmental Profile overview 15
+2.7 Step 2 Environmental assessment and monitoring overview 15
+2.8 Register 16
+2.9 Incident reporting 16
+Disclaimer 3. Step 1: Environmental Profile ...............................................18
+This guidance and the approach to the environmental management in the Green Field Tool (GFT) has been developed based 3.1 Introduction 18
+on a consideration of typical mine action operations, International Mine Action Standard (IMAS) 07.13 on Environmental 3.2 Environmental setting and subject areas 21
+Management and Climate Change,iii and good practice guiding principles. The questions set out to establish the environmental 3.3 Information sources and data entry 24
+profile of an area, the mitigation measures listed to avoid or minimise environmental risks and the list of enhancement 3.4 Data quality and reliance 26
+measures given in the GFT are not exhaustive. These have been provided to guide the GFT user and may be revised to reflect
+3.5 Environmental profile summary 26
+regional considerations. This publication does not form part of official IMAS guidance, but does complement the IMAS 07.13 and
+4. Open source application ...............................................29
+its supporting Technical Note on Mine Action (TNMA).
+4.1 Introduction to using open source and geospatial data 29
+The GFT has been developed to support the evaluation of environmental issues in humanitarian mine action. It has been 4.2 Using the Open Source Application 29
+provided free-of-charge without any warranty of any kind, either expressed or implied, including, without limitation, warranties 4.3 Benefits and limitations 31
+of merchantability, fitness for a particular purpose and non-infringement. Use of the GFT is at the User’s risk. Under no
+5. Step 2: Environmental assessment and monitoring ................32
+circumstances shall NPA or CEOBS be liable for any loss, damage, liability or expense incurred or suffered that is claimed to have
+resulted from the use of the GFT, including, without limitation, any fault, error, omission, interruption or delay with respect 5.1 Selecting activities 32
+thereto. The mention of any specific companies or products does not imply any endorsement or recommendation. The views 5.2 Environmental aspects and impacts 33
+expressed do not reflect the views or policies of the project donors. 5.3 Assessing risks to the environment 35
+5.4 Mitigation measures 36
+Cover image: Mine action often takes place in remote and biodiverse areas. Credit: Norwegian People´s Aid Cambodia 5.5 Compensation or enhancement opportunities 38
+i. Environmental Issues and Mine Action Working Group, 
+ii Nexus Environmental Assessment Tool, see 
+iii IMAS 07.13 Environmental management and climate change in mine action: 
+
+6. Using outputs from the Green Field Tool ...............................40
+6.1 Risks register and issues log 40
+6.2 Using the GFT outputs 41
+6.3 Organisational environmental reporting 42
+7. Incident reporting ..............................................................43
+7.1 Overview 43
+7.2 Incident reporting template 43
+8. Implementation and roll-out ...............................................46
+8.1 Overview 46
+8.2 Outline roll-out strategy 47
+8.3 Training needs 49
+8.4 Support, checks and quality assurance 50
+8.5 Challenges and lessons learnt to date 51
+9. Guidance and training materials .......................................52
+9.1 Overview 52
+9.2 UNEP/OCHA Global Templates 52
+9.3 Other online training and guidance 54
+Annex A - Glossary ..............................................................55
+Annex B - FAQs ......................................................................58
+FAQs on using the Green Field Tool 58
+FAQs on the Open Source Application 60
+Annex C - Core programme information ...............................62
+Annex D - Step 1 Environmental Profile Questions ...............63
+Annex E – Open Source App data layers ...............................74
+Annex F – Risk assessment .......................................................77
+Open detonation creates
+Annex G – Compensation and enhancement options ................79
+smoke plumes and a risk of
+soil and water pollution
+Credit: Norwegian People´s Aid/Sean Sutton
+Green Field Tool | User Guidance 4 Green Field Tool | User Guidance 5
+
+1. Introduction
+environmental training of staff, standard operating procedures, quality assurance and a monitoring and evaluation
+1.1 Mine action and the environment
+review process. The Technical Note in Mine Action (TNMA),i which supports IMAS 07.13, notes that the whilst
+adoption of a formally accredited EMS may not be feasible, conforming with environmental management principles
+The global climate and environmental crises are significant threats to people, including the communities is encouraged.
+where mine action programmes take place. Typically, the impacts of climate change and environmental damage
+disproportionately affect poor, conflict-affected and marginalised communities.i A glossary is given in Annex A, and a set of Frequently Asked Questions in Annex B.
+Mine action can take a role in supporting communities and has a responsibility to ensure that good environmental The GFT is designed to support the planning and implementation of mine action field operations and may be
+practice is followed. This includes ensuring that measures are in place to avoid or reduce adverse environmental completed for any field activity – including survey and clearance, disposal areas, worksites, access routes and camps.
+impacts from field operations and where possible, help to implement initiatives which enhance the environment.
+Mine action also has to consider climate change and how climate-related issues need to be addressed. The core aims of the GFT are to raise awareness on environmental issues and improve environmental practices
+(see Figure 1). This includes identifying when more detailed and comprehensive environmental assessments are
+required and whether other specialist environmental advice and support is needed before any work can proceed. The
+1.2 Purpose of the Green Field Tool
+GFT also allows action and controls to be documented, to demonstrate compliance.
+Mine action programmes must assess and minimise
+To highlight and 1.3 Scope of the Green Field Tool
+their environmental footprint. This should be done raise awareness
+on the
+systematically, in line with the data-driven approach
+environmental
+issues linked to
+applied across mine action. The GFT supports the environmental screening and assessment of field operations, helps identify environmental
+To determine mine action
+To ensure measures
+whether are in place to risks and how these can be managed. The scope is based on NEAT+ - a tool that is applied for other humanitarian
+more detailed
+avoid and
+The goal of the Green Field Tool (GFT) is to enhance comprehensive minimise sectors in the project design phase. The GFT also directs the user to consider climate change and how climate-
+environmental
+environmental
+quality and accountability by identifying and addressing assessments are related issues may need to be addressed.
+impacts
+required
+key environmental and climate issues. The GFT can be Aims of
+used to better understand the environmental setting the GFT Note that the GFT does not cover office-based activities, travel, procurement policy, energy use or greenhouse gas
+of field operations, assess the potential environmental (GHG) accounting which should be addressed within an organisation’s environmental policy and environmental
+To identify where
+To identify if
+impacts and identify appropriate measures to manage specialist environmental management systems.
+enhancement
+advice/support
+environmental risk. The GFT can support programmes measures
+is needed before
+could be or have
+work can proceed
+in complying with IMAS 07.13 on environmental To been adopted Core programme information on national level environmental policy and legislation is required to inform mine
+document the
+management and climate change,ii and environmental action and action activities and planning. This includes considering regional climate risk profiles. The GFT itself is split into
+controls
+compliance obligations of mine action authorities or two key components – Step 1: Environmental Profile and Step 2: Environmental Assessment and Monitoring –
+in place, and
+demonstrate good
+donors. and should be used by staff with regional and local knowledge of the area. The GFT requires the information to be
+practice
+collected on the environmental setting (or profile) for the area of field operations and asks activity-based questions.
+Figure 1 – Core aims of the GFT
+The GFT is not a standalone environmental tool An overview is given in the flowchart below (see Figure 2) and explained further in section 2.
+for humanitarian mine action interventions but
+should form part of an overall environmental management system (EMS), including an environmental policy,
+i. ODI, 2024. Climate change, conflict and fragility: a recipe for disasters: Insight, 24 . Available at 
+ii. UNMAS, 2024. International Mine Action Standard (IMAS) 07.13, Environmental management and climate change in mine action, Second edition, 3 . Available
+at i. UNMAS, 2025. TNMA 07.13/01, Environmental management and climate change in mine action, First edition, 16 . Available at 
+Green Field Tool | User Guidance 6 Green Field Tool | User Guidance 7
+
+Core programme information
+Information on any national mine action environmental
+policy, organisational environmental policy, relevant
+environmental regulation, donor and key stakeholder
+requirements should be maintained for each country
+1.5 When to use the Green Field Tool?
+programme. This includesa climate risk profile.
+The GFT should be completed as early as possible, with climate and environmental information collected as part of
+Step 1 Environmental Profile
+programme planning, local engagement and non-technical surveys. This will allow for the early identification and
+Establish the environmental setting of the
+task area, and the potential environmental constraints implementation of appropriate mitigation or control measures necessary to plan for climate-related issues or avoid
+and issues. This can be done for a group of tasks -as
+appropriate -since similar constraints / conditions may and reduce adverse other environmental impacts.
+apply for tasks in the same communal area or district.
+When to apply the GFT depends on the area under consideration (see Figure 3). On a country or programme level,
+information detailing high level climate data, overarching environmental policies, national standards, legislation,
+Select activities
+donor or stakeholder requirements on the environment should be reviewed and documented.
+Before starting STEP 2, activitieswhich may
+not be relevant can be excluded or screened out.
+Screening out can reduce the range of aspects and The environmental profile (Step 1) can be collected on a district level, covering a village or group of task areas and
+potential impacts to be considered in STEP 2.
+will include information about conditions and potential environmental constraints specific to the area.
+Environmental assessment and monitoring (Step 2) is then completed for an individual task level and allows for
+Environmental Step 2 Environmental Risk register and issues log
+profile summary assessment and monitoring The register summarises the each aspect and potential impact of activities to be reviewed and mitigation measures identified.
+This summariesthe key Each aspect and potential environmental impact environmental risks and the measures,
+environmental issues of mine action activities are considered in STEP as well as any other enhancement or
+based on the STEP 1 2. Mitigationmeasures to avoid or reduce the improvement opportunities.
+responses. risks are then selected.
+Core programme information
+Provideinformation for the country/programme, detailing high level
+Country / programme level
+Figure 2 – GFT overview flowchart climate data, overarching environmental policies, national standards,
+legislation, donor or stakeholder requirements on the environment.
+Step 1-Environmental profile
+Collect information on the environmental setting of a district or village
+District level based on a set of guiding questions. This should include potential
+constraints -such as local climate risks and vulnerabilities, protected
+1.4 Getting started areas due to wildlife, or areas with fragile soils.
+Step2 -Environmental assessment and monitoring
+Task Assess each aspsect and potential impact of the mine action operations
+To get started, take the following actions: level on a task level, as well as climate risks. Document the mitigation
+measures to be in place, and identify any enhancement opportunities.
+Any environmental incidents should also be reported on a task level.
+1. Read through this guidance.
+Figure 3 – When to apply the GFT occurring to the area under consideration
+2. Designate responsibilities within the organisation (see section 1.7).
+3. Choose a GFT format: Survey 123 or Excel.
+4. Set out when the GFT will be used (see section 1.5).
+5. Establish the core programme information and then proceed to Step 1 and Step 2.
+6. Identify environmental risks, implement measures to avoid or minimise the effects and monitor. 1.6 Alignment with IMAS guidance
+7. Share GFT outputs and include information in handover reports.
+The IMAS 07.13 on environmental management and climate change provides a framework for the implementation of
+good environmental practice across mine action. The GFT aligns with the requirements of IMAS 07.13 - in particular
+Green Field Tool | User Guidance 8 Green Field Tool | User Guidance 9
+
+2. Structure and format of the tool
+the need to undertake necessary environmental and climate assessments; specifically (but not limited) to:
+2.1 Overview
+• select cost-effective measures to prevent and mitigate adverse environmental impacts;
+• mitigate adverse impacts on people, wildlife, vegetation and other aspects of the environment; A summary outline of the GFT is given in Figure 4, with the primary goal of enhancing quality and accountability in
+• leave the environment in a state that is similar to or, where possible, better than before the start of mine action
+mine action by identifying and addressing key environmental and climate issues.
+operations;
+• include climate risk in risk management strategies;
+• record, report and investigate environmental and climate-nonconformities;
+What is the GFT? Who uses the GFT?
+• include relevant data in handover documents; and
+An environmental Mine action staff with some
+• be open to opportunities for embedding climate adaptation and environmental initiatives which could benefit local
+assessment screening tool environmental awareness
+communities and support nature and nature-based solutions following land release. to identify key issues training
+1.7 Responsibilities
+How is the GFT used? When is the GFT used?
+The GFT can be used by any mine action organisation, including both mine action operators and mine action
+On field activities using Early in the design and
+authorities. The GFT has been simplified – as far as possible – to encourage use by mine action staff with limited input data from open Goal planning process, and
+sources, local consultation during field implementation
+or no environmental expertise. Mine action organisations should assign staff responsibility for completing GFT and non-technical surveys
+to enhance quality and
+assessments, checking that completed assessments remain relevant and up-to-date, compiling monitoring reports accountability in mine action
+and sharing outputs. by identifying and
+addressing key
+environmental and climate
+In some cases, the GFT may identify the need for further assessment or expertise advice for tailored and area-
+issues
+specific measures during planning or implementation (e.g. local wildlife, conservation, water resource or
+agricultural specialists). Specialist technical support would be required to assist in the design and implementation
+of any environmental sampling or survey requirements and in the interpretation of the results. Environmental Figure 4 – GFT summary outline
+monitoring, surveys and sampling should only be carried out by trained and technically competent persons.
+The GFT is available for use in either ArcGIS® Survey123 or as a standalone Microsoft Excel format. In both cases the
+GFT has two key components – Step 1 and Step 2 – as shown in Figure 5 and described in the sections below. These
+1.8 Gender or conflict sensitivity
+can be downloaded from the resources page of the EIMA working group website: 
+org/pages/resources
+Note that the GFT does not include a consideration of gender in either the assessment of climate or environmental
+risks or in the selection of any compensation or enhancement options. However, gender-specific considerations will
+need to be incorporated into the design, implementation and monitoring of any planned climate or environmental
+initiatives.
+Any proposals or plans to implement any compensation or environmental enhancement schemes must consider and
+address the potential for differing opinions, land rights and the risk of creating tension and conflicts if not properly
+managed.
+Green Field Tool | User Guidance 10 Green Field Tool | User Guidance 11
+
+Figure 6 – Standalone
+Step 1 Step 2 Overall Microsoft Excel format Instructions Overview
+Environmental Profile Environmental assessment outcomes Generalinstructions,
+flowcharts and figures
+AAvvooididins ga anndd m mininimimisiesisng
+nneeggaattivivee i mimppaaccttss
+Core programme Step 1 Step1 Profile
+Non-technical Incident reporting information Environmental summary
+Assessenvironmental aspects Enhances positiveoutcomes
+survey / visits/ template Profile
+and impacts
+desk study
+DocIunmcideenntst arecptioorntsin agnd
+BaseBline Profilereport / cteomntprolaltse Select activities Step 2 Environmentalassessment and
+environmental Prof s i u le m r m ep a o ry rt / Assign mitigation measures, Exclude or screen out monitoring GFTinput and
+data summary and enhancement options EnablesI ndcaitdae snht arreipnog rwtiintgh other activities whichdo not output tabs
+apply
+relevantte smtapklaetheolders
+Open source
+Open d a so ta urce Produce a risk register and ImprovInecsidtheen ts urestpaoinrtainbgility of Risk register and issues log Incident reporting
+data issues log lantedm replleaatsee template
+Supports climate resilience in
+communitites
+Risk matrix Learnmore Glossary
+Information on a topic
+Figure 5 – GFT core components and overall outcomes or its relevance in mine
+action
+Other guidance and
+2.2 Microsoft Excel format standardised
+Compensation& Mitigation Responselibrary
+responses / options
+enhancement options
+options
+A standalone Excel format is available for organisations not using Survey123. The Excel version includes multiple
+sheets, divided into either ‘general instructions’, ‘input or output’ tabs or ‘other guidance’ (see Figure 6).
+Figure 7 – ArcGIS®
+Survey123 format Not included
+The Excel version includes standard responses for the user to select for the majority of questions. These standard
+Core programme Step 1 Step1 Profile
+responses can be amended if necessary by editing the ‘response library’. Open text boxes are also provided to allow information Environmental summary ArcGIS Survey123
+more detailed or specific response and external links to be added where appropriate. It is recommended that a Profile Step 1 template
+system (such as Power BI) is used to report and analyse the data from completed GFT assessments. This was not
+Select activities Step 2 Environmentalassessment and
+been developed as part of the current GFT version.
+Exclude or screen out monitoring ArcGISSurvey123
+activities whichdo not Step 2 template
+apply
+2.3 ArcGIS® Survey123
+Risk register and issues log
+Incorporatedinto
+the ArcGIS Survey
+123 template
+ArcGIS® Survey123 is widely used across mine action and the GFT is alternatively available to upload as Survey123
+Excel templates. The template forms can be adapted and are currently set up as follows:
+ArcGIS Survey123
+Incident reporting
+Incident report
+template
+• Environmental profile – Step 1 template
+• Environmental assessment and monitoring – Step 2
+• Environmental incident report
+Risk matrix Learnmore Glossary
+Information on a topic
+or its relevance in mine
+The ArcGIS® Survey123 templates cover the same information presented in the standalone Excel spreadsheet but do action
+not mimic the format (see Figure 7). The current ArcGIS® Survey123 templates also do not include a form for adding
+Compensation& Mitigation Responselibrary
+‘core programme information’ detailing overall environmental policy, regulations and other requirements for the
+enhancement options
+programme – see section 2.5. options
+Green Field Tool | User Guidance 12 Green Field Tool | User Guidance 13
+
+The ArcGIS® Survey123 templates also include standard responses for the user to select for the majority of questions. Links to policies, documentation and legislative requirements relating to the climate and the environment should be
+These responses can be amended in the templates if necessary. Open text boxes are also provided to allow more recorded and maintained here under core programme information.
+detailed or specific response where appropriate. Explanatory text and links to other external guidance are also
+included. The core programme information which should be included as part of the Information Management System in Mine
+Action (IMSMA) is given in Annex C.
+The three GFT templates can be integrated into the organisation’s standard Survey123 reporting procedures for
+operations, with support from Information Management staff.
+2.6 Step 1 Environmental Profile overview
+2.4 Amendments and revisions
+Step 1 includes a set of questions to establish the environmental setting of the task area and the potential
+environmental constraints and issues. This can be carried out for a group of tasks as appropriate, since similar
+The GFT is flexible and can be amended, with questions adapted to reflect regional issues and revised if not relevant constraints or conditions may apply for tasks in the same communal area or district. The size of this area will
+in certain contexts or for specific activities. depend on the location and should be selected with caution. If too large, it will be difficult to provide focused
+responses to the profile questions. This environmental profile then informs Step 2 and the evaluation of risks.
+Ensuring that the GFT is relevant and tailored for specific circumstances should improve uptake, roll-out and
+adoption across programmes. Whilst questions and the responses can be amended, any macros and links should Step 1 should be completed as early as possible by the relevant key staff during initial task planning and
+be checked. Changes should only be made through the Environmental focal point or co-ordinator in the respective programming and feed into the operational planning done by the Operations Manager. Completed profiles should be
+organisation. reviewed every 6 months in case an update is required. Further detail is given in section 3.
+The Excel sheet is password protected to prevent accidental changes. To make changes:
+2.7 Step 2 Environmental assessment and monitoring overview
+1. First unprotect the sheet on the ‘Review tab’, and select ‘Unprotect sheet’. The password is greenfieldtool.
+2. If any columns and rows are inserted or changed, or worksheet names are changed, the VBA code for the In Step 2, each aspect and potential environmental impact of mine action field activities are considered. This should
+corresponding worksheet may also need editing. To access the VBA code, go to ‘File’, then go to Options >
+ideally be carried out for each Task Area. There are 14 topic areas to consider, with the GFT user selecting all aspects
+Customize Ribbon and select the ‘Developer’ check box.
+and impacts which may apply for the Task Area in question.
+2.5 Core programme information
+The likelihood and severity of each impact is then estimated by the GFT user, taking into consideration the
+environmental profile and sensitivity of the area, whether the impact happens in the short or long term and whether
+Core information relating to any national mine action environmental policy, organisational environmental policy, it could cause a temporary or permanent impact. The GFT then allocates an environmental risk score - high,
+relevant environmental regulation, any donor environmental requirements or other key stakeholders´ requirements medium or low.
+should be maintained for each country programme.
+Mitigation measures are then selected by the GFT user to avoid or reduce environmental risks. In some cases, there
+This should include a review of the climate risk profile for the country to ensure that the programme takes account may an opportunity to put in place - or recommend - environmental enhancement or other improvement options
+of the overarching key issues facing the region due to the impact of climate change, that relevant parties are which can add-value and environmental benefit.
+consulted and the correct, available information is reviewed. This may affect the planning of mine action activities,
+with prioritisation driven due to the impact of climate change and vulnerability in some areas. This should be Step 2 should be completed by operational leader for each work area, such as the Task Manager or Team Leader and
+completed by relevant staff during initial task planning and programming. As a minimum, core programme at the planning stage before mobilising. This should be kept under review during tasks. Further detail is given in
+information should be reviewed every 12 months. section 5.
+Green Field Tool | User Guidance 14 Green Field Tool | User Guidance 15
+
+2.8 Register
+Completing Step 2 generates the components for a risk register, detailing the environmental risks and the
+measures to be put in place. Where a positive environmental benefit has been identified due to an enhancement or
+improvement, these are recorded, together with any residual risks or outstanding issues. Further detail is given in
+section 6.1.
+2.9 Incident reporting
+Reporting environmental incidents, events or near-misses helps to understand how and why something happened
+and what could be put in place to prevent it happening again. An Incident Reporting template is provided for
+ArcGIS® Survey 123 and is included in the standalone Excel version – see section 7.
+Agriculture can be a driver
+of deforestation in regions
+where mine action operates
+Credit: Norwegian People´s Aid/Giovanni Diffidenti
+Green Field Tool | User Guidance 16 Green Field Tool | User Guidance 17
+
+3. Step 1: Environmental Profile
+3.1 Introduction
+An environmental profile sets out the environmental characteristics of an area before activities or project work
+takes place and provides an understanding of the environmental setting and its sensitivity.i This is established
+through a set of profile questions.
+Understanding the environmental setting and its sensitivity is necessary for making informed decisions, predicting
+potential impacts and choosing effective mitigation or management strategies. Environmental sensitivity
+depends on tolerance and vulnerability and how it can respond to change, stress or disturbance. For example, the
+sensitivity of a habitat may be based on the species present and how they may be affected by disturbance from noise,
+detonations and vegetation clearance. The environmental setting and its sensitivity affect the significance of an
+environmental impact.
+If using ArcGIS® Survey 123, upload and use the Environmental profile template.6 This template form has 4 pages:
+1. Administration,
+2. Profile Survey (see screenshot),
+3. Enhancement and Compensation Options, and
+4. Profile summary.
+There are 10 subject areas covered by the profile questions.
+ArcGIS® Survey123 – the 10 profile survey subject areas.
+If using the standalone Excel version, go to the Environmental profile either through the ‘Instructions’ worksheet
+(see screenshot) and click on ‘Step 1’ box, or select the ‘Step 1 Profile’ worksheet. The ten subject areas covered by the
+profile question are given in the ‘Step 1 Profile’ worksheet.
+i. Refer to section 5.3.2 of the TNMA 07.13.
+Green Field Tool | User Guidance 18 Green Field Tool | User Guidance 19
+
+3.2 Environmental setting and subject areas
+Step 1 provides a set of questions to help establish the environmental setting (or profile) for the area of interest.i
+The subject areas, together with an explanation on why the information is relevant for mine action field activities is
+summarised in Table 1.
+Subject Description and relevance for mine action
+Transboundary Mine action could increase access to important ecological areas or result in land-use changes
+issues close to the border. Changes in land use could increase the use of natural resources or generate
+pollution, with cross-border implications, e.g. for water bodies shared between countries or
+ecologically important areas. This could lead to cross-border sensitivities around environmental
+impacts and transboundary conservation, water resource or pollution management may be needed
+in some cases.
+Environmental This covers the provision and enforcement of national or local environmental laws or community-
+governance led codes of practice. Weak governance and waste management infrastructure will affect how well
+the environment and people are protected from harm.
+Excel – Step 1 can be accessed by clicking on the ‘Step 1’ box in the Instructions worksheet.
+National, regional or local environmental legislation relevant for mine action can be wide ranging
+and failure to comply could result in a loss of reputation, programme delays or even fines and
+prosecution. Consultation with regulators and local authorities is essential.
+Excel – The 10 subject areas covered by the profile questions are given in the ‘Step 1 Profile’ worksheet.
+Conservation These can include locally important or nature conservation areas not formally recognised or
+and wildlife designated by regional or national authorities. As a first step, the World Database on Protected
+areas Areas (WDPA) and the World Database of Key Biodiversity Areas (WDKBA) may be checked but
+local consultation is also essential. Mine action in ecologically-important areas will require specific
+planning. This may require work to be only undertaken outside of breeding and nesting seasons, as
+well as other specialist measures and support from ecologists.
+Habitat and Details on habitat type, its density and maturity are needed to understand the impact of any
+vegetation planned work and clearance, as well as risks to any retained trees and vegetation. For retained
+cover trees, measures must be in place to protect root systems, aiding the chances of their survival.
+Clearing vegetation risks exposing large areas of soil, which can be prone to erosion and
+degradation.
+It is also important to know about invasive species which may be present. This includes animals,
+plants, insects or aquatic species which can cause harm where they are not native. Invasive species
+are an increasing problem and can damage habitats and have an economic impact.
+Table 1 – Step 1 Environmental Profile subject areas and their relevance to mine action, continued overleaf
+i. The questions align with section 5.3.2 of the TNMA 07.13.
+Green Field Tool | User Guidance 20 Green Field Tool | User Guidance 21
+
+Subject Description and relevance for mine action Subject Description and relevance for mine action
+Soils / geology Soil type and structure affects many factors including levels of moisture, plant growth, resistance Local and It is important to understand regional and local trends and to engage with local people, asking
+to erosion and the risk of compaction. Soil texture ranges from coarse (sands and gravels) to fine regional trends them about their experience and any of changes observed over recent years. This could cover a
+(clays and silts), and this will affect their fertility and how readily they may drain or retain water. wide range of observations: changes in rainy / dry seasons, hot / cold seasons, notable changes in
+weather around national holidays / festivals, planting season and harvests, crop production and soil
+Bare ground with little vegetation cover is more prone to soil erosion by wind or water. Dust fertility, periods of scarce resources (e.g. food, water, fish or pasture), migration times of species,
+generated from degraded soils can be blown for long distances, damaging crops, water courses extreme weather events, increase in pests and vermin and seasonal illness (affecting people and
+and wildlife. Compacted soil is caused by vehicles, machinery and livestock, degrading and livestock).
+otherwise affecting its productivity. Detonations and cratering will also disrupt and destroy
+soil structure and affect soil function. Field visits and local consultation will be needed to get For example, information on deforestation is especially useful since it gives an oversight of the
+information on soil type and geology. wider regional context, which may directly affect mine action activities and people. Areas affected
+by high rates of deforestation are likely to be more vulnerable to biodiversity loss, flood risks, soil
+Topography / Details on the slope and terrain is needed to understand the potential for run-off, soil erosion and erosion, poorer water quality, and in some cases, landslides.
+slope flooding and in extreme cases, the risk of landslides.
+It is also useful to understand annual rainfall and temperature trends, as well as the location and
+frequency of landscape fires, flooding, landslides and any observed changes in the frequency of
+Water features Nearby water resources could be impacted by mine action activities. Field visits and local
+other extreme weather events.
+consultation will be needed to fully understand their location, water flow rates and their use.
+Information on groundwater will also need to be determined from local consultation. Shallow
+This section also asks questions on what local coping strategies may already be in place to address
+groundwater will be more susceptible to activities on site, such as spills and repeat detonations.
+climate change and their effectiveness. Climate change and climate-related events can worsen
+Sites with shallow groundwater may also be at risk from flooding and waterlogging. Check with the
+existing local stresses such as poverty, food insecurity, land degradation and access to water
+local community.
+shortages, as well as physical risks to extreme weather events.
+Cultural Nearby cultural assets could be impacted by mine action activities. This can include religious sites
+By understanding the trends and issues, opportunities for environmental enhancement may
+heritage or sacred areas, historic buildings, burial grounds, ruins or archaeological sites. The information
+be identified to support these communities and help people adapt to climate change. Even if
+available through open source data is limited and consultation with the local community and
+these cannot be implemented by mine action, this can be flagged and the options highlighted at
+authorities will be needed.
+handover. Opportunities for environmental enhancement must be explored as early as possible. A
+list of potential options is included for consideration.
+Land use Details on land use and any known land changes are relevant for considering land use pressures
+and local and related environmental impacts.
+communities
+In some areas, there may have been significant shifts in how land is used, with increased
+urbanisation, increased agriculture and reduced areas of natural habitat. An understanding of
+the scale and nature of these changes can help indicate the potential importance of additional
+enhancement measures which could be put in place and the overall land use pressures.
+This section also asks about historic land use and the likelihood that chemical contamination or
+pollution is present (Refer to Annex C of the TNMA 07.13.).
+Finally, this section asks for the key local community issues and environmental concerns raised
+or identified as affecting the local community. This may be linked to climate change, or relate to
+other environmental and land right issues. Examples include: access to and use of natural resources;
+access to water; illegal logging; high reliance on firewood use; biodiversity loss; soil erosion; spread
+of invasive species; poor waste management and use of chemicals and pesticides; poor indoor and
+local air quality; pollution.
+Green Field Tool | User Guidance 22 Green Field Tool | User Guidance 23
+
+The full list of all questions covered in Step 1 is given in Annex D.
+Note that whilst information about past and recent climate trends, likely projections and potential impacts helps
+gain an understanding of climate risks, this information can contain uncertainties and some precautions are
+advised.i This includes taking account of climate variability and extremes to ensure decisions are robust and
+consider a range of future conditions. It is also important not to rely on anecdotal evidence alone and to use a
+combination of information sources.
+3.3 Information sources and data entry
+The primary information and data sources for establishing the environmental profile are:
+1. Through conducting field visits, non-technical surveys (NTS), desktop studies, policy review and community ArcGIS® Survey123 – icons show which data sources can help answer the profile question.
+interviews.
+2. Through stakeholder consultations, with local authorities, national and local experts and environmental groups. Excel – a tick box shows which data sources can help answer the profile question.
+3. Using open source data (see section 4).
+Questions in Step 1 may be answered using a combination of information and data sources. Questions in the GFT are
+flagged to indicate which information source may be useful to help answer each question in Step 1, as shown in the
+two screenshots overleaf.
+Note that any relevant stakeholders who may be affected by or have an interest in the outcome of the mine
+action activities should be identified at an early stage. This requirement is noted in the TNMA/07.13. Stakeholder
+engagement should be iterative and is needed to collect local knowledge and address local concerns. The
+information gained may include important local and indigenous knowledge on local biodiversity and wildlife, native
+planting, the presence of invasive species, climate trends and other environmental data.
+i Refer to section 6.3 of the TNMA 07.13.
+Green Field Tool | User Guidance 24 Green Field Tool | User Guidance 25
+
+3.4 Data quality and reliance
+If using Excel (see screenshot), the profile summary can be seen by selecting the ‘Step 1 Profile summary’ worksheet.
+Using a combination of remote sensing, satellite data and local knowledge is important to establish the
+environmental profile and to improve data quality and reliability. Using satellite and open source information can be
+Excel – the profile summary is presented in columns under the 3 categories.
+especially useful where ground data is unavailable.
+The limited availability or access to environmental data will reduce understanding of the environmental conditions
+and affect the reliability of any screening assessments. It is important to acknowledge these limitations and aim to
+fill data gaps through all reasonable effort.
+Local perception of environmental issues and risks may also vary depending on individual or cultural attitudes to
+the environment and experience. A broad range of stakeholders and community representatives should be involving,
+including local communities and local environmental experts where possible.
+3.5 Environmental profile summary
+On completing Step 1, an environmental profile summary is generated by the GFT. This profile summary flags the
+environmental issues identified, grouping them into issues of High, Medium or Lower concern depending on the
+responses given and a set of standardised ‘profile statement’.
+The summary can be used as a guide, alongside the environmental profile report to inform Step 2. If using ArcGIS®
+Survey 123 (see screenshot), the profile summary is given in the sheet 4 of 4 of the environmental profile template.
+ArcGIS® Survey123 – the profile summary
+is presented as a list of statements under
+each three categories.
+Green Field Tool | User Guidance 26 Green Field Tool | User Guidance 27
+
+4. Open source application
+4.1 Introduction to using open source and geospatial data
+In Step 1 of the GFT, geospatial data and open source maps can be used to collect background environmental
+information and help develop an understanding of environmental considerations relevant to the study area.
+There is a large array of open source data available which can be useful, including some environmental data
+layers provided in ArcGIS® Living Atlas. The GFT-Open Source Application (OSA) was developed to bring
+together the more relevant datasets and simplify their interpretation for mine action. It is available at https://
+conflictenvironmentobservatory.projects.earthengine.app/view/gftapp
+The information from open sources is a helpful starting point but should be supported by field observations and in-
+community engagement.
+4.2 Using the Open Source Application
+The data layers in the OSA have been formatted to help understand the environmental profile in an ‘area of interest’,
+with guidance for interpretation and links to the data sources provided. A summary of the layers provided in the
+OSA (v1.2025) is given in Annex E, together with an explanation on its relevance to informing the environmental
+profile in Step 1. Note that the format of the data presented in the OSA will vary between layers, depending on
+whether it is spatial or temporal data.
+Open the OSA using Google Chrome. The steps for using the OSA are set out overleaf:
+Extreme weather events pose
+an increasing challenge for
+mine clearance activities
+Credit: Norwegian People´s Aid
+Green Field Tool | User Guidance 28 Green Field Tool | User Guidance 29
+
+1. Navigate to a location 4. Go through each of
+by: selecting a country; the data layers to help
+using the scroll buttons; or answer the questions
+using the ‘search places’ covered in the GFT
+toolbar. Environmental Profile,
+where appropriate.
+The data layer example
+shown here is ‘Surface Water
+Analysis’ and maps spatial
+data concerning surface
+water.
+5. The data layer example
+2. Select an ‘area of
+shown here is ‘Precipitation
+interest’ (AOI) using the
+Analysis’ and gives temporal
+‘Draw AOI’ button. Only
+data in two charts for the
+draw one AOI at a time.
+AOI.
+If the AOI polygon obscures
+the data layer being shown,
+use the ‘Hide AOI’ button to
+leave an outline of the AOI
+only. Use the ‘Centre Map
+on AOI’ button to re-centre
+the map, and ‘Reset Map’ to
+delete the AOI outline.
+3. Once an AOI has been
+drawn, start to select the
+data layers of interest 4.3 Benefits and limitations
+(one at a time).
+The example shown here is
+‘Protected Areas Analysis’,
+The data in the OSA will not provide all the information needed to complete the environmental profile but it can
+which gives WDPA data.
+Clicking on a WDPA polygon help to highlight high level information and vulnerabilities at an early stage. These can then be used to inform the
+brings up an information
+box about the protected design and planning of mine action operations.
+area.
+Global open source data has limitations and must be supported by other sources, including field visits, desk studies
+and consultation with local communities and expertise. The data layers provided in the OSA are not automatically
+updated. The date of the last update is given and it is recommended that the data source is checked to confirm the
+latest version. This can be done by clicking on the ‘Show Credits & Links’ button for each source.
+Green Field Tool | User Guidance 30 Green Field Tool | User Guidance 31
+
+5. Step 2: Environmental assessment and consideration. This will reduce the range of aspects and potential impacts to be reviewed in Step 2 and focus the
+review.
+monitoring
+5.2 Environmental aspects and impacts
+Once any activities not relevant have been excluded, each environmental aspect and potential impact of mine action
+field activities is reviewed under Step 2. An environmental aspect is an element of mine action activities which can
+5.1 Selecting activities
+interact with the environment. ‘Climate trends’ have been included here since they can directly affect mine action as
+external factors but are not strictly a mine action ‘aspect’. The environmental aspects are listed under the following
+Before starting Step 2, it is possible to screen out or exclude activities which do not apply to the work area under 14 categories:
+ArcGIS® Survey 123 – selecting Aspect Risk/impact
+activities.
+Climate trends How observed and predicted climate changes may affect activities.
+Soil degradation and From the use of machinery and vehicles, detonations and soil stripping, stockpiling and
+erosion replacement.
+Vegetation The removal of vegetation, damage to any retained trees and presence of invasive
+species.
+Wildlife Disturbance and risk of physical injury and loss of habitat.
+Pre-existing pollution Exposure to pre-existing contaminated soil or water.
+Releases to land and water From demolitions, the use of fuel, chemicals or generation of waste and wastewater.
+Generation of waste Including hazardous and non-hazardous waste generated from field activities.
+Resource use Including local water use, equipment and supplies, single-use plastics and land area.
+Excel – selecting activities.
+Emissions to air From demolitions, the use vehicles and equipment, dust and open burning of vegetation
+or waste.
+Noise Including disturbance to livestock, wildlife and the local community.
+Local amenity Covers nuisance to the local community, such as disruption or lack of access.
+Cultural heritage Covers nearby cultural and historical sites.
+Emergency / natural Covers uncontrolled releases due to an emergency.
+disaster
+Local flooding, water Covers increased run-off or ponding and physical barriers or the obstruction of water
+courses courses.
+Green Field Tool | User Guidance 32 Green Field Tool | User Guidance 33
+
+ArcGIS® Survey 123 –
+environmental aspects
+categories.
+For each environmental aspect, the environmental risk is then considered by estimating the duration, likelihood and
+severity of the environmental impact associated with each environmental aspect.
+5.3 Assessing risks to the environment
+For each aspect and potential environmental impact of mine action activities, the risk to the environment needs to
+be reviewed. This is done in Step 2 by considering the likelihood and severity of each impact. First the GFT user must
+consider whether the impact will occur in the short-term or long-term:
+• Short-term impact: this means that the consequences are immediate, and would typically take place during field
+operations, such as smoke or air emissions during demolitions.
+• Long-term impact: this would evolve over time, and more likely to cause an effect after field operations have
+Excel – example of ended, such as erosion or contamination of soil.
+environmental aspects
+categories and impacts Next the GFT user considers whether the effect of the impact will be temporary or permanent:
+(full list not shown).
+• Temporary impacts: these do not cause a permanent change to people’s health, the character of the land or
+environment, for example noise disturbance.
+• Permanent impacts: these can cause irreversible change, such as the loss of important and irreplaceable habitat or
+loss of nutrient- or carbon-rich soils.
+The likelihood (or probability) of the impact occurring and severity (or magnitude) of each impact if it occurs is
+then estimated by the GFT user. This should take into consideration the environmental profile and sensitivity of the
+area and whether the impact happens in the short or long term and could cause a temporary or permanent impact.
+This can include:
+1. whether people are living nearby or likely to visit the area;
+2. whether there are nearby local water features or wells;
+3. whether soils are vulnerable to compaction or erosion;
+4. whether there are locally or regionally important wildlife areas and habitats; or
+5. whether an area is considered vulnerable to climate change risks.
+Once the likelihood and severity of an impact is selected, the GFT assigns a risk level using a simplified risk
+assessment matrix for each impact (see screenshot overleaf). The following three risk levels are used:
+• High – unacceptable and immediate mitigation is required
+• Medium – requires monitoring and mitigation planned
+• Low – monitor and keep under review, with mitigation remaining an option
+Green Field Tool | User Guidance 34 Green Field Tool | User Guidance 35
+
+ArcGIS® Survey ArcGIS® Survey 123 – selecting
+123 – example mitigation options, then checking if
+aspects and in SOP and reviewing any residual
+impacts, and risk level.
+assigning risk.
+Excel - example
+aspects and
+impacts, and
+assigning risk.
+The risk matrix and the definitions used are given in Annex F.
+5.4 Mitigation measures
+Mitigation measures must then be selected and assigned to manage and reduce the risk of environmental harm.
+Lists of mitigation options are provided in the GFT but these can be revised and amended where required.
+Refer to the screenshot from the ArcGIS® Survey 123 overleaf for an example entry. The same information is
+The full list of mitigation options is not copied in this guidance and is best reviewed in the ‘mitigation options’ tab captured in the Excel format.
+in the standalone GFT Excel template.
+It is important to note the following:
+Select all mitigation measures which apply and then consider what residual risk may still remain. The GFT does
+not calculate these residual risks and the GFT user must review each risk and estimate whether the risk has been • Any further measures in place but not given elsewhere should also be recorded.
+managed by the measures proposed or in place. If the risk has been managed, the risk level can be lowered. • In some cases, there will be measures which could be applied but are not possible. There may be many constraints
+which limit or prevent the consideration or implementation of certain measures, including the availability of
+expertise and resources, timeframes, access, cost or permissions. By recording these constraints, it can help
+The mitigation measures will not always be able to reduce the risk level and it is important to record where this is
+identify what may need to happen to overcome barriers.
+the case. Also record whether the measures are captured in Standard Operating Procedures.
+In ArcGIS® Survey 123 this is done under the ‘Further measures’ for each group of aspects – refer to the screenshot
+from the ArcGIS® Survey 123 overleaf. The same information is captured in the Excel format.
+Green Field Tool | User Guidance 36 Green Field Tool | User Guidance 37
+
+ArcGIS® Survey
+123 – identifying
+any further
+measures for each
+group of aspects
+5.5 Compensation or enhancement opportunities
+There may also be opportunities and additional measures which could be implemented or recommended to
+make further improvements - or enhancements – which benefit the local community and environment. These
+opportunities are recorded in Step 2 under ‘Further measures’ and appear in the Risk Register (see section 6.1).
+The opportunities are not restricted to just Task Areas and may cover wider benefits to the community, such as
+improvements in soil quality, habitat, wildlife conservation, the protection and quality of water resources, air
+quality, reduction in the use of chemicals (such as pesticides, fertilisers), the control and management of waste and
+measures to reduce emissions of greenhouse gases.
+• Compensation is a way to achieve a neutral or beneficial environmental impact by restoring or improving the
+environment in response to any damage or loss caused by mine action activities.
+• Enhancement is an action which provides net benefits for the environment over and above the requirement to
+avoid, mitigate or compensate for any adverse environmental effects.
+Any opportunities must be explored as early as possible and can be varied. They can include opportunities to address
+climate change or historic environmental impacts caused by conflict or land use practices, such as loss, decline
+and removal of natural habitat or pollution. Compensation and enhancement initiatives will require input from
+environmental experts and stakeholders and may need to be adjusted over time.i Community engagement aids
+A list of suggestions which are provided in the GFT are included in Annex G.
+understanding of the local
+environmental context
+i. Refer to section 6.9 and Annex G of the TNMA 07.13.
+Credit: Norwegian People´s Aid
+Green Field Tool | User Guidance 38 Green Field Tool | User Guidance 39
+
+6. Using outputs from the Green Field Tool
+Note that without longer-term monitoring in place, it is not possible to assess the outcome and success of
+6.1 Risks register and issues log
+environmental compensation or enhancement measures. It may take several years for some schemes to establish
+and for the benefits to be fully realised. This could include pilot projects which are trialled, and then adopted
+Completing Step 2 generates the components of a risk register and issues log. The risk register and issues log elsewhere. However, a qualitative estimate of the scale of the potential benefits can be noted, using the following 3
+summarises the environmental risks and measures in place, records enhancement or compensation initiatives and categories:
+the overall issues and outcomes. The risk register (see the example below) includes and requires the GFT user to:
+• small scale and localised benefit, typically restricted to the task area or immediate surroundings;
+1. record and list any compensation or enhancement measures applied or planned; • wider benefit, extending to the broader community, with local-level engagement, buy-in and knowledge sharing; or
+• larger and multiple benefits, including contribution to landscape-scale restoration, community projects or far-
+2. record if the controls in place are effective and whether further action is required;
+reaching awareness raising.
+3. qualitatively estimate the scale of any benefits; and
+4. estimate and record the overall outcome.
+To record the overall outcome, following 5 categories are given:
+ArcGIS® Survey
+123 – risk register
+example, partially • Limited measures in place and no change or reduction — options to reduce risks may be not be viable, available
+completed.
+in risks. or unaffordable.
+• Measures in place and risks minimised. — all reasonable options in place yet residual risks
+remain.
+• Measures in place, risks minimised and some — all reasonable options in place and some additional
+compensation measures in place. measures, such as existing debris or waste clearance.
+• Additional enhancement measures in place and — or risks minimised and well-planned initiatives in place,
+overall net benefits anticipated (longer-term with aftercare provisions.
+monitoring required to assess).
+• Work stopped / not proceeding at this stage. — decision to temporarily halt or suspend work based on
+environmental considerations.
+6.2 Using the GFT outputs
+There are benefits from the reporting of environmental data, assessments and any action taken in handover reports.
+It enables environmental information to be provided to landowners and others, to inform them of future land use
+considerations and can set out any land management or aftercare requirements to maintain any planting scheme or
+environmental initiatives implemented.
+It can also enable the sharing of environmental datasets with collaboration partners and minimise the duplication
+Green Field Tool | User Guidance 40 Green Field Tool | User Guidance 41
+
+7. Incident reporting
+of data collection, as well as supporting awareness-raising across local and wider communities.i The overall
+7.1 Overview
+outcome of the GFT should be:
+• to avoid and minimise negative impacts; The IMAS 07.13 requires environmental or climate-related incidents to be recorded and records maintained. As set
+• to enhance the opportunities for positive outcomes; out by the TNMA/07.13, consistent reporting about environmental incidents or events is important since it ‘helps
+• to document the actions and controls put in place;
+to understand how and why something happened, and what may be put in place to prevent it happening or minimise the
+• to enable data to be shared with all relevant parties;
+impact in case it happens again.’i
+• to improve the sustainability of land release; and
+• to support climate resilience in communities.
+An environmental incident includes any situation which has caused harm - or has the potential to cause harm - to
+people, property or the wider environment. This includes extreme weather and climate-related events, which may
+The scope of the GFT does not cover the assessment of long-term impacts following land release and post clearance have impacted mine action site-based activities, communities and infrastructure; but it can also include incidents
+land use. However, the GFT outputs set out the baseline environmental conditions prior to mine action activities, like oil spills or waste.
+what was done to minimise impacts during mine action activities and can help to inform decisions and promote
+sustainable land use practices. Environmental incidents which may not relate directly to a mine action activity should also be recorded since the
+cause and extent may need investigating and correction action taken. In some cases, other parties - such as the
+authorities, landowners, occupants/users and the local community - may need notifying and mine action activities
+6.3 Organisational environmental reporting
+themselves ruled out.
+Outputs from the GFT can also be used for wider environmental reporting for the mine action organisations
+7.2 Incident reporting template
+and included in relevant documentation and dialogue with national authorities, such as handover reports. A set
+of suggested reporting indicators forming part of an environmental reporting framework has been developed
+in tandem with developing the GFT, which is intended to help standardise how environmental performance is An Incident Reporting template is provided for ArcGIS® Survey 123 and is included in the standalone Excel version.
+reported. The templates align with the recommendations of the TNMA/07.13 and includes standard responses. Open text
+boxes are also provided to allow more detailed or specific response and external links to be added where appropriate.
+The indicators cover 8 main topic areas and outputs from the GFT would inform specific indicators on ‘policy’ and As set out in TNMA/07.13, an incident or near-miss report should include:
+on ‘land release outcomes.’ Further details are provided in the Environmental Reporting Indicators report, which is
+available on the resources page of the EIMA working group website: 1. date, time and location;
+resources. 2. involved parties;
+3. person(s) witnessing or reporting the incident or near-miss;
+4. nature of the event (incident or near-miss);
+5. description and root cause, including weather events;
+6. extent and severity of the incident;
+7. detail on what has been impacted;
+8. detail on any visual or olfactory signs of contamination (colouration, odours, sheens);
+9. any corrective or preventive action to be taken;
+10. contact details of reporting party (in case any follow-up questions are needed);
+i. Refer to Annex H of the TNMA 07.13 i. Refer to Annex I of the TNMA 07.13
+Green Field Tool | User Guidance 42 Green Field Tool | User Guidance 43
+
+11. photographs – to show evidence of the nature and extent of the incident;
+12. detail on external parties who have been notified – for example, landowner, occupants/users, community
+leaders, authorities; and
+13. follow-up and completion status.
+It is can be difficult to qualify the extent and severity of an incident, without a full investigation, interpretation of
+the results and specialist knowledge. The incident report assigns the following categories to qualitatively record the
+extent and severity and simplify reporting:
+• uncertain
+• localised, minor
+• localised, severe
+• local community affected, minor
+• local community affected, severe
+• regional-scale
+In the follow-up actions, the incident report should include details of any further investigation needed to quantify
+the cause, extent or severity of the incident.
+The GFT should be applied
+as early as possible, before
+survey or clearance starts
+Credit: Norwegian People´s Aid
+Green Field Tool | User Guidance 44 Green Field Tool | User Guidance 45
+
+8. Implementation and roll-out
+‘Top-down’ approach
+Actors: Governments, national mine action
+authorities, donors, mine action operators
+8.1 Overview Top-down approaches to increase awareness and
+improve environmental commitments:
+ International and national legislation
+The purpose of applying the GFT is to improve the environmental management and the environmental outcome of  Donor requirements
+ Project and contract obligations
+an organisation’s work. Bottom-up approaches to increase awareness and
+ ‘Buy-in’ from leadership
+improve environmental commitments:
+ Co-ordination and integration with other sectors
+The rollout and implementation of the GFT requires an organisational commitment on environmental stewardship.  Harness local knowledge  Targeted communication
+ Train, and share skills and ideas
+In alignment with IMAS 07.13 requirements, this should be supported by a climate and environmental policy and an
+ Recruit volunteers and champions, enthusiast
+environmental management system. advocates for environmental improvements
+ Implement standard operating procedures
+ Highlight successes and learn from mistakes
+The GFT has been developed for use by mine action staff who are not environmental specialists but it does
+require some training on the tool and basic environmental awareness. Whilst some organisations may have some Actors: Mine action operating staff,
+local community stakeholders
+resourcing in place to address climate and environmental issues, other organisations will need to identify and
+collaborate with environmental partners for support. Since the GFT is free to use and has been provided as open ‘Bottom-up’ approach
+source, the opportunity exists for engagement and cross-sector learning. Liaison within and between organisations
+Figure 8 – Approaches for increasing awareness and environmental commitments in mine action
+is important and is encouraged. This can be done through networks such as the Environmental Issues and Mine
+Action Working Group meetings,i or country-level environmental working groups.
+For successful roll out and implementation of the GFT, environmental management and stewardship should be a
+8.2 Outline roll-out strategy
+prioritised and resourced. A dedicated focus on improving overall environmental management and some changes
+in the way mine action is carried out are needed. This can be achieved using both a ‘top-down’ and ‘bottom-up’
+approach (see Figure 8). A recommended rollout strategy for the GFT is divided into the following stages:
+A ‘top-down’ approach is recognised as a precondition of good environmental practice,ii with leadership and Stage 1 Stage 2 Stage 3 Stage 4 Stage 5
+Setting the Integrationinto Training and Continued Sharing good
+commitment to ensure that roles and responsibilities are assigned. The ‘bottom-up’ is equally important, involving
+foundations programmes rollout support practice
+mine action operating staff and local stakeholders who understand local needs and how improved environmental
+practices can be best implemented.
+Stage 1 - Setting the foundations for organisational rollout by building environmental awareness and
+understanding of the GFT
+To succeed in the implementation of the GFT tool and improve environmental management in mine action
+operations, staff across the organisation should understand the GFT relevance and why it is important and
+understand the expected developments and outcomes from GFT implementation.
+The background and rationale of the GFT must be well explained, as well as the potential benefits and outcomes.
+To apply changes in an organisation both internal and external factors can help to “push” or motivate change (see
+Table 2). As with all change, expect some resistance and prepare for how to overcome it.
+i. See 
+ii. Such as ISO 14001:2015, the internationally recognized standard for environmental management systems, 
+Green Field Tool | User Guidance 46 Green Field Tool | User Guidance 47
+
+Internal factors • Environmental and climate ambitions are a part of overall strategies and policies.
+• The tool is made a requirement for programmes to use.
+• Communicate about the potential benefits for the environment, for people (education and
+beneficiaries), for cost efficiency and for being innovative.
+drive continued improvement. Also refer to section 8.4 below.
+External factors • Increased donor requirements on mainstreaming the environment in organisations and projects
+and trends and documenting the environmental outcomes and/or climate resilient outcomes for affected
+communities. It is also key to understand how any ‘new’ data generated by applying the GFT can be used either for internal
+• The updated IMAS 7.13 sets clear requirements for how operators, national authorities and
+environmental management or to inform local and regional authorities and to identify enhancement opportunities
+donors should apply environmental management. The GFT will support the organisation in
+in affected communities. Programme management ownership is important in this regard.
+becoming IMAS 7.13 compliant.
+• Improved and strengthened environmental legislation and the need for organisational liability
+and documentation. Stage 5 - Sharing of good practice, results, challenges and opportunities internally and externally
+• Increased requirements and public/society expectations to a minimum standard for
+sustainability.
+The aim should be for the GFT to become an integral part of a programme or organisation and it is important to
+communicate internally the status of the rollout, the benefits and any potential negatives from its implementation.
+Table 2 – Internal and external factors to motivate change Sharing the data collected should be encouraged and used to identify possible areas of improvements in mine action
+practices or to improve the GFT itself.
+Stage 2 - Integration of the GFT into programmes
+A community of practice and sharing is encouraged across mine action to improve environmental considerations
+This stage involves identifying how the GFT can become an integral part of the operational mine action work. This overall and document results, reduced impacts and identify environmental enhancement opportunities. The GFT
+will vary from organisation to organisation but the more seamless and easier to use, the greater the likelihood of information gathered should be shared with other mine action stakeholders – especially as part of the handover
+successful adoption. It is recommended to discuss GFT application and use with the actual users and those that will process with national authorities or in discussions on planning and the prioritisation of tasks. The GFT outputs
+manage and “own” the GFT in the programmes/ projects. can also be shared with other relevant authorities and broader among the humanitarian, environmental and
+development actors and donors.
+Stage 3 - Training and rollout
+8.3 Training needs
+The GFT has been developed for use by staff with a non-environmental background but will still require training
+on environmental screenings and management and the use of the tool. Training should provide people with a good
+general understanding of climate change, environmental degradation and biodiversity loss, key challenges specific It is recommended that training should comprise the following:
+to a country or region and why and how actions can be taken to better protect the environment. Training on the GFT
+should also cover the assessment and evaluating of environmental risks, risk management and the selection and 1. Training of the dedicated Environmental Advisor/Focal Point – this should be an individual with overall
+implementation of mitigation measures. Also refer to section 8.3. responsibility for the GFT rollout and implementation and preferably with an environmental background. This
+individual should allocate time to prepare and deliver trainings within the organisation and be responsible for
+The timeframes for roll-out of the GFT will depend on the size of organisation and resources available but should overseeing the overall rollout.
+ideally include a combination of online and in-person training. In-country support or regional ´train the trainer
+workshops´ are needed to ensure that the GFT is understood, adjusted as needed and properly implemented and 2. A training the trainer programme of local GFT environment champions. These individuals should receive more
+with a clear mandate and understanding of roles and responsibilities. specific training to support the wider training of programme staff on use of the GFT.
+Stage 4 - Continued support and regular Quality Assurance (QA) and monitoring 3. Training to all staff that will directly use the GFT. Based on experience from NPA’s GFT trials and the use of
+other environmental screening tool training projects within the humanitarian sector,i it is advised that training
+Continued support will be needed for programmes rolling out the GFT. Initially, programmes should be supported is based on a “learning-by-doing” approach and the tool applied on relevant case studies in training sessions.
+by an environmental advisor or “super-user” of the GFT, with regular feedback on completed screening assessments
+and reports. An assigned GFT contact person is recommended within the organisation to provide such support and
+i NEAT+ capacity-development project
+Green Field Tool | User Guidance 48 Green Field Tool | User Guidance 49
+
+Training Specific and practical GFT training is needed on how it can be applied and its relevance in a
+country context. This can be done through online trainings, regional workshops and in-country
+follow-up visits from internal or external experts.
+Resourcing Time for training has to be set aside, as well as adequate resources to support on the GFT rollout
+A summary of a suggested structure for training and other requirements for a “train-the-trainer” programme and
+and implementation. This requires management buy-in and ownership.
+feedback to senior management is given in Table 3.
+Community Engaging the community through community dialogue, non-technical survey or impact assessment
+Training structure Training-the-trainer Senior management dialogue etc, is essential to gather information on the community’s perceptions and experiences of
+• Part 1 - Theory and background • A tailored training plan and content • Keep senior management informed support environmental issues, challenges and opportunities. Solutions and enhancement opportunities
+on climate and environment, is developed. on the GFT training and the feedback the data should be locally-led.
+relevant standards in mine action from trainees. collection and
+and environmental screenings and • Include specific guidance and assessments This can be done by integrating relevant questions into community engagement and non-technical
+assessment requirements. training on ‘how to train and teach’. • Advised to secure ownership of survey and can inform Step 1 and Step 2 of the GFT process. Assessments should be based on
+responsibility and the prioritisation of a combination of available information, including community feedback and open source data
+• Part 2 – Practical application of • Refer to the UNEP/OCHA Global implementation. platforms.
+the GFT on relevant case studies and Training template – Training the
+feedback. Trainer (see section 9.2). Available Regional A tailored approach will provide the operational management team with relevant information to
+at or district take informed decisions on work plans, stand down periods and provide feedback to the national
+• Part 3 - Findings and uploads/2024/11/Module-12-PPT.pptx approach authorities.
+recommendations – examining
+mitigation measures, enhancement Flexible, local The GFT can be adapted to fit specific programmes and cultural or operational contexts of
+options and prioritisation needs. context and a country and organisation. It should be flexible, as user friendly as possible and relevant.
+language Programmes will need to support in the customisation of the GFT templates and process. The GFT
+should be translated into local languages to ensure that all relevant staff can use it and that the
+Table 3 – Suggested training structure and other requirements
+terminology used is understood. Support with translating the tool may be needed as it includes
+several terms and concepts that might be difficult to translate directly.
+8.4 Support, checks and quality assurance
+Continued Feedback from field staff and communities should be encouraged and used to refine, improve and
+development keep the GFT relevant.
+Once staff are trained and implementation is in place, on-going support will be needed and quality assurance checks
+and
+carried out. This should be led by the GFT Lead within the organisation, supported by for instance Monitoring and
+improvement
+Evaluation staff. Such checks are needed to review compliance, quality and the consistency of reporting across the
+organisation. Technology and The use of technology, such as drones, open source data and satellite mapping can be integrated
+data into the data collection methodology where possible to improve the overall scope, reliability and
+completeness. Several mine action organisations have access to data through ArcGIS® Life Atlas
+Specifically, the continued support and quality assessment checks should cover:
+and open source data can also be accessed through the GFT-OSA.
+• technical assistance;
+• support with translations of any new guidance or training material into local languages;
+• providing a platform for feedback and suggestions for improvements; Table 4 – Challenges and lessons from NPA pilots, 2023-2024
+• providing refresher training as required;
+• providing feedback on the GFT outputs, how the data has been used and the benefits; 8.5 Challenges and lessons learnt to date
+• updates on what has been working well and where challenges may still remain; and
+• support of a network of local environmental champions, with the resources and training to share good practice and
+Lessons have been learnt and challenges identified from the pilot trials conducted within NPA programmes in 2023-
+disseminate to others.
+2024. These are summarised in Table 4.
+Green Field Tool | User Guidance 50 Green Field Tool | User Guidance 51
+
+9. Guidance and training materials
+Module theme Description
+Climate change This module focuses on climate change adaptation and how this integrates with disaster
+adaptation and disaster risk reduction (DDR) strategies. The module highlights the need for a comprehensive
+9.1 Overview risk reduction understanding of risks and vulnerabilities, which contributes to climate resilience of
+communities. It is relevant for GFT users and can support the understanding of how
+actors can be more readily prepared for climate-related risks.
+Engagement in environmental responsibility across the wider humanitarian sector has matured and there is a range
+of environmental guidance and training material available. Although not specific to mine action activities, this
+Sustainable land This module introduces sustainable land management and is relevant for GFT users to
+cross-sector guidance remains broadly relevant. This includes the Global Training Templates,i developed by UNEP/ management in better understand land practices and how this may relate to post-clearance land use. It
+OCHA Joint Environment Unit which can be used for environmental awareness and theme-focused environmental humanitarian action includes a case-study from mine action and conservation in the Okavango River Basin in
+Angola by The HALO Trust.
+training relevant topics addressed by the GFT (see section 9.2).
+9.2 UNEP/OCHA Global Templates Greenhouse gas This module focuses on the impacts of greenhouse gas (GHG) emissions and strategies
+emissions and sustainable for reducing these emissions. The GFT does not cover travel, procurement policy, energy
+energy management use and GHG accounting but this is relevant to GFT users interested in GHG emissions
+The Global Training Templates were developed to support the development and delivery of environmental training. reduction and energy management options for the organisation.
+A summary of the available modules and their relevance in supporting wider environmental awareness for GFT
+Managing environmental This module focuses on supply chains in terms of their environmental impact covering
+users is given in Table 5.
+impacts of humanitarian ‘green’ logistics, sustainable procurement, resource efficiency and innovative practices.
+supply chain This is relevant to GFT users needing to learn more on mitigating impacts through for
+example adding environmental criteria in the procurement process and selecting more
+Module theme Description sustainable products, equipment and services. This can relate to expensive purchases -
+such as vehicles - as well as to cheaper purchases - such as sandbags.
+Introduction to This provides an overview on why integrating environmental considerations into
+Environment in humanitarian action is important. As a user of the GFT, this introduction sets out guiding
+Humanitarian Action principles and background knowledge. Environmental This provides background on the importance of integrating environmental
+mainstreaming and considerations into humanitarian programmes and how this can be done effectively and
+(EHA)
+financing in humanitarian monitored. Case studies are included. This module is relevant to GFT users needing
+Environmental screening This is an introduction to environmental screening tools, including key differences
+programmes to learn more on leveraging financing, managing associated risk and partnerships for
+in humanitarian action between the concepts and methodologies. Since the GFT is itself an environmental
+sustainable financing on environmental mainstreaming.
+screening and assessment tool, this provides background understanding on tools used
+across the wider humanitarian sector and practical examples.
+Cross-sectoral This module underlines the importance of ‘cross-sectoral collaboration and effective
+collaboration and knowledge sharing’ for best results, without duplicating work. This is directly relevant to
+Sustainable waste This module explores ways in which humanitarian actors can apply sustainable waste
+knowledge sharing GFT users, covering partnerships to address challenges in environmental management.
+management in management practices, explains the different sorts of waste and their impacts on the
+humanitarian contexts environment and health. It also gives practical steps to address waste challenges and
+possible solutions. Community engagement This module covers local community engagement and its importance for the promotion
+and capacity building in of sustainability, strengthening of local capacity and development of effective
+humanitarian action monitoring and evaluation frameworks. The GFT is reliant on constructive community
+Sustainable water This module focuses on the need for humanitarian actions to establish sustainable water
+dialogue and this is directly relevant to GFT users to further understand the local
+resource management in resource practices. It has less relevance for mine action but provides case studies and
+environmental context, how this is an obligatory supplement any open source data and
+humanitarian action practical examples on water resource use.
+the importance of local engagement.
+Training of trainers This module gives guidance on the ‘training of trainers’ to equip trainers with the right
+skills to effectively train others, with a special emphasis on the environmental context.
+This is relevant to GFT users involved in training operations personnel and others.
+Table 5 – A summary of the UNEP/OCHA Global Training templates, and relevance for mine action, continued overleaf.
+i Developed under the ‘Localisation and Integration of Environment in Humanitarian Action’ project, and available at
+
+Green Field Tool | User Guidance 52 Green Field Tool | User Guidance 53
+
+Annex A - Glossary
+Term Definition
+9.3 Other online training and guidance
+Access route Includes the widening of an existing route or creation of new routes to access task areas with
+vehicles and machinery. May also include existing routes where a significant increase in use is
+Examples of other introductory and theme-focused training resources on the environment and climate change are anticipated due to mine action activities.
+listed below:
+Acute risk A risk which manifests in the short term and which can cause immediate harm.
+• Adapting to the impacts of the climate and environmental crises - International Council of Voluntary Agencies
+Biodiversity The variety of all living organisms within an ecosystem. Ecosystems with low biodiversity tend
+(ICVA)i
+to be less able to recover from impacts. Areas rich in biodiversity may include many rare and
+• Becoming a Climate-Smart Organisation - Climate and Resilience Academy (CARE)ii
+endangered species.
+• Embracing the Leadership of Local Actors and Communities in Climate Action - ICVAiii
+• How to mainstream environment issues in office management (field and HQ) – DG ECHOiv Camp Temporary overnight accommodation established for mine action staff for the duration of field
+• Nature-based Solutions for Disaster and Climate Resilience - PEDRRv activities.
+• Practical tools and initiatives for reducing environmental impact in humanitarian action - CVAvi
+• United Nations Climate Change UNCC: e-Learn modules – various themes covering circular economy, climate Chronic risk Generally, a risk which manifests over a long period of time and can cause harm for a long period.
+change, and green economyvii
+Climate change Long-term shifts in temperatures and weather patterns.
+Climate Plausible descriptions of the future climate and possible changes, based on assumptions about the
+projections rising levels of greenhouse gases.
+Climate-related Climate change can impact areas affected by explosive ordnance contamination in several ways.
+impacts Events such as flooding and heatwaves can increase the risks posed by contamination; remobilising
+explosive ordnance; degrading and affecting the stability of explosive ordnance; or triggering
+landscape fires. People living in communities affected by contamination will also be exposed to
+climate risk and its compounding impacts.
+Climate risk Climate-risk profiles and fact sheets are available for several countries and can be used to
+profile understand and identify the key issues. Consultation with government and local agencies is also
+essential, followed by community engagement to better understand issues facing communities and
+their concerns (refer to Annex F of the TNMA 07.13).
+Climate-smart Measures to adapt and build resilience to climate change and reduce and/or remove greenhouse
+gas emissions.
+Community Local community engagement is important to plan and support environmental initiatives and can
+i engagement enhance cultural relevance, ownership and its sustainability. It can help to ensure that interventions
+are shaped by community needs and inputs, which should foster collaboration, build trust and
+ii 
+empower communities. It should cover questions around environmental issues and expectations,
+iii 
+including knowledge on biodiversity and ecologically-sensitive habitats, location and use of water
+iv 
+resources, land use and changes, access routes, cultural heritage, waste and pollution, air quality,
+v - based on Sphere Unpacked: Nature-based Solutions for Climate Resilience in Humanitarian Action (Sphere, FEBA, IUCN, PEDRR, EHAN, IFRC)
+farming practices and use of agrochemicals and local concerns (refer to Table 5 of the TNMA 07.13).
+
+vi 
+vii 
+Green Field Tool | User Guidance 54 Green Field Tool | User Guidance 55
+
+Environmental Part of an organisation’s management system used to develop and implement its environmental
+management policy and manage its environmental aspects.
+system
+Compensation Actions where negative impacts cannot be avoided or mitigated and compensatory measures
+might be appropriate. Compensation should be seen as a last resort, when all other mitigation Greenhouse gas Atmospheric gases, responsible for causing global warming and climate change. The major
+options have been exhausted. emissions greenhouse gases are carbon dioxide (CO2), methane (CH4) and nitrous oxide (N20).
+Deforestation Human-induced loss or removal of forests and conversion to non-forested land Harm An adverse impact on people, the environment, infrastructure, property, animals or business.
+Ecosystem The interaction of plants, animals and micro-organisms and their non-living environment. Hazard A potential source of harm.
+Ecosystem- Strategies which use nature-based solutions and ecosystem services to adapt to the effects of Invasive species Animals, plants, insects or aquatic species, which can cause harm where they are not native.
+based climate change. They can cover a wide range of ecosystem management activities, such as the Invasive species are an increasing problem and can damage habitats and have an economic impact.
+adaptation sustainable management of forests, grasslands and wetlands, that increase the resilience and
+reduce the vulnerability of people and the environment to climate change.
+Land (or soil) Land (or soil) in decline, with loss of biodiversity, function and ecosystem services that cannot fully
+degradation recover unaided.
+Ecosystem This covers the wide range of functions which an ecosystem provides for free, such as water
+services filtration and storage, clean air, pollination, nutrient cycling, carbon storage, natural resources etc.
+Land Relates to land's capacity to produce biomass and deliver a range of ecosystem services.
+productivity
+Enhancement Actions which provide net benefits for the environment over and above the requirement to avoid,
+ND-GAIN index The ND-GAIN index score summarizes a country's vulnerability to climate change and other global
+mitigate or compensate for any adverse environmental effects. The goal of enhancement is to leave
+score challenges in combination with its readiness to improve resilience. Higher ND-GAIN scores are
+the environment in a better condition than before the project or activity began.
+better and lower scores means a country will be more vulnerable to the effects of climate change.
+Recording the ND-GAIN score helps to understand the country's vulnerability in a global context.
+Environmental Element of an organisation’s activities or products or services that interacts or can interact with the See: Notre Dame Global Adaptation Initiative, 
+aspect environment
+Mitigation An action to avoid or reduce an adverse impact.
+Environmental Any adverse change or disturbance to the environment, including the deterioration of natural measure
+degradation systems.
+Protected In some countries, certain species may be protected by law, meaning that it can be illegal to kill,
+Environmental All the direct and indirect effects on natural resources, including energy consumption, water use, species injure or capture certain birds or animals or to pick or damage certain wild plants.
+footprint generation of waste, greenhouse gas emissions and pollution.
+Remediation An action to clean-up or rehabilitates the environment.
+Environmental Includes the framework of policy, rules and regulation used to protect, manage and control risks to
+governance human health and the environment.
+Risk A function of the severity of a hazard and the likelihood that the hazard will cause harm.
+Environmental A change to the environment, whether adverse or beneficial.
+Sustainable Land use that serves the agricultural needs of people, and is protective of ecological systems.
+impact
+agriculture
+Environmental A formalised process of identifying, predicting, evaluating and mitigating the environmental
+Threatened and Species that are listed in the IUCN Red List of Threatened Species categories as critically
+Impact effects of an activity or project. There is wide global variation on regulatory frameworks regarding
+endangered endangered, endangered, or vulnerable.
+Assessment environmental impact assessments, with legal requirements often embedded into national planning
+species
+(EIA) and development policy. Early consultation with regional authorities will be required to determine
+whether the scale and nature of mine action activities are subject to EIA regulations and if so, what
+Vulnerability Sensitivity to harm and the capacity to cope.
+level of detail for an assessment is required (refer to section 5.1.1 of the TNMA 07.13).
+Green Field Tool | User Guidance 56 Green Field Tool | User Guidance 57
+
+Annex B - FAQs
+FAQs on using the Green Field Tool
+8. How does the GFT relate to the IMAS 07.13 and its Technical Note?
+The IMAS 07.13 sets out the requirement for operators, national authorities, donors and other mine action
+1. When should the GFT be used? stakeholders on environmental management and climate change. The GFT can be used as an assessment tool
+The GFT should be used as early as possible in the design, planning and prioritisation process so that interventions supporting the mine action entity to become IMAS 07.13 compliant on a variety of IMAS requirements through its
+or mitigation measures can be planned for and integrated during the implementation of field activities. use.
+2. Who should use the GFT? 9. How can the risk of climate change or extreme weather events be managed in the GFT?
+The GFT can be used by any mine action organisation, including both mine action operators and mine action The likelihood of climate change or an extreme weather event taking place cannot be controlled by mine action
+authorities. The GFT has been simplified – as far as possible – to encourage use by mine action teams with some entities but steps can be taken to better understand regional vulnerabilities, the consequences and subsequent risk
+environmental awareness training, but not specialists. to either mine action programmes or local communities. By identifying the risks, mine action organisations can
+adapt and prepare, putting in place measures to increase resilience in the event of climate-related incidents, such as
+3. What is the main purpose of the GFT? flooding or extreme heat.
+The GFT is designed to highlight and raise awareness of environmental issues linked to mine action and ensure that
+measures are in place to avoid and minimise environmental impacts. 10. How long does the GFT take to complete and does it require additional resources?
+The time and resources needed to complete the GFT will vary, depending on the location, related environmental
+4. Are the outputs of the GFT the same as an Environmental Impact Assessment? issues and the experience of staff using the tool. In the first instance, more time will be needed to complete the GFT
+The GFT is an environmental assessment screening tool to qualitatively identify key issues and take steps to for an area of interest, supported by information already collected by non-technical surveys and consultation. This
+minimise the impacts. It is not an “Environmental Impact Assessment”, which is a comprehensive process, typically will reduce with experience and repeat use.
+requiring specialist surveys and detailed evaluation of a wide of environmental topics.
+5. Can I modify the environmental profile questions and responses?
+Questions and the responses can be amended but this may affect how the GFT produces the environmental
+summary profile of higher, medium or lower issues. It is important that each question is checked and that changes
+are only made by the Environmental Focal Point or co-ordinator. Minor changes to the terminology used will not
+affect how the environmental summary profile is produced.
+6. Can I modify the suggested mitigation, compensation or enhancement measures?
+The mitigation, compensation or enhancement measures can all be amended to fit with a regional context or
+challenges. It is important that advice is sought to check whether these remain valid and that changes are only made
+by the Environmental Focal Point or co-ordinator.
+7. How should the GFT outputs be used?
+Outputs from the GFT should be part of land release and handover documentation to inform stakeholders of the
+actions taken and any outstanding environmental issues. The environmental data collated can be used to raise
+issues, encourage dialogue and in some cases help identify where priority mine action may be required in areas
+more vulnerable to climate-related issues. It can also be used for planning and design of new projects and donor
+reporting.
+Green Field Tool | User Guidance 58 Green Field Tool | User Guidance 59
+
+FAQs on the Open Source Application (OSA)
+8. Can I access the data in the OSA through ArcGIS?
+Most data in the OSA is not available in the ArcGIS Living Atlas but where it is, links are available via the ‘Credit &
+1. Why was the GFT Open Source Application developed? Links to Data’ button. You will also find links to download the data for your own analysis but please note that in both
+There is a large array of open source data (OSA) which can be useful to help establish an Environmental Profile for cases the data may not be formatted in the same way as the OSA.
+an ‘area of interest’ but it can be difficult to navigate. The OSA aims to bring together only the most relevant datasets
+and simplify their interpretation. 9. What copyright and licence issues apply?
+The OSA is a non-commercial product and all data comply with relevant licensing restrictions. Users must ensure
+2. Will the OSA provide all the information needed to complete the environmental profile for that they also comply with any copyright and licence restrictions from the data providers.
+my area of interest?
+The data in the OSA will not provide all the information needed to complete the environmental profile but it can 10. Any other questions or queries?
+help to highlight high level information and vulnerabilities at an early stage which can then inform the design of If you have a question about the GFT-OSA that hasn’t been answered, or have suggestions on additional datasets to
+mine action operations. Global open source data has limitations and must be supported by other sources, including add please email gft@npaid.org or contact@ceobs.org.
+field visits, consultation with local communities and expertise.
+3. Can I import a polygon in the OSA to define my area of interest?
+At present, the OSA does not support user-imported polygons.
+4. Can I search for my Area of Interest with coordinates?
+You can search for your ‘area of interest’ in the search bar with coordinates, formatted as longitude, latitude. You
+may need to swap coordinates around to search for your location in the OSA. Once entered, make sure the location is
+selected from the ‘dropdown list’ and not by clicking on the icon.
+5. Can I download the data layers for my Area of Interest?
+You cannot download data layers directly from the OSA but clicking the ‘Show Credits & Links’ button will provide
+links to download the data directly from the data provider and ArcGIS Living Atlas links where available.
+You can also download data from any graphs in the OSA in CSV, SVG or PNG formats by clicking the expand button in
+the top-right of the graph.
+6. Is each data layer automatically updated?
+Data layers are not automatically updated and will be updated annually. The date of the last update is given and we
+recommend checking the last version date through the ‘Show Credits & Links’ button for each source.
+7. Where can I find out more about each data layer in the OSA platform?
+The right-hand panel and ‘Credit & Links to Data’ button will bring up some basic information about each data layer.
+Following the links provided will send you to the data provider’s website and a more in-depth explanation on the
+data’s development.
+Green Field Tool | User Guidance 60 Green Field Tool | User Guidance 61
+
+Annex C - Core programme information Annex D - Step 1 Environmental Profile
+Questions
+Subject Topic
+Administrative Organisation name
+information Other administrative information
+Topic / Question Response options / hints
+Funder(s)
+Transboundary isues
+What field activities are taking place?
+Is the programme close to an Set responses provided:
+Environmental Does your organisation have a climate and environment policy?
+international border, which • Possible - within 10km
+management Does your organisation have an environmental management SOP?
+could lead to transboundary • Unlikely - between 10-50km
+policies and
+Have relevant national /regional / local environmental regulations and policies been reviewed and environmental issues? • Highly unlikely - more than 50km
+practices
+understood?
+Have any environment and/or climate change studies been conducted in the project area in the Environmental governance
+past 3 years?
+How effective is environmental Set responses provided:
+Do the national mine action standards include environmental safeguarding measures? governance in the region? • Non-existent
+Has the funder(s) stipulated any specific environmental requirements? • Ad-hoc or poorly functioning structures
+• Functioning structures with limited capacity/representation
+Has the programme ring-fenced / allocated any specific funding for the environment?
+• Representative, effective and functioning system
+Has the programme a dedicated environmental focal point / adviser?
+• Not known
+Has environmental training been delivered to staff?
+Describe the nature of environmental training given to staff.
+Are any necessary environmental Set responses provided:
+Climate risk Has the climate-risk profile for the region been reviewed?
+licences or permits in place? This • Yes
+profile - high What is country's ND-GAIN index score? could include regulations covering any • No
+level
+What is neighbouring country's ND-GAIN index score? plans to plant trees, manage invasive • Not known
+Is the climate vulnerability of country neighbours likely to be a risk to this programme and the species, etc... • Not relevant
+affected communities?
+Has national and regional policy and strategy on climate change been reviewed and understood? What is the overall provision of Set responses provided:
+waste management infrastructure in • Non-existent
+What are the key potential climate-related impacts for the region?
+the region? • Ad-hoc or poorly functioning
+How could mine action be impacted from the climate-related impacts in the region?
+• Functioning, but limited capacity
+Have climate-risks been factored into programme planning?
+• Effective and well regulated
+Stakeholders, Have the relevant national / local environment and climate change authorities been consulted?
+• Not known
+including Have the national mine action authorities been consulted on environmental and climate issues?
+information
+Have other relevant local stakeholders been consulted on environment and climate change issues Conservation and wildlife areas
+required
+(civil society organisations, community members, companies, etc.)?
+Is the area of operation located Set responses provided:
+from NTS and
+Have any stakeholder expectations or requirement about environmental management been in or close to an environmentally • Yes - within boundary
+community
+recorded? sensitive, ecologically important or • Yes - nearby, less than 2 km
+engagement
+Summarise any environmental concerns which may have been highlighted from the consultations protected area? • Yes - between 2 to 10 km away
+carried out to date. • No - not within 10 km
+• Not known
+Also provide further detail as appropriate.
+Green Field Tool | User Guidance 62 Green Field Tool | User Guidance 63
+
+Topic / Question Response options / hints Topic / Question Response options / hints
+Are there any endangered or Set responses provided: What is the vegetation density in the Set responses provided:
+protected wildlife species in or near • Yes - within boundary area of operation? • None
+to the area of operation? • Yes - nearby, less than 2 km • Open grassland, no trees
+• Yes - between 2 to 10 km away • Occasional trees, low vegetation
+• No - not within 10 km • Young, regenerating forest
+• Not known • Low density forest
+Also provide further detail as appropriate. • Medium density forest
+Are there any other known Set responses provided: • High density forest
+conservation or ecological • Yes – details available This is qualitative only, and there is not a need to provide a detailed
+management activities in the area? • Yes – not details not available breakdown but do provide further detail as appropriate.
+• None in place
+• Not known Are there any local or regional Set responses provided:
+Also provide further detail as appropriate. issues with invasive plant or animal • Yes - details available
+species? • Yes - but no specific detail or control plans in place
+Have any wildlife or conservation Set responses provided: • No issues raised
+issues been raised through • Yes - details available • Not known
+community engagement? • Yes - but no specific detail or plans in place Also provide further detail as appropriate.
+• No issues raised or likely
+• Not known How old or well established is the Set responses provided:
+Also provide further detail as appropriate. vegetation? • Less than 5 years
+• Established
+Habitat and vegetation cover • Mature or ancient
+• Not applicable - none present
+What is the nature of vegetation Set responses provided:
+Also provide further detail as appropriate.
+cover in the area? - Main • Agricultural farmland
+• Boreal forest & tundra
+• Coastal & mangroves Soils and geology
+• Deserts & shrublands What is the main soil type in the area Set responses provided:
+• Grasslands, savannas & shrublands of operation? • Clay
+• Mediterranean forests, woodlands & scrub • Silt loam (organic-rich sand, silt, and clay)
+• Plantation/managed forestry • Sand (finely coarse)
+• Temperate forests • Gravel (coarse)
+• Tropical & sub-tropical Forest The response should be an overview of general soil conditions. Images are
+• Urban included as guidance. The information from the OSA gives a broad indication
+• Wetland only of soil type and this should be answered by also considering local
+Images are included for guidance. Also provide further detail as appropriate. information and knowledge.
+This information can be useful for wider understanding on the types of habitat Also provide further detail as appropriate.
+where mine action takes place.
+What is the nature of vegetation As above
+cover in the area? - Secondary
+Green Field Tool | User Guidance 64 Green Field Tool | User Guidance 65
+
+Topic / Question Response options / hints Topic / Question Response options / hints
+What are the ground conditions in Set responses provided: What is the flow rate in any nearby Set responses provided:
+the area of operation? • Vegetated surface water features? • Dry
+• Bare – not compacted • Stagnant – no flow
+• Bare – compacted • Slow flowing
+• Rocky • Fast flowing
+• Waterlogged • Not applicable
+• Other (specify) Some images are included as guidance. If the surface water is over
+Also provide further detail as appropriate. 500m away, the flow rate is not applicable but do provide further detail if
+appropriate.
+Topography and slope
+What is the local topography and Set responses provided: What are the anticipated Set responses provided:
+terrain? • Mountains groundwater conditions in the area? • Shallow, less than 10 m below ground
+• Hills, undulating • Deep, less than 10 m below ground
+• Flat • Not known
+• Coastal Also provide further detail as appropriate.
+The response should be an overview of general conditions. The information
+from the OSA on ‘mountain analysis’ can be used in part. Also provide further Where does water drain to from the Set responses provided:
+detail as appropriate. area of operation? • Ground/soils
+• Sewer
+What is the average slope/gradient Set responses provided: • Drainage channel/wadi
+of the area? • Flat • Natural water course (stream or river)
+• Gentle slop • Not known
+• Moderate slope Also provide further detail as appropriate.
+• Steep
+The response should be a generalisation of overall conditions. There is no What is the main water source of the Set responses provided:
+specific need to give a breakdown of slope gradients but do provide further local population? • Surface water (rivers, stream, ponds etc.)
+detail if appropriate. • Shallow wells/springs
+• Deep wells
+Water • Piped system
+• Rainwater collection system
+Is there a surface water feature in or Set responses provided:
+• Not known
+near to the area of operation? • None
+Also provide further detail as appropriate.
+• Canal
+• Coast/estuary
+• Drainage channel/wadi Is water scarcity and/or quality an Set responses provided:
+• Lake issue for the local population? • Yes
+• River • No
+• Stream • Not known
+• Not known Also provide further detail as appropriate.
+Also provide further detail as appropriate.
+Cultural heritage
+What is the distance to the nearest Set responses provided: Are there any significant historical et responses provided:
+surface water feature? • Within boundary or cultural sites near to the area of • Yes - within boundary
+• Nearby, less than 200m operation? • Yes - nearby, less than 2 km
+• Between 200m to 500m • No - not within 2 km
+• More than 500m • Not known
+Also provide further detail if appropriate. Also provide further detail as appropriate.
+Green Field Tool | User Guidance 66 Green Field Tool | User Guidance 67
+
+Topic / Question Response options / hints Topic / Question Response options / hints
+Local and regional trends Have there been more frequent Set responses provided:
+Has there been deforestation in the Set responses provided: extreme weather events? • Yes
+general area over recent decades? • Yes – significant • No change
+Include a screenshot of mapping to • Yes – some • Not relevant to this area
+highlight the extent. • No – not evident • Not known
+A detailed breakdown of losses is not needed, although a copy of the mapping Also provide further detail as appropriate.
+should be included to highlight areas and extent. Also provide further detail as
+appropriate. Do landscape fires take place, and Set responses provided:
+has there been increased incidents • Yes
+Has there been changes in rainfall Set responses provided: of fires or burning events in the • No change
+amounts over recent years? Also • Yes - an increase area? • Not relevant to this area
+check any predicted changes for the • Yes – a decrease • Not known
+area. • No change Also provide further detail as appropriate.
+• Not known
+Trends should be noted but there is not a need to provide specific values. Has there been an increase in Set responses provided:
+Provide further detail if appropriate. average annual temperatures? Also • Yes
+check any predicted changes for the • No change
+Have seasonal patterns of rainfall Set responses provided: area. • Not known
+changed over recent years? For • Yes Trends should be noted but there is not a need to provide specific values.
+example, longer rainy seasons, • No change
+longer dry seasons, more droughts? • Not known Has the local community observed Set responses provided:
+Also provide further detail as appropriate. For example - it will be useful to changes in overall weather and • Yes
+note if there is a change in which are the wettest or driest months. seasonal patterns, temperature, • No change
+rainfall and extreme weather events? • Not known
+Has there been recent or more Set responses provided: Also provide further detail as appropriate.
+frequent river/surface flooding in • Yes
+the area? Check for areas prone to • No change What observed changes have been Open text.
+flooding and future predictions. • Not relevant to this area noted by the local community This could cover a wide range of observations including: changes in rainy /
+• Not known in overall weather and seasonal dry seasons, hot / cold seasons, notable changes in weather around national
+Also provide further detail as appropriate. patterns, temperature, rainfall and holidays / festivals, planting season and harvests, crop production and soil
+extreme weather events? fertility, periods of scarce resources (e.g. food, water, fish, pasture), migration
+Has there been recent or more Set responses provided: times of species, extreme weather events, increase in pests and vermin and
+frequent coastal flooding in the • Yes seasonal illness (people and livestock).
+area? Check for areas prone to • No change
+flooding and future predictions. • Not relevant to this area Are there any current community Set responses provided:
+• Not known coping strategies in place to • Yes
+Also provide further detail as appropriate. deal with climate change, or • No
+environmental degradation? • Not known
+Has there been recent or more Set responses provided: Also provide further detail, as appropriate.
+frequent land or mudslides in the • Yes It is important to understand about what coping strategies are in place to
+area? • No change help communities adapt to the effects of climate change and whether these
+• Not relevant to this area strategies are effective.
+• Not known Climate change and climate-related events can worsen existing local stresses
+Also provide further detail as appropriate. such as poverty, food insecurity, land degradation and access to water
+shortages, as well as physical risks to extreme weather events.
+Green Field Tool | User Guidance 68 Green Field Tool | User Guidance 69
+
+Topic / Question Response options / hints Topic / Question Response options / hints
+If present, how effective are local Set responses provided: Land use and local communities
+coping strategies likely to be? • Non-existent What is the predominant existing Set responses provided:
+• Ad-hoc and not structured land use? • Aquaculture
+• Functioning, but limited capacity • Cultivated
+• Well established and effective • Fallow / uncultivated
+• Not known • Grazing
+This is only qualitative and based on responses from the community, • Residential
+authorities or local NGOs. Provide further detail to support the response as • Urban-commercial
+appropriate. • Urban-derelict
+• Urban-industrial
+How are local livelihoods and assets Set responses provided: • Urban-undeveloped
+likely to be affected by climate • No change likely • Woodland
+changes? • Adverse impact likely • Other: specify
+• Benefits likely Also provide further detail as appropriate.
+• Not known
+This is only qualitative and based on responses from the community, What is the secondary existing land As above.
+authorities or local NGOs. Provide further detail to support the response as use?
+appropriate.
+What has been the main feature of Set responses provided:
+any changes in land use? Consider • No change evident
+How are local ecosystems likely to Set responses provided: changes over at least the previous 20 • Increase in natural habitat / vegetation cover
+be affected by climate changes? • No change likely years. • Decline in natural habitat / vegetation cover
+• Adverse impact likely • Increase in development / urbanisation
+• Benefits likely • Increase in agriculture
+• Not known • Decline in agriculture
+This is only qualitative and based on responses from the community, • Not known
+authorities or local NGOs. Provide further detail to support the response as • Other: specify
+appropriate. This is qualitative but an understanding of the scale and nature of
+these changes can help indicate the potential importance of additional
+Are there possible opportunities Set responses provided: enhancement measures which could be put in place, along with the overall
+for introducing ecosystem-based • Yes land use pressures. Also provide further detail as appropriate.
+adaptation initiatives, and other • No
+environmental options to support • Not known Has there been a change in general Set responses provided:
+communities? • Not relevant land productivity? • Declining
+Also provide further detail as appropriate. • Early signs of decline
+There may be opportunities to make environmental improvements and • Stable but stressed
+introduce (or support the introduction) of ecosystem-based adaptation (EbA) • Stable
+initiatives. EbA involves using biodiversity and ecosystem services to help • Increasing
+people adapt to climate change, as part of an overall adaptation strategy. There is open source data estimating land productivity but this should be
+Even if these cannot be implemented by mine action, this can be flagged and supplemented by local information.
+the options highlighted at handover. Changes in land productivity reflects the net effects of changes in soil
+and ecosystem function and can help identify where land management
+Check the list of potential Select from list (see section 5.5) interventions are needed. Also provide further detail as appropriate.
+opportunities which could be This question is included, since if there are opportunities for environmental
+relevant. Select all which may apply enhancement, these must be explored as early as possible. Local consultation
+is critical.
+Green Field Tool | User Guidance 70 Green Field Tool | User Guidance 71
+
+Topic / Question Response options / hints Topic / Question Response options / hints
+What is the distance of the area of Set responses provided: If so, what is the nature of the Set responses provided:
+operation to the nearest residential • Nearby, less than 200m pollution or pollution incident? • No obvious signs or evidence of pollution
+areas / populated area? • Between 200m to 500m Select all which may apply. • Buried drums, tanks, pipework
+• More than 500m • Evidence of leaks or spills of fuel or chemicals
+Also provide further detail as appropriate. • Soil or water with discolouration or odour
+• Vegetation loss, dieback or signs of stress
+Will people have ready access to Set responses provided: • Dead or gasping fish in water bodies
+the adjoining areas during the field • No access • Sick livestock or wildlife
+activities? • Limited access • Fire and fire damaged assets
+• Open and unrestricted access • Iridescent sheens (e.g. oil/fuel on soil or water)
+• Not known • Waste and debris at ground level or buried
+Also provide further detail as appropriate. • Asbestos containing materials reported / suspected
+• Radioactive materials reported / suspected
+• Other: specify
+What is known about any previous Set responses provided:
+Pictures are given as guidance and refer to Annex C of the TNMA/07.13.
+or historic land use? • Aquaculture
+Provide further detail as appropriate.
+• Cultivated
+• Fallow / uncultivated
+• Grazing What is the scale and extent of Set responses provided:
+• Residential pollution identified? • Uncertain
+• Urban-commercial • Localised
+• Urban-derelict • Widespread
+• Urban-industrial • No evidence / unlikely to be present
+• Urban-undeveloped This is qualitative but an understanding of the possible scale and extent is
+• Woodland needed to inform others and identify additional measures which may be
+• Other: specify needed, planning or investigation. Provide further detail as appropriate.
+Also provide further detail as appropriate.
+What is the planned or likely use of Set responses provided:
+Is there a potential for sources of Set responses provided: the area following land release? • Residential
+pollution to be present in or adjacent • Yes • Agricultural
+to the area? • No • Community / public services
+• Not known • Natural resources (including foraging, hunting etc.)
+Also provide further detail as appropriate. • Infrastructure
+• Access (footpaths, roads, bridges)
+• Not known
+Is there any visual evidence of Set responses provided:
+Also provide further detail as appropriate.
+pollution on or adjacent to the area? • Yes
+• No
+• Not known What are the main environmental Open text.
+The presence of contamination is not always obvious but observations on concerns affecting the local There may be variety of issues directly linked to the risks from climate change
+the ground conditions are very useful, including the presence of waste, community? or relating to other environmental and land right issues – e.g. access and use
+discolouration, or vegetation die-back. Also provide further detail as of natural resources, access to water, illegal logging, high reliance on the use
+appropriate. of firewood, biodiversity loss, soil erosion, spread of invasive species, poor
+waste management, use of chemicals and pesticides, poor indoor and local air
+quality, and pollution. Provide further detail as appropriate.
+Green Field Tool | User Guidance 72 Green Field Tool | User Guidance 73
+
+Annex E – Open Source App data layers Cultural Heritage – UNESCO World Heritage Sites
+heritage This mapping only gives UNESCO World Heritage List sites. Cultural assets may include
+religious sites or sacred areas, historic buildings, burial grounds, ruins or archaeological sites.
+The information available through open source data is limited and consultation with the local
+community and authorities is again essential.
+Conservation Protected areas - World Database on Protected Areas (WDPA)
+and wildlife The WDPA is a comprehensive global database on terrestrial and marine protected areas but some Local and Forest - Hansen Global Forest Change 2000-2023
+areas areas may not be included. Local consultation is also essential. Some information on conservation regional trends The dataset shows the change in forest cover and helps to understand regional context regarding
+and management plans may also be provided but again may not be conclusive. Consultation will deforestation or planting. Areas affected by high rates of deforestation are likely to be more
+be required to understand local conservation programmes and activities, including local NGOs or vulnerable to biodiversity loss, flood risks, soil erosion, poorer water quality and in some cases,
+community-based projects. landslides. A chart shows the overall percentage of change in forest cover in an ‘area of interest’.
+Key Biodiversity Areas - World Database of Key Biodiversity Areas (WDKBA) Flood risk - World Resources Institute (WRI) flood hazard maps
+The WDKBA maps sites important for targeted conservation and can be used to guide the The layer shows baseline data indicating areas prone to river and coastal flooding.
+expansion of protected and conservation areas.
+Landslides - NASA Landslide Repository and the Global Landslide hazard map
+Endangered species - International Union for Conservation of Nature (IUCN) The layers show recorded landslides and landslide susceptibility based on the Global Landslide
+The global datasets on threatened and endangered species are not exhaustive and will not hazard map. The ‘high level’ hazard mapping is based on global-scale data and provides an initial
+necessarily include all information or have sufficient detail. Local consultation is also essential. indication only. Local consultation and expertise will also be required to fully understand landslide
+risk.
+Soil and Soil – Open Land Map Soil Texture Class
+geology The dataset is derived from predicted soil texture fractions and should be used as a guide only. It is Fire hotspots – Moderate Resolution Imaging Spectroradiometer (MODIS) burned area monthly
+difficult to obtain reliable and detailed enough information on soil type and geology and field visits dataset
+and local consultation will also be needed. This layer shows fire hotspots from 2009-2024 within 10km of the ‘area of interest’. The layer
+produces two charts for an ‘area of interest’: one showing total annual burned areas and one
+Soil type and structure affects many factors including levels of moisture, plant growth, resistance summarising the monthly occurrence of fires.
+to erosion and the risk of compaction. Soil texture ranges from coarse (sands and gravels) to fine
+(clays and silts) and this will affect their fertility and how readily they may drain or retain water.
+Precipitation - Copernicus ERA5-Land Monthly Aggregate dataset
+The data can be used to help understood overall trends, rather than precise values. It may over or
+Topography and Slope - NASA Shuttle Radar Topography Mission (SRTM) digital elevation data under estimate precipitation depending on factors, such as altitude or latitude. The layer produces
+terrain The slope data is presented in a pie chart for the ‘area of interest’, estimating the percentage two charts for an ‘area of interest’: one showing total annual precipitation (1974-2024) and one
+classed as either flat, gentle slope, moderate slope or steep. showing a comparison between the average monthly precipitation over two decades (1984-1994
+Details on the slope and terrain is useful to understand the potential for run-off, soil erosion and and 2014-2024).
+flooding and in extreme cases, the risk of landslides.
+Temperature - Copernicus ERA5-Land Monthly Aggregate dataset
+Mountainous areas - Global Mountains K3 The data can be used to help understood overall trends rather than precise values. It may over or
+This gives an analysis of terrain characteristics, based 250m resolution mapping. Mountains are under estimate temperature depending on factors, such as altitude or latitude. The layer produces
+classed into low, low scattered, high or scattered high. two charts for an ‘area of interest’: one showing total annual temperature (1974-2024) and one
+showing a comparison between the average monthly temperature over two decades (1984-1994
+Water features Surface water - Joint Research Council (JRC) surface water occurrence and 2014-2024).
+Two layers are available: 1) The first layer shows how often water is present at different locations
+and the change of occurrence over time. The data is useful for visually identifying lakes, reservoirs Land productivity - Land Productivity Dynamics
+and wider rivers but many rivers are too narrow to be detected; 2) The second layer shows a This mapping shows changes in land productivity between 2009 and 2024 and provides an overall
+normalised decrease or increase in occurrence between 1984-1999 and 2000-2021. indication of the health and productive capacity of the land. The layer gives five categories:
+declining, early signs of decline, stable but stressed, stable or increasing.
+River analysis - WWF HydroSHEDS rivers
+This mapping can be used as a guide alongside base satellite imagery to check if rivers are in the Changes in land productivity reflects the net effects of changes in soil and ecosystem function.
+‘area of interest’. There may be inaccuracies, and field visits and local consultation will also be This can be a useful indication of land degradation and help to identify where land management
+needed to fully understand their location, water flow rates and their use. interventions are needed or extra measures in place during mine clearance activities.
+Green Field Tool | User Guidance 74 Green Field Tool | User Guidance 75
+
+Climate Projected precipitation - NASA Earth Exchange dataset Annex F – Risk assessment
+projections This layer produces two charts for the ‘area of interest’. One chart shows projected annual total
+precipitation for 2025 to 2075, assuming a ‘middle of the road’ future climate scenario of future
+temperature rises (SSP245).i The second chart gives the projected average monthly precipitation
+for 2050-2055.
+A simplified matrix is used in the GFT to evaluate the level of risk. Risk is a function of ‘severity’ and the ‘probability’
+Projected temperature - NASA Earth Exchange dataset of harm occurring.
+This layer produces two charts for the ‘area of interest’. One chart shows projected annual average
+maximum temperatures for 2025 to 2075, assuming a ‘middle of the road’ future climate scenario
+Severity - consequence if an impact occurs
+of future temperature rises (SSP245).i The second chart gives the projected average monthly
+High - Severe Medium - Moderate Low - Mild
+maximum temperature for 2050-2055.
+Land use Land use - GLAD Global Land Cover and Land Use Change dataset
+and local This layer can aid understanding of the scale and nature of land use changes between 2000 and
+communities 2020. Two layers are given to be able to manually compare land cover and land use in i) 2000 and
+in ii) 2020.
+This can help indicate the potential importance of additional enhancement measures which could
+be put in place and the overall land use pressures.
+Populated areas - WorldPop data
+This mapping estimates population densities, generated through machine learning. This can be
+used to give a ‘high level’ indication of population densities in and around an ‘area of interest’ and
+should be used alongside other mapping and local consultation.
+i Learn more about climate scenarios here: 
+Green Field Tool | User Guidance 76 Green Field Tool | User Guidance 77
+ytilibaborP Likely High High Medium
+Low likelihood High Medium Low
+Unlikely Medium Low Low
+Definitions of probability (or ‘likelihood’) used are given below:
+Probability Definition
+Likely It is probable that an impact will occur. It is not inevitable, but possible in the short-term and likely
+over the long-term.
+Medium - low Circumstances are possible under which an impact could occur. It is by no means certain that even
+likelihood over a longer period such an event would take place, and less likely in the short term.
+Unlikely It is improbable that an impact would occur in the very long term.
+Some example definitions on the severity (or ‘magnitude’) of an environmental impact are given in the table below:
+Severity Affecting Definition
+People Acute and immediate physical risks to people and their health and their
+livelihoods or assets.
+Pollution Immediate risk of pollution to a sensitive environment or a pollution
+incident of a significantly large scale.
+Waste Large volumes of non-hazardous waste generated, volumes of hazardous
+waste or high levels of contamination/pollutants released. No or very
+limited local or regional waste management capacity.
+Biodiversity/ Irreversible damage to an ecologically protected area or immediate risks
+High - severe wildlife to protected species.
+Resources Use of scarce, mainly internationally sourced or non-recyclable
+materials, high carbon footprint / energy use. For soils, covers the loss
+and permanent damage of soil function which supports agriculture or
+ecologically important area.
+Climate Several climate-change factors, such changes in rainfall, or extreme
+weather events compounded by regional deforestation, environmental
+degradation, scarce climate adaptation capacity, existing pressure of local
+natural resources etc.
+
+Annex G – Compensation and enhancement
+options
+Severity Affecting Definition
+People Chronic risks to people's health over the longer-term, and longer-term risk
+to their livelihoods or assets.
+A list of compensation or enhancement options included in the STEP 2 dropdown lists and which could be applied
+Pollution Risk of a pollution incident in the short-term or long-term.
+to provide environmental benefits is given below. A ‘benefit’ category is also given, indicating how implementation
+Waste Volumes of non-hazardous waste generated, smaller volumes of
+could be make a positive impact. In some many cases, the benefits will be multiple if effectively implemented and
+hazardous waste or small-scale release of contamination/pollutants. Some
+monitored.
+local or regional waste management capacity.
+Medium - Biodiversity/ Adverse damage to an ecologically protected location, risks to protected
+moderate wildlife species and habitat.
+Benefit category
+Resources Use of materials mainly sourced on a local or national scale, some of
+which are sustainably sourced or recyclable, reduced carbon footprint
+/ energy use. For soils, covers the loss and permanent damage of soil
+Option
+function which supports non-priority habitats or agriculture.
+Climate Climate factors, such changes in rainfall, or extreme weather events, but
+some climate adaptation capacity in place.
+People Minor and non-permanent risk to people's health, and livelihoods or
+assets.
+Pollution Risk of small-scale pollution incident in the short or long term of non-
+sensitive environment.
+Waste Generation of low volumes of non-hazardous waste, minimal or no
+volumes of hazardous waste or pollutants. Waste management capacity
+available at local and regional waste management facilities.
+Low - mild Biodiversity/ Adverse damage to a less-sensitive environment (e.g. non-designated).
+wildlife
+Resources Use of materials mainly sustainably sourced and recyclable, low carbon
+footprint / energy use. For soils, covers the loss and permanent damage of
+soil function which have been previously developed or little potential for
+return to agriculture.
+Climate Climate factors, such changes in rainfall, or extreme weather events but
+climate adaptation capacity already in place or planned.
+Green Field Tool | User Guidance 78 Green Field Tool | User Guidance 79
+eulav
+laicoS
+etamilC
+ecneiliser
+/ noitavresnoC ytisrevidoib nobrac
+woL
+elbaniatsuS esu
+ecruoser
+,noitulloP
+,noitaidemer
+etsaw
+Awareness: Develop educational programs for project
+staff, local communities and schools to raise awareness • •
+about environmental issues.
+Awareness: Engage in community outreach to
+promote environmental stewardship and involve local • •
+communities in conservation efforts.
+Habitat: Creating flower-rich pollinator habitats, for
+• •
+example on field margins or by grassland restoration.
+Habitat: Creating seed-rich bird habitat, for example on
+• •
+field margins and by leaving overwinter stubble.
+Habitat: Dedicate portions of the project site as
+• •
+permanent conservation areas or green spaces.
+Habitat: Ensure areas are preserved in their natural
+state, allowing for the regeneration of native vegetation • • •
+and wildlife.
+Habitat: Establish or contribute to protected areas,
+wildlife reserves or ecological corridors to safeguard • • •
+habitats and species.
+Habitat: Identify and protect areas with high
+biodiversity value both within and outside the project • • •
+site.
+Habitat: Implement wetland enhancement initiatives,
+such as water level management and the removal of • • •
+invasive species.
+Habitat: Plant native trees and vegetation in areas
+adjacent to the project site to restore or enhance forest • • •
+cover.
+
+Option
+Green Field Tool | User Guidance 80 Green Field Tool | User Guidance 81
+eulav
+laicoS
+etamilC
+ecneiliser
+noitavresnoC ytisrevidoib/ nobrac
+woL
+elbaniatsuS esu
+ecruoser
+,noitulloP
+,noitaidemer
+etsaw
+Habitat: Provision of new ecological features or habitat
+which results in a net-gain in biodiversity. Includes
+• • •
+creating nesting sites, ponds and wildlife corridors to Option
+facilitate the movement and breeding of native species.
+Habitat: Tree planting and woodland creation, using
+• •
+native species.
+Habitat: Wetland restoration. These can provide
+important habitats for wild flowers, insects, waders,
+wildfowl and aquatic species, as well as helping to store • •
+carbon and reduce the risk of downstream flooding and
+soil erosion.
+Habitat: Wildlife conservation and protection
+• •
+monitoring programmes.
+Invasive species: Identify and control the spread of
+invasive plant and animal species that can negatively • •
+impact the local ecosystem.
+Invasive species: Improved management of existing
+ecological features, including the removal of invasive • •
+species or planting and replacement with native species.
+Resources: Promote and support greener travel options,
+• • •
+including Eco driving practices, vehicle maintenance.
+Resources: Promote and support use of renewable
+• • • •
+energy options, such as solar panels.
+Resources: Promote sustainable agricultural and
+forestry practices that conserve soil and water resources • • • •
+and reduce the use of harmful chemicals.
+Social: Encourage ecotourism initiatives that allow
+• • •
+visitors to appreciate the enhanced environment.
+Social: Develop land use plans that balance human
+• •
+needs with environmental protection.
+Soil: Apply soil stabilization methods, such as
+revegetation and erosion control mats, in areas where • • •
+soil disturbance is a concern.
+Soil: Conduct soil assessments and implement soil
+• •
+improvement techniques to enhance soil quality.
+Soil: Implement erosion control measures, such
+as terracing, riparian buffers and bioengineering • • • •
+techniques, to prevent soil erosion.
+Soil: Promote and support sustainable farming and
+climate-smart practices including measures which
+• • • • •
+reduce soil erosion, chemical use, water pollution and
+conserve water.
+eulav
+laicoS
+etamilC ecneiliser
+noitavresnoC ytisrevidoib/ nobrac
+woL
+elbaniatsuS esu
+ecruoser
+,noitulloP
+,noitaidemer
+etsaw
+Waste: Fund infrastructure projects that directly benefit
+the environment, such as waste treatment facilities,
+• •
+pollution control systems and green transportation
+options.
+Waste: Promote and support waste reduction and
+recycling schemes and the reduced use of single use • • •
+plastics.
+Waste: Waste or debris removal. • •
+Water: Invest in water resource management projects,
+such as riverbank stabilization, watershed protection • • •
+and water quality improvement.
+Water: Promote responsible water resource
+management, such as rainwater harvesting and water • • •
+recycling.
+Water: Water resource protection, for example by use
+of buffer strips and planting of cover crops. Buffer strips
+(e.g. of perennial grasses) can help to reduce runoff or
+• • • •
+pollutants such as pesticides, fertilisers or sediment
+from fields into nearby watercourses. Cover crops can
+also help reduce pollutant runoff and soil erosion.
+
+Published by Norwegian People’s Aid and the Conflict and Environment Observatory, 2025
+Norwegian People’s Aid, Postbox 8844, Youngstorget, 0028 Oslo, Norway.
++47 22 03 77 00 | | npaid@npaid.org | @npadisarm
+CEOBS, The Chapel, Scout Rd, Hebden Bridge, West Yorkshire, UK. HX7 5HZ
++44 (0) 300 302 1130 | | contact@ceobs.org | @ceobs_org
+Design by CEOBS
+© Norwegian People’s Aid and Conflict and Environment Observatory 2025

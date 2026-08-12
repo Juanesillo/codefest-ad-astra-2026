@@ -1,0 +1,567 @@
+CSIS BRIEFS | WWW.CSIS.ORG | 1
+CSIS
+BRIEFS
+Commercial Space Remote Sensing
+and Its Role in National Security
+By Todd Harrison and Matthew Strohmeyer
+THE ISSUE
+Over the past two decades, the pace of innovation in the commercial space remote sensing industry has accelerated. The
+capabilities provided by commercial firms can be used to complement government space systems across a wide range of national
+security missions and fill in gaps in capabilities where the U.S. government has lagged. The challenge for the military and
+intelligence community is understanding how to leverage commercial capabilities for military advantage while protecting national
+security and maintaining the health and competitiveness of U.S. companies in the global remote sensing market. This CSIS brief
+examines how the paradigm for space remote sensing has changed within the U.S. government, the ways commercial systems can
+support this new paradigm for national security missions, and the roles commercial systems can play in strategic competition. The
+brief concludes by looking at alternative acquisition approaches and key policy issues that should be addressed to fully leverage
+the innovation, capabilities, and additional capacity offered by commercial space remote sensing companies.
+The first hint of a challenge to these three paradigms
+INTRODUCTION
+emerged in the early 2000s with the expansion of
+As early as the launch-and-catch CORONA satellite
+commercial remote sensing. The commercial market for
+program of the late 1950s, the United States’ strategy
+satellite imagery dates to the passage of the Land Remote
+to gain insights from space remote sensing has hinged
+Sensing Policy Act of 1992. This law replaced the Land
+on three paradigms: government-developed satellites,
+Remote-Sensing Commercialization Act of 1984 and
+human-based processing, and agency data ownership.
+created the regulatory framework through which U.S.
+These approaches served the United States well during
+commercial companies could launch, operate, and sell
+the cat-and-mouse years of space sensing competition
+space-based remote sensing data. However, the market
+with the Soviet Union when exquisite satellite sensors
+remained relatively small until the early 2000s when
+and space launch capabilities were the exclusive purview
+of the government. Similarly, the need to process modest privately owned U.S. companies began selling high-
+amounts of analog and digital satellite images fit well with resolution satellite images to the government. Major
+highly experienced human analysts whose contextual government investment in commercial remote sensing,
+knowledge of normal activity at Russian airfields, training as seen in the 2010 EnhancedView contract, enabled
+ranges, and submarine pens could quickly spot anomalies. commercial capabilities to augment government-owned
+These analysts, who closely guarded their information, sensing. Unclassified imagery from commercial satellites
+created much-needed concentrations of highly competent was quickly vacuumed into the Intelligence Community’s
+intelligence experts. (IC) classification vortex of human processing. This
+
+system held images and analysis in IC
+abeyance until operators made requests to
+access snapshots of data.
+Meanwhile, the growing complexity of
+the unipolar post-Cold War world led to
+an increasing need for remote sensing
+that targeted rogue states such as Iran and
+North Korea as well as an emerging China
+and revanchist Russia. The limited capacity
+of exquisite government remote sensing
+often failed to keep pace with emergent
+Combatant Command needs for intelligence,
+surveillance, and reconnaissance (ISR).
+The interagency image request process—
+while effective for methodical Cold War
+competition—consistently frustrated
+operational users and foretold the need for
+a new approach. Throughout the 2010s,
+the capability and capacity of commercial
+sensing continued to increase and rival that
+of the U.S. government. Concurrently, several
+government efforts to harness the power
+of machines for remote sensing detection
+and processing combined with a concept
+of unlocking previously enclaved data.
+Programs such as Project Maven, under the
+Top: Now declassified image of the Pentagon from a Corona spy satellite from 1967.
+undersecretary of defense for intelligence and
+Bottom: Image of the Pentagon from the GeoEye-1 commercial satellite in 2011.
+security, sought to rethink the three remote
+Source: National Reconnaissance Office (Top); GeoEye (now DigitalGlobe)/The National Security Archive (Bottom)
+sensing paradigms with a new approach:
+privately-owned space-based sensing,
+Commercial companies began to see the potential for a
+machine-aided processing, and common cloud-based data
+multi-billion-dollar market providing commercial images
+sharing. These new paradigms all leveraged the power of
+to the government for national security, and the 2011
+commercial companies to achieve a speed of development
+National Security Space Strategy clearly identified the
+and innovation unmatched by contemporary government
+emerging competitive market. Reductions in the price
+sensing capabilities.
+per pound to orbit through reusable rockets and the use
+of small CubeSats that could allow for more satellites
+NATIONAL SECURITY APPLICATIONS
+per launch, larger constellations of satellites, and
+Several remote sensing and data technologies matured
+therefore more frequent passes over areas of interest,
+in the early 2000s, and commercial investment in these
+made commercial systems the new sensing high ground.
+technologies fueled innovation that better aligned
+Commercial companies began combining advances in
+commercial space remote sensing capabilities with
+microelectronics, small satellites, and low cost to orbit
+government needs. Specific to sensing, the traditional on-
+to create proliferated low Earth orbit (LEO) sensing
+orbit electro-optical and infrared imagery that fueled Cold
+constellations: hundreds or even thousands of satellites
+War awareness of Russian actions began to rapidly increase
+in multiple orbital planes allowing for rapid revisit and a
+in quality with the debut of commercial satellites such as
+range of low- to high-resolution images.
+QuickBird in 2001 and GeoEye-1 in 2008. Where 60 cm
+resolution was top-tier in the early 2000s, 25 cm resolution These commercial advances combined with the ability
+or better was the norm by the mid-2010s. to sense outside the visible and infrared (IR) spectrum
+CSIS BRIEFS | WWW.CSIS.ORG | 2
+
+through synthetic aperture radar (SAR) and radio frequency of new commercial images could provide some value,
+(RF) mapping to create new commercial and security but these images, held in a system disconnected from
+applications, from moving target indication to rapid other sets of images, would require human copying and
+geolocation of jamming. The promises were not just for translation between systems. If those images could instead
+national security: commercial companies saw the potential be combined with all other commercial and government
+utility for natural disaster response and even increased images and then made available to all IC agencies, the
+awareness of changes in market conditions by observing new commercial data could have a non-linear impact on
+the live movement of global rail, maritime, and truck decision speed and capabilities. Cloud-based storage and
+transportation. For example, a low-resolution, high-revisit- retrieval proved not only important for access to data but
+rate SAR image of several major soybean rail yards in the also for the emerging use of machine learning to gain
+Midwest could help predict changes in the market based on insights from the data.
+early warning of supply changes or supply chain disruptions.
+The amount of data being collected began to increase
+beyond the point where a human or group of humans
+Commercial companies
+could process all the imagery and other data products
+began combining advances in
+derived from space remote sensing systems. By the late
+2010s, artificial intelligence, and specifically computer
+microelectronics, small satellites, and
+vision object detection and categorization in images,
+low cost to orbit to create proliferated
+was approaching performant levels. While AI was not yet
+on par with human analysts, key efforts such as Project
+low Earth orbit (LEO) sensing
+Maven began to ask if machines, in the aggregate across
+constellations.
+hundreds of images over days, weeks, and months, could
+begin to determine patterns of maneuver, massing, or force
+Some national security organizations began to see the posture. Whereas human cognition can quickly identify
+potential uses of these new capabilities as well. Rather large changes across a few variables, such as numbers
+than relying only on low-revisit-rate exquisite national of aircraft, machines can detect subtle changes across
+systems, the addition of commercial remote sensing could hundreds of seemingly disparate variables. A change in the
+help analysts gain a better understanding of changes in number and disposition of missile-loading vehicles across
+adversary pattern of life at key operating areas. For example, an adversary’s military bases, while perhaps not interesting
+an increase in conventional bomber assets at a forward in one image, could become compelling when correlated
+deployed location, viewable in traditional sensing, could with small changes in movements of support aircraft
+now be augmented with commercial images from several across many other operating locations. It is these data-
+other bases and support locations. Additionally, higher based insights over large areas that machines can provide
+revisit rates meant more ability to see nuanced changes to humans to highlight possible changes in patterns of
+in adversary posture at multiple locations. Moreover, data life—changes that could provide early warning of adversary
+products derived from commercial SAR and RF satellites activities and intent.
+could augment electro-optical imagery to better characterize
+what an adversary is doing and how forces are operating. STRATEGIC COMPETITION
+The revolution in commercial space remote sensing has the
+At the same time as these advances in commercial space
+potential to shatter the paradigms of how national security
+and sensing capabilities were progressing, advances were
+professionals think about indications and warnings of
+also occurring in how data was stored and analyzed.
+adversary actions. Rather than relying exclusively on
+Data that was traditionally stored on hard drives and
+high-demand, low-density government-owned national
+on-premises storage began to find a new medium: the
+assets, commercial sensing offers orders of magnitude
+cloud. The ability to move from data silos and stovepiped
+more coverage and revisit rates that can augment and
+storage to common cloud-based environments was a key
+queue the sensing capabilities provided by more exquisite
+enabler for the commercial remote sensing revolution.
+government-owned and government-operated systems.
+Within the U.S. government, the data stovepipes of the
+past were replaced as common data access began to show Artificial intelligence can unburden human analysts
+utility for analysts across government agencies. One set from tediously numbering bombers and tanks in images,
+CSIS BRIEFS | WWW.CSIS.ORG | 3
+
+and machines can begin looking at adversary actions Human-centric early warning today often results in late
+in aggregate across vast areas at a scale and speed not awareness and reactive decisions. In the landscape of
+possible with humans. Where humans can cultivate global strategic competition where actors seek decision
+expertise in understanding how adversaries normally advantage to gain and exploit initiative, reactive nations
+operate in a few key areas, machines can gather data from will struggle to achieve or regain dominance. By contrast,
+across all domains, operating locations, and intelligence capabilities that enable faster understanding of adversary
+sources simultaneously to inform their algorithms. Subtle actions enable a country to proactively deter and counter
+changes in market prices for logistics goods that may aggression. For example, if commercial remote sensing
+indicate a major military movement, overlooked by human SAR capabilities indicate that an actor is beginning rail
+analysts in the noise of data, could be flagged by machines movements consistent with a buildup of forces to seize
+and combined with other open-source data to create disputed territory, this awareness opens the opportunity
+actionable insights. These machine insights, provided to for the United States and its allies and partners to take
+humans via alerts, place analysts in their most effective diplomatic actions or move forces to complicate the
+role: making decisions and recommendations based on adversary’s calculus before the final invasion decision is
+the full context of the situation. AI systems can process made. In an era of grey zone competition where, according
+the raw data to produce data products that enhance early to Russian chief of staff Valery Gerasimov, “wars are not
+warning awareness and enable humans to make more declared, and having begun, proceed to an unfamiliar
+informed decisions to drive a U.S. deterrence action. template,” it is vital to understand these subtle cues that
+reveal an adversary’s intent. The vast quantity and ubiquity
+The revolution in commercial space
+of commercial space remote sensing data combined with
+remote sensing has the potential to algorithms and cloud computing that use this data to
+detect the subtle cues underlying grey zone actions may
+shatter the paradigms of how national
+provide an outsized impact on strategic competition—
+security professionals think about especially considering that competition’s global nature.
+indications and warnings of adversary Since commercial remote sensing mainly leverages
+emerging LEO constellations, the terrestrial footprint
+actions.
+of these satellites is inherently global in nature. This
+fact aligns well with the
+increasingly global strategy
+of competitors such as China,
+which, through investments
+including the Belt and Road
+Initiative, seek leverage well
+outside the Western Pacific.
+Understanding how China
+is taking actions to gain
+influence throughout the
+globe becomes a key aspect of
+understanding the subtle cues
+inside grey zone warfare.
+U.S. Combatant Commands
+have recognized the value of
+commercial remote sensing
+and the global integration
+opportunity that it offers.
+Through a series of recent
+Representatives from all 11 U.S. combatant commands participate in the third series of
+experiments involving all
+Global Information Dominance Experiments (GIDE) at North American Aerospace Defense
+11 regional and functional
+Command and U.S. Northern Command Headquarters, July 13, 2021.
+Source: U.S. Air Force photo by Tech. Sgt. Tommy Grimes
+CSIS BRIEFS | WWW.CSIS.ORG | 4
+
+Combatant Commands, USNORTHCOM advanced the use of can make it difficult for commercial companies to work
+commercial space remote sensing to gain an understanding with the government.
+of how adversaries were moving globally and how the Joint
+The Space Development Agency (SDA) is attempting to
+Force could rapidly collaborate across the globe to create
+modify the product-based approach in several ways. It is
+dilemmas and achieve deterrence. These efforts are now
+actively working with industry to leverage commercial
+partnered with Deputy Secretary of Defense Kathleen
+capabilities for satellite components, such as satellite buses
+Hicks’ recently announced Artificial Intelligence and Data
+and intersatellite links, by prioritizing commercial off-the-
+Accelerator program to jump start effective data-sharing
+shelf (COTS) capabilities. It also plans to use commercial
+efforts and scale them across the Combatant Commands.
+firms to operate its Tranche 1 satellite constellation,
+This program comes on the heels of Secretary Hicks’ data
+making it a government-owned, commercially operated
+decrees instructing the Department of Defense (DoD)
+(GOCO) space system. And it is streamlining the
+to move off its paradigm of well-intentioned agencies,
+contracting process by using a contracting mechanism
+preventing siloed data from being shared across the force.
+known as other transaction authority (OTA) rather than
+Sensing data, in particular, falls prey to the tendency to
+following the traditional procurement process under the
+protect what is owned rather than provide it across the
+Federal Acquisition Regulations (FAR). According to SDA
+government. Commercial space remote sensing is primed
+director Derek Tournear, this approach is intended “to
+to be a first example of the power of common data access
+make sure that anyone that would like to bid and compete
+across government agencies for decisionmaking and use by
+has the opportunity to submit a proposal.”
+AI for generating new insights. Rather than several disparate
+However, buying space systems as products does not fully
+agencies enacting their own commercial agreements
+access the innovation and capabilities in the commercial
+and then holding their newfound sensing data hostage,
+space remote sensing market. Many commercial space
+combining this sensing in common cloud environments
+companies are built around a services-based business
+can unlock new insights for strategic competition. While
+model where the data collected can be sold to more than
+commercial remote sensing is central to enabling a
+one customer. The product-based model puts relatively
+national security enterprise that can dominate in strategic
+more risk on the government in terms of up-front costs,
+competition, the way that the government integrates these
+technology obsolescence, operating costs, and capacity
+commercial capabilities is key.
+limitations. Buying remote sensing as a service allows the
+government to leverage private capital and put more of
+ACQUISITION APPROACHES
+these risks on the companies involved and, by extension,
+One of the biggest obstacles for the U.S. government to
+their investors. Buying space services rather than satellites
+effectively access commercial space capabilities is the
+gives commercial firms a higher incentive to drive down
+acquisition and contracting system. Many pathways exist
+operating costs and continually improve capabilities to win
+for how DoD and the IC can leverage commercial systems
+more work. And companies that are successful at selling the
+depending on whether they want to buy capabilities as
+same services to other customers (e.g., commercial as well
+a product or as a service, and the way the government
+as allied and partner governments) can use this additional
+chooses to acquire these capabilities can in turn affect
+revenue to invest in better capabilities, additional capacity,
+what companies are willing to offer. The U.S. government
+or lower prices to gain greater market share.
+has traditionally procured space systems as products,
+where it specifies requirements (often unique to the Many different approaches are available for the U.S.
+military or intel community), assumes ownership of government to buy commercial space services in ways that
+the satellites and ground systems, and operates these are compatible with commercially oriented businesses.
+systems, albeit with support from contractors. This The most basic approach is to buy images or other data
+approach is appropriate for capabilities that are truly products on a pay-as-you-go basis, with the government
+unique to the government, where the technologies being one of many potential customers. For example, the
+involved are highly sensitive or exquisite, and where the government can ask that a particular location be sensed at
+potential for a commercial market does not exist (i.e., a particular time or request data from prior passes and pay
+there are no other potential customers). But for space a negotiated fee for each request. A more comprehensive
+capabilities where commercial companies can compete or approach is to buy subscription access to a company’s
+may even have an advantage, the product-based approach catalog of data, giving the government full (but not
+CSIS BRIEFS | WWW.CSIS.ORG | 5
+
+exclusive) access to current and historical data. In addition expand the capacity available to the government in a
+to having full catalog access, the government could also crisis. The wording in the NRO’s RFP, however, is designed
+include contract options to direct satellite tasking as to not only expand the government’s collection capacity
+necessary to ensure certain locations or activities are but also to restrict capacity available to other users. When
+sensed at specified times or to place a period of exclusivity activated, this contract clause would require the contractor
+on when certain data can be made available to other users. to “permanently withhold all imagery collected by the
+Importantly, the government would need to negotiate fair Contractor’s satellites over the designated area from resale
+and equitable pricing for these options so that it does not or exposure to a public domain or interface, and shall
+undermine the business model and financial health of the make the imagery available only to users approved by the
+companies it is working with. Government.” Such a clause could potentially undercut
+some commercial applications that are based on change
+Buying space systems as products does
+detection and consistent monitoring over time because
+not fully access the innovation and the data would be permanently restricted (rather than
+temporarily withheld). It also would be ineffective in
+capabilities in the commercial space
+preventing space remote sensing over certain regions
+remote sensing market. of the world in a crisis—the ostensible reason for the
+restriction—because companies not participating in the
+A different approach would be to contract for exclusive program (including foreign-operated space remote sensing
+use of a certain fraction of a space systems’ capacity, systems) would still be free to collect and distribute data
+which would effectively be a time-sharing approach. without restriction. It would only limit the companies
+During the periods in which the government has use of participating in the program, potentially placing them at a
+the system, it could direct taskings and retain exclusive competitive disadvantage.
+use of the data collected. For example, the government
+When acquiring commercial space remote sensing services,
+could contract for 50 percent of the daily capacity of
+the government must also be mindful of how it sets
+a satellite constellation and work with the contractor
+requirements and the secondary effects this can have on
+to specify collection priorities and taskings. The data
+the market. In a truly commercial market, buyers exert
+collected during the government’s time using the system
+influence over sellers through patronage. They choose
+would be passed to the government for its sole use, but
+whom to buy from based on what companies are offering,
+data collected during the other half of the satellites’
+and the price buyers are willing to pay is a function of
+operational capacity each day could be used by the
+how well the services provided meet their needs. When a
+company for other customers.
+dominant customer, such as the U.S. government, attempts
+The military and intelligence community have also to impose requirements on an industry, it can distort the
+explored the idea of creating a space equivalent of market and limit the ability of companies to differentiate
+the civil reserve air fleet (CRAF). CRAF allows U.S. themselves. Government-imposed requirements can
+Transportation Command (USTRANSCOM) the ability to undercut the diversity of capabilities being offered and the
+access additional airlift capacity quickly in an emergency unique characteristics that may make some companies
+when the need for airlift exceeds the capacity of U.S. more competitive for other customers, which can
+military aircraft. Air carriers are incentivized to commit ultimately narrow the market and limit the incentives for
+aircraft to the CRAF program because it gives them the commercial investment and innovation.
+opportunity to compete for regular airlift contracts—and
+The acquisition strategy used for commercial space
+their priority for bidding on task orders is higher the
+remote sensing also needs to ensure it creates on-ramp
+more aircraft they commit to CRAF.
+opportunities for new companies to bid and compete
+A draft request for proposals (RFP) issued by the National as their capabilities come online. The commercial space
+Reconnaissance Office (NRO) in proposed a market is fast-paced, with new companies emerging
+contract clause that appears intended to create something frequently. If the government wants to move fast and
+akin to a civil reserve space fleet. But the contract clause innovate more rapidly, it needs to create opportunities for
+as proposed differs from the CRAF model in several new companies to get on contract and begin competing for
+important ways. CRAF is fundamentally designed to task orders on a rolling basis rather than waiting months
+CSIS BRIEFS | WWW.CSIS.ORG | 6
+
+or sometimes years for contract opportunities. Smaller American leadership in space commerce.” The Department
+firms can have cash-flow issues, and investors often want of Commerce began the review and update process shortly
+to see a demonstrated ability to earn revenue before thereafter, and the updated regulations were issued in
+committing more funds. The government can facilitate this 2020. Despite these updates to strategy and regulations,
+by allowing companies to begin earning revenue as soon as the U.S. Commercial Remote Sensing Policy (NSPD-17)
+their capabilities warrant it by offering contract on-ramps has not been updated since .
+more frequently. The Biden administration appears to be continuing many
+of the key elements of the previous administration’s space
+POLICY ISSUES
+strategy and policy initiatives. In its U.S. Space Priorities
+The U.S. government is not just a dominant buyer (or Framework, which was released at the first meeting of
+potential buyer) of commercial space remote sensing data. the National Space Council under the new administration,
+It is also a regulator that controls what capabilities U.S. the Biden administration outlined several policy priorities
+companies can build, how they operate, and what they for space. One of its priorities is to foster a “regulatory
+are allowed to sell. Commercial licenses for space-based environment that enables a competitive and burgeoning
+remote sensing are processed, approved, and supervised U.S. commercial space sector.” It intends to do this in part by
+by the Department of Commerce’s National Oceanic and working “with allies and partners to update and harmonize
+Atmospheric Agency, in consultation with the military, space policies, regulations, export controls, and other
+IC, Department of State, and other relevant government measures that govern commercial activities worldwide.”
+agencies. However, the U.S. government can only regulate
+The United States therefore has a
+the activities of U.S. companies and U.S. personnel. It
+cannot regulate foreign companies or control what kind vested interest in maintaining a
+of data they collect, when they collect it, or how the data
+competitive advantage in commercial
+is stored and distributed. For example, a foreign-owned
+company can collect data over sensitive locations where U.S. space remote sensing so that the most
+companies are restricted. Conversely, a foreign government
+capable companies remain within its
+could stop one of its companies from selling data to the U.S.
+government during a crisis. The United States therefore has jurisdiction and accessible to the U.S.
+a vested interest in maintaining a competitive advantage in
+government.
+commercial space remote sensing so that the most capable
+companies remain within its jurisdiction and accessible to
+A move toward more consistent regulations across allies
+the U.S. government. The challenge, however, is balancing
+and partners is essential to creating a level playing field
+the need to protect national security interests with the
+for commercial space companies. U.S. regulations for
+desire to promote a more competitive commercial sector.
+commercial space remote sensing have traditionally set
+The are several tools through which the U.S. government thresholds for the level of resolution allowed by U.S.
+can establish a favorable balance between security and commercial satellites based on the best resolution available
+commerce. The National Space Strategy, last updated in from foreign sources—or what is expected to be available
+, establishes four pillars that are intended to in the near future. This holds back U.S. companies until
+drive a whole-of-government approach for space. One foreign competitors advance their capabilities, creating
+of the four pillars calls on the government to “foster what is effectively a perpetual second-mover disadvantage.
+conducive domestic and international environments” for Setting regulations in concert with other countries—rather
+space by streamlining “regulatory frameworks, policies, and than in reaction to what they are doing—can break the
+processes to better leverage and support U.S. commercial United States out of this dilemma.
+industry.” This overarching strategy was complemented The Space Priorities Framework includes export controls
+two months later by Space Policy Directive-2 (SPD-2), among the list of items it intends to harmonize with allies
+which provided greater detail for how the streamlining and partners. This is important because export controls
+of commercial space regulations should proceed. Section can serve as a “back door” means of regulating commercial
+3 of SPD-2 called for a review and update of regulations space activities. Export controls can be used to restrict
+pertaining to commercial remote sensing to “encourage commercial space activities that are already licensed or
+CSIS BRIEFS | WWW.CSIS.ORG | 7
+
+do not require a license under existing U.S. laws and combatant commands,” “any gaps” in meeting current
+regulations by restricting the release of data products (e.g., demands for ISR, and “an assessment of how commercial
+images) derived from these systems. capabilities can be integrated into the current and
+planned sensor-to-shooter programs across the services.”
+The Space Policy Framework also states that “the United
+It also requires a separate report detailing how DoD is
+States will leverage new commercial space capabilities
+implementing the policy guidance in the FY 2021 NDAA,
+and services to meet national security requirements.”
+This policy could potentially be a boost to commercial specifically with regard to leveraging commercial space-
+space remote sensing companies if DoD and the IC follow based RF capabilities. The final version of the FY 2022
+through with new programs and contract opportunities. NDAA also included a provision requiring the service
+acquisition executive for space to “determine whether
+The United States is at a critical point in how it regulates
+existing or planned commercially available capabilities
+commercial space remote sensing. The policy and
+could meet all or a portion of the requirements” for space
+regulatory missteps of the 1990s for commercial SAR
+acquisition programs before they are formally established
+satellites should serve as a lesson for policymakers
+as a program of record. Overall, the language in the House
+today. The U.S. government stifled the development
+report and the text of the FY 2022 NDAA suggest that the
+of commercial SAR satellites by U.S. companies and
+defense committees continue to take a keen interest in
+effectively ceded the market to Canada and Germany. To
+this issue and may legislate further—potentially through
+maintain U.S. leadership and a level playing field in this
+appropriations as well as policy—if the reports requested
+critical market segment, U.S. policies and regulations
+and the FY 2023 budget submission do not satisfy
+must continually adapt to ensure that U.S. companies are
+congressional objectives.
+not held back in terms of their capabilities until foreign
+companies catch up or exceed them. While the regulatory
+CONCLUSIONS
+updates in 2020 were a step in the right direction, a key
+factor in whether these changes will be effective is how the Space remote sensing has been an important component
+new regulations are interpreted and applied. of U.S. intelligence collection and power projection
+capabilities for more than six decades. While the
+The House and Senate Armed Services Committees have
+paradigms that initially developed for space remote
+actively pushed the executive branch to use commercial
+sensing (government-developed satellites, human
+space remote sensing for national security missions
+processing, and siloed data) served the nation well
+in recent years. Section 1612 of the FY 2021 National
+throughout the Cold War, advances in commercial
+Defense Authorization Act (NDAA) requires DoD and
+space remote sensing offer the potential to alter these
+the IC to leverage commercial space remote sensing
+paradigms in ways that provide new advantages. The
+capabilities “to the extent practicable.” It specifically
+commercial space remote sensing industry is advancing
+requires the NRO and NGA to consider in their analysis
+rapidly in terms of satellite technology, advanced
+of alternatives for future capabilities “whether there is a
+sensors and sensing methods, large constellations,
+cost-effective domestic commercial capability or service
+and high revisit rates. Moreover, the industry is
+available that can meet any or all of the geospatial-
+leveraging AI systems to rapidly process raw sensing
+intelligence requirements of the Department of Defense,
+data into actionable products for human analysts,
+the intelligence community, or both.” If such a capability is
+available, the law directs that the NRO and NGA will “give and it is using secure cloud-based systems for storage
+preference to using such domestic commercial capability and dissemination to eliminate data silos. To be sure,
+or service to meet requirements.” commercial systems will never be a replacement
+for exquisite government-owned and government-
+The FY 2022 NDAA also included several provisions
+operated space remote sensing capabilities, and some
+related to DoD’s use of commercial space services. The
+missions may not be appropriate for commercial sensing
+report accompanying the House version of the bill
+capabilities. But as both Congress and the National
+included language reinforcing the committee’s emphasis
+Space Council have recognized, commercial space
+on leveraging commercial capabilities. It directed DoD,
+remote sensing should be an important component of
+in consultation with NRO and NGA, to submit a report
+the overall ISR architecture for DoD and the IC.
+to Congress “identifying each commercial vendor that
+provides global imagery to support Department of Defense As this report has noted, one of the main obstacles to
+CSIS BRIEFS | WWW.CSIS.ORG | 8
+
+effectively leveraging commercial capabilities is the
+acquisition and contracting system within the U.S.
+government. The traditional approach of buying space
+remote sensing capabilities as a product rather than a
+service is incompatible with the business model of many
+commercially oriented firms. Moreover, the multiyear
+requirements development and funding process typically
+used by DoD and the IC for acquisition programs is
+far too slow to keep pace with the innovation cycle of
+commercial space companies and the capabilities of
+U.S. allies and adversaries alike. To fully leverage the
+innovation, capabilities, and additional capacity offered
+by commercial space remote sensing companies, the U.S.
+government will need to adjust its acquisition approaches
+to focus on buying services rather than products and
+creating contract on-ramp opportunities on a more
+frequent basis.
+There appears to be agreement among members of
+Congress and the Biden administration that a robust
+commercial space remote sensing sector is important for
+U.S. national security and that the military and IC should
+more effectively leverage commercial capabilities. The real
+measure of commitment, however, is whether these policy
+objectives manifest themselves in contracts and funding
+opportunities over the coming months and years.
+Todd Harrison is the director of Defense Budget Analysis and
+director of the Aerospace Security Project at the Center for
+Strategic and International Studies (CSIS) in Washington,
+D.C. Matthew Strohmeyer is a military fellow with the
+International Security Program at CSIS.
+This brief is made possible with generous support from
+Hawkeye360, Planet, and Umbra.
+CSIS BRIEFS are produced by the Center for Strategic and International Studies (CSIS), a private, tax-exempt institution
+focusing on international public policy issues. Its research is nonpartisan and nonproprietary. CSIS does not take specific
+policy positions. Accordingly, all views, positions, and conclusions expressed in this publication should be understood to
+be solely those of the author(s). © 2022 by the Center for Strategic and International Studies. All rights reserved.
+Cover Photo: NASA
+CSIS BRIEFS | WWW.CSIS.ORG | 9

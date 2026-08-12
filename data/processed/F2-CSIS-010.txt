@@ -1,0 +1,507 @@
+September 15, 2021
+Photo by: National Aeronautics and Space Administration
+On-Orbit Servicing
+Opportunities for U.S. Military Satellite Resiliency
+BY Hannah Duke
+Satellites endure the harsh environment of space almost periodically serviced and upgraded over time. As
+completely on their own. If something goes wrong, it is competition in space rises, satellite owners and
+extremely difficult to physically access a satellite once it operators need to start thinking about how servicing
+is in orbit. It has been this way since the first satellite capabilities used on Earth can be extrapolated for use in
+was launched in 1957. Imagine the air conditioning in a space. This involves developing robust on-orbit
+house breaks, but you cannot fix it. So instead, you must servicing capabilities as well as making space assets
+abandon the house and buy a new one. Or imagine that serviceable in the future.
+every time a car runs out of gas, you take it to the
+“There is nowhere on Earth where we spend a billion
+junkyard and then buy a new car. This is how satellites
+dollars on a system and then never inspect it, and never
+are treated on-orbit. When satellites run out of
+maintain it, and never upgrade it.”
+propellant, they are deorbited or retired to a graveyard
+orbit. Or if something breaks—say, a solar panel fails to – Dr. Gordon Roesler, former DARPA RSGS program manager
+deploy—millions or even billions of dollars could be lost
+over a potentially simple mechanical anomaly.
+Hannah Duke was a research intern for the Aerospace
+Military satellites launched to geostationary orbit (GEO) Security Project at the Center for Strategic and
+can cost over a billion dollars.1 On Earth, multimillion- International Studies in Washington, D.C.
+dollar military assets do not sit untended; they are
+AEROSPACE.CSIS.ORG | 1
+
+The term on-orbit servicing (OOS) encompasses a set of they have. However, NASA’s servicing missions usually
+emerging capabilities that provide access to satellites involve humans, which is not ideal for servicing
+after launch, which could potentially revolutionize satellites in orbits as high as GEO. For OOS to become a
+logistics and resiliency in space. For example, being able robust capability for the DoD, it needs to utilize
+to upgrade sensors or add capabilities every few years, autonomous robotic technologies.
+maneuver without regret, and inspect and repair
+The Defense Advanced Research Projects Agency
+satellites will cause a shift in the way satellites are
+(DARPA) demonstrated robotic refueling capabilities in
+designed, launched, and operated. Though OOS poses
+2007 with its Orbital Express program.3 Since then,
+many benefits for the commercial space industry, this
+SpaceLogistics LLC, a subsidiary of Northrop Grumman,
+paper will focus on the benefits that OOS can provide
+has successfully demonstrated OOS capabilities in GEO
+the Department of Defense (DoD) and military-centric
+on two commercial missions, MEV-1 in 2020 and MEV-2
+operations in space.
+in 2021.4 The Mission Extension Vehicle (MEV) docks to a
+What is on-orbit servicing (OOS)? client and uses the MEV’s thrusters to extend the lifetime
+of the client satellite.5 In this piggyback manner, when
+Typically, discussions about spacecraft servicing are
+the client satellite runs out of fuel, the MEV uses its fuel
+included in a larger grouping called on-orbit servicing,
+to keep the client operational for up to five more years.6
+assembly, and manufacturing (OSAM). This grouping is
+DARPA has another program called Robotic Servicing of
+broad and covers everything from repairing spacecraft
+Geosynchronous Satellites (RSGS), which has been
+to assembling space stations to 3D printing in space.
+developing robotic arms capable of repair, upgrade
+While these capabilities are related to each other, this
+installation, inspection, and relocation.7 RSGS is
+paper will focus solely on on-orbit servicing (OOS) and
+scheduled to launch these robotic arms on
+how it enhances logistics and resiliency of DoD
+SpaceLogistics’ Mission Robotic Vehicle (MRV) satellite
+operations in space.
+bus in 2024.8
+OOS is defined as the observation or alteration
+of a satellite after initial launch by another
+spacecraft, also referred to as the servicing
+vehicle.2 OOS encompasses inspecting,
+refueling, repairing, relocating, or upgrading a
+satellite while in orbit. For example, a servicing
+vehicle can extend the lifetime of a satellite by
+conducting a maintenance repair, taking over
+stationkeeping and maneuver functions, or
+transferring propellant.
+Figure 1: DARPA Robotic Servicing of Geosynchronous Satellites (RSGS)
+The concept of servicing a spacecraft on-orbit is
+How does OOS fit into DoD’s space strategy?
+not new; NASA has been doing it for decades. NASA
+astronauts have serviced the Hubble Space Telescope Satellites are essential to modern military operations.
+numerous times and service the International Space These space assets support ground operations by
+Station routinely. Without the ability to repair or replace providing superior communications; missile warning;
+parts, these spacecraft would not have lasted as long as position, navigation, and timing (PNT) capabilities; and
+2 | DUKE | On-Orbit Servicing
+
+sensing of key areas on Earth.9 Particularly in GEO, these countries continue developing OOS capabilities, either
+satellites can be multimillion-dollar assets that take up for SML or counterspace purposes, it is important for the
+to a decade to develop, so it is important to be able to DoD to consider how OOS can enhance logistics and
+protect and maintain them.10 resiliency in U.S. military space operations.
+On-orbit servicing enables technology upgrades, “No nation has maintained a dominant position in a
+repairs, and inspection of these satellites so that they domain (air, land, maritime, space, and cyber) without a
+can be maintained and kept in service for longer. OOS superior capability for movement and sustainment within
+also enables the ability to maneuver these satellites that domain.”
+without regret and can help speed up acquisition
+- 2020 State of the Space Industrial Base Report
+timelines. Each of these capabilities enhances logistics
+and resiliency in space. The 2020 Space Force Capstone OOS Benefits for DoD
+Publication, Spacepower, highlighted space mobility
+On-orbit servicing (OOS) contributes to greater satellite
+and logistics (SML) as one of five core competencies of
+resiliency by enabling the ability to upgrade, refuel,
+military spacepower.11 As Space Force doctrine defines
+repair, and inspect satellites. OOS can also help mitigate
+it, SML “enables movement and support of military
+orbital debris. Each section below will explore how
+equipment and personnel in the space domain.”12 The
+these capabilities can benefit DoD operations in space.
+publication describes orbital sustainment as an
+important application of SML. Orbital sustainment Upgrade
+involves the ability to “replenish consumables and
+Due to lengthy development timelines and longer
+expendables on spacecraft” and enables “spacecraft
+lifespans of satellites in GEO, it can be difficult to keep
+inspection, anomaly resolution, hardware maintenance,
+those satellites up to date. However, this is critical to
+and technology upgrades.”13 These orbital sustainment
+maintaining superior space operations. OOS can help
+activities can be accomplished through on-orbit
+address this by providing a means to upgrade satellite
+servicing.
+technology components on-orbit at a lower cost than
+Developing robust OOS capabilities is integral to building and launching an entirely new satellite. A
+maintaining superior SML in space. According to the servicer spacecraft can dock with a satellite and attach
+Space Force, SML is relatively uncontested right now, modules with new sensors, communications systems, or
+but as U.S. competitors continue investing in space replacements for failed parts, similar to how certain
+capabilities, this may change.14 Other countries with hardware components in computers can be replaced.
+robust space programs, such as Russia and China, have Updating sensors or other components every few years
+demonstrated sophisticated on-orbit capabilities such would help bolster a satellite’s defenses and better
+as rendezvous and proximity operations (RPOs) with protect classified data. For example, a client satellite
+inspection satellites.15 For example, a Chinese inspector could receive a new defensive payload that upgrades its
+satellite, Shijian-17, has a robotic arm and has jamming capabilities or an encryption hardware
+performed a variety of orbital maneuvers in GEO to upgrade that strengthens its communications systems.
+approach other Chinese satellites.16 17 This could be a
+Modular payloads can add new capabilities to satellites
+reflection of an investment in OOS-related capabilities
+relatively quickly because these modules can be
+or it could be related to developing counterspace
+developed and launched on their own timelines. The
+capabilities. It can be hard to determine the intent of
+benefit of a module is that it does not have to be
+these types of capabilities. Regardless, as other
+| 3
+
+integrated into a satellite bus prior to launch; a servicing military satellites secure and technologically
+vehicle can simply attach a module to the client satellite sophisticated.
+already in orbit. This helps lower mission costs and
+Refuel
+speed up the timeline for developing, launching, and
+integrating new capabilities with existing military The amount of on-board propellant can ultimately
+satellites. As the space domain becomes more determine the lifespan of a satellite. Without propellant,
+contested, a modular upgrade process can help the DoD a satellite has no way to maintain its position and
+respond more quickly and efficiently to threats. It also orientation in orbit (called stationkeeping), so it must be
+keeps an adversary guessing a satellite’s capabilities if deorbited or retired to a graveyard orbit.23 Since solar
+they are being upgraded or changed over time. power usually powers a satellite’s onboard computers
+and sensors, a satellite may still be operational after
+An example of where this capability could be useful is
+running out of propellant. However, without the ability
+with the Advanced Extremely High Frequency (AEHF)
+to stationkeep, the satellite cannot continue fulfilling its
+program, a jam-resistant military communications
+mission objectives.
+constellation that is being replaced by the next-
+generation Evolved Strategic Satellite Communications If satellites could be refueled by a servicing vehicle, it
+(ESS) program and the Protected Tactical SATCOM (PTS) could extend the satellite’s lifetime potentially by years.
+system.18 The ability to attach a module with new A servicing vehicle can refuel a client by transferring
+capabilities from the ESS or PTS program to an existing propellant. This is similar to what SpaceLogistics did in
+AEHF satellite could help with the transition between 2020 and 2021 for two Intelsat satellites. However, the
+these systems.19 If AEHF had been designed to support MEV doesn’t refuel client satellites directly; it docks with
+modular upgrades, the existing constellation could have the client and uses its own fuel to extend the client’s
+been updated and built upon instead of being fully lifetime.24 This “piggyback” life extension service is
+replaced, which could have saved billions of taxpayer currently enabling two Intelsat satellites to provide
+dollars. This concept is similar to the Navy’s EA-18G communications for up to five more years.25 This was an
+Growler aircraft, which is being equipped with an important demonstration because it proved that
+external Next Generation Jammer pod to upgrade servicing capabilities are viable for clients that were not
+electronic warfare capabilities instead of replacing the originally designed to be serviced.
+entire aircraft.20
+A similar upcoming mission is NASA’s On-orbit Servicing,
+DARPA’s RSGS program hopes to demonstrate robotic Assembly, and Manufacturing (OSAM) 1, which plans to
+installation of new payloads carrying upgrades.21 For demonstrate robotic refueling services in low-Earth
+now, these attachable payloads would need their own orbit (LEO) for a U.S. government satellite, Landsat 7,
+means of power and communication since most host that was not designed to be refueled.26 The OOS
+satellites are not designed to support upgrades. spacecraft bus is designed by Maxar Technologies and
+However, future satellites can include interfaces that will support a NASA Goddard payload of two robotic
+enable data and power transfers.22 It will be important arms that will grab, refuel, and relocate the client
+to make these interfaces standardized across industry, satellite.27 This demonstration is an important proof of
+similar to a USB port on a computer. As technology concept because, unlike MEV’s piggyback life extension,
+continues to improve rapidly, OOS provides a way to OSAM-1 aims to directly refuel the client satellite.
+match the evolving technology pace and keep critical Without standardized grapple fixtures, it is difficult to
+service a satellite already in orbit. These missions are
+4 | DUKE | On-Orbit Servicing
+
+helping shape standards for servicing and rendezvous without a full load of fuel so they can carry more
+and proximity operations (RPOs). The NASA mission will payload, and once they are at altitude, they refuel.
+also include another payload by Maxar called the Space Ideally, future spacecraft will have standardized fuel
+Infrastructure Dexterous Robot (SPIDER), a robotic arm valves so that they can be easily refueled by a servicing
+that will demonstrate on-orbit assembly and vehicle.
+manufacturing.28
+Repair
+Being able to directly refuel a satellite or use a
+The ability to repair space assets is an important aspect
+piggyback life extension service enables an expanded
+of satellite resiliency. Currently, if a military satellite’s
+satellite architecture as older satellites are kept in
+antenna breaks or a solar panel doesn’t deploy
+operation for longer. If a satellite in a graveyard orbit is
+correctly, the entire mission could fail, resulting in the
+still functional, a servicing vehicle can bring it back to
+loss of hundreds of millions of taxpayer dollars. In some
+operational orbit, similar to what MEV did for Intelsat
+cases, less than a pound of force may be necessary to fix
+901.29 In a conflict, this could potentially add surprise
+mechanical problems, but because it is currently
+redundancy as OOS vehicles retrieve or refuel
+infeasible to physically access satellites on-orbit, a
+decommissioned satellites, returning them to full
+simple mechanical anomaly can be devastating.31 OOS
+operation.
+provides that physical access to space assets that is
+Even before a satellite is retired, refueling could give a currently lacking. Another feature of DARPA’s RSGS
+satellite enough extra fuel to relocate to a new location program is the development of robotic arms to
+within an orbit. This could be useful for strategic or demonstrate that robotic repairs on-orbit are feasible
+defensive purposes. For example, during the Gulf War, and can be a key tool in increasing satellite resiliency.
+military satellites were maneuvered so that more GPS
+Inspect
+satellites passed over the Persian Gulf to increase global
+positioning system (GPS) availability in that area.30 OOS vehicles can use cameras for imaging a satellite up
+Alternatively, if a satellite is in a vulnerable position, it close or from a distance. These images provide an
+can perform a defensive maneuver and change its additional way to inspect satellites on-orbit. If a satellite
+location within an orbit. To make these maneuvers, experiences an anomaly, an external inspection can
+satellites must expend fuel, which reduces the overall identify the issue and help operators with anomaly
+lifespan of a satellite. However, with a refueling resolution. Inspection is also an important precursor to
+capability, an operator can maneuver a satellite without any repair or upgrade operation. Since a servicing
+sacrificing the overall lifespan of the satellite. This is vehicle needs to attach to a client to perform a repair or
+known as “maneuvering without regret” and is key to attach a module, it’s crucial to thoroughly inspect the
+superior SML. client before attempting an RPO. For example,
+SpaceLogistics’ MEV vehicles used cameras, onboard
+Finally, launching all the fuel a satellite will need for its
+computers, and laser rangefinders to thoroughly inspect
+entire lifetime at once adds greatly to the mission
+Intelsat’s satellites before docking.32 Without thorough
+weight, which limits available launch options, and cost.
+inspection capabilities, the two spacecraft could be in
+Being able to refuel on-orbit means that satellites could
+danger of colliding and damaging or destroying both
+launch with less propellant, thus reducing launch cost
+spacecraft in the docking attempt.
+and weight so that more launch providers could be
+used. This is similar to how some military planes takeoff
+| 5
+
+Inspection capabilities also increase in-situ space reaches its end of life (EOL), OOS vehicles can deorbit or
+situational awareness (SSA). The ability to inspect other relocate a satellite to a graveyard orbit. OOS can also
+satellites by taking images from space is an important help declutter orbits by grappling and relocating
+deterrence capability because it makes the space existing orbital debris. Private company missions like
+domain more transparent. In-situ inspection allows for a the recently launched End-of-Life Services by Astroscale
+more detailed characterization of space objects that demonstration (ELSA-d), are developing servicing
+might not be possible with ground-based sensors.33 technologies for life extension, EOL, and debris
+Inspection also allows a user to track behaviors in space mitigation.35
+and better determine
+their purpose. For
+example, on-orbit
+inspection can help
+determine whether
+anomalous satellite
+maneuvers are due to
+nefarious activities or
+simply avoiding a piece
+of space debris.
+Inspection is currently
+being used to gain more
+Figure 2: Objects in Space. Credit: European Space Agency
+situational awareness
+about other nations’ In , the Secretary of Defense released a memo
+satellites. For example, the U.S. Geosynchronous Space outlining tenets of responsible military behavior in
+Situational Awareness Program (GSSAP) includes space.36 One of the tenets is to “limit the generation of
+multiple satellites in the near-GEO region that can long-lived debris.”37 A way to make sure that debris is
+inspect other space objects and perform RPOs.34 The not “long-lived” is to actively remove it through OOS.
+GSSAP program could utilize servicing satellites as part The DoD helps set international norms of behavior in
+of its inspection constellation to increase redundancy space through example, and debris mitigation should
+and coverage of the GEO belt. continue being a priority to keep the space domain
+sustainable for future military, civilian, and commercial
+Debris Mitigation
+activity.
+Part of maintaining superior SML is ensuring the
+Challenges & Recommendations
+environment remains sustainable. GEO is a high-value
+orbit for military activity, but it is also a limited resource.
+The Chicken and the Egg
+Similarly, high-value LEO orbits are getting more
+As OOS capabilities continue to emerge, it will be
+crowded, and the risk of debris colliding with an
+important for the DoD to clearly communicate its needs
+operational spacecraft is rising. In all operating orbits,
+to industry. If commercial companies do not see a
+the DoD should consider how OOS can aid in keeping
+demand for OOS, then there is little incentive to develop
+the space domain sustainable. OOS can help extend a
+or continue investing in these capabilities. However, if
+satellite’s life through refueling or upgrading so that less
+there are not commercially available servicing
+proliferation of space assets is needed. Once a satellite
+6 | DUKE | On-Orbit Servicing
+
+capabilities, then government stakeholders may not see slots to serve multiple customers.42 Ideally, servicing
+a need to make their satellites serviceable. This is a vehicles could have their own spectrum allocation that
+classic chicken and egg problem.38 The DoD can help allows them to access spectrum across multiple orbital
+solve this dilemma by continuing to invest in programs slots.
+like DARPA’s RSGS, which helps further demonstrate the
+Another regulatory challenge involves remote sensing
+technological feasibility of robotic on-orbit servicing.
+licenses. Since servicing satellites use cameras for
+RSGS’s partnership with SpaceLogistics also helps
+inspecting client satellites, they need remote sensing
+assure the commercial sector that the DoD is interested
+licenses even if their intention is not to take images of
+in investing time and resources into these services. By
+Earth.43 Obtaining these licenses is a lengthy process
+sharing case studies and specific DoD needs for
+because it goes through national security review.44 The
+servicing, commercial companies will have more
+first step in addressing these regulatory obstacles is
+guidance for which servicing technologies should
+having the federal government outline high-level policy
+receive priority investment.
+priorities for servicing. From there, separate regulations
+Another key step the DoD can take to support the could be created specifically for the OOS industry so
+emerging servicing industry is to design future satellites that it does not have to go through as many
+to be serviceable. For example, military satellites can bureaucratic hoops.
+include standardized grapple fixtures, refueling valves,
+Additionally, the liability involved in these operations
+and interfaces for connecting modular payloads to
+may be a challenge. The International Space Station
+satellite buses. NASA recently partnered with three
+(ISS) sets some precedent for multilateral servicing
+commercial companies, Altius Space Machines,
+agreements, but a robust OOS industry will need more
+Honeybee Robotics, and Orbit Fab, to start developing
+thorough liability procedures. For example, if two
+and testing various autonomous, robotic grapple
+parties interested in a servicing partnership agree to
+fixtures.39 Additionally, DARPA runs the Consortium for
+waive liability, what happens if an uninvolved third
+Execution of Rendezvous and Servicing Operations
+party is somehow affected? Nations are ultimately liable
+(CONFERS) which aims to develop technical and safety
+for private citizen activity in space, so commercial
+standards for a reliable and responsible OOS industry.40
+companies can potentially be limited in their operations
+DARPA is transitioning CONFERS leadership over to
+if their respective governments do not approve of their
+industry so that the commercial sector has more say in
+plans.45
+shaping these standards. Having standardized
+components and procedures for RPO will help boost Conclusion
+investors’ confidence in this emerging industry.
+OOS capabilities can enhance military operations in
+Policy Challenges
+space by enabling mobility and logistics and increasing
+resiliency and redundancy of satellite systems. Being
+In order for the servicing industry to thrive, regulation
+able to upgrade, refuel, relocate, repair, and inspect
+and liability issues should be addressed. For example,
+satellites on-orbit can revolutionize the way the DoD
+OOS vehicles typically have to ask the federal
+operates in the space domain. OOS can also help enable
+government to share spectrum.41 GEO is particularly
+the ability to maneuver satellites without regret and
+difficult because the International Telecommunication
+mitigate orbital debris. DoD investment in programs like
+Union (ITU) only allocates spectrum by orbital slot, but
+RSGS reflects an interest in developing these
+servicing vehicles will need to travel through multiple
+| 7
+
+capabilities. Companies like SpaceLogistics are already Acronyms
+demonstrating satellite mission extension services that
+CONFERS – Consortium for Execution of Rendezvous
+can greatly increase military satellite resiliency and
+and Servicing Operations
+redundancy. As other countries with robust space
+programs pursue sophisticated OOS capabilities, it will
+DARPA – Defense Advanced Research Projects Agency
+be integral for the DoD to incorporate these services into
+DoD – Department of Defense
+its space operations. By stating clear needs, setting
+policy priorities, and addressing the regulatory ELSA-d – End-of-Life Services by Astroscale
+challenges involved, the DoD can help bolster demonstration
+commercial investment in OOS. As the space domain
+EOL – End of life
+becomes more contested, it is important to embrace
+emerging capabilities like on-orbit servicing that can GEO – Geostationary orbit
+help maintain superior DoD operations in space.
+GSSAP – Geosynchronous Space Situational Awareness
+Program
+Acknowledgements ISS – International Space Station
+ITU – International Telecommunication Union
+Special thanks to Joe Anderson, Nick Boensch, Renata
+Kommel, Thomas Roberts, Gordon Roesler, and Charity
+LEO – Low-Earth orbit
+Weeden for sharing their expertise and insight on the
+MEV – Mission Extension Vehicle
+topic of OOS.
+NASA – National Aeronautics and Space Administration
+OOS – On-orbit servicing
+OSAM – On-orbit servicing, assembly, and
+manufacturing
+RPO – Rendezvous and proximity operations
+RSGS – Robotic Servicing of Geosynchronous Satellites
+SPIDER – Space Infrastructure Dexterous Robot
+SSA – Space situational awareness
+8 | DUKE | On-Orbit Servicing
+
+About CSIS
+The Center for Strategic and International Studies (CSIS) is a bipartisan, nonprofit policy research organization dedicated to
+advancing practical ideas to address the world’s greatest challenges.
+Thomas J. Pritzker was named chairman of the CSIS Board of Trustees in 2015, succeeding former U.S. Senator Sam Nunn (D-GA).
+Founded in 1962, CSIS is led by John J. Hamre, who has served as president and chief executive officer since 2000.
+CSIS’s purpose is to define the future of national security. We are guided by a distinct set of values—nonpartisanship,
+independent thought, innovative thinking, cross-disciplinary scholarship, integrity and professionalism, and talent development.
+CSIS’s values work in concert toward the goal of making real-world impact.
+CSIS scholars bring their policy expertise, judgment, and robust networks to their research, analysis, and recommendations. We
+organize conferences, publish, lecture, and make media appearances that aim to increase the knowledge, awareness, and
+salience of policy issues with relevant stakeholders and the interested public.
+CSIS has impact when our research helps to inform the decisionmaking of key policymakers and the thinking of key influencers.
+We work toward a vision of a safer and more prosperous world.
+CSIS is ranked the number one think tank in the United States as well as the defense and national security center of excellence for
+2016-2018 by the University of Pennsylvania’s annual think tank report.
+CSIS does not take specific policy positions; accordingly, all views expressed herein should be understood to be solely those of
+the author(s).
+| 9
+
+ENDNOTES
+1 Flight Software Workshop, “Day 1 - Keynote - Gordon Roesler,” YouTube video, 1:10:46, February 16th, 2018,
+
+2 Amana Abdurrezak et al., Global Trends in On Orbit Servicing, Assembly and Manufacturing (OSAM) (Washington, DC: IDA Science
+and Technology Policy Institute, 2020), 
+servicing-assembly-and-manufacturing-osam/d-13161.ashx.
+3 “Orbital Express,” Defense Advanced Research Projects Agency, accessed , 
+us/timeline/orbital-express.
+4 “SpaceLogistics,” Northrop Grumman, accessed , 
+5 Ibid.
+6 Ibid.
+7 Ibid.
+8 Joe Anderson, (Vice President of Operations and Business Development for SpaceLogistics LLC, a wholly owned subsidiary of
+Northrop Grumman), in discussion with the author, .
+9 Defense Intelligence Agency, Challenges to Security in Space (Washington, DC, 2019),
+
+10 DARPAtv, “TTO Technical Panel: Space and Maritime,” YouTube video, 1:06:39, December 7, 2018,
+
+11 United States Space Force Capstone Publication, Spacepower: Doctrine for Space Forces (2020),
+
+12 Ibid.
+13 Ibid.
+14 Ibid.
+15 Defense Intelligence Agency, Challenges to Security in Space.
+16 General James H. Dickinson, Presentation to the Senate Armed Services Committee, U.S. Senate (United States Space Command,
+2021), 
+17 Todd Harrison et al., Space Threat Assessment 2021 (Washington, DC: Center for Strategic and International Studies, 2021),
+
+18 Capt. Elizabeth Forbes, “End of an Era: The AEHF Program comes to a close,” Los Angeles Air Force Base, U.S. Air Force, accessed
+, 
+19 Joe Anderson, in discussion with the author.
+20 “Next Generation Jammer,” Naval Air Systems Command, accessed , 
+Generation-Jammer.
+21 “SpaceLogistics,” Northrop Grumman.
+22 Abdurrezak et al., Global Trends.
+23 Dr. Gordon Roesler, (former program manager of DARPA’s RSGS program), in discussion with the author, .
+10 | DUKE | On-Orbit Servicing
+
+24 “SpaceLogistics,” Northrop Grumman.
+25 Ibid.
+26 “NASA’s On-orbit Servicing, Assembly, and Manufacturing 1 Mission Ready for Spacecraft Build,” National Aeronautics and Space
+Administration, last modified May 6, 2021, accessed , 
+orbit-servicing-assembly-and-manufacturing-1-mission-ready-for-spacecraft.
+27 Ibid.
+28 Ibid.
+29 Joe Anderson, in discussion with the author.
+30 Space and Missile Systems Center and SMC History Office, “Evolution of GPS: From Desert Storm to today’s users,” U.S. Air Force,
+published March 24, 2016, accessed , 
+desert-storm-to-todays-users/.
+31 Dr. Gordon Roesler, in discussion with the author.
+32 Intelsat Corporate Communications, “MEV-1: A look back at Intelsat’s groundbreaking journey,” Intelsat (blog), April 17, 2020,
+
+33 Charity Weeden, (Vice President of Global Space Policy and Government Relations at Astroscale), in discussion with the author,
+.
+34 “Geosynchronous Space Situational Awareness Program,” U.S. Space Force, current as of , accessed ,
+
+35 “About Astroscale,” Astroscale, accessed , 
+36 Theresa Hitchens, “Exclusive: In A First, SecDef Pledges DoD To Space Norms,” Breaking Defense, July 19, 2021, accessed 
+37 Ibid.
+38 Joshua P. Davis et al., On-Orbit Servicing: Inspection, Repair, Refuel, Upgrade, and Assembly of Satellites in Space (Washington,
+DC: Aerospace, 2019), 
+39 “NASA Partners with Companies to Test Satellite Fixtures for Robotic Grappling,” National Aeronautics and Space
+Administration, last updated March 16, 2021, accessed , 
+test-satellite-fixtures-for-robotic-grappling.
+40 Ana Saplan, “Consortium for Execution of Rendezvous and Servicing Operations (CONFERS),” Defense Advanced Research
+Projects Agency, accessed , 
+operations#:~:text=CONFERS%20envisions%20a%20permanent%2C%20self,Government%20about%20on%2Dorbit%20servicin
+g.&text=The%20Agency%20also%20intends%20by,commercial%20on%2Dorbit%20servicing%20organizations.
+41 Charity Weeden, in discussion with the author.
+42 Ibid.
+43 Ibid.
+44 Ibid.
+45 Ibid.
+| 11

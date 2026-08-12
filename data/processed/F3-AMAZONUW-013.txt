@@ -1,0 +1,520 @@
+capa: au_compilado_R02, fid: 858, b_ADM2_ES: El Paujíl, b_ADM2_PCODE: CO18256, b_ADM1_ES: Caquetá, b_ADM1_PCODE: CO18, b_adm1_geral: Caquetá, b_adm2_geral: El Paujíl, b_ID_concatenated: caqueta-el_paujil, au_country: Colombia, au_level1: Caquetá, au_level2: El Paujíl, au_population: 18896, au_c_d_f: FALSO, au_emc: FALSO, au_embf: VERDADEIRO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: EMBF: Frente Rodrigo Cadete, au_popup_window_pt: EMBF: Frente Rodrigo Cadete, au_popup_window_en: EMBF: Frente Rodrigo Cadete, au_ID_concatenated: caqueta-el_paujil, au_area km: 1234.2233009875595
+
+capa: au_compilado_R02, fid: 859, b_ADM2_ES: Florencia, b_ADM2_PCODE: CO18001, b_ADM1_ES: Caquetá, b_ADM1_PCODE: CO18, b_adm1_geral: Caquetá, b_adm2_geral: Florencia, b_ID_concatenated: caqueta-florencia, au_country: Colombia, au_level1: Caquetá, au_level2: Florencia, au_population: 186497, au_c_d_f: FALSO, au_emc: VERDADEIRO, au_embf: VERDADEIRO, au_seg_marq: VERDADEIRO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - EMBF: Frente Rodrigo Cadete
+- EMC: Carolina Ramírez
+- Segunda Marquetalia (Alfonso Cano), au_popup_window_pt: - EMBF: Frente Rodrigo Cadete
+- EMC: Carolina Ramírez
+- Segunda Marquetalia (Alfonso Cano), au_popup_window_en: - EMBF: Frente Rodrigo Cadete
+- EMC: Carolina Ramírez
+- Segunda Marquetalia (Alfonso Cano), au_ID_concatenated: caqueta-florencia, au_area km: 2545.9186760090934
+
+capa: au_compilado_R02, fid: 860, b_ADM2_ES: El Doncello, b_ADM2_PCODE: CO18247, b_ADM1_ES: Caquetá, b_ADM1_PCODE: CO18, b_adm1_geral: Caquetá, b_adm2_geral: El Doncello, b_ID_concatenated: caqueta-el_doncello, au_country: Colombia, au_level1: Caquetá, au_level2: El Doncello, au_population: 19860, au_c_d_f: FALSO, au_emc: FALSO, au_embf: VERDADEIRO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: EMBF: Frente Rodrigo Cadete, au_popup_window_pt: EMBF: Frente Rodrigo Cadete, au_popup_window_en: EMBF: Frente Rodrigo Cadete, au_ID_concatenated: caqueta-el_doncello, au_area km: 1105.6483385630668
+
+capa: au_compilado_R02, fid: 861, b_ADM2_ES: La Montañita, b_ADM2_PCODE: CO18410, b_ADM1_ES: Caquetá, b_ADM1_PCODE: CO18, b_adm1_geral: Caquetá, b_adm2_geral: La Montañita, b_ID_concatenated: caqueta-la_montanita, au_country: Colombia, au_level1: Caquetá, au_level2: La Montañita, au_population: 15448, au_c_d_f: FALSO, au_emc: FALSO, au_embf: VERDADEIRO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: EMBF: Frente Rodrigo Cadete, au_popup_window_pt: EMBF: Frente Rodrigo Cadete, au_popup_window_en: EMBF: Frente Rodrigo Cadete, au_ID_concatenated: caqueta-la_montanita, au_area km: 1700.3505666542926
+
+capa: au_compilado_R02, fid: 862, b_ADM2_ES: Morelia, b_ADM2_PCODE: CO18479, b_ADM1_ES: Caquetá, b_ADM1_PCODE: CO18, b_adm1_geral: Caquetá, b_adm2_geral: Morelia, b_ID_concatenated: caqueta-morelia, au_country: Colombia, au_level1: Caquetá, au_level2: Morelia, au_population: 3805, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: VERDADEIRO, au_invest. with presence: FALSO, au_ID_concatenated: caqueta-morelia, au_area km: 462.1179968699291
+
+capa: au_compilado_R02, fid: 863, b_ADM2_ES: Guadalupe, b_ADM2_PCODE: CO41319, b_ADM1_ES: Huila, b_ADM1_PCODE: CO41, b_adm1_geral: Huila, b_adm2_geral: Guadalupe, b_ID_concatenated: huila-guadalupe, au_area km: 249.40676215456438
+
+capa: au_compilado_R02, fid: 864, b_ADM2_ES: Puerto Rico, b_ADM2_PCODE: CO18592, b_ADM1_ES: Caquetá, b_ADM1_PCODE: CO18, b_adm1_geral: Caquetá, b_adm2_geral: Puerto Rico, b_ID_concatenated: caqueta-puerto_rico, au_country: Colombia, au_level1: Caquetá, au_level2: Puerto Rico, au_population: 27430, au_c_d_f: FALSO, au_emc: FALSO, au_embf: VERDADEIRO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: EMBF: Frente Rodrigo Cadete e Ivan Diaz, au_popup_window_pt: EMBF: Frente Rodrigo Cadete e Ivan Diaz, au_popup_window_en: EMBF: Frente Rodrigo Cadete e Ivan Diaz, au_ID_concatenated: caqueta-puerto_rico, au_area km: 4145.117295683327
+
+capa: au_compilado_R02, fid: 865, b_ADM2_ES: Garzón, b_ADM2_PCODE: CO41298, b_ADM1_ES: Huila, b_ADM1_PCODE: CO41, b_adm1_geral: Huila, b_adm2_geral: Garzón, b_ID_concatenated: huila-garzon, au_area km: 606.1058994605121
+
+capa: au_compilado_R02, fid: 866, b_ADM2_ES: Pana Pana, b_ADM2_PCODE: CO94887, b_ADM1_ES: Guainía, b_ADM1_PCODE: CO94, b_adm1_geral: Guainía, b_adm2_geral: Pana Pana, b_ID_concatenated: guainia-pana_pana, au_country: Colombia, au_level1: Guainía, au_level2: Pana Pana, au_population: 2011, au_c_d_f: FALSO, au_emc: VERDADEIRO, au_embf: FALSO, au_seg_marq: VERDADEIRO, au_eln: VERDADEIRO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - ELN a través del Frente Jorge Daniel Perez Carrero
+- EMC: Bloque Amazonas (Iván Mordisco) 
+- Segunda Marquetalia a través del Frente 53 (Edison Romaña) , au_popup_window_pt: - ELN a través del Frente Jorge Daniel Perez Carrero
+- EMC: Bloque Amazonas (Iván Mordisco) 
+- Segunda Marquetalia através da Frente 53 (Edison Romaña) , au_popup_window_en: - ELN through Frente Jorge Daniel Perez Carrero
+- EMC: Bloque Amazonas (Iván Mordisco) 
+- Segunda Marquetalia through Frente 53 (Edison Romaña) , au_ID_concatenated: guainia-pana_pana, au_area km: 10149.47585077781
+
+capa: au_compilado_R02, fid: 867, b_ADM2_ES: Puerto Colombia, b_ADM2_PCODE: CO94884, b_ADM1_ES: Guainía, b_ADM1_PCODE: CO94, b_adm1_geral: Guainía, b_adm2_geral: Puerto Colombia, b_ID_concatenated: guainia-puerto_colombia, au_country: Colombia, au_level1: Guainía, au_level2: Puerto Colombia, au_population: 1983, au_c_d_f: FALSO, au_emc: VERDADEIRO, au_embf: FALSO, au_seg_marq: VERDADEIRO, au_eln: VERDADEIRO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - ELN a través del Frente Jorge Daniel Perez Carrero
+- EMC: Bloque Amazonas (Iván Mordisco) 
+- Segunda Marquetalia a través del Frente 53 (Edison Romaña) , au_popup_window_pt: - ELN a través del Frente Jorge Daniel Perez Carrero
+- EMC: Bloque Amazonas (Iván Mordisco) 
+- Segunda Marquetalia através da Frente 53 (Edison Romaña) , au_popup_window_en: - ELN through Frente Jorge Daniel Perez Carrero
+- EMC: Bloque Amazonas (Iván Mordisco) 
+- Segunda Marquetalia through Frente 53 (Edison Romaña) , au_ID_concatenated: guainia-puerto_colombia, au_area km: 15535.039806775369
+
+capa: au_compilado_R02, fid: 868, b_ADM2_ES: Morichal, b_ADM2_PCODE: CO94888, b_ADM1_ES: Guainía, b_ADM1_PCODE: CO94, b_adm1_geral: Guainía, b_adm2_geral: Morichal, b_ID_concatenated: guainia-morichal, au_country: Colombia, au_level1: Guainía, au_level2: Morichal, au_population: 1067, au_c_d_f: FALSO, au_emc: VERDADEIRO, au_embf: FALSO, au_seg_marq: VERDADEIRO, au_eln: VERDADEIRO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - ELN a través del Frente Jorge Daniel Perez Carrero
+- EMC: Bloque Amazonas (Iván Mordisco)
+- Segunda Marquetalia a través del Frente 53 (Edison Romaña), au_popup_window_pt: - ELN a través del Frente Jorge Daniel Perez Carrero
+- EMC: Bloque Amazonas (Iván Mordisco)
+- Segunda Marquetalia através da Frente 53 (Edison Romaña), au_popup_window_en: - ELN through Frente Jorge Daniel Perez Carrero
+- EMC: Bloque Amazonas (Iván Mordisco)
+- Segunda Marquetalia through Frente 53 (Edison Romaña), au_ID_concatenated: guainia-morichal, au_area km: 8507.816340679536
+
+capa: au_compilado_R02, fid: 869, b_ADM2_ES: Inírida, b_ADM2_PCODE: CO94001, b_ADM1_ES: Guainía, b_ADM1_PCODE: CO94, b_adm1_geral: Guainía, b_adm2_geral: Inírida, b_ID_concatenated: guainia-inirida, au_country: Colombia, au_level1: Guainía, au_level2: Inírida, au_population: 39735, au_c_d_f: FALSO, au_emc: VERDADEIRO, au_embf: FALSO, au_seg_marq: VERDADEIRO, au_eln: VERDADEIRO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: VERDADEIRO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - EGC: Ejército Gaitanista de Colombia
+- ELN a través del Frente Jorge Daniel Perez Carrero
+- EMC: Bloque Amazonas (Iván Mordisco) 
+- Segunda Marquetalia a través del Frente 53 (Edison Romaña), au_popup_window_pt: - EGC: Ejército Gaitanista de Colombia
+- ELN a través del Frente Jorge Daniel Perez Carrero
+- EMC: Bloque Amazonas (Iván Mordisco) 
+- Segunda Marquetalia através da Frente 53 (Edison Romaña), au_popup_window_en: - EGC: Ejército Gaitanista de Colombia
+- ELN through Frente Jorge Daniel Perez Carrero
+- EMC: Bloque Amazonas (Iván Mordisco) 
+- Segunda Marquetalia through Frente 53 (Edison Romaña), au_ID_concatenated: guainia-inirida, au_area km: 15815.461731587875
+
+capa: au_compilado_R02, fid: 870, b_ADM2_ES: Cacahual, b_ADM2_PCODE: CO94886, b_ADM1_ES: Guainía, b_ADM1_PCODE: CO94, b_adm1_geral: Guainía, b_adm2_geral: Cacahual, b_ID_concatenated: guainia-cacahual, au_country: Colombia, au_level1: Guainía, au_level2: Cacahual, au_population: 914, au_c_d_f: FALSO, au_emc: VERDADEIRO, au_embf: FALSO, au_seg_marq: VERDADEIRO, au_eln: VERDADEIRO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - ELN a través del Frente Jorge Daniel Perez Carrero
+- EMC: Bloque Amazonas (Iván Mordisco)
+- Segunda Marquetalia a través del Frente 53 (Edison Romaña), au_popup_window_pt: - ELN a través del Frente Jorge Daniel Perez Carrero
+- EMC: Bloque Amazonas (Iván Mordisco)
+- Segunda Marquetalia através da Frente 53 (Edison Romaña), au_popup_window_en: - ELN through Frente Jorge Daniel Perez Carrero
+- EMC: Bloque Amazonas (Iván Mordisco)
+- Segunda Marquetalia through Frente 53 (Edison Romaña), au_ID_concatenated: guainia-cacahual, au_area km: 2305.3604002866336
+
+capa: au_compilado_R02, fid: 871, b_ADM2_ES: San Felipe, b_ADM2_PCODE: CO94883, b_ADM1_ES: Guainía, b_ADM1_PCODE: CO94, b_adm1_geral: Guainía, b_adm2_geral: San Felipe, b_ID_concatenated: guainia-san_felipe, au_country: Colombia, au_level1: Guainía, au_level2: San Felipe, au_population: 1968, au_c_d_f: FALSO, au_emc: VERDADEIRO, au_embf: FALSO, au_seg_marq: VERDADEIRO, au_eln: VERDADEIRO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - ELN a través del Frente Jorge Daniel Perez Carrero
+- EMC: Bloque Amazonas (Iván Mordisco) 
+- Segunda Marquetalia a través del Frente 53 (Edison Romaña) , au_popup_window_pt: - ELN a través del Frente Jorge Daniel Perez Carrero
+- EMC: Bloque Amazonas (Iván Mordisco) 
+- Segunda Marquetalia através da Frente 53 (Edison Romaña) , au_popup_window_en: - ELN a través del Frente Jorge Daniel Perez Carrero
+- EMC: Bloque Amazonas (Iván Mordisco) 
+- Segunda Marquetalia through Frente 53 (Edison Romaña) , au_ID_concatenated: guainia-san_felipe, au_area km: 2885.8413177348675
+
+capa: au_compilado_R02, fid: 873, b_ADM2_ES: Maroa, b_ADM2_PCODE: VE0205, b_ADM1_ES: Amazonas, b_ADM1_PCODE: VE02, b_adm1_geral: Amazonas, b_adm2_geral: Maroa, b_ID_concatenated: amazonas-maroa, au_country: Venezuela, au_level1: Amazonas, au_level2: Maroa, au_population: 2029, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: VERDADEIRO, au_eln: VERDADEIRO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - ELN (Daniel Pérez Carrero)
+Segunda Marquetalia (Acacio Medina), au_popup_window_pt: - ELN (Daniel Pérez Carrero)
+Segunda Marquetalia (Acacio Medina), au_popup_window_en: - ELN (Daniel Pérez Carrero)
+Segunda Marquetalia (Acacio Medina), au_ID_concatenated: amazonas-maroa, au_area km: 12487.624018539305
+
+capa: au_compilado_R02, fid: 874, b_ADM2_ES: Mapiripana, b_ADM2_PCODE: CO94663, b_ADM1_ES: Guainía, b_ADM1_PCODE: CO94, b_adm1_geral: Guainía, b_adm2_geral: Mapiripana, b_ID_concatenated: guainia-mapiripana, au_country: Colombia, au_level1: Guainía, au_level2: Mapiripana, au_population: 0, au_c_d_f: FALSO, au_emc: VERDADEIRO, au_embf: FALSO, au_seg_marq: VERDADEIRO, au_eln: VERDADEIRO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - ELN a través del Frente Jorge Daniel Perez Carrero
+- EMC: Estado Mayor Central 
+- EMC: Bloque Amazonas (Iván Mordisco) 
+- Segunda Marquetalia a través del Frente 53 (Edison Romaña), au_popup_window_pt: - ELN a través del Frente Jorge Daniel Perez Carrero
+- EMC: Estado Mayor Central 
+- EMC: Bloque Amazonas (Iván Mordisco) 
+- Segunda Marquetalia através da Frente 53 (Edison Romaña), au_popup_window_en: - ELN through Frente Jorge Daniel Perez Carrero
+- EMC: Estado Mayor Central 
+- EMC: Bloque Amazonas (Iván Mordisco) 
+- Segunda Marquetalia through Frente 53 (Edison Romaña), au_ID_concatenated: guainia-mapiripana, au_area km: 4905.980939462842
+
+capa: au_compilado_R02, fid: 875, b_ADM2_ES: Carurú, b_ADM2_PCODE: CO97161, b_ADM1_ES: Vaupés, b_ADM1_PCODE: CO97, b_adm1_geral: Vaupés, b_adm2_geral: Carurú, b_ID_concatenated: vaupes-caruru, au_country: Colombia, au_level1: Vaupés, au_level2: Carurú, au_population: 3030, au_c_d_f: FALSO, au_emc: VERDADEIRO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - EMC: Frente Primero Armando Ríos
+- EMC: Frente 44, au_popup_window_pt: - EMC: Frente Primero Armando Ríos
+- EMC: Frente 44, au_popup_window_en: - EMC: Frente Primero Armando Ríos
+- EMC: Frente 44, au_ID_concatenated: vaupes-caruru, au_area km: 6353.716834041223
+
+capa: au_compilado_R02, fid: 876, b_ADM2_ES: Papunahua, b_ADM2_PCODE: CO97777, b_ADM1_ES: Vaupés, b_ADM1_PCODE: CO97, b_adm1_geral: Vaupés, b_adm2_geral: Papunahua, b_ID_concatenated: vaupes-papunahua, au_country: Colombia, au_level1: Vaupés, au_level2: Papunahua, au_population: 763, au_c_d_f: FALSO, au_emc: VERDADEIRO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: EMC: Frente Primero Armando Ríos, au_popup_window_pt: EMC: Frente Primero Armando Ríos, au_popup_window_en: EMC: Frente Primero Armando Ríos, au_ID_concatenated: vaupes-papunahua, au_area km: 5531.651857979601
+
+capa: au_compilado_R02, fid: 877, b_ADM2_ES: Mitú, b_ADM2_PCODE: CO97001, b_ADM1_ES: Vaupés, b_ADM1_PCODE: CO97, b_adm1_geral: Vaupés, b_adm2_geral: Mitú, b_ID_concatenated: vaupes-mitu, au_country: Colombia, au_level1: Vaupés, au_level2: Mitú, au_population: 32040, au_c_d_f: FALSO, au_emc: VERDADEIRO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: EMC: Frente Primero Armando Ríos, au_popup_window_pt: EMC: Frente Primero Armando Ríos, au_popup_window_en: EMC: Frente Primero Armando Ríos, au_ID_concatenated: vaupes-mitu, au_area km: 16148.790606729912
+
+capa: au_compilado_R02, fid: 878, b_ADM2_ES: El Retorno, b_ADM2_PCODE: CO95025, b_ADM1_ES: Guaviare, b_ADM1_PCODE: CO95, b_adm1_geral: Guaviare, b_adm2_geral: El Retorno, b_ID_concatenated: guaviare-el_retorno, au_country: Colombia, au_level1: Guaviare, au_level2: El Retorno, au_population: 13292, au_c_d_f: FALSO, au_emc: VERDADEIRO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: 
+- EMC: Bloque Amazonas (Iván Mordisco), au_popup_window_pt: 
+- EMC: Bloque Amazonas (Iván Mordisco), au_popup_window_en: 
+- EMC: Bloque Amazonas (Iván Mordisco), au_ID_concatenated: guaviare-el_retorno, au_area km: 12415.510019312407
+
+capa: au_compilado_R02, fid: 879, b_ADM2_ES: Miraflores, b_ADM2_PCODE: CO95200, b_ADM1_ES: Guaviare, b_ADM1_PCODE: CO95, b_adm1_geral: Guaviare, b_adm2_geral: Miraflores, b_ID_concatenated: guaviare-miraflores, au_country: Colombia, au_level1: Guaviare, au_level2: Miraflores, au_population: 7085, au_c_d_f: FALSO, au_emc: VERDADEIRO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: 
+- EMC: Bloque Amazonas (Iván Mordisco), au_popup_window_pt: 
+- EMC: Bloque Amazonas (Iván Mordisco), au_popup_window_en: 
+- EMC: Bloque Amazonas (Iván Mordisco), au_ID_concatenated: guaviare-miraflores, au_area km: 12791.108839550734
+
+capa: au_compilado_R02, fid: 880, b_ADM2_ES: Pacoa, b_ADM2_PCODE: CO97511, b_ADM1_ES: Vaupés, b_ADM1_PCODE: CO97, b_adm1_geral: Vaupés, b_adm2_geral: Pacoa, b_ID_concatenated: vaupes-pacoa, au_country: Colombia, au_level1: Vaupés, au_level2: Pacoa, au_population: 4279, au_c_d_f: FALSO, au_emc: VERDADEIRO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: EMC: Frente Primero Armando Ríos, au_popup_window_pt: EMC: Frente Primero Armando Ríos, au_popup_window_en: EMC: Frente Primero Armando Ríos, au_ID_concatenated: vaupes-pacoa, au_area km: 13949.803828909879
+
+capa: au_compilado_R02, fid: 881, b_ADM2_ES: Puerto Leguízamo, b_ADM2_PCODE: CO86573, b_ADM1_ES: Putumayo, b_ADM1_PCODE: CO86, b_adm1_geral: Putumayo, b_adm2_geral: Puerto Leguízamo, b_ID_concatenated: putumayo-puerto_leguizamo, au_country: Colombia, au_level1: Putumayo, au_level2: Puerto Leguízamo, au_population: 37304, au_c_d_f: VERDADEIRO, au_emc: VERDADEIRO, au_embf: VERDADEIRO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - Comandos de la Frontera
+- EMBF: Jorge Suárez Briceño & Frente Raúl Reyes (Calarcá)
+- EMC: Carolina Ramírez
+- EMC: Bloque Amazonas (Iván Mordisco), au_popup_window_pt: - Comandos de la Frontera
+- EMBF: Jorge Suárez Briceño & Frente Raúl Reyes (Calarcá)
+- EMC: Carolina Ramírez
+- EMC: Bloque Amazonas (Iván Mordisco), au_popup_window_en: - Comandos de la Frontera
+- EMBF: Jorge Suárez Briceño & Frente Raúl Reyes (Calarcá)
+- EMC: Carolina Ramírez
+- EMC: Bloque Amazonas (Iván Mordisco), au_ID_concatenated: putumayo-puerto_leguizamo, au_area km: 10902.72584325321
+
+capa: au_compilado_R02, fid: 882, b_ADM2_ES: Solano, b_ADM2_PCODE: CO18756, b_ADM1_ES: Caquetá, b_ADM1_PCODE: CO18, b_adm1_geral: Caquetá, b_adm2_geral: Solano, b_ID_concatenated: caqueta-solano, au_country: Colombia, au_level1: Caquetá, au_level2: Solano, au_population: 10837, au_c_d_f: FALSO, au_emc: VERDADEIRO, au_embf: VERDADEIRO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - EMBF: Rodrigo Cadete y Raúl Reyes
+ 
+- EMC: Carolina Ramírez 
+- EMC: Bloque Amazonas (Iván Mordisco), au_popup_window_pt: - EMBF: Rodrigo Cadete e Raúl Reyes
+
+- EMC: Carolina Ramírez 
+- EMC: Bloque Amazonas (Iván Mordisco), au_popup_window_en: - EMBF: Rodrigo Cadete e Raúl Reyes
+
+- EMC: Carolina Ramírez 
+- EMC: Bloque Amazonas (Iván Mordisco), au_ID_concatenated: caqueta-solano, au_area km: 42289.93569357532
+
+capa: au_compilado_R02, fid: 883, b_ADM2_ES: San Vicente del Caguán, b_ADM2_PCODE: CO18753, b_ADM1_ES: Caquetá, b_ADM1_PCODE: CO18, b_adm1_geral: Caquetá, b_adm2_geral: San Vicente del Caguán, b_ID_concatenated: caqueta-san_vicente_del_caguan, au_country: Colombia, au_level1: Caquetá, au_level2: San Vicente del Caguán, au_population: 52672, au_c_d_f: FALSO, au_emc: FALSO, au_embf: VERDADEIRO, au_seg_marq: VERDADEIRO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - EMBF: Frente Rodrigo Cadete, Ivan Diaz y Arturo Ruiz
+- Segunda Marquetalia, au_popup_window_pt: - EMBF: Frente Rodrigo Cadete, Ivan Diaz e Arturo Ruiz
+- Segunda Marquetalia, au_popup_window_en: - EMBF: Frente Rodrigo Cadete, Ivan Diaz e Arturo Ruiz
+- Segunda Marquetalia, au_ID_concatenated: caqueta-san_vicente_del_caguan, au_area km: 17463.322177839393
+
+capa: au_compilado_R02, fid: 884, b_ADM2_ES: Cartagena del Chairá, b_ADM2_PCODE: CO18150, b_ADM1_ES: Caquetá, b_ADM1_PCODE: CO18, b_adm1_geral: Caquetá, b_adm2_geral: Cartagena del Chairá, b_ID_concatenated: caqueta-cartagena_del_chaira, au_country: Colombia, au_level1: Caquetá, au_level2: Cartagena del Chairá, au_population: 32456, au_c_d_f: FALSO, au_emc: VERDADEIRO, au_embf: VERDADEIRO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - EMBF: Rodrigo Cadete y Arturo Ruiz (Calarcá)
+- EMC: Carolina Ramirez
+- EMC: Bloque Amazonas (Iván Mordisco), au_popup_window_pt: - EMBF: Rodrigo Cadete y Arturo Ruiz (Calarcá)
+- EMC: Carolina Ramirez
+- EMC: Bloque Amazonas (Iván Mordisco), au_popup_window_en: - EMBF: Rodrigo Cadete and Arturo Ruiz (Calarcá)
+- EMC: Carolina Ramirez
+- EMC: Bloque Amazonas (Iván Mordisco), au_ID_concatenated: caqueta-cartagena_del_chaira, au_area km: 12784.711643274331
+
+capa: au_compilado_R02, fid: 885, b_ADM2_ES: La Macarena, b_ADM2_PCODE: CO50350, b_ADM1_ES: Meta, b_ADM1_PCODE: CO50, b_adm1_geral: Meta, b_adm2_geral: La Macarena, b_ID_concatenated: meta-la_macarena, au_country: Colombia, au_level1: Meta, au_level2: La Macarena, au_population: 29924, au_c_d_f: FALSO, au_emc: VERDADEIRO, au_embf: VERDADEIRO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - EMBF: Jorge Suárez Briceño (Calarcá) 
+- EMC: Frente 10 (Martín Villa), au_popup_window_pt: - EMBF: Jorge Suárez Briceño (Calarcá) 
+- EMC: Frente 10 (Martín Villa), au_popup_window_en: - EMBF: Jorge Suárez Briceño (Calarcá) 
+- EMC: Frente 10 (Martín Villa), au_ID_concatenated: meta-la_macarena, au_area km: 10839.023242200763
+
+capa: au_compilado_R02, fid: 886, b_ADM2_ES: Vistahermosa, b_ADM2_PCODE: CO50711, b_ADM1_ES: Meta, b_ADM1_PCODE: CO50, b_adm1_geral: Meta, b_adm2_geral: Vistahermosa, b_ID_concatenated: meta-vistahermosa, au_country: Colombia, au_level1: Meta, au_level2: Vistahermosa, au_population: 18494, au_c_d_f: FALSO, au_emc: VERDADEIRO, au_embf: VERDADEIRO, au_seg_marq: VERDADEIRO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - EMBF: Jorge Suárez Briceño, Frente John Linares & Frente Marco Aurelio Buendía (Calarcá)
+- EMC: Frente 10 (Martín Villa)
+- Segunda Marquetalia con el Frente Iván Merchán, au_popup_window_pt: - EMBF: Jorge Suárez Briceño, Frente John Linares & Frente Marco Aurelio Buendía (Calarcá)
+- EMC: Frente 10 (Martín Villa)
+- Segunda Marquetalia con el Frente Iván Merchán, au_popup_window_en: - EMBF: Jorge Suárez Briceño, Frente John Linares & Frente Marco Aurelio Buendía (Calarcá)
+- EMC: Frente 10 (Martín Villa)
+- Segunda Marquetalia con el Frente Iván Merchán, au_ID_concatenated: meta-vistahermosa, au_area km: 4818.894988000819
+
+capa: au_compilado_R02, fid: 887, b_ADM2_ES: Calamar, b_ADM2_PCODE: CO95015, b_ADM1_ES: Guaviare, b_ADM1_PCODE: CO95, b_adm1_geral: Guaviare, b_adm2_geral: Calamar, b_ID_concatenated: guaviare-calamar, au_country: Colombia, au_level1: Guaviare, au_level2: Calamar, au_population: 9885, au_c_d_f: FALSO, au_emc: VERDADEIRO, au_embf: VERDADEIRO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - EMBF: Bloque Jorge Suarez Briceño (Calarcá)
+- EMC: Bloque Amazonas (Iván Mordisco), au_popup_window_pt: - EMBF: Bloque Jorge Suarez Briceño (Calarcá)
+- EMC: Bloque Amazonas (Iván Mordisco), au_popup_window_en: - EMBF: Bloque Jorge Suarez Briceño (Calarcá)
+- EMC: Bloque Amazonas (Iván Mordisco), au_ID_concatenated: guaviare-calamar, au_area km: 13551.46346951372
+
+capa: au_compilado_R02, fid: 888, b_ADM2_ES: San José del Guaviare, b_ADM2_PCODE: CO95001, b_ADM1_ES: Guaviare, b_ADM1_PCODE: CO95, b_adm1_geral: Guaviare, b_adm2_geral: San José del Guaviare, b_ID_concatenated: guaviare-san_jose_del_guaviare, au_country: Colombia, au_level1: Guaviare, au_level2: San José del Guaviare, au_population: 54434, au_c_d_f: FALSO, au_emc: VERDADEIRO, au_embf: VERDADEIRO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - EMBF: Bloque Jorge Suarez Briceño (Calarcá)
+- EMC: Bloque Amazonas (Iván Mordisco), au_popup_window_pt: - EMBF: Bloque Jorge Suarez Briceño (Calarcá)
+- EMC: Bloque Amazonas (Iván Mordisco), au_popup_window_en: - EMBF: Bloque Jorge Suarez Briceño (Calarcá)
+- EMC: Bloque Amazonas (Iván Mordisco), au_ID_concatenated: guaviare-san_jose_del_guaviare, au_area km: 16741.1780634751
+
+capa: au_compilado_R02, fid: 892, b_ADM2_ES: La Victoria, b_ADM2_PCODE: CO91430, b_ADM1_ES: Amazonas, b_ADM1_PCODE: CO91, b_adm1_geral: Amazonas, b_adm2_geral: La Victoria, b_ID_concatenated: amazonas-la_victoria, au_country: Colombia, au_level1: Amazonas, au_level2: La Victoria, au_population: 682, au_c_d_f: FALSO, au_emc: VERDADEIRO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: EMC: Carolina Ramirez, au_popup_window_pt: EMC: Carolina Ramirez, au_popup_window_en: EMC: Carolina Ramirez, au_ID_concatenated: amazonas-la_victoria, au_area km: 1428.908561235326
+
+capa: au_compilado_R02, fid: 898, b_ADM2_PCODE: BR1302108, b_ADM1_PCODE: BR13, b_ADM1_PT: Amazonas, b_ADM2_PT: Japurá, b_adm1_geral: Amazonas, b_adm2_geral: Japurá, b_ID_concatenated: amazonas-japura, au_country: Brasil, au_level1: Amazonas, au_level2: Japurá, au_population: 9420, au_c_d_f: VERDADEIRO, au_emc: VERDADEIRO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: VERDADEIRO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: Comando Vermelho (CV), au_popup_window_pt: Comando Vermelho (CV), au_popup_window_en: Comando Vermelho (CV), au_ID_concatenated: amazonas-japura, au_area km: 55827.3100393179
+
+capa: au_compilado_R02, fid: 901, b_ADM2_PCODE: BR1303809, b_ADM1_PCODE: BR13, b_ADM1_PT: Amazonas, b_ADM2_PT: São Gabriel da Cachoeira, b_adm1_geral: Amazonas, b_adm2_geral: São Gabriel da Cachoeira, b_ID_concatenated: amazonas-sao_gabriel_da_cachoeira, au_country: Brasil, au_level1: Amazonas, au_level2: São Gabriel da Cachoeira, au_population: 57396, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: VERDADEIRO, au_pcc: VERDADEIRO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - Comando Vermelho (CV)
+- Primeiro Comando da Capital (PCC), au_popup_window_pt: - Comando Vermelho (CV)
+- Primeiro Comando da Capital (PCC), au_popup_window_en: - Comando Vermelho (CV)
+- Primeiro Comando da Capital (PCC), au_ID_concatenated: amazonas-sao_gabriel_da_cachoeira, au_area km: 109184.20538373706
+
+capa: au_compilado_R02, fid: 905, b_ADM2_ES: Yavaraté, b_ADM2_PCODE: CO97889, b_ADM1_ES: Vaupés, b_ADM1_PCODE: CO97, b_adm1_geral: Vaupés, b_adm2_geral: Yavaraté, b_ID_concatenated: vaupes-yavarate, au_country: Colombia, au_level1: Vaupés, au_level2: Yavaraté, au_population: 1112, au_c_d_f: FALSO, au_emc: VERDADEIRO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: EMC: Frente Primero Armando Ríos, au_popup_window_pt: EMC: Frente Primero Armando Ríos, au_popup_window_en: EMC: Frente Primero Armando Ríos, au_ID_concatenated: vaupes-yavarate, au_area km: 4631.9545372621515
+
+capa: au_compilado_R02, fid: 1229, b_ADM2_ES: Puerto Concordia, b_ADM2_PCODE: CO50450, b_ADM1_ES: Meta, b_ADM1_PCODE: CO50, b_adm1_geral: Meta, b_adm2_geral: Puerto Concordia, b_ID_concatenated: meta-puerto_concordia, au_country: Colombia, au_level1: Meta, au_level2: Puerto Concordia, au_population: 8729, au_c_d_f: FALSO, au_emc: VERDADEIRO, au_embf: VERDADEIRO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - EMBF: Jorge Suárez Briceño & Frente John Linares (Calarcá)
+- EMC: Frente 10 (Martín Villa), au_popup_window_pt: - EMBF: Jorge Suárez Briceño & Frente John Linares (Calarcá)
+- EMC: Frente 10 (Martín Villa), au_popup_window_en: - EMBF: Jorge Suárez Briceño & Frente John Linares (Calarcá)
+- EMC: Frente 10 (Martín Villa), au_ID_concatenated: meta-puerto_concordia, au_area km: 1242.2319872654707
+
+capa: au_compilado_R02, fid: 1230, b_ADM2_ES: Mapiripán, b_ADM2_PCODE: CO50325, b_ADM1_ES: Meta, b_ADM1_PCODE: CO50, b_adm1_geral: Meta, b_adm2_geral: Mapiripán, b_ID_concatenated: meta-mapiripan, au_country: Colombia, au_level1: Meta, au_level2: Mapiripán, au_population: 7301, au_c_d_f: FALSO, au_emc: FALSO, au_embf: VERDADEIRO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: EMBF: Jorge Suárez Briceño (Calarcá), au_popup_window_pt: EMBF: Jorge Suárez Briceño (Calarcá), au_popup_window_en: EMBF: Jorge Suárez Briceño (Calarcá), au_ID_concatenated: meta-mapiripan, au_area km: 11931.384256515821
+
+capa: au_compilado_R02, fid: 1231, b_ADM2_ES: Puerto Gaitán, b_ADM2_PCODE: CO50568, b_ADM1_ES: Meta, b_ADM1_PCODE: CO50, b_adm1_geral: Meta, b_adm2_geral: Puerto Gaitán, b_ID_concatenated: meta-puerto_gaitan, au_country: Colombia, au_level1: Meta, au_level2: Puerto Gaitán, au_population: 54636, au_c_d_f: FALSO, au_emc: VERDADEIRO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: VERDADEIRO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - EMC: Frente 10 (Martín Villa)
+- Ejército Gaitanista de Colombia (EGC), frente de guerra Gonzalo Oquendo , au_popup_window_pt: - EMC: Frente 10 (Martín Villa)
+- Ejército Gaitanista de Colombia (EGC), frente de guerra Gonzalo Oquendo , au_popup_window_en: - EMC: Frente 10 (Martín Villa)
+- Ejército Gaitanista de Colombia (EGC), Gonzalo Oquendo front, au_ID_concatenated: meta-puerto_gaitan, au_area km: 17217.984554616298
+
+capa: au_compilado_R02, fid: 1232, b_ADM2_ES: Atabapo, b_ADM2_PCODE: VE0202, b_ADM1_ES: Amazonas, b_ADM1_PCODE: VE02, b_adm1_geral: Amazonas, b_adm2_geral: Atabapo, b_ID_concatenated: amazonas-atabapo, au_country: Venezuela, au_level1: Amazonas, au_level2: Atabapo, au_population: 12687, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: VERDADEIRO, au_eln: VERDADEIRO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - ELN (Daniel Pérez Carrero)
+Segunda Marquetalia (Acacio Medina), au_popup_window_pt: - ELN (Daniel Pérez Carrero)
+Segunda Marquetalia (Acacio Medina), au_popup_window_en: - ELN (Daniel Pérez Carrero)
+Segunda Marquetalia (Acacio Medina), au_ID_concatenated: amazonas-atabapo, au_area km: 26216.533679680022
+
+capa: au_compilado_R02, fid: 1233, b_ADM2_ES: Autana, b_ADM2_PCODE: VE0204, b_ADM1_ES: Amazonas, b_ADM1_PCODE: VE02, b_adm1_geral: Amazonas, b_adm2_geral: Autana, b_ID_concatenated: amazonas-autana, au_country: Venezuela, au_level1: Amazonas, au_level2: Autana, au_population: 754, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: VERDADEIRO, au_eln: VERDADEIRO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - ELN (Daniel Pérez Carrero)
+Segunda Marquetalia (Acacio Medina), au_popup_window_pt: - ELN (Daniel Pérez Carrero)
+Segunda Marquetalia (Acacio Medina), au_popup_window_en: - ELN (Daniel Pérez Carrero)
+Segunda Marquetalia (Acacio Medina), au_ID_concatenated: amazonas-autana, au_area km: 15224.171212609175
+
+capa: au_compilado_R02, fid: 1234, b_ADM2_ES: San Fernando, b_ADM2_PCODE: VE0407, b_ADM1_ES: Apure, b_ADM1_PCODE: VE04, b_adm1_geral: Apure, b_adm2_geral: San Fernando, b_ID_concatenated: apure-san_fernando, au_area km: 5629.0368776777195
+
+capa: au_compilado_R02, fid: 1237, b_ADM2_ES: Atures, b_ADM2_PCODE: VE0203, b_ADM1_ES: Amazonas, b_ADM1_PCODE: VE02, b_adm1_geral: Amazonas, b_adm2_geral: Atures, b_ID_concatenated: amazonas-atures, au_country: Venezuela, au_level1: Amazonas, au_level2: Atures, au_population: 104228, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: VERDADEIRO, au_eln: VERDADEIRO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - ELN (Daniel Pérez Carrero)
+Segunda Marquetalia (Acacio Medina), au_popup_window_pt: - ELN (Daniel Pérez Carrero)
+Segunda Marquetalia (Acacio Medina), au_popup_window_en: - ELN (Daniel Pérez Carrero)
+Segunda Marquetalia (Acacio Medina), au_ID_concatenated: amazonas-atures, au_area km: 4164.3270409646475
+
+capa: au_compilado_R02, fid: 1238, b_ADM2_ES: Pedro Camejo, b_ADM2_PCODE: VE0405, b_ADM1_ES: Apure, b_ADM1_PCODE: VE04, b_adm1_geral: Apure, b_adm2_geral: Pedro Camejo, b_ID_concatenated: apure-pedro_camejo, au_area km: 20959.412798339145
+
+capa: au_compilado_R02, fid: 1239, b_ADM2_ES: Cumaribo, b_ADM2_PCODE: CO99773, b_ADM1_ES: Vichada, b_ADM1_PCODE: CO99, b_adm1_geral: Vichada, b_adm2_geral: Cumaribo, b_ID_concatenated: vichada-cumaribo, au_country: Colombia, au_level1: Vichada, au_level2: Cumaribo, au_population: 109555, au_c_d_f: FALSO, au_emc: VERDADEIRO, au_embf: FALSO, au_seg_marq: VERDADEIRO, au_eln: VERDADEIRO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: VERDADEIRO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - ELN a través del Frente Jorge Daniel Perez Carrero
+- EMC: Bloque Amazonas (Iván Mordisco)
+- EMC: Frente 10 (Martín Villa)
+- Ejército Mayor Central (EMC) -- sur del departamento del Putumayo - Chupave y Puerto Príncipe
+- Ejército Gaitanista de Colombia (EGC)
+- ERPAC
+- Segunda Marquetalia, au_popup_window_pt: - ELN através da Frente Jorge Daniel Perez Carrero
+- EMC: Bloque Amazonas (Iván Mordisco)
+- EMC: Frente 10 (Martín Villa)
+- Ejército Mayor Central (EMC) -- sul do departamento de Putumayo - Chupave e Puerto Príncipe
+- Ejército Gaitanista de Colombia (EGC)
+- ERPAC
+- Segunda Marquetalia, au_popup_window_en: - ELN através da Frente Jorge Daniel Perez Carrero
+- EMC: Bloque Amazonas (Iván Mordisco)
+- EMC: Frente 10 (Martín Villa)
+- Ejército Mayor Central (EMC) -- southern Putumayo - Chupave and Puerto Príncipe
+- Ejército Gaitanista de Colombia (EGC)
+- ERPAC
+- Segunda Marquetalia, au_ID_concatenated: vichada-cumaribo, au_area km: 65164.35476341754
+
+capa: au_compilado_R02, fid: 1240, b_ADM2_ES: Barrancominas, b_ADM2_PCODE: CO94343, b_ADM1_ES: Guainía, b_ADM1_PCODE: CO94, b_adm1_geral: Guainía, b_adm2_geral: Barrancominas, b_ID_concatenated: guainia-barrancominas, au_country: Colombia, au_level1: Guainía, au_level2: Barrancominas, au_population: 11709, au_c_d_f: FALSO, au_emc: VERDADEIRO, au_embf: FALSO, au_seg_marq: VERDADEIRO, au_eln: VERDADEIRO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - ELN a través del Frente Jorge Daniel Perez Carrero
+- EMC: Bloque Amazonas (Iván Mordisco) 
+- Segunda Marquetalia a través del Frente 53 (Edison Romaña)
+- Segunda Marquetalia (Arrecifal), au_popup_window_pt: - ELN a través del Frente Jorge Daniel Perez Carrero
+- EMC: Bloque Amazonas (Iván Mordisco) 
+- Segunda Marquetalia através da Frente 53 (Edison Romaña)
+- Segunda Marquetalia (Arrecifal), au_popup_window_en: - ELN through Frente Jorge Daniel Perez Carrero
+- EMC: Bloque Amazonas (Iván Mordisco) 
+- Segunda Marquetalia through Frente 53 (Edison Romaña)
+- Segunda Marquetalia (Arrecifal), au_ID_concatenated: guainia-barrancominas, au_area km: 9404.193328502908
+
+capa: au_compilado_R02, fid: 1241, b_ADM2_ES: Puerto Carreño, b_ADM2_PCODE: CO99001, b_ADM1_ES: Vichada, b_ADM1_PCODE: CO99, b_adm1_geral: Vichada, b_adm2_geral: Puerto Carreño, b_ID_concatenated: vichada-puerto_carreno, au_country: Colombia, au_level1: Vichada, au_level2: Puerto Carreño, au_population: 24341, au_c_d_f: FALSO, au_emc: VERDADEIRO, au_embf: FALSO, au_seg_marq: VERDADEIRO, au_eln: VERDADEIRO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: VERDADEIRO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - ELN a través del Frente Jorge Daniel Perez Carrero
+- EMC: Bloque Amazonas (Iván Mordisco)
+- EMC: Frente 10 (Martín Villa)
+- Ejército Gaitanista de Colombia (EGC)
+- Segunda Marquetalia a través del Frente 53 (Edison Romaña), au_popup_window_pt: - ELN a través del Frente Jorge Daniel Perez Carrero
+- EMC: Bloque Amazonas (Iván Mordisco)
+- EMC: Frente 10 (Martín Villa)
+- Ejército Gaitanista de Colombia (EGC)
+- Segunda Marquetalia através da Frente 53 (Edison Romaña), au_popup_window_en: - ELN a través del Frente Jorge Daniel Perez Carrero
+- EMC: Bloque Amazonas (Iván Mordisco)
+- EMC: Frente 10 (Martín Villa)
+- Ejército Gaitanista de Colombia (EGC)
+- Segunda Marquetalia through Frente 53 (Edison Romaña), au_ID_concatenated: vichada-puerto_carreno, au_area km: 12074.385441844895
+
+capa: au_compilado_R02, fid: 1242, b_ADM2_ES: San Martín, b_ADM2_PCODE: CO50689, b_ADM1_ES: Meta, b_ADM1_PCODE: CO50, b_adm1_geral: Meta, b_adm2_geral: San Martín, b_ID_concatenated: meta-san_martin, au_country: Colombia, au_level1: Meta, au_level2: San Martín, au_population: 28448, au_c_d_f: FALSO, au_emc: VERDADEIRO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: EMC: Frente 10 (Martín Villa), au_popup_window_pt: EMC: Frente 10 (Martín Villa), au_popup_window_en: EMC: Frente 10 (Martín Villa), au_ID_concatenated: meta-san_martin, au_area km: 5931.22345846276
+
+capa: au_compilado_R02, fid: 1243, b_ADM2_ES: Acacías, b_ADM2_PCODE: CO50006, b_ADM1_ES: Meta, b_ADM1_PCODE: CO50, b_adm1_geral: Meta, b_adm2_geral: Acacías, b_ID_concatenated: meta-acacias, au_country: Colombia, au_level1: Meta, au_level2: Acacías, au_population: 103943, au_c_d_f: FALSO, au_emc: FALSO, au_embf: VERDADEIRO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - EMBF: Frente Gaitán Gutiérrez, au_popup_window_pt: - EMBF: Frente Gaitán Gutiérrez, au_popup_window_en: - EMBF: Frente Gaitán Gutiérrez, au_ID_concatenated: meta-acacias, au_area km: 1123.6871218991305
+
+capa: au_compilado_R02, fid: 1244, b_ADM2_ES: El Castillo, b_ADM2_PCODE: CO50251, b_ADM1_ES: Meta, b_ADM1_PCODE: CO50, b_adm1_geral: Meta, b_adm2_geral: El Castillo, b_ID_concatenated: meta-el_castillo, au_country: Colombia, au_level1: Meta, au_level2: El Castillo, au_population: 8517, au_c_d_f: FALSO, au_emc: FALSO, au_embf: VERDADEIRO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - EMBF: Frente Gaitán Gutiérrez, au_popup_window_pt: - EMBF: Frente Gaitán Gutiérrez, au_popup_window_en: - EMBF: Frente Gaitán Gutiérrez, au_ID_concatenated: meta-el_castillo, au_area km: 568.2108447342601
+
+capa: au_compilado_R02, fid: 1245, b_ADM2_ES: El Dorado, b_ADM2_PCODE: CO50270, b_ADM1_ES: Meta, b_ADM1_PCODE: CO50, b_adm1_geral: Meta, b_adm2_geral: El Dorado, b_ID_concatenated: meta-el_dorado, au_country: Colombia, au_level1: Meta, au_level2: El Dorado, au_population: 4145, au_c_d_f: FALSO, au_emc: FALSO, au_embf: VERDADEIRO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - EMBF: Frente Gaitán Gutiérrez, au_popup_window_pt: - EMBF: Frente Gaitán Gutiérrez, au_popup_window_en: - EMBF: Frente Gaitán Gutiérrez, au_ID_concatenated: meta-el_dorado, au_area km: 117.33887974719879
+
+capa: au_compilado_R02, fid: 1246, b_ADM2_ES: Cubarral, b_ADM2_PCODE: CO50223, b_ADM1_ES: Meta, b_ADM1_PCODE: CO50, b_adm1_geral: Meta, b_adm2_geral: Cubarral, b_ID_concatenated: meta-cubarral, au_country: Colombia, au_level1: Meta, au_level2: Cubarral, au_population: 7455, au_c_d_f: FALSO, au_emc: FALSO, au_embf: VERDADEIRO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - EMBF: Frente Gaitán Gutiérrez, au_popup_window_pt: - EMBF: Frente Gaitán Gutiérrez, au_popup_window_en: - EMBF: Frente Gaitán Gutiérrez, au_ID_concatenated: meta-cubarral, au_area km: 1157.8555103942101
+
+capa: au_compilado_R02, fid: 1247, b_ADM2_ES: Colombia, b_ADM2_PCODE: CO41206, b_ADM1_ES: Huila, b_ADM1_PCODE: CO41, b_adm1_geral: Huila, b_adm2_geral: Colombia, b_ID_concatenated: huila-colombia, au_area km: 1584.7895489882428
+
+capa: au_compilado_R02, fid: 1248, b_ADM2_ES: Puerto Rico, b_ADM2_PCODE: CO50590, b_ADM1_ES: Meta, b_ADM1_PCODE: CO50, b_adm1_geral: Meta, b_adm2_geral: Puerto Rico, b_ID_concatenated: meta-puerto_rico, au_country: Colombia, au_level1: Meta, au_level2: Puerto Rico, au_population: 13545, au_c_d_f: FALSO, au_emc: VERDADEIRO, au_embf: VERDADEIRO, au_seg_marq: VERDADEIRO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - EMBF: Jorge Suárez Briceño, Frente John Linares & Frente Marco Aurelio Buendía(Calarcá)
+- EMC: Frente 10 (Martín Villa)
+- Segunda Marquetalia con el Frente Iván Merchán (incursiones esporádicas), au_popup_window_pt: - EMBF: Jorge Suárez Briceño, Frente John Linares & Frente Marco Aurelio Buendía(Calarcá)
+- EMC: Frente 10 (Martín Villa)
+- Segunda Marquetalia con el Frente Iván Merchán (incursiones esporádicas), au_popup_window_en: - EMBF: Jorge Suárez Briceño, Frente John Linares & Frente Marco Aurelio Buendía(Calarcá)
+- EMC: Frente 10 (Martín Villa)
+- Segunda Marquetalia con el Frente Iván Merchán (incursiones esporádicas), au_ID_concatenated: meta-puerto_rico, au_area km: 3427.184353860174
+
+capa: au_compilado_R02, fid: 1249, b_ADM2_ES: Uribe, b_ADM2_PCODE: CO50370, b_ADM1_ES: Meta, b_ADM1_PCODE: CO50, b_adm1_geral: Meta, b_adm2_geral: Uribe, b_ID_concatenated: meta-uribe, au_country: Colombia, au_level1: Meta, au_level2: Uribe, au_population: 9736, au_c_d_f: FALSO, au_emc: VERDADEIRO, au_embf: VERDADEIRO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: VERDADEIRO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - EMBF: Jorge Suárez Briceño & Frente Ever Castro (Calarcá)
+- EMC: Frente 10 (Martín Villa)
+- Frente Ever Castro, au_popup_window_pt: - EMBF: Jorge Suárez Briceño & Frente Ever Castro (Calarcá)
+- EMC: Frente 10 (Martín Villa)
+- Frente Ever Castro, au_popup_window_en: - EMBF: Jorge Suárez Briceño & Frente Ever Castro (Calarcá)
+- EMC: Frente 10 (Martín Villa)
+- Frente Ever Castro, au_ID_concatenated: meta-uribe, au_area km: 6436.909064398567
+
+capa: au_compilado_R02, fid: 1250, b_ADM2_ES: Mesetas, b_ADM2_PCODE: CO50330, b_ADM1_ES: Meta, b_ADM1_PCODE: CO50, b_adm1_geral: Meta, b_adm2_geral: Mesetas, b_ID_concatenated: meta-mesetas, au_country: Colombia, au_level1: Meta, au_level2: Mesetas, au_population: 11873, au_c_d_f: FALSO, au_emc: VERDADEIRO, au_embf: VERDADEIRO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - EMC: Bloque Amazonas (Iván Mordisco)
+- EMC: Frente 10 (Martín Villa)
+- EMC: Frente Primero EMBF: Jorge Suárez Briceño & Frente Gaitán Gutiérrez , au_popup_window_pt: - EMC: Bloque Amazonas (Iván Mordisco)
+- EMC: Frente 10 (Martín Villa)
+- EMC: Frente Primero EMBF: Jorge Suárez Briceño & Frente Gaitán Gutiérrez , au_popup_window_en: - EMC: Bloque Amazonas (Iván Mordisco)
+- EMC: Frente 10 (Martín Villa)
+- EMC: Frente Primero EMBF: Jorge Suárez Briceño & Frente Gaitán Gutiérrez , au_ID_concatenated: meta-mesetas, au_area km: 2280.6239097878624
+
+capa: au_compilado_R02, fid: 1251, b_ADM2_ES: Puerto Lleras, b_ADM2_PCODE: CO50577, b_ADM1_ES: Meta, b_ADM1_PCODE: CO50, b_adm1_geral: Meta, b_adm2_geral: Puerto Lleras, b_ID_concatenated: meta-puerto_lleras, au_country: Colombia, au_level1: Meta, au_level2: Puerto Lleras, au_population: 10723, au_c_d_f: FALSO, au_emc: VERDADEIRO, au_embf: VERDADEIRO, au_seg_marq: VERDADEIRO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - EMBF: Jorge Suárez Briceño & Frente John Linares (Calarcá)
+- EMC: Frente 10 (Martín Villa)
+- Segunda Marquetalia con el Frente Iván Merchán (incursiones esporádicas), au_popup_window_pt: - EMBF: Jorge Suárez Briceño & Frente John Linares (Calarcá)
+- EMC: Frente 10 (Martín Villa)
+- Segunda Marquetalia con el Frente Iván Merchán (incursiones esporádicas), au_popup_window_en: - EMBF: Jorge Suárez Briceño & Frente John Linares (Calarcá)
+- EMC: Frente 10 (Martín Villa)
+- Segunda Marquetalia con el Frente Iván Merchán (incursiones esporádicas), au_ID_concatenated: meta-puerto_lleras, au_area km: 2535.2040456259324
+
+capa: au_compilado_R02, fid: 1252, b_ADM2_ES: San Juan de Arama, b_ADM2_PCODE: CO50683, b_ADM1_ES: Meta, b_ADM1_PCODE: CO50, b_adm1_geral: Meta, b_adm2_geral: San Juan de Arama, b_ID_concatenated: meta-san_juan_de_arama, au_country: Colombia, au_level1: Meta, au_level2: San Juan de Arama, au_population: 9469, au_c_d_f: FALSO, au_emc: VERDADEIRO, au_embf: VERDADEIRO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: EMC: Frente 10 (Martín Villa) EMBF: Frente Gaitán Gutiérrez, au_popup_window_pt: EMC: Frente 10 (Martín Villa) EMBF: Frente Gaitán Gutiérrez, au_popup_window_en: EMC: Frente 10 (Martín Villa) EMBF: Frente Gaitán Gutiérrez, au_ID_concatenated: meta-san_juan_de_arama, au_area km: 1169.0729072911502
+
+capa: au_compilado_R02, fid: 1253, b_ADM2_ES: Fuente de Oro, b_ADM2_PCODE: CO50287, b_ADM1_ES: Meta, b_ADM1_PCODE: CO50, b_adm1_geral: Meta, b_adm2_geral: Fuente de Oro, b_ID_concatenated: meta-fuente_de_oro, au_country: Colombia, au_level1: Meta, au_level2: Fuente de Oro, au_population: 12922, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: VERDADEIRO, au_invest. with presence: FALSO, au_ID_concatenated: meta-fuente_de_oro, au_area km: 570.9498484894734
+
+capa: au_compilado_R02, fid: 1254, b_ADM2_ES: Granada, b_ADM2_PCODE: CO50313, b_ADM1_ES: Meta, b_ADM1_PCODE: CO50, b_adm1_geral: Meta, b_adm2_geral: Granada, b_ID_concatenated: meta-granada, au_country: Colombia, au_level1: Meta, au_level2: Granada, au_population: 74331, au_c_d_f: FALSO, au_emc: VERDADEIRO, au_embf: VERDADEIRO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - EMBF: Frente Gaitán Gutiérrez EMC: Frente Primero, au_popup_window_pt: - EMBF: Frente Gaitán Gutiérrez EMC: Frente Primero, au_popup_window_en: - EMBF: Frente Gaitán Gutiérrez EMC: Frente Primero, au_ID_concatenated: meta-granada, au_area km: 348.2998548891757
+
+capa: au_compilado_R02, fid: 1255, b_ADM2_ES: Lejanías, b_ADM2_PCODE: CO50400, b_ADM1_ES: Meta, b_ADM1_PCODE: CO50, b_adm1_geral: Meta, b_adm2_geral: Lejanías, b_ID_concatenated: meta-lejanias, au_country: Colombia, au_level1: Meta, au_level2: Lejanías, au_population: 12229, au_c_d_f: FALSO, au_emc: VERDADEIRO, au_embf: VERDADEIRO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: EMC: Frente 10 (Martín Villa) EMBF: Frente Gaitán Guttiérrez, au_popup_window_pt: EMC: Frente 10 (Martín Villa) EMBF: Frente Gaitán Guttiérrez, au_popup_window_en: EMC: Frente 10 (Martín Villa) EMBF: Frente Gaitán Guttiérrez, au_ID_concatenated: meta-lejanias, au_area km: 815.4242772545286
+
+capa: au_compilado_R02, fid: 1256, b_ADM2_ES: Neiva, b_ADM2_PCODE: CO41001, b_ADM1_ES: Huila, b_ADM1_PCODE: CO41, b_adm1_geral: Huila, b_adm2_geral: Neiva, b_ID_concatenated: huila-neiva, au_area km: 1269.2613464634844
+
+capa: au_compilado_R02, fid: 1257, b_ADM2_ES: Baraya, b_ADM2_PCODE: CO41078, b_ADM1_ES: Huila, b_ADM1_PCODE: CO41, b_adm1_geral: Huila, b_adm2_geral: Baraya, b_ID_concatenated: huila-baraya, au_area km: 785.8139543210439
+
+capa: au_compilado_R02, fid: 1258, b_ADM2_ES: Rivera, b_ADM2_PCODE: CO41615, b_ADM1_ES: Huila, b_ADM1_PCODE: CO41, b_adm1_geral: Huila, b_adm2_geral: Rivera, b_ID_concatenated: huila-rivera, au_area km: 251.12692818841663
+
+capa: au_compilado_R02, fid: 1259, b_ADM2_ES: Bogotá, D.C., b_ADM2_PCODE: CO11001, b_ADM1_ES: Bogotá, D.C., b_ADM1_PCODE: CO11, b_adm1_geral: Bogotá, b_adm2_geral: Bogotá, b_ID_concatenated: bogota-bogota, au_area km: 1622.8423044227882
+
+capa: au_compilado_R02, fid: 1260, b_ADM2_ES: Guamal, b_ADM2_PCODE: CO50318, b_ADM1_ES: Meta, b_ADM1_PCODE: CO50, b_adm1_geral: Meta, b_adm2_geral: Guamal, b_ID_concatenated: meta-guamal, au_area km: 595.6985129906202
+
+capa: au_compilado_R02, fid: 1261, b_ADM2_ES: Gutiérrez, b_ADM2_PCODE: CO25339, b_ADM1_ES: Cundinamarca, b_ADM1_PCODE: CO25, b_adm1_geral: Cundinamarca, b_adm2_geral: Gutiérrez, b_ID_concatenated: cundinamarca-gutierrez, au_area km: 453.2246290456675
+
+capa: au_compilado_R02, fid: 1262, b_ADM2_ES: Orito, b_ADM2_PCODE: CO86320, b_ADM1_ES: Putumayo, b_ADM1_PCODE: CO86, b_adm1_geral: Putumayo, b_adm2_geral: Orito, b_ID_concatenated: putumayo-orito, au_country: Colombia, au_level1: Putumayo, au_level2: Orito, au_population: 39069, au_c_d_f: VERDADEIRO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: Comandos de la Frontera, au_popup_window_pt: Comandos de la Frontera, au_popup_window_en: Comandos de la Frontera, au_ID_concatenated: putumayo-orito, au_area km: 1934.5008293218193
+
+capa: au_compilado_R02, fid: 1263, b_ADM2_ES: Solita, b_ADM2_PCODE: CO18785, b_ADM1_ES: Caquetá, b_ADM1_PCODE: CO18, b_adm1_geral: Caquetá, b_adm2_geral: Solita, b_ID_concatenated: caqueta-solita, au_country: Colombia, au_level1: Caquetá, au_level2: Solita, au_population: 6412, au_c_d_f: VERDADEIRO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: Comandos de la Frontera, au_popup_window_pt: Comandos de la Frontera, au_popup_window_en: Comandos de la Frontera, au_ID_concatenated: caqueta-solita, au_area km: 476.5742365320538
+
+capa: au_compilado_R02, fid: 1264, b_ADM2_ES: Villagarzón, b_ADM2_PCODE: CO86885, b_ADM1_ES: Putumayo, b_ADM1_PCODE: CO86, b_adm1_geral: Putumayo, b_adm2_geral: Villagarzón, b_ID_concatenated: putumayo-villagarzon, au_country: Colombia, au_level1: Putumayo, au_level2: Villagarzón, au_population: 25870, au_c_d_f: VERDADEIRO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_ID_concatenated: putumayo-villagarzon, au_area km: 1393.91816848449
+
+capa: au_compilado_R02, fid: 1265, b_ADM2_ES: Valparaíso, b_ADM2_PCODE: CO18860, b_ADM1_ES: Caquetá, b_ADM1_PCODE: CO18, b_adm1_geral: Caquetá, b_adm2_geral: Valparaíso, b_ID_concatenated: caqueta-valparaiso, au_country: Colombia, au_level1: Caquetá, au_level2: Valparaíso, au_population: 7163, au_c_d_f: FALSO, au_emc: FALSO, au_embf: VERDADEIRO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: EMBF: Frente Raúl Reyes, au_popup_window_pt: EMBF: Frente Raúl Reyes, au_popup_window_en: EMBF: Frente Raúl Reyes, au_ID_concatenated: caqueta-valparaiso, au_area km: 1329.2236411973047
+
+capa: au_compilado_R02, fid: 1266, b_ADM2_ES: Puerto Caicedo, b_ADM2_PCODE: CO86569, b_ADM1_ES: Putumayo, b_ADM1_PCODE: CO86, b_adm1_geral: Putumayo, b_adm2_geral: Puerto Caicedo, b_ID_concatenated: putumayo-puerto_caicedo, au_country: Colombia, au_level1: Putumayo, au_level2: Puerto Caicedo, au_population: 17484, au_c_d_f: VERDADEIRO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: Comandos de la Frontera, au_popup_window_pt: Comandos de la Frontera, au_popup_window_en: Comandos de la Frontera, au_ID_concatenated: putumayo-puerto_caicedo, au_area km: 924.8220208456081
+
+capa: au_compilado_R02, fid: 1267, b_ADM2_ES: Puerto Guzmán, b_ADM2_PCODE: CO86571, b_ADM1_ES: Putumayo, b_ADM1_PCODE: CO86, b_adm1_geral: Putumayo, b_adm2_geral: Puerto Guzmán, b_ID_concatenated: putumayo-puerto_guzman, au_country: Colombia, au_level1: Putumayo, au_level2: Puerto Guzmán, au_population: 42038, au_c_d_f: VERDADEIRO, au_emc: VERDADEIRO, au_embf: VERDADEIRO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - Comandos de la Frontera
+- EMBF: Frente Raúl Reyes
+- EMC: Carolina Ramírez, au_popup_window_pt: - Comandos de la Frontera
+- EMBF: Frente Raúl Reyes
+- EMC: Carolina Ramírez, au_popup_window_en: - Comandos de la Frontera
+- EMBF: Frente Raúl Reyes
+- EMC: Carolina Ramírez, au_ID_concatenated: putumayo-puerto_guzman, au_area km: 4571.92150433581
+
+capa: au_compilado_R02, fid: 1268, b_ADM2_ES: Puerto Asís, b_ADM2_PCODE: CO86568, b_ADM1_ES: Putumayo, b_ADM1_PCODE: CO86, b_adm1_geral: Putumayo, b_adm2_geral: Puerto Asís, b_ID_concatenated: putumayo-puerto_asis, au_country: Colombia, au_level1: Putumayo, au_level2: Puerto Asís, au_population: 72516, au_c_d_f: VERDADEIRO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: Comandos de la Frontera, au_popup_window_pt: Comandos de la Frontera, au_popup_window_en: Comandos de la Frontera, au_ID_concatenated: putumayo-puerto_asis, au_area km: 2814.7280696633734
+
+capa: au_compilado_R02, fid: 1269, b_ADM2_ES: Bolivar, b_ADM2_PCODE: EC0402, b_ADM1_ES: Carchi, b_ADM1_PCODE: EC04, b_adm1_geral: Carchi, b_adm2_geral: Bolivar, b_ID_concatenated: carchi-bolivar, au_area km: 355.62099750937324
+
+capa: au_compilado_R02, fid: 1270, b_ADM2_ES: Montufar, b_ADM2_PCODE: EC0405, b_ADM1_ES: Carchi, b_ADM1_PCODE: EC04, b_adm1_geral: Carchi, b_adm2_geral: Montufar, b_ID_concatenated: carchi-montufar, au_area km: 384.7092049058448
+
+capa: au_compilado_R02, fid: 1271, b_ADM2_ES: San Pedro de Huaca, b_ADM2_PCODE: EC0406, b_ADM1_ES: Carchi, b_ADM1_PCODE: EC04, b_adm1_geral: Carchi, b_adm2_geral: San Pedro de Huaca, b_ID_concatenated: carchi-san_pedro_de_huaca, au_area km: 70.27426702458779
+
+capa: au_compilado_R02, fid: 1272, b_ADM2_ES: Sucumbios, b_ADM2_PCODE: EC2105, b_ADM1_ES: Sucumbios, b_ADM1_PCODE: EC21, b_adm1_geral: Sucumbios, b_adm2_geral: Sucumbios, b_ID_concatenated: sucumbios-sucumbios, au_country: Ecuador, au_level1: Sucumbios, au_level2: Sucumbios, au_population: 3390, au_c_d_f: VERDADEIRO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: VERDADEIRO, au_choneros: VERDADEIRO, au_cv: FALSO, au_pcc: FALSO, au_others: VERDADEIRO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - Comandos de la Frontera
+- Los Choneros
+- Los Lobos
+- Comuneros del Sur, au_popup_window_pt: - Comandos de la Frontera
+- Los Choneros
+- Los Lobos
+- Comuneros del Sur, au_popup_window_en: - Comandos de la Frontera
+- Los Choneros
+- Los Lobos
+- Comuneros del Sur, au_ID_concatenated: sucumbios-sucumbios, au_area km: 1514.3851463556553
+
+capa: au_compilado_R02, fid: 1273, b_ADM2_ES: Ipiales, b_ADM2_PCODE: CO52356, b_ADM1_ES: Nariño, b_ADM1_PCODE: CO52, b_adm1_geral: Nariño, b_adm2_geral: Ipiales, b_ID_concatenated: narino-ipiales, au_area km: 1566.5207074827745
+
+capa: au_compilado_R02, fid: 1274, b_ADM2_ES: Potosí, b_ADM2_PCODE: CO52560, b_ADM1_ES: Nariño, b_ADM1_PCODE: CO52, b_adm1_geral: Nariño, b_adm2_geral: Potosí, b_ID_concatenated: narino-potosi, au_area km: 386.96558067231024
+
+capa: au_compilado_R02, fid: 1275, b_ADM2_ES: Córdoba, b_ADM2_PCODE: CO52215, b_ADM1_ES: Nariño, b_ADM1_PCODE: CO52, b_adm1_geral: Nariño, b_adm2_geral: Córdoba, b_ID_concatenated: narino-cordoba, au_area km: 303.6280170393782
+
+capa: au_compilado_R02, fid: 1276, b_ADM2_ES: Puerres, b_ADM2_PCODE: CO52573, b_ADM1_ES: Nariño, b_ADM1_PCODE: CO52, b_adm1_geral: Nariño, b_adm2_geral: Puerres, b_ID_concatenated: narino-puerres, au_area km: 349.0137997033094
+
+capa: au_compilado_R02, fid: 1277, b_ADM2_ES: Funes, b_ADM2_PCODE: CO52287, b_ADM1_ES: Nariño, b_ADM1_PCODE: CO52, b_adm1_geral: Nariño, b_adm2_geral: Funes, b_ID_concatenated: narino-funes, au_area km: 393.48336413915547
+
+capa: au_compilado_R02, fid: 1303, b_ADM2_ES: Algeciras, b_ADM2_PCODE: CO41020, b_ADM1_ES: Huila, b_ADM1_PCODE: CO41, b_adm1_geral: Huila, b_adm2_geral: Algeciras, b_ID_concatenated: huila-algeciras, au_area km: 589.4219633957065
+
+capa: au_compilado_R02, fid: 1304, b_ADM2_ES: Gigante, b_ADM2_PCODE: CO41306, b_ADM1_ES: Huila, b_ADM1_PCODE: CO41, b_adm1_geral: Huila, b_adm2_geral: Gigante, b_ID_concatenated: huila-gigante, au_area km: 503.38311908423583
+
+capa: au_compilado_R02, fid: 1305, b_ADM2_ES: Tello, b_ADM2_PCODE: CO41799, b_ADM1_ES: Huila, b_ADM1_PCODE: CO41, b_adm1_geral: Huila, b_adm2_geral: Tello, b_ID_concatenated: huila-tello, au_area km: 530.2331827258957
+
+capa: au_compilado_R02, fid: 1306, b_ADM2_ES: Belén de los Andaquíes, b_ADM2_PCODE: CO18094, b_ADM1_ES: Caquetá, b_ADM1_PCODE: CO18, b_adm1_geral: Caquetá, b_adm2_geral: Belén de los Andaquíes, b_ID_concatenated: caqueta-belen_de_los_andaquies, au_country: Colombia, au_level1: Caquetá, au_level2: Belén de los Andaquíes, au_population: 11403, au_c_d_f: VERDADEIRO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: VERDADEIRO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - Comandos de la Frontera
+- Segunda Marquetalia, au_popup_window_pt: - Comandos de la Frontera
+- Segunda Marquetalia, au_popup_window_en: - Comandos de la Frontera
+- Segunda Marquetalia, au_ID_concatenated: caqueta-belen_de_los_andaquies, au_area km: 1190.435757918319
+
+capa: au_compilado_R02, fid: 1307, b_ADM2_ES: Acevedo, b_ADM2_PCODE: CO41006, b_ADM1_ES: Huila, b_ADM1_PCODE: CO41, b_adm1_geral: Huila, b_adm2_geral: Acevedo, b_ID_concatenated: huila-acevedo, au_area km: 539.9060980316324
+
+capa: au_compilado_R02, fid: 1308, b_ADM2_ES: Palestina, b_ADM2_PCODE: CO41530, b_ADM1_ES: Huila, b_ADM1_PCODE: CO41, b_adm1_geral: Huila, b_adm2_geral: Palestina, b_ID_concatenated: huila-palestina, au_area km: 177.98341459369541
+
+capa: au_compilado_R02, fid: 1309, b_ADM2_ES: Curillo, b_ADM2_PCODE: CO18205, b_ADM1_ES: Caquetá, b_ADM1_PCODE: CO18, b_adm1_geral: Caquetá, b_adm2_geral: Curillo, b_ID_concatenated: caqueta-curillo, au_country: Colombia, au_level1: Caquetá, au_level2: Curillo, au_population: 7807, au_c_d_f: VERDADEIRO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: Comandos de la Frontera, au_popup_window_pt: Comandos de la Frontera, au_popup_window_en: Comandos de la Frontera, au_ID_concatenated: caqueta-curillo, au_area km: 402.9232775057115
+
+capa: au_compilado_R02, fid: 1310, b_ADM2_ES: Milán, b_ADM2_PCODE: CO18460, b_ADM1_ES: Caquetá, b_ADM1_PCODE: CO18, b_adm1_geral: Caquetá, b_adm2_geral: Milán, b_ID_concatenated: caqueta-milan, au_country: Colombia, au_level1: Caquetá, au_level2: Milán, au_population: 10250, au_c_d_f: FALSO, au_emc: FALSO, au_embf: VERDADEIRO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: EMBF: Frente Rodrigo Cadete, au_popup_window_pt: EMBF: Frente Rodrigo Cadete, au_popup_window_en: EMBF: Frente Rodrigo Cadete, au_ID_concatenated: caqueta-milan, au_area km: 1219.9314818357411
+
+capa: au_compilado_R02, fid: 1311, b_ADM2_ES: Piamonte, b_ADM2_PCODE: CO19533, b_ADM1_ES: Cauca, b_ADM1_PCODE: CO19, b_adm1_geral: Cauca, b_adm2_geral: Piamonte, b_ID_concatenated: cauca-piamonte, au_area km: 1103.068071290557
+
+capa: au_compilado_R02, fid: 1312, b_ADM2_ES: Albania, b_ADM2_PCODE: CO18029, b_ADM1_ES: Caquetá, b_ADM1_PCODE: CO18, b_adm1_geral: Caquetá, b_adm2_geral: Albania, b_ID_concatenated: caqueta-albania, au_country: Colombia, au_level1: Caquetá, au_level2: Albania, au_population: 4835, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: VERDADEIRO, au_invest. with presence: FALSO, au_ID_concatenated: caqueta-albania, au_area km: 413.70845486407734
+
+capa: au_compilado_R02, fid: 1313, b_ADM2_ES: Pitalito, b_ADM2_PCODE: CO41551, b_ADM1_ES: Huila, b_ADM1_PCODE: CO41, b_adm1_geral: Huila, b_adm2_geral: Pitalito, b_ID_concatenated: huila-pitalito, au_area km: 629.8595845714079
+
+capa: au_compilado_R02, fid: 1314, b_ADM2_ES: Suaza, b_ADM2_PCODE: CO41770, b_ADM1_ES: Huila, b_ADM1_PCODE: CO41, b_adm1_geral: Huila, b_adm2_geral: Suaza, b_ID_concatenated: huila-suaza, au_area km: 429.27276223142337
+
+capa: au_compilado_R02, fid: 1315, b_ADM2_ES: La Cruz, b_ADM2_PCODE: CO52378, b_ADM1_ES: Nariño, b_ADM1_PCODE: CO52, b_adm1_geral: Nariño, b_adm2_geral: La Cruz, b_ID_concatenated: narino-la_cruz, au_area km: 238.2539056997141
+
+capa: au_compilado_R02, fid: 1316, b_ADM2_ES: Santa Rosa, b_ADM2_PCODE: CO19701, b_ADM1_ES: Cauca, b_ADM1_PCODE: CO19, b_adm1_geral: Cauca, b_adm2_geral: Santa Rosa, b_ID_concatenated: cauca-santa_rosa, au_area km: 3612.62395773464
+
+capa: au_compilado_R02, fid: 1317, b_ADM2_ES: San José del Fragua, b_ADM2_PCODE: CO18610, b_ADM1_ES: Caquetá, b_ADM1_PCODE: CO18, b_adm1_geral: Caquetá, b_adm2_geral: San José del Fragua, b_ID_concatenated: caqueta-san_jose_del_fragua, au_country: Colombia, au_level1: Caquetá, au_level2: San José del Fragua, au_population: 13270, au_c_d_f: VERDADEIRO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: Comandos de la Frontera, au_popup_window_pt: Comandos de la Frontera, au_popup_window_en: Comandos de la Frontera, au_ID_concatenated: caqueta-san_jose_del_fragua, au_area km: 1303.1148187533277
+
+capa: au_compilado_R02, fid: 1318, b_ADM2_ES: El Tablón de Gómez, b_ADM2_PCODE: CO52258, b_ADM1_ES: Nariño, b_ADM1_PCODE: CO52, b_adm1_geral: Nariño, b_adm2_geral: El Tablón de Gómez, b_ID_concatenated: narino-el_tablon_de_gomez, au_area km: 306.10785411594935
+
+capa: au_compilado_R02, fid: 1319, b_ADM2_ES: Mocoa, b_ADM2_PCODE: CO86001, b_ADM1_ES: Putumayo, b_ADM1_PCODE: CO86, b_adm1_geral: Putumayo, b_adm2_geral: Mocoa, b_ID_concatenated: putumayo-mocoa, au_country: Colombia, au_level1: Putumayo, au_level2: Mocoa, au_population: 67093, au_c_d_f: VERDADEIRO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_ID_concatenated: putumayo-mocoa, au_area km: 1301.9184054106638
+
+capa: au_compilado_R02, fid: 1320, b_ADM2_ES: La Vega, b_ADM2_PCODE: CO19397, b_ADM1_ES: Cauca, b_ADM1_PCODE: CO19, b_adm1_geral: Cauca, b_adm2_geral: La Vega, b_ID_concatenated: cauca-la_vega, au_area km: 514.9385384018751
+
+capa: au_compilado_R02, fid: 1321, b_ADM2_ES: San Sebastián, b_ADM2_PCODE: CO19693, b_ADM1_ES: Cauca, b_ADM1_PCODE: CO19, b_adm1_geral: Cauca, b_adm2_geral: San Sebastián, b_ID_concatenated: cauca-san_sebastian, au_area km: 418.14089403086655
+
+capa: au_compilado_R02, fid: 1322, b_ADM2_ES: San Agustín, b_ADM2_PCODE: CO41668, b_ADM1_ES: Huila, b_ADM1_PCODE: CO41, b_adm1_geral: Huila, b_adm2_geral: San Agustín, b_ID_concatenated: huila-san_agustin, au_area km: 1388.0992322827265
+
+capa: au_compilado_R02, fid: 1323, b_ADM2_ES: Bolívar, b_ADM2_PCODE: CO19100, b_ADM1_ES: Cauca, b_ADM1_PCODE: CO19, b_adm1_geral: Cauca, b_adm2_geral: Bolívar, b_ID_concatenated: cauca-bolivar, au_area km: 795.7853518452401
+
+capa: au_compilado_R02, fid: 1324, b_ADM2_ES: Sibundoy, b_ADM2_PCODE: CO86749, b_ADM1_ES: Putumayo, b_ADM1_PCODE: CO86, b_adm1_geral: Putumayo, b_adm2_geral: Sibundoy, b_ID_concatenated: putumayo-sibundoy, au_area km: 97.49393121442874
+
+capa: au_compilado_R02, fid: 1325, b_ADM2_ES: Colón, b_ADM2_PCODE: CO86219, b_ADM1_ES: Putumayo, b_ADM1_PCODE: CO86, b_adm1_geral: Putumayo, b_adm2_geral: Colón, b_ID_concatenated: putumayo-colon, au_area km: 64.1102880328085
+
+capa: au_compilado_R02, fid: 1326, b_ADM2_ES: Buesaco, b_ADM2_PCODE: CO52110, b_ADM1_ES: Nariño, b_ADM1_PCODE: CO52, b_adm1_geral: Nariño, b_adm2_geral: Buesaco, b_ID_concatenated: narino-buesaco, au_area km: 634.1614654508579
+
+capa: au_compilado_R02, fid: 1330, b_ADM2_ES: Putumayo, b_ADM2_PCODE: EC2103, b_ADM1_ES: Sucumbios, b_ADM1_PCODE: EC21, b_adm1_geral: Sucumbios, b_adm2_geral: Putumayo, b_ID_concatenated: sucumbios-putumayo, au_country: Ecuador, au_level1: Sucumbios, au_level2: Putumayo, au_population: 10174, au_c_d_f: VERDADEIRO, au_emc: VERDADEIRO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: VERDADEIRO, au_choneros: VERDADEIRO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - Comandos de la Frontera
+- Los Choneros
+- Los Lobos - EMC: Carolina Ramirez , au_popup_window_pt: - Comandos de la Frontera
+- Los Choneros
+- Los Lobos - EMC: Carolina Ramirez, au_popup_window_en: - Comandos de la Frontera
+- Los Choneros
+- Los Lobos - EMC: Carolina Ramirez, au_ID_concatenated: sucumbios-putumayo, au_area km: 3525.626822561275
+
+capa: au_compilado_R02, fid: 1331, b_ADM2_ES: Lago Agrio, b_ADM2_PCODE: EC2101, b_ADM1_ES: Sucumbios, b_ADM1_PCODE: EC21, b_adm1_geral: Sucumbios, b_adm2_geral: Lago Agrio, b_ID_concatenated: sucumbios-lago_agrio, au_country: Ecuador, au_level1: Sucumbios, au_level2: Lago Agrio, au_population: 91744, au_c_d_f: VERDADEIRO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: VERDADEIRO, au_choneros: VERDADEIRO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - Comandos de la Frontera
+- Los Choneros
+- Los Lobos, au_popup_window_pt: - Comandos de la Frontera
+- Los Choneros
+- Los Lobos, au_popup_window_en: - Comandos de la Frontera
+- Los Choneros
+- Los Lobos, au_ID_concatenated: sucumbios-lago_agrio, au_area km: 3142.5396448707684
+
+capa: au_compilado_R02, fid: 1332, b_ADM2_ES: San Miguel, b_ADM2_PCODE: CO86757, b_ADM1_ES: Putumayo, b_ADM1_PCODE: CO86, b_adm1_geral: Putumayo, b_adm2_geral: San Miguel, b_ID_concatenated: putumayo-san_miguel, au_country: Colombia, au_level1: Putumayo, au_level2: San Miguel, au_population: 19661, au_c_d_f: VERDADEIRO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: Comandos de la Frontera, au_popup_window_pt: Comandos de la Frontera, au_popup_window_en: Comandos de la Frontera, au_ID_concatenated: putumayo-san_miguel, au_area km: 378.8412952538103
+
+capa: au_compilado_R02, fid: 1333, b_ADM2_ES: Valle del Guamuez, b_ADM2_PCODE: CO86865, b_ADM1_ES: Putumayo, b_ADM1_PCODE: CO86, b_adm1_geral: Putumayo, b_adm2_geral: Valle del Guamuez, b_ID_concatenated: putumayo-valle_del_guamuez, au_country: Colombia, au_level1: Putumayo, au_level2: Valle del Guamuez, au_population: 34728, au_c_d_f: VERDADEIRO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: Comandos de la Frontera, au_popup_window_pt: Comandos de la Frontera, au_popup_window_en: Comandos de la Frontera, au_ID_concatenated: putumayo-valle_del_guamuez, au_area km: 813.1901311489459
+
+capa: au_compilado_R02, fid: 1337, b_ADM2_ES: El Chaco, b_ADM2_PCODE: EC1504, b_ADM1_ES: Napo, b_ADM1_PCODE: EC15, b_adm1_geral: Napo, b_adm2_geral: El Chaco, b_ID_concatenated: napo-el_chaco, au_country: Ecuador, au_level1: Napo, au_level2: El Chaco, au_population: 7960, au_c_d_f: VERDADEIRO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: VERDADEIRO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - Los Lobos
+- Comandos de la Frontera, au_popup_window_pt: - Los Lobos
+- Comandos de la Frontera, au_popup_window_en: - Los Lobos
+- Comandos de la Frontera, au_ID_concatenated: napo-el_chaco, au_area km: 3492.2212010570106
+
+capa: au_compilado_R02, fid: 1338, b_ADM2_ES: Cayambe, b_ADM2_PCODE: EC1702, b_ADM1_ES: Pichincha, b_ADM1_PCODE: EC17, b_adm1_geral: Pichincha, b_adm2_geral: Cayambe, b_ID_concatenated: pichincha-cayambe, au_area km: 1192.7330158255384
+
+capa: au_compilado_R02, fid: 1339, b_ADM2_ES: Gonzalo Pizarro, b_ADM2_PCODE: EC2102, b_ADM1_ES: Sucumbios, b_ADM1_PCODE: EC21, b_adm1_geral: Sucumbios, b_adm2_geral: Gonzalo Pizarro, b_ID_concatenated: sucumbios-gonzalo_pizarro, au_country: Ecuador, au_level1: Sucumbios, au_level2: Gonzalo Pizarro, au_population: 8599, au_c_d_f: VERDADEIRO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: VERDADEIRO, au_choneros: VERDADEIRO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - Comandos de la Frontera
+- Los Choneros
+- Los Lobos, au_popup_window_pt: - Comandos de la Frontera
+- Los Choneros
+- Los Lobos, au_popup_window_en: - Comandos de la Frontera
+- Los Choneros
+- Los Lobos, au_ID_concatenated: sucumbios-gonzalo_pizarro, au_area km: 2228.0614091494085
+
+capa: au_compilado_R02, fid: 1341, b_ADM2_ES: Cascales, b_ADM2_PCODE: EC2106, b_ADM1_ES: Sucumbios, b_ADM1_PCODE: EC21, b_adm1_geral: Sucumbios, b_adm2_geral: Cascales, b_ID_concatenated: sucumbios-cascales, au_country: Ecuador, au_level1: Sucumbios, au_level2: Cascales, au_population: 11104, au_c_d_f: VERDADEIRO, au_emc: VERDADEIRO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: VERDADEIRO, au_choneros: VERDADEIRO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - Comandos de la Frontera
+- Los Choneros
+- Los Lobos, au_popup_window_pt: - Comandos de la Frontera
+- Los Choneros
+- Los Lobos, au_popup_window_en: - Comandos de la Frontera
+- Los Choneros
+- Los Lobos, au_ID_concatenated: sucumbios-cascales, au_area km: 1247.9289513861727
+
+capa: au_compilado_R02, fid: 1342, b_ADM2_ES: Pimampiro, b_ADM2_PCODE: EC1005, b_ADM1_ES: Imbabura, b_ADM1_PCODE: EC10, b_adm1_geral: Imbabura, b_adm2_geral: Pimampiro, b_ID_concatenated: imbabura-pimampiro, au_area km: 442.46952350114964
+
+capa: au_compilado_R02, fid: 1347, b_ADM2_ES: Quito, b_ADM2_PCODE: EC1701, b_ADM1_ES: Pichincha, b_ADM1_PCODE: EC17, b_adm1_geral: Pichincha, b_adm2_geral: Quito, b_ID_concatenated: pichincha-quito, au_area km: 4210.913424341739
+
+capa: au_compilado_R02, fid: 1395, b_ADM2_ES: Tulcan, b_ADM2_PCODE: EC0401, b_ADM1_ES: Carchi, b_ADM1_PCODE: EC04, b_adm1_geral: Carchi, b_adm2_geral: Tulcan, b_ID_concatenated: carchi-tulcan, au_area km: 1820.81136872849
+
+capa: au_compilado_R02, fid: 1396, b_ADM2_ES: Tangua, b_ADM2_PCODE: CO52788, b_ADM1_ES: Nariño, b_ADM1_PCODE: CO52, b_adm1_geral: Nariño, b_adm2_geral: Tangua, b_ID_concatenated: narino-tangua, au_area km: 217.24462820598896
+
+capa: au_compilado_R02, fid: 1397, b_ADM2_ES: Pasto, b_ADM2_PCODE: CO52001, b_ADM1_ES: Nariño, b_ADM1_PCODE: CO52, b_adm1_geral: Nariño, b_adm2_geral: Pasto, b_ID_concatenated: narino-pasto, au_area km: 1096.1138462984277
+
+capa: au_compilado_R02, fid: 1398, b_ADM2_ES: Santiago, b_ADM2_PCODE: CO86760, b_ADM1_ES: Putumayo, b_ADM1_PCODE: CO86, b_adm1_geral: Putumayo, b_adm2_geral: Santiago, b_ID_concatenated: putumayo-santiago, au_country: Colombia, au_level1: Putumayo, au_level2: Santiago, au_population: 7298, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: VERDADEIRO, au_invest. with presence: FALSO, au_ID_concatenated: putumayo-santiago, au_area km: 341.0256140932546
+
+capa: au_compilado_R02, fid: 1399, b_ADM2_ES: San Francisco, b_ADM2_PCODE: CO86755, b_ADM1_ES: Putumayo, b_ADM1_PCODE: CO86, b_adm1_geral: Putumayo, b_adm2_geral: San Francisco, b_ID_concatenated: putumayo-san_francisco, au_country: Colombia, au_level1: Putumayo, au_level2: San Francisco, au_population: 5660, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: VERDADEIRO, au_invest. with presence: FALSO, au_ID_concatenated: putumayo-san_francisco, au_area km: 406.3991261911117
+
+capa: au_compilado_R02, fid: 1400, b_ADM2_ES: Cumaral, b_ADM2_PCODE: CO50226, b_ADM1_ES: Meta, b_ADM1_PCODE: CO50, b_adm1_geral: Meta, b_adm2_geral: Cumaral, b_ID_concatenated: meta-cumaral, au_country: Colombia, au_level1: Meta, au_level2: Cumaral, au_population: 24710, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: VERDADEIRO, au_invest. with presence: FALSO, au_ID_concatenated: meta-cumaral, au_area km: 624.9786272578821
+
+capa: au_compilado_R02, fid: 1401, b_ADM2_ES: Cabuyaro, b_ADM2_PCODE: CO50124, b_ADM1_ES: Meta, b_ADM1_PCODE: CO50, b_adm1_geral: Meta, b_adm2_geral: Cabuyaro, b_ID_concatenated: meta-cabuyaro, au_country: Colombia, au_level1: Meta, au_level2: Cabuyaro, au_population: 6963, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: VERDADEIRO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: Ejército Gaitanista de Colombia (EGC), frente de guerra Gonzalo Oquendo, au_popup_window_pt: Ejército Gaitanista de Colombia (EGC), frente de guerra Gonzalo Oquendo, au_popup_window_en: Ejército Gaitanista de Colombia (EGC), Gonzalo Oquendo front, au_ID_concatenated: meta-cabuyaro, au_area km: 913.3075696684525
+
+capa: au_compilado_R02, fid: 1402, b_ADM2_ES: Restrepo, b_ADM2_PCODE: CO50606, b_ADM1_ES: Meta, b_ADM1_PCODE: CO50, b_adm1_geral: Meta, b_adm2_geral: Restrepo, b_ID_concatenated: meta-restrepo, au_country: Colombia, au_level1: Meta, au_level2: Restrepo, au_population: 21525, au_c_d_f: FALSO, au_emc: VERDADEIRO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: EMC: Frente 10 (Martín Villa), au_popup_window_pt: EMC: Frente 10 (Martín Villa), au_popup_window_en: EMC: Frente 10 (Martín Villa), au_ID_concatenated: meta-restrepo, au_area km: 365.07356321776433
+
+capa: au_compilado_R02, fid: 1403, b_ADM2_ES: Barranca de Upía, b_ADM2_PCODE: CO50110, b_ADM1_ES: Meta, b_ADM1_PCODE: CO50, b_adm1_geral: Meta, b_adm2_geral: Barranca de Upía, b_ID_concatenated: meta-barranca_de_upia, au_country: Colombia, au_level1: Meta, au_level2: Barranca de Upía, au_population: 7922, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: VERDADEIRO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: Ejército Gaitanista de Colombia (EGC), frente de guerra Gonzalo Oquendo, au_popup_window_pt: Ejército Gaitanista de Colombia (EGC), frente de guerra Gonzalo Oquendo, au_popup_window_en: Ejército Gaitanista de Colombia (EGC), Gonzalo Oquendo front, au_ID_concatenated: meta-barranca_de_upia, au_area km: 403.67429149973424
+
+capa: au_compilado_R02, fid: 1404, b_ADM2_ES: Santa Rosalía, b_ADM2_PCODE: CO99624, b_ADM1_ES: Vichada, b_ADM1_PCODE: CO99, b_adm1_geral: Vichada, b_adm2_geral: Santa Rosalía, b_ID_concatenated: vichada-santa_rosalia, au_country: Colombia, au_level1: Vichada, au_level2: Santa Rosalía, au_population: 4170, au_c_d_f: FALSO, au_emc: VERDADEIRO, au_embf: FALSO, au_seg_marq: VERDADEIRO, au_eln: VERDADEIRO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: VERDADEIRO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - ELN a través del Frente Jorge Daniel Perez Carrero
+- EMC: Bloque Amazonas (Iván Mordisco)
+- EMC: Frente 10 (Martín Villa)
+- Ejército Gaitanista de Colombia (EGC)
+- Segunda Marquetalia a través del Frente 53 (Edison Romaña), au_popup_window_pt: - ELN a través del Frente Jorge Daniel Perez Carrero
+- EMC: Bloque Amazonas (Iván Mordisco)
+- EMC: Frente 10 (Martín Villa)
+- Ejército Gaitanista de Colombia (EGC)
+- Segunda Marquetalia através da Frente 53 (Edison Romaña), au_popup_window_en: - ELN a través del Frente Jorge Daniel Perez Carrero
+- EMC: Bloque Amazonas (Iván Mordisco)
+- EMC: Frente 10 (Martín Villa)
+- Ejército Gaitanista de Colombia (EGC)
+- Segunda Marquetalia through Frente 53 (Edison Romaña), au_ID_concatenated: vichada-santa_rosalia, au_area km: 3884.352481260596
+
+capa: au_compilado_R02, fid: 1405, b_ADM2_ES: Puerto López, b_ADM2_PCODE: CO50573, b_ADM1_ES: Meta, b_ADM1_PCODE: CO50, b_adm1_geral: Meta, b_adm2_geral: Puerto López, b_ID_concatenated: meta-puerto_lopez, au_country: Colombia, au_level1: Meta, au_level2: Puerto López, au_population: 32366, au_c_d_f: FALSO, au_emc: VERDADEIRO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: VERDADEIRO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - EMC: Frente 10 (Martín Villa)
+- Ejército Gaitanista de Colombia (EGC) y su frente de guerra es Gonzalo Oquendo , au_popup_window_pt: - EMC: Frente 10 (Martín Villa)
+- Ejército Gaitanista de Colombia (EGC), frente de guerra Gonzalo Oquendo , au_popup_window_en: - EMC: Frente 10 (Martín Villa)
+- Ejército Gaitanista de Colombia (EGC), Gonzalo Oquendo front, au_ID_concatenated: meta-puerto_lopez, au_area km: 6908.853143628961
+
+capa: au_compilado_R02, fid: 1406, b_ADM2_ES: La Primavera, b_ADM2_PCODE: CO99524, b_ADM1_ES: Vichada, b_ADM1_PCODE: CO99, b_adm1_geral: Vichada, b_adm2_geral: La Primavera, b_ID_concatenated: vichada-la_primavera, au_country: Colombia, au_level1: Vichada, au_level2: La Primavera, au_population: 10672, au_c_d_f: FALSO, au_emc: VERDADEIRO, au_embf: FALSO, au_seg_marq: VERDADEIRO, au_eln: VERDADEIRO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: VERDADEIRO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - ELN a través del Frente Jorge Daniel Perez Carrero
+- EMC: Bloque Amazonas (Iván Mordisco)
+- EMC: Frente 10 (Martín Villa)
+- Ejército Gaitanista de Colombia (EGC)
+- Segunda Marquetalia a través del Frente 53 (Edison Romaña), au_popup_window_pt: - ELN a través del Frente Jorge Daniel Perez Carrero
+- EMC: Bloque Amazonas (Iván Mordisco)
+- EMC: Frente 10 (Martín Villa)
+- Ejército Gaitanista de Colombia (EGC)
+- Segunda Marquetalia através da Frente 53 (Edison Romaña), au_popup_window_en: - ELN a través del Frente Jorge Daniel Perez Carrero
+- EMC: Bloque Amazonas (Iván Mordisco)
+- EMC: Frente 10 (Martín Villa)
+- Ejército Gaitanista de Colombia (EGC)
+- Segunda Marquetalia through Frente 53 (Edison Romaña), au_ID_concatenated: vichada-la_primavera, au_area km: 18250.68276706627
+
+capa: au_compilado_R02, fid: 1407, b_ADM2_ES: Villavicencio, b_ADM2_PCODE: CO50001, b_ADM1_ES: Meta, b_ADM1_PCODE: CO50, b_adm1_geral: Meta, b_adm2_geral: Villavicencio, b_ID_concatenated: meta-villavicencio, au_country: Colombia, au_level1: Meta, au_level2: Villavicencio, au_population: 584389, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: VERDADEIRO, au_invest. with presence: FALSO, au_ID_concatenated: meta-villavicencio, au_area km: 1285.7342902704631
+
+capa: au_compilado_R02, fid: 1408, b_ADM2_ES: Castilla la Nueva, b_ADM2_PCODE: CO50150, b_ADM1_ES: Meta, b_ADM1_PCODE: CO50, b_adm1_geral: Meta, b_adm2_geral: Castilla la Nueva, b_ID_concatenated: meta-castilla_la_nueva, au_country: Colombia, au_level1: Meta, au_level2: Castilla la Nueva, au_population: 17622, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: VERDADEIRO, au_invest. with presence: FALSO, au_ID_concatenated: meta-castilla_la_nueva, au_area km: 514.6386997354665
+
+capa: au_compilado_R02, fid: 1409, b_ADM2_ES: San Carlos de Guaroa, b_ADM2_PCODE: CO50680, b_ADM1_ES: Meta, b_ADM1_PCODE: CO50, b_adm1_geral: Meta, b_adm2_geral: San Carlos de Guaroa, b_ID_concatenated: meta-san_carlos_de_guaroa, au_country: Colombia, au_level1: Meta, au_level2: San Carlos de Guaroa, au_population: 14694, au_c_d_f: FALSO, au_emc: VERDADEIRO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: EMC: Frente 10 (Martín Villa), au_popup_window_pt: EMC: Frente 10 (Martín Villa), au_popup_window_en: EMC: Frente 10 (Martín Villa), au_ID_concatenated: meta-san_carlos_de_guaroa, au_area km: 807.6345982602811

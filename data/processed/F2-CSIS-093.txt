@@ -1,0 +1,562 @@
+CSIS BRIEFS | WWW.CSIS.ORG | 1
+CSIS
+BRIEFS
+Battle Networks and the
+Future Force
+Part 1: A Framework for Debate
+By Todd Harrison
+THE ISSUE
+As the first in a two-part series that explores the future of battle networks in the U.S. military—what has become known as
+Joint All-Domain Command and Control (JADC2)—this paper examines the importance of battle networks to modern military
+operations and presents a framework of five functional elements that make up a battle network. This framework provides
+a common basis for conceptualizing and comparing existing systems and proposed new capabilities in terms of how they
+contribute to JADC2. The second brief in the series explores factors the Department of Defense (DoD) must contemplate in
+designing battle networks for the future force, including operational constraints, strategy and policy issues, and alternative
+acquisition approaches.
+DEFINING THE CHALLENGE battle networks became faster, longer range, and more
+Militaries use battle networks to detect what is happening advantageous to militaries, the networks themselves
+on the battlefield, process that data into actionable also became an attractive target. As John Stillion and
+information, decide on a course of action, communicate Bryan Clark have noted, the competition between battle
+networks was a key element of World War II, particularly
+decisions among forces, act on those decisions, and assess
+in submarine and anti-submarine warfare.
+the effectiveness of the actions taken. Battle networks
+are sometimes referred to as the “sensor-to-shooter kill What has changed in recent decades is the amount of
+chain” (or just the “kill chain”), and they are widely information produced by sensors, the speed and ubiquity of
+acknowledged as an increasingly important element of communications, and the magnitude of tactical advantage
+modern warfare. possible from processing that information and making
+decisions faster than one’s adversary—what some have
+While the importance of battle networks has garnered
+called “informationized” warfare. In this “new way of
+more attention in recent years, battle networks
+war,” advantage accrues to those that can see farther and
+themselves are not new. Early battle networks used
+clearer and act faster and at greater range—and deny the
+scouts, couriers, flags, telegraphs, and wired field
+other side the ability to do the same.
+telephones to transmit information and decisions
+among forces on the battlefield. More advanced battle The technological advances that have enabled this
+networks began to emerge in World War II with the new way of operating are driven in part by commercial
+widespread adoption of technologies such as radar, sonar, developments: lighter, cheaper, and higher fidelity
+radio communications, and aerial reconnaissance. As sensors; increases in data throughput capacity
+
+and coverage from cellular, fiber, and satellite CURRENT EFFORTS
+communications networks; massive cloud computing The military is now at a critical point in architecting
+and data storage centers; and big data analytics, machine the battle networks of the future. DoD’s overarching
+learning (ML), and artificial intelligence (AI) systems. The concept for this is known as Joint All Domain Command
+application of these commercial technologies to military and Control (JADC2), and on May 13, 2021, Defense
+battle networks has been widely acknowledged for more Secretary Lloyd Austin officially signed the military’s
+than three decades and has manifested itself in whole or JADC2 implementation strategy. Within the JADC2
+in part in many different concepts, initiatives, strategies, concept, however, are multiple overlapping and
+and buzzwords over the years. This long line of thinking sometimes contradictory efforts. The Air Force is
+includes the Revolution in Military Affairs and what the pursuing the Advanced Battle Management System
+Soviet’s termed the Long-Range Reconnaissance-Strike (ABMS), which started out as a replacement for the
+Complex in the 1980s and 1990s; the Transformation aging fleet of E-8C Joint Surveillance Target Attack
+Initiative, Network-Centric Warfare, and the Global Radar System (JSTARS) aircraft and morphed into a
+Information Grid of the 1990s and 2000s; and the Third program to develop a “secure, military digital network
+Offset Strategy of the 2010s (to name a few examples). environment,” but the program remains ill-defined
+in terms of which elements of the battle network
+Despite the abundance of thinking and strategizing about
+it is building. For several years, the U.S. Navy has
+the need to modernize the U.S. military’s battle networks
+been developing and expanding its Naval Integrated
+to increase speed, resilience, and interoperability,
+Fire Control-Counter Air (NIFC-CA) architecture
+progress has been slow. As Chris Brose notes in his book
+to integrate more platforms, sensors, and weapons,
+Kill Chain, “Rather than thinking in terms of buying new
+including the F-35, Aegis ships, and SM-6 anti-aircraft
+battle networks that could close the kill chain faster than
+missiles. The Navy is also exploring its own future
+ever, they [the U.S. military] thought in terms of buying
+network architecture through Project Overmatch, which
+incrementally better versions of the same platforms they
+is intended “to enable a Navy that swarms the sea,
+had relied upon for decades—tanks, manned short-range
+delivering synchronized lethal and nonlethal effects
+aircraft, big satellites, and bigger ships.” As Brose goes on
+from near-and-far, every axis, and every domain.”
+to discuss, the focus on buying next-generation platforms
+The U.S. Army is taking a more incremental approach
+rather than the sensors, payloads, and communications
+through its Project Convergence, which it bills as a
+systems needed to make both existing and next-
+“campaign of learning organized around a continuous,
+generation platforms work together more effectively is
+structured series of demonstrations and experiments.”
+a deep cultural limitation of the military. It is the root
+The Army is also experimenting with the Terrestrial
+cause of many interoperability limitations present in the
+Layer System, which is intended to network a range
+force today, such as the inability of the U.S. Air Force’s
+of sensors—including intelligence agency sensors—to
+two fifth-generation fighters (the F-22 and F-35) to
+enable precision kinetic, electronic, and cyberattacks,
+communicate directly with one another.
+and the service has begun initial production of its
+To address some interoperability issues, DoD is Integrated Battle Command System (IBCS).
+using workarounds, such as U-2s equipped with a
+Beyond the military departments, the Joint Staff, the
+communications payload that connects F-22s and F-35s
+Office of the Under Secretary of Defense for Research
+with each other and with units on the ground. Similarly,
+and Engineering (OSD/R&E), Special Operations
+the Battlefield Airborne Communication Node (BACN)
+Command (SOCOM), and the Defense Advanced
+can be flown on platforms such as the RQ-4 and E-11
+Research Projects Agency (DARPA) each have ongoing
+to act as a communications gateway to connect aircraft
+initiatives related to JADC2. The Joint Staff is tasked
+and users on the ground using various tactical data links,
+with developing an overall strategy for JADC2 and
+such as Link 16 and the Situational Awareness Data
+leading a joint cross-functional team on the subject.
+Link (SADL). Workarounds such as these are a necessary
+OSD/R&E has a research effort known as Fully
+first step, but they fall short of achieving the full vision
+Networked Command, Control, and Communications
+of a mesh network that allows dynamic and resilient
+(FNC3) that is initially focused on developing resilient
+interoperability across military services, domains, and and diversified communication paths for future battle
+allied and partner forces.
+CSIS BRIEFS | WWW.CSIS.ORG | 2
+
+networks. SOCOM is working on multiple initiatives to lexicon for comparing and evaluating different concepts
+increase interoperability among forces, such as a data and programs, and it provides an overview of the various
+fabric and data management environment for special options available in each functional element. It does
+operations forces. DARPA has developed a concept not provide specific recommendations on which options
+known as Mosaic Warfare that aims “to turn complexity should be pursued. Many competing ideas already exist
+into a powerful new asymmetric weapon via rapidly for how to build the battle networks of the future and
+composable networks of low-cost sensors, multi-domain what technologies should or should not be incorporated.
+command and control nodes, and cooperative manned This paper aims to raise the level of debate by offering a
+and unmanned systems.” As part of this effort, DARPA framework by which competing ideas can be compared,
+has sponsored a series of projects that use AI to turn and roles and missions can be more precisely and
+raw sensor data into actionable information, to connect deliberately articulated. The second paper in this series
+radios that otherwise are not compatible, and to perform explores the operational, strategy and policy, and
+airspace deconfliction. acquisition approaches senior leaders should consider
+when designing and building battle networks for the
+COMPLICATING FACTORS future force.
+While many programs and activities are simultaneously
+underway across DoD, a major impediment to making DEFINING A BATTLE NETWORK: FIVE
+meaningful progress is that no one “owns” the overall FUNCTIONAL ELEMENTS
+JADC2 mission area. Each of the military services The framework proposed in this paper divides the
+owns their respective programs, platforms, and battle component parts of a battle network into five functional
+networks (and the budgets that fund them), but elements, shown in Figure 1. Within each functional
+there is no effective forcing function that ensures the element, a combination of people, processes, and tools
+services’ systems will be able to work together. For (i.e., technology) govern how the element works and the
+example, in ABMS, the Air Force is developing a system capabilities it can provide in the overall battle network.
+that may work well for connecting a few thousand Each element of the network can include multiple types
+aircraft, but the same system may not work well for of platforms and payloads, and some of these platforms
+connecting hundreds of thousands of soldiers (and and payloads can be part of multiple functional elements
+their equipment) on the ground. And if the Army and simultaneously. For example, an E-3 AWACS aircraft can
+Navy develop their own independent battle networks, be part of the sensor and processing functional elements
+connecting them to ABMS may end up being an in a battle network because it houses a powerful radar
+afterthought or, worse, an unfunded requirement.
+used to detect and track aircraft and the computer
+The risk in the current approach is that each service,
+systems and personnel needed to process and analyze
+COCOM, or agency goes in its own direction and
+that data in real time.
+develops multiple stove-piped networks that do not
+allow the kind of interoperability and resilience that SENSOR ELEMENT
+would be possible with a more coordinated approach.
+The functional purpose of the sensor element is to collect
+Further complicating matters, the debate over JADC2 data on what is happening in the battlespace. This data
+is obscured in the generic language used to describe can be used to detect and geolocate forces, identify who
+the vision, the technologies being developed, and the or what is involved, characterize the activities or types of
+programs executing the services’ plans. While the need forces being used, and track forces as they move around
+for JADC2 is well established and articulated, in many the battlespace. The sensor element can also be used to
+cases, the military services and Congress appear to assess the effectiveness of actions taken—what is commonly
+be talking past each other when it comes to specific known as battle damage assessment. The targets for data
+programs and activities. collection can include adversary forces, friendly forces, and
+non-combatants, and one of the most important roles of the
+The following sections provide a framework for
+sensor element is to distinguish among these.
+discussing battle networks and the various payloads,
+platforms, and other components that comprise them. Operators can use a variety of sensor technologies to
+This framework is intended to provide a common acquire the desired data. Active sensors, such as active
+CSIS BRIEFS | WWW.CSIS.ORG | 3
+
+Figure 1: Example Diagram of the Five Functional Elements of a Battle Network
+Source: Based on author’s own creation.
+scanning radar and sonar, emit a source of energy and aperture radar (SAR) satellites can also detect and track
+measure the reflected returns of that energy from an moving targets on the ground without the same range,
+object to determine its location, size, relative motion, weather, overflight, or flight duration limitations as
+or other characteristics. Passive sensors, such as optical aircraft, but continuous coverage of an area from space
+and infrared cameras or passive radar and sonar, rely on requires a large constellation of satellites in low Earth
+the collection of energy emitted by an object or reflected orbit (LEO) because satellites in LEO are in constant
+from natural sources. Active sensors can potentially be motion relative to the surface of the Earth.
+detected by an adversary and give away the location of
+the sensor and how it is being used, whereas passive COMMUNICATIONS ELEMENT
+sensors can operate with a lower probability of detection. The communications element of battle networks often
+receives the most attention because it provides the data
+Sensors can be used in-domain or cross-domain
+links that pass information among systems and operators.
+depending on their capabilities and the needs of the
+The information transmitted can include voice, video,
+user. Table 1 provides a crosswalk with some examples
+one-way data broadcasts, or two-way data links. Raw data
+of specific sensor platforms, including both military
+from high-fidelity sensors often requires high data rate
+and commercial systems. For example, tracking moving
+communication links, whereas compressed data, processed
+targets on the ground can be accomplished by many
+data, or telemetry can use significantly lower data rates.
+different types of sensors. Ground-based sensors can
+detect some movements, but they are limited in range to The physical means of communication can be through
+a relatively small area around the sensor itself. Airborne wired (copper or fiber), radio frequency (RF), or free-
+sensors can monitor a much broader area and provide space laser communication (i.e., lasercom). Wired links
+persistent tracking of ground targets, but their use can can only connect fixed sites within the ground domain,
+be limited by weather conditions, aircraft flight duration, whereas mobile and cross-domain data links require RF
+adversary air defenses, and the maximum effective range or lasercom. Communication systems use a wide range
+of the sensors, which scales with altitude. Synthetic of encryption and waveforms, which can be unique to a
+CSIS BRIEFS | WWW.CSIS.ORG | 4
+
+Table 1: Examples of In-Domain and Cross-Domain Sensor Applications
+SENSING FROM:
+particular mission area or system. Previous efforts, such near the speed of light, transit times can start to add
+as the Joint Tactical Radio System (JTRS) and the related up over long distances. The transit time to a satellite in
+Software Communications Architecture (SCA), attempted geostationary orbit (GEO) and back to Earth, for example,
+to mandate compatibility across communications systems is roughly 0.25 seconds. If multiple hops between satellites
+with limited success. Gateways (or teleports) can be in GEO are needed to close a link, the total round trip
+used to connect systems across a variety of protocols latency can rise above 0.5 seconds—a noticeable delay for
+and standards and act as translators between otherwise applications such as voice or video communications. The
+incompatible radios. For example, the Air Force envisions roundtrip time to satellites in LEO, however, is on the
+aerial refueling aircraft such as the KC-46 serving as order of 0.01 seconds, depending on the altitude of the
+flying gateways that connect aircraft inside adversary air satellite and the look angle of the user.
+defenses with other parts of the battle network.
+RF communication links, whether direct between users
+The military must weigh several factors when selecting the or relayed through airborne or satellite communications
+best types of communication links to use for a particular systems, are vulnerable to detection, interception, and
+mission, including: latency; probability of detection interference. Various methods are available to make
+and intercept; and resilience to jamming, spoofing, and RF signals more protected from these threats, such as
+weather disruptions. Latency is the roundtrip time it using frequency-hopping spread spectrum waveforms,
+takes for data to travel between systems, and this can be antenna nulling, adaptive filtering, and high-gain/narrow
+a factor for missions where real-time data is critical, such beamwidth antennas. RF signals are also bandwidth
+as passing tracking and targeting data for air and missile limited by the range of frequencies allocated for their
+defense. While RF, fiber, and lasercom links operate at use to help avoid interference with other military and
+CSIS BRIEFS | WWW.CSIS.ORG | 5
+:OT
+GNISNES
+MARITIME MARITIME
+GROUND AIRBORNE SPACE
+(SUBSURFACE) (SURFACE)
+Maritime Patrol Aircraft
+MARITIME Towed Array Sonar Hull-Mounted Sonar
+with Sonobuoys
+(SUBSURFACE) (TB-29X) (AN/SQS-53C)
+(P-3, P-8)
+Synthetic Aperture Radar
+Over-the-Horizon Radar
+MARITIME Towed Array Sonar Hull-Mounted Sonar Maritime Patrol Aircraft (SAR) Satellites
+(Jindalee Radar
+(SURFACE) (TB-29X) (AN/SQS-53C) (P-3, P-8) (Umbra, Orbital Effects,
+Network)
+Capella)
+Acoustic, Seismic, Optical, Infrared, and SAR, Electro Optical, and
+Optical, and Infrared Radar ISR Aircraft RF Monitoring Satellites
+GROUND
+(Unattended Ground (E-8C, MQ-9, U-2, (Digital Globe, Planet,
+Sensor) RQ-4) Hawkeye360)
+Surface-to-Air radar
+Airborne Warning and
+Ship-Mounted Radar systems Missile Warning Satellites
+AIRBORNE Control Aircraft
+(AN/SPY-1) (AN/MPQ-65 passive (SBIRS)
+(E-2D, E-3)
+radar, AN/TPY-2)
+Radar and Optical
+Telescopes for Space Space Domain Awareness
+Ship-Mounted Radar
+SPACE Domain Awareness Satellites
+(AN/SPY-1)
+(Space Fence, (GSSAP, SBSS)
+LeoLabs)
+Source: Author’s own research and analysis.
+
+civilian signals. Depending on the frequency band being lasercom crosslinks for passing data directly between
+used, atmospheric attenuation, weather conditions, satellites. The Space Development Agency (SDA) initiated
+solar flares, or other natural forms of interference development of a constellation of satellites in LEO that
+can degrade communications. Wired communications plan to use lasercom for high data rate links, and it funded
+systems, including fiberoptic cables, do not have the a pair of satellites with infrared and lasercom payloads
+same bandwidth limitations as RF signals because more to demonstrate the technology, shown in Figure 2.
+lines can often be run along the same path as needed, but DARPA’s Blackjack program separately funded a lasercom
+wired communications remain vulnerable to detection, demonstration on its Mandrake 2 mission. Both sets
+interception, and interference through physical tampering of satellites launched together as part of a ridesharing
+along cable routes or cyberattacks that target routers or mission on June 30, 2021 and, as of this writing, are
+terminals in the network. undergoing initial testing and assessment.
+Lasercom systems can overcome many of the limitations
+PROCESSING ELEMENT
+of RF and wired communications. Lasercom links are
+Perhaps one of the most overlooked but critically
+inherently protected from detection, interception, and
+important functional elements of a battle network is the
+interference because of the extremely narrow beamwidth
+processing element. The processing element is used to
+of the laser and the narrow field of view of the receiver.
+analyze, aggregate, and synthesize data from a variety
+This limits an adversary from being able to detect,
+of sensor sources to inform decisions. For example, raw
+intercept, jam, or otherwise interfere with a transmission
+data from SAR systems must be processed to produce
+unless it is physically located within the beam.
+radar images and to identify objects or movements of
+However, the extremely narrow beamwidth of lasercom
+interest in the battlespace. Processing can also be used to
+links also means that they are not ideal for broadcast
+compress data before transmission, to filter or flag data
+communications. Whereas an RF link can be transmitted
+of potential interest to decisionmakers, and to produce
+across a broad area for many users simultaneously,
+specific intelligence products. Commercial companies, for
+lasercom links are best suited for point-to-point
+example, have developed algorithms that analyze satellite
+communications that require dedicated high data rate
+imagery to count the number of cars in a parking lot or
+links. Lasercom links that transit through the atmosphere
+the number of ships in an area. Importantly, the output of
+(as opposed to space-to-space lasercom
+links) are subject to atmosphere distortion
+Figure 2: Rendering of the General Atomics and Space
+and weather disruptions, but lasercom links
+Development Agency Lasercom Demonstration Mission
+between space and airborne platforms can
+avoid much of the atmosphere, depending on
+the altitude of the aircraft involved.
+Space-based lasercom was a key component
+of the Air Force’s Transformational Satellite
+Communications (TSAT) program that began
+in 2003, but that program was canceled
+in 2009 without fielding any satellites.
+Despite this setback, progress on space-
+based lasercom continued in the decade
+that followed both within and outside of
+government programs, such as the 2020
+demonstration by General Atomics and
+Tesat-Spacecom of an airborne lasercom
+communications system. This demonstration
+connected an MQ-9 Reaper with a satellite
+in geostationary orbit using a lasercom link.
+The latest generation of SpaceX’s Starlink
+communications satellites is equipped with Source: General Atomics Electromagnetic Systems.
+CSIS BRIEFS | WWW.CSIS.ORG | 6
+
+the processing element can sometimes be a set of numbers without relying on other data links. Stealthy aircraft in
+(with statistical confidence parameters) rather than an contested airspace can relay their sensor data to non-
+image or qualitative assessment. stealthy aircraft operating just outside the threat area for
+processing and dissemination, leveraging systems such as
+A key discriminator in the processing element is where the
+the Open Mission Systems computer on the U-2 or the
+processing occurs: on-board the sensor, in the cloud, or at
+Advanced Display Core Processor (ADCP) II being fielded
+the tactical edge. The platforms that carry some sensors
+in the new F-15EX. And aerial refueling aircraft can double
+may also have sufficient size, weight, and power (SWAP)
+as communication gateways and data processing and
+to carry the computational components needed to process
+distribution centers at the tactical edge, given their size
+the data they produce before transmitting it. For example,
+and power generation capacity.
+imagers may have the processing capacity to compress data
+(and greatly reduce communications requirements), and
+DECISION ELEMENT
+radars may have on-board processors to filter and compute
+The decision element is perhaps the most important part
+initial products from the raw data they produce. On-board
+of the battle network because it is where information is
+processing has many advantages in terms of increasing
+the speed of analysis, automating some sensor cueing translated into action. Where the decision occurs, how it
+and tracking functions, and reducing communications is made, and who is involved depends on what types of
+requirements. But for some platforms, particularly smaller actions are being considered. For the foreseeable future,
+aircraft and satellites, SWAP is highly limited, and it may major decisions, such as the use of lethal force, will likely
+make more operational and economic sense to perform the involve a human-in-the-loop at some level, and historically
+processing separate from the sensing platform. this has been the default for most decisions in battle
+networks. Human-in-the-loop decisionmaking can still
+Cloud-based processing offers the advantage of essentially
+involve many forms of computer-assisted or artificial
+unlimited processing and data storage capacity without
+intelligence and machine learning (AI/ML) augmented
+the SWAP limitations of many platforms. Sensors can
+processes to better inform decisions and accelerate the
+transmit raw or partially processed information to data
+process.
+centers on the ground for final processing and analysis. In
+the past two decades, commercial firms have built massive Virtually all engagements beyond visual range already
+data centers around the globe with processing, storage use computer-assisted decisionmaking. The human eye
+capacity, and (in some cases) reliability far beyond the can only detect objects at roughly two miles or less in
+scope of the data centers owned and operated by the U.S. distance, and beyond this range, operators must rely on
+military and intelligence agencies. DoD’s Cloud Strategy, electronic sensors of some form. For example, a fighter
+released in , notes the importance of cloud jet in contested airspace will seek to engage adversary
+computing as a key differentiator of mission success. aircraft at the maximum range possible—well beyond two
+However, the main contract to build a common cloud miles. The aircraft’s radar will detect other aircraft in the
+computing environment for DoD, known as the Joint area and compare their signatures to others in its database
+Enterprise Defense Infrastructure (JEDI), was mired in to determine the types of aircraft involved and whether
+legal disputes for years and ultimately canceled. they are friend, foe, or non-combatant. This information
+is displayed on the fighter jet’s cockpit display, and it can
+Some military missions require high-frequency or low-
+be corroborated with data from other sensors to increase
+latency processed data that the communication links
+the confidence of the operator in the result. But ultimately,
+to and from cloud computing centers may not be able
+the pilot can decide to fire weapons based solely on the
+to support. Moreover, in a contested communications
+recommendations provided by its computer systems
+environment, these long-haul data links may be degraded
+without direct confirmation.
+or disrupted, especially for forces operating at the edge or
+within the contested battlespace. These forces may need AI/ML systems go a step further to assist decisionmaking
+sensors that link directly to other platforms in-theater and automate some decisions that do not necessarily
+with sufficient processing capacity to close the sensor- require a human-in-the-loop. AI/ML systems can be
+to-shooter kill chain quickly and reliably. Airborne or used in the decision element to rapidly analyze data to
+satellite sensors can downlink their data directly to user find information or patterns of interest—and they can
+terminals on the ground that process the data onsite dynamically evolve the way they analyze and interpret
+CSIS BRIEFS | WWW.CSIS.ORG | 7
+
+data as more information is gathered. In the fighter jet The quality and confidence of decisions made by AI/
+example above, an AI/ML algorithm running on the radar ML systems—and humans as well—can be improved by
+data could detect new signatures or patterns in the data increasing connectivity to additional sensors and data
+not already cataloged in its databases, such as aircraft using processing capacity. This higher level of connectivity may
+electronic countermeasures not seen before, and update shift the balance in favor of automating more decisions
+its algorithms during flight based on this new information. and higher-level decisions in future battle networks. The
+The advantage of AI/ML systems is the ability to form strategic and policy implications of using AI/ML systems in
+connections in data that humans may miss and to analyze decisionmaking are discussed in more detail in the second
+large volumes of data in a fraction of the time it would take paper of this series.
+humans to accomplish the same task. For relatively benign
+decisions, such as redirecting sensors to look for something EFFECTS ELEMENT
+or reallocating bandwidth in a jamming environment, AI/ The fifth and final element of a battle network is where
+ML systems can be used to make decisions without human information is turned into effects in the battlespace.
+input. This helps off-load work from human operators so These effects include both kinetic fires, which physically
+that they can focus their mental energies on the processes damage or destroy adversary forces, and non-kinetic fires,
+and decisions where humans are most needed. such as electronic warfare, directed energy weapons,
+For many types of military missions, the slowest part of or cyberattacks. A key part of joint operations is the
+the battle network can be the decision element, and for ability to coordinate these effects across domains in time
+some applications it may not be feasible to have a human- and location to generate the desired effects against an
+in-the-loop because of the rapid response time required adversary at minimal risk to friendly forces and non-
+to be effective. This is already the case with many close-in combatants. Battle networks are how this coordination
+air and missile defenses, such as the Close-In Weapons occurs. Cross-domain effects—where forces in one domain
+System (CWIS) shown in Figure 3. This raises several launch attacks against forces in another domain—are
+important policy issues about the role of AI/ML systems in a particularly effective way to leverage asymmetric
+future battle networks and the levels of automation that advantages and keep an adversary off balance. The air
+policymakers are comfortable with in different situations. campaign in the opening days of the First Gulf War in
+1991 is a classic example where
+Figure 3: USS Vella Gulf (CG 72) Fires Its Close-In Weapons System the U.S. military leveraged its
+(CWIS), July 10, 2019 advantages in air and space to
+achieve greater effects on the ground
+than ground forces alone.
+When selecting the best method to
+generate effects in an engagement,
+several factors must be considered,
+including: the range and number
+of targets, the threat environment,
+the potential for collateral
+damage, the need for post-attack
+damage assessment, and whether
+public visibility, reversibility, and
+attribution are a concern. Short-
+range kinetic weapons, such as
+the Joint Direct Attack Munition
+(JDAM), are ideal when a large
+volume of low-cost fires is needed
+and targets may be highly mobile.
+Long-range and stand-off kinetic
+Source: U.S. Navy photo by Mass Communication Specialist/Petty Officer 3rd Class Gian Prabhudas via Defense
+Visual Information Distribution Service. weapons, such as the Long Range
+CSIS BRIEFS | WWW.CSIS.ORG | 8
+
+Anti-Surface Cruise Missile (LRASM) and the Joint Air- some situations, although this remains a point of debate.
+to-Surface Standoff Missile (JASSM), are better suited for It can be difficult to determine if some non-kinetic forms
+small numbers of high-value targets and more contested of attack are effective, particularly if the effects are not
+environments where not all delivery platforms may be publicly visible. And some methods of attack—such as
+able to penetrate adversary defenses. Precision-guided exploiting zero-day vulnerabilities in a cyberattack—may
+weapons are used to reduce the number of weapons and have a limited period of effectiveness before an adversary
+delivery platforms required and the risks of collateral develops defenses against them. For these reasons,
+damage, especially for targets in dense urban areas. Kinetic operators may be reluctant to rely on non-kinetic effects
+weapons generally produce visible and permanent effects that cannot be verified when kinetic effects can achieve
+that allow for battle damage assessment using the sensor the same results.
+element of a battle network.
+An important consideration when building and integrating
+Non-kinetic methods of attack, such as cyberattacks, the effects element of a battle network is the dynamic
+directed energy weapons, and electronic warfare, can process of matching weapons to targets in an evolving
+achieve some of the same effects as kinetic weapons battlespace. This requires close integration among the
+through different means. For example, instead of attacking sensor, decision, and effects elements to optimize how
+a threatening drone or small ship with guns or missiles, targets are selected and prioritized based on the types
+operators could target it with a high-powered laser, of effects desired and the delivery methods available.
+such as the system shown in Figure 4. For some non- In the battle networks of the future, this process could
+kinetic forms of attack, such as jamming, the effects can be much faster and more dynamic than it is today, with
+be reversible, creating temporary effects at the time and targets being identified and prosecuted on a rolling basis
+place they are needed. For some types of non-kinetic by swarms of crewed and remotely crewed systems across
+attack, third parties may not be able to see that an attack all domains. As some have postulated, it could be more
+has occurred, or the party being attacked may not know like a commercial ride-sharing service (e.g., Uber or Lyft)
+right away who is attacking. For these reasons, non- that continually matches riders with drivers based on their
+kinetic attacks may be perceived as less escalatory in relative locations, projected paths, and number of people
+and seats available. But this vision
+Figure 4: Laser Weapon System (LaWS) Undergoing Testing on the of a highly optimized and rapidly
+USS Ponce, November 17, 2014 adapting effects element cannot
+be achieved without resilient and
+interoperable battle networks.
+FINAL THOUGHTS
+The above sections provide a
+framework for defining the five
+functional elements that make up
+a battle network and the various
+payloads, platforms, and other
+components that comprise them. The
+sensor element collects data on what
+is happening in the battlespace and
+passes it to the processing element,
+where it analyzes, aggregates, and
+synthesizes data from a variety
+of sources. The decision element
+then uses data products to inform
+decisions and translate information
+into action in the effects element
+Source: U.S. Navy photo by John F. Williams via Defense Visual Information Distribution Service. of the battle network. And the
+CSIS BRIEFS | WWW.CSIS.ORG | 9
+
+communications element allows all the other elements to comprise future battle networks are already in service—and
+pass data and decisions freely across the battlespace. these existing systems will continue to be a significant part
+of the force for decades to come. Existing systems must
+Perhaps the most important insight this framework
+be integrated into the same networks as future systems to
+yields is that the battle network of the future is not one
+achieve the full potential of Joint All-Domain Operations.
+network—it is a network of networks. Rather than using
+Moreover, DoD already owns or has access to a variety of
+a traditional hub-and-spoke network architecture, the
+U.S. government, commercial, allied, and partner systems
+battle networks of the future should be dynamically
+across each of the functional elements. Building the
+reconfigurable mesh networks that are better capable of
+battle networks of the future is as much about integrating
+adapting to threats and disruptions. These networks can
+existing systems to connect with one another to perform
+split into tactical sub-networks as necessary, reroute data
+new missions in new ways as it is about fielding entirely
+through different systems and alternative pathways in
+new systems and capabilities. As the military pursues the
+unpredictable ways, and reconnect into larger networks
+vision set forth in its Joint Warfighting Concept, it raises
+as opportunities emerge. The communications element
+several operational, strategic, and acquisition issues for
+is the essential component that makes this higher level
+policymakers. The second paper in this series addresses
+of interoperability and resilience possible, but the other
+these issues and the key factors policymakers should
+elements of the battle network must also be adapted to
+consider when charting a way forward.
+pass data seamlessly across multiple levels of security
+using compatible data standards and protocols.
+Todd Harrison is the director of Defense Budget Analysis and
+The battle networks of the future are also not composed
+director of the Aerospace Security Project at the Center for
+exclusively of new systems built to a new set of standards.
+Strategic and International Studies in Washington, D.C.
+While new systems and new standards are an important
+part of enabling new capabilities, the vast majority of the This brief is made possible by support from General Atomics
+platforms, sensors, radios, and other payloads that will and general support to CSIS.
+CSIS BRIEFS are produced by the Center for Strategic and International Studies (CSIS), a private, tax-exempt institution
+focusing on international public policy issues. Its research is nonpartisan and nonproprietary. CSIS does not take specific
+policy positions. Accordingly, all views, positions, and conclusions expressed in this publication should be understood to
+be solely those of the author(s). © 2021 by the Center for Strategic and International Studies. All rights reserved.
+Cover Photo: U.S. Air Force photo by Senior Airman Daniel Hernandez
+CSIS BRIEFS | WWW.CSIS.ORG | 10

@@ -1,0 +1,83 @@
+Analysis and prediction
+
+The consolidation of knowledge of all known objects in space is a fundamental aspect of the operational support activities at ESA’s Space Debris Office.
+
+This knowledge is maintained and updated through the DISCOS database (Database and Information System Characterising Objects in Space).
+
+DISCOS is as a single-source reference for information on launch details, orbit histories, physical properties and mission descriptions for about 38 700 objects tracked since Sputnik-1, including nearly 10 million orbit records in total. The US Space Surveillance Network provides a continuous flow of orbit data for all tracked, unclassified objects.
+
+Today, DISCOS constitutes a recognised, reliable and dependable source of space object data that is regularly used by almost 40 customers worldwide. Apart from its use for standard database queries, DISCOS generates several automated 'products' − processed, refined data packages − which include a log of upcoming reentries and publication-quality status reports.
+
+MASTERing debris densities
+
+ESA maintains and distributes a number of models for the characterisation of the space-debris environment and its evolution. The Agency’s most prominent debris and meteoroid risk assessment tool is MASTER (Meteoroid and Space Debris Terrestrial Environment Reference).
+
+The tool covers debris and meteoroids as small as one millionth of a metre in size and as large as 100 metres. The MASTER software can be accessed free of charge via the Space Debris User Portal.
+
+It was first issued in 1995 and has been continually improved. The current release is MASTER-2009, which is soon to be replaced by an upgraded version with updated population files.
+
+MASTER uses sophisticated mathematical techniques to determine, with high spatial resolution, impact flux information (number of impacts per square metre of satellite area and per year) for an object population derived from all known, historic debris-generation events.
+
+These comprise more than 290 in­orbit fragmentation events, more than 2000 solid rocket motor firings, and 16 reactor core ejections from Rorsat radar ocean reconnaissance satellites. The model can be used to assess the debris and meteoroid impact flux that a spacecraft would encounter on any Earth orbit. The upcoming, updated MASTER model will also allow the assessment of flux characteristics in Lagrange point orbits.
+
+The MASTER model covers all debris and meteoroid sizes larger than 1 micrometre, and includes predictions of the space debris environment until 2050.
+
+At small (sub-mm) particle sizes, natural meteoroids can prevail over space debris in some orbital regions, in particular during intense seasonal meteoroid streams, with peak activities close to perihelion passes of the related source comets, such as the Leonids in 1966 and 1999.
+
+The ESA Interplanetary Meteoroid Model (IMEM) describes the resulting meteoroid environment, also outside Earth-bound orbits (see animation).
+
+DELTA: assessing mitigation effectiveness
+
+In order to study the effectiveness of debris-mitigation measures on debris-population stability, long-term forecasts are required to determine trends as a function of individual mitigation actions. This kind of analysis can be performed with ESA's
+
+In order to study the effectiveness of debris-mitigation measures on debris population stability, long-­term forecasts are required to determine future trends as a function of individual mitigation actions. This kind of analysis can be performed with ESA's DELTA tool (Debris Environment Long-­Term Analysis).
+
+DELTA is a three-dimensional, semi-deterministic model, which allows a user to investigate the evolution of the space debris environment and the associated mission collision risks in the low, medium and geosynchronous Earth orbit regions over a number of years. DELTA is able to examine the long-term effects of different future traffic profiles and debris mitigation measures, such as passivation and disposal at end-of-life, and also to take into account remediation measures, with the possibility of performing active debris removal in a variety of scenarios with different criteria.
+
+DELTA uses an initial space-object population as input and forecasts the evolution of all objects larger than a user-defined size. The population is described by representative objects, evolved with a fast analytical orbit propagator, which takes into account the main perturbations. The initial population is usually extracted from ESA’s MASTER-2009 model.
+
+DELTA uses a set of detailed future traffic models for launch, explosion and solid rocket-motor firing activity. They are each based on the historical activity of the preceding years. The collision event prediction is done by using a target-centred approach, developed to stochastically predict impacts between all objects within the DELTA population.
+
+Collision events are statistically triggered – and fragments are added to the environment – if a given kinetic energy threshold is exceeded. The fragmentation model used is based on NASA’s EVOLVE 4.0 break-up model. Different solar activity predictions can be used within DELTA, as an input parameter via a file.
+
+It can be shown that a business-­as-­usual approach – that is, if today’s operational practises remain unchanged, with almost no space objects performing end-of-life manoeuvres and with explosions continuing to occur – to space activities leads to a progressive, uncontrolled increase of object numbers, with collisions becoming the primary debris source within less than 50 years.
+
+DELTA is one of the models that contribute to the Inter-Agency Space Debris Coordination Committee (IADC) studies on long-term evolution, which have already been used to derive mitigation guidelines and which have also underlined the need for Active Debris Removal (ADR).
+
+High compliance with the IADC mitigation guidelines turns out to be the most effective way of preventing this collisional cascading process from setting in.
+
+However, even in this case, the active removal from space (deorbiting) of old, massive objects (defunct satellites) would help to limit the growth of the space-debris population.
+
+To help mission planners, spacecraft designers and manufacturers, ESA has published Space Debris Mitigation Requirements and an accompanying Space Debris Mitigation Handbook, which support industry and others as they work towards a Zero Debris future.
+
+Dynamically updated versions of the charts on this page displaying the latest data are available via:
+
+Count evolution by object orbitMass evolution by object orbit
+
+The consolidation of knowledge of all known objects in space is a fundamental aspect of the operational support activities at ESA’s Space Debris Office.
+This knowledge is maintained and updated through the DISCOS database (Database and Information System Characterising Objects in Space).
+DISCOS is as a single-source reference for information on launch details, orbit histories, physical properties and mission descriptions for about 38 700 objects tracked since Sputnik-1, including nearly 10 million orbit records in total. The US Space Surveillance Network provides a continuous flow of orbit data for all tracked, unclassified objects.
+Today, DISCOS constitutes a recognised, reliable and dependable source of space object data that is regularly used by almost 40 customers worldwide. Apart from its use for standard database queries, DISCOS generates several automated 'products' − processed, refined data packages − which include a log of upcoming reentries and publication-quality status reports.
+MASTERing debris densities
+ESA maintains and distributes a number of models for the characterisation of the space-debris environment and its evolution. The Agency’s most prominent debris and meteoroid risk assessment tool is MASTER (Meteoroid and Space Debris Terrestrial Environment Reference).
+The tool covers debris and meteoroids as small as one millionth of a metre in size and as large as 100 metres. The MASTER software can be accessed free of charge via the Space Debris User Portal.
+It was first issued in 1995 and has been continually improved. The current release is MASTER-2009, which is soon to be replaced by an upgraded version with updated population files.
+MASTER uses sophisticated mathematical techniques to determine, with high spatial resolution, impact flux information (number of impacts per square metre of satellite area and per year) for an object population derived from all known, historic debris-generation events.
+These comprise more than 290 in­orbit fragmentation events, more than 2000 solid rocket motor firings, and 16 reactor core ejections from Rorsat radar ocean reconnaissance satellites. The model can be used to assess the debris and meteoroid impact flux that a spacecraft would encounter on any Earth orbit. The upcoming, updated MASTER model will also allow the assessment of flux characteristics in Lagrange point orbits.
+The MASTER model covers all debris and meteoroid sizes larger than 1 micrometre, and includes predictions of the space debris environment until 2050.
+At small (sub-mm) particle sizes, natural meteoroids can prevail over space debris in some orbital regions, in particular during intense seasonal meteoroid streams, with peak activities close to perihelion passes of the related source comets, such as the Leonids in 1966 and 1999.
+The ESA Interplanetary Meteoroid Model (IMEM) describes the resulting meteoroid environment, also outside Earth-bound orbits (see animation).
+DELTA: assessing mitigation effectiveness
+In order to study the effectiveness of debris-mitigation measures on debris-population stability, long-term forecasts are required to determine trends as a function of individual mitigation actions. This kind of analysis can be performed with ESA's
+In order to study the effectiveness of debris-mitigation measures on debris population stability, long-­term forecasts are required to determine future trends as a function of individual mitigation actions. This kind of analysis can be performed with ESA's DELTA tool (Debris Environment Long-­Term Analysis).
+DELTA is a three-dimensional, semi-deterministic model, which allows a user to investigate the evolution of the space debris environment and the associated mission collision risks in the low, medium and geosynchronous Earth orbit regions over a number of years. DELTA is able to examine the long-term effects of different future traffic profiles and debris mitigation measures, such as passivation and disposal at end-of-life, and also to take into account remediation measures, with the possibility of performing active debris removal in a variety of scenarios with different criteria.
+DELTA uses an initial space-object population as input and forecasts the evolution of all objects larger than a user-defined size. The population is described by representative objects, evolved with a fast analytical orbit propagator, which takes into account the main perturbations. The initial population is usually extracted from ESA’s MASTER-2009 model.
+DELTA uses a set of detailed future traffic models for launch, explosion and solid rocket-motor firing activity. They are each based on the historical activity of the preceding years. The collision event prediction is done by using a target-centred approach, developed to stochastically predict impacts between all objects within the DELTA population.
+Collision events are statistically triggered – and fragments are added to the environment – if a given kinetic energy threshold is exceeded. The fragmentation model used is based on NASA’s EVOLVE 4.0 break-up model. Different solar activity predictions can be used within DELTA, as an input parameter via a file.
+It can be shown that a business-­as-­usual approach – that is, if today’s operational practises remain unchanged, with almost no space objects performing end-of-life manoeuvres and with explosions continuing to occur – to space activities leads to a progressive, uncontrolled increase of object numbers, with collisions becoming the primary debris source within less than 50 years.
+DELTA is one of the models that contribute to the Inter-Agency Space Debris Coordination Committee (IADC) studies on long-term evolution, which have already been used to derive mitigation guidelines and which have also underlined the need for Active Debris Removal (ADR).
+High compliance with the IADC mitigation guidelines turns out to be the most effective way of preventing this collisional cascading process from setting in.
+However, even in this case, the active removal from space (deorbiting) of old, massive objects (defunct satellites) would help to limit the growth of the space-debris population.
+To help mission planners, spacecraft designers and manufacturers, ESA has published Space Debris Mitigation Requirements and an accompanying Space Debris Mitigation Handbook, which support industry and others as they work towards a Zero Debris future.
+Dynamically updated versions of the charts on this page displaying the latest data are available via:
+Count evolution by object orbitMass evolution by object orbit

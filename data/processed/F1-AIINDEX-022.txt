@@ -1,0 +1,1706 @@
+CHAPTER 1:
+Artificial Intelligence
+Research and
+Index Report 2024
+Development
+
+CHAPTER 1:
+Artificial Intelligence
+Research and
+Index Report 2024
+Development
+Preview
+Overview 3 1.4 AI Conferences 40
+Chapter Highlights 4 Conference Attendance 40
+1.1 Publications 5 1.5 Open-Source AI Software 43
+Overview 5 Projects 43
+Total Number of AI Publications 5 Stars 45
+By Type of Publication 6
+By Field of Study 7 Appendix 47
+By Sector 8
+AI Journal Publications 10 ACCESS THE PUBLIC DATA
+AI Conference Publications 11
+1.2 Patents 12
+AI Patents 12
+Overview 12
+By Filing Status and Region 13
+1.3 Frontier AI Research 19
+General Machine Learning Models 19
+Overview 19
+Sector Analysis 20
+National Affiliation 21
+Parameter Trends 23
+Compute Trends 24
+Highlight: Will Models Run Out of Data? 26
+Foundation Models 30
+Model Release 30
+Organizational Affiliation 32
+National Affiliation 35
+Training Cost 37
+
+CHAPTER 1:
+Artificial Intelligence
+Research and
+Index Report 2024
+Development
+Overview
+This chapter studies trends in AI research and development. It begins by examining
+trends in AI publications and patents, and then examines trends in notable AI systems and
+foundation models. It concludes by analyzing AI conference attendance and open-source
+AI software projects.
+
+CHAPTER 1:
+Artificial Intelligence
+Research and
+Index Report 2024
+Development
+Chapter Highlights
+1. Industry continues to dominate frontier AI research. In 2023, industry produced 51 notable
+machine learning models, while academia contributed only 15. There were also 21 notable models resulting from
+industry-academia collaborations in 2023, a new high.
+2. More foundation models and more open foundation models. In 2023, a total of 149 foundation
+models were released, more than double the amount released in 2022. Of these newly released models, 65.7%
+were open-source, compared to only 44.4% in 2022 and 33.3% in 2021.
+3. Frontier models get way more expensive. According to AI Index estimates, the training costs of
+state-of-the-art AI models have reached unprecedented levels. For example, OpenAI’s GPT-4 used an estimated
+$78 million worth of compute to train, while Google’s Gemini Ultra cost $191 million for compute.
+4. The United States leads China, the EU, and the U.K. as the leading source of top AI
+models. In 2023, 61 notable AI models originated from U.S.-based institutions, far outpacing the European
+Union’s 21 and China’s 15.
+5. The number of AI patents skyrockets. From 2021 to 2022, AI patent grants worldwide increased
+sharply by 62.7%. Since 2010, the number of granted AI patents has increased more than 31 times.
+6. China dominates AI patents. In 2022, China led global AI patent origins with 61.1%, significantly
+outpacing the United States, which accounted for 20.9% of AI patent origins. Since 2010, the U.S. share of AI
+patents has decreased from 54.1%.
+7. Open-source AI research explodes. Since 2011, the number of AI-related projects on GitHub has
+seen a consistent increase, growing from 845 in 2011 to approximately 1.8 million in 2023. Notably, there was a
+sharp 59.3% rise in the total number of GitHub AI projects in 2023 alone. The total number of stars for AI-related
+projects on GitHub also significantly increased in 2023, more than tripling from 4.0 million in 2022 to 12.2 million.
+8. The number of AI publications continues to rise. Between 2010 and 2022, the total number of AI
+publications nearly tripled, rising from approximately 88,000 in 2010 to more than 240,000 in 2022. The increase
+over the last year was a modest 1.1%.
+
+Artificial Intelligence
+Index Report 2024
+250 242.29
+
+2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022
+Chapter 1 Preview 5
+)sdnasuoht
+ni(
+snoitacilbup
+IA
+fo
+rebmuN
+Artificial Intelligence Chapter 1: Research and Development
+Index Report 2024 1.1 Publications
+1.1 Publications
+Overview
+Total Number of AI Publications1
+The figures below present the global count of Figure 1.1.1 displays the global count of AI publications.
+English-language AI publications from 2010 to Between 2010 and 2022, the total number of AI
+2022, categorized by type of affiliation and cross- publications nearly tripled, rising from approximately
+sector collaborations. Additionally, this section 88,000 in 2010 to more than 240,000 in 2022. The
+details publication data for AI journal articles and increase over the last year was a modest 1.1%.
+conference papers.
+Number of AI publications in the world, 2010–22
+Source: Center for Security and Emerging Technology, 2023 | Chart: 2024 AI Index report
+Figure 1.1.1
+1 The data on publications presented this year is sourced from CSET. Both the methodology and data sources used by CSET to classify AI publications have changed since their data was last
+featured in the AI Index (2023). As a result, the numbers reported in this year’s section differ slightly from those reported in last year’s edition. Moreover, the AI-related publication data is fully
+available only up to 2022 due to a significant lag in updating publication data. Readers are advised to approach publication figures with appropriate caution.
+
+Artificial Intelligence
+Index Report 2024
+
+2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022
+Chapter 1 Preview 6
+)sdnasuoht
+ni(
+snoitacilbup
+IA
+fo
+rebmuN
+Artificial Intelligence Chapter 1: Research and Development
+Index Report 2024 1.1 Publications
+By Type of Publication
+Figure 1.1.2 illustrates the distribution of AI publication journal and conference publications have increased
+types globally over time. In 2022, there were roughly at comparable rates. In 2022, there were 2.6 times as
+230,000 AI journal articles compared to roughly many conference publications and 2.4 times as many
+42,000 conference submissions. Since 2015, AI journal publications as there were in 2015.
+Number of AI publications by type, 2010–22
+Source: Center for Security and Emerging Technology, 2023 | Chart: 2024 AI Index report
+232.67, Journal
+41.17, Conference
+12.88, Book chapter
+5.07, Preprint
+1.49, Article
+0.79, Unknown
+0.70, Dissertation
+0.57, Book
+0.12, Other
+0.05, Clinical trial
+Figure 1.1.22
+2 It is possible for an AI publication to be mapped to more than one publication type, so the totals in Figure 1.1.2 do not completely align with those in Figure 1.1.1.
+
+Artificial Intelligence
+Index Report 2024
+
+2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022
+Chapter 1 Preview 7
+)sdnasuoht
+ni(
+snoitacilbup
+IA
+fo
+rebmuN
+Artificial Intelligence Chapter 1: Research and Development
+Index Report 2024 1.1 Publications
+By Field of Study
+Figure 1.1.3 examines the total number of AI sevenfold since 2015. Following machine learning, the
+publications by field of study since 2010. Machine most published AI fields in 2022 were computer vision
+learning publications have seen the most rapid (21,309 publications), pattern recognition (19,841), and
+growth over the past decade, increasing nearly process management (12,052).
+Number of AI publications by eld of study (excluding Other AI), 2010–22
+Source: Center for Security and Emerging Technology, 2023 | Chart: 2024 AI Index report
+72.23, Machine learning
+21.31, Computer vision
+19.84, Pattern recognition
+12.05, Process management
+10.39, Computer network
+9.17, Control theory
+8.31, Algorithm
+7.18, Linguistics
+6.83, Mathematical optimization
+Figure 1.1.3
+
+Artificial Intelligence
+Index Report 2024
+80%
+70%
+60%
+50%
+40%
+30%
+20%
+10%
+0%
+2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022
+Chapter 1 Preview 8
+)latot
+fo
+%(
+snoitacilbup
+IA
+Artificial Intelligence Chapter 1: Research and Development
+Index Report 2024 1.1 Publications
+By Sector
+This section presents the distribution of AI publications (81.1%), maintaining its position as the
+publications by sector—education, government, leading global source of AI research over the past
+industry, nonprofit, and other—globally and then decade across all regions (Figure 1.1.4 and Figure 1.1.5).
+specifically within the United States, China, and the Industry participation is most significant in the United
+European Union plus the United Kingdom. In 2022, States, followed by the European Union plus the United
+the academic sector contributed the majority of AI Kingdom, and China (Figure 1.1.5).
+AI publications (% of total) by sector, 2010–22
+Source: Center for Security and Emerging Technology, 2023 | Chart: 2024 AI Index report
+81.07%, Education
+7.89%, Industry
+6.97%, Government
+2.62%, Nonpro t
+1.46%, Other
+Figure 1.1.4
+
+AArrttiifificciiaall IInntteelllliiggeennccee Chapter 1: Research and Development
+IInnddeexx RReeppoorrtt 22002244 1.1 Publications
+AI publications (% of total) by sector and geographic area, 2022
+Source: Center for Security and Emerging Technology, 2023 | Chart: 2024 AI Index report
+75.48%
+Education 75.63%
+81.75%
+14.06%
+Industry 9.47%
+7.39%
+5.60%
+Government 9.28%
+10.05%
+4.87%
+United States
+Nonpro t 5.62% European Union and United Kingdom
+China
+0.80%
+0% 10% 20% 30% 40% 50% 60% 70% 80%
+AI publications (% of total)
+Figure 1.1.5
+Chapter 1 Preview 9
+
+Artificial Intelligence
+Index Report 2024
+232.67
+
+2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022
+Chapter 1 Preview 10
+)sdnasuoht
+ni(
+snoitacilbup
+IA
+fo
+rebmuN
+Artificial Intelligence Chapter 1: Research and Development
+Index Report 2024 1.1 Publications
+AI Journal Publications
+Figure 1.1.6 illustrates the total number of AI journal publications from 2010 to 2022. The number of AI journal
+publications experienced modest growth from 2010 to 2015 but grew approximately 2.4 times since 2015.
+Between 2021 and 2022, AI journal publications saw a 4.5% increase.
+Number of AI journal publications, 2010–22
+Source: Center for Security and Emerging Technology, 2023 | Chart: 2024 AI Index report
+Figure 1.1.6
+
+Artificial Intelligence
+Index Report 2024
+41.17
+
+2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022
+Chapter 1 Preview 11
+)sdnasuoht
+ni(
+snoitacilbup
+ecnerefnoc
+IA
+fo
+rebmuN
+Artificial Intelligence Chapter 1: Research and Development
+Index Report 2024 1.1 Publications
+AI Conference Publications years, climbing from 22,727 in 2020 to 31,629 in
+2021, and reaching 41,174 in 2022. Over the last year
+Figure 1.1.7 visualizes the total number of AI conference alone, there was a 30.2% increase in AI conference
+publications since 2010. The number of AI conference publications. Since 2010, the number of AI
+publications has seen a notable rise in the past two conference publications has more than doubled.
+Number of AI conference publications, 2010–22
+Source: Center for Security and Emerging Technology, 2023 | Chart: 2024 AI Index report
+Figure 1.1.7
+
+Artificial Intelligence
+Index Report 2024
+62.26
+
+2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022
+Chapter 1 Preview 12
+)sdnasuoht
+ni(
+stnetap
+IA
+fo
+rebmuN
+Artificial Intelligence Chapter 1: Research and Development
+Index Report 2024 1.2 Patents
+This section examines trends over time in global AI patents, which can reveal important insights into the evolution of
+innovation, research, and development within AI. Additionally, analyzing AI patents can reveal how these advancements
+are distributed globally. Similar to the publications data, there is a noticeable delay in AI patent data availability, with
+2022 being the most recent year for which data is accessible. The data in this section comes from CSET.
+1.2 Patents
+AI Patents
+Overview
+Figure 1.2.1 examines the global growth in granted years. For instance, between 2010 and 2014, the total
+AI patents from 2010 to 2022. Over the last decade, growth in granted AI patents was 56.1%. However,
+there has been a significant rise in the number of AI from 2021 to 2022 alone, the number of AI patents
+patents, with a particularly sharp increase in recent increased by 62.7%.
+Number of AI patents granted, 2010–22
+Source: Center for Security and Emerging Technology, 2023 | Chart: 2024 AI Index report
+Figure 1.2.1
+
+Artificial Intelligence
+Index Report 2024
+
+2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022
+Chapter 1 Preview 13
+)sdnasuoht
+ni(
+stnetap
+IA
+fo
+rebmuN
+Artificial Intelligence Chapter 1: Research and Development
+Index Report 2024 1.2 Patents
+By Filing Status and Region
+(62,264). Over time, the landscape of AI patent
+The following section disaggregates AI patents by
+approvals has shifted markedly. Until 2015, a larger
+their filing status (whether they were granted or not
+proportion of filed AI patents were granted. However,
+granted), as well as the region of their publication.
+since then, the majority of AI patent filings have not
+Figure 1.2.2 compares global AI patents by application been granted, with the gap widening significantly. For
+status. In 2022, the number of ungranted AI patents instance, in 2015, 42.2% of all filed AI patents were not
+(128,952) was more than double the amount granted granted. By 2022, this figure had risen to 67.4%.
+AI patents by application status, 2010–22
+Source: Center for Security and Emerging Technology, 2023 | Chart: 2024 AI Index report
+128.95, not granted
+62.26, granted
+Figure 1.2.2
+
+Artificial Intelligence
+Index Report 2024
+Not granted 80 80 80
+Granted
+70 70 70
+60 60 60
+50 50 50
+40 40 40
+30 30 30
+20 20 20
+10 10 10
+0 0 0
+2010 2012 2014 2016 2018 2020 2022 2010 2012 2014 2016 2018 2020 2022 2010 2012 2014 2016 2018 2020 2022
+Chapter 1 Preview 14
+)sdnasuoht
+ni(
+sgnil
+
+tnetap
+IA
+fo
+rebmuN
+Artificial Intelligence Chapter 1: Research and Development
+Index Report 2024 1.2 Patents
+The gap between granted and not granted AI (Figure 1.2.3). In recent years, all three geographic
+patents is evident across all major patent-originating areas have experienced an increase in both the total
+geographic areas, including China, the European number of AI patent filings and the number of
+Union and United Kingdom, and the United States patents granted.
+AI patents by application status by geographic area, 2010–22
+Source: Center for Security and Emerging Technology, 2023 | Chart: 2024 AI Index report
+China European Union and United Kingdom United States
+80.46
+35.31
+15.11
+12.08
+2.17
+1.17
+Figure 1.2.3
+
+Artificial Intelligence
+Index Report 2024
+80%
+70%
+60%
+50%
+40%
+30%
+20%
+10%
+0%
+2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022
+Chapter 1 Preview 15
+)latot
+dlrow
+fo
+%(
+stnetap
+IA
+detnarG
+Artificial Intelligence Chapter 1: Research and Development
+Index Report 2024 1.2 Patents
+Figure 1.2.4 showcases the regional breakdown North America led in the number of global AI patents.
+of granted AI patents. As of 2022, the bulk of the However, since then, there has been a significant
+world’s granted AI patents (75.2%) originated from shift toward an increasing proportion of AI patents
+East Asia and the Pacific, with North America being originating from East Asia and the Pacific.
+the next largest contributor at 21.2%. Up until 2011,
+Granted AI patents (% of world total) by region, 2010–22
+Source: Center for Security and Emerging Technology, 2023 | Chart: 2024 AI Index report
+75.20%, East Asia and Paci c
+21.21%, North America
+2.33%, Europe and Central Asia
+0.68%, Rest of the world
+0.23%, South Asia
+0.21%, Latin America and the Caribbean
+0.12%, Sub-Saharan Africa
+0.03%, Middle East and North Africa
+Figure 1.2.4
+
+Artificial Intelligence
+Index Report 2024
+60%
+50%
+40%
+30%
+20%
+10%
+0%
+2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022
+Chapter 1 Preview 16
+)latot
+dlrow
+fo
+%(
+stnetap
+IA
+detnarG
+Artificial Intelligence Chapter 1: Research and Development
+Index Report 2024 1.2 Patents
+Disaggregated by geographic area, the majority of the world’s granted AI patents are from China (61.1%) and the
+United States (20.9%) (Figure 1.2.5). The share of AI patents originating from the United States has declined from
+54.1% in 2010.
+Granted AI patents (% of world total) by geographic area, 2010–22
+Source: Center for Security and Emerging Technology, 2023 | Chart: 2024 AI Index report
+61.13%, China
+20.90%, United States
+15.71%, Rest of the world
+2.03%, European Union and United Kingdom
+0.23%, India
+Figure 1.2.5
+
+AArrttiifificciiaall IInntteelllliiggeennccee Chapter 1: Research and Development
+IInnddeexx RReeppoorrtt 22002244 1.2 Patents
+Figure 1.2.6 and Figure 1.2.7 document which (Figure 1.2.6). Figure 1.2.7 highlights the change in
+countries lead in AI patents per capita. In 2022, the granted AI patents per capita from 2012 to 2022.
+country with the most granted AI patents per 100,000 Singapore, South Korea, and China experienced the
+inhabitants was South Korea (10.3), followed by greatest increase in AI patenting per capita during
+Luxembourg (8.8) and the United States (4.2) that time period.
+Granted AI patents per 100,000 inhabitants by country, 2022
+Source: Center for Security and Emerging Technology, 2023 | Chart: 2024 AI Index report
+South Korea 10.26
+Luxembourg 8.73
+United States 4.23
+Japan 2.53
+China 2.51
+Singapore 2.06
+Australia 1.91
+Canada 1.25
+Germany 0.66
+Denmark 0.56
+Finland 0.56
+United Kingdom 0.42
+New Zealand 0.33
+France 0.33
+Lithuania 0.28
+0 1 2 3 4 5 6 7 8 9 10
+Granted AI patents (per 100,000 inhabitants)
+Figure 1.2.6
+Chapter 1 Preview 17
+
+AArrttiifificciiaall IInntteelllliiggeennccee Chapter 1: Research and Development
+IInnddeexx RReeppoorrtt 22002244 1.2 Patents
+Percentage change of granted AI patents per 100,000 inhabitants by country, 2012 vs. 2022
+Source: Center for Security and Emerging Technology, 2023 | Chart: 2024 AI Index report
+Singapore 5,366%
+South Korea 3,801%
+China 3,569%
+Denmark 1,463%
+United States 1,299%
+United Kingdom 1,246%
+Japan 1,137%
+France 1,086%
+Germany 961%
+Australia 908%
+Finland 907%
+Canada 803%
+New Zealand 387%
+0% 500% 1,000% 1,500% 2,000% 2,500% 3,000% 3,500% 4,000% 4,500% 5,000% 5,500%
+% change of granted AI patents (per 100,000 inhabitants)
+Figure 1.2.7
+Chapter 1 Preview 18
+
+AArrttiifificciiaall IInntteelllliiggeennccee Chapter 1: Research and Development
+IInnddeexx RReeppoorrtt 22002244 1.3 Frontier AI Research
+This section explores the frontier of AI research. While many new AI models are introduced annually, only a small
+sample represents the most advanced research. Admittedly what constitutes advanced or frontier research is
+somewhat subjective. Frontier research could reflect a model posting a new state-of-the-art result on a benchmark,
+introducing a meaningful new architecture, or exercising some impressive new capabilities.
+The AI Index studies trends in two types of frontier AI models: “notable models” and foundation models.3 Epoch, an
+AI Index data provider, uses the term “notable machine learning models” to designate noteworthy models handpicked
+as being particularly influential within the AI/machine learning ecosystem. In contrast, foundation models are
+exceptionally large AI models trained on massive datasets, capable of performing a multitude of downstream tasks.
+Examples of foundation models include GPT-4, Claude 3, and Gemini. While many foundation models may qualify as
+notable models, not all notable models are foundation models.
+Within this section, the AI Index explores trends in notable models and foundation models from various perspectives,
+including originating organization, country of origin, parameter count, and compute usage. The analysis concludes
+with an examination of machine learning training costs.
+1.3 Frontier AI Research
+General Machine Learning
+entries based on criteria such as state-of-the-
+Models art advancements, historical significance, or high
+citation rates. Analyzing these models provides a
+Overview comprehensive overview of the machine learning
+Epoch AI is a group of researchers dedicated to landscape’s evolution, both in recent years and over
+studying and predicting the evolution of advanced the past few decades.4 Some models may be missing
+AI. They maintain a database of AI and machine from the dataset; however, the dataset can reveal
+learning models released since the 1950s, selecting trends in relative terms.
+3 “AI system” refers to a computer program or product based on AI, such as ChatGPT. “AI model” refers to a collection of parameters whose values are learned during training, such as GPT-4.
+4 New and historic models are continually added to the Epoch database, so the total year-by-year counts of models included in this year’s AI Index might not exactly match those published in
+last year’s report.
+Chapter 1 Preview 19
+
+AArrttiifificciiaall IInntteelllliiggeennccee Chapter 1: Research and Development
+IInnddeexx RReeppoorrtt 22002244 1.3 Frontier AI Research
+Sector Analysis
+Until 2014, academia led in the release of machine Creating cutting-edge AI models now demands a
+learning models. Since then, industry has taken substantial amount of data, computing power, and
+the lead. In 2023, there were 51 notable machine financial resources that are not available in academia.
+learning models produced by industry compared to This shift toward increased industrial dominance in
+just 15 from academia (Figure 1.3.1). Significantly, 21 leading AI models was first highlighted in last year’s
+notable models resulted from industry/academic AI Index report. Although this year the gap has slightly
+collaborations in 2023, a new high. narrowed, the trend largely persists.
+Chapter 1 Preview 20
+3002 4002 5002 6002 7002 8002 9002 0102 1102 2102 3102 4102 5102 6102 7102 8102 9102 0202 1202 2202 3202
+
+sledom
+gninrael
+enihcam
+elbaton
+fo
+rebmuN
+Number of notable machine learning models by sector, 2003–23
+Source: Epoch, 2023 | Chart: 2024 AI Index report
+51, Industry
+21, Industry-academia collaboration
+15, Academia
+2, Government
+0, Industry–research collective collaboration
+0, Research collective
+0, Academia-government collaboration
+Figure 1.3.1
+
+AArrttiifificciiaall IInntteelllliiggeennccee Chapter 1: Research and Development
+IInnddeexx RReeppoorrtt 22002244 1.3 Frontier AI Research
+National Affiliation Number of notable machine learning models by
+geographic area, 2023
+To illustrate the evolving geopolitical landscape of
+Source: Epoch, 2023 | Chart: 2024 AI Index report
+AI, the AI Index research team analyzed the country
+United States 61
+of origin of notable models.
+China 15
+Figure 1.3.2 displays the total number of notable France 8
+machine learning models attributed to the location
+Germany 5
+of researchers’ affiliated institutions.5
+Canada 4
+In 2023, the United States led with 61 notable Israel 4
+machine learning models, followed by China with
+United Kingdom 4
+15, and France with 8. For the first time since 2019,
+Singapore 3
+the European Union and the United Kingdom
+United Arab Emirates 3
+together have surpassed China in the number of
+Egypt 2
+notable AI models produced (Figure 1.3.3). Since
+0 5 10 15 20 25 30 35 40 45 50 55 60
+2003, the United States has produced more models
+Number of notable machine learning models
+than other major geographic regions such as the
+United Kingdom, China, and Canada (Figure 1.3.4).
+Chapter 1 Preview 21
+3002 5002 7002 9002 1102 3102 5102 7102 9102 1202 3202
+
+sledom
+gninrael
+enihcam
+elbaton
+fo
+rebmuN
+Figure 1.3.2
+Number of notable machine learning models by
+select geographic area, 2003–23
+Source: Epoch, 2023 | Chart: 2024 AI Index report
+61, United States
+25, European Union and
+United Kingdom
+15, China
+Figure 1.3.3
+5 A machine learning model is considered associated with a specific country if at least one author of the paper introducing it has an affiliation with an institution based in that country. In cases
+where a model’s authors come from several countries, double counting can occur.
+
+AArrttiifificciiaall IInntteelllliiggeennccee Chapter 1: Research and Development
+IInnddeexx RReeppoorrtt 22002244 1.3 Frontier AI Research
+Number of notable machine learning models by geographic area, 2003–23 (sum)
+Source: Epoch, 2023 | Chart: 2024 AI Index report
+1–10
+11–20
+21–60
+61–100
+101–430
+Figure 1.3.4
+Chapter 1 Preview 22
+
+AArrttiifificciiaall IInntteelllliiggeennccee Chapter 1: Research and Development
+IInnddeexx RReeppoorrtt 22002244 1.3 Frontier AI Research
+Parameter Trends
+Parameters in machine learning models are numerical originate. Parameter counts have risen sharply since
+values learned during training that determine how a the early 2010s, reflecting the growing complexity
+model interprets input data and makes predictions. of tasks AI models are designed for, the greater
+Models trained on more data will usually have more availability of data, improvements in hardware, and
+parameters than those trained on less data. Likewise, proven efficacy of larger models. High-parameter
+models with more parameters typically outperform models are particularly notable in the industry sector,
+those with fewer parameters. underscoring the capacity of companies like OpenAI,
+Anthropic, and Google to bear the computational
+Figure 1.3.5 demonstrates the parameter count of
+costs of training on vast volumes of data.
+machine learning models in the Epoch dataset,
+categorized by the sector from which the models
+Academia Industry Industry-academia Research collective
+1T Academia-government Industry–research collective Government
+10B
+100M
+1M
+10K
+
+2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+Publication date
+Chapter 1 Preview 23
+)elacs
+gol(
+sretemarap
+fo
+rebmuN
+Number of parameters of notable machine learning models by sector, 2003–23
+Source: Epoch, 2023 | Chart: 2024 AI Index report
+Figure 1.3.5
+
+AArrttiifificciiaall IInntteelllliiggeennccee Chapter 1: Research and Development
+IInnddeexx RReeppoorrtt 22002244 1.3 Frontier AI Research
+Compute Trends
+for notable machine learning models in the last
+The term “compute” in AI models denotes the
+20 years. Recently, the compute usage of notable
+computational resources required to train and operate
+AI models has increased exponentially.6 This
+a machine learning model. Generally, the complexity
+trend has been especially pronounced in the last
+of the model and the size of the training dataset
+five years. This rapid rise in compute demand
+directly influence the amount of compute needed.
+has critical implications. For instance, models
+The more complex a model is, and the larger the
+requiring more computation often have larger
+underlying training data, the greater the amount of
+environmental footprints, and companies typically
+compute required for training.
+have more access to computational resources
+Figure 1.3.6 visualizes the training compute required than academic institutions.
+Academia Industry Industry-academia Academia-government
+Industry–research collective Government Research collective
+10B
+100M
+1M
+10K
+
+0.01
+2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+Publication date
+Chapter 1 Preview 24
+)elacs
+gol
+-
+POLFatep(
+etupmoc
+gniniarT
+Training compute of notable machine learning models by sector, 2003–23
+Source: Epoch, 2023 | Chart: 2024 AI Index report
+Figure 1.3.6
+6 FLOP stands for “floating-point operation.” A floating-point operation is a single arithmetic operation involving floating-point numbers, such as addition, subtraction, multiplication, or
+division. The number of FLOPs a processor or computer can perform per second is an indicator of its computational power. The higher the FLOP rate, the more powerful the computer is.
+An AI model with a higher FLOP rate reflects its requirement for more computational resources during training.
+
+AArrttiifificciiaall IInntteelllliiggeennccee Chapter 1: Research and Development
+IInnddeexx RReeppoorrtt 22002244 1.3 Frontier AI Research
+Figure 1.3.7 highlights the training compute of notable The original Transformer, released in 2017, required
+machine learning models since 2012. For example, around 7,400 petaFLOPs. Google’s Gemini Ultra, one
+AlexNet, one of the papers that popularized the now of the current state-of-the-art foundation models,
+standard practice of using GPUs to improve AI models, required 50 billion petaFLOPs.
+required an estimated 470 petaFLOPs for training.
+100B Language Vision Multimodal Gemini Ultra
+GPT-4
+10B Claude 2
+PaLM (540B)
+Llama 2-70B 1B Megatron-Turing NLG 530B
+GPT-3 175B (davinci)
+100M
+10M RoBERTa Large
+1M
+BERT-Large
+100K
+Transformer
+10K
+1000 AlexNet
+2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+Publication date
+Chapter 1 Preview 25
+)elacs
+gol
+-
+POLFatep(
+etupmoc
+gniniarT
+Training compute of notable machine learning models by domain, 2012–23
+Source: Epoch, 2023 | Chart: 2024 AI Index report
+Figure 1.3.7
+
+AArrttiifificciiaall IInntteelllliiggeennccee Chapter 1: Research and Development
+IInnddeexx RReeppoorrtt 22002244 1.3 Frontier AI Research
+Highlight:
+Will Models Run Out of Data?
+As illustrated above, a significant proportion of Projections of ML data exhaustion by stock type:
+median and 90% CI dates
+recent algorithmic progress, including progress
+Source: Epoch, 2023 | Table: 2024 AI Index report
+behind powerful LLMs, has been achieved by
+Stock type Historical projection Compute projection
+training models on increasingly larger amounts of
+Low-quality 2032.4 [2028.4; 2039.2] 2040.5 [2034.6; 2048.9]
+data. As noted recently by Anthropic cofounder language stock
+and AI Index Steering Committee member Jack High-quality 2024.5 [2023.5; 2025.7] 2024.1 [2023.2; 2025.3]
+language stock
+Clark, foundation models have been trained on
+Image stock 2046 [2037; 2062.8] 2038.8 [2032; 2049.8]
+meaningful percentages of all the data that has
+Figure 1.3.8
+ever existed on the internet.
+The growing data dependency of AI models
+data, which is data generated by AI models
+has led to concerns that future generations of
+themselves. For example, it is possible to use
+computer scientists will run out of data to further
+text produced by one LLM to train another LLM.
+scale and improve their systems. Research from
+The use of synthetic data for training AI systems
+Epoch suggests that these concerns are somewhat
+is particularly attractive, not only as a solution
+warranted. Epoch researchers have generated
+for potential data depletion but also because
+historical and compute-based projections for
+generative AI systems could, in principle, generate
+when AI researchers might expect to run out
+data in instances where naturally occurring data
+of data. The historical projections are based on
+is sparse—for example, data for rare diseases or
+observed growth rates in the sizes of data used to
+underrepresented populations. Until recently, the
+train foundation models. The compute projections
+feasibility and effectiveness of using synthetic
+adjust the historical growth rate based on
+data for training generative AI systems were not
+projections of compute availability.
+well understood. However, research this year has
+For instance, the researchers estimate that suggested that there are limitations associated with
+computer scientists could deplete the stock of training models on synthetic data.
+high-quality language data by 2024, exhaust low-
+For instance, a team of British and Canadian
+quality language data within two decades, and
+researchers discovered that models predominantly
+use up image data by the late 2030s to mid-2040s
+trained on synthetic data experience model
+(Figure 1.3.8).
+collapse, a phenomenon where, over time, they
+Theoretically, the challenge of limited data lose the ability to remember true underlying data
+availability can be addressed by using synthetic distributions and start producing a narrow range of
+Chapter 1 Preview 26
+
+AArrttiifificciiaall IInntteelllliiggeennccee Chapter 1: Research and Development
+IInnddeexx RReeppoorrtt 22002244 1.3 Frontier AI Research
+Highlight:
+Will Models Run Out of Data? (cont’d)
+outputs. Figure 1.3.9 demonstrates the process of over time, the generations of models trained
+model collapse in a variational autoencoder (VAE) predominantly on synthetic data become less
+model, a widely used generative AI architecture. varied and are not as widely distributed.
+With each subsequent generation trained on
+The authors demonstrate that this phenomenon
+additional synthetic data, the model produces an
+occurs across various model types, including
+increasingly limited set of outputs. As illustrated
+Gaussian Mixture Models and LLMs. This research
+in Figure 1.3.10, in statistical terms, as the number
+underscores the continued importance of human-
+of synthetic generations increases, the tails of the
+generated data for training capable LLMs that can
+distributions vanish, and the generation density
+produce a diverse array of content.
+shifts toward the mean.7 This pattern means that
+A demonstration of model collapse in a VAE
+Source: Shumailov et al., 2023
+Figure 1.3.9
+7 In the context of generative models, density refers to the level of complexity and variation in the outputs produced by an AI model. Models that have a higher generation density
+produce a wider range of higher-quality outputs. Models with low generation density produce a narrower range of more simplistic outputs.
+Chapter 1 Preview 27
+
+AArrttiifificciiaall IInntteelllliiggeennccee
+IInnddeexx RReeppoorrtt 22002244
+Highlight:
+Will Models Run Out of Data? (cont’d)
+1.60
+1.40
+1.20
+1.00
+Generation 0
+0.80
+Generation 1
+Generation 2
+0.60 Generation 3
+Generation 4
+Generation 5
+0.40
+Generation 6
+Generation 7
+0.20 Generation 8
+Generation 9
+0.00
+−3 −2 −1 0 1 2 3
+In a similar study published in 2023 on the use generated images declines. Figure 1.3.11 highlights
+of synthetic data in generative imaging models, the degraded image generations of models that are
+researchers found that generative image models augmented with synthetic data; for example, the
+trained solely on synthetic data cycles—or with faces generated in steps 7 and 9 increasingly display
+insufficient real human data—experience a strange-looking hash marks. From a statistical
+significant drop in output quality. The authors perspective, images generated with both synthetic
+label this phenomenon Model Autophagy Disorder data and synthetic augmentation loops have higher
+(MAD), in reference to mad cow disease. FID scores (indicating less similarity to real images),
+lower precision scores (signifying reduced realism
+The study examines two types of training processes:
+or quality), and lower recall scores (suggesting
+fully synthetic, where models are trained exclusively
+decreased diversity) (Figure 1.3.12). While synthetic
+on synthetic data, and synthetic augmentation,
+augmentation loops, which incorporate some real
+where models are trained on a mix of synthetic
+data, show less degradation than fully synthetic
+and real data. In both scenarios, as the number of
+loops, both methods exhibit diminishing returns with
+training generations increases, the quality of the
+further training.
+Chapter 1 Preview 28
+ytisneD
+Chapter 1: Research and Development
+1.3 Frontier AI Research
+Convergence of generated data densities in descendant models
+Source: Shumailov et al., 2023 | Chart: 2024 AI Index report
+Figure 1.3.10
+
+AArrttiifificciiaall IInntteelllliiggeennccee
+IInnddeexx RReeppoorrtt 22002244
+Highlight:
+Will Models Run Out of Data? (cont’d)
+Fully synthetic loop Synthetic augmentation loop
+0.70 0.40
+
+0.35
+0.60
+0.30
+0.50
+
+0.25
+0.40
+0.20
+
+0.30
+0.15
+0.20
+0.10
+
+0.10
+0.05
+0 0.00 0.00
+0 2 4 6 0 2 4 6 0 2 4 6
+Generations Generations Generations
+Chapter 1 Preview 29
+DIF
+noisicerP
+llaceR
+Chapter 1: Research and Development
+1.3 Frontier AI Research
+An example of MAD in image-generation models
+Source: Alemohammad et al., 2023
+Figure 1.3.11
+Assessing FFHQ syntheses: FID, precision, and recall in synthetic and mixed-data training loops
+Source: Alemohammad et al., 2023 | Chart: 2024 AI Index report
+Figure 1.3.12
+
+AArrttiifificciiaall IInntteelllliiggeennccee Chapter 1: Research and Development
+IInnddeexx RReeppoorrtt 22002244 1.3 Frontier AI Research
+Foundation Models Model Release
+Foundation models can be accessed in different
+Foundation models represent a rapidly evolving ways. No access models, like Google’s PaLM-E, are
+and popular category of AI models. Trained on vast only accessible to their developers. Limited access
+datasets, they are versatile and suitable for numerous models, like OpenAI’s GPT-4, offer limited access to
+downstream applications. Foundation models such as the models, often through a public API. Open models,
+GPT-4, Claude 3, and Llama 2 showcase remarkable like Meta’s Llama 2, fully release model weights, which
+abilities and are increasingly being deployed in real- means the models can be modified and freely used.
+world scenarios.
+Figure 1.3.13 visualizes the total number of foundation
+Introduced in 2023, the Ecosystem Graphs is a new models by access type since 2019. In recent years, the
+community resource from Stanford that tracks the number of foundation models has risen sharply, more
+foundation model ecosystem, including datasets, than doubling since 2022 and growing by a factor of
+models, and applications. This section uses data from nearly 38 since 2019. Of the 149 foundation models
+the Ecosystem Graphs to study trends in foundation released in 2023, 98 were open, 23 limited and 28
+models over time.8 no access.
+
+Open Limited No access
+
+100 98
+
+40 23
+
+28 28
+4 2 10
+
+2019 2020 2021 2022 2023
+8 The Ecosystem Graphs make efforts to survey the global AI ecosystem, but it is possible that they underreport models from certain nations like South Korea and China.
+Chapter 1 Preview 30
+sledom
+noitadnuoF
+Foundation models by access type, 2019–23
+Source: Bommasani et al., 2023 | Chart: 2024 AI Index report
+Figure 1.3.13
+
+AArrttiifificciiaall IInntteelllliiggeennccee Chapter 1: Research and Development
+IInnddeexx RReeppoorrtt 22002244 1.3 Frontier AI Research
+In 2023, the majority of foundation models were released as open access (65.8%), with 18.8% having no access
+and 15.4% limited access (Figure 1.3.14). Since 2021, there has been a significant increase in the proportion of
+models released with open access.
+70%
+60%
+50%
+40%
+30%
+20%
+10%
+0%
+2019 2020 2021 2022 2023
+Chapter 1 Preview 31
+)latot
+fo
+%(
+sledom
+noitadnuoF
+Foundation models (% of total) by access type, 2019–23
+Source: Bommasani et al., 2023 | Chart: 2024 AI Index report
+65.77%, Open
+18.79%, No access
+15.44%, Limited
+Figure 1.3.14
+
+AArrttiifificciiaall IInntteelllliiggeennccee Chapter 1: Research and Development
+IInnddeexx RReeppoorrtt 22002244 1.3 Frontier AI Research
+Organizational Affiliation from industry. Only 18.8% of foundation models in
+Figure 1.3.15 plots the sector from which foundation 2023 originated from academia. Since 2019, an ever
+models have originated since 2019. In 2023, the larger number of foundation models are coming
+majority of foundation models (72.5%) originated from industry.
+
+2019 2020 2021 2022 2023
+Chapter 1 Preview 32
+sledom
+noitadnuof
+fo
+rebmuN
+Number of foundation models by sector, 2019–23
+Source: Bommasani et al., 2023 | Chart: 2024 AI Index report
+108, Industry
+28, Academia
+9, Industry-academia collaboration
+4, Government
+0, Industry-government collaboration
+Figure 1.3.15
+
+AArrttiifificciiaall IInntteelllliiggeennccee Chapter 1: Research and Development
+IInnddeexx RReeppoorrtt 22002244 1.3 Frontier AI Research
+Figure 1.3.16 highlights the source of various foundation models that were released in 2023. Google introduced
+the most models (18), followed by Meta (11), and Microsoft (9). The academic institution that released the most
+foundation models in 2023 was UC Berkeley (3).
+Number of foundation models by organization, 2023
+Source: Bommasani et al., 2023 | Chart: 2024 AI Index report
+Google 18
+Meta 11
+Microsoft 9
+OpenAI 7
+Together 5
+Hugging Face 4
+Anthropic 4
+AI2 4
+Stability AI 3
+Cerebras 3
+Shanghai AI Laboratory 3
+Adobe 3
+Industry
+UC Berkeley 3
+Academia
+DeepMind 2 Nonpro t
+Stanford University 2
+0 2 4 6 8 10 12 14 16 18
+Number of foundation models
+Figure 1.3.16
+Chapter 1 Preview 33
+
+AArrttiifificciiaall IInntteelllliiggeennccee Chapter 1: Research and Development
+IInnddeexx RReeppoorrtt 22002244 1.3 Frontier AI Research
+Since 2019, Google has led in releasing the most foundation models, with a total of 40, followed by OpenAI with
+20 (Figure 1.3.17). Tsinghua University stands out as the top non-Western institution, with seven foundation model
+releases, while Stanford University is the leading American academic institution, with five releases.
+Number of foundation models by organization, 2019–23 (sum)
+Source: Bommasani et al., 2023 | Chart: 2024 AI Index report
+Google 40
+OpenAI 20
+Meta 19
+Microsoft 18
+DeepMind 15
+Tsinghua University 7
+EleutherAI 6
+Together 6
+Cohere 5
+Stanford University 5
+Hugging Face 5
+Anthropic 5
+Industry
+AI2 4
+Academia
+BigScience 4 Nonpro t
+Shanghai AI Laboratory 4
+0 4 8 12 16 20 24 28 32 36 40
+Number of foundation models
+Figure 1.3.17
+Chapter 1 Preview 34
+
+AArrttiifificciiaall IInntteelllliiggeennccee Chapter 1: Research and Development
+IInnddeexx RReeppoorrtt 22002244 1.3 Frontier AI Research
+National Affiliation Number of foundation models by geographic area,
+
+Given that foundation models are fairly
+Source: Bommasani et al., 2023 | Chart: 2024 AI Index report
+representative of frontier AI research, from United States 109
+a geopolitical perspective, it is important to China 20
+United Kingdom 8
+understand their national affiliations. Figures 1.3.18,
+United Arab Emirates 4
+1.3.19, and 1.3.20 visualize the national affiliations
+Canada 3
+of various foundation models. As with the notable
+Singapore 2
+model analysis presented earlier in the chapter, Israel 2
+a model is deemed affiliated with a country if a Germany 2
+Finland 2
+researcher contributing to that model is affiliated
+Taiwan 1
+with an institution headquartered in that country.
+Switzerland 1
+Sweden 1
+In 2023, most of the world’s foundation models
+Spain 1
+originated from the United States (109), followed by
+France 1
+China (20), and the United Kingdom (Figure 1.3.18). 0 10 20 30 40 50 60 70 80 90 100 110
+Number of foundation models
+Since 2019, the United States has consistently led
+in originating the majority of foundation models
+(Figure 1.3.19).
+
+2019 2020 2021 2022 2023
+Chapter 1 Preview 35
+sledom
+noitadnuof
+fo
+rebmuN
+Figure 1.3.18
+Number of foundation models by select geographic
+area, 2019–23
+Source: Bommasani et al., 2023 | Chart: 2024 AI Index report
+109, United States
+20, China
+15, European Union and
+United Kingdom
+Figure 1.3.19
+
+AArrttiifificciiaall IInntteelllliiggeennccee Chapter 1: Research and Development
+IInnddeexx RReeppoorrtt 22002244 1.3 Frontier AI Research
+Figure 1.3.20 depicts the cumulative count of foundation models released and attributed to respective countries
+since 2019. The country with the greatest number of foundation models released since 2019 is the United States
+(182), followed by China (30), and the United Kingdom (21).
+Number of foundation models by geographic area, 2019–23 (sum)
+Source: Bommasani et al., 2023 | Chart: 2024 AI Index report
+1–10
+11–30
+31–182
+Figure 1.3.20
+Chapter 1 Preview 36
+
+AArrttiifificciiaall IInntteelllliiggeennccee Chapter 1: Research and Development
+IInnddeexx RReeppoorrtt 22002244 1.3 Frontier AI Research
+Training Cost models in last year’s publication. This year, the AI
+Index has collaborated with Epoch AI, an AI research
+A prominent topic in discussions about foundation institute, to substantially enhance and solidify the
+models is their speculated costs. While AI robustness of its AI training cost estimates.9 To
+companies seldom reveal the expenses involved estimate the cost of cutting-edge models, the Epoch
+in training their models, it is widely believed that team analyzed training duration, as well as the type,
+these costs run into millions of dollars and are quantity, and utilization rate of the training hardware,
+rising. For instance, OpenAI’s CEO, Sam Altman, using information from publications, press releases, or
+mentioned that the training cost for GPT-4 was over technical reports related to the models.10
+$100 million. This escalation in training expenses
+Figure 1.3.21 visualizes the estimated training cost
+has effectively excluded universities, traditionally
+associated with select AI models, based on cloud
+centers of AI research, from developing their own
+compute rental prices. AI Index estimates validate
+leading-edge foundation models. In response, policy
+suspicions that in recent years model training costs
+initiatives, such as President Biden’s Executive Order
+have significantly increased. For example, in 2017,
+on AI, have sought to level the playing field between
+the original Transformer model, which introduced the
+industry and academia by creating a National AI
+architecture that underpins virtually every modern
+Research Resource, which would grant nonindustry
+LLM, cost around $900 to train.11 RoBERTa Large,
+actors the compute and data needed to do higher
+released in 2019, which achieved state-of-the-art
+level AI-research.
+results on many canonical comprehension benchmarks
+Understanding the cost of training AI models is like SQuAD and GLUE, cost around $160,000 to train.
+important, yet detailed information on these costs Fast-forward to 2023, and training costs for OpenAI’s
+remains scarce. The AI Index was among the first to GPT-4 and Google’s Gemini Ultra are estimated to be
+offer estimates on the training costs of foundation around $78 million and $191 million, respectively.
+9 Ben Cottier and Robi Rahman led research at Epoch AI into model training cost.
+10 A detailed description of the estimation methodology is provided in the Appendix.
+11 The cost figures reported in this section are inflation-adjusted.
+Chapter 1 Preview 37
+
+Artificial Intelligence
+Index Report 2024
+191,400,000
+78,352,034
+12,389,056
+930 3,288 160,018 4,324,883 6,405,653 1,319,586 3,931,897
+Chapter 1 Preview 38
+remrofsnarT egraL-TREB egraL
+aTREBoR
+)icnivad(
+B571
+3-TPG
+B035
+GLN
+gniruT-nortageM
+ADMaL )B045(
+MLaP
+4-TPG B07
+2 amalL
+artlU
+inimeG
+200M
+150M
+100M
+50M
+
+2017 2018 2019 2020 2021 2022 2023
+)srallod
+.S.U
+ni(
+tsoc
+gniniarT
+Estimated training cost of select AI models, 2017–23
+Source: Epoch, 2023 | Chart: 2024 AI Index report
+Gemini Ultra
+GPT-4
+100M
+Falcon 180B
+PaLM (540B)
+10M
+GPT-3 175B (davinci) Llama 2 70B
+BLOOM-176B
+Megatron-BERT HyperCLOVA LLaMA-65B
+1M Switch Flamingo
+GNMT AlphaStar Meta Pseudo Labels PaLI StarCoder
+RoBERTa Large
+100K T0-XXL
+JFT Imagen
+Xception
+BigGAN-deep 512×512
+10K Big Transformer for Back-Translation
+BERT-Large
+Transformer
+1000 SciBERT
+IMPALA
+
+2016 2017 2018 2019 2020 2021 2022 2023
+Publication date
+)elacs
+gol
+- srallod
+.S.U
+ni(
+tsoc
+gniniarT
+Artificial Intelligence Chapter 1: Research and Development
+Index Report 2024 1.3 Frontier AI Research
+Figure 1.3.21
+Figure 1.3.22 visualizes the training cost of all AI models for which the AI Index has estimates. As the figure shows,
+model training costs have sharply increased over time.
+Estimated training cost of select AI models, 2016–23
+Source: Epoch, 2023 | Chart: 2024 AI Index report
+Figure 1.3.22
+
+Artificial Intelligence
+Index Report 2024
+Gemini Ultra
+GPT-4
+100M
+PaLM (540B)
+10M
+GPT-3 175B (davinci) Megatron-Turing NLG 530B
+Llama 2 70B
+LaMDA
+1M
+RoBERTa Large
+100K
+10K
+BERT-Large
+Transformer
+
+10K 100K 1M 10M 100M 1B 10B 100B
+Training compute (petaFLOP - log scale)
+Chapter 1 Preview 39
+)elacs
+gol
+-
+srallod
+.S.U
+ni(
+tsoc
+gniniarT
+Artificial Intelligence Chapter 1: Research and Development
+Index Report 2024 1.3 Frontier AI Research
+As established in previous AI Index reports, there is a direct correlation between the training costs of AI models
+and their computational requirements. As illustrated in Figure 1.3.23, models with greater computational training
+needs cost substantially more to train.
+Estimated training cost and compute of select AI models
+Source: Epoch, 2023 | Chart: 2024 AI Index report
+Figure 1.3.23
+
+AArrttiifificciiaall IInntteelllliiggeennccee Chapter 1: Research and Development
+IInnddeexx RReeppoorrtt 22002244 1.4 AI Conferences
+AI conferences serve as essential platforms for researchers to present their findings and network with peers and
+collaborators. Over the past two decades, these conferences have expanded in scale, quantity, and prestige.
+This section explores trends in attendance at major AI conferences.
+1.4 AI Conferences
+Conference Attendance
+Figure 1.4.1 graphs attendance at a selection of Specifically, there was a 6.7% rise in total attendance
+AI conferences since 2010. Following a decline in over the last year. Since 2015, the annual number of
+attendance, likely due to the shift back to exclusively attendees has risen by around 50,000, reflecting not
+in-person formats, the AI Index reports an increase just a growing interest in AI research but also the
+in conference attendance from 2022 to 2023.12 emergence of new AI conferences.
+
+2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+12 This data should be interpreted with caution given that many conferences in the last few years have had virtual or hybrid formats. Conference organizers report that measuring the exact
+attendance numbers at virtual conferences is difficult, as virtual conferences allow for higher attendance of researchers from around the world. The conferences for which the AI Index tracked
+data include NeurIPS, CVPR, ICML, ICCV, ICRA, AAAI, ICLR, IROS, IJCAI, AAMAS, FAccT, UAI, ICAPS, and KR.
+Chapter 1 Preview 40
+)sdnasuoht
+ni(
+seednetta
+fo
+rebmuN
+Attendance at select AI conferences, 2010–23
+Source: AI Index, 2023 | Chart: 2024 AI Index report
+63.29
+Figure 1.4.1
+
+AArrttiifificciiaall IInntteelllliiggeennccee Chapter 1: Research and Development
+IInnddeexx RReeppoorrtt 22002244 1.4 AI Conferences
+Neural Information Processing Systems (NeurIPS) AI conferences, NeurIPS, ICML, ICCV, and AAAI
+remains one of the most attended AI conferences, experienced year-over-year increases in attendance.
+attracting approximately 16,380 participants in 2023 However, in the past year, CVPR, ICRA, ICLR, and IROS
+(Figure 1.4.2 and Figure 1.4.3). Among the major observed slight declines in their attendance figures.
+
+2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+Chapter 1 Preview 41
+)sdnasuoht
+ni(
+seednetta
+fo
+rebmuN
+Attendance at large conferences, 2010–23
+Source: AI Index, 2023 | Chart: 2024 AI Index report
+16.38, NeurIPS
+8.34, CVPR
+7.92, ICML
+7.33, ICCV
+6.60, ICRA
+4.47, AAAI
+3.76, ICLR
+3.65, IROS
+Figure 1.4.2
+
+AArrttiifificciiaall IInntteelllliiggeennccee Chapter 1: Research and Development
+IInnddeexx RReeppoorrtt 22002244 1.4 AI Conferences
+3.50
+3.00
+2.50
+2.00
+1.50
+1.00
+0.50
+0.00
+2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+Figure 1.4.3
+Chapter 1 Preview 42
+)sdnasuoht
+ni(
+seednetta
+fo
+rebmuN
+Attendance at small conferences, 2010–23
+Source: AI Index, 2023 | Chart: 2024 AI Index report
+1.99, IJCAI
+0.97, AAMAS
+0.83, FAccT
+0.48, UAI
+0.31, ICAPS
+0.25, KR
+
+AArrttiifificciiaall IInntteelllliiggeennccee Chapter 1: Research and Development
+IInnddeexx RReeppoorrtt 22002244 1.5 Open-Source AI Software
+GitHub is a web-based platform that enables individuals and teams to host, review, and collaborate on code
+repositories. Widely used by software developers, GitHub facilitates code management, project collaboration,
+and open-source software support. This section draws on data from GitHub providing insights into broader trends in
+open-source AI software development not reflected in academic publication data.
+1.5 Open-Source AI Software
+Projects GitHub AI projects over time. Since 2011, the number
+of AI-related GitHub projects has seen a consistent
+A GitHub project comprises a collection of files, increase, growing from 845 in 2011 to approximately
+including source code, documentation, configuration 1.8 million in 2023.13 Notably, there was a sharp 59.3%
+files, and images, that together make up a software rise in the total number of GitHub AI projects in the
+project. Figure 1.5.1 looks at the total number of last year alone.
+1.50
+1.00
+0.50
+0.00
+2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+13 GitHub’s methodology for identifying AI-related projects has evolved over the past year. For classifying AI projects, GitHub has started incorporating generative AI keywords from a
+recently published research paper, a shift from the previously detailed methodology in an earlier paper. This edition of the AI Index is the first to adopt this updated approach. Moreover, the
+previous edition of the AI Index utilized country-level mapping of GitHub AI projects conducted by the OECD, which depended on self-reported data—a method experiencing a decline in
+coverage over time. This year, the AI Index has adopted geographic mapping from GitHub, leveraging server-side data for broader coverage. Consequently, the data presented here may not
+align perfectly with data in earlier versions of the report.
+Chapter 1 Preview 43
+)snoillim
+ni(
+stcejorp
+IA
+fo
+rebmuN
+Number of GitHub AI projects, 2011–23
+Source: GitHub, 2023 | Chart: 2024 AI Index report
+1.81
+Figure 1.5.1
+
+AArrttiifificciiaall IInntteelllliiggeennccee Chapter 1: Research and Development
+IInnddeexx RReeppoorrtt 22002244 1.5 Open-Source AI Software
+Figure 1.5.2 reports GitHub AI projects by geographic followed closely by the European Union and the
+area since 2011. As of 2023, a significant share United Kingdom at 17.9%. Notably, the proportion of AI
+of GitHub AI projects were located in the United projects from developers located in the United States
+States, accounting for 22.9% of contributions. India on GitHub has been on a steady decline since 2016.
+was the second-largest contributor with 19.0%,
+60%
+50%
+40%
+30%
+20%
+10%
+0%
+2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+Chapter 1 Preview 44
+)latot
+fo
+%(
+stcejorp
+IA
+GitHub AI projects (% of total) by geographic area, 2011–23
+Source: GitHub, 2023 | Chart: 2024 AI Index report
+37.09%, Rest of the world
+22.93%, United States
+19.01%, India
+17.93%, European Union and United Kingdom
+3.04%, China
+Figure 1.5.2
+
+AArrttiifificciiaall IInntteelllliiggeennccee Chapter 1: Research and Development
+IInnddeexx RReeppoorrtt 22002244 1.5 Open-Source AI Software
+Stars
+a platform that offers a variety of tools for computer
+GitHub users can show their interest in a repository
+vision, such as object detection and feature extraction.
+by “starring” it, a feature similar to liking a post on
+social media, which signifies support for an open- The total number of stars for AI-related projects on
+source project. Among the most starred repositories GitHub saw a significant increase in the last year, more
+are libraries such as TensorFlow, OpenCV, Keras, and than tripling from 4.0 million in 2022 to 12.2 million in
+PyTorch, which enjoy widespread popularity among 2023 (Figure 1.5.3). This sharp increase in GitHub stars,
+software developers in the AI coding community. For along with the previously reported rise in projects,
+example, TensorFlow is a popular library for building underscores the accelerating growth of open-source
+and deploying machine learning models. OpenCV is AI software development.
+
+2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+Chapter 1 Preview 45
+)snoillim
+ni(
+srats
+buHtiG
+fo
+rebmuN
+Number of GitHub stars in AI projects, 2011–23
+Source: GitHub, 2023 | Chart: 2024 AI Index report
+12.21
+Figure 1.5.3
+
+AArrttiifificciiaall IInntteelllliiggeennccee Chapter 1: Research and Development
+IInnddeexx RReeppoorrtt 22002244 1.5 Open-Source AI Software
+In 2023, the United States led in receiving the China, and India, saw a year-over-year increase in
+highest number of GitHub stars, totaling 10.5 million the total number of GitHub stars awarded to projects
+(Figure 1.5.4). All major geographic regions sampled, located in their countries.
+including the European Union and United Kingdom,
+
+2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+Chapter 1 Preview 46
+)snoillim
+ni(
+srats
+buHtiG
+evitalumuc
+fo
+rebmuN
+Number of GitHub stars by geographic area, 2011–23
+Source: GitHub, 2023 | Chart: 2024 AI Index report
+10.45, United States
+7.86, Rest of the world
+4.53, European Union and United Kingdom
+2.12, China
+1.92, India
+Figure 1.5.4
+
+AArrttiifificciiaall IInntteelllliiggeennccee Chapter 1: Research and Development
+IInnddeexx RReeppoorrtt 22002244 Appendix
+Appendix
+Acknowledgments Technology Observatory’s website.1 Using CAT, users
+can also interact with country bibliometric, patent,
+The AI Index would like to acknowledge Ben Cottier and investment data.2
+and Robi Rahman from Epoch for leading the work
+Publications From CSET Merged Corpus of
+analyzing machine learning training costs; Robi Rahman
+Scholarly Literature
+for leading work regarding the national affiliation of
+Sources
+notable systems; and James da Costa, for doing coding
+CSET’s merged corpus of scholarly literature
+work instrumental to the sectoral and national affiliation
+combines distinct publications from Clarivate’s Web
+analysis of foundation models.
+of Science, OpenAlex, The Lens, Semantic Scholar,
+arXiv, and Papers With Code.
+AI Conference Attendance
+Updates: The source list of scholarly literature for
+The AI Index reached out to the organizers of various
+CSET’s merged corpus has been changed from prior
+AI conferences in 2023 and asked them to provide
+years, with the inclusion of OpenAlex, the Lens,
+information on total attendance. Some conferences
+and Semantic Scholar, and the exclusion of Digital
+posted their attendance totals online; when this was the
+Science’s Dimensions and the Chinese National
+case, the AI Index used those reported totals and did
+Knowledge Infrastructure (CNKI).
+not reach out to the conference organizers.
+Methodology
+CSET
+To create the merged corpus, CSET deduplicated
+Prepared by Autumn Toney across the listed sources using publication metadata,
+and then combined the metadata for linked
+The Center for Security and Emerging Technology
+publications. For analysis of AI publications, CSET
+(CSET) is a policy research organization within
+used an English-language subset of this corpus
+Georgetown University’s Walsh School of Foreign
+published since 2010. CSET researchers developed
+Service that produces data-driven research at the
+a classifier for identifying AI-related publications by
+intersection of security and technology, providing
+leveraging the arXiv repository, where authors and
+nonpartisan analysis to the policy community.
+editors tag papers by subject.3
+For more information about how CSET analyzes
+Updates: The AI classifier was updated from the
+bibliometric and patent data, see the Country Activity
+version used in prior years; Dunham, Melot, and
+Tracker (CAT) documentation on the Emerging
+Murdick4 describe the previously implemented
+1 
+2 
+3 Christian Schoeberl, Autumn Toney, and James Dunham, “Identifying AI Research” (Center for Security and Emerging Technology, ), 
+4 James Dunham, Jennifer Melot, and Dewey Murdick, “Identifying the Development and Application of Artificial Intelligence in Scientific Text,” arXiv preprint, arXiv:2002.07143 (2020).
+Chapter 1 Preview 47
+
+AArrttiifificciiaall IInntteelllliiggeennccee Chapter 1: Research and Development
+IInnddeexx RReeppoorrtt 22002244 Appendix
+classifier; and Schoeberl, Toney, and Dunham describe publication type (e.g., academic journal articles,
+the updated classifier used in this analysis. conference papers) were provided where available.
+These publication types were disaggregated by
+CSET matched each publication in the analytic corpus
+affiliation country as described above.
+with predictions from a field-of-study model derived
+from Microsoft Academic Graph (MAG)’s taxonomy, CSET also provided publication affiliation sector(s)
+which yields hierarchical labels describing the where, as in the country attribution analysis, sectors
+published research field(s) of study and corresponding were associated with publications through authors’
+scores.5 CSET researchers identified the most common affiliations. Not all affiliations were characterized in
+fields of study in our corpus of AI-relevant publications terms of sectors; CSET researchers relied primarily
+since 2010 and recorded publications in all other fields on ROR for this purpose, and not all organizations can
+as “Other AI.” English-language AI-relevant publications be found in or linked to ROR.6 Where the affiliation
+were then tallied by their top-scoring field and sector is available, papers were counted toward these
+publication year. sectors, by year.
+Updates: The methodology to assign MAG fields of CSET counted cross-sector collaborations as distinct
+study was updated from the methodology used in prior pairs of sectors across authors for each publication.
+years. Toney and Dunham describe the field of study Collaborations are only counted once: For example,
+assignment pipeline used in this analysis; prior years if a publication has two authors with an academic
+used the original MAG implementation. affiliation and two with an industry affiliation, it is
+counted as a single academic-industry collaboration.
+CSET also provided publication counts and year-by-
+year citations for AI-relevant work associated with each Patents From CSET’s AI and Robotics Patents
+Dataset
+country. A publication is associated with a country
+if it has at least one author whose organizational
+Source
+affiliation(s) is located in that country. If there is
+CSET’s AI patents dataset was developed by CSET
+no observed country, the publication receives an
+and 1790 Analytics and includes data from The Lens,
+“Unknown/Missing” country label. Citation counts
+1790 Analytics, and EPO’s PATSTAT. Patents relevant
+aren’t available for all publications; those without
+to the development and application of AI and robotics
+counts weren’t included in the citation analysis. Over
+were identified by their CPC/IPC codes and keywords.
+70% of English-language AI papers published between
+Methodology
+2010 and 2022 have citation data available.
+In this analysis, patents were grouped by year and
+Additionally, publication counts by year and by
+country, and then counted at the “patent family”
+5 These scores are based on cosine similarities between field-of-study and paper embeddings. See Autumn Toney and James Dunham, “Multi-Label Classification of Scientific Research
+Documents Across Domains and Languages,” Proceedings of the Third Workshop on Scholarly Document Processing (Association for Computational Linguistics, 2022): 105–14, https://
+aclanthology.org/2022.sdp-1.12/.
+6 See for more information about the ROR dataset.
+7 Patents are analyzed at the “patent family” level rather than “patent document” level because patent families are a collective of patent documents all associated with a single invention and/
+or innovation by the same inventors/assignees. Thus, counting at the “patent family” level mitigates artificial number inflation when there are multiple patent documents in a patent family or if
+a patent is filed in multiple jurisdictions.
+Chapter 1 Preview 48
+
+AArrttiifificciiaall IInntteelllliiggeennccee Chapter 1: Research and Development
+IInnddeexx RReeppoorrtt 22002244 Appendix
+level.7 CSET extracted year values from the first 3. All of the landmark publications are
+publication date within a family. Countries are assigned aggregated within time periods (e.g., monthly
+to patents based on the country or filing office where or yearly) with the national contributions
+a patent is first filed (e.g., if a patent is filed with the added up to determine what each country’s
+USPTO on January 1, 2020, and then with the German contribution to landmark AI research was
+Patenting Office on January 2, 2020, the patent is during each time period.
+classified as a patent with U.S. inventors).8 Note that 4. The contributions of different countries are
+the same patent may have multiple countries (but not compared over time to identify any trends.
+years) attributed to it if the inventors filed their patent
+in multiple countries on the same first filing date (e.g., Epoch Notable Models
+if a patent is filed with the USPTO on January 1, 2020,
+Analysis
+and then with the German Patenting Office on January
+1, 2020, the patent is classified as a patent with U.S.
+The AI forecasting research group Epoch maintains
+inventors and as a patent with German inventors).
+a dataset of landmark AI and ML models, along with
+Note that patents filed with supranational accompanying information about their creators and
+organizations, such as patents filed under WIPO (the publications, such as the list of their (co)authors,
+World Intellectual Property Organization), EP (European number of citations, type of AI task accomplished,
+Patent Organization), and EA (a special area of Spain and amount of compute used in training.
+not included in the European Union), also fall under the
+The nationalities of the authors of these papers have
+“Rest of World” category.
+important implications for geopolitical AI forecasting.
+Ecosystems Graph Analysis As various research institutions and technology
+companies start producing advanced ML models, the
+To track the distribution of AI foundation models by global distribution of future AI development may shift
+country, the AI Index team took the following steps: or concentrate in certain places, which in turn affects
+the geopolitical landscape because AI is expected
+1. A snapshot of the Ecosystems Graph was taken in
+to become a crucial component of economic and
+early .
+military power in the near future.
+2. Authors of foundation models are attributed to
+countries based on their affiliation credited on To track the distribution of AI research contributions
+the paper/technical documentation associated on landmark publications by country, the Epoch
+with the model. For international organizations, dataset is coded according to the following
+authors are attributed to the country where the methodology:
+organization is headquartered, unless a more
+specific location is indicated.
+8 In CSET’s data analysis for the 2022 AI Index, we used the most recent publication date for a patent family. This method has the advantage of capturing updates within a patent
+family (such as amendments). However, to remain consistent with CSET’s other data products, including the Country Activity Tracker (available at we opted to
+use the first filing year instead in this data analysis.
+Chapter 1 Preview 49
+
+AArrttiifificciiaall IInntteelllliiggeennccee Chapter 1: Research and Development
+IInnddeexx RReeppoorrtt 22002244 Appendix
+1. A snapshot of the dataset was taken on Mapping AI Projects to Geographic Areas
+January 1, 2024. This includes papers Public AI projects are mapped to geographic areas
+about landmark models, selected using the using IP address geolocation to determine the mode
+inclusion criteria of importance, relevance, location of a project’s owners each year. Each project
+and uniqueness, as described in the Compute owner is assigned a location based on their IP address
+Trends dataset documentation. when interacting with GitHub. If a project owner
+2. The authors are attributed to countries based changes locations within a year, the location for the
+on their affiliation credited on the paper. project would be determined by the mode location
+For international organizations, authors of its owners sampled daily in the year. Additionally,
+are attributed to the country where the the last known location of the project owner is
+organization is headquartered, unless a more carried forward on a daily basis even if no activities
+specific location is indicated. were performed by the project owner that day. For
+3. All of the landmark publications are example, if a project owner performed activities
+aggregated within time periods (e.g., monthly within the United States and then became inactive for
+or yearly) with the national contributions six days, that project owner would be considered to
+added up to determine what each country’s be in the United States for that seven-day span.
+contribution to landmark AI research was
+during each time period.
+Training Cost Analysis
+4. The contributions of different countries are
+compared over time to identify any trends.
+To create the dataset of cost estimates, the Epoch
+database was filtered for models released during the
+GitHub
+large-scale ML era9 that were above the median of
+training compute in a two-year window centered on
+Identifying AI Projects
+their release date. This filtered for the largest-scale
+In partnership with researchers from Harvard Business
+ML models. There were 138 qualifying systems based
+School, Microsoft Research, and Microsoft’s AI for
+on these criteria. Of these systems, 48 had sufficient
+Good Lab, GitHub identifies public AI repositories
+information to estimate the training cost.
+following the methodologies of Gonzalez, Zimmerman,
+and Nagappan, 2020, and Dohmke, Iansiti, and For the selected ML models, the training time and
+Richards, 2023, using topic labels related to AI/ML the type, quantity, and utilization rate of the training
+and generative AI, respectively, along with the topics hardware were determined from the publication,
+“machine learning,” “deep learning,” or “artificial press release, or technical reports, as applicable.
+intelligence.” GitHub further augments the dataset with Cloud rental prices for the computing hardware used
+repositories that have a dependency on the PyTorch, by these models were collected from online historical
+TensorFlow, or OpenAI libraries for Python. archives of cloud vendors’ websites.10
+9 The selected cutoff date was September 1, 2015, in accordance with Compute Trends Across Three Eras of Machine Learning (Epoch, 2022).
+10 Historic prices were collected from archived snapshots of Amazon Web Services, Microsoft Azure, and Google Cloud Platform price catalogs viewed through the Internet Archive
+Wayback Machine.
+Chapter 1 Preview 50
+
+AArrttiifificciiaall IInntteelllliiggeennccee Chapter 1: Research and Development
+IInnddeexx RReeppoorrtt 22002244 Appendix
+Training costs were estimated from the hardware type,
+quantity, and time by multiplying the hourly cloud rental
+cost rates (at the time of training)11 by the quantity of
+hardware hours. This yielded the cost to train each
+model using the same hardware used by the authors
+to train the same model at the time. However, some
+developers purchased hardware rather than renting
+cloud computers, so the true costs incurred by the
+developers may vary.
+Various challenges were encountered while estimating
+the training cost of these models. Often, the developers
+did not disclose the duration of training or the hardware
+that was used. In other cases, cloud compute pricing
+was not available for the hardware. The investigation
+of training cost trends is continued in a forthcoming
+Epoch report, including an expanded dataset with more
+models and hardware prices.
+11 The chosen rental cost rate was the most recent published price for the hardware and cloud vendor used by the developer of the model, at a three-year commitment rental rate, after
+subtracting the training duration and two months from the publication date. If this price was not available, the most analogous price was used: the same hardware and vendor at a different
+date, otherwise the same hardware from a different cloud vendor. If a three-year commitment rental rate was unavailable, this was imputed from other rental rates based on the empirical
+average discount for the given cloud vendor. If the exact hardware type was not available, e.g., “NVIDIA A100 SXM4 40GB,” then a generalization was used, e.g., “NVIDIA A100.”
+Chapter 1 Preview 51

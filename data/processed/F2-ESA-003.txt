@@ -1,0 +1,53 @@
+Active debris removal
+
+As the number of space debris keeps growing, the creation of new debris needs to be prevented to keep Earth orbits safe and usable for spaceflight in the future. To achieve this, ESA’s space debris mitigation requirements state, among other measures, that satellites must vacate their valuable orbit at end-of-life or within five years after that, depending on their particular orbit.
+
+But what if they are not able to do so under their own steam? ESA is preparing active debris removal missions and design for removal (D4R) technologies that can be used to ensure the safe disposal of satellites that are unable to move on their own at their end-of-life.
+
+Removing debris from orbit
+
+The process to rendezvous with a piece of space junk and remove it from orbit is called active debris removal. A chaser spacecraft matches the orbit of the object that is to be removed. Once it has successfully grabbed hold – overcoming difficulties like tumbling of the target – the stack of spacecraft will change its orbit or even reenter to comply with debris mitigation guidelines.
+
+ESA’s cornerstone project ADRIOS (Active Debris Removal / In-Orbit Servicing) aims to develop essential guidance, navigation and control technologies as well as required rendezvous and capture methods.
+
+As part of this effort, ESA’s ClearSpace-1 mission will be the first mission demonstrating the removal of a satellite from orbit after its end-of-life. It will rendezvous with, capture and remove ESA’s uncooperative 95 kg Proba-1 satellite from its valuable low-Earth orbit. The process requires highly precise and complex close proximity operations that are made more challenging because the Proba-1 satellite was not made to be removed by another spacecraft.
+
+Debris objects are unprepared if they are not equipped with docking technology and called uncooperative when they do not support their capturing. Such objects may be removed through carefully planned mission and operations design, like the ClearSpace-1 mission. However, it does not come cheap and is not always possible depending on the piece of debris.
+
+In the future, for intact-yet-inoperable satellites, the active debris removal process can be made much easier and more efficient if new satellites are designed for removal as a standard requirement.
+
+For a satellite to be designed for removal it has technology installed on its platform that will enable the active removal spacecraft to grab hold easily. The two key D4R components are a standardised coupling interface and navigation aids for close proximity operations.
+
+Anyone who has experienced the hassle of different charging cables before they were standardised to USB-C knows: for efficient interoperability of hardware, you need matching interfaces. It would save time and money on the road to sustainability in space if we can skip the phase of competing technologies and determine the ‘USB-C port’ for grabbing a satellite in space.
+
+The satellite might be tumbling, and its orientation needs to be very precisely known for the chaser satellite to be able to attach itself in exactly the right way, to ensure the coupling interface lines up neatly. The spacecraft must be able to do this autonomously in space, navigating with the help from the navigation aids installed on the defunct satellites combined with its own cameras.
+
+Demonstrating design-for-removal: ESA’s CAT mission
+
+ESA is planning a mission to demonstrate the Design-for-Removal (D4R) technologies to capture and remove an inactive satellite. The Capture Payload Bay (CAT) in-orbit demonstration mission will use a set of standardised navigation and mechanical interfaces to capture a first satellite in space.
+
+The passive element of the coupling interface is called MICE and the first one has already been launched into space as part of the LUR-1 mission. It is a point of attachment put onto the LUR-1 satellite with the purpose of having a standardised interface where CAT can easily grab it. Six navigation aids have also been installed to support the rendezvous and capture process by helping determine the distance, orientation and tumbling motion of the spacecraft. Four of the next generation Copernicus satellites are also being equipped with the D4R standardised interfaces.
+
+ESA will send a first CAT to demonstrate the technology in orbit. CAT will rendezvous with a target spacecraft relying on its D4R navigation interfaces. Once close enough and aligned in the right position, CAT will capture MICE - the D4R mechanical interface on the target. After dragging or pushing the satellite down far enough so that the atmospheric drag will cause it to reenter within the prescribed 5 years, CAT will release the satellite and can go on to grab a next piece of debris.
+
+Sustainability for a future in space
+
+With ClearSpace-1, CAT and stimulating the technology development of active debris removal overall, ESA shows its commitment to the Zero Debris approach, aiming for zero debris created by 2030. Validating debris removal technologies in orbit will set a new standard for sustainable space operations, bringing the sustainable use of space one step closer once more.
+
+As the number of space debris keeps growing, the creation of new debris needs to be prevented to keep Earth orbits safe and usable for spaceflight in the future. To achieve this, ESA’s space debris mitigation requirements state, among other measures, that satellites must vacate their valuable orbit at end-of-life or within five years after that, depending on their particular orbit.
+But what if they are not able to do so under their own steam? ESA is preparing active debris removal missions and design for removal (D4R) technologies that can be used to ensure the safe disposal of satellites that are unable to move on their own at their end-of-life.
+Removing debris from orbit
+The process to rendezvous with a piece of space junk and remove it from orbit is called active debris removal. A chaser spacecraft matches the orbit of the object that is to be removed. Once it has successfully grabbed hold – overcoming difficulties like tumbling of the target – the stack of spacecraft will change its orbit or even reenter to comply with debris mitigation guidelines.
+ESA’s cornerstone project ADRIOS (Active Debris Removal / In-Orbit Servicing) aims to develop essential guidance, navigation and control technologies as well as required rendezvous and capture methods.
+As part of this effort, ESA’s ClearSpace-1 mission will be the first mission demonstrating the removal of a satellite from orbit after its end-of-life. It will rendezvous with, capture and remove ESA’s uncooperative 95 kg Proba-1 satellite from its valuable low-Earth orbit. The process requires highly precise and complex close proximity operations that are made more challenging because the Proba-1 satellite was not made to be removed by another spacecraft.
+Debris objects are unprepared if they are not equipped with docking technology and called uncooperative when they do not support their capturing. Such objects may be removed through carefully planned mission and operations design, like the ClearSpace-1 mission. However, it does not come cheap and is not always possible depending on the piece of debris.
+In the future, for intact-yet-inoperable satellites, the active debris removal process can be made much easier and more efficient if new satellites are designed for removal as a standard requirement.
+For a satellite to be designed for removal it has technology installed on its platform that will enable the active removal spacecraft to grab hold easily. The two key D4R components are a standardised coupling interface and navigation aids for close proximity operations.
+Anyone who has experienced the hassle of different charging cables before they were standardised to USB-C knows: for efficient interoperability of hardware, you need matching interfaces. It would save time and money on the road to sustainability in space if we can skip the phase of competing technologies and determine the ‘USB-C port’ for grabbing a satellite in space.
+The satellite might be tumbling, and its orientation needs to be very precisely known for the chaser satellite to be able to attach itself in exactly the right way, to ensure the coupling interface lines up neatly. The spacecraft must be able to do this autonomously in space, navigating with the help from the navigation aids installed on the defunct satellites combined with its own cameras.
+Demonstrating design-for-removal: ESA’s CAT mission
+ESA is planning a mission to demonstrate the Design-for-Removal (D4R) technologies to capture and remove an inactive satellite. The Capture Payload Bay (CAT) in-orbit demonstration mission will use a set of standardised navigation and mechanical interfaces to capture a first satellite in space.
+The passive element of the coupling interface is called MICE and the first one has already been launched into space as part of the LUR-1 mission. It is a point of attachment put onto the LUR-1 satellite with the purpose of having a standardised interface where CAT can easily grab it. Six navigation aids have also been installed to support the rendezvous and capture process by helping determine the distance, orientation and tumbling motion of the spacecraft. Four of the next generation Copernicus satellites are also being equipped with the D4R standardised interfaces.
+ESA will send a first CAT to demonstrate the technology in orbit. CAT will rendezvous with a target spacecraft relying on its D4R navigation interfaces. Once close enough and aligned in the right position, CAT will capture MICE - the D4R mechanical interface on the target. After dragging or pushing the satellite down far enough so that the atmospheric drag will cause it to reenter within the prescribed 5 years, CAT will release the satellite and can go on to grab a next piece of debris.
+Sustainability for a future in space
+With ClearSpace-1, CAT and stimulating the technology development of active debris removal overall, ESA shows its commitment to the Zero Debris approach, aiming for zero debris created by 2030. Validating debris removal technologies in orbit will set a new standard for sustainable space operations, bringing the sustainable use of space one step closer once more.

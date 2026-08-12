@@ -1,0 +1,155 @@
+Introducing WISEN: The wartime incidents to environment database
+
+What if we were able to systematically monitor environmental change across all conflicts, equally, and to a common methodology? How would that change our understanding of damage, and how we prioritise it? What are the benefits it could generate for environmental assessment and recovery, for public awareness and for accountability, and how could it increase the protection of people and ecosystems? We think these are questions worth asking. We don’t pretend to have all the answers but in developing our WISEN methodology — which we explain below — it’s become clear that a more comprehensive approach to global monitoring could be transformative.
+
+What if we were able to systematically monitor environmental change across all conflicts, equally, and to a common methodology? How would that change our understanding of damage, and how we prioritise it? What are the benefits it could generate for environmental assessment and recovery, for public awareness and for accountability, and how could it increase the protection of people and ecosystems?
+
+We think these are questions worth asking. We don’t pretend to have all the answers but in developing our WISEN methodology — which we explain below — it’s become clear that a more comprehensive approach to global monitoring could be transformative.
+
+Recent years have seen a welcome shift in how the environmental dimensions of armed conflicts are understood and viewed. Yet much of this work is fragmented and no centralised source exists that can be called upon for research, advocacy and justice. This limits our ability to protect and restore the environment for those who depend upon it.
+
+Here, we introduce what we believe can catalyse a step change in how incidents of environmental harm during armed conflicts can be remotely characterised and mapped: the Wartime IncidentS to ENvironment Database, or WISEN.
+
+WISEN documents and assesses near real-time and long-term environmental risk and harm following direct damage to environmentally hazardous objects from fighting. Currently it does so comprehensively for Ukraine, it has been tested for parts of Sudan,1 and has recently been deployed for the conflict in Iran and the Middle East. Our ambition is for WISEN to become a global database, covering all ongoing armed conflicts and populated by a distributed network of researchers.
+
+In the weeks after 24 , it quickly became apparent that the war in Ukraine was causing environmentally harmful incidents on a scale unprecedented in recent conflicts. There was a clear need for a way to document and assess this harm, and to ensure that the war’s environmental cost was understood.
+
+We were in a position to be able to remotely track and characterise this harm thanks to recent advances in earth observation, open satellite data, and open source techniques, together with our experience of fusing these methods in other conflict settings. Funding for our Ukraine monitoring activities has come from Norway, UN Environment Programme, UN Development Programme and the Organization for Security and Co-operation in Europe.
+
+WISEN — to become wise — is an appropriate verb. It’s an old word and in Middle English its meanings are also apt: to advise, counsel, teach, instruct, make apparent, or to illuminate a route.
+
+The WISEN framework we developed ensures the breadth and depth of environmentally-relevant incidents is captured, with a systematic and detailed characterisation of environmental harm. It has been designed to be flexible enough to:
+
+Overcome differences in conflict types and geographies;
+
+Interface and be compatible with existing conflict and/or environmental datasets;2
+
+Overcome concerns over human and data safety;
+
+Be future-proof and adaptable to change, as new tools and methods emerge, and as the nature of warfare changes.
+
+The data that we have collected and analysed has a wide range of uses and potential users, these include:
+
+Increase awareness and better understand the nature of the environmental consequences of armed conflicts.
+
+Informing assessment and remedial actions on the ground.
+
+Support recovery decision-making.
+
+Advocate for more protection for the environment.
+
+To contribute to accountability processes.
+
+Activation of academic research, especially in adjacent disciplines like health.
+
+Since WISEN-Ukraine has informed our public reports, media and advocacy work. Highlights include: an interactive map of case studies; nine thematic briefings; a 12-month assessment of the war; contributions to the High Level Working Group and Environmental Compact; legal investigations; and its use to inform ground measurements with mine action operators. We have also contributed data to international organisations and state agencies working on the environmental response to the conflict.
+
+During we collected Level-1 data for the conflict in Iran and the Middle East. The data formed the basis of our outreach and advocacy activities and was welcomed by journalists seeking to cover the war’s environmental dimensions: there was a real appetite for numbers and maps, important elements for storytelling. During this period our WISEN-informed data was used by around 160 media platforms globally, helping to raise the profile of the environment in the war’s narrative, an important requirement for visibility, which can contribute towards ensuring the attention and resources are there for response activities, as well as for informing norm development.
+
+WISEN provides other opportunities to boost public awareness and engagement. To coincide with the launch of WISEN we are also launching a Level 0 assessment tool for public participation on the Zooniverse citizen science platform. Integrating such citizen science approaches can further decentralise damage assessment and help increase public engagement with the environmental dimensions of conflicts.
+
+We strongly believe that documenting environmental incidents in conflicts worldwide would lead to a transformation in how conflict-linked environmental harm is understood and prioritised. What would be the impact if WISEN, or a system like it, were to become a central, go-to resource for understanding the environment in war, in a similar way to how ACLED/UCPD are for violence, or EM-DAT is for disasters?
+
+WISEN offers a framework — that can evolve with time — to be able to document and track all worldwide incidents, to understand the total toll of harm and how it varies between different contexts; this could also help reduce the significant disparities in attention between conflicts. This is CEOBS ‘ambition, and to realise it we are seeking partnerships and funding.
+
+We envisage that future iterations of WISEN will include:
+
+Transfer of responsibility for analysis and curation to researchers from affected areas, aided by capacity building and training.
+
+Integration of participatory citizen science approaches for simple damage assessments.
+
+Map-based user-interface for easy external access, quick analytics, but also damage/incident addition and assessment.
+
+Enhanced safeguards against AI generated content, maintaining the people-centred approach that is grounded in context and expertise, with only limited and responsible use of AI.
+
+Most simply, WISEN is a database of facilities where environmental harm has occurred. It is split into three ‘levels’ of data, with each subsequent layer adding more detail and analysis.
+
+The first component is Level 0: this is a simple flag if a facility is damaged, based only on satellite imagery. Where damage is confirmed a theoretical environmental harm score is calculated based on what and where the facility is; a combination of its risk profile and vulnerability.
+
+Level 0 data provides the breadth of damage and is particularly useful in those places where reporting is limited and few details of specific incidents emerge; this could be in intentional blackouts or rural areas. A facility is defined as somewhere an incident may occur, with an incident defined as:
+
+“An instance that has or may result in substantial pollution, environmental health impacts, a pause/stop of ecosystem/environmental services, contribute to climate or biodiversity breakdown, or a combination of any or all of the above.”
+
+There are two components to the incident data. Level 1 data is a long-list of all identifiable incidents. These undergo a robust verification and magnitude assessment based on triaging social media footage, testimony and satellite imagery. The magnitude is combined with the theoretical environmental harm score to provide an environmental risk score.
+
+High scoring incidents are progressed to Level 2, where a detailed dossier of evidence is compiled, including deep-dives of social/mass media, satellite data and grey literature. This information is used for a qualitative assessment to calculate an actual environmental harm score.
+
+Throughout its development our approach towards WISEN has considered the need to balance access to environmental information with the need to avoid contributing to further harm. Publishing near real-time information — such as satellite imagery revealing only partial infrastructure damage, precise coordinates of affected sites, or visual evidence of ongoing recovery efforts — risks providing belligerents with actionable intelligence that could motivate or guide follow-on attacks. As such, data is released with a time lag, in the case of Ukraine this has been six months. Ultimately it is our intention that Level 0 and Level 1 data will be publicly available, context allowing, while the more detailed Level 2 data will be available upon request to relevant stakeholders.
+
+Armed conflicts generate diverse forms of environmental harm, particularly when fighting is prolonged, intense, and geographically widespread. It manifests differently in urban, industrial, agricultural, and ecologically sensitive areas. Harms may be direct or indirect, temporary or permanent, localised or widespread, and often occur simultaneously in cumulative ways. Capturing their full scope therefore requires multiple, complementary data collection approaches.
+
+Ground-based observations provide the most detailed and practically useful environmental data, but in conflict settings they are often difficult or impossible to conduct. Even after fighting subsides, such assessments are costly, require specialist expertise, are hard to scale, and may remain unsafe due to unexploded ordnance. Remotely collected data is therefore essential during both active conflict and post-war recovery.
+
+Remote environmental data collection can be simplified into two approaches. The first approach is to track and investigate discrete incidents. The alternative approach we term ‘continuous class’ based, which is where objects or impacts are self-similar over a large geographic area. Typically data from satellites is assessed,3 often incorporating AI, to characterise phenomena like building damage, crop loss, deforestation, landscape fires, or cratering. A growing number of academic groups are producing such outputs for specific contexts, with systematic frameworks for urban and agricultural damage for all conflicts currently in the pipeline.
+
+Both approaches are important and complementary; for example a health researcher might need acute air pollution exposure (i.e. from incidents) but also the chronic exposures from longer term changes in the average (i.e. continuous classes). However, depending on the conflict context, one approach may be more suitable. For example, where the destruction has been near-total, as in Gaza, it is more appropriate to use the continuous classes approach. So too, in contexts like Tigray, where there was an information blackout and no social/mass media footage/reporting. WISEN attempts to cover both approaches — Level 0 data being an example of continuous classes — though is more focused on incidents.
+
+One future direction for WISEN as a knowledge platform would be a deeper integration of continuous class changes with incidents, together providing a comprehensive understanding of environmental risk and change in areas affected by conflicts.
+
+During the last decade we have seen a substantial and long overdue increase in interest in the environmental dimensions of armed conflicts, the reasons are various but sustaining this trend demands a change in how we track and respond to harm. While it is not the finished package, we believe that WISEN offers a model for how data collection, analysis and storage can be formalised, creating opportunities for communication, education and participation, while making a substantial contribution towards ensuring that war’s environmental costs are better understood.
+
+We are now seeking partners and donors with whom to collaborate on growing WISEN and helping it reach its potential. If you would like to join us on this journey, please contact us.
+
+More detail? Watch our WISEN launch webinar where CEOBS staff introduce the methodology, plus perspectives on assessment, advocacy and accountability from expert speakers Hassan Partow (UNEP), Margot Wallström (Co-Chair of Ukraine’s High-Level Working Group on the Environmental Consequences of the War), and Prof. Kevin Jon Heller (University of Copenhagen).
+
+We wish to thank all those who have contributed time and energy to WISEN, be that present or past CEOBS staff, students, and volunteers. We would also like to thank the many partners and collaborators who have shared data, knowledge and insights, as well as the wider OSINT community that does so much to document conflict damage.
+
+Numerous activities and projects have contributed towards WISEN’s development since 2022 and we are grateful to the following donors for their support during this period: the Government of Norway, the UN Environment Programme, the UN Development Programme, the Organization for Security and Co-operation in Europe, and the Joseph Rowntree Charitable Trust.
+
+We have a part complete WISEN-Sudan, for Khartoum and Al Gezira states. Despite the very different setting, and conflict dynamics, WISEN has been transferable. This gives us the confidence that the fundamental methodology is sound for different settings.
+
+For example, in the case of Ukraine, we have worked closely with Zoï Environment Network’s Ecodozor database.
+
+Though not exclusively – for example this would also include a pixel/area based assessment of time spent in, or in close proximity to, frontlines. Or, explosion locations based on seismic array data.
+
+What if we were able to systematically monitor environmental change across all conflicts, equally, and to a common methodology? How would that change our understanding of damage, and how we prioritise it? What are the benefits it could generate for environmental assessment and recovery, for public awareness and for accountability, and how could it increase the protection of people and ecosystems? We think these are questions worth asking. We don’t pretend to have all the answers but in developing our WISEN methodology — which we explain below — it’s become clear that a more comprehensive approach to global monitoring could be transformative.
+What if we were able to systematically monitor environmental change across all conflicts, equally, and to a common methodology? How would that change our understanding of damage, and how we prioritise it? What are the benefits it could generate for environmental assessment and recovery, for public awareness and for accountability, and how could it increase the protection of people and ecosystems?
+We think these are questions worth asking. We don’t pretend to have all the answers but in developing our WISEN methodology — which we explain below — it’s become clear that a more comprehensive approach to global monitoring could be transformative.
+Recent years have seen a welcome shift in how the environmental dimensions of armed conflicts are understood and viewed. Yet much of this work is fragmented and no centralised source exists that can be called upon for research, advocacy and justice. This limits our ability to protect and restore the environment for those who depend upon it.
+Here, we introduce what we believe can catalyse a step change in how incidents of environmental harm during armed conflicts can be remotely characterised and mapped: the Wartime IncidentS to ENvironment Database, or WISEN.
+WISEN documents and assesses near real-time and long-term environmental risk and harm following direct damage to environmentally hazardous objects from fighting. Currently it does so comprehensively for Ukraine, it has been tested for parts of Sudan,1 and has recently been deployed for the conflict in Iran and the Middle East. Our ambition is for WISEN to become a global database, covering all ongoing armed conflicts and populated by a distributed network of researchers.
+In the weeks after 24 , it quickly became apparent that the war in Ukraine was causing environmentally harmful incidents on a scale unprecedented in recent conflicts. There was a clear need for a way to document and assess this harm, and to ensure that the war’s environmental cost was understood.
+We were in a position to be able to remotely track and characterise this harm thanks to recent advances in earth observation, open satellite data, and open source techniques, together with our experience of fusing these methods in other conflict settings. Funding for our Ukraine monitoring activities has come from Norway, UN Environment Programme, UN Development Programme and the Organization for Security and Co-operation in Europe.
+WISEN — to become wise — is an appropriate verb. It’s an old word and in Middle English its meanings are also apt: to advise, counsel, teach, instruct, make apparent, or to illuminate a route.
+The WISEN framework we developed ensures the breadth and depth of environmentally-relevant incidents is captured, with a systematic and detailed characterisation of environmental harm. It has been designed to be flexible enough to:
+Overcome differences in conflict types and geographies;
+Interface and be compatible with existing conflict and/or environmental datasets;2
+Overcome concerns over human and data safety;
+Be future-proof and adaptable to change, as new tools and methods emerge, and as the nature of warfare changes.
+The data that we have collected and analysed has a wide range of uses and potential users, these include:
+Increase awareness and better understand the nature of the environmental consequences of armed conflicts.
+Informing assessment and remedial actions on the ground.
+Support recovery decision-making.
+Advocate for more protection for the environment.
+To contribute to accountability processes.
+Activation of academic research, especially in adjacent disciplines like health.
+Since WISEN-Ukraine has informed our public reports, media and advocacy work. Highlights include: an interactive map of case studies; nine thematic briefings; a 12-month assessment of the war; contributions to the High Level Working Group and Environmental Compact; legal investigations; and its use to inform ground measurements with mine action operators. We have also contributed data to international organisations and state agencies working on the environmental response to the conflict.
+During we collected Level-1 data for the conflict in Iran and the Middle East. The data formed the basis of our outreach and advocacy activities and was welcomed by journalists seeking to cover the war’s environmental dimensions: there was a real appetite for numbers and maps, important elements for storytelling. During this period our WISEN-informed data was used by around 160 media platforms globally, helping to raise the profile of the environment in the war’s narrative, an important requirement for visibility, which can contribute towards ensuring the attention and resources are there for response activities, as well as for informing norm development.
+WISEN provides other opportunities to boost public awareness and engagement. To coincide with the launch of WISEN we are also launching a Level 0 assessment tool for public participation on the Zooniverse citizen science platform. Integrating such citizen science approaches can further decentralise damage assessment and help increase public engagement with the environmental dimensions of conflicts.
+We strongly believe that documenting environmental incidents in conflicts worldwide would lead to a transformation in how conflict-linked environmental harm is understood and prioritised. What would be the impact if WISEN, or a system like it, were to become a central, go-to resource for understanding the environment in war, in a similar way to how ACLED/UCPD are for violence, or EM-DAT is for disasters?
+WISEN offers a framework — that can evolve with time — to be able to document and track all worldwide incidents, to understand the total toll of harm and how it varies between different contexts; this could also help reduce the significant disparities in attention between conflicts. This is CEOBS ‘ambition, and to realise it we are seeking partnerships and funding.
+We envisage that future iterations of WISEN will include:
+Transfer of responsibility for analysis and curation to researchers from affected areas, aided by capacity building and training.
+Integration of participatory citizen science approaches for simple damage assessments.
+Map-based user-interface for easy external access, quick analytics, but also damage/incident addition and assessment.
+Enhanced safeguards against AI generated content, maintaining the people-centred approach that is grounded in context and expertise, with only limited and responsible use of AI.
+Most simply, WISEN is a database of facilities where environmental harm has occurred. It is split into three ‘levels’ of data, with each subsequent layer adding more detail and analysis.
+The first component is Level 0: this is a simple flag if a facility is damaged, based only on satellite imagery. Where damage is confirmed a theoretical environmental harm score is calculated based on what and where the facility is; a combination of its risk profile and vulnerability.
+Level 0 data provides the breadth of damage and is particularly useful in those places where reporting is limited and few details of specific incidents emerge; this could be in intentional blackouts or rural areas. A facility is defined as somewhere an incident may occur, with an incident defined as:
+“An instance that has or may result in substantial pollution, environmental health impacts, a pause/stop of ecosystem/environmental services, contribute to climate or biodiversity breakdown, or a combination of any or all of the above.”
+There are two components to the incident data. Level 1 data is a long-list of all identifiable incidents. These undergo a robust verification and magnitude assessment based on triaging social media footage, testimony and satellite imagery. The magnitude is combined with the theoretical environmental harm score to provide an environmental risk score.
+High scoring incidents are progressed to Level 2, where a detailed dossier of evidence is compiled, including deep-dives of social/mass media, satellite data and grey literature. This information is used for a qualitative assessment to calculate an actual environmental harm score.
+Throughout its development our approach towards WISEN has considered the need to balance access to environmental information with the need to avoid contributing to further harm. Publishing near real-time information — such as satellite imagery revealing only partial infrastructure damage, precise coordinates of affected sites, or visual evidence of ongoing recovery efforts — risks providing belligerents with actionable intelligence that could motivate or guide follow-on attacks. As such, data is released with a time lag, in the case of Ukraine this has been six months. Ultimately it is our intention that Level 0 and Level 1 data will be publicly available, context allowing, while the more detailed Level 2 data will be available upon request to relevant stakeholders.
+Armed conflicts generate diverse forms of environmental harm, particularly when fighting is prolonged, intense, and geographically widespread. It manifests differently in urban, industrial, agricultural, and ecologically sensitive areas. Harms may be direct or indirect, temporary or permanent, localised or widespread, and often occur simultaneously in cumulative ways. Capturing their full scope therefore requires multiple, complementary data collection approaches.
+Ground-based observations provide the most detailed and practically useful environmental data, but in conflict settings they are often difficult or impossible to conduct. Even after fighting subsides, such assessments are costly, require specialist expertise, are hard to scale, and may remain unsafe due to unexploded ordnance. Remotely collected data is therefore essential during both active conflict and post-war recovery.
+Remote environmental data collection can be simplified into two approaches. The first approach is to track and investigate discrete incidents. The alternative approach we term ‘continuous class’ based, which is where objects or impacts are self-similar over a large geographic area. Typically data from satellites is assessed,3 often incorporating AI, to characterise phenomena like building damage, crop loss, deforestation, landscape fires, or cratering. A growing number of academic groups are producing such outputs for specific contexts, with systematic frameworks for urban and agricultural damage for all conflicts currently in the pipeline.
+Both approaches are important and complementary; for example a health researcher might need acute air pollution exposure (i.e. from incidents) but also the chronic exposures from longer term changes in the average (i.e. continuous classes). However, depending on the conflict context, one approach may be more suitable. For example, where the destruction has been near-total, as in Gaza, it is more appropriate to use the continuous classes approach. So too, in contexts like Tigray, where there was an information blackout and no social/mass media footage/reporting. WISEN attempts to cover both approaches — Level 0 data being an example of continuous classes — though is more focused on incidents.
+One future direction for WISEN as a knowledge platform would be a deeper integration of continuous class changes with incidents, together providing a comprehensive understanding of environmental risk and change in areas affected by conflicts.
+During the last decade we have seen a substantial and long overdue increase in interest in the environmental dimensions of armed conflicts, the reasons are various but sustaining this trend demands a change in how we track and respond to harm. While it is not the finished package, we believe that WISEN offers a model for how data collection, analysis and storage can be formalised, creating opportunities for communication, education and participation, while making a substantial contribution towards ensuring that war’s environmental costs are better understood.
+We are now seeking partners and donors with whom to collaborate on growing WISEN and helping it reach its potential. If you would like to join us on this journey, please contact us.
+More detail? Watch our WISEN launch webinar where CEOBS staff introduce the methodology, plus perspectives on assessment, advocacy and accountability from expert speakers Hassan Partow (UNEP), Margot Wallström (Co-Chair of Ukraine’s High-Level Working Group on the Environmental Consequences of the War), and Prof. Kevin Jon Heller (University of Copenhagen).
+We wish to thank all those who have contributed time and energy to WISEN, be that present or past CEOBS staff, students, and volunteers. We would also like to thank the many partners and collaborators who have shared data, knowledge and insights, as well as the wider OSINT community that does so much to document conflict damage.
+Numerous activities and projects have contributed towards WISEN’s development since 2022 and we are grateful to the following donors for their support during this period: the Government of Norway, the UN Environment Programme, the UN Development Programme, the Organization for Security and Co-operation in Europe, and the Joseph Rowntree Charitable Trust.
+We have a part complete WISEN-Sudan, for Khartoum and Al Gezira states. Despite the very different setting, and conflict dynamics, WISEN has been transferable. This gives us the confidence that the fundamental methodology is sound for different settings.
+For example, in the case of Ukraine, we have worked closely with Zoï Environment Network’s Ecodozor database.
+Though not exclusively – for example this would also include a pixel/area based assessment of time spent in, or in close proximity to, frontlines. Or, explosion locations based on seismic array data.

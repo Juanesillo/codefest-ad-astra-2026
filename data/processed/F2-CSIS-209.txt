@@ -1,0 +1,2798 @@
+A REPORT OF
+THE CSIS
+AEROSPACE
+SECURITY
+PROJECT
+S P A C E
+T H R E A T
+A S S E S S M E N T
+2 0 2 3
+Authors
+KARI A. BINGEN
+KAITLYN JOHNSON
+MAKENA YOUNG
+Foreword
+JOHN W. “JAY” RAYMOND
+
+S P A C E
+T H R E A T
+A S S E S S M E N T
+2 0 2 3
+Authors
+KARI A. BINGEN
+KAITLYN JOHNSON
+MAKENA YOUNG
+Foreword
+JOHN W. “JAY” RAYMOND
+A REPORT OF THE
+CSIS AEROSPACE SECURITY PROJECT
+
+ABOUT CSIS
+The Center for Strategic and International Studies (CSIS) is a bipartisan, non-
+profit policy research organization dedicated to advancing practical ideas to
+address the world’s greatest challenges.
+Thomas J. Pritzker was named chairman of the CSIS Board of Trustees in
+2015, succeeding former U.S. senator Sam Nunn (D-GA). Founded in 1962,
+CSIS is led by John J. Hamre, who has served as president and chief executive
+officer since 2000.
+CSIS’s purpose is to define the future of national security. We are guided by
+a distinct set of values—nonpartisanship, independent thought, innovative
+thinking, cross-disciplinary scholarship, integrity and professionalism, and
+talent development. CSIS’s values work in concert toward the goal of making
+real-world impact.
+CSIS scholars bring their policy expertise, judgment, and robust networks
+to their research, analysis, and recommendations. We organize conferences,
+publish, lecture, and make media appearances that aim to increase the knowl-
+edge, awareness, and salience of policy issues with relevant stakeholders
+and the interested public.
+CSIS has impact when our research helps to inform the decisionmaking of key
+policymakers and the thinking of key influencers. We work toward a vision
+of a safer and more prosperous world.
+CSIS does not take specific policy positions; accordingly, all views expressed
+herein should be understood to be solely those of the author(s).
+© 2023 by the Center for Strategic and International Studies.
+All rights reserved.
+ABOUT ASP
+The Aerospace Security Project (ASP) is the leading source of analysis and
+expertise on the policy and technology issues shaping the future of aerospace
+security. Part of the International Security Program at CSIS, ASP is led by
+Senior Fellow Kari A. Bingen. Learn more at aerospace.csis.org.
+ACKNOWLEDGMENTS
+The Aerospace Security Project would like to thank Slingshot Aerospace, Spire
+Global, and COMSPOC for their contribution of data and analysis. Finally, many
+thanks to Yash Bajaj, Patrick Fish, Jennifer Jun, Todd Harrison, Jeeah Lee, Phillip
+Meylan, Sarah Mineiro, Thomas G. Roberts, Katherine Stark, and William Taylor
+for their support in the research and publication process.
+This report is made possible by general support to CSIS. No direct sponsorship
+contributed to this report.
+Center for Strategic & International Studies
+1616 Rhode Island Avenue, NW
+Washington, DC 20036
+202-887-0200 | 
+II SPACE THREAT ASSESSMENT 2023
+
+CONTENTS
+1 FOREWORD
+2 INTRODUCTION
+3 TYPES OF COUNTERSPACE WEAPONS
+4 Kinetic Physical
+4 Non-kinetic Physical
+4 Electronic
+5 Cyber
+8 CHINA
+12 RUSSIA
+16 Featured Analysis: Russia’s War on Ukraine
+21 INDIA
+24 IRAN
+27 NORTH KOREA
+30 OTHERS
+30 Australia
+31 France
+31 Israel
+31 Japan
+32 South Korea
+32 United Kingdom
+32 Non-state Actors
+33 WHAT TO WATCH
+37 CONCLUSION
+38 ABOUT THE AUTHORS
+III
+
+FOREWORD
+S OME COULD ARGUE THAT TODAY’S STRATEGIC ENVIRONMENT
+is the most complex in the history of our nation—with China, our
+pacing challenge, and Russia, an acute threat, both challenging
+the world order that has been in place and has secured peace since
+the end of World War II.
+Space is central to this complexity. Not only does space underpin all instru-
+ments of our national power, but access to and freedom to maneuver in the
+domain are foundational to the United States’ status as a great power. This
+sixth edition of the Space Threat Assessment describes a domain undergo-
+ing a significant and rapid transformation. The number of objects in space
+continues to soar, the value of the global space economy is at an all-time
+high, and, unfortunately, the threat to the domain is real and concerning
+today. Over the past year and a half, there has been regular testing and use
+of reversible non-destructive capabilities as well as a destructive test that
+created a debris field, jeopardizing safe operations and indicating that the
+domain will continue to become more contested.
+Two significant threats face the United States with this rapid change in the
+domain. First, China and Russia are developing and integrating space capa-
+bilities that will afford them the same advantages the United States currently
+enjoy, placing U.S. forces at great risk. Second, they are developing a robust
+spectrum of offensive capabilities to deny the United States and its partners,
+including commercial space companies, access to the domain.
+This edition of the Space Threat Assessment includes a dedicated section on
+the Russia-Ukraine war. Commercial space capabilities are making a significant
+contribution to the fight and have provided Ukraine access to space that they
+do not have organically. Commercial space has served as a great equalizer,
+allowing Ukrainian forces to have the necessary intelligence, surveillance,
+and reconnaissance and command and control to better understand Russian
+force disposition, communicate and stay connected globally, and strike with
+precision. Therefore, it is not surprising that Russia has tried to deny access
+to these commercial capabilities largely through jamming and cyberattacks.
+As some have suggested, the Russia-Ukraine war is “the first commercial
+space war,” and it has highlighted areas where the use of commercial space
+capabilities has advanced ahead of policy, strategy, and concepts of opera-
+tions. This assessment is important to having a better understanding of the
+threats faced in, to, and from the domain and should be a valuable source of
+information to inform policymakers to be better prepared for future conflicts.
+While there are significant challenges, the space domain offers even more
+opportunities. The United States remains the world leader in space. U.S.
+allies, partners, and the commercial space sector provide great advantage.
+With strengthened leadership in the domain, the United States must continue
+to define safe and professional behavior in space to its advantage, seek in-
+creased transparency, strengthen our partnerships, and develop capabilities
+necessary to deter conflict—and if deterrence were to fail, to win.
+GENERAL JOHN W. “JAY” RAYMOND
+U.S. SPACE FORCE, RETIRED
+Former Chief of Space Operations
+1 SPACE THREAT ASSESSMENT 2023
+
+INTRODUCTION
+W ELCOME TO THE SIXTH EDITION of Space Threat Assessment
+by the Aerospace Security Project at the Center for Strategic
+and International Studies (CSIS). This resource for policymakers
+and the public leverages open-source information to assess
+key developments in foreign counterspace weapons. Drawing on six years of
+collected data and analyses, this series describes trends in the development,
+testing, and use of counterspace weapons and enables readers to develop a
+deeper understanding of threats to U.S. national security interests in space.
+The past year was dominated by the Russian invasion of Ukraine, where
+space capabilities, including commercial satellites, played a highly visible
+and compelling role in Ukraine’s resistance to the invasion. Communications
+and imagery satellites have been used to connect Ukrainian troops across
+the battlefield, track Russian military movements, and map humanitarian
+corridors. As space capabilities continue to demonstrate their utility, from
+peacetime to conflict, it should come as no surprise that adversaries seek to
+block their use. Thus, this year’s featured analysis provides an in-depth look
+at Russia’s battlefield employment of counterspace weapons.
+Russia, China, Iran, and others continue to pursue a wide range of space and
+counterspace activities, enabled by national policies, prioritized resources, and
+investments in supporting infrastructure. As General B. Chance Saltzman, the
+chief of space operations of the U.S. Space Force, noted in , “We
+are seeing a whole mix of weapons being produced by our strategic competi-
+tors.”1 Not only are these counterspace weapons in development and testing,
+but some have progressed to production and fielding in operational units.
+Such weapons could create disastrous effects for an array of national security,
+civil, and commercial users, especially if destructive weapons are employed
+that create orbital debris and render large swaths of popular orbits unusable.
+The impacts of counterspace weapons use are no longer limited to military users
+alone. Harm to commercial and international space assets will also reverberate
+across the expanding space economy. According to the Space Foundation, 90
+countries operate in space.2 The value of the global space economy was $469
+billion in 2021, with other analyses projecting it will increase to over $1.25 tril-
+lion in annual revenue by 2030.3 While over 5,400 satellites are in-orbit today,
+more than 24,500 satellites are anticipated to be launched in the next 10 years
+(2022–2031), over 70 percent of which will be commercial.4
+TOTAL SATELLITES IN SPACE This iteration of the Space Threat Assessment provides a framework that
+5,4655 describes different types of counterspace weapons and a highlight of the
+main countries being tracked—China, Russia, India, Iran, North Korea, and
+TOTAL LAUNCHES IN 2022 others. The country sections include an overview of military space organi-
+1826 zations, launch and satellite capabilities, and a brief review of counterspace
+developments. In addition, the report identifies key counterspace events in
+2022, analyzes them in more detail, and provides a more comprehensive
+TOTAL TRACKED ORBITAL DEBRIS
+list of all notable counterspace activities and developments over the past
+32,3007
+year (–). The conclusion includes an analysis of
+notable trends and expectations for the coming year.
+For more detail on past counterspace weapons tests, including historical tests
+by the United States and the Soviet Union, please review the prior Space Threat
+Assessments (editions 2018–2022) or visit the project’s interactive timeline at
+
+COUNTERSPACE WEAPONS
+TYPES OF
+COUNTERSPACE
+WEAPONS
+S PACE IS AN INCREASINGLY IMPORTANT ENABLER of economic and
+military power. The strategic importance of space has led some na-
+tions to build arsenals of counterspace weapons to disrupt, degrade,
+or destroy space systems and hold at risk the ability of others to
+use the space domain. However, the strategic importance of space has also
+spurred renewed efforts to deter or mitigate conflict and protect the domain
+for peaceful uses. For example, the U.S. Space Force’s capstone publication
+on spacepower notes that “military space forces should make every effort
+to promote responsible norms of behavior that perpetuate space as a safe
+and open environment in accordance with the Laws of Armed Conflict, the
+Outer Space Treaty, and international law, as well as U.S. Government and
+DoD policy.”8 Similarly, the 2022 North Atlantic Treaty Organization’s (NATO)
+Strategic Concept, adopted by NATO heads of state and government in , expresses the alliance’s commitment to upholding international law,
+Illustration A ballistic missile
+promoting responsible behavior in space, and boosting the resilience of space
+can be used as a kinetic physical
+capabilities. It further articulates that “secure use of and unfettered access
+counterspace weapon.
+to space” are key to effective deterrence and defense.9
+Counterspace weapons, particularly those that produce orbital debris, pose a
+serious risk to the space environment and the ability of all nations to use the
+space domain for prosperity and security. This chapter provides an overview
+of different types of counterspace weapons, drawing on previous CSIS work
+to taxonomize them. Counterspace weapons vary significantly in the types of
+effects they create, how they are deployed, their detectability, their ability to
+be attributed to a source, and the level of technology and resources needed
+for their development and fielding. This report categorizes counterpace
+weapons into four broad groups of capabilities: kinetic physical, non-kinetic
+physical, electronic, and cyber.
+3 SPACE THREAT ASSESSMENT 2023
+
+or ground systems without making physical have limited ability to know if the attack
+KINETIC PHYSICAL
+contact. Lasers can be used to temporarily was successful because it is not likely to
+dazzle or permanently blind the sensors on produce visible indicators.
+KINETIC PHYSICAL COUNTERSPACE weap- satellites or cause components to overheat.
+The use of a nuclear weapon in space would
+ons attempt to strike directly or detonate a High-powered microwave (HPM) weapons
+have large-scale, indiscriminate effects that
+warhead near a satellite or ground station. The can disrupt a satellite’s electronics or cause
+would be attributable and publicly visible. A
+three main forms of kinetic physical attack are permanent damage to electrical circuits and
+nuclear detonation in space would immedi-
+direct-ascent anti-satellite (ASAT) weapons, processors in a satellite. A nuclear device
+ately affect satellites within range of its EMP,
+co-orbital ASAT weapons, and ground station detonated in space can create a high-radi-
+and it would also create a high-radiation
+attacks. Direct-ascent ASAT weapons are ation environment and an electromagnetic
+environment that would accelerate the
+launched from Earth on a suborbital trajectory pulse (EMP) with indiscriminate effects on
+degradation of satellite components over
+to strike a satellite in orbit, while co-orbital satellites in affected orbits. Non-kinetic
+the long term for unshielded satellites in the
+ASAT weapons are first placed into orbit and attacks operate at the speed of light and, in
+affected orbital regime. The detonation of
+then later maneuvered into or near their in- some cases, can be less visible to third-party
+nuclear weapons in space is banned under
+tended target in orbit. These maneuvers are observers and more difficult to attribute.
+the Partial Test Ban Treaty of 1963, which
+commonly known as rendezvous and prox-
+Satellites can be targeted with lasers and has more than 100 signatories, though this
+imity operations (RPOs). Attacks on ground HPM weapons from ground- or ship-based does not include China or North Korea.10
+stations are targeted at the terrestrial sites
+sites, airborne platforms, or other satel-
+responsible for the command and control
+lites. A satellite lasing system requires high
+of satellites or the relay of satellite mission
+beam quality, adaptive optics (if being used ELECTRONIC
+data to users. Such a ground station attack
+through the atmosphere), and advanced
+has the benefit of affecting many satellites in
+pointing control to steer the laser beam
+ELECTRONIC COUNTERSPACE weapons
+a constellation (that communicate with the
+precisely—technology that is costly and
+target the electromagnetic spectrum through
+ground station) rather than requiring multiple
+requires a high degree of sophistication. A
+which space systems transmit and receive
+weapons to target individual satellites.
+laser can only be effective against a sensor
+data. Jamming devices interfere with com-
+Kinetic physical attacks tend to cause irre- on a satellite if it is within the field of view of
+munications to or from satellites by gen-
+versible damage to the systems affected and the sensor, making it possible to attribute
+erating noise in the same radio frequency
+demonstrate a strong show of force that would the attack to its approximate geographical
+likely be attributable and publicly visible. A origin. An HPM weapon can be used to
+successful kinetic physical attack in space will disrupt a satellite’s electronics, corrupt
+produce orbital debris, which can indiscrimi- data stored in memory, cause processors to
+nately affect other satellites in similar orbits. restart, and, at higher power levels, cause
+These types of attacks are one of the only permanent damage to electrical circuits
+counterspace actions that carry the potential and processors. HPM attacks can be more
+for the direct loss of human life if targeted difficult to attribute because the attack can
+at crewed ground stations or at satellites in come from a variety of angles, including from
+other satellites passing by in orbit. For both
+orbits where humans are present, such as
+laser and HPM weapons, the attacker may
+the International Space Station (ISS) in low
+Earth orbit (LEO). To date, no country has
+conducted a kinetic physical attack against
+another country’s satellite, but four coun-
+tries—the United States, Russia, China, and
+India—have successfully tested direct-ascent
+ASAT weapons against their own satellites.
+The Soviet Union also tested co-orbital kinetic
+ASAT weapons as early as the 1960s.
+NON-KINETIC
+PHYSICAL
+Illustration A laser is an
+NON-KINETIC PHYSICAL COUNTERSPACE example of a non-kinetic
+weapons have physical effects on satellites counterspace weapon.
+
+COUNTERSPACE WEAPONS
+(RF) band. An uplink jammer interferes with relatively easy to proliferate among state
+the signal going from Earth to a satellite, and non-state actors.
+such as the command and control uplink.
+Downlink jammers target the signal from
+a satellite as it propagates down to users CYBER
+on Earth. Spoofing is a form of electronic
+attack where the attacker tricks a receiver
+WHILE ELECTRONIC FORMS OF ATTACK
+into believing a fake signal, produced by
+attempt to interfere with the transmission
+the attacker, is the real signal it is trying to
+of RF signals, cyberattacks target the data Illustration
+receive. A spoofer can be used to inject false
+itself and the systems that use, transmit, Cyberattacks can be used to take control of a
+information into a data stream or, in extremis,
+and control the flow of data. Cyberattacks satellite and damage or destroy it.
+to issue false commands to a satellite to
+on satellites can be used to monitor data
+disrupt its operations. User terminals with
+traffic patterns, intercept data, or insert
+omnidirectional antennas, such as many
+false or corrupted data or commands in a
+GPS receivers and satellite phones, have a systemic effects if used against a system such
+system. These attacks can target ground
+wider field of view and thus are susceptible as GPS. Cyberattacks could have permanent
+stations, end-user equipment, or the sat-
+to downlink jamming and spoofing from a effects if, for example, an adversary seizes
+ellites themselves. While cyberattacks re-
+wider range of angles on the ground.11 control of a satellite through its command
+quire a high degree of understanding of
+and control system. An attacker could shut
+Electronic forms of attack can be difficult to the systems being targeted, they do not
+down all communications and permanently
+detect or distinguish from accidental inter- necessarily require significant resources to
+damage the satellite by issuing commands
+ference, making attribution and awareness conduct. The barrier to entry is relatively
+that cause it to expend propellant or damage
+more difficult. Both jamming and spoofing low, and cyberattacks can be contracted out
+its electronics and sensors. Accurate and
+are reversible forms of attack because com- to private groups or individuals. Even if a
+timely attribution of a cyberattack can be
+munications can return to normal once the state or non-state actor lacks internal cyber
+difficult because attackers can use a variety
+jamming signal is removed. Through a type of capabilities, it may still pose a cyber threat.
+of methods to conceal their identity, such
+spoofing called “meaconing,” even encrypt-
+A cyberattack on space systems can result in
+as using hijacked servers, when launching
+ed military P(Y) GPS signal can be spoofed. the loss of data or services being provided
+an attack.
+Meaconing does not require cracking the by a satellite, which could have widespread
+encryption because it merely rebroadcasts
+a time-delayed copy of the original signal
+without decrypting it or altering the data.12
+The technology needed to jam and spoof Illustration
+many types of satellite signals is commer- Uplink and downlink jamming are two forms
+cially available and inexpensive, making it of electronic counterspace attack.
+Receiver Truck-Mounted Jammer Receiver Receiver Truck-Mounted Jammer Receiver
+UPLINK JAMMER DOWNLINK JAMMER
+5 SPACE THREAT ASSESSMENT 2023
+
+Table 1
+TYPES OF COUNTERSPACE WEAPONS
+Kinetic Physical Non-kinetic Physical
+
+kcattA
+fo
+sepyT
+High Altitude High-
+Ground Direct-Ascent High- Laser Dazzling
+Co-orbital ASAT Nuclear Powered
+Station Attack ASAT Powered Laser or Blinding Detonation Microwave
+noitubirttA Variable Can be Clear attribution
+attribution, Launch site can attributed by Launch site can Limited of the laser’s Limited
+depending on be attributed tracking previous- be attributed attribution location at the attribution
+mode of attack ly known oribt time of attack
+ytilibisreveR Reversible or Reversible or
+Irreversible or re- irreversible; irreversible;
+Irreversible Irreversible versible depend- Irreversible Irreversible attacker may or attacker may or
+ing on capabilities may not be able may not be able
+to control to control
+ssenerawA May or May or
+Publicly known Only satellite Only satellite Only satellite
+may not be may not be
+depending on Publicly known operator will be operator will be operator will be
+publicly publicly
+trajectory aware aware aware
+known known
+egamaD
+rekcattA
+tnemssessA Limited Limited
+Near real-time Near real-time Near real-time Near real-time confirmation of confirmation of
+No confirmation
+confirmation of confirmation of confirmation of confirmation of success if satellite success if satellite
+of success
+success success success success begins to drift begins to drift
+uncontrolled uncontrolled
+egamaD
+laretalloC
+Station may
+Orbital debris Higher radiation Could leave Could leave target
+control multi- May or may not
+could affect levels in orbit target satellite satellite disabled
+ple satellites; produce orbital None
+other satellites in would persist for disabled and and uncontrol-
+potential for loss debris
+similar orbits months or years uncontrollable lable
+of life
+
+Electronic Cyber
+7 SPACE THREAT ASSESSMENT 2023
+kcattA
+fo
+sepyT
+Uplink Downlink Data Interccept Data Seizure
+Spoofing
+Jamming Jamming or Monitoring Corruption of Control
+noitubirttA
+Modest attribution Modest attribution Modest attribution Limited or Limited or Limited or
+depending on mode depending on mode depending on mode uncertain uncertain uncertain
+of attack of attack of attack attribution attribution attribution
+ytilibisreveR
+Irreversible or
+Reversible Reversible Reversible Reversible Reversible reversible, depending
+on mode of attack
+ssenerawA Satellite operator Satellite operator Satellite operator Satellite operator
+May or may not be May or may not be
+will be aware; may will be aware; may will be aware; may will be aware; may
+known to the known to the
+or may not be or may not be known or may not be known or may not be known
+public public
+known to the public to the public to the public to the public
+egamaD
+rekcattA
+tnemssessA
+Limited
+confirmation of Limited
+Near real-time Near real-time Near real-time
+No confirmation success if monitoring confirmation of
+confirmation of confirmation of confirmation of
+of success of the local RF success if effects
+success success success
+environment is are visible
+possible
+egamaD
+laretalloC
+Only dirupts the Only disrupts the
+Only corrupts the Could leave target
+signals targeted and signals targeted and
+specific RF signals None None satellite disabled
+possible adjacent possible adjacent
+targeted and uncontrollable
+frequencies frequencies
+csis aerospace security project research and analysis
+
+CHINA
+CHINA
+C HINA CONTINUES TO MAKE PROGRESS TOWARD ITS GOAL of
+becoming the world leader in space. Over the past year, China has
+continued to grow its space and counterspace assets, maintaining
+its status as the second-most-capable space nation after the United
+States. To enable these capabilities, China operates four spaceports and a
+family of Long March space launch vehicles (SLVs) that can deliver a wide
+range of satellites to different orbital altitudes. In 2022, China conducted 64
+space launches, including two space launch failures. The successful launches
+resulted in over 150 satellites successfully placed into orbit and the launch
+of one orbital and one suborbital spaceplane.13
+Civil, intelligence, and military space capabilities are a priority for China as
+it continues to invest in and plan for greater use and access to space in the
+coming decade. In , China completed the construction of the
+Tiangong space station, which is now operational.14 Beijing has released two
+white papers on space activities, in 2016 and 2021, which not only outline a
+vision for future space activities but also integrate space into other strategic
+global initiatives.
+8 SPACE THREAT ASSESSMENT 2023
+
+set in 2021.19 The vast majority of these missions were
+SPACE ORGANIZATION
+launched on the Long March SLV family of rockets. The
+Long March-2 (variants C, D, and F), -3B, -4C, -5, -5B,
+While China has separate organizations -6, -7, -8, and -11 rockets provide light-, medium-, and
+charged with managing its civil and military heavy-lift capability to LEO and geostationary orbit
+space activities, much of the technology for (GEO). Some are capable of launching from a sea-based
+both civil and military space capabilities is platform, but most launch from traditional ground-
+produced by the same state-owned enter- based launch pads. Newer Long March vehicles are
+prises. The line between commercial and being developed, including the Long March-9.20
+governmental endeavors is often blurred
+These SLVs are typically launched from one of four
+by Beijing’s military-civilian fusion policy,
+sites in China. The Jiuquan Satellite Launch Center,
+which encourages such enterprises to ac-
+located in Inner Mongolia, was founded in 1958 and
+quire and divert cutting-edge technologies,
+is the country’s oldest space launch facility. This is the
+including space technology, to achieve both
+most popular launch site and has been the site of the
+economic and military dominance.15
+majority of the country’s space tests and launches,
+The China National Space Administration including the launch of China’s first satellite in 1970,
+(CNSA) leads all civil space missions. The and the first international payload launched from the
+CNSA falls within the purview of the State country in 1992.21 The Taiyuan Satellite Launch Center,
+Council’s State Administration for Science, located in Wuzhai, Shanxi, is another popular launch
+Technology, and Industry for National De- site with a history of space and ballistic missile launches
+fense. China’s space program primarily dating back to 1968. The Taiyuan Satellite Launch Center
+contracts through the China Aerospace Sci- also has test and assembly capabilities on campus and
+ence and Technology Corporation, a state- launches vehicles too large for the Jiuquan Satellite
+owned enterprise with many sectors that Launch Center. The other two Chinese launch sites were
+researches and develops SLVs, spacecraft, both built to support human, interplanetary, and lunar
+missile systems (including intercontinental missions. Located in the Sichuan region, the Xichang
+ballistic missiles), and supporting ground Satellite Launch Center (Songlin) was finalized in 1984,
+equipment.16 Finally, the China Aerospace but because of its close proximity to populated areas
+Science and Industry Corporation is another has now become a backup launch site to China’s most
+state-owned enterprise which specializes recent addition, the Wenchang Satellite Launch Center.22
+in space technologies.17 The coastal Wenchang Satellite Launch Center, located
+on the island province of Hainan in the South China
+The military organization for space capa-
+Sea, has hosted 16 launches since opening in 2014.
+bilities, the Strategic Support Force (SSF),
+Officials have announced plans to further develop
+sits alongside other information-centric
+Wenchang as a commercial spaceport with satellite
+domains, such as cyber, within China’s
+assembly, testing, and data centers on-site. In addition
+People’s Liberation Army (PLA). Founded
+to these launch sites, China is capable of launching
+in 2015, the SSF manages space warfare,
+from mobile platforms in the Yellow Sea.23
+space launch, and the acquisition and oper-
+ation of satellites. Within the SSF, the Space There has been a shift in the last decade for the Chinese
+Systems Department and Network Systems commercial industry. In 2014, the Chinese government
+Department divide responsibilities and act lifted a restrictive policy prohibiting the creation of
+as co-equal semi-independent branches, commercial space launch companies and commercial
+with the former managing space and coun- launch technology, which has resulted in private and
+terspace capabilities and the latter leading state investment into the commercial market.24 Today,
+the cyber, electronic, and psychological the government may look to the commercial sector as
+warfare mission areas.18 an opportunity to replace China’s reliance on interna-
+tional companies or suppliers.25 Similar to trends in
+other dominant space-faring nations, many commercial
+SPACE LAUNCH companies are focusing on launch capabilities. The first
+commercial space launch from China is expected in the
+CAPABILITIES
+first months of 2023 from Beijing Tianbing Technology
+Co., Ltd., also known as Space Pioneer, which plans
+China broke its launch record in 2022, sur- to launch a Tianlong-2 medium-lift vehicle from the
+passing its previous record of 55 launches Jiuquan Satellite Launch Center.26
+
+CHINA
+China’s Spaceplane
+Program
+Spaceplane programs are often extreme-
+ly secretive, and the Chinese program is
+no exception. Spaceplanes launch from
+traditional SLVs, spend their operational
+mission continuously orbiting the Earth,
+and re-enter the atmosphere and land like a
+traditional airplane. The U.S. Space Shuttle
+is a famous larger cousin of the spaceplanes
+in operation today.
+In , China launched two different
+spaceplanes, one orbital and one suborbital,
+from the Jiuquan Satellite Launch Center.
+Image of Chinese spaceplane and object
+As is typical with many emerging Chinese SATELLITE
+it released in orbit, captured in November
+space technologies, few details have surfaced
+2022. The spaceplane can be seen circled in CAPABILITIES
+about either vehicle.27
+blue, and the object is circled in orange.
+The first test of a Chinese spaceplane was in
+slingshot aerospace China maintains an extensive suite of sat-
+ and was launched by a Long
+ellite capabilities, including advanced po-
+March 2F. That spaceplane traveled in LEO
+sitioning, navigation, and timing (PNT);
+for two days, released an object capable of
+satellite communications; intelligence, sur-
+broadcasting transmissions, and concluded
+March 2D rocket.34 A statement from the veillance, and reconnaissance (ISR); missile
+its test flight by landing in northwest China.28
+China Aerospace Science and Technology warning; and space situational awareness.
+The second test of this vehicle launched on
+Corporation confirmed that this launch ve- According to a 2022 U.S. Defense Intelligence
+another Long March 2F on August 4, 2022.29
+hicle was re-used, making it the country’s Agency report, China doubled its number of
+After a successful launch and almost two
+first successful demonstration of a reusable satellites in orbit between 2019 and 2021,
+months in LEO, the spaceplane raised its
+space launch capability.35 Reporting from from 250 to 499, and surpassed all but the
+orbit on October 23 before releasing an ob-
+China indicates a large amount of funding to United States in the number of space start-
+ject.30 Although it is not clear from publicly
+be allocated to a suborbital transport project ups receiving funding, drawing 16 percent of
+available data when exactly the spaceplane
+capable of carrying passengers.36 Though total global investment in these ventures.38
+released its object, the U.S. Space Force
+the suborbital spaceplane was confirmed
+space tracking database recognized the Notable capabilities include the Beidou
+to have landed, reports have not confirmed
+object on October 31, 2022.31 There have constellation, made of 35 PNT satellites,
+the duration or altitude of its flight. China
+been few details released since, and a Google which acts as China’s alternative to GPS.
+is also developing a similar launching proj-
+translation of reporting from state media Satellite capabilities such as Beidou are
+ect, called the Tengyun project, which will
+has only indicated that the spaceplane will increasingly used as tools for the Digital
+incorporate a horizontal takeoff and landing
+remain in orbit for “a period of time.”32 As Silk Road and Belt and Road Initiatives.
+capability to increase the ease and speed of
+of March 16, 2023, the orbital spaceplane is space launches.37 Similarly, China has released plans for a
+still believed to be in LEO. Available images 13,000-satellite constellation in LEO for
+There are no indications that a spaceplane
+of the Chinese spaceplane show that it bears broadband communications purposes. This
+capability would act as a counterspace weap-
+a resemblance to the United States’ X-37B would be the country’s answer to SpaceX’s
+on, but because of the apparent capacity
+spaceplane, which completed a sixth mis- Starlink network and would aim to serve
+to release objects while in orbit, this could
+sion in , after spending 908 customers across China and underdevel-
+progress to a co-orbital ASAT capability.
+days in orbit, and shows a Chinese interest oped internet markets across the globe.39 In
+in matching U.S. capabilities.33 2019, China introduced the Belt and Road
+China launched its suborbital spaceplane for Space Information Corridor to build out
+a second time on August 26, 2022, following Chinese space applications and services
+an initial test in on a Long in other nations. Just two years later, in its
+10 SPACE THREAT ASSESSMENT 2023
+
+2021 space white paper, Beijing commended a solid foundation for potential cyber
+Rendezvous and
+the successes of the corridor, highlighting counterspace capabilities.45
+expanding satellite research and develop- Proximity Operations
+China also maintains significant space sur-
+ment infrastructure in Egypt, Pakistan, and
+veillance capabilities, which are required to
+Nigeria as examples.40 Chinese commercial China has a long history of satellites capable
+effectively target and employ their counter-
+companies continue to develop capabilities of performing on-orbit RPOs, commonly in
+space weapons. The country has maintained
+as well; in 2021, space-mining start-up Ori- GEO. As reported in last year’s assessment,
+a fleet of space-tracking ships for years,
+the Shijian 21 (SJ-21) was launched in Oc-
+gin Space launched a space debris cleanup
+which set sail for months-long space-track-
+prototype into LEO.41 The company claims tober 2021 as an experimental space debris
+ing and monitoring missions. The ships are
+mitigation satellite, which separated from
+this capability will be able to remove space
+reportedly capable of monitoring missions
+its upper stage apogee kick motor (AKM).
+debris, potentially with a net, though there including Beidou satellites and the Chang’e
+SJ-21 performed RPO maneuvers around
+are no reports of the satellite’s on-orbit tests lunar missions.46 In , China
+the AKM before moving to rendezvous with a
+or RPO activities.42 unveiled the SLC-18 radar, which is report-
+defunct Beidou satellite, Compass G2. AKMs
+edly designed to “search, detect, and track
+are additional power sources that help place
+objects such as ballistic missiles and LEO
+a satellite into a specific orbit. Since GEO is
+COUNTERSPACE satellites.”47 This may be an updated design
+a highly valued orbit, most AKMs in GEO are
+to the previous JY-26 “Skywatch” long-range
+ASSESSMENT released in a manner such that they separate
+air surveillance system debuted in 2014.48
+and put significant distance between the
+OVERVIEW Global space surveillance capabilities are an
+payload and the AKM, so as not to interfere
+additional component of the country’s Belt
+with satellite operations in GEO. Previous
+and Road Initiative. China has had success
+As China continues to develop and deploy reporting suggests that SJ-21 performed
+building space surveillance infrastructure,
+a robust arsenal of space and counterspace several RPOs around Compass G2 before
+particularly ground stations, in countries
+capabilities, U.S. officials continue to view docking and moving the defunct satellite
+around the world, including as far away
+the country as a significant counterspace into a GEO graveyard orbit, hundreds of
+as South America.49
+threat. China maintains a substantial kinet- kilometers above the traditional GEO belt.50
+ic ASAT capability, most notably demon- Updated information showcases that SJ-21
+strated by a debris-creating 2007 test, as took Compass G2 significantly higher than
+well as numerous subsequent non-inter- a typical graveyard orbit, which is highly
+cept tests in the years since. Co-orbital unusual for a debris removal mission.51
+technology demonstrations prove China’s
+Two additional Chinese rendezvous tech-
+ability to rendezvous with other satellites
+nology research satellites, SJ-12-01 and -02
+in GEO. While these are not counterspace
+were launched into GEO in early 2022. Soon
+weapons tests, they demonstrate capability
+after, the satellites engaged with a U.S. Geo-
+that is necessary for a co-orbital counter-
+synchronous Space Situational Awareness
+space attack. Non-kinetic counterspace
+Program space surveillance satellite in a “cat-
+weapons, such as high-powered lasers
+and-mouse game” spanning several days.52
+or microwaves, remain largely classified
+Each time the U.S. satellite would approach
+or are not publicly known to have been
+either SJ-12 satellite, the Chinese satellites
+CHINA
+tested. However, in a 2021 threat report,
+would quickly maneuver away. These activ-
+the U.S. Office of the Director of Nation-
+ities have been corroborated by commercial
+DOUBLED ITS
+al Intelligence indicated that China has
+company COMSPOC and highlight the RPO
+ground-based lasers capable of blinding or NUMBER OF capabilities China has successfully developed
+damaging optical sensors on low-altitude and maintained in orbit.53
+satellites.43 Reporting from 2022 indicated SATELLITES
+China’s first successful orbital launch of
+that Chinese universities are also working
+2023 was on January 6. Shijian 23 (SJ-23)
+on small laser devices capable of being IN ORBIT
+launched on a Long March 7 from the Wen-
+mounted on a satellite, though this is not a
+chang Satellite Launching Center.54 SJ-23
+current capability.44 China’s jamming and BETWEEN 2019
+reached its GEO orbit on January 15 and
+spoofing electronic warfare capabilities
+AND 2021, one day later a second object appeared to
+have been verified in use against space
+be tracked—another suspected AKM.55
+and non-space signals alike. Few Chinese
+FROM 250 TO
+cyberattacks on space systems have been
+recorded in the last five years, but China’s
+499.
+cyber capabilities in other domains form
+
+RUSSIA
+RUSSIA
+A S ONE OF THE THREE DOMINANT NATIONAL SPACE ACTORS,
+Russia retains substantial space capabilities and forces, many
+dating back to the Soviet Union. However, Moscow finds itself at
+an inflection point. Over the past year, Russia has continued to
+display less advanced space and counterspace capabilities than originally
+anticipated. Advanced counterspace weapons that were promised, such as
+the Peresvet and Sokol-Eshelon ground-based lasers, are nowhere to be seen
+on the battlefield despite Russian claims of their success.56 Furthermore,
+reports have surfaced that the Russian space industrial base is suffering from
+sanctions, an aging population, corruption, and bloat.57
+Nevertheless, in 2022, Russia used space capabilities and counterspace
+weapons more than ever before. Widespread reports of jamming throughout
+Eastern Europe have been attributed to Russia, as have several distinct attacks
+on commercial space architectures, such as Viasat and SpaceX’s Starlink
+system.58 Moreover, Moscow continues to play a “cat-and-mouse” game in
+orbit, using its satellites to shadow other nations’ satellites and creating
+confusion and concern about the intent of these actions.59
+12 SPACE THREAT ASSESSMENT 2023
+
+Russia successfully launched 22 times in
+SPACE ORGANIZATION
+2022.63 This pace is slightly behind 2021
+and pre-pandemic years. Notably, Russia
+MOSCOW
+Military and civil space organizations remain mostly lost significant international launch cus-
+separate in Russia, with the Russian Aerospace Forces FINDS tomers after its invasion of Ukraine in early
+(VKS) leading military efforts and Roscosmos leading 2022. For example, just before a scheduled
+those on the civil side. Within the VKS, military space ITSELF launch in early 2022, Roscosmos demanded
+and counterspace capabilities fall within the Russian that OneWeb not use any of its satellites to
+Space Forces, established in 2015. The Russian Space AT AN support military activities. After receiving
+Forces’ mission includes space situational awareness, no such reassurances, Roscosmos took a
+INFLECTION
+missile warning, space launch, satellite operations, Soyuz launch vehicle containing 36 OneWeb
+and counterspace operations.60 Roscosmos leads on satellites off the launch pad on March 4,
+POINT.
+human spaceflight, the GLONASS PNT system, and 2022.64 The 36 satellites remain in storage in
+international space partnerships. Russia. Due to the seizure of their satellites
+and the invasion of Ukraine, OneWeb can-
+celed all future launches through Russia.65
+SPACE LAUNCH After a partial failure of Russia’s heavy-
+launch Angara 5 in , Russia’s
+CAPABILITIES
+lighter launch vehicle, the Angara 1.2, suc-
+New Direction
+cessfully launched twice in 2022, carrying
+Space launch capabilities are a cornerstone for Rus- two undisclosed military satellites into LEO.66
+for Roscosmos
+sia’s military and civilian space programs. Providing
+However, both satellites de-orbited and
+space launch via the Soyuz rocket—which has been
+Of note, in , Dimitry burned up in the Earth’s atmosphere within
+in operation for over 50 years—has brought in signif-
+Rogozin was replaced by Yuri two months.67 Angara 1.2 is expected to
+icant revenue for Russia over the years through the
+Borisov, a former deputy defense conduct an additional launch in late 2023.68
+sale of payload space or seats for astronauts. In fact,
+minister, as the head of Roscos-
+to maintain U.S. presence on the ISS between the Russia maintains three main launch sites:
+mos. This leadership change was
+Baikonur Cosmodrome in Kazakhstan, Ple-
+2011 decommissioning of the U.S. Space Shuttle and
+possibly a demotion for both
+setsk Cosmodrome in the northwest of the
+the 2020 launch of SpaceX’s Dragon capsule to the men: Rogozin for his erratic Twit-
+country, and the Vostochny Cosmodrome in
+ISS with two U.S. astronauts, Moscow carried 71 U.S. ter posts and bluster surrounding
+the east. Baikonur is typically used for cos-
+astronauts to the station at a cost of approximately Russia’s decoupling from the ISS,
+monaut launches to the ISS, while Plesetsk
+$56 million per seat. In total, these launches cost the and Borisov for his poor military
+is used for many military space launches,
+National Aeronautics and Space Administration (NASA) leadership in Russia’s war on
+including a direct-ascent
+approximately $4 billion.61 Ukraine.62
+ASAT test. President Vladimir Putin visited
+the Vostochny Cosmodrome in 
+to celebrate Cosmonautics Day, a holiday
+commemorating Yuri Gargarin’s successful
+NUMBER OF LAUNCHES
+mission as the first human in space.69 Putin
+120 was accompanied by Belarusian president
+Alexander Lukashenko for bilateral meetings
+
+and a tour of the site.70 Once fully operation-
+al, Vostochny is expected to host 45 percent
+
+of all Russian launches, shifting significant
+60 work from Baikonur to the new domestic
+launch site.71 The 2023 Angara 1.2 launch
+40 is planned for Vostochny Cosmodrome.72
+
+0 SATELLITE
+1957 1963 1969 1975 1981 1987 1993 1999 2005 2011 2017 2022
+CAPABILITIES
+Figure 1 Soviet Union and Russian Space Launches, 1957–2022
+“orbital launches of 2023,” gunter’s space page, n.d., Russia maintains a fleet of highly capable
+ satellites providing support to a variety of
+
+RUSSIA
+civil and military missions, including human spaceflight, Nudol (PL-19) missile interceptor. Russia
+Cosmos 2558’s
+deep space exploration, missile warning, communica- has tested the Nudol system almost yearly
+tions, command and control, ISR, and weather. While since 2014, but this was the first intercept Early Mission
+many of these capabilities were developed in the 1990s on orbit that created space debris. Of the
+or early 2000s, some are being revitalized. A national 1,783 pieces of orbital debris tracked from In early , it was
+PNT system called GLONASS has been operational since the test, only 661 were still in orbit as of reported that Russian satellite
+1993 and provides navigation capabilities to the Russian . However, the remaining Cosmos 2558 performed a close
+military and civilians, much like the United States’ own pieces are at a higher altitude, which mean approach with USA 326, a U.S.
+GPS. Updates to GLONASS are ongoing, and three new the debris will remain in orbit longer, until National Reconnaissance Office
+GLONASS satellites were launched in 2022.73 Several ISR around 2033.78 Some of this debris is in a (NRO) satellite, in LEO. Cosmos
+and communications satellites were also launched in similar orbit to the ISS, which had to move 2558 was likely close enough to
+2022 to complement or restore existing constellations.74 three times in 2022 to avoid the debris.79 image or collect signals intelli-
+gence from USA 326, but current
+Russia’s Federal Space Program 2016-2025, a policy In , a modified Russian MiG-
+reporting suggests it did not in-
+and budgetary plan for its space projects, set ambitious 31 fighter jet was photographed carrying an
+terfere with, deny, or degrade
+goals, including increased bandwidth for communica- unidentified missile that was reportedly a
+operations of the NRO satellite.
+tions satellites, additional remote sensing satellites, “mock-up” of an air-launched ASAT weapon.80
+With the speed at which satellites
+upgrades to the Russian segment of the ISS, and the Reports now suggest that this missile system
+travel in LEO, the flyby of Cosmos
+completion of the Vostochny Cosmodrome.75 However, is the Burevestnik.81 Little to no details are
+2558 would have happened rela-
+since enacting this policy, Moscow’s space budgets have confirmed about the ASAT capability, but
+tively quickly and possibly with-
+continued to shrink.76 Sanctions enacted after the 2014 the capability is not new.82
+in a couple of hours.84 General
+invasion of Crimea have significantly hampered the
+Co-orbital weapons are hard to identify James H. Dickinson, commander
+Russian space industry. Furthermore, after Russia’s 2022
+and track in orbit. However, unusual or of U.S. Space Command, spoke
+invasion of Ukraine, additional sanctions were imposed
+threatening behavior can provide insight about this dangerously close
+on the aerospace industry by the United States and its
+into capabilities and intent. Russia has a approach to NBC News on August
+allies, and joint projects were suspended by Russia’s
+long history of unusual and threatening 9, 2022.85 A unique aspect of this
+international partners, such as the ExoMars rover mis-
+behavior in both LEO and GEO and con- mission was how early it occurred
+sion with the European Space Agency.77 With shrinking
+ducted similar activities in 2022. in the satellite’s lifetime. Cosmos
+budgets, expanding sanctions, and continued economic
+Luch, Russia’s well-known GEO inspector 2558 was launched into space on
+stagnation, Russia has focused its efforts on streamlin-
+satellite, maneuvered several times in 2022 August 1, 2022, and the close ap-
+ing current space capabilities, specifically revitalizing
+to closely approach and loiter near three proach happened only three days
+Soviet-era programs and investing in dual-use space
+different Intelsat communications satel- later, on August 4.86 Following the
+technologies—those with both military and civil uses.
+lites. For more information on Luch and its approach, Cosmos 2558 adjusted
+This strategy is a clear response to Russia’s burgeoning
+activities during Russia’s war on Ukraine, its position in early September
+challenges in its national space enterprise. Many of these
+see . 2022 to stay within the same
+dual-use capabilities are discussed in the following
+orbital plane as USA 326.87
+section on Russian counterspace threats.
+Non-kinetic Physical
+It is possible that Russia has developed
+a new ground-based ASAT laser system,
+COUNTERSPACE
+dubbed Kalina. Part of Russia’s Krona space
+ASSESSMENT OVERVIEW
+surveillance station located in southwest
+Russia near the Black Sea, Kalina may be
+Russia has a proven, well-rounded suite of counter- capable of dazzling or blinding satellites.
+space weapons. Many of this year’s updates to Russia’s It is unclear if this system is operational or
+counterspace capabilities are found in the “Featured capable of counterspace attacks, but it is a
+Analysis” section on . notable development for experts to monitor
+as progress on the facilities continue.83
+Kinetic Physical
+Electronic
+In , Russia successfully tested a di-
+rect-ascent ASAT in LEO. The test partially destroyed Available open-source reporting indicates
+a defunct Soviet-era satellite, Cosmos 1408, via a that GPS jamming is occurring around Mos-
+14 SPACE THREAT ASSESSMENT 2023
+
+cow, and observers speculate that it is to protect the
+Possible SAR Jamming
+capital city from being targeted by Ukrainian drones.88
+Russia has been installing jammers capable of denying
+In June and , a defense blog report-
+GPS on domestic infrastructure, such as cell towers.89
+ed on a potential electronic warfare attack
+The 2020 edition of this report highlighted how mobile
+on the European Space Agency’s Sentinel-1B
+GPS jamming vehicles accompany President Putin to
+synthetic aperture radar (SAR) imagery sat-
+ensure the leader’s personal safety and how GPS jam-
+ellite. As of , this attack remains
+ming may be used near the Kremlin.90 More information
+unconfirmed, but it is suspected that Russian
+on how jamming has been used in Russia’s invasion
+forces were able to affect the European SAR
+of Ukraine can be found on .
+satellite as it imaged Russian territory near
+the Sea of Azov and the Black Sea. After this
+Cyber
+report, the findings were highly questioned
+Russia has demonstrated significant cyber capabilities, on Twitter, leaving it unclear if the satellite
+as showcased with its Viasat hack. For itself experienced SAR jamming or radar
+more on this attack, please see “Featured Analysis” interference in the region.93 However, Mos-
+on . Recent reports have emerged on another cow is reported to possess SAR-jamming
+successful cyber intrusion against a U.S. commercial capability, specifically its Krasukha-2/-4
+satellite communications provider. In , mobile electronic warfare systems, which
+an analyst from the Cybersecurity and Infrastructure can jam both airborne and space-based ra-
+Security Agency (CISA) within the U.S. Department of dar systems.94 Possibly unrelated but worth
+Homeland Security stated at a conference that the Rus- mentioning is that Sentinel-1B suffered an
+sian hacking group Fancy Bear successfully infiltrated anomaly in that affected
+a satellite communications network. The intruders the satellite’s SAR antenna power system,
+were supposedly in the network for months before leaving the satellite unable to collect SAR
+detection.91 Fancy Bear is a Russian state-sponsored data. The European Space Agency declared
+advanced persistent threat group tracked by the U.S. “the capability of Sentinel-1B to support the
+government and confirmed to be part of the Russian mission is therefore considered lost,” and
+General Staff Main Intelligence Directorate’s 85th Main surmised that the probable cause of failure
+Special Service Center.92 was the soldering processed used to repair a
+ceramic capacitor during the assembly and
+manufacturing of the satellite.95
+
+RUSSIA
+FEATURED ANALYSIS
+RUSSIA’S WAR
+ON UKRAINE
+T HE MOST SIGNIFICANT SPACE-RELATED DEVELOPMENTS IN 2022
+center on Russia and its war on Ukraine. This edition of the Space
+Threat Assessment takes an in-depth look at Russian counterspace
+activities in this context. There has been an unparalleled level of
+transparency on the battlefield in Ukraine: sensitive intelligence was declas-
+sified to reveal Moscow’s plans and intentions, imagery showed the massing
+of Russian forces, and social media posts conveyed the war’s horrors up close.
+Space capabilities are aiding in this transparency and making an impactful
+contribution to this fight. Communications satellites are empowering Ukrainian
+forces and connecting the Ukrainian people with the outside world. Imagery
+satellites, some able to penetrate clouds and collect pictures at night, are
+watching the movement of Russian forces, mapping humanitarian evacuation
+routes, and collecting evidence of war crimes. Other satellites can detect and
+locate the sources of GPS interference, which is causing Ukrainian unmanned
+aerial vehicles (UAVs) to alter course. Some observers have described this
+war as the “first commercial space war” due to the prominence of Western
+space industry capabilities enabling Ukraine’s resistance.96
+However, as with any advantage on the battlefield, adversaries quickly look
+for ways to erode that edge, and the same is true for space. This featured
+analysis details Russian employment of electronic warfare and cyberattacks
+against space systems, uncertainty on Russian use of laser weapons, and
+unusual behavior by a Russian inspector satellite in GEO. While the space
+lessons learned in Ukraine are still to be written, there may be insights to
+glean on Moscow’s space strategy and doctrine, and lessons for the United
+States to apply to threats in the Indo-Pacific.
+16 SPACE THREAT ASSESSMENT 2023
+
+MARCH 1, 2021
+Kinetic Physical Jamming
+Non-kinetic Physical Russian GPS jamming affects OSCE UAV in flight monitoring the
+Electronic Russia-Ukraine border.
+Cyber
+Other OCTOBER 4, 2021
+Co-orbital
+Russian inspector satellite Luch maneuvers and lingers near Intelsat
+33e for over 100 days.
+NOVEMBER 15, 2021
+Direct-Ascent
+Russia conducts a direct-ascent ASAT test in LEO and destroys a
+defunct Soviet satellite.
+JANUARY 23, 2022
+Co-orbital
+Luch maneuvers and lingers near Intelsat 39 for over 170 days.
+FEBRUARY 24, 2022
+Cyber
+Russia successfully conducts a cyberattack against Viasat ground stations,
+cutting off satellite communications for the Ukrainian government.
+MARCH 9, 2022
+Jamming
+Finnair reports several occurrences of GPS jamming when its
+commercial airliners near Kaliningrad.
+MARCH 25, 2022
+Jamming
+Starlink engineers successfully resist Russian satellite communications
+jamming attempts by updating the system’s software.
+SEPTEMBER 1, 2022
+Co-orbital
+Luch maneuvers and lingers near Intelsat 37 for about 145 days.
+OCTOBER 27, 2022
+Diplomatic
+For a complete timeline of
+Konstaintin Vorontsov, deputy director of Russian Foreign Ministry’s
+counterspace activities from
+department of nonproliferation and arms, warns that “quasi-civilian
+1959 to 2022, visit aerospace.
+infrastructure may become a legitimate target for retaliation.”
+csis.org/counterspacetimeline/.
+
+RUSSIA
+Russia’s attacks against space capabilities used by Ukraine Following the successful cyberattack on Viasat, the
+are an example of how counterspace weapons can and Ukrainian government sought help from Elon Musk and
+will likely be used prior to and during future conflict. SpaceX to help the country restore connectivity through
+commercial LEO broadband. Only four days after the
+initial invasion, thousands of Starlink terminals were
+JAMMING AND successfully delivered to Ukraine and reconnected the
+Ukrainian government and civilians to the internet.104
+CYBERATTACKS
+Russia attempted to jam SpaceX’s Starlink ground
+terminals to break Ukrainian communications once
+Months before the invasion, the Organization for Secu-
+again. However, SpaceX was able to quickly counter the
+rity and Cooperation in Europe (OSCE) was monitoring
+attack, and services have not been seriously disrupted
+the Ukraine-Russia border using UAVs to perform over-
+since this first attempt in . According to U.S.
+flight missions. The fleet of UAVs operated by the OSCE
+Department of Defense leadership, Starlink was able
+uses the unprotected civilian GPS signal to aid in their
+to combat jamming by fixing lines of code, making
+navigation.97 Throughout March and , over
+the Russian attack ineffective.105 Starlink continues
+60 percent of the OSCE’s UAV flights encountered GPS
+to face attempted jamming by Russian systems, but
+signal interference, including in areas near the OSCE
+“their success has been limited.”106
+base (approximately 25 kilometers from the contact
+line).98 These events were corroborated through RF signal Additional jamming has been observed throughout
+sensing from a commercial space company which con- the conflict and in various locations. In ,
+firmed detection of GPS interference in the areas where the European Union Aviation Safety Agency (EASA)
+OSCE UAVs were attempting to carry out the monitoring released the following:
+mission.99 The day before the invasion, on February 23,
+In the current context of the Russian invasion of
+2022, Ukrainian government sources stated that a long-
+Ukraine, the issue of Global Navigation Satellite
+range UAV experienced significant GPS interference,
+which caused a temporary loss of control of the aircraft.
+Open-source defense analysts from Janes assess that
+the long-range UAV was a Turkish Bayraktar (TB-2) drone
+operated by Ukraine and that the counter-UAV electronic
+warfare system was the Russian Krasukha-4.100 Russian
+employment of GPS-jamming devices has continued
+throughout the conflict.
+Beyond electronic warfare against GPS systems, Russia
+moved to deny Ukrainian command and control systems
+enabled by commercial communications satellites. An
+hour before Russian troops invaded on February 24, 2022,
+Russia conducted a cyberattack to deny connectivity
+between the Viasat communications KA-SAT network
+and its thousands of ground terminals.101 The attack
+entered through a virtual private network and deployed
+wiper malware that crashed terrestrial modems via the
+satellite downlink. One of Viasat’s customers was the
+target: the Ukrainian government and military. However,
+the attack indiscriminately affected other Viasat users
+in Europe, including disabling about one-fifth of wind
+turbines and internet users across Central Europe.102 In OBSERVED INTERMEDIATE FREQUENCY (MHZ)
+light of the attack against Viasat, the U.S. Federal Bureau
+of Investigation and CISA released a joint statement to
+commercial satellite communications providers urging
+companies to reinforce the cybersecurity and resilience
+of their networks.103
+18 SPACE THREAT ASSESSMENT 2023
+)YTISNED
+LARTCEPS
+REWOP(
+01GOL
+Spikes indicate unusual GNSS interference in the Eastern
+Mediterranean. Higher frequency signals have been converted
+into lower frequency signals to expedite processing.
+spire global: reprinted with permission.
+
+Systems (GNSS) jamming and/or possible spoofing and damaging than its predecessor, the
+has intensified in geographical areas surrounding Peresvet. Borisov stated in a TV interview
+the conflict zone and other areas. that “if Peresvet blinds an object, the new
+generation of laser weapons physically de-
+Eurocontrol, Network of Analysts and open-source
+stroys the target. It is burned up.” Officials
+data reports analyzed by EASA indicate that since
+from both the United States and Ukraine
+February 24, 2022, there are four key geograph-
+commented that these reports have not
+ical areas where GNSS interference (spoofing or
+been substantiated, and there is little ev-
+jamming) has intensified, namely:
+idence to prove that the attack occurred.111
+▪ Kaliningrad region, surrounding Baltic sea
+Despite much boasting of capability, there
+and neighboring States;
+are no independently verified reports of
+▪ Eastern Finland;
+Russia deploying directed-energy capabili-
+▪ The Black Sea; and ties against satellites in its war on Ukraine.
+Russian officials have showcased the Peres-
+▪ The Eastern Mediterranean area near Cyprus,
+vet in recent years, a ground-based satellite
+Turkey, Lebanon, Syria and Israel, as well as
+laser. In 2021, President Putin announced
+Northern Iraq.107
+that this laser would be adapted for an
+These locations have all experienced significant in-
+airborne platform.112 Another touted ca-
+terference with PNT systems such as GPS and Galileo.
+pability is the Sokol-Eshelon, an airborne
+Data from commercial RF data analytics company,
+laser system that is a revival of a Soviet-era
+Spire Global, corroborated GNSS interference over
+program, which has the stated capability
+the Eastern Mediterranean in the time
+to attack satellites in LEO.113 Neither of
+frame, as shown on . Additionally, reports of
+these capabilities have been employed
+GPS jamming emerged just after Finnish president
+in the Ukrainian conflict despite the high
+Sauli Niinistö met with U.S. president Joe Biden in
+volume of remote sensing satellites and
+Washington, D.C. Finnair also reported several occur-
+other platforms that are providing data and
+rences of GPS jamming when its commercial airliners
+intelligence on Russian troop positions to
+flew near Kaliningrad.108
+the Ukrainian military.
+There are several reports of ground-based electronic
+On October 26, 2022, at the United Nations
+warfare devices being used in Ukraine, possibly in-
+General Assembly, Konstantin Vorontsov,
+cluding the Krasukha-4, RB-109A “Bylina,” R-330ZH
+the deputy director of the Russian foreign
+Zhitel, Borisoglebsk-2, and Tirada-2, which all have
+ministry’s department of nonproliferation
+the capability to deny or disrupt GPS or satellite com-
+and arms, warned that “quasi-civilian infra-
+munications through uplink and downlink jamming.109
+structure may become a legitimate target for
+Many of these come from reported captures of Russian
+retaliation.”114 This indicates that Moscow
+vehicles and systems during the war—often from
+considers commercial companies providing
+videos or images posted on social media.110 However,
+services to governments and militaries as
+there is little concrete confirmation on which of these
+legitimate targets in times of conflict.115
+jamming devices have been used. While it is unclear
+which systems are deployed by Russia, it is clear that
+jamming has been widespread and frequent.
+CO-ORBITAL
+RENDEZVOUS
+LASING AND DAZZLING
+AND PROXIMITY
+OPERATIONS
+The use of ISR satellites to enable Ukraine’s tactical
+operations has been astounding. Given the advantage
+commercial ISR satellites has provided to Ukraine, it Finally, the Russian inspector satellite Luch
+is surprising that Russia has failed to employ more may also be supporting Russia’s war on
+counterspace weapons to erode this advantage. In Ukraine through signals intelligence gath-
+, Russian deputy prime minister Yuri Borisov ering in GEO. At the beginning of 2020, Luch
+claimed that the country had successfully destroyed a made a significant maneuver westward,
+Ukrainian UAV using its Zadira laser weapon. Accord- covering about 60 degrees in longitude.
+ing to Borisov, the Zadira weapon is more powerful As it moved, Luch had the opportunity to
+
+RUSSIA
+conduct multiple close approaches with other satel- LONGITUDE (˚) Luch Loitering Luch Transiting
+lites. However, a year later, in —just months 100˚E
+after Russia began its initial military buildup near the
+Ukrainian border—Luch made a significant maneuver
+Luch passes numerous
+back eastward to visit another Russian satellite in GEO, 80˚E satellites without stopping.
+Cosmos 2520, and an Azerbaijani satellite, Azerspace-2/
+France
+Intelsat 38.116 Luch then maneuvered and loitered near
+United States
+Intelsat 33e from through . United States
+60˚E Luxembourg
+As corroborated by data and analysis from commer-
+Russia
+cial space domain awareness company Slingshot
+Aerospace, Luch moved to rendezvous with Intelsat 40˚E
+39, a high-throughput communications satellite
+with European coverage, one month before Russia
+France
+invaded Ukraine.117 Since the war began, Luch has 20˚E
+been performing proximity operations near Intelsat
+satellites and loitering nearby for about 150 days at
+United States
+& Norway
+each satellite—a significant departure from Luch’s 0˚ United States
+nominal operations since typical loiter times are much France
+France
+less. Notably, these Intelsat satellites are transmitting
+United States
+Ku- and C-band frequencies (which are often used –20˚W As of , Luch positioned near
+for secure military communications) over Ukraine, a United States communications satellite.
+although it is unclear if they are supporting any mil-
+2020 2021 2022 2023
+itary operations in the region.118
+Figure 2 Luch Transit before and
+during Russia’s Invasion of Ukraine
+satellite dashboard,
+
+slingshot aerospace,
+
+20 SPACE THREAT ASSESSMENT 2023
+
+INDIA
+INDIA
+I NDIA CATAPULTED ONTO THE GLOBAL COUNTERSPACE STAGE IN 2019
+when it launched its first (and only) ASAT test, becoming only the fourth
+country to successfully demonstrate a direct-ascent ASAT capability. The
+Indian space sector continued to grow throughout 2022, with a particular
+focus on military and private satellite imagery. In , Prime Minister
+Narendra Modi announced a new Mission Defense Space Program, where
+New Delhi highlighted 75 defense space mission areas for private companies
+to focus on. These 75 missions were separated into five broad categories of
+space technology for both civilian and military operations: satellite, launch,
+software, ground systems, and communications and payload.119
+SPACE ORGANIZATION
+India’s space program has historically focused on civil and scientific missions,
+though the past five years have seen expanded military activity. The Indian
+Space Research Organization (ISRO) is the civilian branch of India’s national
+space program and has evolved into the sixth-largest space agency in the
+world.120 The ISRO operates under the Department of Space, which is head-
+ed by the prime minister. Founded in , the Defence Space Agency
+(DSA) is charged with upholding India’s national security concerns in space
+and operates under the Ministry of Defence.121 The DSA—a collaborative
+effort between India’s air force, army, and navy—is led by an air force vice
+marshal and is responsible for the country’s direct-ascent ASAT capability.122
+21 SPACE THREAT ASSESSMENT 2023
+
+Its subsidiary, the Defence Space Research Centre. It placed an ISRO Earth observation
+Organisation (DSRO), also established in satellite into orbit along with two private
+2019, absorbed the country’s previous mil- sector satellites—one commercial and one
+itary space agencies, including the Defence academic.129 This SSLV-D2 was developed
+Satellite Control Centre and the Defence to offer a more available and affordable
+Imagery Processing and Analysis Centre.123 launch service to the private sector, fo-
+The DSRO is led by a senior defense scientist cusing on small satellite launches.130 Two
+and is responsible for the development of other launch vehicles are in development,
+“space warfare systems and associated the Human Rated Launch Vehicle (HRLV),
+technology.”124 There is little documen- a follow-on to the LVM3, and the Reusable
+tation on either organization to further Launch Vehicle-Technology Demonstrator
+describe mandates, goals, or direction.125 (RLV-TD).131 In total, the ISRO has launched
+India’s Defence Research and Development 381 foreign satellites from 1999 to 2022.132
+Organisation (DRDO) was founded in 1958
+The country had four successful launches
+as the primary research and development
+and one failure in 2022: three PSLV launch-
+wing of the Ministry of Defence.126 The DRDO INDIA’S SPACE es that placed 15 satellites into orbit, one
+leads the development of electronic war-
+GSLV launch that delivered 36 OneWeb
+fare systems, missiles, and radars, among PROGRAM HAS satellites into orbit, and one failure of the
+other systems. SSLV launcher.133 With support from the
+HISTORICALLY
+ISRO, Indian start-up Skyroot Aerospace
+successfully tested the country’s first private
+FOCUSED ON
+SPACE LAUNCH industry launch vehicle, the Vikram-S, in
+CIVIL AND in hopes of an operational
+CAPABILITIES
+launch sometime in 2023.134
+SCIENTIFIC
+India has three major launch sites in the
+country: the Vikram Sarabhai Space Cen- MISSIONS,
+SATELLITE
+tre, the oldest ISRO launch facility in India,
+which houses the design and development THOUGH CAPABILITIES
+of SLVs; the Satish Dhawan Space Centre,
+THE PAST
+the most popular ISRO launch site due to India has over 60 satellites on orbit, the
+its geographic superiority; and the Abdul majority of which serve civilian or research
+FIVE YEARS
+Kalam Island site, which is operated by the purposes, and boasts “the largest civilian
+DRDO and hosts the Integrated Test Range HAVE SEEN remote sensing satellite constellation.”135
+missile testing facility.127 Additionally, India has successfully launched
+India currently has four active SLVs that are EXPANDED two missions to the Moon. Chandrayaan-1
+capable of successfully delivering spacecraft was an orbiter launched in 2008 with a
+MILITARY mission life of two years.136 A decade later,
+to orbit, with at least one new launch vehicle
+Chandrayaan-2 was launched, a complex
+in the testing stage of development. The Po-
+ACTIVITY.
+mission that consisted of an orbiter, land-
+lar Satellite Launch Vehicle (PSLV) has been
+er, and rover to further explore the south
+India’s most successful and versatile vehicle,
+pole of the Moon. The orbiter was able to
+capable of successfully delivering a variety
+maneuver to successfully reach its intended
+of payloads to orbit. The Geosynchronous
+orbit and has an estimated mission life of
+Satellite Launch Vehicle (GSLV) focuses
+seven years.137
+on delivering communication satellites to
+GEO. The Geosynchronous Satellite Launch The country has a small number of satellites
+Vehicle Mark-III (LVM3) is a next-generation that have been used for military purposes.
+versatile vehicle, which can launch commu- A large portion of the country’s Geosyn-
+nication satellites twice the size of its GSLV chronous Satellite (GSAT) communications
+predecessor as well as deliver payloads constellation is used for military communi-
+of up to 10 tons to LEO.128 The ISRO’s first cations. GSAT-7 was the first ISRO satellite
+launch in 2023 debuted the agency’s new to provide services to the Indian military,
+Small Satellite Launch Vehicle (SSLV-D2), largely to the Indian navy to enable com-
+launched from the Satish Dhawan Space munications between air, land, submarine,
+
+INDIA
+and warship systems.138 Similarly, GSAT-7A
+provides communication services to the
+Indian air force and army.139 The country’s
+first electronic intelligence satellite, EMISAT,
+is in orbit and is operated by the DRDO.140
+India’s first all-weather radar-imaging satel-
+lite, Risat-2, successfully monitored border
+and maritime activity for the government
+and re-entered Earth’s atmosphere in 2022
+after a 13-year mission.141 One of India’s most
+notable satellites, Microsat-R, was operated
+by the DRDO as an imaging satellite and
+used as a target for the 2019 destructive
+ASAT test.142 Additional reports indicate
+that India has been investing in the devel-
+opment of military intelligence satellites,
+specifically focusing on the contested Chi-
+na-India border.143
+COUNTERSPACE
+ASSESSMENT
+OVERVIEW
+India’s rise in the space domain is largely
+due to its demonstrated kinetic direct-ascent
+ASAT capability launched in 2019. Soon after
+the test, DRDO officials did not announce
+specific plans for another ASAT test in LEO
+but did indicate a possibility of testing in
+a higher orbit.144 The possibility of another
+ASAT test can be seen in research debates
+across the country.145 Despite continuing to
+invest in government and private industry
+capabilities, there were few public reports
+of counterspace developments in 2022. The
+DRDO has sectors focused on the develop-
+ment and design of “electronic, electro-op-
+tical and laser based sensors and systems,”
+though there are no public reports that
+non-kinetic counterspace capabilities have
+been developed.146 It does not appear that
+India targets space systems in its electronic
+or cyber systems. India continues to place
+an emphasis on encouraging developments
+in the commercial sector to increase its
+share of the global space economy, boost its
+domestic technology and industrial sectors,
+and increase its international standing.147
+23 SPACE THREAT ASSESSMENT 2023
+
+IRAN
+IRAN
+I N 2008, IRAN BECAME THE NINTH COUNTRY TO SUCCESSFULLY place
+a satellite into orbit using indigenous technologies.148 Since then, Iran’s
+space program has become one of the largest in the Middle East, and the
+country’s leaders regularly invoke the program as a symbol of national
+strength and progress.149 However, other countries insist that Iran’s civil and
+military space programs are cover for Tehran to circumvent international
+sanctions and develop an offensive ballistic missile and nuclear program. Iran
+publicly denies any interest in pursuing a nuclear ballistic missile program,
+claiming its right to pursue a peaceful space program under state sovereignty.150
+SPACE ORGANIZATION
+Iran’s space sector primarily falls under two primary organizations, the civilian
+Iranian Space Agency (ISA), founded in 2003, and the military Islamic Revo-
+lutionary Guard Corps (IRGC) Aerospace Force. While the two are technically
+separate, they share significant overlap in terms of authority and agenda.151
+The ISA falls under the Ministry of Communications and Information Tech-
+nology and operates with a Supreme Space Council, which sets policy and is
+chaired by the Iranian president. The Ministry of Defense is also involved in ISA
+operations, as its subsidiary groups develop the majority of SLV components
+and build the satellites. The IRGC is not subject to the policy of the Supreme
+Space Council and has traditionally focused on developing solid-fuel rock-
+ets—not typically used for modern SLVs but well suited for missiles—which
+24 SPACE THREAT ASSESSMENT 2023
+
+has only increased suspicions about the intent of the to launch Iran’s first military satellite, Noor-1. It was
+IRGC’s space program.152 Due to international sanctions subsequently used to launch the Noor-2 in March
+against supplying ballistic missile technology to the 2022.162 In , the IRGC also tested a new
+Iranian government, Iran’s private sector has been three-stage solid-fuel launch vehicle, the Ghaem 100,
+used as a front to circumvent sanctions and acquire which is designed to reach orbits of 500 kilometers and
+space launch technology. These companies, like the borrows heavily from the Qased.163 The Ghaem 100
+Iranian government, often lack transparency and vehicle is contracted to launch Nahid communication
+accountability, and many could likely be considered satellites into LEO, potentially in the first six months
+state-owned enterprises rather than independent of 2023.164 Iran’s SLV and ballistic missile technology is
+businesses contracted by the government.153 heavily influenced by or acquired from other nations,
+particularly Russia and North Korea.165
+The early months of 2023 have also seen an uptick of
+discussion about space in Tehran, with the announce- Additionally, in , a third-stage capability,
+ment of a 10-year strategic plan for space released by called Saman-1, was tested, which would allow a sat-
+the ISA in collaboration with the Secretariat of the ellite to change orbits more quickly.166 This was tested
+Supreme Space Council. This document outlines a by the Space Research Center and launched by Iran’s
+future where Iran is a regional leader in space tech- defense ministry, with additional interest from the ISA,
+nologies and space launch services by 2033.154 The which indicates that the technology is likely to be used
+plan has been applauded by the Iranian president, by both the IRGC and the ISA when fully developed.167
+who added a goal for Iranian-built satellites to orbit in
+Iran operates two primary launch sites: the Shahrud
+GEO and for independent broadcasting capabilities to
+Missile Test Site and the Imam Khomeini Space Cen-
+be secured.155 This continues previously stated goals
+ter. The Shahrud Missile Test Site is located over 400
+for the burgeoning space program, which included
+kilometers east of Tehran and is the predominant
+routinely launching satellites into LEO, attaining access
+launch site of the ISA. The site was built in the 1980s
+to GEO by 2026, and sending an Iranian astronaut to
+with both Chinese and North Korean assistance.168
+space aboard an Iranian SLV by 2032.156
+Construction of the Imam Khomeini Space Center,
+50 kilometers southeast of Semnan, was completed
+in 2008 and inaugurated with the launch of a Shahab
+SPACE LAUNCH
+rocket. Following a destructive rocket launch failure in
+CAPABILITIES 2012 and significant construction, the center reopened
+its doors on July 27, 2017, with the successful launch
+of a Simorgh SLV. 169
+In 2022, Iran launched two satellites into orbit and
+had multiple successful tests of new SLVs. This brings Additionally, Iran continues to launch satellites from
+the total of Iranian SLVs to five, to include the Safir, the Russian-leased Baikonur Cosmodrome in Ka-
+Simorgh, Qased, Zuljanah, and Ghaem. Of the five, zakhstan. In , a Russian rocket launched
+three are operated by the ISA and two by the IRGC. a remote-sensing Khayyam satellite, which, according
+to Iran’s information and communications technology
+The ISA operates the Safir, Simorgh, and Zuljanah. On
+minister, Issa Zarepour, was the beginning “of a strate-
+February 9, 2009, the Safir became Iran’s first SLV to
+gic cooperation between Iran and Russia in the space
+place objects into LEO, featuring a launch range of
+industry.”170 The ISA claims that the satellite will send
+300 to 350 kilometers.157 This success was followed
+encrypted data to Iranian operators and that Russia
+by the Simorgh, with an extended launch range of up
+will not have access to its data.171
+to 500 kilometers. After several failed attempts, the
+Simorgh was successful at placing objects in orbit in
+2021.158 Among other similarities, both SLVs use liq-
+uid-fueled engines from the Shahab-3 medium-range SATELLITE CAPABILITIES
+ballistic missile.159 The Zuljanah, which has a hybrid
+design incorporating solid- and liquid-fuel stages and
+Iran currently has three satellites in orbit: the country’s
+aims to deliver payloads of 220 kilogram to a 500 km
+first military satellite, Noor, launched in 2020; Noor-2, a
+orbit, was successfully tested for a second time in the
+military reconnaissance satellite launched into LEO in
+summer of 2022.160 However, Iranian SLV progress
+; and the Khayyam Earth-imaging satellite,
+also saw setbacks, such as the reported explosion of
+built and launched by Russia in .172 Both
+an unspecified SLV on a launchpad in .161
+Noor satellites collect ISR data, and Iranian officials have
+The Qased rocket was the first SLV operated solely by released color photographs that the Noor-2 satellite
+the IRGC and had a successful maiden flight in 2020 took of U.S. military bases in Bahrain.173
+
+IRAN
+In , the ISA head announced a new tele-
+communication satellite system, named after former
+IRGC commander Qassem Soleimani, which is cited as
+THERE SEEMS
+a fundamental element of the 10-year plan for space.174
+Additionally, an Iranian state-run news agency has TO HAVE BEEN
+reported that Iran is capable of building indigenous
+remote-sensing satellites able to capture images with A SIGNIFICANT
+a resolution of 5 to 10 meters.175 This capability has
+not been verified. SHIFT IN
+Iran is developing other space capabilities as well and
+MISSION
+is strengthening relationships with other space-faring
+nations, particularly Russia. The Russian invasion of SUCCESS AND
+Ukraine in solidified a military alliance
+between Iran and Russia, and there are reports that OVERALL
+Iran is now Russia’s top military supplier. In exchange
+for Iran’s support, particularly through the supply of GOVERNMENT
+UAVs, Russia is likely returning the favor with military
+SUPPORT
+and technical support to Iran.176 Further, in , the ISA and Roscosmos signed an agreement
+OF SPACE
+to design and build remote sensing and communica-
+tion satellites, develop infrastructure, and hold joint
+CAPABILITIES.
+training, which may bolster Iran’s space capabilities
+in the future.177
+COUNTERSPACE
+ASSESSMENT OVERVIEW
+After a series of launch failures in recent years, Iran
+showed signs of progress in 2022. Though Tehran’s
+launch and satellite capabilities are nowhere near
+robust, there seems to have been a significant shift
+in mission success and overall government support
+of space capabilities. However, Iran appears far from
+developing kinetic ASAT weapons or non-kinetic phys-
+ical counterspace weapons. The country continues to
+develop electronic and cyber capabilities, where Iran
+has shown success in jamming and hacking against
+foreign government and commercial satellite com-
+munications and the GPS network for years.178 During
+periods of civil unrest in the country in 2022, the Iranian
+government blocked access in Iran to a wide variety
+of cellular and internet networks, including SpaceX’s
+Starlink website homepage.179 Most notably in the
+last year, French satellite operator Eutelsat revealed
+details of signals jamming originating in Iran on two
+of its satellites in the fall of 2022, affecting Persian TV
+and radio transmissions. The operator notified relevant
+authorities in Iran.180
+26 SPACE THREAT ASSESSMENT 2023
+
+NORTH KOREA
+NORTH
+KOREA
+N ORTH KOREA’S SPACE CAPABILITIES ARE SHROUDED in uncertainty.
+It has been just over a decade since the first successful launch of a
+North Korean satellite in , and the country’s space
+program has since experienced only limited progress. However,
+2022 saw an uptick in space activity, including two potential technology tests
+of components for a future national reconnaissance satellite and upgrades
+to a space launch facility.
+SPACE ORGANIZATION
+North Korea’s space activities are centralized under the National Aerospace
+Development Administration (NADA), which has the stated mission of space
+development for peaceful purposes, though these claims are often refuted.181
+NADA’s acronym and the organization’s logo resemble the U.S. civil space
+organization, NASA. NADA was established after the 2013 meeting of the
+Central Committee of the Workers’ Party of Korea, which adopted a law on
+space development. This law was revised at a 2022 meeting of the Standing
+Committee of the 14th Supreme People’s Assembly. State media described
+the revision as creating basic principles and norms “to ensure space devel-
+opment activities legally and more firmly (sic).”182 Further details have not
+been released.
+27 SPACE THREAT ASSESSMENT 2023
+
+launch site, the Tonghae Satellite Launching Ground,
+SPACE LAUNCH
+has seen routine maintenance in the last decade but
+CAPABILITIES
+is possibly inactive.189
+North Korea’s most consistent SLV is the Unha, which
+In 2022, North Korea tested more missiles has four variants and borrows engine designs from
+than any year previously.183 The country the country’s Nodong medium-range ballistic missile.190
+launched over 90 missiles in 2022, including
+23 on a single day, November 2, 2022, some
+within 60 kilometers of the coast of South
+SATELLITE CAPABILITIES
+Korea.184 Historically, the country’s missile
+activity has not translated to success for its
+space program. North Korea has successfully launched only two Earth
+observation satellites into orbit, the first in 2012 and
+North Korea reported a space launch test on
+another in 2016.191 After years of failed tests and launch-
+February 26, 2022, for a spy satellite, a state-
+es, NADA completed a successful on-orbit “final-stage
+ment the U.S. Department of Defense has
+test” of a military reconnaissance test satellite on
+refuted as a disguise for an intercontinental
+December 18, 2022.192 Ahead of North Korea’s planned
+ballistic missile system.185 However, the
+first launch of an operational military reconnaissance
+claim remains consistent with a confirmed
+satellite in , this technology demonstrator
+“test-piece satellite” launched in Decem-
+satellite proved camera operability, communication
+ber 2022 at the Sohae Satellite Launching
+Station.186 Supreme Leader Kim Jong-un transmission capabilities, and the accuracy of track-
+visited the Sohae Satellite Launching Sta- ing from a ground control system.193 The test satellite
+tion in to inspect the spaceport reportedly reached a 500 km orbit with a camera that
+and NADA’s upcoming projects, as well as captured images at 20 m resolution as well as video.
+oversee plans for significant upgrades to Black and white images of Seoul were released by
+the launch site.187 In , a new North Korea’s official newspaper, Rodong Sinmum, that Satellite Imagery of the Sohae
+horizontal engine test stand was built and were reportedly taken by the test satellite.194 While not Satellite Launching Station on
+October 4, 2022.
+used to conduct its first test, with Kim Jong- an exquisite system, this rudimentary system would
+un in attendance.188 North Korea’s second improve North Korea’s limited space capabilities. airbus ds/beyond parallel
+New rail-served warehouse Entrance and checkpoint
+Sohae Satellite Launch Station
+Administration and security headquarters
+October 4, 2022
+Rail activity
+Covered rail terminal
+Livestock facility
+Horizontal processing building
+Warehouse area NADA buildings and Building razed and new construction
+helicopter pad
+VIP housing area
+Changya-dong
+Security barracks
+New worker housing, workshops, and warehouses
+Tunnel or UGF under construction
+Fuel/oxidizer storage buildings being enlarged Construction support facility
+Two new water tanks Road under
+construction since July
+VIP observation buildings Security barracks
+and new structure
+Yunsong vertical engine test stand
+Copyright © Airbus DS 2022
+
+NORTH KOREA
+COUNTERSPACE
+ASSESSMENT NORTH KOREA HAS
+OVERVIEW DEMONSTRATED
+SMALL SUCCESSES
+North Korea has demonstrated small suc-
+cesses in its space program over the past
+IN ITS SPACE
+year, most notably receiving imagery from
+a test reconnaissance satellite, but this
+PROGRAM OVER
+has been overshadowed by the immense
+number of missile launches conducted THE PAST YEAR . . .
+in 2022. While a robust missile launching
+capability may benefit Pyongyang’s space BUT THIS HAS BEEN
+launch programs, North Korea has yet to
+exhibit the necessary sensing and altitude OVERSHADOWED
+control capabilities for a direct-ascent ASAT
+BY THE IMMENSE
+weapon. It also remains unlikely that North
+Korea is actively pursuing any non-kinetic
+NUMBER OF
+physical capabilities. The country has, how-
+ever, demonstrated successful electronic
+MISSILE LAUNCHES
+warfare through GPS and other jamming.
+North Korea’s cyberattack threat is active CONDUCTED IN
+and viable, though it is most often used
+for economic or political messaging rather 2022.
+than aimed at space assets. As the country
+acquires more advanced technologies, likely
+through illicit means, and gains operating
+experience, threats to space systems and
+ground stations may grow more credible.195
+29 SPACE THREAT ASSESSMENT 2023
+
+OTHERS
+OTHERS
+W HILE THE PREVIOUS CHAPTERS HAVE BEEN DEDICATED to an-
+alyzing the countries making the largest strides in counterspace
+capabilities, they are not the only ones thinking strategically
+about the changing space environment. This chapter includes
+discussion and developments related to counterspace capabilities by other
+countries and non-state actors.
+AUSTRALIA
+The Defence Space Command of the Royal Australian Air Force was formally
+established on January 18, 2022, bringing the space elements across the
+Australian military services into one integrated headquarters organization
+(similar to the U.S. Space Force).196 Shortly after, the Australian government
+released a Defence Space Strategy to build upon the 2020 Defence Strategic
+Update, declaring the mission is “to prepare space power to secure Australia’s
+interests in peace and war.”197 Additionally, the Space Surveillance Telescope
+(SST), built by the United States and jointly operated with Australia, became
+operational in . The SST will provide more accurate space
+domain awareness by providing tracking and detection of even “faint objects
+in deep space.”198 These space domain awareness capabilities are critical to
+observing and clarifying many space and counterspace activities outlined in
+this report, including space launch, RPOs, and ASAT missions.
+30 SPACE THREAT ASSESSMENT 2022
+
+Rafael relayed that the project received renewed funding
+FRANCE
+from the Israeli Defense Forces after successful live-fire
+tests.203 Israeli representatives indicated that the Iron
+French officials have continued to be out- Beam could be operational in as few as two to three
+spoken about investing in counterspace years. This will be a permanent ground-based system
+technologies. To spur greater space ad- capable of destroying or disabling targets several
+vancements, Prime Minister Élisabeth Borne kilometers away. 204
+announced in that the
+country would be injecting €9.0 billion
+($9.6 billion) into the space sector in the
+JAPAN
+next three years. This includes at least €1.5
+billion ($1.6 billion) to the country’s civil
+space agency, the National Centre for Space In , Japan released a new national
+Studies (CNES). In the same speech, Prime security strategy, national defense strategy, and na-
+Minister Borne reiterated France’s military tional defense buildup program, which all emphasize
+space ambitions, largely concentrated on the importance of capabilities in the space domain.205
+maintaining strategic autonomy in the space These documents add policy positions to an approved
+domain, including the development of active 2022 defense budget which dedicated ¥79 billion ($588
+defenses for space objects.199 In February million) to capabilities in the space domain, excluding
+2022, France held its annual space wargame, funds tied to ballistic missile defenses.206 Enhancement
+AsterX, to put elements of the French space of space situational awareness (SSA) capabilities is
+defense strategy into practice. Participants high on the defense spending list, including develop-
+from nearly 30 countries were in attendance, ment of an on-orbit optical telescope capability, the
+spanning military and industry partners.200 “procurement of SSA laser ranging equipment” to
+The growth of AsterX emphasizes France’s monitor objects in LEO, interoperability with domes-
+ambitions as a leader in the military space tic organizations and the U.S. military, and enhanced
+domain and its intention to grow its defen- satellite communications systems.207 The 2022 bud-
+sive counterspace capabilities. get document also outlines a reorganization of the
+Space Operations Squadron, to be broken up into a
+After initially publicly discussing the idea of
+first squadron to focus on SSA monitoring, a second
+bodyguard satellites in 2019, France is well
+squadron to focus on the detection of jamming against
+underway to achieving this capability to
+Japanese satellites, and a third squadron designated
+protect assets in GEO with a satellite named
+as a Space System Management Squadron to manage
+YODA.201 Publicly available information
+and maintain space equipment.208
+states that YODA will have an ISR capability
+to detect incoming threats to GEO satellites. In , Japan launched another satellite for its
+The first contract for YODA was awarded to Intelligence Gathering Satellite (IGS) constellation. The
+Hemeria, a French space start-up.202 IGS-Radar 7 launched from Japan’s Tanegashima Space
+Center, located on the island of Tanegashima about 40
+kilometers south of Kyushu.209 IGS-Radar satellites are
+ISRAEL operated by the Cabinet Satellite Information Center,
+and data is utilized both for national security purposes
+and civil natural disaster monitoring.210 This followed
+As reported in previous years, Israel con-
+a disappointing launch year for the country, in which
+tinues to make progress in testing its Iron
+its only orbital launch attempt in failed
+Beam capability, a directed-energy system
+to reach orbit.211
+that will complement the Iron Dome missile
+defense system. This electronic warfare
+weapon is currently being designed for
+SOUTH KOREA
+UAVs and missiles, but with technological
+changes such as increased power and tar-
+geting, it could evolve into a counterspace South Korea’s space program reached a major milestone
+capability. However, there are no current in when the country had its first successful
+reports of Israeli leadership steering tech- satellite launch using an indigenous liquid-fueled rocket
+nology development for Iron Beam in that called Nuri. Nuri launched four small satellites to be
+direction. In , defense contractor used for several missions, including Earth observa-
+
+OTHERS
+tion. This makes South Korea only the tenth nation to
+successfully build and launch a rocket.212 In late 2022,
+the country’s defense ministry tested a solid-fueled
+rocket as part of efforts to bolster its defense posture
+and to launch space-based reconnaissance satellites.213
+Officials, including the newly elected president and
+science minister, have spoken about commitments
+to increase the country’s space capabilities, including
+establishing a state aerospace agency in the future.214
+UNITED KINGDOM
+Following the 2021 establishment of UK Space Com-
+mand, the United Kingdom’s Ministry of Defence released
+a Defence Space Strategy in focused on
+operationalizing the space domain. This document
+serves as a follow-on to the 2021 National Space Strat-
+egy and outlines an increase in investment for the UK
+space sector, injecting an additional £1.4 billion ($1.7
+billion) into space systems. This is in addition to £5.0
+billion ($6.0 billion) committed to a next-generation
+military satellite communications constellation.215
+NON-STATE ACTORS
+On March 1, 2022, unconfirmed reports surfaced that
+non-state actors affiliated with Anonymous—a de-
+centralized international activist and “hacktivist”
+collective—hacked their way into Roscosmos’ satel-
+lite control center.216 This instance was one of many
+“hacktivist” activities against Russia after Moscow’s
+invasion of Ukraine. Dmitry Rogozin, head of Roscos-
+mos at the time, announced that all Roscosmos control
+centers were operational and that these claims were
+false.217 Another hacktivist targeted the Russian Space
+Research Institute website, leaving crude comments
+on webpages and threatening further action if Russia
+did not leave Ukraine. This hacktivist also claimed to
+be part of Anonymous.218
+32 SPACE THREAT ASSESSMENT 2023
+
+WHAT TO WATCH
+WHAT TO WATCH
+A NOTHER YEAR HAS PASSED WHERE PREDICTIONS from previous
+Space Threat Assessments have been realized. The 2022 report
+predicted the trend in electronic warfare that “the denial of GPS
+or satellite communications can have a great effect.”219 This year,
+while electronic warfare weapons were used on the battlefield in Ukraine,
+employed early and throughout the war by Russia, the “great effects” that
+may have been envisioned prior have not been realized. Notably, jamming
+of GPS and satellite communications did not directly trigger an escalation
+of the conflict. Past iterations of the report also detailed extensive Chi-
+nese counterspace developments. Despite the U.S. Department of Defense
+characterizing China as the “pacing threat,” Beijing was relatively quiet on
+the counterspace front this year. This could be for a variety of reasons, but
+China’s lack of visible activity should not be construed as a decrease in the
+threat assessment.
+The 2022 edition noted a growing number of countries expanding their focus
+on military operations in the space domain, reorganizing their national secu-
+rity space enterprises, and discussing how to defend space assets, including
+in cooperation with allies and partners. This trend continues, with examples
+such as Australia establishing a Defence Space Command in and
+Japan and the United States affirming that attacks “to, from or within space
+present a clear challenge to the security of the Alliance” and “could lead to
+the invocation of Article V of the Japan-U.S. Security Treaty.”220
+33 SPACE THREAT ASSESSMENT 2023
+
+and electronic intelligence capabilities.225
+CHINA
+Coupling its growth in space-based ISR
+with advancements in artificial intelligence,
+While it has been a busy year tracking Rus- machine learning, and automation, Beijing
+sian counterspace activities, China has is developing, across multiple modalities,
+been relatively quiet. This is in contrast an ability to rapidly detect targets and relay
+to previous years when Beijing conducted those target coordinates to its precision
+provocative, and detectable, space demon- weapon systems to close its own kill chains.
+strations such as the hypersonic fractional The authors anticipate greater public dis-
+orbital bombardment system test and SJ-21 cussions, especially by U.S. national security
+RPOs, as highlighted in last year’s report.221 space leaders, on the policy, capability
+What explains this decrease in activity? The investments, and operational concepts
+authors acknowledge that, as open-source needed to deny others the use of space
+researchers, they are limited to public- against U.S. forces and interests (i.e., U.S.
+ly available information. However, more counterspace weapons).
+commercial and publicly available sources
+of relevant information, such as satellite
+telemetry data, jamming detection, satellite LESSONS FROM
+imagery, and translated Chinese documents,
+RUSSIA’S INVASION
+are aiding in such independent analysis. It
+may be that certain counterspace weapons OF UKRAINE
+programs have achieved their testing ob-
+jectives with no need for further testing at
+Previous iterations of this report highlighted
+this time; that these systems have shifted
+Russia’s advanced jamming, dazzling, and
+from development and test to production
+cyber capabilities. However, few of these
+and fielding; or that they continue to be
+more advanced non-kinetic weapons have
+tested but in an undetectable manner or
+been seen in Ukraine, despite social media
+only detectable with classified U.S. sen-
+videos and tweets purporting to show such
+sors. It may also be the case that Beijing
+systems in operation, such as the Krasukha-4
+is focusing its resources on other parts of
+electronic warfare counterspace weapon.
+its national security space enterprise or
+Nevertheless, many experts have been
+military modernization efforts “to become
+surprised at Russia’s lack of success with its
+the world’s leading power.”222 This lack of
+electronic warfare systems.226 Also absent
+activity does not put the authors at ease,
+from the war are laser systems, such as
+who will be closely watching Beijing actions,
+the Peresvet and Sokol-Eshelon, and SAR
+nor U.S. senior officials, who continue to
+jamming systems to counter ISR satellites
+emphasize that China remains the “most
+despite the heavy and public use of imagery
+challenging threat,” followed by Russia.223
+satellites to track Russian forces. There are
+This report traditionally describes weapons several reasons why Russia has not em-
+that pose threats to U.S. space assets. How- ployed such counterspace systems, to the
+ever, U.S. policymakers and military leaders extent such employment would be covered
+are increasingly being confronted with the in open-source reporting. It may be that if
+threat of how adversary space capabilities any attacks were occurring, commercial
+(e.g., ISR, communications, and PNT) can be space companies and Western governments
+used to target joint and coalition forces on may not want the success of such attacks
+the ground, in air, and at sea. For example, publicly disclosed. This could be to avoid giv-
+China’s fleet of ISR satellites is “more than ing Russia a battle damage assessment and
+250 systems—a quantity second only to the encouragement to use such counterspace
+United States.”224 Last year, Beijing appears weapons against other targets, or to avoid
+to have launched four sets each of Yaogan-35 rattling other customers or investors and
+and Yaogan-36 “triplet satellites” (24 total eroding any competitive advantages. Anoth-
+satellites), which are believed to comprise a er possibility is that these Russian systems
+military surveillance system incorporating are not as effective as Western researchers
+Earth observation, synthetic aperture radar, predicted pre-invasion, whether because
+
+WHAT TO WATCH
+the attacks are not as damaging as assumed military power. Should Taiwan pursue pro-
+or that companies, as with SpaceX, have liferated LEO communications and greater
+found effective work-arounds to continue use of commercial ISR data? Conversely, UKRAINE’S
+operations. It is possible that these systems the benefit that space capabilities provide
+are inoperable or not as widely deployed as in modern warfare may also provide the RESISTANCE
+previously assumed. Finally, it could also justification for adversaries to increase
+be that these systems are held in reserve, their counterspace weapons development HAS
+perhaps viewed as more escalatory or to and deny their opponents access to space
+DEMONSTRATED
+be used for more strategic purposes. Such during a conflict.
+use and non-use of different counterspace
+Finally, Starlink’s effectiveness in Ukraine THAT SPACE
+weapons in Ukraine may be instructive as
+has showcased the advantages of prolifer-
+analysts seek to better understand Moscow’s
+ated LEO (pLEO) constellations. As more CAPABILITIES
+space strategy and doctrine.
+commercial companies and militaries
+CAN CREATE
+As discussed throughout this report, com- develop pLEO systems, adversaries will
+mercial data and communications services seek to counter them. Constellations with
+AN ADVANTAGE
+have been integral to Ukraine’s resistance. satellites in the hundreds and thousands
+The former chairman of the State Space may necessitate a shift in an adversary’s
+OVER A MORE
+Agency of Ukraine, Volodymyr Usov, stated at targeting calculus. Kinetic direct-ascent
+a conference that almost 50 ASATs or kinetic co-orbital weapons that CAPABLE
+percent of intelligence supplied to Ukraine are designed to attack single satellites are
+came from the commercial space indus- less effective unless employed en masse. MILITARY
+try.227 Starlink has been called a “lifeline” Moreover, kinetic attacks run the risk of
+for Ukrainian forces and civilians alike.228 generating a cascading debris field that POWER.
+Therefore, it is not surprising that Russia would make orbits unusable, including
+targeted and attacked commercial space for an adversary’s own constellations.
+systems—first Viasat and then SpaceX’s An adversary’s options are likely to shift
+Starlink. As the commercial space sector toward cyberattacks, debris-generating
+continues to show its utility in peacetime attacks to collapse an entire orbital plane,
+and conflict for governments and their mil- high-altitude nuclear detonations (HANDs), Satellite training in Ukraine.
+itaries, the United States’ role in protecting or attacks on physical infrastructure like photo by staff sgt. eric mcdonough,
+commercial capabilities and strategies for ground stations. Indicators for such a shift 45th infantry brigade combat team
+how to do so will be key policy issues for the
+U.S. government. For starters, commercial
+operators will increasingly seek threat in-
+formation from the government that would
+allow them to make informed decisions
+on how to better protect constellations or
+prepare procedures to respond to attacks.
+Ukraine’s resistance against Russia is nothing
+short of remarkable. As researchers who
+specifically focus on contributions from
+the space domain to Ukraine’s resistance,
+the authors ponder how space capabili-
+ties can enable David to beat Goliath. Will
+smaller nations invest in space capabilities
+to bolster their national security and re-
+silience if attacked, especially by a more
+powerful nation? Ukraine’s resistance has
+demonstrated that space capabilities can
+create an advantage over a more capable
+35 SPACE THREAT ASSESSMENT 2023
+
+could include research to understand the
+effects of HANDs on satellites, for example,
+as Chinese scientists are reportedly doing
+at a PLA research institute.229 Each of these
+variants of counterspace weapons has pol-
+icy, operational, and technical trade-offs,
+and some would be highly escalatory.
+SPACE SITUATIONAL
+AWARENESS
+An indicator not addressed in detail in this
+report is the need for robust space situa-
+tional awareness (SSA) to enable counter-
+space weapons targeting. SSA refers to the
+ability to identify, characterize, and track
+space objects, where collecting accurate and
+actionable data is incredibly challenging.230
+then, nine other countries have committed U.S. vice president Kamala Harris
+Exquisite SSA data is not only advantageous
+not to conduct destructive direct-ascent announcing the ASAT test ban in 2022.
+for on-orbit operations of national and
+ASAT tests, including Australia, Canada,
+commercial satellites but also to provide michael peterson/u.s. space force
+France, Germany, Japan, New Zealand,
+accurate targeting for counterspace weap-
+South Korea, Switzerland, and the United
+ons. In order to attack a satellite on-orbit, an
+Kingdom. Furthermore, a resolution in the
+aggressor would need to know its precise
+United Nations was adopted on December
+location and where it is moving. The aggres-
+7, 2022, that “calls upon all States to com-
+sor will also want accurate battle damage
+mit not to conduct destructive direct-as-
+assessments. For example, if a satellite is
+cent anti-satellite missile tests.”232 This
+targeted through a cyberattack that allows
+resolution was passed, with 155 countries
+the attacker to disable its controls, SSA will
+voting in support, 9 voting against, and 9
+be necessary to determine if the attack was
+abstaining. Notably, China, Russia, Iran,
+successful by monitoring the satellite and
+North Korea, and India did not vote in favor
+any controlled movements. Although this
+of the resolution.233 This response to the
+report tracks counterspace weapons devel-
+United States’ unilateral commitment may
+opments, it is important to acknowledge
+indicate greater international motivation
+the critical data needed to deploy many
+to develop sustainable norms, behaviors,
+of these counterspace weapons against
+and agreements to limit the use or testing
+targets. Countries that are investing in SSA
+of counterspace weapons, especially those
+are not necessarily also developing coun-
+that create long-lasting orbital debris.
+terspace weapons; however, countries that
+are both investing in SSA capabilities and
+developing counterspace weapons should
+be watched carefully.
+DIRECT-ASCENT
+ASAT TEST BAN
+On April 18, 2022, U.S. vice president Kamala
+Harris announced a U.S. commitment to
+stopping destructive direct-ascent ASAT
+missile testing, an important step forward for
+sustainability and stability in space.231 Since
+
+CONCLUSION
+CONCLUSION
+T HE PAST YEAR OFFERED A TANGIBLE REMINDER of how import-
+ant and integral space capabilities have become to citizens across
+the globe, not only in peacetime but through crisis and conflict.
+In Ukraine, space capabilities offered: (1) transparency on military
+aggression by showing the world the buildup and movement of Russian
+forces; (2) connectivity by enabling Ukrainian forces to transmit information
+across the battlefield; and (3) a lifeline to the outside world by allowing the
+Ukrainian people to connect with the world and expose the horrors of war.
+But the advantages that space capabilities provide make them a target.
+The past year showed unusual and threatening behaviors from LEO to
+GEO, demonstrating that no orbital regime is out of reach of counterspace
+weapons. It also showed how counterspace weapons have become part of
+a broader tool kit and military campaign to disrupt command, control, com-
+munications, and intelligence gathering and to degrade the effectiveness of
+UAVs and precision munitions. As China and Russia put more counterspace
+weapons into operational units, such integration of counterspace weapons
+and tactics with broader military plans will only increase.
+China’s rapid growth in its space capabilities across the PLA’s Strategic Sup-
+port Force, state-owned enterprises, and burgeoning commercial sector
+means that it now has a lot to lose. It has quickly become the number two
+space power, displacing Russia, whose space program is atrophying.234 CSIS
+has previously written that “deterrence succeeds by altering the cost-benefit
+calculus of a potential aggressor.”235 Beijing’s calculus now involves a high
+cost, which may give it pause. Moscow’s does not. Notably, no ASAT tests
+occurred in the past year. Perhaps this is a result of the greater recognition
+of the destructive potential of debris-generating activity in space, which
+can ruin orbits for oneself and all others dependent on space, or perhaps it
+is a result of international efforts in 2022 on norms of behavior and safety
+and sustainability in space, or it may just be a matter of time before the
+technology is tested once again. In 2023, it will be important to monitor if
+this consequential trend is sustained.
+37 SPACE THREAT ASSESSMENT 2023
+
+ABOUT THE AUTHORS
+KARI A. BINGEN is the director of the Aerospace Security Project and a senior
+fellow in the International Security Program at the Center for Strategic and
+International Studies (CSIS). She joined CSIS from HawkEye 360, an innovative
+space technology company creating a new class of radio frequency (RF) data
+and analytics, where she was the chief strategy officer. Prior to the private
+sector, Kari served as the deputy undersecretary of defense for intelligence
+and security, overseeing the defense intelligence and security enterprises,
+comprising more than 120,000 personnel and an annual budget of over $54
+billion. Before that, Kari served as the policy director on the House Armed
+Services Committee and staff lead for its Strategic Forces Subcommittee,
+advising members of Congress on defense policy, program, and budget mat-
+ters. Prior to entering government, Kari specialized in national security space
+issues, working with U.S. defense and intelligence community clients, first as
+a space systems analyst at SRA International’s Adroit C4ISR Center, and then
+as a senior space policy analyst at the Aerospace Corporation. In addition to
+her work at CSIS, Kari is an adjunct assistant professor at Georgetown Uni-
+versity, was a commissioner on the CSIS Technology and Intelligence Task
+Force, and serves on a number of corporate and nonprofit advisory boards.
+She graduated from the Massachusetts Institute of Technology with a degree
+in aeronautics and astronautics.
+KAITLYN JOHNSON is deputy director and fellow of the Aerospace Security
+Project at the Center for Strategic and International Studies. Ms. Johnson
+supports the team’s strategic planning and research agenda. Her research
+specializes in topics such as space security, military space systems, and com-
+mercial and civil space policy. Ms. Johnson has written on national security
+space reorganization, threats against space assets, the commercialization of
+space, escalation and deterrence dynamics, and defense acquisition trends.
+She is also a cohost of the CSIS podcast Tech Unmanned, which features
+guests with both policy expertise and technical expertise in order to break
+through the national security jargon and technology hand-waving to get to
+the core of the technical realities of these emerging capabilities, benefits to
+development, and the barriers to success. Ms. Johnson holds an MA from
+American University in U.S. foreign policy and national security studies, with
+a concentration in defense and space security, and a BS from the Georgia
+Institute of Technology in international affairs.
+MAKENA YOUNG is an associate fellow with the Aerospace Security Project at
+the Center for Strategic and International Studies (CSIS). Her research interests
+include international collaboration, space security, and orbital debris. Prior to
+joining CSIS, Ms. Young worked for the Federal Aviation Administration as an
+aerospace engineer, focusing on automatic dependent surveillance-broadcast
+certification and integration in small aircraft. She holds a BS in aeronautical
+and astronautical engineering from Purdue University with minors in inter-
+national relations and environmental engineering.
+
+ENDNOTES
+INTRODUCTION
+1 “US General Warns China Biggest Threat in Space,” Voice of America, February 19, 2023, 
+voanews.com/a/us-general-warns-china-biggest-threat-in-space/6969831.html.
+2 “State of Space 2022,” Space Foundation, n.d., 
+of-space-2022-industry-enters-era-of-access-and-opportunity/.
+3 Space Foundation Editorial Team, “Space Foundation Releases the Space Report 2022 Q2 Showing
+Growth of Global Space Economy,” Space Foundation, July 27, 2022, 
+org/2022/07/27/the-space-report-2022-q2/; and “NSR’s Global Space Economy Report Projects $1.25
+Trillion in Revenue by 2030,” Northern Sky Research, January 27, 2022, 
+global-space-economy-report-projects-1-25-trillion-in-revenue-by-2030/.
+4 “Satellite Demand to Quadruple over the Next Decade,” Euroconsult, December 12, 2022, https://
+
+5 “UCS Satellite Database,” Union of Concerned Scientists, December 8, 2005, last updated May 1, 2022,
+
+6 “Space Environment: Total Launches by Country,” CSIS, Aerospace Security, last updated February 16,
+2023, 
+7 “Space Environment Statistics,” Space Debris User Portal, European Space Agency, last updated De-
+cember 22, 2022, 
+TYPES OF COUNTERSPACE WEAPONS
+8 U.S. Space Force, Spacepower: Doctrine for Space Forces (Washington, DC: ), 34, https://
+
+9 “NATO 2022 Strategic Concept,” NATO, June 29, 2022, 
+pdf/2022/6/pdf/290622-strategic-concept.pdf.
+10 “Treaty Banning Nuclear Weapon Tests in the Atmosphere, in Outer Space, and under Water,” U.S.
+Department of State, n.d., 
+11 Brian Garino and Jane Gibson, “Space System Threats,” in AU-18 Space Primer (Maxwell Air Force
+Base, AL: Air University Press, ), 277, 
+chap21.pdf.
+12 Richard B. Langley et al., “Innovation: GNSS Spoofing Detection,” GPS World, June 1, 2013, https://
+
+na-motion/.
+CHINA
+13 Jonathan McDowell, “Space Activities in 2022,” planet4589, January 17, 2023, 
+space/papers/space22.pdf.
+14 Andrew Jones, “China to Expand Its Space Station, International Astronaut Selection Underway,”
+SpaceNews, February 28, 2023, 
+tional-astronaut-selection-underway/.
+15 “Military-Civil Fusion and the People’s Republic of China,” U.S. State Department Fact Sheet, , 
+16 “Company Profile,” China Aerospace Science and Technology Corporation, n.d., 
+china.com/n16421/n17138/n17229/index.html.
+17 Alexander Bowe, “China’s Pursuit of Space Power Status and Implications for the United States,”
+U.S.-China Economic and Security Review Commission, April 11, 2019, 
+default/files/Research/USCC_China’s%20Space%20Power%20Goals.pdf.
+39 SPACE THREAT ASSESSMENT 2023
+
+18 John Costello and Joe McReynolds, China’s Strategic Support Force: A Force for a New Era (Washing-
+ton, DC: Institute for National Strategic Studies, ), 10–12, 15, 16, 
+edu/Portals/68/Documents/stratperspective/china/china-perspectives_13.pdf.
+19 Andrew Jones, “China Sends Second Shiyan-10 Test Satellite Sent into Orbit with Its Final Launch of
+2022,” SpaceNews, December 29, 2022, 
+satellite-sent-into-orbit-with-its-final-launch-of-2022/.
+20 Andrew Jones, “China Scraps Expendable Long March 9 Rocket Plan in Favor of Reusable Version,”
+SpaceNews, November 9, 2022, 
+et-plan-in-favor-of-reusable-version/.
+21 “Jiuquan Satellite Launch Center,” Rocket Rundown, n.d., 
+sites/jiuquan-satellite-launch-center/.
+22 “China’s Satellite Launch Centers,” China Internet Information Center, accessed March 1, 2023, http://
+ and “North Korea’s Missile Activity in 2022,”
+International Institute for Strategic Studies (IISS), , 
+strategic-comments/2022/north-koreas-missile-activity-in-2022.
+23 Andrew Jones, “China Launches 14 Satellites with New Solid Rocket from Mobile Sea Platform,”
+SpaceNews, December 9, 2022, 
+rocket-from-mobile-sea-platform/.
+24 Irina Liu et al., Evaluation of China’s Commercial Space Sector (Alexandria, VA: Institute for Defense
+Analyses, Science and Technology Policy Institute, ), 49, 
+search-and-publications/publications/all/e/ev/evaluation-of-chinas-commercial-space-sector.
+25 Ibid.
+26 Andrew Jones, “Chinese Rocket Firm Space Pioneer Set for First Launch,” SpaceNews, February 16,
+2023, 
+27 Eric Berger, “China’s Secretive Space Plane Flies Higher and Longer Than Before,” ArsTechnica, August
+9, 2022, 
+ger-than-before/.
+28 Todd Harrison et al., Space Threat Assessment 2021 (Washington, DC: CSIS, ), 
+csis.org/analysis/space-threat-assessment-2021; and Andrew Jones, “China’s Mystery Spaceplane
+Releases Object into Orbit,” SpaceNews, November 2, 2022, 
+tery-spaceplane-releases-object-into-orbit/.
+29 Jones, “China’s Mystery Spaceplane Releases Object into Orbit”; and Andrew Jones, “China’s Space-
+plane Raises Orbit and National Funding,” SpaceNews, October 25, 2022, 
+chinas-spaceplane-raises-orbit-and-national-funding/.
+30 Jones, “China’s Spaceplane Raises Orbit and National Funding.”
+31 Jones, “China’s Mystery Spaceplane Releases Object into Orbit.”
+32 “ ” [My Country Successfully Launches Reusable Spacecraft],
+我国成功发射可重复使用试验航天器 我
+, August 4, 2022, 
+国成功发射可重复使用试验航天器_新浪新闻
+05/doc-imizirav6807770.shtml#/, Google translated.
+33 Sandra Erwin, “X-37B Spaceplane Completes Its Sixth Mission, Lands after Nearly 30 Months in Orbit,”
+SpaceNews, November 12, 2022, 
+sion-lands-after-nearly-30-months-in-orbit/.
+34 Andrew Jones, “China Makes Progress in Reusability with Secretive Second Flight of Suborbital
+Spaceplane,” SpaceNews, August 26, 2022, 
+ability-with-secretive-second-flight-of-suborbital-spaceplane/; Eric Mack, “China Briefly Had Two
+Secretive Spaceplanes In Flight, And One Is Still Unaccounted For,” Forbes, August 28, 2022, https://
+
+and-one-is-still-unaccounted-for/; and CSNA Watcher, Twitter post, August 25, 2022, 1:09 p.m., https://
+twitter.com/CNSAWatcher/status/1563045959503716360.
+35 Yang Cheng and Zhao Cong, “My Country’s Suborbital Vehicle Reusable Flight Test a Complete
+Success,” China Aerospace Science and Technology Corporation, August 25, 2022, 
+qq.com/s/ngOK_mUFar4hbZFfqVW6-g.
+
+36 Zhang Tong, “China’s Suborbital Space Plane Project Gets Major Funding Boost,” South China Morning
+Post, September 16, 2022, 
+orbital-space-plane-project-gets-major-funding-boost; and Lia Wong, “Chinese Space Plane Makes
+Second Flight, China’s First Reusable Design,” OVD, August 30, 2022, 
+com/2022/08/30/chinese-space-plane-makes-second-flight-chinas-first-reusable-design/.
+37 Meera Suresh, “China’s Spaceplane Tengyun May Take Off and Land at Airports: Reports,” Internation-
+al Business Times, December 20, 2021, 
+take-land-airports-reports-3360929.
+38 U.S. Defense Intelligence Agency, Challenges to Security in Space (Washington, DC: 2022) 3, https://
+
+Space_2022.pdf.
+39 Makena Young and Akhil Thadani, Low Orbit, High Stakes (Washington, DC: CSIS, ),
+2, and Larry Press, “Update on China SatNet’s
+GuoWang Broadband Constellation – Can They Do It?,” CircleID, February 3, 2022, 
+com/posts/20220203-update-on-china-satnets-guowang-broadband-constellation-can-they-do-it.
+40 Young and Thadani, Low Orbit, High Stakes, 13; and Xinhua, “Full Text: China’s Space Program: A 2021
+Perspective,” The State Council of the People’s Republic of China, updated January 28, 2022, https://
+english.
+41 Cao Siqi, “Robot Prototype Capable of Clearing Space Debris Shines at Airshow China,” Global Times,
+November 13, 2022, and “China Launches
+Robot Prototype Capable of Catching Space Debris with Net,” CNA, April 27, 2021, 
+nelnewsasia.com/asia/china-launches-robot-prototype-capable-catching-space-debris-net-247601.
+42 “Space Debris Removal,” Origin Space, n.d., and Siqi,
+“Robot Prototype Capable of Clearing Space Debris Shines at Airshow China.”
+43 Office of the Director of National Intelligence, Annual Threat Assessment of the U.S. Intelligence Com-
+munity (Washington, DC: Office of the Director of National Intelligence, ), 
+gov/files/ODNI/documents/assessments/ATA-2021-Unclassified-Report.pdf.
+44 Stephen Chen, “The Powerful Chinese Megawatt Laser ‘Small Enough for a Satellite’,” South China
+Morning Post, January 7, 2022, 
+nese-megawatt-laser-powerful-small-enough-be-used-satellite.
+45 Todd Harrison et al., Space Threat Assessment 2020 (Washington, DC: CSIS, ), 
+csis.org/analysis/space-threat-assessment-2020.
+46 Xinhua, “China’s space tracking ship sails for monitoring missions,” China Daily, August 23, 2022,
+
+47 Naqi Wasif, “China displays transportable SLC-18 space surveillance radar,” Janes, Novem-
+ber 16, 2022, 
+able-slc-18-space-surveillance-radar.
+48 “China’s Anti-stealth Radar Comes to Fruition,” Defense News, November 22, 2014, 
+defensenews.com/global/asia-pacific/2014/11/22/chinas-anti-stealth-radar-comes-to-fruition/.
+49 Matthew P. Funaiole et al., “Eyes on the Skies: China’s Growing Space Footprint in South America,”
+Hidden Reach, CSIS, October 4, 2022, 
+space/.
+50 “SJ 21,” Gunter’s Space Page, n.d., 
+51 “SJ21 with Compass G2,” YouTube video, posted by COMSPOC, January 28, 2022, 0:21, 
+youtube.com/watch?v=vSs0Ic3LlZE.
+52 “SJ 12,” Gunter’s Space Page, n.d., and “USA270 and
+Shiyan12,” YouTube video, posted by COMSPOC, January 28, 2022, 0:39, 
+watch?v=G--70E8nc7Y.
+53 Debra Werner, “An In-Orbit Game of Cat and Mouse: Close Approaches Prompt Calls for Communica-
+tions and Norms,” SpaceNews, June 16, 2022, 
+mouse-close-approaches-prompt-calls-for-communications-and-norms/.
+54 “SJ 23,” Gunter’s Space Page, n.d., 
+41 SPACE THREAT ASSESSMENT 2023
+
+55 Andrew Jones, “Classified Chinese Satellite Releases Small Object in Orbit,” space.com, January 24,
+2023, 
+RUSSIA
+56 “Russia Claims Its Zadira Laser Weapon Destroyed a Drone in Ukraine,” Defense News, May 19, 2022,
+
+stroyed-a-drone-in-ukraine/.
+57 Florian Vidal, Russia’s Space Policy: The Path of Decline? (Paris: French Institute of International
+Relations, ), 
+cy-path-decline.
+58 Todd Harrison et al., Space Threat Assessment 2022 (Washington, DC: CSIS, ), 
+csis.org/analysis/space-threat-assessment-2022.
+59 Emma Helfrich, “Russian Military Satellite Appears to Be Stalking a New U.S. Spy Satellite,” The Drive,
+August 3, 2022, 
+ellites-may-be-underway.
+60 Samuel Bendett et al., “04 Russian Space Systems and the Risk of Weaponizing Space,” Chatham
+House, September 23, 2021, 
+gy-russia/04-russian-space-systems-and-risk-weaponizing-space.
+61 Kenneth Chang and Anton Troianovski, “In Space, U.S.-Russian Cooperation Finds a Way Forward,”
+New York Times, July 15, 2022, 
+nauts-space.html.
+62 Rogozin’s Twitter has since been cleared of any tweets pre-2017. Mike Wall, “Russia Threatens to
+Leave International Space Station Program (Again),” Space.com, April 3, 2022, 
+com/russia-threatens-leave-international-space-station-program-rogozin; and “Yury Ivanovich Bor-e
+isov,” Globalsecurity.org, July 15, 2022, 
+htm.
+63 “Orbital Launches of 2022,” Gunter’s Space Page, n.d., 
+64 РОСKОСМОС, Twitter post, March 4, 2022, 5:13 a.m., 
+tus/1499689419808378882.
+65 Jeff Foust, “OneWeb Takes $229 Million Charge for Canceled Soyuz Launches,” SpaceNews, September
+7, 2022, 
+66 “Angara-A5 Persei,” Gunter’s Space Page, n.d., 
+blok-dm-03.htm; and Gunter D. Krebs, “Angara-1.2,” Gunter’s Space Page, n.d., 
+et.de/doc_lau_det/angara-1-2.htm.
+67 Jonathan McDowell, Twitter post, December 10, 2022, 7:47 a.m., 
+status/1601740380722044928; and Jonathan McDowell, Twitter post, May 18, 2022, 7:38 a.m., https://
+twitter.com/planet4589/status/1526889947541737474.
+68 “Angara Family,” Gunter’s Space Page, n.d., 
+69 “Putin Congratulates Russians on Cosmonautics Day from Far East’s Vostochny Spaceport,” TASS,
+April 12, 2022, 
+70 “Putin, Lukashenko Kick off Bilateral Meeting at Vostochny Spaceport,” TASS, April 12, 2022, https://
+tass.com/politics/1436311.
+71 “Yury Ivanovich Borisov,” globalsecurity.org.
+72 “Angara Family,” Gunter’s Space Page, n.d., 
+73 “Orbital Launches of 2022,” Gunter’s Space Page, n.d., 
+74 Ibid.
+75 Anatoly Zak, “Russia Approves Its 10-year Space Strategy,” The Planetary Society, March 23, 2016,
+
+76 Eric Berger, “Putin Slashes Russia’s Space Budget and Says He Expects Better Results,” Ars Technica,
+October 8, 2021, 
+says-he-expects-better-results/.
+
+77 “N° 9–2022: ExoMars Suspended,” European Space Agency, Press Release, March 17, 2022, https://
+
+78 Jeff Foust, “Majority of tracked Russian ASAT debris has deorbited,” SpaceNews, September 29, 2022,
+
+79 Mark Garcia, “Space Station Maneuvers to Avoid Orbital Debris,” National Aeronautics and Space
+Administration, October 24, 2022, 
+neuvers-to-avoid-orbital-debris/; Mark Garcia, “Life Science, Debris Avoidance Maneuver Takes Place
+on Station,” National Aeronautics and Space Administration, June 16, 2022, 
+spacestation/2022/06/16/life-science-debris-avoidance-maneuver-takes-place-on-station/; and
+“ISS Maneuvers to Evade Space Debris - Roscosmos,” TASS, October 17, 2022, 
+ence/1523997.
+80 “Mikoyan-Gurevich MiG-31BM Foxhound,” JetPhotos, September 14, 2018, 
+com/photo/9074544; and Amanda Macias, “A Never-Before-Seen Russian Missile Is Identified as an
+Anti-satellite Weapon and Will Be Ready for Warfare by 2022,” CNBC, October 25, 2018, 
+cnbc.com/2018/10/25/russian-missile-identified-as-anti-satellite-weapon-ready-by-2022.html.
+81 Ron Lerch, “The Space Domain: Emerging Factors and Threats,” (presentation, n.d.), 
+spaceforce.mil/Portals/3/20220516%20Threat%20Baseline_AATS_1.pdf.
+82 Defense Intelligence Ballistic Missile Analysis Committee, Ballistic and Cruise Missile Threat 2020
+(Washington, DC: Department of Defense, ), 
+Jan/11/2002563190/-1/-1/0/2020%20BALLISTIC%20AND%20CRUISE%20MISSILE%20THREAT_FI-
+NAL_2OCT_REDUCEDFILE.PDF.
+83 Bart Hendrickx, “Kalina: A Russian Ground-Based Laser to Dazzle Imaging Satellites,” The Space Re-
+view, July 5, 2022, 
+84 Marco Langbroek, “The Flyby of USA 326 by Kosmos 2558 on August 4: A Post-Analysis,” SatTrackCam
+Leiden (b)log, August 6, 2022, 
+kosmos-2558-on.html.
+85 “Top U.S. Generals Take Issuewith Russian Satellite Near U.S. Orbit,” YouTube video, posted by NBC
+News, August 9, 2022, 2:40, 
+86 Emma Helfrich, “Russian Military Satellite Appears to Be Stalking a New U.S. Spy Satellite,” The Drive,
+August 3, 2022, 
+ellites-may-be-underway.
+87 Marco Langbroek, “Kosmos 2558 Keeping Its Orbit Close to USA 326 [UPDATED],” SatTrackCam Leiden
+(b)log, September 7, 2022, 
+bit-close-to.html.
+88 John Wiseman, Twitter post, December 20, 2022, 3:58 p.m., 
+tus/1605306677590310912; and Matt Burgess, “GPS Signals Are Being Disrupted in Russian Cities,”
+Wired, December 15, 2022, 
+89 “Russia Integrates Military Capabilities into Civil Communications Infrastructure,” Resilient Navigation
+and Timing Foundation, , 
+mers-Russia.pdf.
+90 Harrison, Space Threat Assessment 2020, 26–27.
+91 Christian Vasquez, “CISA Researchers: Russia’s Fancy Bear Infiltrated US Satellite Network,” Cyber-
+Scoop, December 16, 2022, 
+92 “Russian State-Sponsored and Criminal Cyber Threats to Critical Infrastructure,” Cybersecurity and
+Infrastructure Security Agency, April 20, 2022, 
+93 Dylan Malyasov, “Russia Is Jamming European Space Agency’s Sentinel Satellite?,” Defence Blog, July
+25, 2021, 
+94 Bart Hendrickx, “Russia Gears Up for Electronic Warfare in Space (part 1),” The Space Review, October
+26, 2020, 
+95 “News: End of Mission of the Copernicus Sentinel-1B satellite,” European Space Agency, August
+3, 2022, 
+nel-1b-satellite/1.5: and “Sentinel-1B In-flight Anomaly Summary Report,” European Space Agency,
+43 SPACE THREAT ASSESSMENT 2023
+
+port.pdf.
+96 Sandra Erwin, “On National Security | Drawing Lessons from the First ‘Commercial Space War’,” Spa-
+ceNews, May 20, 2022, 
+commercial-space-war/.
+97 “OSCE SMM Spot Report 16/2021: SMM Long-Range Unmanned Aerial Vehicle Lost Due to Dual GPS
+Signal Interference Assessed as Jamming near Government-Controlled Stepanivka,” Organization for
+Security and Co-operation in Europe, June 30, 2021, 
+sion-to-ukraine/491383.
+98 “Spot Report 6/2021: SMM Long-Range UAV Unable to Take Off due to Dual GPS Signal Interference,”
+Organization for Security and Co-operation in Europe, April 7, 2021, 
+cial-monitoring-mission-to-ukraine/483008.
+99 “HawkEye 360 Signal Detection Reveals GPS Interference in Ukraine,” HawkEye 360, March 4, 2022,
+
+100 Sunil J.B. Babu and Huw Williams, “Ukraine Conflict: Russian Battlefield EW Capabilities,” Jane’s
+International Defence Review, March 1, 2022.
+101 “Russia behind Cyber-Attack with Europe-Wide Impact an Hour before Ukraine Invasion,” gov.uk, May
+10, 2022, 
+pact-an-hour-before-ukraine-invasion.
+102 Andrea Valentino, “Why the Viasat Hack Still Echoes,” Aerospace America, , https://
+aerospaceamerica.aiaa.org/features/why-the-viasat-hack-still-echoes/; and ibid.
+103 “Alert (AA22-076A): Strengthening Cybersecurity of SATCOM Network Providers and Customers,”
+Cybersecurity and Infrastructure Security Agency, March 17, 2022, 
+alerts/aa22-076a.
+104 Michael Sheetz, “SpaceX Shipment of Starlink Satellite-Internet Dishes Arrives in Ukraine, Gov-
+ernment official says,” CNBC, February 28, 2022, 
+dates-starlink-satellite-dishes.html.
+105 Kate Duffy, “A Top Pentagon Official Said SpaceX Starlink Rapidly Fought Off a Russian Jamming
+Attack in Ukraine,” Business Insider, April 22, 2022, 
+pentagon-russian-jamming-attack-elon-musk-dave-tremper-2022-4.
+106 Elon Musk, Twitter post, October 13, 2022, 9:20 p.m., 
+tus/1580594379751686149; and Elon Musk, Twitter post, May 10, 2022, 8:56 p.m., 
+elonmusk/status/1524191785760788480?t=D5b7RO7LpDGjk3RHhm7pYw&s=19.
+107 “2022-02R1: Global Navigation Satellite System Outage Leading to Navigation / Surveillance Degrada-
+tion,” European Union Aviation Safety Agency, February 17, 2023, 
+02R1.
+108 “Finland Detects GPS Disturbance near Russia’s Kaliningrad,” Reuters, March 9, 2022, 
+reuters.com/article/ukraine-crisis-finland-gps/corrected-finland-detects-gps-disturbance-near-rus-
+sias-kaliningrad-idUSL5N2VB4KS.
+109 Thomas Withington, “Russia’s Electronic Warfare Capabilities Have Had Mixed Results against
+Ukraine,” The Drive, June 16, 2022, 
+pened-so-far-in-ukraines-electronic-warfare-battle; Tanmay Kadam, “Russia’s Electronic Warfare
+Capability ‘Exposed’ in Ukraine War; Is Putin’s Techno-Savvy Army Losing the EW Battle?,” The
+EurAsian Times, April 18, 2022, 
+posed-in-ukraine-war; and Juan Pons, “The Unseen and Unknown Electronic War in Ukraine,” Atala-r
+yar, March 14, 2022, 
+110 Sunil J.B. Babu and Huw Williams, “Ukraine Conflict: Russian Battlefield EW capabilities,” Jane’s
+International Defence Review, March 1, 2022; and raging545, Twitter post, March 15, 2022, 3:45 p.m.,
+
+111 Amy Cheng, “Russia Touts New Laser Weapons, but Ukraine and U.S. Are Skeptical,” Washington
+Post, May 19, 2022, 
+ra-peresvet-ukraine/.
+112 Harrison et al., Space Threat Assessment 2021, 15.
+
+113 Todd Harrison, Kaitlyn Johnson, and Thomas G. Roberts, Space Threat Assessment 2018 (Washington,
+DC: CSIS, 2018), 15, 
+114 “Statement by Deputy Head of the Russian Delegation Mr. Konstantin Vorontsov at the Thematic
+Discussion on Outer Space (Disarmament Aspects) in the First Committee of the 77th Session of the
+UNGA,” Permanent Mission of the Russian Federation to the United Nations, October 26, 2022, https://
+russiaun.ru/en/news/261022_v.
+115 Kari Bingen, Kaitlyn Johnson, and Zhanna Malekos Smith, “Russia Threatens to Target Commercial
+Satellites,” CSIS, Critical Questions, November 10, 2022, 
+ens-target-commercial-satellites.
+116 Robyn Dixon, “Russia’s Rifts with the West Keep Growing. How Did We Get Here?,” Washington Post,
+January 8, 2022, 
+117 “Intelsat 39 at 62°E,” Intelsat, , 
+telsat-39-fact-sheet.pdf.
+118 “Coverage Maps,” Intelsat, n.d., 
+INDIA
+119 Muali Krishnan, “Indian Defence Forces on Mission to Secure Place in Space,” rfi, October 22, 2022,
+
+place-in-space.
+120 “About ISRO,” Indian Space Research Organisation, Department of Space, n.d., 
+in/about-isro.
+121 Vivek Raghuvanshi, “India to Launch a Defense-Based Space Research Agency,” Defense News, June
+12, 2019, 
+research-agency/.
+122 “Defence Space Agency to Come Up at Bengaluru,” ANI, May 15, 2019, 
+national/ general-news/defence-space-agency-to-come-up-at-bengaluru20190515191050/.
+123 Vivek Raghuvanshi, “India to Launch a Defense-Based Space Research Agency.”
+124 Ibid.
+125 Aditya Pareek and Megha Pardhi, “India Needs a Comprehensive Space Strategy,” Hindustan
+Times, February 11, 2022, 
+sive-space-strategy- 101644571361711.html.
+126 “About DRDO,” Defence Research & Development Organisation, n.d., 
+about-drdo.
+127 “Rocket Launch Sites in India List,” Byju’s Exam Prep, February 17, 2023, 
+prep/rocket-launch-sites-india.
+128 “Launchers,” Indian Space Research Organisation, Department of Space, n.d., 
+in/ Launchers.html.
+129 Anonna Dutt, “ISRO’s SSLV-D2 launch: The Mini Vehicle’s Second Flight, with Promise on Board,”
+Indian Express, February 10, 2023, 
+janus-1-and- azaadisat2-second-flight-of-isros-mini-vehicle-with-promise-on-board-8435348/.
+130 Ibid.
+131 “Launchers,” Indian Space Research Organisation.
+132 “List of International Customer Satellites Launched by ISRO,” Indian Space Research Organisation,
+Department of Space, February 17, 2023, 
+isro.gov.in/media_isro/pdf/ForeignSatellites/381_foreign_satellites.pdf.
+133 Park Si-soo, “India’s PSLV Rocket Launches Nine Satellites in Final Mission of 2022,” SpaceNews,
+November 26, 2022, 
+sion-of-2022.
+134 “After Successful Mission, India’s First Private Rocket Company Skyroot Aerospace Looks to Slash
+Satellite Costs,” Economic Times, November 26, 2022, 
+45 SPACE THREAT ASSESSMENT 2023
+
+after-successful-mission-indias-first-private-rocket-company-skyroot-aerospace-looks-to-slash-satel-
+lite-costs/articleshow/95782212.cms; and “Skyroot Aerospace Plans to Launch Vikram-1 in One Year,”
+Economic Times, November 29, 2022, 
+aerospace-plans-to-launch-vikram-1-in-one-year/articleshow/95849755.cms?from=mdr.
+135 “Satellites,” Indian Space Research Organisation, Department of Space, n.d., 
+Satellites.html.
+136 “Chandrayaan-1,” Indian Space Research Organisation, Department of Space, n.d., 
+gov.in/Chandrayaan_1.html.
+137 “Chandrayaan-2,” Indian Space Research Organisation, Department of Space, n.d., 
+gov.in/Chandrayaan_2.html.
+138 “GSAT-7,” Indian Space Research Organisation, Department of Space, n.d., 
+GSAT_7.html; and “GSAT-7,” National Aeronautics and Space Administration, 
+gov/nmc/spacecraft/display.action?id=2013-044B.
+139 “GSAT 7A,” Gunter’s Space Page, n.d., 
+140 “EMISAT (Electromagnetic Intelligence-gathering Satellite),” European Space Agency, n.d., https://
+
+141 Surendra Singh, “India’s First ‘Spy’ Satellite Risat-2 Re-enters Earth after 13.5-yr Job, Lands near Ja-
+karta,” Times of India, November 4, 2022, 
+satellite-risat-2-re-enters-earth-after-13-5-yr-job-lands-near-jakarta/articleshow/95286968.cms.
+142 “Microsat-R,” Indian Space Research Organisation, Department of Space, n.d., 
+in/Microsat_R.html.
+143 Anjana Pasricha, “India Looks to Enhance Military Capabilities in Space,” VOA News, June 27,
+2021, 
+ties-space/6207536.html; and “Two Years after Mission Shakti, India Increasing Its Military Capa-a
+bilities in Space,” Economic Times, March 26, 2021, 
+defence/two-years-after-mission-shakti-india-increasing-its-military-capabilities-in-space/article-
+show/81707328.cms?from=mdr.
+144 Snehesh Alex Philip, “DRDO Rules Out A-SAT Tests in Lower Earth Orbits, but Keeps Options Open in
+Higher Orbits,” The Print, April 6, 2019, 
+er-earth-orbits- but-keeps-options-open-in-higher-orbits/217879/.
+145 Kartik Bommakanti, “An A-SAT Test Ban Can Wait: India Needs to Widen Kinetic A-SAT Capabilities,”
+Observer Research Foundation, January 25, 2023, 
+test-ban-can-wait/.
+146 “Electronics and Communication Systems (ECS): About Us,” Defence Research & Development Organi-
+sation, n.d., communications.
+147 Meera Rohera, “Indian Space Policy for the Private Sector,” Aerospace Security, CSIS, December 7,
+2021, 
+IRAN
+148 “Simorgh,” CSIS, Missile Threat, updated July 31, 2021, 
+morgh/.
+149 “Iran Announces New Space Launch amid Nuclear Talks,” Jordan Times, December 31, 2021, http://
+jordantimes.com/news/region/iran-announces-new-space-launch-amid-nuclear-talks; ;David Axe,
+“Iran’s New Space Rocket Could Double As A Nuclear Missile,” Forbes, February 1, 2021, 
+forbes.com/sites/davidaxe/2021/02/01/irans-new-space-rocket-could-double-as-a-weapon/?sh=2b-
+d5eec82d40; and Patrick Wintour, “Iran nuclear talks deadlock risks dangerous vacuum,” The Guard-
+ian, January 17, 2022, 
+lock-risks-dangerous-vacuum.
+150 “Views and Analysis of the Islamic Republic of Iran on the Resolution ‘Reducing Space Threats
+through Norms, Rules, and Principles of Responsible Behavior’ proposed by United Kingdom of Great
+Britain and Northern Ireland in the First Committee of the UN (A/C.1/75/L.45/Rev.1) 11/6/2020,” Per-
+manent Mission of the Islamic Republic of Iran to the United Nations, 2021.
+
+151 “Iranian Laws & Government: The Structure of Power in Iran,” Iran Chamber Society, n.d., https://
+
+152 John Krzyzaniak, “Part 1: Explainer - Iran’s Space Program,” United States Institute of Peace, The Iran
+Primer, August 9, 2022, 
+153 “MKS International Co. Ltd.,” Iran Watch, February 7, 2017, 
+ties/mks-%20international-co-ltd.
+154 “Iran Takes 1st Step for Implementing 10-year Space Plan,” Islamic Republic News Agency, January 7,
+2023, 
+155 Luis Linares Petrov, “Iran Begins Implementation of 10-year Space Program,” Prensa Latina, January
+8, 2023, 
+program/.
+156 Jim Lamson and Jeffrey Lewis, “Iranian President Raisi’s Renewed Emphasis on Space is Likely to
+Create New Tensions,” War on the Rocks, December 20, 2021, 
+iranian-president-raisis-renewed-emphasis-on-space-is-likely-to-create-new-tensions/.
+157 “Safir,” CSIS, Missile Threat, updated August 2, 2021, 
+158 Ibid.
+159 “Simorgh,”CSIS, Missile Threat; and Michael Rubin, “Zuljanah: Iran’s New Solid-Fuel Rocket,” American
+Enterprise Institute, March 1, 2021, solid-fuel-rock-t
+et/.
+160 Maziar Motamedi, “Iran Test Launches Zuljanah Satellite Carrier: State Media,” Al Jazeera, June 26,
+2022, 
+rier; and “Iran Conducts 2nd Test of Satellite Launcher as Nuclear Talks Said Set to Resume,” Times of
+Israel, June 26, 2022, 
+nuclear-talks-said-set-to-resume/.
+161 Jon Gambrell, “Satellite Photos Show Iran Had Another Failed Space Launch,” Associated Press,
+March 2, 2022, 
+71f17a612e8aef2c9b58af4538183.
+162 William Graham, “Iran Carries Out Military Launch with Qased Rocket and Noor-2 Satellite,” NASA
+Spaceflight.com, March 8, 2022, 
+sed-noor-2/.
+163 Tariq Malik, “Iran’s Revolutionary Guard Launches Successful Rocket Test: Report,” Space.com, No-i
+vember 5, 2022, “How the Ghaem-100
+Rocket Puts Iran’s Space Program on a New Trajectory,” Iran Watch, December 19, 2022, 
+iranwatch.org/our- publications/articles-reports/how-ghaem-100-rocket-puts-irans-space-program-
+new-trajectory; and “Iran Says It Tests Satellite-Carrying Rocket, U.S. Calls Move ‘destabilising’,”
+Reuters, November 5, 2022, 
+100-space-launcher-state-tv-2022-11-05/.
+164 “Nahid 1,” Gunter’s Space Page, n.d., and “Iran to
+Launch Nahid Satellite into Space: ICT Minister,” Tasnim News Agency, November 20, 2022, https://
+
+minister.
+165 Andrew Hanna, “Iran’s Ambitious Space Program,” United States Institute of Peace, The Iran Primer,
+June 23, 2021, 
+gram.
+166 “Iran Says It Launched Test ‘Tug’ into Suborbital Space,” Associated Press, October 4, 2022,
+
+84c72dd3cee5dbc0f075b74975; and “Simorgh,” Astronautix, n.d., 
+web/20190716114802/
+167 “Iran Says It Launched Test ‘Tug’ into Suborbital Space,” Associated Press.
+168 “Shahroud Missile Test Site,” Nuclear Threat Initiative, n.d., 
+facilities/shahroud-missile-test-site/.
+169 “Imam Khomeini Space Center,” Nuclear Threat Initiative, n.d., 
+facilities/imam-khomeini-space-center/.
+47 SPACE THREAT ASSESSMENT 2023
+
+170 Maziar Motamedi, “Russia Launches Iranian Satellite into Space from Kazakhstan Base,” Al Jazeera,
+August 9, 2022, 
+to-space-from-kazakhstan-base.
+171 Ibid.
+172 “Iran Puts Second Military Satellite into Orbit - Tasnim,” Reuters, March 8, 2022, 
+com/world/middle-east/irans-revolutionary-guards-put-noor-2-satellite-orbit-tasnim-2022-03-08/.
+173 “Iranian Noor-2 Satellite Releases Image of 5th US Navy,” Al Mayadeen Net, May 10, 2022, 
+glish.almayadeen.net/news/politics/iranian-noor-2-satellite-releases-image-of-5th-us-navy.
+174 “Operational Stage of Gen. Soleimani Satellite Project Launched,” Tehran Times, January 22, 2023,
+
+ect-launched.
+175 Motamedi, “Russia Launches Iranian Satellite into Space from Kazakhstan Base.”
+176 Felicia Schwartz, “US Says Russia Providing ‘Unprecedented’ Military Support to Iran,” Financial
+Times, December 9, 2022, and
+Courtney Kube and Carol E. Lee, “Russia Is Providing ‘Unprecedented’ Military Support to Iran in Ex-
+change for Drones, Officials Say,” NBC News, December 9, 2022, 
+russia-providing-unprecedented-military-support-iran-exchange-drones-o-rcna60921.
+177 “Iran, Russia, Sign Space Cooperation Document,” Islamic Republic News Agency, December 14,
+2022, sign-space-cooperation-document; and Hos-a
+sein Dalirian, Twitter post, December 14, 2022, 11:51 a.m., 
+tus/1603070084158717953.
+178 Harrison et al., Space Threat Assessment 2020, 29–34.
+179 Lily Hay Newman, “The Challenge of Cracking Iran’s Internet Blockade,” Wired, September 30, 2022,
+ and Johnna Crider, “Report: Iran
+Blocks SpaceX Starlink Website after Elon Musk Activated Internet for Iranians,” Teslarati, September
+24, 2022, 
+180 Brett Tingley, “Eutelsat Accuses Iran of Jamming 2 Persian-Language Broadcast Satellites,” Space.
+com, October 7, 2022, 
+NORTH KOREA
+181 Robert Z. Pearlman, “North Korea’s ‘NADA’ Space Agency, Logo Are Anything but ‘Nothing’,” Space.
+com, April 2, 2014, and
+“National Aerospace Development Administration of DPRK,” Korean Central News Agency, April 1,
+2014, 
+space-development-administration/.
+182 Ji Da-gyum, “N. Korea’s Parliament Revises Outer Space Law, Plans Key Meeting before Foundation
+Day,” The Korea Herald, August 8, 2022, 
+183 Carlotta Dotto, Brad Lendon, and Jessie Yeung, “North Korea’s Record Year of Missile Testing Is Putting
+the World on Edge,” CNN, December 27, 2022, 
+missile-testing-year-end-intl-hnk/index.html; and “North Korea’s Missile Activity in 2022,” IISS, De-
+cember 2022, 
+tivity-in-2022.
+184 Soo-Hyang Choi and Josh Smith, “North Korea Fires 23 Missiles, One Landing Off South Korean Coast
+for First Time,” Reuters, November 2, 2022, 
+rea-fires-ballistic-missile-says-south-korean-military-2022-11-02/; and Mike Wall, “North Korea
+Launches Record 23-Missile Barrage,” Space.com, November 2, 2022, 
+korea-launches-23-missile-barrage.
+185 Min Joo Kim, “North Korea Says It Held Test for Spy Satellite Launch,” Washington Post, February
+27, 2022, U.S. Pacific
+Command, “Statement by Pentagon Press Secretary John Kirby on Recent DPRK Missile Tests,” Press
+release, March 10, 2022, 
+statement-by-pentagon-press-secretary-john-kirby-on-recent-dprk-missile-tests/; and Ankit Panda,
+
+“Two Unusual Missile Launches Hint at a New Security Crisis in North Korea,” Carnegie Endowment
+for International Peace, Commentary, March 15, 2022, 
+two-unusual-missile-launches-hint-at-new-security-crisis-in-north-korea-pub-86642.
+186 Martyn Williams, “A North Korean Satellite Launch: What to Watch For,” 38 North, March 10, 2022,
+ Joseph S.
+Bermudez, Jr., Victor Cha, and Jennifer Jun, “Dramatic Progress of New Construction at the Sohae
+Satellite Launching Station,” CSIS, Beyond Parallel, October 26, 2022, 
+dramatic-progress-of-new-construction-at-the-sohae-satellite-launching-station/.
+187 Joseph S. Bermudez, Jr., Victor Cha, and Jennifer Jun, “Recent and Future Developments of the So-
+hae Satellite Launching Station,” CSIS, Beyond Parallel, April 13, 2022, 
+recent-and-future-developments-of-the-sohae-satellite-launching-station/.
+188 Joseph S. Burmudez, Jr., Victor Cha, and Jennifer Jun, “New Engine Test Stand and Construction
+Progress at Sohae Satellite Launching Station,” CSIS, Beyond Parallel, December 15, 2022, 
+yondparallel.csis.org/probable-new-engine-test-stand-and-construction-progress-at-sohae-satellite-
+launching-station/.
+189 “North Korea’s Tonghae Satellite Launching Ground,” 38 North, October 28, 2016, 
+w.38north.org/2016/10/tonghae102816/; and “VOA: Transportable Building at Sohae Satellite Launch-e
+ing Ground Partially Dismantled,” KBS World, October 26, 2022, 
+news_view.htm?lang=e&Seq_Code=173340.
+190 Missile Defense Project, “Taepodong-2 (Unha-3),” CSIS, Missile Threat, August 8, 2016, last modified
+July 31, 2021, 
+191 Hyung-Jin Kim, “North Korea Says Latest Launches Tested 1st Spy Satellite,” Associated Press,
+December 18, 2022, 
+473cdd7f76f; and Williams, “A North Korean Satellite Launch: What to Watch For.”
+192 “N Korea Completes ‘Important’ Test of Spy Satellite: State Media,” Al Jazeera, December 19, 2022,
+
+state-media.
+193 “NADA Conducts Important Test for Development of Reconnaissance Satellite,” Pyongyang Times,
+December 19, 2022, 
+ers&blogid=639ff8151c38 bb05f7ae0ec4; and Lin Congyi, “DPRK Conducts ‘Final-Stage’ Test for 1st
+Military Reconnaissance Satellite,” China Daily, December 19, 2022, 
+WORLD_209198/WorldMilitaryNews/10206621.html.
+194 Colin Zwirko, “North Korea Says It Took Photos over Seoul in Military Satellite Test,” NK News, Decem-
+ber 19, 2022, 
+launch-state-media/; and ibid.
+195 Harrison et al., Space Threat Assessment 2021, 21–23.
+OTHERS
+196 “Defence Announces Space Division,” Australia Department of Defence, May 19, 2021, 
+defence.gov.au/news-events/releases/2021-05-19/defence-announces-space-division; and “De-o
+fense Space Command,” Royal Australian Air Force, n.d., 
+fence-space-command.
+197 Australia Department of Defence, Australia’s Defence Space Strategy (Canberra: Australia Department
+of Defence, 2022), and
+“Defence Soars into Space,” Australia Department of Defence, March 23, 2022, 
+gov.au/news-events/news/2022-03-23/defence-soars-space.
+198 Courtney Albon, “Space Force Surveillance Telescope Now Operational in Australia,” Defense News,
+September 30, 2022, 
+scope-now-operational-in-australia/.
+199 “Opening Ceremony - IAC 2022,” YouTube video, posted by International Astronautical Federation,
+September 19, 2022, 1:51:37, 
+200 Gosnold, “ASTERX 22: France’s Annual Military Space Exercise,” SatelliteObservation.net, March 6,
+2022, 
+49 SPACE THREAT ASSESSMENT 2023
+
+and Armée de l’Air et de l’Espace, Twitter post, February 16, 2022, 10:25 a.m., 
+mee_de_lair/status/1494015174617047042.
+201 Harrison et al., Space Threat Assessment 2020, 48–49.
+202 “YODA,” Hemeria, n.d., 
+203 Arie Egozi, “Israel to Spend $150 Million on Laser Defenses, after US Hesitation,” Breaking Defense,
+August 3, 2022, 
+after-us-hesitation/; and Aaron Mehta, “Iron Beam, Israel’s Laser Air Defense System, Could Be Ready
+in 2-3 Years,” Breaking Defense, October 4, 2022, 
+raels-laser-air-defense-system-could-be-ready-in-2-3-years/.
+204 Mehta, “Iron Beam, Israel’s Laser Air Defense System, Could Be Ready in 2-3 Years.”
+205 “National Security Strategy of Japan,” Cabinet Secretariat of Japan, December 16, 2022, 
+cas.go.jp/jp/siryou/221216anzenhoshou/nss-e.pdf; “National Defense Strategy,” Japan Ministry of
+Defense, December 16, 2022, 
+strategy_en.pdf; “Defense Buildup Program,” Japan Ministry of Defense, December 16, 2022, https://
+ and Mike Yeo, “New
+Japanese Strategy to Up Defense Spending, Counterstrike Purchases,” Defense News, December 20,
+2022, 
+defense-spending-counterstrike-purchases/.
+206 Japan Ministry of Defense, Defense Programs and Budget of Japan (Tokyo: ), 
+mod.go.jp/en/d_act/d_budget/pdf/20220420.pdf; and Mike Yeo, “Japan Seeks to Increase Defense
+Spending to 2% of GDP,” Defense News, December 1, 2022, 
+asia-pacific/2022/12/01/japan-seeks-to-increase-defense-spending-to-2-of-gdp/.
+207 Japan Ministry of Defense, Defense Programs and Budget of Japan.
+208 Ibid.
+209 Mike Wall, “Japanese Rocket Launches Radar Spy Satellite,” Space.com, January 26, 2023, https://
+
+210 “IGS-Radar 3, 4, 5, 6, 7, 8, Spare,” Gunter’s Space Program, n.d., 
+igs-radar-3.htm; and “Japan Launches Intelligence Gathering Satellite To Keep Vigil On North Korea,”
+Outlook, January 26, 2023, 
+gence-gathering-satellite-to-keep-vigil-on-north-korea-news-256943.
+211 “Orbital Launches of 2022,” Gunter’s Space Page, n.d., 
+htm.
+212 “South Korea Launches First Satellite with Homegrown Rocket,” NBC News, June 22, 2022, https://
+
+213 Hyung-jin Kim, “South Korea’s Unannounced Rocket Launch Causes UFO scare,” Associated Press,
+December 30, 2022, 
+ogy-abe96197f899c94f9e9f5c02e407d367.
+214 “South Korea Launches First Satellite with Homegrown Rocket,” NBC News; and Park Si-soo, “South
+Korea’s New President Seeks Independent Space Agency, Deeper US Space Cooperation,” SpaceNews,
+May 9, 2022, 
+cy-deeper-us-space-cooperation/.
+215 Lucia Retter, James Black, and Theodora Ogden, Realising the Ambitions of the UK’s Defence Space
+Strategy Factors Shaping Implementation to 2030 (Santa Monica, CA: RAND, 2022), 
+uk/government/publications/realising-the-ambitions-of-the-uks-defence-space-strategy.
+216 Anonymous TV, Twitter post, March 1, 2022, 2:49 p.m., 
+tus/1498792639877074945; and Bryan Bender, “Russia’s Space Chief Says Hacking Satellites ‘a Cause
+for War’,” Politico, March 2, 2022, 
+hacking-satellites-war-00013211.
+217 “Roscosmos CEO Debunks Claims of Loss of Control over Russian Satellites,” TASS, March 1, 2022,
+
+218 Joseph Cox, “Hackers Breach Russian Space Research Institute Website,” Vice, March 3, 2022, https://
+
+WHAT TO WATCH
+219 Harrison et al., Space Threat Assessment 2022.
+220 “Joint Statement of the 2023 U.S.–Japan Security Consultative Committee (‘2+2’),” U.S. Department
+of Defense, January 11, 2023, 
+joint-statement-of-the-2023-usjapan-security-consultative-committee-22/.
+221 Harrison et al., Space Threat Assessment 2022.
+222 “National Defense Strategy of The United States of America,” U.S. Department of Defense, October 27,
+2022, 
+EGY-NPR-MDR.pdf.
+223 Agence France-Presse, “US Space Operations Chief Counts China, Russia as ‘Most Challenging
+Threat,’” Hindustan Times, February 19, 2023, 
+space-operations-chief-counts-china-russia-as-most-challenging-threat-101676806730175.html; and
+Bryan Clark, “The Fall and Rise of Russian Electronic Warfare,” Hudson Institute, July 30, 2022, https://
+
+224 Defense Intelligence Agency, Challenges to Security in Space.
+225 “Yaogan 30-01, ..., 30-10 (CX 5)”, Gunter’s Space Page, n.d., 
+gan-30-01.htm; and Andrew Jones, “China Performs Two Launches inside Two Hours,” SpaceNews,
+September 6, 2022, 
+226 Vladislav Kustov and Alice Krause, “Sazhaet BPLA I obmanyvaet rakety: kak rabotaet supersovremen-
+nyj kompleks rJeB v hode specoperacii” [Lands UAVs and Deceives Missiles: How the Ultra-Modern
+Electronic Warfare Complex Works during a Special Operation], Tvzvezda, April 15, 2022, https://
+tvzvezda.ru/news/2022415512-BefVV.html; and “The Fall and Rise of Russian Electronic Warfare,”
+Hudson Institute, July 30, 2022, 
+of-russian-electronic-warfare.
+227 Olivia Savage, “Commercial Space: Industry Steps Up to Deliver Satellite-Based Capabilities,” Jane’s
+International Defence Review, December 8, 2022.
+228 Kevin Collier, “Starlink Internet Becomes a Lifeline for Ukrainians,” NBC News, April 29, 2022, https://
+
+na25360.
+229 Stephen Chen, “Chinese Physicists Simulate Nuclear Blast against Satellites,” South China Morning
+Post, October 20, 2022, 
+cists-simulate-nuclear-blast-against-satellites.
+230 Daniel L. Oltrogge and Salvatore Alfano, “The Technical Challenges of Better Space Situational
+Awareness and Space Traffic Management,” Journal of Space Safety Engineering 6 (2019): 72–79,
+doi:10.1016/j.jsse.2019.05.004.
+231 “FACT SHEET: Vice President Harris Advances National Security Norms in Space,” The White House,
+April 19, 2022, 
+fact-sheet-vice-president-harris-advances-national-security-norms-in-space/.
+232 United Nations General Assembly, “Destructive Direct-Ascent Anti-satellite Missile Testing,” A/
+RES/77/41, December 12, 2022, 
+N2273892.pdf.
+233 “Destructive Direct-Ascent Anti-satellite Missile Testing : Resolution / Adopted by the General Assem-
+bly,” United Nations Digital Library, December 7, 2022, 
+CONCLUSION
+234 Theresa Hitchens, “China Tops US in Defense-Related Satellites Orbited in 2022: Report,” Breaking
+Defense, January 6, 2023, 
+satellites-orbited-in-2022-report/.
+235 Todd Harrison et al., Escalation and Deterrence in the Second Space Age (Washington, DC: CSIS, Octo-
+ber 2017), 
+51 SPACE THREAT ASSESSMENT 2023
+
+1616 Rhode Island Avenue NW
+Washington, DC 20036
+202 887 0200 |

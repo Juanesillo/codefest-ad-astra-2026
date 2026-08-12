@@ -1,0 +1,281 @@
+PUC Chile team at TBT Task: Diagnosis of
+Tuberculosis Type using segmented CT scans
+JoséMiguelQuintana1, DanielFlorea1, RiaDeane1, DenisParra1, PabloPino1,
+PabloMessina1 and HansLöbel1
+1DepartmentofComputerScience,SchoolofEngineering,PontificiaUniversidadCatólicadeChile,Chile
+Abstract
+ThisarticledescribestheparticipationandresultsofthePUCChileteamintheTurberculosistaskin
+thecontextofImageCLEFmedicalchallenge2021. Wewereranked7thbasedonthekappametricand
+4thintermsofaccuracy. Wedescribethreeapproacheswetriedinordertoaddressthetask. Ourbest
+approach used 2D images visually encoded with a DenseNet neural network, which representations
+wereconcatenatedtofinallyoutputtheclassificationwithasoftmaxlayer. Wedescribeindetailthis
+andothertwoapproaches,andweconcludebydiscussingsomeideasforfuturework.
+1 Introduction
+ImageCLEF [1] is an initiative with the aim of advancing the field of image retrieval (IR) as
+wellasenhancingtheevaluationinvariousfieldsofIR.Theinitiativetakestheformofseveral
+challenges,anditisspeciallyawareofthechangesintheIRfieldinrecentyears,whichhave
+broughtabouttasksrequiringtheuseofdifferenttypesofdatasuchastext,imagesandother
+featuresmovingtowardsmulti-modality. ImageCLEFhasbeenrunningannuallysince2003,and
+sincethesecondversion(2004)therearemedicalimagesinvolvedinsometasks,suchasmedical
+image retrieval. Since then, new tasks involving medical images have been integrated into
+theImageCLEFmedicalchallengegroupoftasks[2],andthatishowthetaskofTuberculosis
+typeclassificationhasbeentakingplacesince2017. Althoughtherehasbeenchangesinthe
+datausedforthenewestversionsofthechallenge,thegoalofthistaskisthesame: automatic
+detectionoftuberculosis(TB)typesusingComputerTomography(CT)volumesasinputdata.
+InthisdocumentwedescribetheparticipationofourteamfromHAIVisgroup1 withinthe
+artificialintelligencelaboratory2 atPUCChile(PUCChileteam)intheTBclassificationtask
+atMedicalImageCLEF2021[2]. Ourteamearnedthe7thplaceintermsofkappametricandthe
+fourthplaceintermsofaccuracyinthechallenge. Ourbestsubmissionwasacombinationof
+deeplearningtechniquesfortwo2DviewsofeachinputCTvolume,followedbyatraditional
+multi-classclassificationviasoftmaxlayer.
+The rest of the paper is structured as follows: Section 2 describes our data analysis, and
+insection3weprovidedetailsofourproposedapproaches,includingdataaugmentation. In
+CLEF2021–ConferenceandLabsoftheEvaluationForum,September21–24,2021,Bucharest,Romania
+"josemiguelquinta@uc.cl(J.M.Quintana);dparra@ing.puc.cl(D.Parra);halobel@ing.puc.cl(H.Löbel)
+©2021Copyrightforthispaperbyitsauthors.UsepermittedunderCreativeCommonsLicenseAttribution4.0International(CCBY4.0).
+CEURWorkshopProceedings(CEUR-WS.org)
+CWPr Eoo UrckR esehdoinpgs1 hISt
+h
+tSpN:// c1e6u1r3-
+t
+w-0s0.o7
+t
+r3g
+p://haivis.ing.puc.cl/
+2
+
+Figure1:CT-ScansofdifferenttypeofTuberculosis
+section4weprovidedetailsofourresults,andfinallyinsection5weconcludeourarticle.
+2 ImageCLEFmed Tuberculosis: tasks, data, evaluation
+Thechallengeforthe2021ImageCLEFmedTuberculosis(TB)taskistoautomaticallycategorize
+aCTscanintooneoffiveTBtypes. Thegeneratedpredictionmustindicateonelabelforeach
+image,specifyingthetypeofTBitcontains.
+Thetotaldatasetconsistsof1,338CTscansofTBpatients,917assignedfortrainingand421
+fortesting. EachCT-imagecorrespondstoonlyoneTBcategoryatatime. Withrespecttothe
+trainingdatasetfromthe917scans,420haveInfiltrativeTB,226Focal,101Tuberculoma,100
+Miliaryand70Fibro-cavernous. DuetosegmentingeachCTscanintotheircorrespondingleft
+andrightlungs,weendupwithdoubletheamountofimages.
+Thereforethistaskcorrespondstoamulti-classclassificationproblem. Toranksubmissions,
+eachresultisevaluatedusingtheunweightedCohen’sKappaasaprimarymetricandaccuracy
+asasecondarymetric.
+2.1DatasetAnalysis
+BeforecarryingoutourdifferentapproachestoclassifyeachCTscanintoatypeoftuberculosis,
+westudiedthetrainingdataset. Figure1showstheprevalenceofeachclass.
+Table 1 summarizes this information and presents the relative prevalence of each type of
+Tuberculosiswithrespecttothetotalamountofimagesinthetrainingdataset. Itisimportant
+to note the clear class imbalance present, where nearly half of all images have Infiltrative
+Tuberculosis.
+
+Figure2:Numberofimagesbyclass
+Table1
+NumberofimagesandpercentageeachtypeofTuberculosisformsofthetrainingdataset
+TBType Numberofimages Percentageofdataset(%)
+Infiltrative 420 45.8
+Focal 226 24.6
+Tuberculoma 101 11.0
+Military 100 10.9
+Fibro-cavernous 70 7.6
+Total 917 100.0
+3 Approaches
+3.1TheHuman-Inspired2DApproach
+Afterconsultingmedicaladviceonhowtheywouldpersonallyaddressthechallenge,itwas
+theorizedthatamodelcouldperformbetterifittrainedandpredictedwiththesamedataas
+reviewedbydoctorswhenanalyzingCTscans,thismeansatopviewoftheimagefromtopto
+bottom.
+Themainreasonfortakingthisapproachwasthatithasproventobehelpfulindifferent
+computervisiontasks[3]andtherewasnofounddocumentationaboutthesubject. Further
+investigationaboutthesubjectisaimedtobeperformedinfuturework.
+
+3.1.1Preprocessing
+First,segmentationmasksprovidedbyImageCLEFwereappliedtoeach3DCT-scan,inorder
+toseparateeachlungofthepatientintotwoseparateinputs. Thispracticewasvalidatedby
+medicalprofessional,asdiseasessuchasTuberculosistendtomanifestonbothlungsatatime.
+Second,each3Dmatrixwasthensplitinto2Dimagesviewedfromthez-axis,thispracticeis
+theonethatgivestheapproach’sname,asradiologistsonlyusetop-downimagestoreviewCT
+scans,themainreasonfornotusingotherviewsisthatnoisefromotherpartsoftheinternal
+structureofthelungscanmisleadtheprofessionalonit’sdiagnosis. Thissamethoughtprocess
+wasusedinordertotrainthemodel. Itwasalsocommentedbythemedicalprofessionalsthat
+tuberculosisoftenconcentratesontheupperpartofthelungs,basedaroundthisobservation
+20%ofimagesonthebottomofthescanwerediscarded.
+Afterthisfirstpre-treatment,eachimagewasnormalizedandlaterconcatenatedinorderto
+produceRGBimages,taskperformedbythedataset,whichalsowasinchargeofperforming
+augmentationsoneachitemwhenloadedandafterwhich,transformingthemintotensors.
+3.1.2Augmentations
+Eachimagewascroppedandlaterre-centeredandrandomlyscaledbothonthexandyaxis.
+After this, an angle was applied to the image, as well as shear and a random horizontal flip.
+Thislastpracticewasperformedinordertoavoidbiasesbetweenleftandrightlungs.
+Itwasconsideredtoflipallimagesonlytooneside,thisideawaslaterrejectedduetothe
+factthathumanprofessionalsareskilledenoughtodetectthepresenceoftuberculosisinalung
+regardlessofhisorientationorwhichoneofthetwoisthescanof.
+Asfortheparametersused,thecroppingcenterforeachaxiswasdecidedbyselectingthe
+originalcenteroftheimageanddisplacingitbyarandomamountofpixelsbetweenthevalues
+of0and32. Asfortheangleoftherotationandtheshear,arandomfloatbetween0and6.0
+andanotheronebetween0and4.0wereusedrespectively. Finally,forthescaling,eachaxis
+wasmultipliedby2𝑥,with𝑥beingarandomfloatbetweenthevaluesof0and0.15.
+Figure3:MultipleaugmentationsonthesamecropofaCTScan
+
+3.1.3Model
+The model used was lightly tweaked DenseNet121 pretrained on ImageNet, using an Adam
+optimizerinorderfortrainingtobefaster,thisduetothehighamountofimagesusedduring
+thetrainingprocess. Asfortheloss,aweightedcrossentropywasusedinordertodecrease
+classimbalance. Finally,learningratewasreducedonplateauofthevalidationset’sloss.
+Themodeltrainedoneachoftheimages,receivingbothanimageandalabelfortheinput
+andfailedtoconvergeonagoodsolutionforthetestsetevenaftermanyepochsoftraining. It
+wassuspectedthatthiswasduetothegrandamountofimagesnotcontaininganyinformation
+whichweregivenasinputs. Thiswaslaterprovenrightwheninspectingtheoutputpredictions
+for images belonging to a same CT scan; clusters of correct predictions where found in the
+middleofmanydifferentpredictions,laterrevealedbyamedicalexpertstobetheexactlayers
+tohavethediseasepresentinthem.
+Duetoalackoftime,nosolutiontotheissuewasavailabletobeimplementedandislefttobe
+furtherdevelopedinfutureworks,duetotheuncertaintyintheeffectivenessofthisapproach.
+3.2ASimple2DApproach
+Thisapproachwasamodifiedversionofoneproposedin[4],whichtriedtorepresent3Dimages
+bysqueezingthevolumetricdatato2Dprojections. Unfortunately,itdidnotworkasexpected
+duetoanexplodinggradientprobleminitsexecutionwhich,becauseoflackoftime,wasnot
+abletoberesolved.
+Webelieveitisstillusefultoexplainthisapproachandstudythereasonsitdidnotwork.
+3.2.1Preprocessing
+Asmentionedin3.1,thisapproachwasamodifiedversionofoneproposedin[4]. Inthiscase,
+insteadofcalculatingthemean,maximumandstandarddeviationineachdimension,weonly
+calculatedthemaximumforeachaxisandcreatedasingle2D,threechannelimagefromthe
+threematricesthatappeared,whichcanbeinterpretedasanRGBimage.
+Firstofall,weappliedthesegmentationmaskprovidedbyImageCLEFtoeach3DCT-scan,
+dropped the first 10% and last 20% of the image to eliminate unnecessary information, and
+thencalculatedthemaximumvaluesacrosseachdimension. Thisproducedthree2Dmatrices,
+which were subsequently concatenated to produce one single RGB image. The reason we
+onlycalculatedthemaximumwasbecausewebelievethat,duetothenatureoftuberculosis
+beingvarioussmallnodulespresentacrossthelungs,calculatingtheaverageandthestandard
+deviationacrossdimensionswerenotaccuratemeasurestodetermineifthereistuberculosisin
+thelungs. Thisismainlybecausemostofthelungisemptyspace,sotheaverageandstandard
+deviationswouldbeclosetozero. Ontheotherhand,themaximumwouldshowiftherewere
+highervaluespresentinthelung,anindicationoftuberculosis,whichwehypothesizecould
+alsohelpdeterminethetypeoftuberculosis.
+
+3.2.2Augmentations
+Theaugmentationsappliedinthisapproachwereresizing,tohavethreeequallysizedchannels,
+randomhorizontalflips,andnormalizationofthefinalimage.
+3.2.3Model
+Themodelusedwasonenetwork,composedofafine-tunedResNet50pretrainedonImageNet,
+availablefromtheTorchvisionlibraryinPyTorch3,usingCrossEntropyasthelossfunction,
+duetothenatureofthechallengebeingamulti-classclassificationproblem,andAdamasan
+optimization algorithm. To add regularization to the model, we implemented a drop rate of
+0.3. Additionally,wesetclassweightsinourlossfunctiontoresolvetheimbalanceddataset
+problem.
+As mentioned earlier, this approach presented exploding gradient problems. When these
+startedtoappear,weimplementedgradientclippingandwentvaryingthelearningrate. The
+learningratethatperformedbest,beforepresentingexplodinggradients,hadavalueof0.0001.
+Unfortunately, this was not enough to resolve the problem. We believe this is due to using
+onlythemaximumthat,althoughnormalized,stillcausedallimagestopresenthighvaluesand
+preventedthenetworktolearncorrectly.
+Inthefollowingsubsection,wepresentadifferentapproachwhichdidnotpresentexploding
+gradient issues but also implemented a modification of the volumetric squeezing approach
+presentedin[4].
+3.3The2DApproachScoringtheBest
+In this particular approach, the first step was to apply the segmentation masks provided by
+ImageCLEF,particularlyusingthemethodproposedin[5],toseparatethelungsofeachimage
+anddeletethenon-importantpartsoftheCTscan. Afterthat,wedividedthesegmentedimage
+inhalf,obtainingtwo3Dmatrices,oneforeachlung.
+Each3DCTscancanbereducedtoa2Drepresentation,bycomputingdifferentstatistics
+acrosseachdimensionoftheimage. Weusedtheproceduresuggestedin[4],thatconsisted
+incomputingthemean,maximumandstandarddeviationoverthe3Dimages,butapplying
+itonlyoverthe1stand2ndaxis(lateralandsuperior). Usingthis,weobtained2imagesper
+matrix,whichcanbeinterpretedasanRGBimage. Afterthatweappliedthepreprocessingsteps
+implementedin[4],whichconsistedinincreasingthevoxelsintensityintheCTby1024HU,
+dividingthemaximumvaluesby1500,anddividingthemeanvaluesandstandarddeviation
+valuesbytheirmaximum. Additionally,weresizedtheimagesto256x256pixels. Intheend,
+weendupwith2RGBimagesforeachlung,whichrepresentthelateralandsuperiorviewsof
+them.
+3
+
+Figure4:Imagesafterpreprocessing
+3.3.1Augmentations
+Theimagespassthroughmultipleaugmentations,eachoneofthemwithavaryingprobability
+ofbeingapplied. Insummary, theaugmentationsimplementedwereimagerotation, witha
+rotation range of 25 degrees, width and height shift, with a shift range of 15% of the image,
+zoom,witharangeof20%oftheimage,andhorizontalandverticalflipping.
+3.3.2Model
+Withthe2RGBimagesforeachlungobtainedfrom3.2,wefurtherappliedtheaugmentations
+in3.2.1toobtaintheimagestofeedthemodel. Wetrainedonenetworkforeachaxis,usinga
+fine-tunedDenseNet121pre-trainedonImageNet,withaveragepoolingintheoutputlayer,and
+addedsomelayersattheendtoreducedimensions. Subsequently,weconcatenatedtheoutput
+of the two networks and added a softmax layer on top to get the final prediction. Using no
+regularization,weobtainedaCohenKappavalueontrainingandvalidationofapproximately
+0.11,meanwhilewithL2regularizationwegot0.236with0.511accuracyonthetrainingset,
+and0.186with0.467accuracyonourvalidationset. Onthetestsetwegot0.120Cohen’sKappa
+with0.401ofaccuracy.
+In an effort to reduce the impact of the most represented classes in the dataset, we tried
+weightingthelossofeachlabel,accordingtoit´srepresentationinthedataset. Regardingthis,
+wetriedwithmultipleconfigurationsoffinetuningofthenetwork,achievingthebestresults
+withthelasttwentylayersunfrozen. Usingthatconfiguration,wescoredaCohen’sKappaof
+0.206ontrainingsetand0.105onvalidationset.
+Wefurthertriedusingsharedweightsalongthenetworksoftheaxes,inordertoreducethe
+quantityofparametersandoverfitting. Thisdidn’timprovetheresults,andgotabestCohen
+Kappascoreof0.141ontrainingand0.098onthevalidationset.
+
+Figure5:Visualrepresentationofthemodel
+3.3.3EvaluationoftheModel
+In order to evaluate the model, we preprocessed the data as explained in 3.3, resulting in 2
+imagesperlung. Then,wegotthepredictionsforeachsideofthelungandsumthesoftmax
+results,keepingthehighestvalueasthefinalprediction.
+4 Results
+Inthissectionwepresenttheresultsofourapproachesatourowndevelopingserversandalso
+atthecrowdai.orgplatform.
+Table2showstheresultsobtainedwhiletraining,includingafourthapproachthatwasnot
+submitted.
+Table2
+Train/validationresultsforeachapproachinourdevelopmentservers
+Rank Approach TrainCK TrainAcc Val.CK Val.Acc
+1 Bestperforming2DApproach 0.236 0.511 0.186 0.467
+2 2DApproachwithsharedweights 0.141 0.316 0.098 0.194
+3 Humaninspiredapproach -0.040 0.337 - -
+4 Simple2DApproach 0.000 0.472 - -
+Table3presentstheevaluationmetricsobtainedforeachapproachwhenevaluatedwiththe
+testdataset.
+*Weightedbasedonclassprevalence
+
+Table3
+Finalresultsforeachapproachatcrowdai.org
+Rank Approach Kappa(K) Accuracy(Acc)
+1 Bestperforming2DApproach 0.120 0.401
+2 Humaninspiredapproach -0.040 0.337
+3 Weightedrandomchoice* -0.048 0.245
+5 Conclusions
+In this article we have provided details of the participation of the PUC Chile team, for the
+Tuberculosistype(TBT)classificationtaskwithintheImageCLEFmedicalchallenge2021. Inthe
+processofbuildingourfinalsubmission,wetestedseveralapproaches. Ourfinalsubmissionwas
+basedonaDenseNetarchitectureforvisuallyencodingtheinputmedicalvolumesrepresented
+as2Dimages, followedbyasoftmaxclassificationlayer. Infuturework, weplantoaddress
+the task based on the process that actual radiologists follow when classifying CT scans for
+Tuberculosis,whichwedescribedinsection3.1. Anotherideaweplantofurtherinvestigateis
+usingperceptualimagesimilarity[6]toleverageapproachesbasedonK-NN,whichhavehad
+interestingresultsinpreviouschallenges. Finally,weplanatusingmethodswhichcandirectly
+dealwithvolumes(3Dimages)ratherthan2Dimages.
+Acknowledgements
+This work was partially funded by ANID - Millennium Science Initiative Program - Code
+ICN17_002andbyANID,FONDECYTgrant1191791.
+
+References
+[1] B. Ionescu, H. Müller, R. Péteri, A. Ben Abacha, M. Sarrouti, D. Demner-Fushman, S. A.
+Hasan, S. Kozlovski, V. Liauchuk, Y. Dicente, V. Kovalev, O. Pelka, A. G. S. de Herrera,
+J.Jacutprakart,C.M.Friedrich,R.Berari,A.Tauteanu,D.Fichou,P.Brie,M.Dogariu,L.D.
+Ştefan,M.G.Constantin,J.Chamberlain,A.Campello,A.Clark,T.A.Oliver,H.Moustahfid,
+A.Popescu,J.Deshayes-Chossart, OverviewoftheImageCLEF2021: Multimediaretrieval
+inmedical,nature,internetandsocialmediaapplications, in: ExperimentalIRMeetsMulti-
+linguality,Multimodality,andInteraction,Proceedingsofthe12thInternationalConference
+oftheCLEFAssociation(CLEF2021),LNCSLectureNotesinComputerScience,Springer,
+Bucharest,Romania,2021.
+[2] S.Kozlovski,V.Liauchuk,Y.DicenteCid,V.Kovalev,H.Müller, OverviewofImageCLEFtu-
+berculosis2021-CT-basedtuberculosistypeclassification, in: CLEF2021WorkingNotes,
+CEURWorkshopProceedings,CEUR-WS.org,Bucharest,Romania,2021.
+[3] O. Mendez, S. Hadfield, N. Pugeault, R. Bowden, Sedar: Reading floorplans like a hu-
+man—usingdeeplearningtoenablehuman-inspiredlocalisation, InternationalJournalof
+ComputerVision128(2020)1286–1310.
+[4] R.Miron,C.Moisii,M.Breaban, Revealinglungaffectionsfromcts.acomparativeanalysis
+of various deep learning approaches for dealing with volumetric data, arXiv preprint
+arXiv:2009.04160(2020).
+[5] V.Liauchuk,V.Kovalev, Imageclef2017: Supervoxelsandco-occurrencefortuberculosisct
+imageclassification, in: CLEF2017WorkingNotes,CEURWorkshopProceedings,CEUR-
+WS.org<
+[6] R.Zhang,P.Isola,A.A.Efros,E.Shechtman,O.Wang,Theunreasonableeffectivenessof
+deepfeaturesasaperceptualmetric,2018. .
+arXiv:1801.03924

@@ -2,7 +2,8 @@
 import torch
 from transformers import pipeline
 
-MODEL_NAME = "Babelscape/wikineural-multilingual-ner"  # cubre es/en/pt, entrenado para NER (no generativo)
+
+MODEL_NAME = "Davlan/xlm-roberta-base-ner-hrl"
 
 _NER = None
 

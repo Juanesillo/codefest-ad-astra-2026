@@ -1,0 +1,871 @@
+T A B L E of C O N T E N T S
+2024 F E A T U R E S
+1. 2024 Accomplishments
+2. Why the Moon to Mars
+4. New Elements for 2024
+6. 2024 White Papers
+8. Partner Pre-Formulation
+10. Technology Gaps
+12. Decision Roadmapping
+14. Mars Surface Power
+ABOUT the ARCHITECTURE
+16. Architecture Strategy
+17. Moon to Mars Objectives
+18. Architecture Process
+19. Architecting from the Right
+20. Architecture Segments
+21. Sub-Architectures
+22. Architecture Elements
+24. 2025 Look Ahead
+Moon to Mars Architecture Executive Overview
+2024 Architecture Concept Review
+Exploration Systems Development Mission Directorate
+National Aeronautics and Space Administration
+
+2 0 2 4 A C C O M P L I S H M E N T S
+In 2024, NASA’s Moon to Mars architecture effort focused on solidifying the process developed in 2023
+through improved traceability of needs and the application to new element pre-formulation. Several
+key accomplishments in support of architecture maturation included:
+• Published Revision B of the Architecture Definition Document, a detailed snapshot of NASA’s
+Moon to Mars Architecture. This edition adds two new exploration elements, an updated objective
+decomposition, new key driving architecture decisions, and new architecture-driven technology gaps.
+• Solicited U.S. industry proposals for innovative architecture solutions that could help the agency
+land and move cargo on the lunar surface.
+• Selected nuclear fission power as the primary surface power generation technology for the initial
+human missions to Mars.
+• Signed an agreement with the Japan Aerospace Exploration Agency, in collaboration with the
+Japanese automotive industry, formalizing partnership on the Pressurized Rover.
+This document provides updates related to 2024 architecture analysis and tasks followed by a general
+overview of NASA’s Moon to Mars Architecture.
+
+Why Moon to Mars?
+w
+2 Why Moon to Mars?
+
+National posture considerations include:
+Why Moon to Mars?
+• Space leadership: How do we maintain U.S.
+influence in and set norms for the peaceful
+exploration of space?
+INTRODUCTION
+• Partnerships: What industry and international
+Over 50 years ago, NASA led an effort to send astronauts partnerships can fill technology and capability gaps?
+to explore the surface of the Moon and safely return them • Technology readiness: What technology
+to Earth. The extraordinary triumph of the Apollo program demonstration do we need to ensure the reliability
+has left a lasting impression that lunar exploration is and readiness of Mars-forward capabilities?
+relatively easy and of limited value today. Why then • Economic development: How do we foster a robust
+should humanity return to the Moon before sending U.S. commercial sector and industrial base to
+crews to explore of Mars and beyond? support a crewed Mars exploration campaign?
+To address this question, the agency has applied rigorous Engineering design considerations include:
+systems engineering to its exploration goals, developing • Vehicle design: What type of propulsion is most safe
+NASA’s Moon to Mars Architecture. The architecture and efficient? How do we slow down and safely land
+establishes a roadmap for iterative development that on the surface of our destination?
+achieves progressively more complex exploration • Supplies and logistics: How do we keep our
+objectives. astronauts fed, hydrated, and equipped with
+everything they need at increasingly distant
+The architecture illustrates how returning to the Moon
+destinations from Earth?
+enables the journey to Mars through its segments. After
+• Maintainability and reliability: How do we ensure
+the initial Artemis missions of the Human Lunar Return
+safety through the repairability, redundancy, and
+segment, activities in the lunar Foundational Exploration
+longevity of systems?
+segment will prove the technologies, capabilities, and
+systems needed for the Humans to Mars segment. The Mission operations considerations include:
+Sustained Lunar Evolution segment will see increased
+• Autonomy and Earth-independence: What is our
+scientific and commercial utilization of the Moon while
+concept of operations for missions so far from Earth
+government-led development continues toward the next
+that relying solely on terrestrial controllers becomes
+horizon.
+impractical?
+• Coordination and aggregation: How do we stage
+EXPLORATION DESTINATIONS
+systems where and when we need them given
+increasing architectural complexity?
+NASA has over 60 years of experience traveling to and
+• Risk and contingency planning: How can we
+from low Earth orbit, beginning with John Glenn’s historic
+buy down risk for Mars missions? How do we plan
+flight in 1962. Crewed lunar exploration spans 9 Apollo
+for contingencies when mission abort could take
+missions on and around the Moon over the course of 5
+months or years?
+years; only 12 humans that have walked on the lunar
+surface. To date, only robotic missions have explored Human systems considerations include:
+Mars. Each destination presents unique challenges and
+• Health hazards: How do we overcome the human
+requires architectures of different scope and scale.
+health and performance hazards of long-duration
+The most apparent difference between destinations deep space missions?
+is their distances from Earth. The varying distances of • Lessons learned: How can we leverage human
+these exploration destinations result in proportional experience at the space station and on the Moon for
+impacts to communications delays, trip durations, abort longer and more distant flights?
+considerations, and practically every aspect of mission
+design. KEY TAKEAWAYS
+The infographic on the left highlights how challenges Exploration of the cosmos remains a great calling
+grow with each progressive destination. It also shows for humanity. Each progressive step from our home
+differences is gravity and operational experience that planet represents orders-of-magnitude increases in
+will inform architecture-level design considerations, opportunity, challenge, and risk. A sustained exploration
+technology readiness, and mission risk. campaign that uses the Moon as a proving ground for
+Mars will allow NASA and its partners to gain and apply
+KEY CONSIDERATIONS the knowledge and experience necessary to take the
+next giant leap.
+Four key facets of the underlying rationale for using
+crewed lunar missions to prepare for the journey to Choosing to return to the Moon is not in opposition to
+Mars are national posture, engineering design, mission humanity’s journey to Mars. Lunar exploration will put
+operations, and human systems. Mars within our reach.
+w
+Why Moon to Mars? 3
+
+Initial
+The initial surface habitat element will house astronauts,
+empowering them to live on the lunar surface. It will increase Surface
+the crew size, range, and duration of exploration missions
+and enable science and technology utilization during both
+Habitat
+crewed and uncrewed periods.
+Element
+Government reference concept
+Functions Fulfilled by the Initial Surface Habitat Element During the Foundational Exploration Segment
++15 additional functions.
+w
+4 New Elements for 2024
+L
+101-H-NF Enable a pressurized, habitable environment
+on the lunar surface for short durations (days
+to weeks)
+L
+102-H-NF
+Operate habitation system(s) in uncrewed
+mode between crewed missions on the lunar
+surface
+L
+204-P-NF Provide power for deployed external surface
+utilization payloads(s) and/or equipment for
+long durations (months to years+)
+L
+402-U-NF
+Provide intravehicular activity facilities, utiliza-
+tion accommodation, and resources, operable
+during crewed and uncrewed increments, on
+the lunar surface
+
+Lunar
+The lunar surface cargo lander element will deliver
+cargo to the lunar surface, with a payload capacity
+Surface
+between that of Commercial Lunar Payload Services
+landers and Human-Class Delivery Landers. Small cargo
+landers could transport logistics, utilization payloads,
+Cargo Lander
+power systems, communications systems, and more.
+Element
+Government reference concept
+Functions Fulfilled by the Lunar Surface Cargo Lander During the Foundational Exploration Segment
+w
+New Elements for 2024 5
+L
+202-T-NF Transport a moderate amount of cargo (1000s
+of kg) from Earth to south pole region sites on
+the lunar surface
+L
+402-T-NF Transport a moderate amount of cargo (1000s
+of kg) from Earth to distributed sites outside of
+the south pole region on the lunar surface
+L
+204-T-NF
+Provide precision landing for cargo transport to
+the lunar surface
+L
+304-T-NF
+Enable landing on the lunar surface under all
+lighting conditions
+
+White
+Papers
+LUNAR SURFACE CARGO
+Analyzes projected needs and capability gaps for
+transportation of cargo to the lunar surface.
+LUNAR MOBILITY DRIVERS AND NEEDS
+Discusses the need to move cargo and assets on the lunar surface and factors
+that will significantly impact mobility systems.
+PRIORITY SCIENCE ENABLED THROUGH ARCHITECTURE
+Surveys landmark studies that inform NASA’s science goals and how the Artemis
+campaign is realizing those goals.
+LUNAR REFERENCE FRAMES
+Offers considerations for developing an architecture that supports multiple
+reference frames to meet diverse positioning, navigation, and timing needs.
+MOON-FOCUSED
+WHITE PAPERS
+w
+NASA white papers highlight
+k A c D p t e o e x o r r e p o c p y m fi v i h l c n a i p i d s t r i i l t e n e e e w i c o s m N i d t u n t u A h e e l t r S i n e s e n A p t C t ’ D s h f d o r o e t l i o n h a v c a m c e e t u r e e s c m s p h t i A t e t n i t h t R r n h t e c e o e t i c h n . v t s i k i u t e a p i e r n w n e e c g T n c t a a . h u u i n n fi e r a d d e c y l LF PtN asC AcsN I Tit —dD WToasrRatAa2 t e i r n ho y h c ar n p0 o f o e t s ea o i A A i u l l i r s s s e a t e n f 2 h cd d l p t u a c e fn i t c S S i h a e t n l r i e N h l c c 4 o u t m l c nu s s e aI u i n o tA A m i a t r c i n n e y o A c o o F a c m v e an m e y m m M t ’ ’ r l p d t g s s e a r i l r e , S u r o l a e a n p M e t gi p d e eo . o t e u t e n h ” s d A M t d r M c r t i r u o t i o n i wc n i o o o o n [ r n o n d e e o n e o c e 5 S r o a o r t t f n ] o ra n d t a n e h s a n e a s o r i t cc e b , o f R o S s l n o a a u t s r [ s t i t a r t sR n l 4 ei t t o i n n eo o t o a e i ue , s v ]s : n c o u h a n m e h l u 1e w e s i f m s t u n M e p N t n n r te M s g tc e r a , n : a n o o o f p sc s p h u — a a p i A e e f e n eS i C a n d n s t t b e l a n o i t l c e M e M s i S s y a a c d r i t r ia o a o jA r c m rt o c s c o t e e i A a h n ca ut re p t l a n p o m l i s r t n a i ch A n u h m n r p a n r s t e rl ei u t Eh e ll s e t s h a e s d m r dr i t o ln l as c d v st o t ac a s o h i p e r n , A i e fi u n e d b n O . g e f o h n rs u T n e e i l f n e c g p r r r n t o l Me e s o i f g t n b x o e c n e ht h t d c i F d e a M c c m l e p r n ui j m t h f o a t t a i c e c r a l r h i ei ac s e d i l N g r eo i m e c r o m a n oe a c a t te r i tn tnt e r i ,n c u o e e n e o A a o u g t r m n t m r , o e s d e a a i i a t c d c l n n u g r r S o t v t a i t o l “ e n t i l e nt P a r a or c a a o e e c A n ia D r u g a s t i U o d c n t e C g g n r a s a oa s ? n r c m r Mi e f i t n l e n y a d [ l d o l e n n o e o 1 o nu i l f a v e ] r e p i a y [ o r n d ro n n c S u d o 3 e h s e s n — a l s n r h ] f c e r i a p a t t u n i l f i m s e o d m t — p n c g or a y e t e a n a l b a s x a h f , d t h l e a g A p n r P i p d e b a y e p c h l te s eo n , e t l l d e . r o e t s t i d l i e l e h s n a c a t r g t fi i A i o M s a g s R e s o ” h i s e c h h v h l o n t a r x y i r xl h e n u e c o t w a i e a u d i t e n e [ Ca gp i g i t 2 v i . r s on t o n n s e n ] e l d o s a g a f l i ie & p .e o n r o a p n d — c a g e n e t n a a w d P w l i r , n r , l t r n c v o m o d e m a a a u N i r N e N . r e c y ff p n a n ec t i n er A ff i d r ’ile A yTa e o , s e f g s e o n o e f e 2 e ’s c S. s v - e a s r s s a n e p f c v . r t 0 r e c e i i ” AT i s n r n r e e , e go o m it r 2 n e u s r s a h i o d a n rd n m n m e oa2 t i , n m r r e i a t o c c n s n a y o n r i b c n e p u p d n o e W e o c , t p d t o we m t o s l m pe n s oe b a s n e f d t h o n r o , hf y p i n b oa r a a e t sf i y r nf e a a r s t ih rn o a e nt v p s p - t ed a n s t t n ic fi o i e w t e e m d ee i c t g m u tf w o d r x u aH r n so mc a e e p s p s m e n e g n e , e c rT i to r wt a d f r s s h i i e d r e ii u a a y i ou e n a nm p i e s t n a a f o s c n r ns c g f st t d oe s e u r l h ti n h d e h l t i n d i, h r “ r f u s a h c l e i o e e e n l g p p e s d e O N n e i n o y e r nr r d e b v l r e s e a e ( d o a a c ff A a“ l a s e i e C a e t ,u n r n r p t n o c g i a S d n s t o tp h c & r n c g n ee i n e tn o s A e e t m ue e i e P aa rt n s s t c i . d s f ’ ” a n o a fi a h s v e r N i p c a io f d t n d r ru ci e e r r w n y aA l i g A f e T y a e e o g s h s ’ “ aa r c M) d t h s r S m n r bn ee a i i t e t v a s d k e c e t c c d o i o a e A i e h r u o e L a r i a v i e g e l d c o t m e e r s e t n b i u y l e n i a x c z h o n i o f n , c e - n p d n a r i t t h c a i c n a c s e a o h i t d s t a l t a i o o g e o a o r ae a t i m .c n ie c r v o c e n en c n p lr c To cfi M ia lr h a a n c e g n t g a y s h h e o e d n u m t n i s , t s a a c i b t f e o i r p u e a d r w . o de e t r d yi t y e p fa t i r t s l ( e rh c n o t i i i e N a ra a e g T o n t a t h r t ec e O n i h e —o n a u i f la A e ei D a r g s m c b s a c t a r e t i s N S d p n o e np e i i h t j e f l i o o A s i e p a a fi a . . e ns o w n ff c n y s n c n f ) b r t . nN r c s o e r r s i p i e o s t d l l a l i i o e l A r t t e i l t t u na v o v a e h m e a n i i f So o d be cc e g or n o m at a A d n n e e ee e e s s y r t t fl MAor 2 cohn0 i tte 2oc M4 t 1 ua rres LD INi MOilef•••FS ccN rTat(denTNcthlfCkb tORsocN 2 t n a a a C u e e h h n g h h u o x a a r o j r 0 e a f s r e e e u A A A e n n e t n n c u r e q e l t e e ip o L t e e r r n r 2 n e b y l l e c v r e m o e r e g c S S S p td d e g w f u r Pl o u e r 4 d s r b i a o e m a c p n i c d o f o SLiS( t n o o c A A A r o t c e i i e i n o S n u r i t a v n n a s nc a g r r r r r a a i c s r i M d u , u e ’ ’ ’ i t a s ni s d n o e e s n o s s s f i f )a dl p n e l g g ne t t i a ” d m a n l b r e p e r p i nt i o t f: i s e w r g o o b t t p u z a t n g f r t o l r M e s r e d o t e l r a n a i h p d c n f o a u e e w a o o g y a g o o o a e s r r o p a c o r r n i c n y f e n r e a e o o ” a c t r n o d n t i o o i m n t r c t n t n y a rh f s o sc e n c t i r 5 N f t r a w i p s i ir r r g e t o M a w . o m ’ a c h l a c r l t o u t i u t a i o s r n t t s e s a , i y b l a r a to i c i r n H o o o n i d tt o 0 y e l e l n o h a c c e r i , s s d v f r m a y ( ei l r c a b im g h a g s o fe o 0 c s n p a e n s m o g ms n s e i e t s M e t w s s o o s a h n t i o t i u u r o e fi r h 0 . p n i i s s . e o , . l s w s e u i n h c o s d r g f mt i t d i a s ( a t m r t i n s i s t . a a t i N r h — b I p p p s m M h o a d h e t . e n n p a i r e h c i n o s s oo c t e e , T e p g d e p n e s i l o p t s e a i e u v t t s a r ro i mo a a d i f t f r h j ) d g d c i s e s n t a e e e e i o p e n r m e m , A e t p l l e n n o n l r r c r a p i at r r i u u hi r w n p c a s r r s c e l, m t r N u n i o g i e d a l , s n l t r r l t o l a o t[ ev c h en n a l a c t t n l 3 u t e g uk n i t r r f c i o f w A u ea e a ]c o nu v r — d h . o s s e n t e a a e e n u a y d n w n m [ h o d f r d n n i r r e 4 a y nc r e t o i e . b g r r d o t d d l c a e ac s t ] au p e o u n e fi a n i t uS e e er u p l si c l e fs oo en e s hr i c r , e l a da as i s ol u l r o e o c x s c u i l n c l a u r i s l rnn s s i ab t l e e d to y n s v e g i o m p d f s t l t n u i f h c y p e n s r p a d c s i s l e e e c u x ) a ua y i s d fe n g f o l m o . n . h s ri h d ag t f s o i u p e o a b m n a c r e s r t t cr ei h e d o l rf T t a e a y i e a n s b c f y s r t c rl e a e t uo t la t i n o q n a t h r o s e a t u d e ce u r i c d o e g h , i e i d i C r s s b t fi as a tl u c c n l u e n r l t m s r s n r t o n i r o e h , u e o e c e a mt i c i t e t l e o u e e i s s t g o r t , o l t o i t r i r w ie w n d a x a m h f t s i f eo o e p e n r e e a a n t na i a o c D d p a r c i c e n r a o o a y n i n s in c . o b n n ( n g e n e c t a l f r o r m l n . a k f > r d e s n , n t l, e hs o i y c t d ni o d a n x e g - t s c e n n v e r 1 e s fi e c d , p i s w r p h o c e g c a t o o e a y a u t m u s e ( a , r r n o c s — t o l b o i l t s t e b 0 o a e b i r n i o t d n l t r o t i o e e at ff c R d p gp a e d o e t 0 i i n f e c a i j h l c o c s lr o n n x r a i l a e o a e e (l a n e i i c t r s 0 o a t c t s e s o a n p p t r f n s c r h e ir i c n v r r l r d t u y e t h i n o n e i g l a a i o g o m l a t i d u e u m i e i n t d m o o t n e w e mn o i n g o v w i c t d n m t i c Do e r s d v e f n o i r w r c e ) i o n L s c oe a e i o i t oe u a a e i a ’p e n o m r t t t p l m a s d o h l ) u l l b p d n u a e t h n l s l l ob . o o la dg c l e w a u b o ei n i s i a , e d n s s d h e s o a sgl vl s i T n u e b r r f e i e a h ir n b , i t a n d e e i x a a l y n d e t h o l d l my n l e i c s r f h a o t y l i i s i n e u t r e t b e e o e v l m b h . p r g ae o y i d d a r e i T o d b e d e i d n s o i s e m s t c ia o t T t r red b s e o e g a i s f e e i y d n )h a a e r e n a g o u e h z b t r j mi i m a c s w s c u t i ot s r r e t e x s n e r e t s s s f i i p c ht o t i r i n a h s o t o c s i , ( r c s s o e) e h a r e om a a a e A t m o r u i d m e ep m o r r u t t n n n p o m a o n o l n w r t r x i n i D n o ,o s o n a bi e i r t v c ao n u w p i 2 i st o p i t z f V d pi s m c d i e t a D eyc e s l t p a b d t r 0 g l l n s o n ohn l s e u a ho i a r s u d d e u c h ) e m 2 i t t a l t a b n s o a i h t l [ l e tns ra o u t i o p 2 l e i r 2 c a oin t a t i h t e i e t s b a tt ] i i o s n i n h d n i n i a t ch o t y l t d f t w y oo a e o s r j i M pe u n ti d g e i a i r e s s l v l u e u o e o n t r i e nt n a ef y o i s o n d f m i t i c h t h l o u c s n l s n n s m n r s d s a t l C i f d r a wat o ei c e ( e i c o o t n t , ed i , g t e i l m i o L w tr r o h o s g o w r v u m ru n i e r c m r i e d w c T c 2 n t l i t n ae e s e S m i v l h sp l b t o d t l i V t a v a o 0 a t d l i i si t i r g q i o l o u u b i a o t t l e n e n s o o n a o ri n ) 2 m t c t , e h u k b u g r r l ve n e rr s g n n n c s f t 3 h a a l f n i a e t s m a M o i a i u t a s t e i e n a s i a r e s e l a r n g t h c s w n lt t “ i ie n t m r g c c t h y . w p a n l s e o t e e t h . d a u c L s o a l y e e h e ef e P e r C e s o bd t of c t r i o i i p u r b c s - . e c s e l i a n P o c g eu t ar vce n l is o ci o n a l s o n t n e E l t o n a a l r a t A s e r a c wc g i u b n e ol r a e i n h g L s f f n t x t p o e r t t l r t a o f r v s e i r e s o r o s c a y e u pa c h g r or a a c s lb e l e n i s g c i e oi L o r t u t e n l n h e s c b n na t o o k oa g e e o r k i u c r a g o ma nn o a c i t s ie t a g i n p i pf t l r e b r ei r l s i o a e t g n d a l r a e n e a o c y i n t i u e e ps u p s y e n t z i d d e n i e t ri n l P t c o n sf i t r i c t e r y i d h st tt i e d r l o z d a s e a s z d i t a o to ena . s , oi a ta d o e e e s u i [fi e e f l d i t u 1 a y e x x c w n d n c l t p a s i n . s ] r c pa l m l p i e i o r n R r s c a t h u t a e d a n m l o o A a s e s n ha r a d a l n d a a n o ur c n e d a n o ,o u y o D f .y “ rd e gn na a r t n v d t m d ra a d t a r s r v Tc L f f eg e o r e i n t s d l o e a d u r n e t t n i hi l f u t e ol r m s odn , n v Sa e e io r t u e n mm m g o d i m a l n e i t e o l m e g n s d m e y l o m r ( c ar a o n c l a b x r s P r e oo e a s e r o a n t 1 c a s n s n i h s r n lv e ib e e a R i d t s bb n fw u t s s , a r o d i e i r t e f e S a a n a 5 l t f e c s ii t ) e s w n t o h o r a n e i i i ll g f a n n i ht c 0 n n n g a ii e e v — o t a o o m a r t s t t t i ss i r d d o o h 0 e e e e c l s s s g g g y y y - r r t t f f .. l LC s ITDmdWdds CLHrNA•• •••• AtsaiLaow 2 n o e n y h u t u a n c 0 r e ee D s o A u h c r u a q o h s te r nt n 2 d l ml a t n a c m i DS l i i f i t b u n r i h r l u v v d 4 a v t / a e l e u e DPssEpEVPo n o A g o ae e o i i e e e e i a r d r e i c l a r m ue t m M eer nsr rn i gn r o e xd i t e r r y n g r e i o t h e rn s a r e t r rro s y y s n p c i s l d y t o a v r e f u c fi . c v aa u i a( d u u h L tfi i a u g e o t [ o l v Ml L s Ntdlsc3 i E o 1 i b n n n r i o h s A sd h o r c o a c h d c r e r e s ] e c v a r r , a p l a- f e V b n ta yt l e e f r e o o d a r e c e m n r g a o i i r r 6 re si e t d Wa e n a a er S n e2 l s s o A e c ( s e b o s m s r n i a s t o i i d t i g c n s A r e c l s t t d t vc i h n o o sh o e n f h ) d u o d a u s a t o d h s o s i i n e n e o f s t 0 v e e D a u u o o a i i e t f e. : t i r c u s a v g n n i c un u n n o M i e . m i e o e t r c o r o d l l t l l n A n a d s D e , h a n e r e d t C tc e i b l g a r n2 S c e o ln r s r u d e m B e f a i , l i a , e o D s r y cc s s ) e c o a t l s t as x e o a - f g o s c i l r , e . M l , e t A r S h p s c 4 e a ot o s p t Di r e , n cl s r c t r h ar a ro t w v h f T 1 s a a ua ’ o g i y a e h s r v g f m a t s ff h l r s e s a a a n t e e a o A h u e v o c h n n s or R i m i o i r d c e i t s i n , m e c l n c c r p lf r e o f v i g n n a i h r rt h p r a d o t l f r c e s c s t i d h c fe Gh a e d a i i a o a e n u e l a s t d c e er l t a a a c a e a o v e ea h el a m e t ce n r t i s s s s l a e a r e a r f i c i y d i r l i m es c n i n t d i r l n n n s q o u o l e e d t o l t t n r t l n i e t e e f f a e g f u o d r d e i e e i m g f d h t i n u a o a n s t o n n / e n a ( v o du o td n a n d eo s n n c i o H e c l w c e e e l yc i c r c e r t . x i n c tr i p e d s r r d t r c a . u v e t r a i twt a a r c h e ie t fr e L a f h S o u c t o i r m e - e i u u e i a r a A i n s r s l r p ne s u e S i p n o ye o o i n ea r g u a d nd m er p e c l l r c . e r s d r r it g ) n s s l n fi i f s o r e r s t l e [ nz e o e e , r e s e1 t w e - L s u n g o v u / l ue e l a C s s ] e a u i l r a va , o o s n vs l l t a o io t t n io e ri m e i , u s a l c o o t f a e s h r i h d o n r n n o a i f r n g e t d a t q m t a d t w np i a e a u f l l ye h e n d e o g n s i i y eo re a G i l t c u s h s o s n d c p r p n r i o e c o e tff a h d e a p s v x t e ldo o t s c i a b e p o e a l l p g e n h a r i m p r y e o a p l d u i d f m i f ff v c e l , v er e o r t e m oe o p n g i c ee m r ff c l s e r e e d n s e s s s r l l a s r c o a i nr e f a r t e e cu n oe r a e ra a w u l os i a o t e t y a a da a r o w tt s r R : s n e e h n s g a E p t t d a a p r c i n h n c a t t p i r e ean y i o od s e t b t e e d a i n o l i a o t tn c e p - e c h y r t d o e a l ddse i . n h u v o e r e o e t h y b o h . n d o e a s a m e b n i i a d ee aa G r f s a d w o ff b c e T ii n s a c ru nc a s l . i t idd e p lb l m u r r t h e w a l f i l n e i l e , a ff t te p c a — e n t e i e v o l e r ii I r i o qt e r t c y n c i c n n l n v f e o i r s ne ep c f d c i g h v a d i s ar i a ue o tar t i tt d ss dt n j c g i r b e o o r ao t d e s , e u y e n e n th s c e i u e l p s t i ee t e r r e p r ( m o i i r e e we cr r . t d ce e d ew n o m G g t y l o c t e e d d a a o d m d s d o o a t l d o i n a ff a u t c s f s u - a l L e c v a s s f o t d h o t f f l a e s d e i c u l s ei E hc d b t d f w r h b o e y f t c i fi o f n , e r r ia o n n o n e a r ay r r c ) e s y o i e e c o a c a i v s nt . f f i i m d a s y t r a p o l t o a t n h n c ue N m r t i l i d e l e g s f l . s b c / n g h c a G f u r c c a a m s u e - s o s i m A d s i cT o e p l w l s a b e n c o . n e t n e r o l n L i a p e r e c h o a S s o n g a t o r a i g . L n a d s d o l En c l n a e o i l g t r e o ln a i g A y n - an t i r a , r s s o s e r e t tn od o c s ffe g l , i n c ’ n t G i k l t i y s i , fl s f s s w cr o p n b a i t f r i o d e nl p e d s fi d n l t t i u i o i a a a g n n a e c a c e a cr o b l ge t i a u e c M t e g y w c n r a a f f i t t s l q c a n t d h a o r r u a a p f t, e i r c a u r e a d p e e d o a e t o ei r r d u e t l t f c g e w h i c l t a d o a d g l g s e . d e u e e nc n l r o r h r i e i e r a t y o f p o p i e v a d d , l nl e l r nn u a t r o s fi i i p i w c c a a e , a pl m y e t n s v . n e a g o sn t l c d n l o a . a h n n n c n e r a r l t ih e t t d c t a l e e o o e s o r b t e o a W o d r t s l p n l i i d g p h d a o r e a d n l c h s m l f a r i r i m i d o i g o s l s t e no e t a r f d t n v i p h t e c Mvi b a e oi e w e h e , t u n t p e gt c o p l d a i e h i f l h c . n y ls e M a r a e e p e a r s o a u t e e n a a r r i s s e r n y e t t n n r a t G ys u p l c p r r n n o t o i h c o s i e o — , s r t fii u d g t i n r a t l e a L no d o b u a i i e d i s n y e h z c c a s e t o gp o rE A r s gff n ri g h e e g e a e l o l l r g n a i a s u s p s a G h r i e s e a n s m n d t c s t s p mo c a t u u b r a c e n o y i r p t oa s s i o oc r l w d r h l s l p r z f i h a r a d e i f m o t u u t c l et m h f e a s e e i i s r i p e y s n a M o s w e t v t t r n l r s u t i , a e t u l h i p w e t l t f i c d d e r i i b e a a c n i a e u d m . s o r s mc b n a e e w a e e i a e an s t r r g u r c n l e n t e s c i e c c e l l s te , y e a o w u c G r tf s y i rg st a e t e a w v o u n f x h s a a t r au i a . w t i a A g r a e o w o v r e t u t r st o t d e a nr g g e i r c h a i s atr ri h p n ,c o n f ta i t o d ec od r y x a e , t l p D t y e e t e s n d c v t h tw n e p h t b h h c r h g r e o r u he e e a o a m d d s o i l e a e i a e e aa e t N m o n f mff h fi e t c d u , e e t n t b y , o p t r e n i r i ti c c c e t A T l c l l d c e o p a o c i e w i h b l s i u u c ti a a a a at n i S v t u fi t t a i t n n a n i e i n n u t t e i r r r i i b s e c c l A t f t t l o o e h t a t g g g i e s o n a a a t r h . a r a e l t s s ’ d o o n o n o l ae e e e s s y y r r r r t , , , , , . l istssaHTiodt dsssLa Pt SINiL ICsobTd CwD d RNico tiD 2 t n m n n n o h h n h cc cu p n i u h s n i v h s i o 0 a f oe f a e A u c f o e r o A h g i s s t e e e r s ii iet i c ar e n te e d p c 2 c n o t c a s pee e n v ms c cl S y tS i i v y r o r h r : l i i p c a w I au i 4 l a e u e e l r s nn n s i eu i e mA v o tr r a A e o i i A c p fi c o o s e i l a sr d m u e z t lo e m dle n i cc c c fi y m ’ M A g ’ m o u d e ’ i t o c s l h s d s n i ps a s w i t u a a S d ee e u t i c r n e r c m u a p e w i e t n n a m io o i u a p e u l l e t o r , l S n c R r v n n g i h i e D n p M m n e e n i a m e c m o t t s o c n o sn A s l p s e n t z c i c c e r e g i i e m t u t t d e t pr e t c e n t e b v p t t e n t e o t l o h l s r e y h i [ i y l I s g p t e , r y e r n 1 e a n oa e i 2 s r e y c c i p l h ms [ e ; f a e a o e i ] n t e m e , i o 4 a — a a o o M n h m a t s c r n d n c o o a h ra a e ] o n a t s t t n n t i a h e S l n n 0 r s a i v o r o e o e s e c h o l d a o n d i p o oe n r t n t M c e d r S i a o p t i i e N e c w t t a a g u n g a e n e c a c tn r g d v o e n a e d e n 2 l s c o o a s Swc c a e t o h i a y t f nt e s u a h yl ef t v c ne a d x , t c i m M u c e i l p t r o o n r e . [ M o e t d e n tm a i A p 4 r p 3 i t s t d r i m d s w o P n u N . r 2 h oS e a m a r 1 ] u a N o s y n n e i c t it b l r d l i i s a m s r eN m 0 r u i ee o o A t l t ai r e t t A t n r S w e cd o o i A t e o r se e e a c s i i r s h e t 2 n t r n r n d f n h a A o g S e d P r m s n e g i o h i a l c S c o c g h n c i d M n 3 e a o t o i a h e p t t A n S A l r f n n t be u y u h i t r A i s t e l d c a – w ao ne n t t e c c o i a p la y o aM s A f b t d e i o j m m u i i g2 a t n ’ o r m r t c s i e n i a . n ho w r , r lln r ’ e h s nn d e e c e D [ y n s a s i c 0 s a r 1 a u t c d c e t n s r a e i d w n e t ] c i s , t n n h h i 3 et N i g f n a et M s s ee s a f s t n n o r a o e o i t O f s e i r M 2 ti i q h i oe n e O i s l d ’ b M o: u v n l A t s i t l o h is c of r o n fi t l e a e s e a u b t n s e h c d o d r r e d O y , t S mu e (n ao o e a nt n c l t s i h t j e i O r c e e g’ a s s S r o A e b m h A b g o s o n a r r p t t P o d c i e e i C u d s c e i n c i i W u n h D e l r fr n a t O g u o t p e n t l S w f s i t i t aes a t o Nc t o j o a t r t r ci r s n - a a i n o n n i r n e ae Mi e e n aW nd e L t a a p o i t r i n n r ho v a t i A b r d l e m d m o e tsl s n g i—e ) l n s h t M a l e m e r c t e m D m a e lm . l S L . c c e r , i c g a . ol e i [ e s e i t s p t i 6 M c r a o e sa o U t A s t r m s s h ae uc ] p s W ,b p s c p h g a o h s t h l tt d r r n M u w s n a a p , rn h e e l l u i j s d a i t e tc a r E e y t io e y i e e Wo t t m w I t r a r i m t i a i r i i r o R e i v n t p r s y n n a e r t A s m t o - n c e r g v ns a t a i e h h o v d e t hl m l n d v dS ne e v te r c c s a e n d a t d e s N . M e w o c e d i ac n e v i i i d a e e n [ c c y c t e v s n l d c 5 s n g i a t l i o u n n th o A e es s n e ] t e g c p o l u i it ct h , r d ti e e r e e u i N t r f s i r h e l a b y oS s p w g a t op l i in a e t r al s t a a n n t z p ad T re . ee n h . t t e A i d Ar a n o h i E do t e o n n e hh c c M n n c a a l e i sc c n e i r ’ r A a S o s i f i e d b sg I l d d da e e e e nh s s s s s g e y t e - tt to s , l a n A r r u h r o h an i t M g a r it t e o r - t w n e r s i i a i e h i i ci A y eo cm b m m c STDTMAcsaitd o a, ae O n sA a o a h j b hh c 123456 or r e d na e i a e l s c r o c pl p c n p s r a i b i ee m s s g t c v . f o s v n e c r o i a h p p r l s o a j t a i e e e t SLCLLL L y te u n cd c d n e i n O c im r ei u or u uuu u t n n s o mt l h v r c o g S n c a h e o o, t e n yn nnn n a ht u t W e c a [u h t d N a e m M o c h 7 i e fi a aaa a c p ce t sn d i u a t i s t i] h g n v c r rrr r in o m n i A t e c n Lm t d i i T e e a e c p m o e c G CFV S nu x P i h t a g r e , a i c t n S e t n r h h oo a c e s n s o h i e h e v e ar y s n I d i tt a b t r CA M l i t e c l i e .i o r v e m s a i e a n h n m l e u e g i c d o d en S l N ’ p o - fi d S n V t i .s - l s a ot e c n n vn r ia d s l A o h o c c o l c l L t o t e p e A f e o t e b e t o t e d ,u iy ; i r e e l cu 1 i f i u t t S l c s g a x n i a o s e u u S k n l o o t f hi n p c u C : r q p t n i a u n p e n c e i i t r g t n g C c i i t A c o n e t h e l h S m h a e l n r u t a y hi e m ea t r l a e m c d e u o e i n t a o n o o a e g i m h l r n o e a B s e e e S x g e u x e l n v m N n e y l d r l d o a a g n r s a rr e l p e n i p M a p M e c E e e n t s a se n d m f e E n st s a e l b e t t ti n r e w ox n i h t t t o n g v n a e n a a w .n i i n p oi x h r e sp o e a [ m o f g o m t r t t s 2 r e o r c o S lo t d t n s s l e e M i ; i ] as l c s e u n w , ar n o a y i f o r a s k T p d t R t r t M s m N t k O t ’ i g k n i rhf n t h S o S r s h . s t o e h e i . l oa ,h y p h A a k o o e e b t e s t t s n t e ( d e n A N tr u l h r r a ni N l rs l Som i e j i na n a s o t r u o e e r o e t N N A o n i nA R c A c t t M p v w f n e nc En e r e w e C S M y e , T a h a i a S ae a t x e n n o t g t g a a t A t i i rl u A r D h p v o r h v sA t n i e iy y t w o i b n t o r o e e t e e ee )s l i o a n n t i d n a n h x o l r i n c na d i a s c a d n n el e c fi e g a o , o r l l t a an n i [ l p a l e r h d c c l8 u e D l ap a s s LLLLLL AP( l ly e s d u ] L d 1r t l a s t PPPPPP n r n e P n a r p ci s e i ; i A s t Ao n . e n n e S t o m SSSSSS r o c h d a o i o O o v O e) o s a c r c c a s o ------ q n a g tO T e D 11 11 ae n i 3 3 m e r v a a a c a b M a b r p bb u b h t ,, ,, c rt e t e l d y e ej r tu dG d s j o LL LL j e ejj s a m i a r d a S e y e e r ee s o r c fi PP PP e e n e e,p u c r L r d t e r r c c cc iSS SS i f n u u o e t v m e i o c m s i l m r e e t w n t -- -- s n u t n t t tf i n u ( t r 22 22 y a i c ii i t i a a m s t iv nh i v t v t e r ma e e v e e i ) i pe i / e [ h h no c t e 2 ee c ae e r r n t t ] r i s y ’ s e eeee d o n s s e css s ss rr - t ; ’ ’ HA pFHAiT utiiSpamA e ITeoatAr T ItdsAlaNoErf 2 n nn n o o o o e e h ne h t o x n d d n 0 f f u a n r i e ch s s s A us cs su n r s s a e o l p c t e t r 2 a d t t t r v a n a f r t t a e u m e t t tc S l e e h d g y o m r r r r t g e a h t e a y u r r h 4 bp d d s s o o o o h i o s h M a a A i c r i u u r l s e r p bn a d se c p e B lt m t e iy e p e n n n - t M ir r ’ e e i n k m m d a r s l m te aa b n a s e n c c a m s s e a a a o o h wi e r s a g b Mn o o nr u a s n h hs H c o A e e e r u u uo n e u s e g t n M h i l p e o ar r a . d s h e e . A e b m e i r e n n c d o rt t t n f p au e m en a [ i e s t t n r e e e 3 s s si u rn s o t o r t t oh e u as a e e m n t eqt ] s n n s e t2 n c d s s a a m s fi o T o t i t mc nu( o b c t d m o c c g u s , o i o h h p c p o n . s ea h n p an c a c i ,m g e t l i f i s i 0 [iaa n p 1 ar s o t e e i l t c f n r i n n e s n a M n a r S t a ] s o a i u b i M nn t m s t l i n l o d nn h a n v e S n c d p 2 o nA o s a R o l n n c b a i oc a d o e i i e c u c s n a c c g a re i e n r i n s o s c e i d n e o t s r id tem M se o t s e e e o n n4 a f te o r x i s r u t p e r t r s c p t 1 o s i v u , y s s p w a p n r h n p md g a a n ep p C i e a .p t e d h A e oo o i a , o c n e re r i e c am S ol b r m e ci e a rn a o e A oy n i a n o mn l t r c p x n s y r rrs s a e r p v n l d e c s r r s r g w f S u p a n h e s r e y a e a y p s a c c t , p i n o c a e s r h p e si n t i t a , n l a a u n i o o w e lt i Ee i mc s l d h . o r r e l no c g i r l m a p i c g e n t l n d f t tm a o e l a b r sx c o n u n H o ri e dr o s s c l P e a i e d m cp a n x i n s e o e i ipp n g t sl c g , i n t g e e n o r a r h c n e t ,e d l a d a o i s s t e rr s d m uo t n c a n o y i i n m n e w r h eo e c d u v o s n c si u b , a i e ng a e o r o e o e s c a w t S e s e cv s e o n p r n e o d a t u pM e r y n s b d d r , e n f e e t e c s n i r i , a v b v a h e c m t p n t s o h s y r i h r o o i cb e c t a e tm C a n t c t q e y e o p ci d t i e l n i i e as t h uoa n o pv d o a m e b e r c e s e s o f h n u a o n as e r , , l e e e p e o snm g n s l n e f y s t o h t . n e e n s n r e s a o s e w o r r r k r o a t, f t on a d h t a oa A o s t e u xy s c r e a n h c n c s f o p a r n o i i m e t o ur u . O l s nt p m s d e n m a v n d u s e t ii o d t r en i d t r nf n c c m s x d e t o o p h s i me a c sh y e l s yt g d mr p , e p d , t t i arc a p n t y n t io [ e a e t M b y b h a m 4 a e c n le r i fir u s m e M s i s R , s d ] a t o s a n t n e l o e u e n l n a t t i a n i r t k a o a i r e e j cr r f n a t e c t s a o n e v o s i s s s c n s r s y ey e e b i e l u n n v s e s u i s r r fi , . sn d d p s n c s e t p d q q s i o r d i m a d , me o o t m i s e c t e d A a i i r . w n c a e o , d u u s n c — d e t n b p w t h . C h c o d t a e c h e t n e i i i a ri g y d i i a u c t j e r n e r a t h l e u f e T n d a c r e o en a vo s l , ’ n e e b o r e s c l l e w e i h d m t sq c n e i c t t i s n s s i s n io t h b v n l w i o c ; p , i n i E t ero l s u t i fi e o h c rt i s b a r oe o e y o t N s ; p l no u t aa fi e e n i c u i i a e e t ej n i sp r , n e m l m p h gp e h t l w r e n n do A U d a e em r n xa g p i ti a n s s y o g e u o h c v e u x t n lS u h . o h a p m t r c o m p l s l c e S e s e r s ta m i n e n y l g o p A c . b r i l o o o a s i n y e er s t . n c s ee t i ac f ’ e, f t ; , l a m e C c s t / u n n s l i a s e co t i e x t ls ns i fi c a o m s a e s in o c h s t o re d n s i u r g s ) p e o p m g h m e p o s i n n e , d n o u r s n u u s o a rp o tt ,er a a u l m e a d s o c r s m c o m h d , n o c t m e n aa r b c e c p s a rdc e i e r i e o t m o t v d n t e ot s md c tw o n i e p n e a i e e i a h m e u h w m s d g s e m ne e o c am y t r r l n d x na o i e u e m p n o r , l e e s r n s- o r o e r te y n i o e rs e e n n b i e e x s e t pa n f o e s t m , n t k l n m n e ee n u t n x w e l h v i e , ao r c c l t x r a d t fi e t g s n a e a rr is e n e o tn aa a s p yp h e i t i sm nep s e s / e x t n l m n n y n d p l f i a e n s s l l e a l si n . n o d d r l , s n o e d t c at r n d e d i t p a c o , n ae i u t w v t c i o s o i p x o c r I n o n n a c o a fi u f e r t d nn e x i b i a , b c s r u h e i o er e ue c g s e i r n a p n E r at o t t a c n u i l n y i h c t b s s u n e e r o c i h t e t a t a l o e h n n i o s s s i m i d t i a o a o l , r e c r n o l e o n e r e f i e t e c m i m d no n e s t n a n n g a ct n e h g m o es n d h m t , i i h s ag s u m d n dr s t , s e c h me e a n p s e s e r i s i t m , p e b i - d n - a c c e o d e r a n n , i s t p n c e c e s ho e o c s s s i u t u a b s rd e s t i r u o c ns i o t i yd p i c l e b n a r s s e e t l r fi i e a n h i e e ce o r n a e t o t l a t . i i u p a l a i a n h t n c v r a e s h t a v [ ti i a l l i t 2 n l t u o b e l l a l i c t c i i a n c o a c u t l] n h n t e i fi a — p n b y o i n n r c h o c r S o r e di o n g ma t e t e a t g r n e i n e i a r a i i A su o p n s y a v t e l a t fid o t o c s pf i . a p , . s t l i a e y i t r r r v t a n o n t c e . n o l e r b o h d t e i n b T s u o e y c r b e c s a o s re d s , a n o y hi t m y s b h a i p i t w e t n n e m s e a n r l a a w f s t p r h e t li c e c o a t y i x a u m o n t e i ii iv n co Se y he g n h ic c t m s i s p h c r t e s m f d d e d i r f t a e i , ag t o t , d v e a l e o s p fa t s e u o i s s t d l i m m o t e e l o s r i x p t N n ta t i e r m h sd r c ce i o s s e r an i n i t p e l eg a r . .e o c i i e m r a i i y ac c x n n s s t g t l a e e s s a y r n T s o n o ti s t ni is s s a s , d l c u a c n n t a i e e e h s v u t r o i n i i g tu r ti a a a h t t e n c n n o o o w r e e n t h a e n i i i i i l n n ne a r a fi fi cc c n n n n n a r s t t a ae r a a a sy y d d d d n o n e e e e e c c s g s s s g r rr t .. . . l RE INfarNMa WMwr sTPiSiDt N(No 2 NopNaca nn o E e e h n ho o n n ni0 a u rr ue A A A A a i o m o o cc rs l L g e o h x t t e ec 2 r d d nd t a r c t h S S S S t ll p o o a S t r l h g i f i i uu 4 e e t f e l i p i aa o e o uA A A A a n o n n s e I r n s e e c o i c dst d ) :a dc n t n M o ’ ’ e s i r n h e d i d ws s u o i t N a z t i l c i N p m e p eao d a e n t nr c o o s s i a o o s n l u o o t c o n a A l M A n l A u it g i N M o S o t e f o M e t b n M o s o A S sn cSd c ta Si f s r S r r p s o f c o n A t h o l p s c E o i iu e t r ec c a o t A t t e aa A b n a o 2 siu n c n o t r ri S s h a h L o r i e t vi t r f d lr o e y ou e i u o o b v s h b t n o s A c S h i e s e s n n , p t t e p a e 0 t e tn e s n, t a l e i r h e n l a I e A M i c a n l i i t e t A r rae t s o s n y a t c c c a h o e e s s s c o o 2 e i cr o p o r a gr h r p c a n ge N h b a n c a u f b c ts c c a i e s t E v a o o r m u d Wl M M lr i y h e v n M 4 p s t F U Ao h s t u d e l e p n r eL l u 1 m u r i a h l t i t r e t e o m i t o S a a e n n v e a t o e Sc l o A a a e h t l e r r h p e e t s ce u d e m r n r r m A a u c e y s r I r o i a r i e m e r s e s c D n k t o c y m n c ’ i ’ t r e e i i e n d s i e s n t m u a i s t N a h o v n d te b s a a i u O s s u y x c b f u n a h r n eM t b i f s l fi o a a r , 2 e n n p p c t or M f o y b et - o r b o s i l p eo e t n t r a n 0t d o e i h s oe e l e m o . j i n ip c a e M y o c o a r o e i p n o [ 2 t , i x o w . r l 1t r t a e g e d l t r c y o t g ] c p n m i e d c 2 n w g h u a o u n u e a o u I i x t ,fi e T e l n t a l a a n l a r a n in . or ea in l n o t N i nru t o h r . s t M t e n v l ”c t l t h s e a o T r b cr h t l r e n n e i o s e o e A A e s e i e c a n D s e h r C o u a z itM r e p is s q f n c f ff o M S o to t d c e a a n f a o l t o o u , i x , a i y o u h i a nnu a o l o A o c t cac e n o p .r c a n e l u s ci e r d i [ u e t r sr r n Ec o c t o t 3 t a r n u p r r c x i e e s e s c s t ii ] i c i e e s x e m s t u : ov n ov c a p s t d . e m u i r t e m o t o pA A m v s i s h e m p O n a h n n l p I h e m t r s t t a e o n s n o e du e r i a l pb oa i e a e b c t r e M y b y c o n c e e r s r c n n d it c o t r l w l l p R i t r a s n e hj i io f l i d n u i e c k a i a th as t k a i e n l ss d y o t e o c t g a i t , i f t n it o n i i l s r e, i z c l e t c h f i n h e n n b i s i v u o r o s S , o e i i o c y n a a n E e t s e e g i n e t r i a l d U n r a n e i c s c r L J g e t r s nhs g e L i v dr s w s n m u c l n i . . t r w ai n t . , t i i e S i o .e e e E e e e S e u d n u c t o a n g [ N i o l i 5 i E s In s x ag t L i nl fi m . ng o s e f r ] b n e nr y h r s U t , p , A i u L e . a S n c ec ek r nm , h l s d [ s b t a t s 4 l o S 2 i i t S n d I , e aas l e r o h i d n se ] p i u t v u , s M i f 0 e m s a I e A i h s sn u h s n h r e g t i i r t tr a 2 c 2 m a n i r n n ’ N e o o s e t e t o ee e r s e s u a i h D u 0 2 t y e g n u d n d g n p nt s o s s d a i t an A o M 2 s , c i o2 e c e si d t p t d u n r n de i r o i t w s 4N o S o n i e 0n l s t i f c o h w o i t nm e e i n u e n y i s t , S s . m a s 2 o o A h a o e r . n t oe s d c s n i , Oc w p d o 3 e a t n i o t L a ’ n T s r e i l mi t su h s i s a M o o – u a s n s i s t h o o eh n i i x c n eh p s t bo n r 2 , sc n n p d d i e i n c p M n i o a e g i n s c o e s e a “ lf c 0u A d e e o n t d l o s e r i t h C r f pc o fu l M o 3 c o s o s h p d d e n t oo f r U o r uie r s r 2 r n a a o o n O o i a e v fi r o e s r e a n e e e pn fe s n . n m a n as r w l p tc d i c x S r ff n c co w P e e h d b — d a ts n d I c pe a u .a i o e i l t r m l s i t le c a o t u c u t o o g a t r a l r h c S c r b y i w n yh o o e o c a e o s r n oe d c f n n t a a s h t s o p s i e r e e a o t i n n r n a vd t s e u e s l t t a t s a M e u i a f , l x r e e dd h a p l g E i d Nt o a o mi r t i l. l t k t d R op al c e i r m l e e a a e L a l f r Pe p o a s A nt t d e l e n r l m o c a g r c t S g h a e na t o r n o y s m a S r a a Oi s s u a b y e s s t a Ie n n er g ts , a r t e n c . A i l er t l h ic S u e i e i d a e e t o a , fr i n f i r A ai o t m d g n u u c e u n r i s t c n i a s l ti n t z f n r no n e v y as r g i r o i l a so e c i o n ct e . d p r l s i e e c r g r m s t i s y t l a n l FcE h d e r s o n ti i p i a i . u n i h r o i On s h c oi g e [ L S h t l i o o t f e a 2 n g r s s c r P a l n e . n e t i i ] S h a m s o a p e b e n e n t u o t E i f t e et f n r s no t I e E s n e g g a c e j r e u o g f . c r rL p t e o e i cn o r a e ts c pa c e xd ch e aa s n j i S o a ( ch t f e e i r e l p e N n e n r i n t s e g o t 1 e I , n m t n i E t o c t c o t u d e c d t t i d s o :A f ap e i h g v a L t v h s A t nf A r a , w T r sE l S c n o d ei p ie S t ph ed i e o ff E d A h l i r E nL o At s l o e , e m v r A I ap i i n s t L e a e e 2s i S v t L l i c ) v x r t n e pr d g e l l e S s i t x 0e p k o o S t p e e I a oy r r gc e e m o w h p . r I s , r2 f l p o i g I l b l a a n u i i nn s o r c o l i e p 2 c s a i b N n c o o e t a t i i i c c h u p r t d t a l s o s l i e h a tr r La N t h e A s y , y o e m m oa a t p a i p b u t o s ii S l l A t t t a a a a i n c a o i d oo n t e h e o n i i c A f S n n n n o o h a c c n g o u n a n a n a s ’ A d d d d n n l a e e e s s yr r t t t t ,. , l MAor 2 cohn0 i tte 2oc M4 t 1 ua rres
+Read the white papers:
+nasa.gov/architecture
+MChaarsll eEnngtreys, Dfoers Hcuemnta, ann Mdi sLsainodnisng MAor 2 cohn0 i tte 2oc M4 tua rres MCoanrss iCdreerwat iCoonmsplement MAor 2 cohn0 i tte 2oc M4 tua rres INnAteSrAn’ast Mioonoanl P taor Mtnaerrss hAirpcsh aitnecdture MAor 2 cohn0 i tte 2oc M4 tua rres
+mTflie IHr TutpWEppsF2 2 n o h n o h u l i0 0 u D n ll i i et g g aa ub e s t i r2 2 h e ib l L s h u m q ncf s rto a 0 4 r fi a la o o t e t r e ui an t i w e cr c e r s i m M t t b t e c d s d c a y e a n e a h e t i t 1 o o s u i s t t s P r p c hi l i s P ih i os ytn o a t t a e o n h s r u c e s r e i. u E n a on n ea d n oh a n f a i m t O k or m s v t d k D g d no slp i a t om l H i n o o n a, i D r aw d e w a s a n p Lf e , e a l n e n uo n t e M p C n y g ? s r i a s t wr t c st o st s g h e s r t u m s ht e a s e t u i F h p e v h n o r e e ch n l G r i x h e i i o i s ah s g t s e nd d t g e u c pi ur h e a h u s n n e a n u . i h A o i m l P et v i n d c p S t rdr ot g h i r f r a c e e e r e t o lo g h e c r e h s a o a r e p d a , M n e a n A e h r g u s f b e n d d a 1 n c o r E u R te c r i u a r s e s m d u e h t y n : i u r f e e S M e c c r t e u a l t c t e c I o o - s s e op r d c l h h t n c re d d e y s a l p e n at u t i e e e p e l P s s er a u a D t e s d x s o r h t tx , r k l h c r i s h ua a e r t a e s p f d a e a H g a e e r t p r m e c p n tl a o e i n h u i e at l C o l o c m c P h e o e e t a t p a s t i n p a r i a d y E o e e t rt as o ua eb o p l m a s n i S a n s r ,s e a n tl r r i s l tt t s h a s ta i n e c f ae s r n i ri op a a e i n o y o n f n o t e c e ns d uo nh ti c v t t n f l d n p o e ns d o e lf ,e o e E t . a t ,n e s t h r t S [ r a a f l D 1 o R u a o h s y sd i a e ] en cn su s n t u f H e L e p n n f d s s d p t c o a v c t p d e f u c e u h a r i s o h b erp n e p a n i h m m r e c a n r e e t t f a l w rt r a i i ah e f go s t gr o o s a e R ve l h y cfl e n i l , v v i n ds s l e n, e g e e y i i p e , y o m g dd a n d m t r s R r N r ls hw e ot g o o e e tP o a a i u t s A ie e o n p c t d s s m . l snr u a s m S n a c u a s ft i o d D n a n r r e A i e t o l r n n s o s T s L iu c s I e e e n f o e n t y o M n i i e a r t t t c o v r l tg n s c g i . h r sa , n e n N e a h ak t s emt T e n N e d i gh n r at t Ad n n h m f s d o m a oe t n o ei eS u i E R v i n s 2 bN d n r p n s i i M e As D t g t t 0 i c i l g e o l , g A o ’ y a l a s aL s a l 2 i e x i t a a t t S o h n E ,n i r 0 i t y a p M o n v n n sn A h e e a et n e l t m d v d h h o o e l e r t Mw Mi s e t a e ii o r c r i ng mhy a a h i s i r a ao n n l h s g , yst d s i lr o rp ci g t - p N s t s i so v i e l o d (o l t n e au ac E en — e Am E n e t v c M hn rs D r S r D l . af . e s e , o ac i a o A La ( n n BP l L , c el d N ac n )r l g aa d o c r , m em s n u e s A r l c a v h a y a n . ysd c d k O S f e u e c a T s n c g t 1e i Sh r A s n s E br h t e d i 2 v h e a u ee t ct / n a j r si e t J s e n c PD o mn e o ps u e e r . P l o c l t t t e u w c i u u s n w S e em L a h, w t s eg s t r , e e n i r ) r c t- e s v h, e s o p iu h d w r c c e r ze u ea a s e f l n e E h e a a i as r e t d s t t 1 a s D a t u . n t sh r RD i t 9 [ s a w i o l o2 r o i Ld o o l e o ] a r n d e b n a , v e m p n e nSF r e v t n N o t l l l yf v k o r o t l r a i ee o g t a e y e e A y f ai n t e r s f n m c C h m o S r e o s c s A to s i r e A n M f h c a e p w n l i c n t t ac n l es w t t h e a a s t k e e n e eh s y a e a r i si d dd n a e e l sr t t .l MT BAcnTMkocNcaEetalRcafit t INccTG ee e h n eh x y o o o h n e n c S yr s s e e A a e A a a c c i p e c d y c i t u n m e i d sc D v s s n S d s r h c S a p h r l w e l ei d c i s n N s e e e M e ea A o e o n d m a A k n rc i e p e s cp , e r A w d r t r r n i e r a h d s i D o g ff a a d i c i a cs u t d s t h s eS s l c N n u e i f l t .h rh a u p o s ia nn e r a e o A o n i i o t d r o m c dT A a o l e i s i r e n i o c v f t s p t ’ f g S n t t h o sa a it u n r y S re w o d i a o o i t y i t e v dc o e c ss i o c A l t i n u . h u nd i u p C e vs s M oe e a s er h r l e s n t l e t pl e o e d a d u u x t i h e l fi o h e s n a 1 b a i r b o d e n d sc ip b r p n a n2 on( s e r e b f s e f n a t c k s s e f o g t so l 0e ra i g o a r l c a oh t u s t t fi e i d r w e n N r 2 e t e a t e h r t a g y e d c ei q ei e a n uN s mt 3n c s c n e eA d e e u h d i o d u c r ) g m i o r e s A S c s t D A a i e p e e 2 nd , ii f s sm M tehS Air da e g on r s 0 r n h u a e i e w c ’ i c A e o r i l r e a rt s m t e 2 e s vc m l o e a o P h o ’en n e n h h r s e m4 i l c u n v m f i t c s l e e v c e st i u a t l l s a o l t i o i d st o. a e a t e re n u a e f e m i r i e n ua t nA y s i p c nt T e y l d n r w s w C ac i d etr s i ss h a r t p m t t n i n iea aM hs fi n c u c i i o e o i n e ap n god d g i r s t dn h t t es r e n n d a p o i r g e i n e e e oaa d ao o s i n mo o s t s r t e d r s r t nwr th r ei l n t e tn s vi n da C n c h o ao r s r d i ed o c e i o c n s i t a i h d e m s g n ov e c r f o if i s s t f - a l o s r i e t u y e in r u hfl Mt e fi pt n ot e h p a i n o nc e s h r h c n o r o g a m ns t a t o f a d e t n c e i e e d oh n ai w a o t c n t b t o r w t s a p le n e d c s r u e H k pt w y o tn a k C t e pe v - h e e t x r a i n u o g s u f p e o t m a e e c r r e e cR a o o g et v. y up o m h r ” . s lh c s i g a ne r e e o s ip Ms c [ c o o 2 m w 1 n ue a as a r v c p a i ] l e a l w 0 ia a v o i tn i e s d d n a n e I e ac c e s i t n i2 n t rn cv ea e o p r t e sh r tr a s s w 3 d d do a e s s s s y y w rr r p t . .l et u ot A e mo p rMd f r SpMfotasdmNnbmtfieActcpdi Iss cm n m u e o h i N yp p a oo n h s s oy t o o ou e l ma A a t c a a n eh s l s s r a a a sn e i w w n l A tr t h a s a t S t r s e h y k t de ei h u a i t c c r r hs e s - n S e o o g n e n e A , c M i ng p r n i ne s b m r e e i z c e n em g A u n fi d r s ’ y t y o a t e u a e se t a a t n p i g ’ g it fi s p eg h n 1 su l rg a s r s g a s c M e r s r es o o h m s s s t l c d t c e m : g t t . r e l l n on d u e i e fw i s y g o t i e e a h o oh A ( o noada m h bt e s s l r d i di N e n a r rl i f e e o e ni n r n er f d a t ao e t a C t c t e n u r t p a t e a t A r c es i n e r l n g i e l l i ap o h cp to a ac s f c o s a t d , c s t m S c s d e . o d t s n e o i i eo t o t y n l i s um w e r t r e o s u t A o e u i u r i c u w i s s ( c u w fc o n l i c v 2 n r a i e p a ) n e s t r o p i h r . o t f rn e n e e t g h i f 0 e e n e rt r a on h - at mn o v i n o an p a r r m g n h . r 2 d s c e w l v e s , f c o , fi w g t c r i t a s s t a o e t 4 i e e s r a r n s e N e a e l v s re o M e t i e a s e t o ol R . o c t n o o e s u nm k A c o e r r p uA g e n p gw r g oe h n m d i l i l e ch g l I r t m t r o s s n a d S u o m y o y n vogc n m h i o l r i n , o n n r i s g e w e m A i ar s ehn o de e mu ce a o e p f . g e p sd a t t n c i e nl o a ow n y e e trl i e t I t h o n a r p e ro o t o ri oe r e t r w t . n d s o ta s , ao g t n p v o l a h n h g n h cr t e . s w k d b M n b d ye “ t a e o u a y l e a s a t o t m s u , M l o u e F u o f l t w b r n a v i s w tof vs oo da i si df t a r o r e e e d l i ro a s o p e r e a kt i i t c e l w s o r r s n n l s r o n d l r n m c a s e o r a s t ffa h C i A i t t o s a t o t o u t a h on tc u a s d t h e e eh e s h ff r t o e S i n l m i e n t d w t l c r i c e t c o n s r e i t d o o e i s n u i e c bn s o h h v h wb t i e r n f w c c r d c h t ag e n a a i H a s n e c n r o f m h t ea s e t e t a o n o n h t r d e t o t l o up u t e . rn d p r o o t c u r ia o i e c v i a pl t re c m e s r n e t o c e p s an a r lt a p ny rs p r h r o c r f i uR d k g e i al n a s n e o r e iu s pm r P i , g yo r ii e r it t n o s s g t r sc u m c e fln o o e a y n r m v o w i a ) ev stt . u l a i aoo i w w . g i r t e. a t a i vr fe n i n o d i d e w e n i e iT o t t ae e o ct e r a l w d d i o h n oe e e d s s y y - rr r t t r f r l et ICisATenmcdwtOnmaAgpcc CUpniTo( HsoTD Tbti 2 s s m a o w h n h h h h u e i a oo v l s 0 e u e f f s a e e d r n e r i s h v p e n r e i e c s a l te y e e e i o b p c 2 a mn e e s r sm a p de t u v w le e s a e m d d d a r t h ci h l w s t a 4 c d d a - t d e M n o i k o p e u u a c t r o n i i w A dm e i t r a b m i h k e i p ff n a h bs s ec l d e e t r s i o o r r t a s M n t u o m l i o re d o e r e o s c t o ie , t a ha i nai l e g c u u t c 2 l e n t c c i e l a c i m p w y H e o r n c l l o o r q e d a c p u b it m o e lt ri r i c e h n o t a h t o v o ns i s o m ’ e t a n a o m h u s s e o i u 0 i io n sbr r d c e e i r i t g l u e t id i l e n s u t n b t t c l e l u s n t i s o h o e i f h d r n a t e ml i e r y e is x r t i pt s a eae v l t M ec t a y j 2 w o s o p o i e nd e ,i l d i . a ae p r i n t h k cv c o , e s l ul ff c l a t a l v o o n i n p I . e o y o c n o y s s f c e l M s t t i at d w h i ol s n4 a t tt a l e n o o , o r s ” u u . m l D t l n r h f h s st d o r u M t o h a r e f i ff ol r r i e h o ru i r a n c d r T e r m ai , u i n e n v o r s uN a f ae l d d o v o fe g e s a e a w i r r h r p s a e l s e b r e o e c h t n e t e e ap e a s o b u y s n n es t c f c r A n m , e i t p e i u s n s r l r u o s s r a n w l o s . p e c t, d o bc t h u t e f uo S t t o . n s o t r p m s d o u g on r — h u h r o A A o c t ej m M p i d t o T — mm A r d v tm e o t o i a c a e c r t r m u o t r l m c h h s e e o e n e a e s i e c P a a p c p i o c . n s e d s b n m n w i s e c r e f ) a r n l s s ty n h er os r p i m e d c f. e t eg s h e m e e ts h o s a s t s uy p i o - s a i m v u n i h i ar a r T l ie r t m l i r er n r t i r e n e t s f n , fl e t a pe l e r o t a d oi e i a c t h e n e t n f s t a e m a t v s “ g a a a r o m [go i e c a h w l n e b h o e b c 3 t h e e d de e c i e K s d b t n ] e f w l e n c c i a e f n t f r M e l j ma , t n y r r e e ri g cm e o e n l r i u ad d — c o efl r b t g a a x f n e t e sm n -o i o n n l t e y oi r a c s t u r nt a p r s e n d i l s e v w e h s c i e t m a g t t w c fl . r a p a r t t o m M u r i q i l t e h s w h o i n ae i s e z. hw t a h o l e r f A o s s h r C o c o v n m , s x u i e w a Ae y o t s c c a tl a e e b t n ) r y c e n m a a r s p w t l o h o a , a v d n o o i h m r o h e s e s s m a n n e i b s e c s s s s c a e s i n f el n t a s - a ir m t i w w u n o r r u[ i n e r i i i s, t 4 r r c d i i e u e t u d i c n p c d n o a b A e u d mr e ] t r l m c t s o m a r s t m s r m p o o s i e a i h c s e d a e d c s n w e t t r s c e h e g a i t f C o t s i w l p c p o w l s a a h s i r l r i bu e io b h t m a n w ei l s c t u v i a t o f t a o h i u a t a n n c n n , h ee o r n - r i n h t a g t e me r d t n d c m i r e E c R ec i c r ai o c d t e c m e r i n n — c c a t r fi n c c e e e o u s i a i i e c t a a e s r e e e w mt a o s i g e a k m o o s t he a s e g u t o m n s l d x t ou r r c n v q u l r m f a a d t s n m a d ir v rt c t w a o p p r r s u i t i o i e e t u t p t t u r o ah h e e c t r a p e m a s h d i e h u i , , n et l u l p e t l s d f h n p l a b ti n w , r c o le o o c i y a o i c i r i r o o i e c s l e m t c a t p z u t t h l c E y i o a e c o e r m a t o r t i r t e e s r e r u t a e a w i a r n e o r l t m t o u i f a u n h e n s b b m a e . i e m N n n D a ca a o s t c t n t a c a d e n l r r l t a d l l i i n F n i w i v n t t i g n a o e rc e t t s t o i e t Ae o c a m m n p s s f e o u r n a h o i . t , i n t v o l f o s a t ar n c t c n t S t l a s n o ov c rl e o r.A r th m o i a e p i , M t y r t m c r i e o o . [ y c A e e o r M d t f o g 2 s d h h n c n , e e n t m n o c o t m ] m m w n h a m a i a y i m a m e j c e a h x m a td s h r o a a i s a r e s s a n i i r e r n i at t r o ni itm n c o r fe u i c tns s l n s o p h a s k t o i a i o n t e s y m h n s d “ l f e t c s s m c c s e s p s d i p n u l e d o m v on r e t a l N t em s t t cs i i t . o i c l r p a t ” i m i s n e a r fl i o n d p d t h i s i m cc e a t n i a i A s t m a p[ d t r l n t n i c u 1o n n a a r e a t u si v e c o t s d s a a s en a ] l S e n r e h et s c h w r n te s e s e p , r s c ii n i p t e n e t e e l v A c r i oo e e, n z m e e i e p c n o it t h l o a - b o e e g c d o e ’ o i y h rn m , t sp m d d e s t s o h a t t m r s r i o e n s e c n n o n y e o t i t a , a r s a h o s k t a M t o a p u t e o y sr t t rs u os . u t a m n a a t o n w e e s s fi h c n r s lb n a s t e b s t ( t o o l n d l f i g o g . d a e r a o e a h r d t ic n e e o t d o a a d r o ek s e d d d e e l l m o. r v n e e e y d s t - f c b e g t i r c n s y c a e e m a eh t i r t o s a t o n e u a c . m m i Sh m e i o i fc t r fi n M lw e , o i t t m n p s t t f p u t e t o o i i d c ep o o n h n u i t d t h e p f i i d p i f f r p i nuc M a m y i o e s t r s e a s , t o e r y e m g a M a c c r r c h o r b n s j r s l n a i c i d r o a a o u es e i r d pc r t a m t m r i i c l f a i h n e c e h t a r o o o o ,wei f x n s et t e li r u b o e o t r i u n d s h w e r p p c a t t n f s no e a s S r i s c t y ny m h a s m i t i h h l l t e s h i s d l s r h n t t h l o c i o S h n h s p us n e b e ic o h t x, e . o t c m u z u a e r n r o h e t s b e r l p s o p w w a u e c e o s e a n s a r a N t n m a t e e a p a e u t e t fit i d t t c w u t n tr t e n m h l g h i 2 l A t u s i iu x i t m o r s n t r o b r r e r a p o n c c o e nn e t h s 0 p e e i r f S y m m r r o i n e i r v a e n l g n a r g t c eii e t e t fl s d 2 sw l a ia A fin s e h e s r . o p s o c y , a m e d s eu t i 3 n s n d t c . g s e gs s o e o r a s e tt p n i a s ffy a n a d ae , h y c h a i i a oo m n f e M b t ot s o t s nr — t s e w n v p h a i r e t v p r c o l i c s i t d t n n o d a y e t o l e d o a t l e h e o r r eh d i i h e o a e s i p m t o o e i l n w i i m O y s c l n t re s , i m w o i n l t p m p i i e o e n wt n f s a b h a m o l k r h e o be s e pc e l cs r y i s i e b s i so a p ns t ta c n y i a c c r tl j r r , m l n i o h c e k i c l . bo y o m a t a d i s t a o tt c t e e h e t p a e w h e sm c a s S i s t t t i ce i l i f h s e t e e fl t t e a i M h d . o c t r o o t a o a n m w i s p i s i e r a d a a m n c i o s wi a Te v t n m r g b n a an s i t r n l n n i e ea h h c d n l e a v . — t t h t e e e r r a lg s l t d d d d o n h h a e e e e e e s s s s yy y - r t t , . , l MP anp•••Ness IATimFtsprNi HheoM t n o e n h t u hx o t x e r s r r o o A o h i a u s m u o o r a t t e p o r tr a pww t t S u r o a i d fh s r p p m o a r m r r lsr a o r bawb o s A m u ta - o ti e e o e e t o l e c ss l r i ui a u r ’ h b r n o p vr d y a l l p r n s c M e s e a uph c l l a s s r li e es e s a a t e i lo k u a p n a e ruh c e n M t t d a e r p tm n n l f e o t d ct i fr em le c r a g M r i p o u o A r h — t t t i a t o n k e si s r l a n e f c c t r ts n r M ip m n e e ao o a g l l n i o i t i l r n t e h s s i n s l , or t q a o n a a n r r v a i a g p m u v a s a o i t s z g s a s et o s u r c r h n r e1 c ors p r a d i t e l g M n u c s t a n r a n o r a f a y o e h s s w i t e a o a gu ee h r , r a d t t . n e c i a i e f c o d t s o e c w i t r cs c i V M a i n a P t o r t h d tit e hs l r . e n t e l s n h t ir t c a i e r n i e i C a a Ik c y s st c i o a r ho o S i t e ( t h c i s t i r o a e s h de I p t l n ia z ud nf R s M S s , t to m x o l n m i e c o i r t s g e , mu lu tU c R p o o h n O r fs a t e s t m a cu t r o t a u l l U p r e h u a n r c o h c e a f o a ob r t s r t s r o e e m n c i rm ) t c e . t e p n f r me j to . l e . u e s e r l a s h E a i r p r d l M b o n a p wi m r s e c p i a o t u ii n na r ae i e t i tt p t t n a r p o o o s e t d he e d M i l u lr i c ot o h s d r v t t e n f cpd r e i i s c a s . p m n o a e n a a el b e t a ( r e t o b l f e u g r s n icl t , a la e o s u d . i s l t i n i / l s e r a rs t r r l v i n n , c l p c e l e a e h a c a cs a . e m a c a i et a ,a tl l d h n ne ie n u n r i u i o id o rn v n rl v o e p i i p c t s t e t len an f r t ean e t g d n u a ee r e t t i q p fg t t c cis re p s o o o . , l i i sa r c iw u o r ho g a i n a at r T o r o s fi o t o i h l i n o n n b o s of n s ur n h i s i d u t f rr t o e e . p t i l r i u c h” a r i i h p n u r e nr t t t s r ed n e [ s l c l e o e s e h h )1 r g c g u d s a s f , l ] i o ex t n f e l o e s tdb , r d o lc a a r t Pcs t i a — o u r e r o t e ie m p e r o 1 n nho a n h un c c t q n cr m to 9 s t det h v g e t m o t g h at s u e t t s s 7 em u f eh i u o s e n w o s I n i a o s 0 f h s r S r t e . l n r fi i u r it e i e o n c a , s d n ic o r b R r i T c s rr )f a o r e r , . t p g a t m s l h o .a Ua b t e u e h y l a u M l r r l t T e b ac d we rell a e e n n r t ay h c h i r r o t i o e h it - n l d ’ u e a d e r n s u r i a s i a p t b r s s e o e - f t s tu i e a r v c r o s o o t c i a to r w n e ew g o s r e r c h i r i s u r s u a pf r t a d e o i n e e t o a e h e o i nuc r r d n i t s n p , d m c e v c f c fi f i eg p fd e t t o o d r i i e c e p o e e l g n “ t m r t e - c i e r n … o y s e s r n r h r w o ts io a p a o m i s o s i ti m tu n ot ff ( f s M v t ap e a p w l E i o p e i my M u s g e o s t c m p r o po V a , e g e t i e M d r n i t o e s h a i l a f A n c r o N l r i p s n i s . t l o r n M a ra . c an b e f ) r e a o v s A r s n o y I s r a s u l I a n o m n a n M r g s S i S i a a , u t F o t f g r t s t l r r w t ie a n A R n o i a o v a t a oa si e n f t e a g l a e n d r o d n r U r s dn i a m i s M d a u h nt b u s fi t d t u s d t uds r I s M a ce ic r a S a. c e i t m l M t pi d t c c e h d i o s ts a t s a r R tr N n s u au pi e e e s a a u a i n s o 1 p I c u s m s U u p rrA a o n . S b v r r t ns : se [ a s i l t r n s n o 2 e l g r t S u R i h i fi a h I , i b t t n w ( n d a n o l n l o 3 v td t A a , a Ui p i l e s , i o i . h c n fe e u n i f l 4 i t m i e t a c , r p e fi i n l , e e h r c m sa c t s a . c m l 5 n t o tt cl t i g , i ] m t l h i h o s i se a at o o z b d m c u ca r Iu : t u t , e e n a S s e k ff n f e l e d an r s s e t s i i p e t s u R M sn m g c t e ro e t t t i t a , t i n il o l h o c t a U t e d c o ey p a f a b u r o m i nt t e e n ou et tn a s o r s u h e m er n r i l s i n r c e o o t a me u i y t r e q f td a nv r. d e e i o t d . f k n s p o t u x a m t i e ( a e n e o M a r e oS u i N ep on oi r o o r s l t p a i n a c it d i n o E s al u v ia n A f e s n v u a a m r e s . t u r e a p t r - e t S n s t w d r l t a t s h t s y h r t r g rt e h e A i i i s f f f n t a i i ee aa h e ee v o o o t t n o ah s ), dl id u hnn e e s r r r r t t t f l . a ISaaIpaTepPei 2 Nscis F m n n n o e u x o n c n n 0 u i o r i A n f n g c od p r t p h 2 a o d d r p b so S u r i c a r va l s e p 4 i b p o e lMo o e p - A i r es Ai s y i s d o s l d e r e e b r M v p ’ u t ,i o d r t s a i h ne rr x r i e 2 a l t c o a b 1 i b at o u o ec t us e ng n e p h f c it : l t l o n c o h od 0t ie h h i ci s t w r i D e c p e of n t n t a n o e tsu f u t p e r r t e n i 2 c o e t o n . c ie m t i e t n h m r er c[n c e h o o n 1r g e e— n o - M a e ] 4 c t o . p o e f a g a . s n N t g u M t [ o h 2 a 2 m ia a t-u in s d r fT ] a r o i A r on a a og 0r I g o t e i d hm l p n nt s f S fo e r m 2 e r n o y i r c i - s o t a I n sn l A e e u m 2 f ’ e , n r a o s su s l A t ’ cx s , l N rs t p w g e i a i e n p a r sn l r y e t n yi ea r c i t M A n N d a m i ’h k a r o n ci s n tb h n o t Sge r s i t n A u o o a g tp t i s i i o a n e A t e l o nr bt oS t r o c i l e cNt a ff h n i p t e n e n a A o i a h f i c i a p o le o o e, e A tr a ss ’ n N c a t tp s a os n an r r s u .i lo I S t a s a t s h A a n p a c c c i t r C s t A l v , t MM e h b i t S e e l t o h e , i p i e ’ wc o in C t e r i n A s v, o a i C ao l s i r o n o ag i i h e g e ’ t n p o M d r t s t o M o os p c a s a y s xi e w a l e e c n e n p M p o l e p h r g o r Ag t a r t o e sa i c e ie o ri e a i la l oa r o b r o e a o o l n e t f ir n t d c i a e pn o o n o ov nt e a lr i p p d h s o i n a a a s e n g r t t n r ao e t t i a h n i t c . n m s o Mt l a o n h e R r p c t i t e e h o a o c d S e b n s o io e e M i a o c b t ni l n p s ip l . w M t v e m o ie r n t e n e , v he c a a i s a u I n p s e t e a t : n a e m n o N r cre N r t w c l w p r s n tte e o t m e O r j s ae A ey o A i e o a d n n a O d f c rS Sb O n p p fe u S r r a e n l u s e t t o b t A j n a a r A t b i n s g e p aa p n c v n i m j s y o o j e tc t e t a N i a o d e e tel s o t ii a n r t oh r o c o c i m c s y e A t n i e t lw a a a v h a n t n e t s s t g Si s o i i pe l c d t t e o a v i v a t a a As at f s c o h s e e l i e v h g M Un l nn o N r s i s l a c a r s me e e d t . di e aed m a r h n n , SA o s i v s n y l sse a r J oR n t d .a e S pm s a t p e w fi yt t a d b o t o e A e h m i h i a r e i n b u t n n e li j o ’ cn c ee t c s e o ns ce e n d t p e h n ua t o c g d t e M o i a i M s e s s t d r vt a t y m r p i tb b m r y i n hen o o i W o r h ovi gffr j e o p d i n a n t o e ef o e o a b p oe o e y u o i t t gas c n s c nn i a s o i h r b tn n . o l t a p e t a T g l i t n ei bai s o e d c t nd o v e en g v o d . l n o a n o e avi c e S n t ts M t . t n r hs s m al tt n i M op e c I e ih a e n na p i v c a t f h t m s n a r a b o r c t e a h y cg c 1 i es t rn r r i t e ’ r e u l o e s h n s o e r i t o O d n t n n n i i a ct T nh t b p A t e t i h ab e ee g s d t t aeo e u r e u t e y c oj r l c e tr . e s s i res p r t o u a n s t h n f c e c e u s o u t n l r u a i s i , c ts r y etf N e n ia t i e b p oe o p v t i n c l o A o u a cr e p f i o o s c t e c nh S c ft t s i e f f p e u a o a i a .e u A t s t , a w t r l n hl d ’ m lh u i e s e e c y ss e o e p a r x x e a e i e e ou ne a r p p np n s e a s d p c e l r l l vr d . -t p d o o g u c o e otn ( e e r r e unc d p N s l g e a a n v c n aor pe o o A r t t e s c i t d i i s t da s a a o o S s i i o ob ee c l e lt n n A i s l dd n o n n a e e s y , ,. ) AT INacWjNtNstdNtadWAtctsnsfTsfNatdtaaO ue o u h r n e ah h p h oo i an r a r d e r e r e o A A A A Am b dc c c a r cr c i i e ai r t a m i ll p d fi e v h t v v gt m M t S S S S s uu j S ih h h t h a r t h e c h e c a c e c e p n d a e c a oA A A A tt d A p n i pn i b a i c c e n e n i n b l t e at ,ii t as a o ’ ’ y oo t e a h o e h a ao d e r e h s s . t r c h b h r i c c d s p t u w i l c nn i a c b l ce T l n in ve e ua i g u E a a o o h a M e s a in t s w o t b h t -. ta i e e h A o m c ns s i t n n x t l e g n u g i c a u fib l e m r e i e o fi s a o y l h p a r Ld t y a ic e o g r o r n aa o i a t i s e c e . i v y o t t e l ar e M n s l an o r h n p i at g e n i g p o i n k s h T l r n N o t l c a f h n o r l i n n n o o o a d dy o d y o t p r n t e t o i e n r o n u g lt n aA 1 i e o e s p s n t w o o o g o l f a t a e i o c d o i o e d m i t n t e e S e a l s a g gn e r e n g t t c u i o i g t e e h p o o s d c e a d d r A l s M t o y d t p h e t a o l g r t fi d t e e t n o p a e u t s n e t y a o f r x h p ri ni a y g h w r a a n h — r n s t s . d e fi r y i S o u e i a e i s i r e M t r s e t e t e T t n , g a t p s n i ee s h G y s o p e n y o t l t h d e o f n g c a o r - ao i x i - s o . t o a i e t o c r s o it r n O o x i n a r h o r i t h r n f r y t b i i s i D n T s h o s r g ti s p c n o g t j a s e i gp e f a be i bm ea n j y h t d i o y n u t - n h l n y e m g t e s s O c y N e t i j o t cr e e e f o p o s a r e e i R c e : n h g t c x h i t t t r G x a b s e Ad a d t l c e i a t ie c d e aa h i e e a s w n i oi s i fi i o r s r c v j e eS s t e d D o p c h c v t o ,v - s a y i ec e e t g i t c t h r i h a t v v e n A v s i n f s t h s n pc oe e c e eh q x y p i so a u e e e a n r e pn s ’ t t n o ue c t t n c v i s i u t e ir n ? l rt r e s o o i c w rg n fi o e g i o o c h l m t t v e e p i o m t n M o to v o u l n h ra a el f e i h l p d i t n o t h e g oe fi t l o b g ee e m r e pe l s s o l s e o i o o B g a re a l ;p c i a n g j cn x c. . a e o e l c i a p p t s fi e M a t c y m n g e o h o t h t m se h e n c T u t n A e p p r ne r e e s g n f d c h n o n n e h e sc t e a md t r tg e c e t e eyi i o o e a o o oo t ct e v i t h e o v t t n i a h r r n d i lo S s h l h n ev e t t f e h g w l n c r f f e n t o r o e n i gM so oe e t g a n n e e as m a i c A m g Mo mr r g t s g o l l t a r r a t s . e t t pe a p h a c l ey o rl i o m m f t y [ o e l io p e e i n c 2 e r q t o a u e r a c i o s , p v N ] i i et , bs s n g s h e d s a aM n u r s b n b e t r e g dm t N g n , a i u A r t t i h i n n A g i i a l e i c e t n i e o a . a y a r c t i l e l A r n S e e ae c cs i e b r s t e fi o o n e n r p n r at d w c u hn S A c n In h n e e e s s c y l n - r t t f d r l e t o h Dr uo tA t oh h e e u c i e vm i i cnt N e s h n r r u a xd e e e e o TMiteefittpnctedn a v a A t t t d m c e ee e h a s c e e x a l e l l l e e i u h e s n D So e e u l v e t fi cc c e g s p t n s p i w cv e l e u c e p n o m m n Ag c ee lhh h n e ml s t e s e a. n r o h u y g r m ht a fin s nn n e tep l i s b a e e t i t e b o r b T g nc f s n oo o , [ o a s a t t 3 n ni w e t y d[c l p h e l l 1 y o a i e ] ll le a c eh o t i i i t n t t ] oo o o e o h n i e t a s e n i i c w s r e t (o o m i d o t M l gg g v f u n h yr c c E h e g, h s o g o w n i s e i e n yy t oe a e h y s l S e . u o i a n t r . l l . l g n v ’ hn x . l r d i i N s D o D p to s s Igo co n ee e c p n y h u Hee m t p t a n l a o T o A M v g e l x h d g h l o e n w o e tp m o o P e p a in c s i S o h i i o t p e h e g D n a p s tc o s a w r d e u t a uA a e t r i e e sa i s l i f h o ) ne g h t i c l vm n a lM ’ r c e u s n o i s t p o s s s l t e n t rd soo a e t iu n e t ve t h h t r o c r h a e n ou w n tnu f e i e a o d e e s a e t a o n i t r n c l r c r r x rn y i y d a v xa h s o a t te t , e e t z r , t p y p e e f s i ih s e r o r s a . g e e s d A .o s n a c b r c e [ t t t l t w a d 4 t y d t m i c o t o h e o e r a ar rr ] h e d o i h h t c ce i a an ru m e r d n l i g l r t p a pa e h i h i t l a w n ngr ir h P c v n s i d e tt f o v e s u c a n i i r i s d a i e t u e i e t t f c n u e c e z w o e c s n e u e e i e a n o s d n g e t v a h t h sn c l sx i c c s n l e u a e , c f c n c n e l s r i , py o e i t t a g ta r t g e r e ao t l i g g o u u s e t a h el x fi m o i r i r r s t o pr o n n ot c t r rp c a c l h e ca p w i p e e e s e r a a n , e p n p h t th l s e a a c m a o . c o i u i b l e s ws r l i teo i t n t s eb Ti t c ot h o r r t h i r rs i e s a n e . a o late h oa a e u i e e v n i h l n cg c t t r m b T e nn iy t r q x o t t o a i i d k e g e h c t t o t t h e o il c u f u e o l n u s h e x e e n h e c o a s aa n e t i t c p b rt d r e e e r h c i a p g s st e h s p e i t eh Al jo p m t n n y ee p s y w e o p -i - l esn r s f . u a v d h e dw w cf a c r r M t . n i u fi o m o a do n l l e r t a t r b t e l h h l as i n u l t il i t l o ea n m n v l v i o v u v nu i e e b i l e r f o o e e c eb e e c n i e g er d o o s r r l t i w ph n n n e d n s s e e e e e sg y y - t r r , MAor 2 cohn0 i tte 2oc M4 tua rres
+NpMsreuooampwtrpse a e l : i ren em Tg sxhe aepins nnleo to rp araap a rttye pii,oon ennb r a at r ie ec scc ak ac uh mo o pn f np, o a cal raoeicnggr hndyn i .t e f erod ecTr dt hw u auer ni n a t h dl ip n aaoti nnthti ateae lnl sy ptc syirarsis iet ml. ew m afeords yr TTeecchhnnoollooggyy PPuulslh: i:n innonvoav Dtaieotinfi o n nto t i o nm g me Tee ete dt r moancsutimcipeantteedd mmiissssiioonn nneeeeddss..
+2024 Moon to Mars Architecture Concept Review 1 2024 Moon to Mars Architecture Concept Review 1 2024 Moon to Mars Architecture Concept Review 1
+6 2024 White Papers
+
+White
+Papers
+MARS CREW COMPLEMENT CONSIDERATIONS
+Weighs the factors, risks, and opportunities that affect how many astronauts
+NASA will send to the Red Planet during the first human missions.
+MARS SURFACE POWER TECHNOLOGY DECISION
+Presents NASA’s selection of nuclear fission power as the primary surface power
+generation technology for initial missions to Mars. (See associated feature on )
+MARS ENTRY, DESCENT, AND LANDING CHALLENGES
+Examines the challenges of landing on the Red Planet and considerations for
+crewed entry, descent, and landing capabilities.
+MARS ASCENT PROPELLANT CONSIDERATIONS
+Explores the challenges of transport, or in-situ manufacture, of fuel needed to
+ascend to Mars orbit after a surface mission.
+MARS-FOCUSED
+WHITE PAPERS
+w
+HUMANS IN SPACE TO ACCOMPLISH SCIENCE OBJECTIVES
+Describes unique capabilities of human explorers and how humans and robots can work
+together to maximize scientific returns.
+RESPONSIBLE EXPLORATION
+Dives into the ethical, legal, and societal implications of space exploration and how NASA
+explores in the interest of all humanity.
+INTERNATIONAL PARTNERSHIPS
+Policies, Opportunities, and Engagement: Elaborates on how NASA engages and
+collaborates with space agencies from around the world. (See associated feature on )
+ARCHITECTURE-DRIVEN TECHNOLOGY GAPS
+Explains how NASA identifies technology gaps for needed architecture capabilities and
+encourages innovation to close them. (See associated feature on )
+2024 White Papers 7
+GNITTUC-SSORC
+SREPAP
+ETIHW
+
+2024 FEAT URE
+Partner
+Pre-Formulation
+For more detail on pre-formulation for
+international partners, see the associated
+2024 white paper, “International Partnerships
+and NASA’s Moon to Mars Architecture.”
+
+Well before they launch, NASA missions and systems are
+brought to life in pre-formulation. The pre-formulation process
+helps NASA define viable and affordable concepts for new NASA
+programs and projects via concept studies.
+For systems supporting NASA’s Moon to Mars Architecture, pre-
+formulation helps NASA identify approaches can that best fill
+architecture gaps and achieve the Moon to Mars Objectives.
+This process also offers opportunities to engage with partners in
+U.S. industry or the international space community who want to
+participate in the architecture by providing particular capabilities,
+instruments, technologies, or exploration elements.
+To illustrate the partner pre-formulation process, consider
+a totally fictional Moon to Mars Objective, one that requires
+NASA to make coffee beverages for astronauts on the Moon.
+First, the agency would decompose that objective through its
+characteristics and needs into the use cases and functions that
+would fulfill them.
+Upon finding gaps for a lunar coffee maker element, NASA would
+begin the pre-formulation process, which includes a series of
+key reviews. As we continue through this process, the concept
+matures from a general notion to a specific element that can be
+built or procured and the “trade space” (the range of theoretical
+options) narrows.
+Initial studies consider a host of options that trade against
+one another for considerations like cost, technical maturity,
+and objective satisfaction. In our hypothetical example, this
+might mean comparing and contrasting a drip coffee maker,
+an espresso machine, and a French press — all of which make
+coffee, but with different pros and cons.
+This analysis feeds into the first major review: element initiation.
+During element initiation, NASA assesses whether a preliminary
+capability meets the architecture’s needs. In our hypothetical
+example, this might mean confirming that an espresso maker is
+the right approach to fill the need for a lunar coffee maker.
+Next, NASA begins to produce a preliminary concept for the
+element that will be assessed at mission concept review. In
+our hypothetical example, this might mean a more detailed
+preliminary espresso maker concept that fits within the existing
+constraints of the architecture (e.g., variations in mass, volume,
+or coffee output). After a successful mission concept review, the
+concept is added in as an element in the Architecture Definition
+Document.
+At an acquisition strategy meeting, where the element moves
+ahead for implementation, NASA decides whether the new
+element should be built by NASA, an industry partner, or an
+international partner. The illustration to the right shows the path
+of our hypothetical example, with partner integration points.
+This fictional, simplified example demonstrates how NASA
+uses the pre-formulation process to identify needs and develop
+concepts into exploration elements ready to explore the Moon,
+Mars, and beyond.
+
+2024 FEAT URE
+Architecture-Driven
+Technology Gaps
+For more detail on architecture-driven
+technology gaps, see the associated
+2024 white paper and Architecture
+Definition Document appendix.
+
+As part of the architecture definition effort, NASA has for each metric; the resulting normalized scores create
+identified technologies that the agency must mature or the priority list.
+develop to achieve the Moon to Mars Objectives. The
+The architecture-driven technology gaps are a dynamic
+latest revision of the Architecture Definition Document
+effort. The list will evolve over time as technologies
+captures those areas of needed innovation in the form of
+mature and fill the gaps, the prioritization of gaps
+architecture-driven technology gaps. These gaps outline
+changes in response to architectural decisions, and new
+capabilities that the architecture cannot accomplish
+gaps are identified.
+with existing technology.
+NASA identifies a wide range of technologies that can
+NASA defines these architecture-driven technology gaps
+enable future spaceflight. The architecture-driven
+in solution-agnostic terms. The agency recognizes that it
+technology gap effort was coordinated with the recent
+needs to mature a capability, but does not prescribe or
+Civil Space Shortfalls effort led by NASA’s Space
+prejudice an approach or technology that could supply
+Technology Mission Directorate. All of the architecture-
+that capability.
+driven technology gaps appear in that list of shortfalls,
+Public documentation of the technology gaps allows alongside a wide variety of other technology needs.
+NASA to communicate desired capabilities to industry
+NASA has a long history of developing new and innovative
+and international partners. Each gap represents fruitful
+technologies to advance spaceflight, benefiting
+areas for research, development, and innovation that
+humanity in the process. The Moon to Mars Architecture
+can help NASA and its partners invest technology
+effort continues that legacy by stoking the creation of
+development resources wisely.
+new technologies through gap definition.
+The Architecture Definition Document appendix for
+technology gaps includes a full list of the technology EXAMPLE TECHNOLOGY GAPS (2024)
+gaps, including key aspects of each technology gap, Lunar Dust Tolerant Systems and Dust Mitigation
+segment and sub-architecture mappings, subsidiary
+Systems to Survive and Operate through Extended Periods of Lunar Shadow
+“child gaps,” and a brief summary.
+High-bandwidth, High-reliability Surface-to-Surface Communications
+The gaps are listed in a priority ranking based on four
+Mars Transportation Propulsion
+weighted metrics: criticality (the degree to which closing
+Extreme Environment Avionics
+the gap would enable the architecture), urgency (how
+Five high-priority technology gaps identified in 2024. The
+soon investment in the gap is needed), breadth (how
+initial list included 56 total gaps, but NASA will revise as
+common the gap is across sub-architectures), and
+developments and analysis occur. For the most up-to-
+depth (the degree to which the gap depends on future date version of the gaps, see the current revision of the
+architecture decisions). NASA assigns every gap a score Architecture Definition Document.
+Example
+Tech Gap
+Gap ID Gap Title
+ESDMD #0101 Lunar Surface Positioning, Navigation, and Timing Systems for Extreme Temperature, Radiation, and Dust Priority
+Gap Description Architecture-Driven Child Gaps
+Current positioning, navigation, and timing (PNT) systems for exploration • 0101-01: Positioning and navigation systems for lunar surface applications
+assets and crew provide relative position but lack the ability to determine • 0101-02: Accurate and stable timing systems for surface exploration assets on the
+their absolute location. Long traverses across the lunar surface will lunar surface
+require absolute localization to facilitate path planning and execution. • 0101-03: Robust positioning, navigation, and timing systems for the extreme lunar
+There is a need for improvements to current absolute and relative PNT surface environment
+systems and technologies to accurately track crew and mobile surface
+assets. Additionally, PNT systems should be operable for expected
+durations and protected from lunar debris, dust, temperature variations,
+and exposure to radiation or any other space weather/lunar phenomena.
+Architecture Impact and Benefits Architecture Traceability
+Without gap closure, the impacts may include reduced positioning, UC/Fs
+navigation, and timing systems accuracy. Additionally, due to the
+environment, there is a risk of PNT systems being compromised and • UC-M-601 L -- FN-C-201 L
+unable to operate and perform at expected levels. • UC-C-202 L -- FN-C-201 L
+• UC-C-203 L -- FN-C-201 L
+K ey Decision
+Consult the Architecture
+Definition Document
+Metrics Sub-Architec ture(s)
+Appendix
+Current State of the Art
+There are no current NASA or ESA rovers on the moon. Current Mars rovers
+possess state-of-the-art PNT capabilities for mobile assets on another
+planetary surface.
+Campaign Segment(s)
+Performance Target
+Achieve absolute localization of crew, mobile, and in-place assets on the
+order of TBD meters.
+
+2024 FEAT URE
+Architecture
+Decision Roadmapping
+For more detail on architecture decision
+roadmapping, see the associated 2023 white
+paper, “Key Mars Architecture Decisions,” and
+Architecture Definition Document appendix.
+
+Developing an exploration architecture requires an built cutting-edge digital engineering tools to track the
+incredible number of decisions across NASA. Each of entire decision space (i.e., the network of decisions and
+these decisions has precedent or flow-down impacts on the relationships between them). The latest revision of
+the architecture. the Architecture Definition Document includes a new
+appendix documenting this effort.
+While every decision is important, some will have major
+flow-down impacts on other subsequent decisions. NASA provides a concise decision statement (e.g., how
+Mapping out these driving decisions and making many crew to the Mars surface per mission?), expands
+them at the appropriate time is key to the success of on the context (e.g., how different numbers of crew
+an evolutionary architecture development effort. For to the surface changes the end-to-end architecture),
+example, when developing a Mars architecture, the and traces the flow-down relationships between this
+decision to use a certain power technology, to send a and other decisions. These are architecture decisions,
+certain number of astronauts to the surface, or to use not implementation decisions; they set a target while
+a particular fuel for ascent will affect a huge number of allowing for flexibility in mission planning.
+later decisions.
+As part of the annual Architecture Concept Review cycle,
+As part of NASA’s Moon to Mars Architecture NASA’s architecture teams develop “decision packages”
+development, NASA has undertaken a decision that agency leaders can use to make those decision. As
+roadmapping effort to identify driving decisions and key driving decisions are made and documented in the
+better understand their impacts on the architecture. Architecture Definition Document, NASA will add and
+The agency developed a new decision methodology and track new or flow-down decisions.
+Consult the Architecture
+Definition Document
+Appendix
+Example
+Decision
+MD-01 INITIAL HUMAN MARS SEGMENT SCIENCE OBJECTIVE PRIORITIES
+The agency’s Moon to Mars strategy identifies science as one of three pillars on which the blueprint for
+sustained human presence and exploration throughout the solar system is built. The needed decision
+outcome is a formulation of more specific science objectives — traceable to NASA’s high-level “blueprint”
+science objectives — for missions carried out during the initial human Mars segment and prioritization
+of these objectives. Decision prerequisites will include inputs from and coordination between affected
+science communities and organizations such as academia, National Academies, affected NASA science
+advisory committees, and the Human Research Program. Priority science objectives have substantial
+flow-down impacts to most architecture and operations decisions. Therefore, the Mars science priorities
+key decision must be placed earlier in the Mars decision roadmapping process.
+
+2024 FEAT URE
+Mars Surface
+Power Decision
+For more detail on NASA’s decision regarding surface
+power for initial human Mars missions, see the associated
+2024 white paper, “Key Mars Architecture Decisions,” and
+Architecture Definition Document appendix.
+
+At the 2024 Architecture Concept Review, NASA selected Additionally, a Mars power generation technology must
+nuclear fission power as the primary surface power scale to accommodate a variety of potential architectures.
+generation technology for initial human Mars missions. NASA engineers conducted in-depth studies of a variety
+This was the first driving architecture decision made of options, including solar power, nuclear power, fuel
+under the decision roadmapping process. cells, geothermal energy, wind power, and biogeneration,
+coordinating with subject matter experts across NASA.
+The Martian surface poses many unique environmental
+challenges for power generation. Any power generation Trade space studies ultimately recommended that
+source must be resilient to global dust storms, strong nuclear fission power offers the ideal combination
+winds, and gravity that is about double that of the of energy output, environmental resiliency, cost, and
+Moon. If a mission relies on in-situ resource utilization, overall reduction of risk. The Artemis campaign offers
+power generation technology must also be deployed the opportunity to test this technology on the Moon,
+autonomously, before human explorers arrive. Even with reducing risk for later Mars missions. NASA debuted
+humans present to tend to the equipment, Mars’s sheer these findings and the associated decision at the 2024
+distance from Earth means that opportunities for major Architecture Concept Review.
+repairs or spare parts will be in short supply.
+White Paper
+Excerpt
+MARS SURFACE POWER GENERATION TRADE SPACE
+Despite Mars’ many challenges, many promising power generation technologies are available or in development.
+While NASA considered many technologies as part of its surface power decision, two options in the trade space
+stood out as offering the most value: nuclear power and solar power.
+Solar power could be feasible as a primary power source for initial human Mars missions if designed to
+address the challenges of dust accumulation and the day/night cycle. To clear accumulated dust from
+solar panels, NASA could augment panels with robotic dust wipers, pressurized gases, mechanical array
+tilting, or other manners of dust removal. However, these would not mitigate the problem of reduced
+solar availability due to suspended atmospheric dust during lengthy storms. Nighttime power needs
+would require energy storage and simultaneous daytime charging and power distribution.
+High energy density nuclear power — either radioisotope power systems or nuclear fission systems
+— are unaffected by day/night cycles and reduced solar energy availability. Additionally, nuclear
+power systems would package well in volume-constrained spacecraft. Although current radioisotope
+power system designs only offer a few hundred watts, they may be suitable to applications with
+smaller power loads. For higher power needs (e.g., support or in-situ resource utilization), fission
+surface power is readily scalable to the needs of diverse Mars architectures.
+While geothermal energy could be used Fuel cells, which generate electricity
+for eventual Martian settlements, NASA through chemical reactions, do not trade
+has limited data on local geothermal well because they require large amounts
+availability and has not matured of landed reactant or large amounts of
+geothermal technologies for Mars. energy to make reactants in situ.
+Mars has insufficient sustained winds Biogeneration uses microorganisms to
+for reliable power using wind turbines. convert organic feedstock into heat or a
+Wind is a key design consideration for commodity that can be used to generate
+Mars surface power, but would not power. This technology would greatly
+suffice as the primary source of power. complicate planetary protection.
+Note: Content has been abbreviated for this executive overview. Consult the white paper for more detail. 15
+
+Architecture
+Strategy
+INTRODUCTION WHY EXPLORE?
+NASA is leading a campaign of human exploration, NASA anchors its vision for exploration in the value it
+science, and discovery that begins in lunar space provides humanity. Three pillars form the foundation:
+and journeys on to Mars. This document summarizes science, national posture, and inspiration.
+the development effort for the agency’s exploration
+• Science: Investigations in deep space, on the Moon,
+architecture, focusing on work performed during the
+and on Mars will enhance our understanding of the
+2024 Architecture Concept Review cycle. It begins
+universe and our place in it.
+with an overview of the architecture process and then
+highlights NASA’s key architecture activities over the • National Posture: What is done, how it’s
+past year. accomplished, and who participates affect our
+world, quality of life, and humanity’s future.
+• Inspiration: Accepting audacious challenges
+HISTORICAL CONTEXT
+motivates current and future generations to
+Since the conclusion of the Apollo program, which saw contribute to our voyage deeper into space and to
+humanity’s first steps on the Moon in the 1960s and 70s, improve life on Earth.
+the quest to return human explorers to the lunar surface
+and journey on to Mars has been a topic of continuous
+discussion, development, and analysis. Over the last STRATEGY AND OBJECTIVES
+50 years, the agency has considered many different
+NASA’s Moon to Mars Strategy applies a rigorous and
+architectures that would resume crewed missions to the
+thoughtful systems engineering approach to crewed
+Moon or send them on to the Red Planet.
+deep space exploration. Systems engineering distills
+Each approach reflected the goals or focus of the NASA’s grand vision for science and exploration into
+environment or technologies available at that time. attainable goals. This process involves establishing
+However, that interest and desire has not translated into objectives, evaluating needs, appreciating risks, and
+flight missions until NASA’s Artemis campaign. understanding the broader context.
+To ensure the long-term utilization of the Moon for The strategy is not static; it is evolutionary. Annual
+science, discovery, and economic benefit, and to set analysis — in the form of the Architecture Concept
+the stage for Mars exploration, the agency adopted and Review cycle — realizes change in response to new
+published NASA’s Moon to Mars Objectives. Then, technologies, discoveries, and priorities.
+the agency initiated an annual process to establish
+NASA’s Moon to Mars Objectives are the cornerstone
+and evolve NASA’s Moon to Mars Architecture, the
+of the agency’s strategy for crewed exploration of deep
+framework to achieve those objectives.
+space. They establish and document an objectives-
+based — as opposed to a capabilities-based — approach
+to human exploration. They focus on the big picture, the
+“what” and “why” of what NASA should be doing, before
+prescribing the “how” (e.g., a specific launch vehicle,
+technology, or acquisition approach).
+
+Moon to Mars
+Objectives
+NASA’s Moon to Mars Objectives seek to expand humanity’s
+frontiers in space science and exploration. The objectives fall into
+the overarching goals below:
+Lunar and Planetary Science | Answer questions about
+the formation of our solar system, the geology and
+chemistry of planetary bodies, and the origins of life.
+Heliophysics | Advance our study of the Sun
+and our ability to observe, model, and predict
+space weather.
+Human and Biological Science | Grow our
+understanding of how the lunar, Martian, and deep
+space environments affect living things.
+Physics and Physical Sciences | Investigate space,
+time, and matter in the unique environments of the
+Moon, Mars, and deep space.
+Science Enabling | Realize integrated human and
+robotic techniques that address high-priority scientific
+questions around and on the Moon and Mars.
+Applied Science | Carry out science utilizing integrated
+human and robotic techniques to inform the design of
+exploration systems.
+Read the
+Lunar Infrastructure | Enable government, industry,
+Objectives
+academia, and international partners to participate in a
+robust lunar economy and facilitate science.
+Mars Infrastructure | Develop the power,
+communications, navigation, and resource utilization
+capabilities to support initial human Mars exploration.
+Transportation and Habitation | Create the systems
+necessary for humans to travel to the Moon and Mars,
+live and work there, and return to Earth safely.
+Operations | Conduct crewed missions to gradually
+build technologies and capabilities to live and work on
+planetary surfaces other than Earth.
+
+Architecture
+Process
+OVERVIEW ARCHITECTURE CONCEPT REVIEW
+When most think of architecture, they envision The Architecture Concept Review cycle culminates in
+skyscrapers, cantilevered homes, or marbled museums. a meeting where leaders from across NASA’s mission
+In this case, architecture isn’t the built environment. directorates, centers, and technical authorities to
+It isn’t a mission, a manifest, or a set of requirements. consider updates to the architecture. The architecture
+Instead, NASA’s Moon to Mars Architecture defines the team polls attendees, seeking concurrence on the
+elements needed for long-term, human-led scientific architecture to ensure a united vision for crewed
+discovery in deep space. exploration in deep space.
+NASA’s architecture approach distills agency-developed After completing the Architecture Concept Review,
+objectives into operational capabilities and elements the agency releases a new revision of the Architecture
+that support science and exploration goals. Working with Definition Document and white papers on specific
+experts across the agency, industry, academia, and the technical topics. These products share updates, foster
+international community, NASA continuously evolves collaboration, and build excitement for humanity’s
+that blueprint for crewed exploration, setting humanity future among the stars.
+on a path to the Moon, Mars, and beyond.
+STRATEGIC ANALYSIS CYCLE
+In collaboration with other agency mission directorates
+— Space Operations, Science, Space Technology, and The Architecture Concept Review cycle begins with the
+Aeronautics — as well as commercial, academic, and kickoff of that year’s strategic analysis cycle. Strategic
+international partners, NASA’s Exploration Systems analysis cycle tasks and trade studies help NASA to
+Development Mission Directorate leads crewed deep better understand the architectural needs, capability
+space exploration for the agency. The directorate gaps, and opportunities to enhance the architecture
+develops and implements the systems necessary to through the addition of new elements.
+achieve its exploration goals through the Moon to Mars
+Architecture. ARCHITECTURE WORKSHOPS
+Within the directorate, NASA’s Strategy and Architecture Each year, shortly after the release of the latest
+Office leads the definition, documentation, and architecture products, NASA hosts workshops to gather
+disposition of the architecture with buy-in from all feedback from industry, academic, and international
+stakeholders. They do so through the annual Architecture partners. There, attendees dive into the latest updates to
+Concept Review process. the architecture and discuss how partnerships can help
+NASA achieve its Moon to Mars Objectives.
+Architecture | The unified structure that defines a system, providing rules, guidelines, and
+constraints for constituent parts and establishing how they fit and work together.
+Characteristics and Needs | Features, activities, and capabilities necessary to satisfy
+goals and objectives.
+Use Case | An operation that would be executed to meet desired characteristics and needs.
+Function | An action necessary to satisfy a use case.
+Element | A notional exploration system that enables a set of functions.
+Sub-Architecture | A group of tightly coupled elements, functions, and capabilities that
+work together to accomplish one or more objectives.
+Segment | A portion of the architecture that integrates sub-architectures and progressively
+increases in complexity and objective satisfaction.
+
+smreT
+yeK
+
+Architecting
+Right
+from
+the
+ARCHITECTING FROM THE RIGHT
+To develop NASA’s Moon to Mars Architecture, NASA begins from its broadest goals
+— the farthest in the future on the timeline — in a process called “architecting from
+the right.” This process distills NASA’s Moon to Mars Objectives into the capabilities
+NASA needs to achieve those objectives and then maps them to the specific elements,
+systems, and hardware that will take us back to the Moon and beyond.
+Architecting from the right helps NASA ensure that it’s making the right investments
+now to build the capabilities it will need in the future. The Moon to Mars Architecture is
+evolvable, with capabilities building on one another to enable increasingly ambitious
+missions. The lessons we learn by exploring the Moon will help us decide how to venture
+on to Mars and beyond.
+DECOMPOSITION FEATURES
+This process of architecting from the right translates desired outcomes (the objectives)
+into the features of an architecture needed to produce them, or characteristics and
+needs. These characteristics and needs are further distilled into actionable functions
+and use cases that must be employed to produce them. From there, engineers group
+functions and use cases into exploration elements or reference missions that could
+effectively provide that subset of capabilities.
+Objective decomposition is part of the agency’s annual Architecture Concept Review
+process. NASA documents the decomposition in a model-based systems engineering
+environment, where use cases and functions can be further mapped to individual
+requirements owned by elements’ implementing programs.
+
+Architecture NASA’s Moon to Mars Architecture currently comprises
+four segments: Human Lunar Return, Foundational
+Exploration, Sustained Lunar Evolution, and Humans to
+Segments
+Mars. These segments capture the evolutionary nature
+of NASA’s Moon to Mars exploration strategy, growing
+in complexity over time to meet more of the agency’s
+Moon to Mars Objectives.
+u
+are
+here.
+HUMAN LUNAR RETURN
+o
+Y Includes the inaugural Artemis missions that will return humanity to the Moon for
+the first time since the Apollo missions of the 1960s and 70s. This segment will
+demonstrate and validate core systems and capabilities for the Moon to Mars effort.
+This segment will test crew and cargo transportation systems; deploy lunar
+communications relays; demonstrate technologies; and land the first woman,
+first person of color, and first international partner astronaut on the lunar surface.
+Missions pursued in this segment will lay the groundwork to achieve the Moon to
+Mars Objectives.
+FOUNDATIONAL EXPLORATION
+Will expand operations, capabilities, and systems supporting crewed missions
+to lunar orbit and the Moon’s surface. It will build on initial Human Lunar Return
+capabilities and validate exploration systems for future Mars missions.
+Surface missions in this segment will feature increased duration, expanded mobility,
+and regional exploration of the lunar South Pole. Orbital operations will also increase
+in duration. The needs of future missions will influence this segment’s activities,
+which may include reconnaissance, Mars risk reduction, and initial infrastructure for
+long-term lunar evolution.
+SUSTAINED LUNAR EVOLUTION
+Will stimulate future economic investment and foster participation in lunar science
+and exploration. The segment will increase our science capabilities, mission
+duration, and production of goods and services derived from lunar resources.
+This segment is an “open canvas,” embracing new ideas, systems, and partners to
+realize a long-term human presence on the Moon and grow the lunar economy. This
+sustained architecture could achieve existing science objectives and address new
+science objectives identified through discoveries in previous segments.
+HUMANS TO MARS
+Will establish a human presence on Mars and empower new science on its surface.
+Since the earliest days of spaceflight, the Red Planet has captivated humanity. The
+Moon to Mars Architecture sets a course to finally step foot on a planet beyond our
+own.
+Building on previous segments, this segment will include the initial capabilities and
+systems necessary to safely travel to Mars, land on its surface, and return safely to
+Earth. Following this initial journey to Mars, NASA will prepare for progressively longer
+and more complex missions there in future segments beyond Humans to Mars.
+
+Architectures
+Sub- Each of the 12 sub-architectures represents a
+task, technology, or process that NASA must
+master to achieve the Moon to Mars Objectives.
+AUTONOMOUS SYSTEMS
+AND ROBOTICS
+Employ software and hardware
+to assist the crew and operate
+during uncrewed periods. C&PNT
+COMMUNICATIONS AND POSITIONING, NAVIGATION, AND TIMING SYSTEMS
+Enable transmission and reception of data,
+determination of location and orientation,
+DATA SYSTEMS and acquisition of precise time.
+AND MANAGEMENT
+Transfer, distribute, receive, validate,
+secure, decode, format, compile,
+and process data and commands.
+HABITATION SYSTEMS
+Ensure the health and performance of
+astronauts in controlled environments.
+INFRASTRUCTURE SUPPORT
+Includes facilities, systems, operations
+planning and control, equipment, and
+services needed on Earth, in space,
+and on planetary surfaces.
+ISRU SYSTEMS
+IN-SITU RESOURCE UTILIZATION SYSTEMS
+Extract resources in space or on the Moon or
+Mars to generate products.
+HUMAN SYSTEMS
+Execute human and robotic missions;
+this includes crew, ground personnel,
+and supporting systems.
+LOGISTICS SYSTEMS
+Package, handle, transport, stage, store,
+track, and transfer items and cargo.
+MOBILITY SYSTEMS
+Move crew and cargo around the
+lunar and Martian surfaces.
+POWER SYSTEMS
+Generate, store, condition, and distribute
+electricity for architectural elements.
+TRANSPORTATION SYSTEMS
+Convey crew and cargo to and
+from Earth to the Moon and Mars.
+UTILIZATION SYSTEMS
+Enable science and technology
+demonstrations.
+
+Individual elements in the architecture are the systems and hardware
+Architecture that enable exploration. NASA maps elements to one or more sub-
+architectures, and they may be used across multiple campaign segments.
+Elements
+Some elements predate the architecture development effort (e.g., the
+Space Launch System rocket and Orion spacecraft) and were mapped
+to the use cases and functions they already fulfill when this effort began.
+Other elements have arisen from capability gaps that were not fulfilled by
+existing elements.
+As the Moon to Mars Architecture progresses through the segments,
+NASA will instantiate more elements to increase the number of Moon to
+Mars Objectives that missions may accomplish.
+SPACE LAUNCH ORION
+SYSTEM SPACECRAFT
+HUMAN LANDING SYSTEM
+SPACE X BLUE ORIGIN
+STARSHIP BLUE MOON
+NASA’s Moon Rocket Our Ride to the Moon
+EXPLORATION EXPLORATION
+GROUND SYSTEMS EVA SYSTEMS
+Artemis Astronauts’ Lunar Landers
+HUMAN-CLASS DELIVERY LANDER
+SPACE X BLUE ORIGIN
+Assembly, Launch, Recovery Spacesuits for Moonwalks STARSHIP MARK 2 CARGO
+LUNAR TERRAIN PRESSURIZED
+VEHICLE ROVER
+Lunar Freight Deliveries
+JAXA
+NASA COMMUNICATIONS NETWORKS
+The Artemis Moon Buggy Mobile Lunar Lab
+CLPS LCRNS NEAR EARTH DEEP SPACE
+COMMERCIAL LUNAR LUNAR COMMUNICATIONS RELAY AND NETWORK NETWORK
+PAYLOAD SERVICES NAVIGATION SYSTEMS
+Science and Tech Deliveries The Moon’s Mobile Network Call Home from Space
+
+GATEWAY
+Our Home in Lunar Orbit POWER AND
+PROPULSION
+ELEMENT
+CSA
+LOGISTICS
+EXTERNAL ELEMENT
+ROBOTICS
+SYSTEM
+MBRSC
+CREW AND
+SCIENCE AIRLOCK
+LUNAR VIEW
+REFUELING MODULE
+LUNAR SURFACE
+CARGO LANDER
+ESA ESA JAXA
+HALO
+HABITATION AND I-HAB
+LOGISTICS OUTPOST INTERNATIONAL HABITAT
+ESA
+Government reference concept
+Logistics, Delivered
+Canadian INITIAL SURFACE
+CSA
+Space Agency HABITAT
+European
+ESA
+Space Agency
+Japan Aerospace
+JAXA
+Exploration Agency
+Mohammad Bin
+MBRSC
+Rashid Space Centre
+Government reference concept
+Home on the Lunar Surface
+
+erutcetihcrA
+stnemelE
+INTERNATIONAL PARTNERS
+Architecting from the right means developing capabilities and technologies needed to achieve
+specific long-term goals, not making decisions arbitrarily or out of short-term convenience.
+For example, if one needs to write something down, the instinct might be to choose a yellow
+#2 pencil, but what is the essential function needed? Writing is the use case, being erasable is
+an operational constraint, and being yellow is a design feature. The #2 pencil meets the need,
+but a pen, marker, or paint might be just as well suited to the task. Ensuring a full understanding
+of the needs, constraints, and long-term applications is essential to the decision.
+In the same way, NASA must consider its objectives and then build the systems to accomplish
+them, not simply select tools that may already exist. The architecture process enables
+methodical deliberation to avoid bias, and instead favors the most effective tools.
+eht
+gnitceleS
+slooT
+thgiR
+NASA encourages countries and international space
+agencies to engage in the agency’s Moon to Mars
+Architecture. International cooperation will be key to
+establishing a long-term presence on the lunar surface
+and setting humanity on a path to the Red Planet.
+Countries or international space agencies seeking to
+contribute to or engage should reach out to NASA’s
+Office of International and Interagency Relationships:
+HQ-M2Marchitecture-International@mail.nasa.gov
+
+2025 LOOK-AH EAD
+In 2025, NASA will continue to refine the architecture by maturing the objective
+decomposition for the Moon and Mars, updating the architecture-driven
+technology gaps, and making progress on driving architecture decisions.
+NASA will also engage with industry and international partners to identify
+innovative solutions to architecture challenges and coordinate with the science
+community to ensure the architecture can meet science goals.
+
+nasa.gov/architecture

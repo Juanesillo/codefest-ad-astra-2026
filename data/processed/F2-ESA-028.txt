@@ -1,0 +1,3649 @@
+ESAUNCLASSIFIED-ReleasabletothePublic
+ESAESOC
+Robert-Bosch-Strasse5
+D-64293Darmstadt
+Germany
+ESA’S ANNUAL SPACE ENVIRONMENT REPORT
+Preparedby ESASpaceDebrisOffice
+DocumentType LOG
+Reference GEN-DB-LOG-00288-OPS-SD
+Issue/Revision 6.0
+DateofIssue 22April2022
+Status Final
+
+ESAUNCLASSIFIED-ReleasabletothePublic
+Table of contents
+Executive summary...............................................................................................................................3
+1. Introduction......................................................................................................................................9
+1.1. Definitions....................................................................................................................................10
+1.2. Data sources...............................................................................................................................12
+1.3. Methodology................................................................................................................................13
+1.4. Notable changes..........................................................................................................................14
+1.5. Acknowledgements .....................................................................................................................15
+1.6. Disclaimer....................................................................................................................................16
+2. Space Environmental History in Numbers......................................................................................17
+2.1. Overall Space Environment.........................................................................................................18
+2.2. Evolution of Environment in LEO.................................................................................................22
+2.3. Evolution of Environment in GEO................................................................................................24
+2.4. Usage of the Protected Regions..................................................................................................26
+2.5. Constellations in the LEO protected region..................................................................................38
+2.6. Active payloads in the LEO protected region...............................................................................39
+2.7. New Catalogued Objects in the Space Environment....................................................................43
+2.8. Objects Removed from the Space Environment..........................................................................45
+2.9. Nuclear Power Sources...............................................................................................................49
+2.10.Registration of Objects Launched in Outer Space.......................................................................50
+3. Environmental Status 2021............................................................................................................52
+3.1. Status of the Environment in LEO................................................................................................55
+3.2. Status of the Environment in GEO...............................................................................................61
+3.3. Fragmentations in 2021...............................................................................................................63
+3.4. Changes to the Environment in 2021...........................................................................................64
+3.5. Conjunction statistics in LEO in 2021...........................................................................................68
+4. Intentional object release...............................................................................................................72
+4.1. Mission Related Objects..............................................................................................................72
+4.2. Solid Rocket Motor Firings...........................................................................................................74
+5. Fragmentation History....................................................................................................................75
+5.1. All fragmentation events..............................................................................................................77
+5.2. Non-system related fragmentation events ...................................................................................84
+6. End-Of-Life Operations History......................................................................................................86
+6.1. End-Of-Life Operations in Low Earth Orbit ..................................................................................86
+6.2. End-Of-Life Operations in Geostationary Orbit..........................................................................105
+6.3. End-Of-Life Operations in MEO.................................................................................................110
+7. Environment metrics ....................................................................................................................112
+7.1. Environmental Index in 2021.....................................................................................................112
+7.2. Environment evolution...............................................................................................................114
+References .......................................................................................................................................120
+Page2/120
+
+ESAUNCLASSIFIED-ReleasabletothePublic
+EXECUTIVE SUMMARY
+Ever since the start of the space age there has been more space debris in orbit than operational satellites. As
+spacedebrisposesaproblemforthenearEarthenvironmentonaglobalscale,onlyagloballysupportedsolution
+can be the answer. This creates the need for a subset of internationally accepted space debris mitigation mea-
+sures.Amajorstepinthisdirectionwastakenin2002,whentheInter-AgencyDebrisCommittee(IADC)published
+itsSpaceDebrisMitigationGuidelines. Thisdocumenthassinceservedasabaselinefornon-bindingpolicydoc-
+uments,nationallegislation,andasastartingpointforthederivationoftechnicalstandards. Thestandardisation
+ofmitigationmeasuresisimportantinordertoachieveacommonunderstandingoftherequiredtasksleadingto
+transparent and comparable processes. Even if having a consistent set of measures is paramount to tackle the
+global problem of space debris, it is still up to the individual nations, operators, and manufacturers to implement
+them.
+In order to have on overview of the on-going global debris mitigation efforts and to raise awareness of space
+activities in general, the European SpaceAgency, ESA, has been publishing a Space Environment Report since
+2017. The document is updated yearly, it is publicly available, and it supports the awareness raising guideline
+laid out in United Nations Committee on the Peaceful Uses of Outer Space’s (UNCOPUOS) Guidelines for the
+Long-TermSustainabilityofOuterSpaceActivitiespublishedin2019. Thepurposeofthisreportisto:
+• Provideatransparentoverviewofglobalspaceactivities;
+• Estimatetheimpactoftheseactivitiesonthespaceenvironment;
+• Quantify the effect of internationally endorsed mitigation measures aimed at improving the sustainability of
+spaceflight.
+Inthisreport,thestatusofthespaceenvironmentispresentedinvariousfacets,focusingonthetimeevolutionof
+cataloguedandassertedobjectsintermsofnumber,mass,andarea,aswellasaddressingtheglobaladherence
+to space debris mitigation measures. Most internationally accepted space debris mitigation measures can be
+tracedbacktothefollowingobjectives:
+• Thelimitationofspacedebrisreleasedduringnormaloperations;
+• Theminimisationofthepotentialforon-orbitbreak-ups;
+• Postmissiondisposal;
+• Preventionofon-orbitcollisions.
+Theseobjectivesaretranslatedindesignandoperationguidelinesthatcanbemeasuredandtheconsequences
+canbeassessed. Aspirationally,theseobjectivesleadtofutureinwhichspacedebrisisnotanissue.
+Whereas the presentation of numerical values associated to launch and re-entry activities are essentially abso-
+lute, it is important to point out that metrics dealing with the adherence to space debris mitigation measures are
+estimates. Theseestimatesdependoncomplexphysicalproblemssuchasestimatingorbitallifetimeandrequire
+under-determined interpretations of observational quantities. As such the conclusions on the state of the space
+environmentpresentedhereafterneedtobetakenwithappropriatecareandcanvarybetweenyearlyreleasesof
+the report. Notwithstanding such caveats, all care is taken in the design of the methodologies to minimise such
+variabilityandsomesummarisingstatementscanbederivedfromthepresenteddata.
+Page3/120
+
+ESAUNCLASSIFIED-ReleasabletothePublic
+The amount of objects, their combined mass, and their combined area has been steadily rising since the
+beginningofthespaceage,leadingtotheappearanceofinvoluntarycollisionsbetweenoperationalpayloadsand
+spacedebris. Everincreasingimprovementsinspacesurveillancesensorcapabilitiesduringthelastdecades
+havebroughtdownthesizelimitswheredebriscanbereliablytrackedandcatalogued. This,inturn,impliesthat
+we know about significant amounts of space debris, but not all their originating events. The space traffic itself
+isalsoundergoingnotablechangessince2015,particularlyinLowEarthOrbits,fuelledbytheminiaturisation
+of space systems and deployment of large constellations, with a shift towards commercial operators. These
+threeelements(i.e. volumeoftraffic,typeofspacecraft,typeofoperators)areallofrelevancewhenoneconsiders
+theadequacyofspacedebrismitigationguidelinesandpossiblewaysforsustainablespaceoperations,especially
+whenlookingattheEarth’sorbitalenvironmentasafiniteresource,inlinewiththeUNLong-TermSustainability
+Guidelines[1].
+
+-DQ -DQ -DQ -DQ -DQ -DQ -DQ
+5HIHUHQFH(SRFK
+@>WQXR&WFHME2
+(YROXWLRQLQ$OO2UELWV
+8, 30
+50 3'
+5' 3)
+5) 3/
+5%
+Figure 1: Evolution of number of objects in geocentric orbit by object class. Please consult Section 1.1 for the
+definitions.
+
+ 
+/DXQFK<HDU
+@>VWFHME2IRUHEPX1
+3D\ORDG/DXQFK7UDIILFLQWR hp NP
+&RPPXQLFDWLRQ 1DYLJDWLRQ 
+,PDJLQJ 6LJLQW
+6SDFHVKLS &DOLEUDWLRQ
+7HFKQRORJ\ :HDWKHU 
+6FLHQFH 2WKHU
+
+ 
+/DXQFK<HDU
+@>VWFHMERIRUHEPX1
+3D\ORDG/DXQFK7UDIILFLQWR hp NP
+P NJ
+NJPNJ
+NJPNJ
+P!NJ
+Figure2: EvolutionofthelaunchtrafficnearLEO permissiontype(left)andmasscategory(right).
+IADC
+Page4/120
+
+ESAUNCLASSIFIED-ReleasabletothePublic
+
+ 
+(YHQW<HDU\HDUELQV
+UHEPX1
+1XPEHU)UDJPHQWDWLRQ(YHQWV
+8QNQRZQ
+&ROOLVLRQ
+$FFLGHQWDO
+(OHFWULFDO
+$HURG\QDPLFV
+'HOLEHUDWH
+$QRPDORXV
+3URSXOVLRQ
+Figure3: Historicaltrendoffragmentationeventspereventcause. Thelastbincoversuntilltheyear2021.
+On average over the last two decades, 11.7 non-deliberate fragmentations continue to occur in the space en-
+vironment every year. This number is stable, however the impact of each event is variable. This number drops
+significantlyto2.6peryearwhenthelifetimeofthegeneratedfragmentsisconsideredafactorofimportance,
+andeven0.3peryearwhensystematicandunexplainedeventsareexcludedfromtheanalysis. Thissuggests
+thatnon-collisionaleventswithalargeenvironmentalimpactarestilltakingplacepartlyduetore-useofadesign
+withknownissues. FurtherdetailsarepresentedinTable5.1andTable5.2. Fragmentationsotherthancollision
+arecurrentlythedominantsourceofspacedebrisascanbeseenfromFigures5.6and5.5. Theincreaseinlaunch
+trafficandpermanenceofspacedebriseventsinLowEarthorbitleadsasignificantconjunctionriskinthemost
+congestedEarthorbits. DetailedinformationisgiveninSection3.5.
+
+K NP K NP K NP K NP K NP K NP K NP
+L  L  L  L  L  L  L 
+VWQHYHQRLWFQXMQRFIRUHEPX1
+8QNQRZQ
+5RFNHW'HEULV
+5RFNHW0LVVLRQ5HODWHG2EMHFW
++$36)UDJPHQWDWLRQ'HEULV
+2WKHU5RFNHW)UDJPHQWDWLRQ'HEULV
+5RFNHW%RG\
+3D\ORDG'HEULV
+3D\ORDG0LVVLRQ5HODWHG2EMHFW
+)HQJ\XQ&)UDJPHQWDWLRQ'HEULV
+&RVPRV)UDJPHQWDWLRQ'HEULV
+&RVPRV)UDJPHQWDWLRQ'HEULV
+,ULGLXP)UDJPHQWDWLRQ'HEULV
+2WKHU3D\ORDG)UDJPHQWDWLRQ'HEULV
+&RQVWHOODWLRQV
+6PDOOVDWHOOLWHV
+2WKHU3D\ORDG
+Figure4: Conjunctionevents(i.e. eventsthatcouldtriggeranoperatorresponsebutnotnecessarilyanavoidance
+manoeuvrenoracollision)andcorrespondingchaserclassificationforasetofrepresentativemissionsover2021.
+Page5/120
+
+ESAUNCLASSIFIED-ReleasabletothePublic
+Around 93% of small payloads, i.e. below 10.0 kg in mass, reaching the end of their mission during the last
+decade and injected into the LEO protected region operate in orbits that naturally adhere to the space debris
+mitigationmeasures. Whilethisisalargefractioncomparedtohighermasscategories,itstillimpliesagrowing
+contingentofsmallpayloadsinneedofactivemeanstodisposethemselvesfromtheLEOprotectedregion. The
+majorityoflargerpayloadsreachingtheendoftheirmissionsince2010didsoinorbitswheretheydidnot
+successfullyremovedthemselvesfrom.
+Between30and70%ofallpayloadmass,excludinghumanspaceflight,estimatedasreachingend-of-lifeduring
+the last decade in the LEO protected region does so in orbits that are estimated to adhere to the space debris
+mitigationmeasures,asshowninFig.6.4. Thenotedincreaseinsmallpayloadsreachingend-of-lifeincompliant
+orbit implies a rising share. Between 60 and 80% of all rocket body mass reaching end-of-life during the last
+decade does so in orbits that are estimated to adhere to the space debris mitigation measures on protecting
+LEO as shown in 6.6. Asignificant amount of this is due to controlled re-entries after launch, a practice which
+increasedfrom10%toover40%overthelastdecade.
+/(2FRPSOLDQFHV3D\ORDGV(2/ m NJ /(2FRPSOLDQFHV3D\ORDGV(2/ <m NJ
+&:2
+
+1&:)%
+
+&:2
+
+1&:2
+
+1&:2
+/(2FRPSOLDQFHV3D\ORDGV(2/ <m NJ /(2FRPSOLDQFHV3D\ORDGV(2/ m>NJ
+&:7%
+&:2
+
+&:)% &:2 
+ &'
+
+ &'
+
+&:)%
+
+1&:)%
+1&:)%
+ 
+1&:2
+1&:2
+Figure5: Breakdownofthe2010decadeofobservedbehaviouralclassesforpayloadspermasscategory. Please
+consultSection6.1forthedefinitions.
+Page6/120
+
+ESAUNCLASSIFIED-ReleasabletothePublic
+One of the core principles of the space debris mitigation guidelines is to remove objects from the LEO and GEO
+protected regions with a high success rate for those orbits where a natural disposal mechanism is absent [2]. In
+practice,acommontargetforthissuccessratesetat90%basedonspacetrafficconditioncorrespondingtofirst
+decade of the millennium and with as goal to slow down the rate of space debris creation. It is thus a valuable
+first step towards space sustainability, but will by itself no reduce the amount of debris in orbit. Between 20 and
+50%ofpayloads,excludinghumanspaceflight,reachingend-of-lifeduringthelastdecadeintheLEOprotected
+region in a non-compliant orbit attempt to comply with space debris mitigation measures, with peaks in 2018
+and 2020 respectively due to the de-orbiting of a constellation and a low amount of satellite reaching end of life
+inanon-compliantorbit. Thedifferenceinbehaviourbetweenconstellationandnon-constellationobjectscanbe
+significantasshowninFig.6.3. Between5%and30%,againwithpeaksin2018and2020forthesamereasonsas
+before,dososuccessfullyandaslightrisingtrendisnoticeable. Between40and90%ofrocketbodiesreaching
+end-of-lifeduringthecurrentdecadeintheLEOprotectedregioninanon-compliantorbitattempttocomplywith
+spacedebrismitigationmeasures. Between30%and80%dososuccessfully,withthecompliancetrendlinearly
+increasing. Between 40% and 50% of the rocket bodies delivering payloads in or near the GEO protected
+regionduringthelastdecaderareincompliancewithspacedebrismitigationmeasures. Between85%and
+100%ofallpayloadsreachingend-of-lifeduringthelastdecadeintheGEOprotectedregionattempttocomply
+withspacedebrismitigationmeasures. Between60%and90%dososuccessfully,withthecompliancetrend
+asymptoticallyincreasing.
+
+ 
+(2/\HDU
+@>VWQXR&
+3D\ORDGV&OHDUDQFHLQ/RZ(DUWK2UELW
+H[O1DWXUDOO\&RPSOLDQW3D\ORDGV
+
+6XFFHVVIXO
+$WWHPSW 
+,QVXIILFLHQW
+$WWHPSW
+1R$WWHPSW 
+
+ 
+(2/\HDU
+(a)RelativeclearanceofLEO bypayloads.
+IADC
+@>VWQXR&
+5RFNHW%RGLHV&OHDUDQFHLQ/RZ(DUWK2UELW
+H[O1DWXUDOO\&RPSOLDQW5RFNHW%RGLHV
+6XFFHVVIXO
+$WWHPSW
+,QVXIILFLHQW
+$WWHPSW
+1R$WWHPSW
+(b)RelativeclearanceofLEO byrocketbodies.
+IADC
+
+ 
+(QGRI/LIH<HDU
+@>WQXR&
+3D\ORDG&OHDUDQFHQHDU*(2
+IADC
+1R$WWHPSW
+,QVXIILFLHQW
+$WWHPSW
+6XFFHVVIXO
+$WWHPSW
+(c)RelativeclearancenearGEO bypayloads.
+IADC
+Figure6: Trendofadherencetoclearanceoftheprotectedregionovertimeintermsofnumbers,excludingnaturally
+compliantobjects.
+Page7/120
+
+ESAUNCLASSIFIED-ReleasabletothePublic
+Whereas adoption of, and compliance to, space debris mitigation practices at a global level is noted as slowly
+increasing, it is of importance to note that the successful implementation is still at a too low level to ensure a
+sustainableenvironmentinthelong-run. Notably,someoftheincreaseinuptakeofmitigationmeasuresas
+analysedbythemetricsabove,suchascontrolledre-entriesofrocketbodiesorpostmissiondisposalsuccessrates
+forpayloadsinLEO,arelinkedwiththedeploymentandretirementof largeconstellations. Othereffects, such
+asashiftinusageofoperationalmissionorbitsinLowEarthOrbitasshowinFig.2.18,arehoweverindependent
+ofthecategoryofthepayload.
+Theextrapolationofthecurrentchanginguseoforbitsandlaunchtraffic,combinedwithcontinuedfragmentations
+andlimitedpostmissiondisposalsuccessratecouldleadtoacascadeofcollisioneventsoverthenextcenturies.
+Evenincaseofnofurtherlaunchesintoorbit,itisexpectedthatcollisionsamongthespacedebrisobjectsalready
+presentwillleadtoafurthergrowthinspacedebrispopulation.
+
+ 
+<HDU
+VQRLVLOORFFLKSRUWVDWDFIRUHEPXQHYLWDOXPX&
+1RIXUWKHUODXQFKHV
+([WUDSRODWLRQ
+Figure 7: Number of cumulative collisions in LEO in the simulated scenarios of long-term evolution of the
+IADC
+environment.
+Page8/120
+
+ESAUNCLASSIFIED-ReleasabletothePublic
+1. INTRODUCTION
+Eversincethestartofthespaceageonthe4thofOctober1957therehasbeenmorespacedebrisinorbitthan
+operational satellites. Space debris poses a problem for the near Earth environment on a global scale, to which
+allspacefaringnationshavecontributedandforwhichonlyagloballysupportedsolutioncanbetheanswer. The
+firstawarenessoftheproblemcameaboutintheearly1960s,basedoninitialresearchactivitiesundertakeninthe
+UnitedStatesofAmerica,butittooksometimetoreachtheinternationalcommunity. Iteventuallydidbythemid
+1970sviaconferencesorganisedbytheInternationalAstronauticalFederation. Theeffectwherebythegeneration
+ofspacedebrisviacollisionsandexplosionsinorbitcouldleadtoanexponentialincreaseintheamountofartificial
+objectsinspace,inachainreactionwhichwouldrenderspaceflighttoohazardoustoconduct,wasfirstpostulated
+byDonaldKesslerin1978[3]. Thefirstdedicatedconferenceonspacedebriswasheldin1982,organisedbythe
+NationalAeronautics and SpaceAdministration (NASA), followed by the first workshop on the re-entry of space
+debris in 1983, organised by the European Space Agency (ESA), in response to the re-entries of Skylab and
+Cosmos-1402.
+Thetechnicalexpertiseonspacedebris,fromre-entriestoon-orbitbreak-upandhypervelocityimpacttesting,was
+gathered on agency and national level for much of the 1970s and 1980s. However, the global dimension of the
+issue called for bilateral knowledge transfer, which started on the initiative of NASA. These exchanges between
+expertsresultedinmulti-lateralmeetingsandleadtothecreationoftheInter-AgencySpaceDebrisCoordination
+Committee(IADC)in1993,foundedbyESA(Europe),NASA(USA),NASDA(nowJAXA,Japan),andRSA(now
+Roscosmos, Russian Federation). Nine more agencies have joined the IADC since: ASI (Italy), CNES (France),
+CNSA(China), CSA(Canada), DLR (Germany), KARI (South Korea), ISRO (India), NSAU (Ukraine), and UKSA
+(United Kingdom). The IADC was founded as a forum for technical exchange and coordination on space debris
+matters,andcantodayberegardedastheleadinginternationaltechnicalbodyinthefieldofspacedebris. Space
+debris has also been a recurring agenda item for the Scientific &Technical Subcommittee of the United Nations’
+CommitteeonthePeacefulUsesofOuterSpace(UNCOPUOS)since1994.
+ThethreatofspacedebristothefutureofspaceflightcombinedwiththenearlyuniversaladoptionoftheLiability
+Convention [4] created the need for a set of internationally accepted space debris mitigation measures. Amajor
+stepwastakenin2002,whentheIADCpublishedtheIADCSpaceDebrisMitigationGuidelines[5]andpresented
+them to the UNCOPUOS Scientific &Technical Subcommittee. This document has since served as baseline for
+non-bindingpolicydocuments,nationallegislation,andasstartingpointforthederivationoftechnicalstandards.
+Aconsistentsetofmeasuresisparamounttotackletheglobalproblemofspacedebris,butitisuptotheindividual
+nations,operators,andmanufacturerstoimplementthem,whichcanleadtovariationsonacasebycasebasis.As
+such,nationsaroundtheworldhavedevelopedsafetystandardsandspecificguidelinesbuildingontheworkofthe
+IADC.However,standardisationofmitigationmeasuresisimportantinordertoachieveacommonunderstanding
+oftherequiredtasksleadingtotransparentandcomparableprocesses. Thisisthetaskofnormativeinternational
+standardisationbodiessuchastheInternationalStandardsOrganisation(ISO)[6].
+InordertoaddresstheissuesposedbyspacedebrisonspaceflightactivitiesUNCOPUOShastakentheinitiative
+to create a set of internationally agreed guidelines for the long-term sustainability of outer space activities [1].
+Theseguidelinescontainrecommendationsonthepolicyandregulatoryframeworksforspaceactivities,thesafety
+of space operations, rules of engagement for international cooperation, capacity-building and awareness, and
+scientificandtechnicalresearchanddevelopment.
+Page9/120
+
+ESAUNCLASSIFIED-ReleasabletothePublic
+The content of this document is written in response to those guidelines by raising awareness of space activities,
+andaimsto:
+• Provideatransparentoverviewofglobalspaceactivities,
+• Estimatetheimpactoftheseactivitiesonthespaceenvironment,
+• And quantify the effect of internationally endorsed mitigation measures aimed at sustainability of the envi-
+ronment.
+Thedocumentisstructuredasfollows: Section1containsthedefinitions,datasources,andmethodologiesused
+tocompilethisdocument. Section2containsthehistoryofthespaceenvironmentsincethebeginningofthespace
+age. Section3containsasnapshotofthespaceenvironmentforaspecificyearanalysed. ThecontentofSections
+2and3arefurtheranalysedindepthinSections4,5,and6whererespectivelytheintentionalreleaseofobjects,
+fragmentationevents,andend-of-lifeoperationsofspacemissionsarecovered. Section7summarisesthespace
+activities in Low Earth Orbit up until the year of analysis into an environment index. Furthermore, an executive
+summarycontainingthemainspaceenvironmenttrendsidentifiedisaddedtothebeginningofthisreport.
+1.1. Definitions
+This document aims to describe the space environment. This environment is understood to contain all artificial
+objects, including fragments and elements thereof, which currently, or previously did, reside in an Earth bound
+orbit.
+Thespaceenvironmentwillbedescribedsincethebeginningofthespaceage,understoodtostartwiththelaunch
+ofSputnik1onthe4thofOctober1957,unlessexplicitlystatedotherwise.
+Spacedebrisisdefinedasallartificialobjectsincludingfragmentsandelementsthereof,inEarthorbitorre-entering
+theatmosphere,thatarenon-functional[5].
+Objectsinthespaceenvironmentcanbecategorisedintwobroadcategories: Theoneswhichcanbetracedback
+to a launch event and for which the nature can be identified, and the ones for which this is impossible. The later
+oneswillbeidentifiedasUnidentified,whereastheformercanbefurthercategorisedin:
+• Payloads,spaceobjectdesignedtoperformaspecificfunctioninspaceexcludinglaunchfunctionality. This
+includesoperationalsatellitesaswellascalibrationobjects.
+• Payload mission related objects, space objects released as space debris which served a purpose for the
+functioningofapayload. Commonexamplesincludecoversforopticalinstrumentsorastronauttools.
+• Payloadfragmentationdebris,spaceobjectsfragmentedorunintentionallyreleasedfromapayloadasspace
+debrisforwhichtheirgenesiscanbetracedbacktoauniqueevent. Thisclassincludesobjectscreatedwhen
+apayloadexplodesorwhenitcollideswithanotherobject.
+• Payload debris, space objects fragmented or unintentionally released from a payload as space debris for
+whichthegenesisisunclearbutorbitalorphysicalpropertiesenableacorrelationwithasource.
+• Rocketbody,spaceobjectdesignedtoperformlaunchrelatedfunctionality;Thisincludesthevariousorbital
+stagesoflaunchvehicles,butnotpayloadswhichreleasesmallerpayloadsthemselves.
+• Rocketmissionrelatedobjects,spaceobjectsintentionallyreleasedasspacedebriswhichservedapurpose
+forthefunctionofarocketbody. Commonexamplesincludeshroudsandengines.
+• Rocket fragmentation debris, space objects fragmented or unintentionally released from a rocket body as
+Page10/120
+
+ESAUNCLASSIFIED-ReleasabletothePublic
+space debris for which their genesis can be traced back to a unique event. This class includes objects
+createdwhenalaunchvehicleexplodes.
+• Rocketdebris,spaceobjectsfragmentedorunintentionallyreleasedfromarocketbodyasspacedebrisfor
+whichthegenesisisunclearbutorbitalorphysicalpropertiesenableacorrelationwithasource.
+Afragmentationisthuslooselydefinedasaneventon-orbitthatcreatesspacedebriswithoutpurpose,including
+butnotlimitedtocollisions,explosivebreak-ups,andtearandwear. Withthisdefinitionofafragmentationeventin
+mind,thedistinctionbetweenmissionrelatedobjectsandfragmentationsdebrisisclear. Objectsthatareclassified
+asgeneralpayloadsorrocketdebriscanbereclassifiedwhenmoreinformationbecomesavailable. Anoverview
+ofthisobjecttypeclassificationandtheabbreviationsusedintherestofthedocumentisgiveninTable1.1.
+The taxonomy of objects in the space environment can be done based on type as defined previously, but also
+viatheorbitalregimeinwhichtheyreside. Acataloguedobject willrefertoanobjectwhoseorbitalelementsare
+maintained for prolonged periods of time in a catalogue created by a space surveillance system. An asserted
+object willrefertoanobjectwhichhasnotbeenreportedbyaspacesurveillancesystembutisknowntoexistin
+the space environment by design. Asserted objects include, for example, rocket bodies that perform a re-entry
+burn after inserting a payload into orbit prior to repeated detections by a space surveillance system. As such,
+cataloguedand assertedobjectsarenotmutuallyexclusiveandneitheroneisstrictlycontainedwithintheother.
+Furtherobjectsexistsinthespaceenvironmentthatarenotcataloguedforprolongedperiodsoftime,forexample
+asunpredictableorbitmotionprohibitsthecorrelationofobservations,andcanneitherbeassertedfromadesign
+pointofview. Theseobjectsarebeyondthescopeofthisreport.
+Cataloguedandassertedobjectscanbecategorisedintermsoftheirorbitalelementsforagivenepoch. Orbital
+regimes in this report will be identified based on semi-major axis, eccentricity, inclination, perigee height and
+apogee height. The orbital regimes that shall be used are defined in Table 1.2. Two regions are often identified
+asso-calledprotectedregionsbyinternationalstandards,guidelines,andnationallegislation;theyarespecifically
+definedinTable1.3andwillbereferredtoassuch. Itisimportanttonotethatallthesedefinitionsareinherenttothis
+documentandcanchangebetweenissues. InadditiontotheorbitalregionsdefinedinTable1.2,thereportalso
+referstoSun-Synchronousorbits,i.e. orbitsforwhichthesecularvariationoftherightascensionoftheascending
+node,duetheEarth’soblateness,matchestheEarth’srotationratearoundtheSun. Asaresult,theorbitalplane
+remainsapproximatelyfixedwithrespecttotheSunandasatelliteinthoseorbitspassesoverapointontheEarth
+with the same local solar time and this makes Sun-Synchronous orbits particularly used for Earth Observation
+missions. This report will also make use of Destination Orbits for Payloads and Rocket Bodies. This single orbit
+perobjectisdefinedbyananalysttoberepresentativefororbitsusedduringitsnormaloperations.
+Table1.1: ObjectClassifications.
+Type Description
+PL Payload
+PF PayloadFragmentationDebris
+PD PayloadDebris
+PM PayloadMissionRelatedObject
+RB RocketBody
+RF RocketFragmentationDebris
+RD RocketDebris
+RM RocketMissionRelatedObject
+UI Unidentified
+Page11/120
+
+ESAUNCLASSIFIED-ReleasabletothePublic
+Table 1.2: Ranges defining each orbital class, with semi-major axis a, eccentricity e, inclination i, perigee height
+h andapogeeheighth . Theunitsarekmanddegrees.
+p a
+Orbit Description Definition
+GEO GeostationaryOrbit i∈[0,25] h ∈[35586,35986] h ∈[35586,35986]
+p a
+IGO InclinedGeosynchronousOrbit a∈[37948,46380] e∈[0.00,0.25] i∈[25,180]
+EGO ExtendedGeostationaryOrbit a∈[37948,46380] e∈[0.00,0.25] i∈[0,25]
+NSO NavigationSatellitesOrbit i∈[50,70] h ∈[18100,24300] h ∈[18100,24300]
+p a
+GTO GEOTransferOrbit i∈[0,90] h ∈[0,2000] h ∈[31570,40002]
+p a
+MEO MediumEarthOrbit h ∈[2000,31570] h ∈[2000,31570]
+p a
+GHO GEO-superGEOCrossingOrbits h ∈[31570,40002] h >40002
+p a
+LEO LowEarthOrbit h ∈[0,2000] h ∈[0,2000]
+p a
+HAO HighAltitudeEarthOrbit h >40002 h >40002
+p a
+MGO MEO-GEOCrossingOrbits h ∈[2000,31570] h ∈[31570,40002]
+p a
+HEO HighlyEccentricEarthOrbit h ∈[0,31570] h >40002
+p a
+LMO LEO-MEOCrossingOrbits h ∈[0,2000] h ∈[2000,31570]
+p a
+UFO UndefinedOrbit
+ESO EscapeOrbits
+Table1.3: Rangesdefiningeachprotectedregion,withaltitudehanddeclinationδ. Theunitsarekmanddegrees.
+Orbit Description Definition
+LEO IADCLEOProtectedRegion h∈[0,2000]
+IADC
+GEO IADCGEOProtectedRegion h∈[35586,35986] δ ∈[−15,15]
+IADC
+Atvariousmomentsduringthespaceage,payloadsbasedonalimitedamountofplatformshavebeendeployed
+on-orbitwiththeintenttocreateasinglelargersystembyoperatinginacoordinatedmanner. Wellknownexamples
+includespacesegmentsofsatellitenavigationsystemsorsystemsdedicatedtoglobaldatainformationcoverage.
+Colloquially,suchsystemsofpayloadsareknownasconstellations. Forthepurposeofthisreport,aconstellation
+isunderstoodasasetofatleast20individualPayloadsobjects,releasedintoorbitsovermorethan2eventsand
+coveringmorethan1yearintimefromfirsttolastevent,sharingthesameobjectiveasacombinedsystem,and
+withtheorbitsinwhichtheyaredeployeddirectlyrelatedtothesystems’objective. Aconstellationisconsidered
+active, i.e. functional, as long as at least one of its constituting Payloads is functional. For the current analysis,
+constellationsareidentifiedonlyinLEO andMEO,resultinginatotalof21constellations.
+IADC
+1.2. Data sources
+Orbital information for catalogued objects is obtained from the USSTRATCOM Two-Line Elements data set, the
+VimpeldatasetmaintainedbytheJSCVimpelInterstateCorporationandKeldyshInstituteofAppliedMathematics
+(KIAM), and the RoyalAircraft Establishment (RAE)Tables of artificial satellites. Orbital information on asserted
+objects, as well as the justification for their assertion, is taken from the DISCOS Database (Database and Infor-
+mationSystemCharacterisingObjectsinSpace)[7]. Orbitalinformationoncataloguedandassertedobjectsare
+correlatedamongthevarioussourcestoavoidduplication.
+Physicalpropertiesfortheobjects,andthemissionclassificationforPayloads,usedinthisreportaretakenfrom
+DISCOS.Shapepropertiessuchasareaarederivedfromdesignvaluesandnotestimatedfromspacesurveillance
+Page12/120
+
+ESAUNCLASSIFIED-ReleasabletothePublic
+systems, which implies that the debris and unidentified object types have no mass nor area indicated as part of
+this report. From the area and mass values so defined, the object area-to-mass ratio (A/m) is computed and it
+is used in the characterisation of Payloads (Section 2.6) and, more in general, for the propagation of the object
+trajectoriesforcomplianceanalysis(Section6)andinthesimulationofthelong-termevolutionoftheenvironment
+(Section 7.2). For orbital lifetime assessments, data derived from space surveillance systems can be used for
+theseobjectsforthedeterminationoftheBallisticCoefficient(BC),asexplainedinSection6. Furtherinformation
+ontheindividualobjectswhichisnotdirectlyphysicalinnature,e.g. ownership,isdeliberatelynotreportedonin
+thisdocument.
+TheclassificationofwhetheraPayloadisconsideredactiveisbasedonthedataavailableat[8],whichisusedfor
+data from 2019 onwards, and from the Union of Concerned Scientists (UCS) database [9], for earlier data since
+2005. Thisclassificationbyactivitylevelisnotusedfortheend-of-lifeanalyses,wheretheactivityofanobjectis
+insteadestimatedfromspacesurveillancedata.
+1.3. Methodology
+Thefirstaimofthisreportistodescribethespaceenvironmentbasedonobservablefacts. Thistakestheformof
+analysingtrendsinthevariousphysicalcharacteristicsoftheobjectswithinthespaceenvironment,bothcovering
+thehistorysincethebeginningofthespaceageaswellasasingleyearofanalysis. Thereportfocussesonthe
+amount of mass, area, and object count passing through the different orbital regimes, with specific emphasis on
+theprotectedregions. Furthermore,theusageoftheprotectedregionsbypayloadsisdocumented.
+Secondly,metricsareidentifiedthatserveasproxiesfortheglobaladherencetospacedebrismitigationguidelines,
+whichhavebeenputinplacetoprotectthespaceenvironmentfromadverseeffectssuchastheKesslersyndrome.
+Theevolutionofthesemetricsisdescribed. Mostinternationallyacceptedspacedebrismitigationmeasurescan
+betracedbacktothefollowingobjectives:
+• The limitation of space debris released during normal operations; i.e. in all operational orbit regimes, pay-
+loads and rocket bodies should be designed not to release space debris during normal operations. Where
+thisisnotfeasible,anyreleaseofdebrisshouldbeminimisedinnumber,areaandorbitallifetime.
+• Theminimisationofthepotentialforon-orbitbreak-ups; i.e. inalloperationalregimesoneshouldminimise
+thepotentialforbreak-upsduringoperationalphases,e.g. bythoroughanalysisofthefailuretrees,increase
+(sub)system reliability, etc., minimise the potential for post-mission break-ups resulting from stored energy,
+e.g. storedintanks,batteries,flywheels,etc.,andtheavoidanceofintentionaldestructionandotherharmful
+activities, e.g. intentional break-ups should avoided at all cost but if need be they should be conducted at
+sufficientlylowaltitudessothatorbitalfragmentsareshort-lived.
+• Post mission disposal; i.e. two protected regimes, Low Earth Orbit (LEO ) and Geostationary Orbit
+IADC
+(GEO ), have been identified and should be cleared from permanent or (quasi-) periodic presence of
+IADC
+non-functionalman-madeobjects. Payloadsorrocketbodiesthatareterminatingtheiroperationalphasesin
+otherorbitalregionsshouldbemanoeuvredtoreducetheirorbitallifetime,commensuratewithLEOlifetime
+limitations,orrelocatediftheycauseinterferencewithhighlyutilisedorbitregions.
+• Preventionofon-orbitcollisions;i.e. indevelopingthedesignandmissionprofileofaspaceobject,aproject
+should estimate and limit the probability of accidental collision with known objects during the payload or
+rocketbody’sorbitallifetime. Ifreliableorbitaldataisavailable,avoidancemanoeuvresandco-ordinationof
+launchwindowsmaybeconsideredifthecollisionriskisnotconsiderednegligible.
+Even though the goals of the mitigation measures as identified above are intuitively clear, their technical imple-
+mentationislessstraightforward. Theproposedmetricstoobserveadherencetotheseobjectivesaredescribed
+Page13/120
+
+ESAUNCLASSIFIED-ReleasabletothePublic
+inthecorrespondingsectionsandfollowascloseaspossible[6]. Incaseoforbitallifetimepredictions,thecorre-
+spondinginternationalstandardisfollowed[10]. Detailsonthedatagatheredormethodsusedcorrespondingto
+resultspresentedintheindividualsectionsofinthisreportarecoveredinthosesections.
+Notallaspectsofspacedebrismitigationcan,currently,bereliablyderivedfromobservationaldata. Forexample
+acollisionavoidancemanoeuvrecanlooksimilartoanorbitcontrolmanoeuvretomaintainaspecificground-track.
+Inthesameway,theobservedbehaviourduetopassivationoffluidsattheendoflifeofamissiondoesnotneed
+to be different from the effects of an orbit control manoeuvre. The philosophy behind this document is to accept
+theselimitationsandnottoriskover-interpretingtheavailabledata.
+Thirdly, metrics are identified to estimate the impact of global space activities on the space environment. His-
+torically, such metrics have often been formulated in terms of the outcomes of long-term, i.e. centuries, space
+environment evolution models that serve to extrapolate a set of space traffic condition into the future and derive
+theexpectedamountofspacedebrisandcollisionevents. Asofrecent, alsotheestablishmentofdedicatedrisk
+metricsforthepurposeofimpactassessmentshasbecomemorecommonplace. Bothmetricsareincludedinthis
+report.
+1.4. Notable changes
+1.4.1. Edition 4
+Significantchangeshavetakenplacewhenitcomestotheusageofthespaceenvironmentsincethefirstissueof
+thisreportin2016. AscanbeobservedinSection2,therehasbeenasignificantincreaseintheabilityofspace
+surveillancenetworkstoreliablycatalogueobjectsinorbitsneartheGeostationaryOrbit,andlaunchtraffictoLow
+Earth Orbit increased to previously unseen levels. With the improvements in capabilities of observation systems
+and the rapid miniaturisation and innovation for space system designs, it is likely that those developments will
+continueinthefuture.
+Asaconsequence,alsointernationaldocumentsdealingwithspacedebrismitigationhavebeenupdatedin2019,
+with most notably the ISO space debris mitigation requirements [6] and the IADC space debris mitigation guide-
+lines[2]. Thisisalsoreflectedinthecontentofthisreportbymeansofsomenoticeablechanges. Priortoedition4,
+attemptstorelocatePayloadsaboveLowEarthOrbitwereseenasapositivespacedebrismitigationeffort,even
+thoughthiswasnotendorsedbytheIADCspacedebrismitigationguidelines. Thisisnolongerthecase. Further-
+more,giventheuncertaintiesassociatedwithorbitallifetimepredictions,thethresholdsusedtocategorisePayload
+orRocketBodyas(non-)compliantw.r.t. spacedebrismitigationguidelinesarenowaddressedstochasticallyfor
+thosecasesnearthethreshold.
+Amajoreventvisibleinthiseditionofthereportisthede-orbitingofatelecommunicationconstellationinLowEarth
+Orbitwhichstartedin2018. Justastheinsertionofthisconstellationisvisibleinthelaunchtrafficincrease,itnow
+stands out as an increase in successful post mission de-orbiting when it comes to compliance to the guidelines.
+Furthermore, with the coming into operations of a newer generation of launchers, the release of mission related
+objects as part of their operations is going down. However, releasing large mission related objects altogether is
+unfortunatelynotarelicofthepast(yet).
+1.4.2. Edition 5
+Startingwithedition5ofthisreport,anincreasedemphasisisputontheconsequenceofthegloballevelofadher-
+encetospacedebrismitigationguidelines. Tocapturetheseconsequencesinrelationtothedynamicevolutionof
+theactorsinorbitandmeasurestoachievespacedebrismitigation,itbecamenecessarytoestimateautomatically
+theaveragepropertiesofobjectsandtheorbitalusagealike. Basedontheseproperties,short-termconsequences
+Page14/120
+
+ESAUNCLASSIFIED-ReleasabletothePublic
+suchastheriskofcollisionfacedbyoperatorsintheLEOprotectedregionaswellasthelongtermriskoftriggering
+theKesslersyndromeintheLEOprotectedregioncanbeestimated.
+Notable events visible in this edition of the report are the completion of the de-orbiting of a telecommunication
+constellationfromLowEarthorbitin2019andthestartofon-orbitdeploymentoftwonewonesduring2020. Toa
+certainextent,2020marksthebeginningofanewerainspaceflightwiththematurationoflargeandmedium-sized
+constellations being deployed on orbit and the availability on ground of the derived service, the increased use of
+so-calledride-sharemissions,andthecontinuationofminiaturisationofspacesystem. Thisisincontrastwiththe
+periodbetweenthemid1990’iesandendingmid2010’s,whichsawtheslowbutsteadyroll-outanddemonstration
+ofthenewtechnologiesthatarebecomingcommonplacetoday.
+The start of solar cycle 25 marks a change for the regularly updated orbital lifetimes used in this report. The
+changeincyclebehaviourhasanimpactontheestimatedcomplianceratesasshowinFig.6.17. Intheuncertainty
+analysis,thevaluesforthelastyearareaffectedbythelownumberofcasesforRocketBodiesduetotheincreased
+usageforcontrolledre-entryasdisposalstrategy. Thisisnotanissue,asPayloaddataisaccountedforwithone
+yeardelay,andtheuncertaintieshavegenerallyalimitedimpactinthiscase.
+1.4.3. Edition 6
+Thespaceenvironmentcontinuedtochangerapidlyin2021withtheaccelerateddeploymentoflargeconstellations
+inLEO , increasingdemandforthedeploymentofsmallPayloads, butreductionoflaunchtraffictoGEO .
+IADC IADC
+Forthefirsttime,launchingmorethanonepayloadperlaunchhasbecomethemostcommonwayofgettinginto
+orbit. Toputthisintoperspective,theanalysesintroducedinEdition5ofthisreportwereextendedtocoverdifferent
+epochsfromtherecentspaceage,i.e. addressinghowcollisionavoidanceriskhasevolved(Fig.3.12)andwhat
+would be the outcome of extrapolating various long-term evolution scenarios (Fig. 7.5-7.7). The combination of
+changing launch traffic patterns in general, and the dichotomy between constellation-related objects and other
+intactobjectsspecifically,hasanoticeableimpactonbothshortandlong-termriskindicators.
+With the increased awareness of space sustainability in the community at large, a new emphasis is placed on
+spacedebrismitigationaspectsthatwerepreviouslylessnoticeableoraregaininginprominence. Assuch,new
+analyseshavebeenaddedtothisversionofthereporttohighlighttherisksposedbyRocketBodiescrossingthe
+GEO ProtectedRegion(Fig.6.21),showthevariabilityindisposalorbitstrategiesintheMEOregion(Fig.6.22),
+IADC
+andfocusonthespacesurveillanceissuesassociatedwiththereleaseoflargeamountsofPayloadsbyvarious
+services(Fig.2.15). Inaddition, areviewoftheUnitedNationRegisterofObjectsLaunchedintoOuterSpaceis
+addedtoshowthediversificationofspaceactors(Section2.10).
+1.5. Acknowledgements
+TheauthorstaketheopportunitytothanktheteamattheEuropeanSpaceAgency’sSpaceDebrisOfficeforpro-
+vidingtechnicalsupportandalldataqualitywork. Furthermore,wethanktheinternationalspacedebriscommunity
+atlargeforthereceivedcommentsandsuggestionsforimprovements.
+Page15/120
+
+ESAUNCLASSIFIED-ReleasabletothePublic
+1.6. Disclaimer
+Thecontentsofthisdocumentareintendedforthepersonalandnon-commercialuseoftheirusers. Permissionis
+grantedtouserstoreprintorcopyinformationforpersonalnon-commercialusewhenprovidingappropriatecredit
+by citing the source plus date of issue. For commercial use, authorisation need to be sought. Users may not
+modify, publish, transmit, participate in the transfer or sale of, reproduce, translate into other languages, create
+derivativeworksfrom, distribute, perform, displayorinanywayexploitanyofthecontent, materialorimages, in
+wholeorinpart,withoutobtainingpriorwrittenauthorisation.
+Theanalysispresentedinthisdocumentisderivedfromacontinuouslyevolvingdatabase. Mistakescanunavoid-
+ablyhappenduringthepreparationprocessandwearethusreadytotakefeedback. Ifyoudetectanyerrororif
+youhaveanycommentorquestionpleasecontact:
+StijnLemmens
+EuropeanSpaceAgency
+EuropeanSpaceOperationsCenter
+SpaceDebrisOffice(OPS-SD)
+Robert-Bosch-Str. 5
+64293Darmstadt,Germany
+Tel.: +49-6151-902634
+E-mail: stijn.lemmens@esa.int
+FrancescaLetizia
+EuropeanSpaceAgency
+EuropeanSpaceOperationsCenter
+SpaceDebrisOffice(OPS-SD)
+Robert-Bosch-Str. 5
+64293Darmstadt,Germany
+Tel.: +49-6151-902079
+E-mail: francesca.letizia@esa.int
+Page16/120
+
+ESAUNCLASSIFIED-ReleasabletothePublic
+2. SPACE ENVIRONMENTAL HISTORY IN NUMBERS
+Thissectionreportsontheevolutionofthespaceenvironmentsincethebeginningofthespaceage. Theevolution
+ofcataloguedobjectsinorbitisgraphicallyrepresentedforcount,mass,andarea. Thisdataisfurthersubdivided
+basedonobjectandorbitclassification.Acataloguedobjectisonlytakenintoaccountforagivenyearifitappeared
+inaspacesurveillancesystemduringthatyear. Thisimpliesthatreportedevolutionsdoscalewiththequalityof
+the space surveillance systems at a given epoch. In case of the evolution of payloads and rocket bodies the
+reportednumbersareclosetovaluesonewouldobtainwhenonlyconsideringassertedobjects. Inallotherobject
+classificationstheamountofcataloguedobjectsarealmostcertainlyanunderestimationandhencelowerlimitfor
+thetruespaceenvironment.
+ConcerningtheLEOandGEOprotectedregions,theabsoluteandequivalentnumberofobjects,mass,andarea
+interferingwiththeseregionsaregraphicallyrepresented. Toobtaintheequivalentobjectpenetratingtheprotected
+regions,thephysicalpropertyoftheabsoluteobject,i.e. count,mass,andarea,ismultipliedwithanequivalence
+factor. Thisfactoriscomputedastheratioofthetimespentintheprotectedregionperorbittotheorbitalperiod
+foreachorbit. Thisindicatesperorbitalclasshowmanyobjectsareinterferingwiththeprotectedregionswithout
+beingpermanentlypresent. EventhoughtheLEOandGEOregionsaredefinedasprotectedregionsasawhole,
+mostofthetraffictakesplaceinnarrowbands.
+The evolution of the catalogued and asserted objects appearing in or re-entering the Earth atmosphere from the
+spaceenvironmentisgraphicallyrepresentedforcount,mass,andarea. Thisdataisfurthersubdividedbasedon
+object and orbit classification. Objects that are both asserted and catalogued are only counted once for a given
+year. Incaseofminorinconsistenciesbetweentheassertedandcataloguedobjectinformationforthesameobject,
+the’N/A’tagisapplied. Objectsassociatedwithhumanspaceflightincludecrewvehiclesorpartsthereofaswellas
+payloadsdedicatedtocargotransfer,butnottherocketbodiesassociatedtothesemissions. Forthevastmajority
+ofcases,thereisnoreliablemassorareaestimateforobjectsintheDebrisorUnidentifiedcategoriesandhence
+theyareequatedto0.
+In all figures within Sections 2.1, 2.2, and 2.3, the environment parameters are presented as they are at the 1th
+of January of the indicated year. In all figures within Sections 2.4, 2.7, and 2.8, the environment parameters are
+presented as aggregated data within the indicated year. All data used to generate the analysis in this section is
+availableonline[7].
+Page17/120
+
+ESAUNCLASSIFIED-ReleasabletothePublic
+2.1. Overall Space Environment
+Figure 2.1 captures the evolution of the space environment in terms of number of objects, mass, and area in
+geocentric orbit by object class. This data is limited to catalogued and asserted objects, and hence at any given
+epoch limited to the capability of the space surveillance system in use at the time. Asecondary effect hereof is
+thatwhennewobjectsaredetectedduetoincreasedsensorperformance,theycangenerallynotbetracedback
+to an event or source and become classified as Unidentified. In Figures 2.2 the same data is presented by orbit
+class instead of object class. In Figures 2.3 the same data is presented in relation to the cumulative values for
+thosepropertiesincasetheywouldnothavebeenremovedfromorbit.
+Page18/120
+
+ESAUNCLASSIFIED-ReleasabletothePublic
+
+-DQ -DQ -DQ -DQ -DQ -DQ -DQ
+5HIHUHQFH(SRFK
+@>WQXR&WFHME2
+(YROXWLRQLQ$OO2UELWV
+8, 30
+50 3'
+5' 3)
+5) 3/
+5%
+(a)Evolutionofnumberofobjects.
+
+-DQ -DQ -DQ -DQ -DQ -DQ -DQ
+5HIHUHQFH(SRFK
+@VQRW>VVD0WFHME2
+(YROXWLRQLQ$OO2UELWV
+50 30
+5' 3'
+5) 3)
+5% 3/
+(b)Evolutionofmass.
+
+-DQ -DQ -DQ -DQ -DQ -DQ -DQ
+5HIHUHQFH(SRFK
+@2P>DHU$WFHME2
+(YROXWLRQLQ$OO2UELWV
+50 30
+5' 3'
+5) 3)
+5% 3/
+(c)Evolutionofarea.
+Figure2.1: Evolutionofnumberofobjects,mass,andareaingeocentricorbitbyobjectclass.
+Page19/120
+
+ESAUNCLASSIFIED-ReleasabletothePublic
+
+-DQ -DQ -DQ -DQ -DQ -DQ -DQ
+5HIHUHQFH(SRFK
+@>WQXR&WFHME2
+(YROXWLRQLQ$OO2UELWV
+2WKHU 162
++(2 *72
+0*2 (*2
+/02 *(2
+0(2 /(2
+(a)Evolutionofnumberofobjects.
+
+-DQ -DQ -DQ -DQ -DQ -DQ -DQ
+5HIHUHQFH(SRFK
+@VQRW>VVD0WFHME2
+(YROXWLRQLQ$OO2UELWV
+2WKHU 162
++(2 *72
+0*2 (*2
+/02 *(2
+0(2 /(2
+(b)Evolutionofmass.
+
+-DQ -DQ -DQ -DQ -DQ -DQ -DQ
+5HIHUHQFH(SRFK
+@2P>DHU$WFHME2
+(YROXWLRQLQ$OO2UELWV
+2WKHU 162
++(2 *72
+0*2 (*2
+/02 *(2
+0(2 /(2
+(c)Evolutionofarea.
+Figure2.2: Evolutionofnumberofobjects,mass,andareaingeocentricorbitbyorbitclass.
+Page20/120
+
+ESAUNCLASSIFIED-ReleasabletothePublic
+
+-DQ -DQ -DQ -DQ -DQ -DQ -DQ
+5HIHUHQFH(SRFK
+@>WQXR&WFHME2
+&XPXODWLYHREMHFWVRQRUELW
+$FWXDOREMHFWVRQRUELW
+(a)Evolutionofnumberofobjects.
+
+-DQ -DQ -DQ -DQ -DQ -DQ -DQ
+5HIHUHQFH(SRFK
+@VQRW>VVD0WFHME2
+&XPXODWLYHREMHFWVRQRUELW
+$FWXDOREMHFWVRQRUELW
+(b)Evolutionofmass.
+
+-DQ -DQ -DQ -DQ -DQ -DQ -DQ
+5HIHUHQFH(SRFK
+@2P>DHU$WFHME2
+&XPXODWLYHREMHFWVRQRUELW
+$FWXDOREMHFWVRQRUELW
+(c)Evolutionofarea.
+Figure 2.3: Evolution of number of orbiting objects, mass, and area in geocentric orbit versus total number of
+objects.
+Page21/120
+
+ESAUNCLASSIFIED-ReleasabletothePublic
+2.2. Evolution of Environment in LEO
+
+-DQ -DQ -DQ -DQ -DQ -DQ -DQ
+5HIHUHQFH(SRFK
+@>WQXR&WFHME2
+3HQHWUDWLRQLQWR/(2
+IADC
+2WKHU
++(2
+/02
+*72
+/(2
+(a)Evolutionofabsolutenumberofobjects.
+
+-DQ -DQ -DQ -DQ -DQ -DQ -DQ
+5HIHUHQFH(SRFK
+@VQRW>VVD0WFHME2
+3HQHWUDWLRQLQWR/(2
+IADC
+2WKHU
++(2
+/02
+*72
+/(2
+(b)Evolutionofabsolutemass.
+
+-DQ -DQ -DQ -DQ -DQ -DQ -DQ
+5HIHUHQFH(SRFK
+@2P>DHU$WFHME2
+3HQHWUDWLRQLQWR/(2
+IADC
+2WKHU
++(2
+/02
+*72
+/(2
+(c)Evolutionofabsolutearea.
+Figure2.4: Evolutionofabsolutenumberofobjects,massandarearesidinginorpenetratingLEO .
+IADC
+Page22/120
+
+ESAUNCLASSIFIED-ReleasabletothePublic
+
+-DQ -DQ -DQ -DQ -DQ -DQ -DQ
+5HIHUHQFH(SRFK
+@>WQXR&WFHME2WQHODYLXT(
+3HQHWUDWLRQLQWR/(2
+IADC
+2WKHU
++(2
+/02
+*72
+/(2
+(a)Evolutionofequivalentnumberofobjects.
+
+-DQ -DQ -DQ -DQ -DQ -DQ -DQ
+5HIHUHQFH(SRFK
+@VQRW>VVD0WFHME2WQHODYLXT(
+3HQHWUDWLRQLQWR/(2
+IADC
+2WKHU
++(2
+/02
+*72
+/(2
+(b)Evolutionofequivalentmass.
+
+-DQ -DQ -DQ -DQ -DQ -DQ -DQ
+5HIHUHQFH(SRFK
+@2P>DHU$WFHME2WQHODYLXT(
+3HQHWUDWLRQLQWR/(2
+IADC
+2WKHU
++(2
+/02
+*72
+/(2
+(c)Evolutionofequivalentarea.
+Figure2.5: Evolutionofequivalentnumberofobjects,massandarearesidinginorpenetratingLEO .
+IADC
+Page23/120
+
+ESAUNCLASSIFIED-ReleasabletothePublic
+2.3. Evolution of Environment in GEO
+
+-DQ -DQ -DQ -DQ -DQ -DQ -DQ
+5HIHUHQFH(SRFK
+@>WQXR&WFHME2
+3HQHWUDWLRQLQWR*(2
+IADC
+2WKHU
++(2
+0*2
+*72
+(*2
+*(2
+(a)Evolutionofabsolutenumberofobjects.
+
+-DQ -DQ -DQ -DQ -DQ -DQ -DQ
+5HIHUHQFH(SRFK
+@VQRW>VVD0WFHME2
+3HQHWUDWLRQLQWR*(2
+IADC
+2WKHU
++(2
+0*2
+*72
+(*2
+*(2
+(b)Evolutionofabsolutemass.
+
+-DQ -DQ -DQ -DQ -DQ -DQ -DQ
+5HIHUHQFH(SRFK
+@2P>DHU$WFHME2
+3HQHWUDWLRQLQWR*(2
+IADC
+2WKHU
++(2
+0*2
+*72
+(*2
+*(2
+(c)Evolutionofabsolutearea.
+Figure2.6: Evolutionofabsolutenumberofobjects,massandarearesidinginorpenetratingGEO .
+IADC
+Page24/120
+
+ESAUNCLASSIFIED-ReleasabletothePublic
+
+-DQ -DQ -DQ -DQ -DQ -DQ -DQ
+5HIHUHQFH(SRFK
+@>WQXR&WFHME2WQHODYLXT(
+3HQHWUDWLRQLQWR*(2
+IADC
+2WKHU
++(2
+0*2
+*72
+(*2
+*(2
+(a)Evolutionofequivalentnumberofobjects.
+
+-DQ -DQ -DQ -DQ -DQ -DQ -DQ
+5HIHUHQFH(SRFK
+@VQRW>VVD0WFHME2WQHODYLXT(
+3HQHWUDWLRQLQWR*(2
+IADC
+2WKHU
++(2
+0*2
+*72
+(*2
+*(2
+(b)Evolutionofequivalentmass.
+
+-DQ -DQ -DQ -DQ -DQ -DQ -DQ
+5HIHUHQFH(SRFK
+@2P>DHU$WFHME2WQHODYLXT(
+3HQHWUDWLRQLQWR*(2
+IADC
+2WKHU
++(2
+0*2
+*72
+(*2
+*(2
+(c)Evolutionofequivalentarea.
+Figure2.7: Evolutionofequivalentnumberofobjects,massandarearesidinginorpenetratingGEO .
+IADC
+Page25/120
+
+ESAUNCLASSIFIED-ReleasabletothePublic
+2.4. Usage of the Protected Regions
+Thissectionaimstoprovideanoverviewoftheusageoftheprotectedregionsintermsoflaunchtrafficasrepre-
+sentedbyobjectcountandmass,giventhatthestabilityofthespaceenvironmentisdependentonthem.
+From a historical point of view, the launch traffic of Payloads can be categorised in terms of the main funding
+source (Civil, Defence, Commercial, Amateur) or in terms of the main missions type (Communication, Imaging,
+Navigation,etc.). TheAmateurcategoryincludesthosePayloadsassociatedbyacademicinstitutionswhennone
+of the other entities are the driving contributor. Payloads that are deployed from the International Space Station
+(ISS)areidentifiedwithaseparatelabelaspartofthelaunchtraffic.
+In case of Rocket Bodies, it is of importance which launcher family is generating the traffic to orbit, given that
+the adherence level to space debris mitigation guidelines correlates with this family identifier. These families are
+to be understood as major stable design versions of a launcher, e.g. covering performance improvements but
+notenginechanges. Newfamiliescanappearsporadicallyandinthisreportthemostrecentonesareidentified.
+EarlierfamiliesoflaunchersaregroupedunderUsedearlier.
+Ofincreasingimportanceinachangingspacetrafficlandscapearealsotheso-calledride-sharelaunchopportuni-
+ties,whereasinglelaunchvehiclecarriesamultitudeofPayloadsfromdifferententitiesintoorbit. Forthepurpose
+of this report, ride-share launches are defined as those launches that carry Payloads with at least three different
+mission domains and at least ten Payloads in total. Amission domain is defined by the combination of mission
+type,funding,andoperator.
+For Payload objects in LEO , it is instructive to analyse not only where they reside now, but also how the
+IADC
+destinationorbitsthatenabletheiroperationsevolveovertime. Inparticular,asspacedebrismitigationmeasures
+focus on limiting orbital lifetimes, adoption of these practice leaves a noticeable imprint on the data. This imprint
+candistinctivelyvisibleasafunctionofthemissiondomain,inparticularwhendistinguishingbetweenconstellation
+andnonconstellationobjects.
+Page26/120
+
+ESAUNCLASSIFIED-ReleasabletothePublic
+
+ 
+/DXQFK<HDU
+@>VWFHME2IRUHEPX1
+3D\ORDG/DXQFK7UDIILFLQWR h NP
+p
+$PDWHXU
+&LYLO
+'HIHQVH
+&RPPHUFLDO
+
+ 
+/DXQFK<HDU
+@>VWFHME2IRUHEPX1
+3D\ORDG/DXQFK7UDIILFLQWR h NP
+p
+&RPPXQLFDWLRQ 1DYLJDWLRQ
+,PDJLQJ 6LJLQW
+6SDFHVKLS &DOLEUDWLRQ
+7HFKQRORJ\ :HDWKHU
+6FLHQFH 2WKHU
+Figure2.8: EvolutionofthelaunchtrafficnearLEO permissionfunding(top)andtype(bottom).
+IADC
+Page27/120
+
+ESAUNCLASSIFIED-ReleasabletothePublic
+
+ 
+/DXQFK<HDU
+@>VWFHME2IRUHEPX1
+3D\ORDG/DXQFK7UDIILFLQWR h NP
+p
+/RQJ0DUFK (OHFWURQ
+6R\X] .XDL]KRX
+/RQJ0DUFK $VWUD5RFNHW
+$ULDQH 9HJD
+)DOFRQ (SVLORQ
+/RQJ0DUFK /RQJ0DUFK
+&HUHV 8VHGHDUOLHU
+
+ 
+/DXQFK<HDU
+@VQRW>VVD0
+3D\ORDG/DXQFK7UDIILFLQWR h NP
+p
+/RQJ0DUFK (OHFWURQ
+6R\X] .XDL]KRX
+/RQJ0DUFK $VWUD5RFNHW
+$ULDQH 9HJD
+)DOFRQ (SVLORQ
+/RQJ0DUFK /RQJ0DUFK
+&HUHV 8VHGHDUOLHU
+Figure2.9: EvolutionofthelaunchtrafficnearLEO perlauncherfamilyexpressedintermsofnumberofobjects
+IADC
+(top)andmass(bottom).
+Page28/120
+
+ESAUNCLASSIFIED-ReleasabletothePublic
+
+ 
+/DXQFK<HDU
+@>VWFHME2IRUHEPX1
+3D\ORDG/DXQFK7UDIILFLQWR h NP
+p
+&LYLO
+'HIHQVH
+&RPPHUFLDO
+
+ 
+/DXQFK<HDU
+@>VWFHME2IRUHEPX1
+3D\ORDG/DXQFK7UDIILFLQWR h NP
+p
+&RPPXQLFDWLRQ 1DYLJDWLRQ
+,PDJLQJ 6LJLQW
+7HFKQRORJ\ :HDWKHU
+6FLHQFH 2WKHU
+Figure2.10: EvolutionofthelaunchtrafficnearGEO permissionfunding(top)andtype(bottom).
+IADC
+Page29/120
+
+ESAUNCLASSIFIED-ReleasabletothePublic
+
+ 
+/DXQFK<HDU
+@>VWFHME2IRUHEPX1
+3D\ORDG/DXQFK7UDIILFLQWR h NP
+p
+$WODV9 3URWRQ0
+/RQJ0DUFK 'HOWD,9
+$ULDQH 6/93
+)DOFRQ =HQLW
+3RODU6/9 6R\X]
++,, $QJDUD$
+/RQJ0DUFK 8VHGHDUOLHU
+
+ 
+/DXQFK<HDU
+@VQRW>VVD0
+3D\ORDG/DXQFK7UDIILFLQWR h NP
+p
+$WODV9 3URWRQ0
+/RQJ0DUFK 'HOWD,9
+$ULDQH 6/93
+)DOFRQ =HQLW
+3RODU6/9 6R\X]
++,, $QJDUD$
+/RQJ0DUFK 8VHGHDUOLHU
+Figure 2.11: Evolution of the launch traffic near GEO per launcher family expressed in terms of number of
+IADC
+objects(top)andmass(bottom).
+Page30/120
+
+ESAUNCLASSIFIED-ReleasabletothePublic
+
+ 
+/DXQFK<HDU
+@>VWFHME2IRUHEPX1
+3D\ORDG/DXQFK7UDIILFRXWVLGH/(2DQG*(2
+/RQJ0DUFK /RQJ0DUFK
+$QJDUD$ 6R\X]
++,, 'HOWD,9
+3URWRQ0 $ULDQH
+6R\X] /RQJ0DUFK
+$WODV9 6/93
+)DOFRQ 8VHGHDUOLHU
+
+ 
+/DXQFK<HDU
+@VQRW>VVD0
+3D\ORDG/DXQFK7UDIILFRXWVLGH/(2DQG*(2
+/RQJ0DUFK /RQJ0DUFK
+$QJDUD$ 6R\X]
++,, 'HOWD,9
+3URWRQ0 $ULDQH
+6R\X] /RQJ0DUFK
+$WODV9 6/93
+)DOFRQ 8VHGHDUOLHU
+Figure2.12: EvolutionofthelaunchtrafficoutsideLEO andGEO perlauncherfamilyexpressedinterms
+IADC IADC
+ofnumberofobjects(top)andmass(bottom).
+Page31/120
+
+ESAUNCLASSIFIED-ReleasabletothePublic
+
+ 
+/DXQFK<HDU
+@>VWFHMERIRUHEPX1
+3D\ORDG/DXQFK7UDIILFLQWR h NP
+p
+P NJ
+NJP NJ
+NJP NJ
+P!NJ
+
+ 
+/DXQFK<HDU
+@>VWFHMERIRUHEPX1
+3D\ORDG/DXQFK7UDIILFLQWR h NP
+p
+P NJ
+NJP NJ
+NJP NJ
+P!NJ
+Figure2.13: EvolutionofthelaunchtrafficpermasscategoryintermsofnumberofobjectsinLEO (top)and
+IADC
+GEO (bottom).
+IADC
+Page32/120
+
+ESAUNCLASSIFIED-ReleasabletothePublic
+
+ 
+/DXQFK\HDU
+VHKFQXDOIRUHEPX1
+3D\ORDGVFDUULHG
+SHUODXQFK
+@
+@
+@
+@
+@
+@
+@
+(a)Payloads
+
+ 
+/DXQFK\HDU
+VHKFQXDOIRUHEPX1
+0LVVLRQGRPDLQV
+@
+@
+@
+@
+@
+@
+@
+(b)Missiondomains
+Figure2.14: Evolutionofthelaunchtraffic.
+Page33/120
+
+ESAUNCLASSIFIED-ReleasabletothePublic
+
+ 
+/DXQFKHSRFK
+@VKWQRP>KFQXDOUHWIDQRLWDFLILWQHGLRWHPL7
+
+RLWDUODWRWRWQRLWDOOHWVQR&
+Figure2.15: Identificationrateforridesharelaunches.
+Unidentified Payload objects form a collision risk for active operators as potential avoidance scenarios cannot
+be coordinated effectively. In particular, ride-share launches can form an issue for timely identification by space
+surveillance networks when deployment is not coordinated with the operators on-board. Figure 2.15 plot repre-
+sentstherateofidentificationforPayloadsonride-sharelaunchessince2018,applyingthedefinitionintroduced
+above. Thex-axisindicatesthelaunchepochandthey-axislistssomeofthecrucialtimingsbetweenlaunchand
+identification. Perride-sharelaunchevent,thegreylinesindicatethetimeintervalbetweentheepochwhen10%
+and90%ofthePayloadsinthelaunchwereidentifiedwithacut-offafter12months(somePayloadmightnever
+beidentified). Ifthe90%hasnot(yet)beenreached, theintervalisindicatedwithadashedline. Thelocationof
+thecircularmarkerindicatesthetimewhen50%ofthePayloadsareidentified,thesizeisproportionaltothetotal
+numberofPayloadsintheride-sharelaunch,andthecolourindicateswhichfractionofthePayloadsbelongtoa
+constellation. ThelattermakesapracticaldistinctionintermsofamountofPayloadsthatcanbecoordinatedwith
+aspacesurveillanceoperators.
+Page34/120
+
+ESAUNCLASSIFIED-ReleasabletothePublic
+
+ 
+/DXQFK<HDU
+@PN>WKJLH+HHJLUH3
+3D\ORDG/DXQFK7UDIILF$OO
+
+@VQRW>VVD0
+(a)LEO
+IADC
+
+ 
+/DXQFK<HDU
+@PN>WKJLH+HHJLUH3
+3D\ORDG/DXQFK7UDIILF$OO
+
+@VQRW>VVD0
+(b)GEO
+IADC
+Figure2.16: Evolutionofthelaunchtraffic: massinjected.
+Page35/120
+
+ESAUNCLASSIFIED-ReleasabletothePublic
+
+/DXQFK\HDU
+@>VWFHMERIRHUDK6
+1R&RQVWHOODWLRQV
+/LIHWLPH>\@
+@
+@
+@
+@
+@
+@
+ 
+(a)Payloadobjectsnotbelongingtoconstellations
+
+ 
+/DXQFK\HDU
+@>VWFHMERIRHUDK6
+&RQVWHOODWLRQV
+/LIHWLPH>\@
+@
+@
+@
+@
+@
+@
+ 
+(b)Payloadojectsbelongingtoconstellations
+Figure2.17: EstimatedlifetimeforthePayloaddestinationorbitsbylaunchyear: shareofobjects.
+Page36/120
+
+ESAUNCLASSIFIED-ReleasabletothePublic
+
+/DXQFK\HDU
+@>VVDPIRHUDK6
+1R&RQVWHOODWLRQV
+/LIHWLPH>\@
+@
+@
+@
+@
+@
+@
+ 
+(a)Payloadobjectsnotbelongingtoconstellations
+
+ 
+/DXQFK\HDU
+@>VVDPIRHUDK6
+&RQVWHOODWLRQV
+/LIHWLPH>\@
+@
+@
+@
+@
+@
+@
+ 
+(b)Payloadobjectsbelongingtoconstellations
+Figure2.18: EstimatedlifetimeforthePayloaddestinationorbitsbylaunchyear: shareofmass.
+Page37/120
+
+ESAUNCLASSIFIED-ReleasabletothePublic
+2.5. Constellations in the LEO protected region
+
+ 
+<HDU
+@>WQXR&WFHME2
+&RQVWHOODWLRQ2EMHFWV
+1RFRQVWHOODWLRQ
+&RQVWHOODWLRQV
+(a)Evolutionofnumberofobjects.
+
+ 
+<HDU
+@VQRW>VVD0WFHME2
+&RQVWHOODWLRQ2EMHFWV
+1RFRQVWHOODWLRQ
+&RQVWHOODWLRQV
+(b)Evolutionofmass.
+
+ 
+<HDU
+@2P>DHU$WFHME2
+&RQVWHOODWLRQ2EMHFWV
+1RFRQVWHOODWLRQ
+&RQVWHOODWLRQV
+(c)Evolutionofarea.
+Figure 2.19: Evolution of number of objects, mass, and area in LEO distinguishing constellations and non-
+IADC
+constellationspayloads.
+Page38/120
+
+ESAUNCLASSIFIED-ReleasabletothePublic
+2.6. Active payloads in the LEO protected region
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+h>NP@
+VGDRO\DSHYLWFDIRUHEPX1
+Figure2.20: DistributionofactivepayloadsinLEObyyearandmeanaltitude.
+
+ 
+
+ 
+
+ 
+
+ 
+h>NP@
+VGDRO\DSHYLWFDIRUHEPX1
+Figure2.21: DistributionofactivepayloadsnotbelongingtoconstellationsinLEObyyearandmeanaltitude.
+Page39/120
+
+ESAUNCLASSIFIED-ReleasabletothePublic
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+h>NP@
+VGDRO\DSHYLWFDIRUHEPX1
+Figure2.22: DistributionofactivepayloadsbelongingtoconstellationsinLEObyyearandmeanaltitude.
+Page40/120
+
+ESAUNCLASSIFIED-ReleasabletothePublic
+
+ 
+$OWLWXGH>NP@
+VWFHME2IRUHEPX1
+1XPEHURIFDWDORJXHGREMHFWVDQGDFWLYHSD\ORDGVGHVWLQDWLRQRUELWV
+&DWDORJXHGREMHFWV
+$FWLYHSD\ORDGV
+Figure2.23: Numberofactiveandconstellationobjectsoverthetotalnumberofcataloguedobjects.
+
+ 
+$OWLWXGH>NP@
+RLWD5
+$FWLYHSD\ORDGVWRFDWDORJXHGREMHFWVGHVWLQDWLRQRUELWV
+$FWLYHSD\ORDGV
+&RQVWHOODWLRQV
+Figure2.24: Ratioofactiveandconstellationobjectsoverthetotalnumberofcataloguedobjects.
+Page41/120
+
+ESAUNCLASSIFIED-ReleasabletothePublic
+
+@JN>VVD0
+0HDQDFWLYHSD\ORDGSURSHUWLHV
+
+@2P>DHU$
+
+ 
+@JN2P>0$ 1RFRQVWHOODWLRQV
+&RQVWHOODWLRQV
+&RPELQHG
+Figure2.25: PayloadparametersforactivepayloadsinLEOovertime.
+Page42/120
+
+ESAUNCLASSIFIED-ReleasabletothePublic
+2.7. New Catalogued Objects in the Space Environment
+
+ 
+<HDU
+@>WQXR&WFHME2
+1HZO\$GGHG2EMHFWV
+8, 30
+50 3'
+5' 3)
+5) 3/
+5%
+(a)Evolutionofnewlyaddedobjectbycount.
+
+ 
+<HDU
+@VQRW>VVD0WFHME2
+1HZO\$GGHG2EMHFWV
+50 30
+5' 3'
+5) 3)
+5% 3/
+(b)Evolutionofnewlyaddedmass.
+
+ 
+<HDU
+@2P>DHU$WFHME2
+1HZO\$GGHG2EMHFWV
+50 30
+5' 3'
+5) 3)
+5% 3/
+(c)Evolutionofnewlyaddedarea.
+Figure2.26: Evolutionofnewlyaddedobjectsineachyearbyobjecttype.
+Page43/120
+
+ESAUNCLASSIFIED-ReleasabletothePublic
+
+ 
+<HDU
+@>WQXR&WFHME2
+1HZO\$GGHG2EMHFWV
+1$ 162
+2WKHU *72
++(2 (*2
+0*2 *(2
+/02 /(2
+0(2
+(a)Evolutionofnewlyaddedobjectbycount.
+
+ 
+<HDU
+@VQRW>VVD0WFHME2
+1HZO\$GGHG2EMHFWV
+1$ 162
+2WKHU *72
++(2 (*2
+0*2 *(2
+/02 /(2
+0(2
+(b)Evolutionofnewlyaddedmass.
+
+ 
+<HDU
+@2P>DHU$WFHME2
+1HZO\$GGHG2EMHFWV
+1$ 162
+2WKHU *72
++(2 (*2
+0*2 *(2
+/02 /(2
+0(2
+(c)Evolutionofnewlyaddedarea.
+Figure2.27: Evolutionofnewlyaddedobjectsineachyearbyorbittype.
+Page44/120
+
+ESAUNCLASSIFIED-ReleasabletothePublic
+2.8. Objects Removed from the Space Environment
+
+ 
+<HDU
+@>WQXR&WFHME2
+5HHQWHULQJ2EMHFWV
+8, 30
+50 3'
+5' 3)
+5) 3/
+5%
+(a)Evolutionofre-enterednumbers.
+
+ 
+<HDU
+@VQRW>VVD0WFHME2
+5HHQWHULQJ2EMHFWV
+50 30
+5' 3'
+5) 3)
+5% 3/
+(b)Evolutionofre-enteredmass.
+
+ 
+<HDU
+@2P>DHU$WFHME2
+5HHQWHULQJ2EMHFWV
+50 30
+5' 3'
+5) 3)
+5% 3/
+(c)Evolutionofre-enteredarea.
+Figure2.28: Evolutionofre-enteringobjectsineachyearbyobjecttypewithouthumanspaceflight.
+Page45/120
+
+ESAUNCLASSIFIED-ReleasabletothePublic
+
+ 
+<HDU
+@>WQXR&WFHME2
+5HHQWHULQJ2EMHFWV
+2WKHU 0(2
++(2 *72
+0*2 /(2
+/02
+(a)Evolutionofre-enterednumbers.
+
+ 
+<HDU
+@VQRW>VVD0WFHME2
+5HHQWHULQJ2EMHFWV
+2WKHU 0(2
++(2 *72
+/02 /(2
+(b)Evolutionofre-enteredmass.
+
+ 
+<HDU
+@2P>DHU$WFHME2
+5HHQWHULQJ2EMHFWV
+2WKHU 0(2
++(2 *72
+/02 /(2
+(c)Evolutionofre-enteredarea.
+Figure2.29: Evolutionofre-enteringobjectsineachyearbyorbittypewithouthumanspaceflight.
+Page46/120
+
+ESAUNCLASSIFIED-ReleasabletothePublic
+
+ 
+<HDU
+@>WQXR&WFHME2
+5HHQWHULQJ2EMHFWV
+30 3/
+(a)Evolutionofre-enterednumbers.
+
+ 
+<HDU
+@VQRW>VVD0WFHME2
+5HHQWHULQJ2EMHFWV
+30 3/
+(b)Evolutionofre-enteredmass.
+
+ 
+<HDU
+@2P>DHU$WFHME2
+5HHQWHULQJ2EMHFWV
+30 3/
+(c)Evolutionofre-enteredarea.
+Figure2.30: Evolutionofre-enteringhumanspaceflightobjectsineachyearbyobjecttype.
+Page47/120
+
+ESAUNCLASSIFIED-ReleasabletothePublic
+
+ 
+<HDU
+@>WQXR&WFHME2
+5HHQWHULQJ2EMHFWV
+2WKHU /02
++(2 /(2
+(a)Evolutionofre-enterednumbers.
+
+ 
+<HDU
+@VQRW>VVD0WFHME2
+5HHQWHULQJ2EMHFWV
+2WKHU /02
++(2 /(2
+(b)Evolutionofre-enteredmass.
+
+ 
+<HDU
+@2P>DHU$WFHME2
+5HHQWHULQJ2EMHFWV
+2WKHU /02
++(2 /(2
+(c)Evolutionofre-enteredarea.
+Figure2.31: Evolutionofre-enteringhumanspaceflightobjectsbyorbittype.
+Page48/120
+
+ESAUNCLASSIFIED-ReleasabletothePublic
+2.9. Nuclear Power Sources
+Nuclearpowersources(NPS)havebeenusedinouterspaceasanefficientwayofproducinglargerquantitiesof
+energyorheat,commonlyimplementedassmallfissionreactorsorradioisotopethermoelectricgenerators. Since
+early during the space age such power systems were used in Earth orbit but they have been largely phased out
+afterthe80íesduetosafetyconcerns. ThenotableexceptionistheuseofNPSsforinterplanetaryPayloadsand
+planetaryexploration.
+ThesafetyconcernsrelatedtoNPSsinEarthorbitrelatedtorisksimpliedwhentheywouldre-entertheatmosphere
+andbreak-up. Tomitigatethisrisk, thereactorcoresweregenerallyinjectedintoorbitswithlongorbitallifetimes
+after the end of operations of the Payload. There are 61 objects related to NPSs known to have entered Earth
+orbit,outofwhich3areassertedbutnotcatalogued. Atotalof3outofthose61havere-entered,andtheorbital
+distributionontheremainderispresentedinFigure2.32.
+
+ 
+0HDQDOWLWXGH>NP@
+@VUDH\>HPLWHIL/
+
+@JHG>QRLWDQLOFQ,
+Figure 2.32: Distribution of space objects with nuclear power sources with mean altitude, orbital lifetime, and
+inclination.
+Page49/120
+
+ESAUNCLASSIFIED-ReleasabletothePublic
+2.10. Registration of Objects Launched in Outer Space
+The United Nations Register of Objects Launched into Outer Space [11] and its implementation was established
+asconsequenceoftheConventiononRegistrationofObjectsLaunchedintoOuterSpace[12]. Statepartiestothe
+treatyarerequiredtoestablishtheirownnationalregistriesandprovideinformationontheirspaceobjects,which
+inturncreatestransparencyonspaceoperations. Theincreasingamountoflaunchingstatesoftimeservesasa
+reminderfortheneedtocoordinatespacedebrismitigationmeasuresacrossallthoseactors,asonefailuretodo
+sowillaffectmanyothers. Notwithstandingtheincreaseinactors,positivetrendsaretheretro-activeregistration
+ofobjectsandthereducingtimebetweenlaunchandregistration.
+
+ 
+<HDU
+VHWDWVJQLKFQXDOIRUHEPXQHYLWDOXPX& 7RWDO
+$PDWHXU
+&LYLO
+&RPPHUFLDO
+'HIHQVH
+Figure2.33: Launchingstateswithatleastoneregisteredspaceobjectovertimebycategory.
+Page50/120
+
+ESAUNCLASSIFIED-ReleasabletothePublic
+
+ 
+/DXQFK\HDU
+@>VGDRO\D3GHUHWVLJHUIRHUDK6
+Figure2.34: Shareofregisteredpayloadsoverthetotaloflaunchedpayloadsbylaunchyear.
+
+ 
+/DXQFK\HDU
+@VUDH\>\DOHGQRLWDUWVLJHUHJDUHY$
+0HGLDQ
+WK3HUFHQWLOH
+Figure2.35: Delaybetweenlaunchandregistrationbylaunchyear.
+Page51/120
+
+ESAUNCLASSIFIED-ReleasabletothePublic
+3. ENVIRONMENTAL STATUS 2021
+Inthissection,thestatusoftheenvironmentasofendof2021islistedandillustrated.
+Table3.1: NumberofobjectsorbitingEarth. Other: IGO,GHO,HAO,UFO,ESO.
+PL PF PD PM RB RF RD RM UI Total
+LEO 5963 7363 107 248 913 2574 134 625 58 17985
+GEO 768 3 2 7 64 0 0 0 28 872
+EGO 481 2 0 49 191 87 1 4 1430 2245
+GTO 67 19 1 12 249 211 11 59 541 1170
+NSO 275 0 0 1 92 0 0 2 11 381
+MEO 66 1 5 55 20 45 1 3 264 460
+LMO 87 152 5 51 234 788 20 226 931 2494
+MGO 66 74 1 2 175 2186 5 0 779 3288
+HEO 36 15 0 1 49 112 0 0 804 1017
+Other 40 0 0 5 3 0 0 0 65 113
+Total 7849 7629 121 431 1990 6003 172 919 4911 30025
+Table3.2: Absoluteandequivalentnumberofobjectsintersectingwiththeprotectedregions.
+PL PF PD PM RB RF RD RM UI Total
+both(abs) 19 15 1 2 74 137 2 22 267 539
+LEO IADC (abs) 6130 7549 113 312 1428 3635 165 910 1665 21907
+LEO IADC (eqv) 5997 7458 110 261 965 2799 138 660 244 18632
+GEO IADC (abs) 935 44 4 50 301 761 2 24 2470 4591
+GEO IADC (eqv) 808 5 2 18 104 36 0 1 182 1155
+none(abs) 803 51 5 71 335 1744 7 7 1043 4066
+Page52/120
+
+ESAUNCLASSIFIED-ReleasabletothePublic
+Table3.3: MassintonsorbitingEarth. Objectsofunknownmassdonotcontributetothefigurespresented. Other:
+IGO,GHO,HAO,UFO,ESO.
+PL PF PD PM RB RF RD RM UI Total
+LEO 2182.3 1.5 0.0 13.7 1318.5 0.2 0.0 7.7 0.0 3523.9
+GEO 2446.2 0.0 0.0 1.0 132.1 0.0 0.0 0.0 0.0 2579.3
+EGO 783.2 0.0 0.0 4.9 358.7 0.0 0.0 0.2 0.0 1147.1
+GTO 129.7 0.0 0.0 1.0 585.8 0.0 0.0 27.4 0.0 744.0
+NSO 354.6 0.0 0.0 0.4 209.5 0.0 0.0 0.0 0.0 564.4
+MEO 70.3 0.0 0.0 0.3 26.8 0.0 0.0 2.0 0.0 99.3
+LMO 64.2 0.0 0.0 8.4 403.6 0.0 0.0 87.7 0.0 563.9
+MGO 89.7 0.0 0.0 1.9 286.5 0.0 0.0 0.0 0.0 378.0
+HEO 68.5 0.0 0.0 0.1 110.7 0.0 0.0 0.0 0.0 179.4
+Other 70.5 0.0 0.0 0.1 5.5 0.0 0.0 0.0 0.0 76.1
+Total 6259.2 1.5 0.0 31.7 3437.7 0.2 0.0 125.1 0.0 9855.5
+Table3.4: Absoluteandequivalentmassintonsintersectingwiththeprotectedregions.
+PL PF PD PM RB RF RD RM UI Total
+both(abs) 38.0 0.0 0.0 1.1 139.6 0.0 0.0 7.3 0.0 185.9
+LEO IADC (abs) 2398.6 1.5 0.0 23.2 2384.5 0.2 0.0 122.8 0.0 4930.9
+LEO IADC (eqv) 2208.4 1.5 0.0 16.2 1393.7 0.2 0.0 18.1 0.0 3638.2
+GEO IADC (abs) 2769.1 0.0 0.0 7.4 571.9 0.0 0.0 7.4 0.0 3355.7
+GEO IADC (eqv) 2528.9 0.0 0.0 2.1 208.0 0.0 0.0 0.4 0.0 2739.4
+none(abs) 1129.4 0.0 0.0 2.2 621.0 0.0 0.0 2.1 0.0 1754.8
+Page53/120
+
+ESAUNCLASSIFIED-ReleasabletothePublic
+Table3.5: Areainm2 orbitingEarth. Objectsofunknownareadonotcontributetothefigurespresented. Other:
+IGO,GHO,HAO,UFO,ESO.
+PL PF PD PM RB RF RD RM UI Total
+LEO 37334.2 0.5 0.0 97.4 10813.2 2.6 0.0 294.5 0.0 48542.4
+GEO 23773.8 0.0 23.6 8.4 1439.2 0.0 0.0 0.0 0.0 25245.0
+EGO 10054.2 0.0 0.0 37.0 3916.9 0.0 0.0 1.3 0.0 14009.4
+GTO 884.9 0.0 0.0 8.9 5981.7 0.0 0.0 866.4 0.0 7741.8
+NSO 3042.1 0.0 0.0 0.8 1850.2 0.0 0.0 0.0 0.0 4893.2
+MEO 929.6 0.0 0.0 11.0 265.5 0.0 0.0 15.3 0.0 1221.3
+LMO 654.0 0.0 0.0 25.1 4620.1 0.0 0.0 1580.9 0.0 6880.1
+MGO 820.1 0.0 0.0 14.5 3036.8 0.0 0.0 0.0 0.0 3871.4
+HEO 826.2 0.0 0.0 0.1 1171.8 0.0 0.0 0.0 0.0 1998.2
+Other 462.3 0.0 0.0 0.5 53.1 0.0 0.0 0.0 0.0 515.9
+Total 78781.4 0.5 23.6 203.8 33148.6 2.6 0.0 2758.4 0.0 114918.9
+Table3.6: Absoluteandequivalentareainm2 intersectingwiththeprotectedregions.
+PL PF PD PM RB RF RD RM UI Total
+both(abs) 286.4 0.0 0.0 8.4 1726.5 0.0 0.0 332.6 0.0 2353.8
+LEO IADC (abs) 39159.3 0.5 0.0 131.5 22297.8 2.6 0.0 2741.8 0.0 64333.4
+LEO IADC (eqv) 37514.2 0.5 0.0 105.5 11657.5 2.6 0.0 490.8 0.0 49771.1
+GEO IADC (abs) 26994.5 0.0 23.6 58.4 6220.6 0.0 0.0 333.2 0.0 33630.3
+GEO IADC (eqv) 24646.0 0.0 23.6 18.0 2270.2 0.0 0.0 20.9 0.0 26978.7
+none(abs) 12914.1 0.0 0.0 22.3 6356.7 0.0 0.0 15.9 0.0 19308.9
+Page54/120
+
+ESAUNCLASSIFIED-ReleasabletothePublic
+3.1. Status of the Environment in LEO
+
+ 
+ 
+0DVV>NJ@
+VWQXR&
+0DVV'LVWULEXWLRQRI3/V,QWHUVHFWLQJ/(2
+IADC
+&URVVLQJ
+5HVLGLQJ
+(a)MasshistogramofpayloadsinLEO.
+
+ 
+ 
+$UHD>P2@
+VWQXR&
+$UHD'LVWULEXWLRQRI3/V,QWHUVHFWLQJ/(2
+IADC
+&URVVLQJ
+5HVLGLQJ
+(b)AreahistogramofpayloadsinLEO.
+Figure3.1: DistributionofmassandareaofpayloadsinLEO.
+Page55/120
+
+ESAUNCLASSIFIED-ReleasabletothePublic
+
+ 
+ 
+0DVV>NJ@
+VWQXR&
+0DVV'LVWULEXWLRQRI5%V,QWHUVHFWLQJ/(2
+IADC
+&URVVLQJ
+5HVLGLQJ
+(a)MasshistogramofrocketbodiesinLEO.
+
+ 
+ 
+$UHD>P2@
+VWQXR&
+$UHD'LVWULEXWLRQRI5%V,QWHUVHFWLQJ/(2
+IADC
+&URVVLQJ
+5HVLGLQJ
+(b)AreahistogramofrocketbodiesinLEO.
+Figure3.2: DistributionofmassandareaofrocketbodiesinLEO.
+Page56/120
+
+ESAUNCLASSIFIED-ReleasabletothePublic
+
+ 
+3HULJHHDOWLWXGHhp>NP@NPELQV
+VQLEJHG@JHG>iQRLWDQLOFQ,
+'LVWULEXWLRQRI2EMHFWVUHVLGLQJLQ/(2
+IADC
+
+ 
+WQXR&
+
+ 
+3HULJHHDOWLWXGHhp>NP@NPELQV
+(a)DistributionofobjectsresidinginLEO.
+VQLEJHG@JHG>iQRLWDQLOFQ,
+'LVWULEXWLRQRI2EMHFWVFURVVLQJ/(2
+IADC
+
+ 
+WQXR&
+(b)DistributionofobjectscrossingLEO.
+Figure3.3: DistributionofnumberofobjectsinLEOasafunctionofinclinationandperigeealtitude.
+
+ 
+3HULJHHDOWLWXGHhp>NP@NPELQV
+VQLEJHG@JHG>iQRLWDQLOFQ,
+0DVV'LVWULEXWLRQRI2EMHFWVUHVLGLQJLQ/(2
+IADC
+
+ 
+@VQRW>VVD0
+
+ 
+3HULJHHDOWLWXGHhp>NP@NPELQV
+(a)MassdistributionofobjectsresidinginLEO.
+VQLEJHG@JHG>iQRLWDQLOFQ,
+0DVV'LVWULEXWLRQRI2EMHFWVFURVVLQJ/(2
+IADC
+
+ 
+@VQRW>VVD0
+(b)MassdistributionofobjectscrossingLEO.
+Figure3.4: DistributionofmassinLEOasafunctionofinclinationandperigeealtitude.
+Page57/120
+
+ESAUNCLASSIFIED-ReleasabletothePublic
+
+ 
+3HULJHHDOWLWXGHhp>NP@NPELQV
+VQLEJHG@JHG>iQRLWDQLOFQ,
+$UHD'LVWULEXWLRQRI2EMHFWVUHVLGLQJLQ/(2
+IADC
+
+@2P>DHU$
+
+ 
+3HULJHHDOWLWXGHhp>NP@NPELQV
+(a)AreadistributionofobjectsresidinginLEO.
+VQLEJHG@JHG>iQRLWDQLOFQ,
+$UHD'LVWULEXWLRQRI2EMHFWVFURVVLQJ/(2
+IADC
+
+@2P>DHU$
+(b)AreadistributionofobjectscrossingLEO.
+Figure3.5: DistributionofareainLEOasafunctionofinclinationandperigeealtitude.
+Page58/120
+
+ESAUNCLASSIFIED-ReleasabletothePublic
+
+ 
+0HDQDOWLWXGH>NP@
+@>VWFHMERIRUHEPX1
+3D\ORDG/DXQFK7UDIILFLQWR h NPLQ
+p
+$PDWHXU
+&LYLO
+&RPPHUFLDO
+'HIHQVH
+
+ 
+0HDQDOWLWXGH>NP@
+@>VWFHMERIRUHEPX1
+$FWLYH3D\ORDGV'LVWULEXWLRQ
+$PDWHXU
+&LYLO
+&RPPHUFLDO
+'HIHQVH
+Figure3.6: Launchtrafficin2021(top)anddistributionofactivepayloads(bottom)inLEO bymeanaltitude.
+IADC
+Page59/120
+
+ESAUNCLASSIFIED-ReleasabletothePublic
+
+ 
+K>NP@
+@JHG>L
+
+@QQRW>VVD0
+Figure3.7: DistributionofactivepayloadsinLEObymeanaltitudeandinclination.
+Page60/120
+
+ESAUNCLASSIFIED-ReleasabletothePublic
+3.2. Status of the Environment in GEO
+
+ 
+ 
+0DVV>NJ@
+VWQXR&
+0DVV'LVWULEXWLRQRI3/V,QWHUVHFWLQJ*(2
+IADC
+&URVVLQJ
+5HVLGLQJ
+(a)MasshistogramofpayloadsinGEO.
+
+ 
+ 
+$UHD>P2@
+VWQXR&
+$UHD'LVWULEXWLRQRI3/V,QWHUVHFWLQJ*(2
+IADC
+&URVVLQJ
+5HVLGLQJ
+(b)AreahistogramofpayloadsinGEO.
+Figure3.8: DistributionofmassandareaofpayloadsinGEO.
+Page61/120
+
+ESAUNCLASSIFIED-ReleasabletothePublic
+
+ 
+ 
+0DVV>NJ@
+VWQXR&
+0DVV'LVWULEXWLRQRI5%V,QWHUVHFWLQJ*(2
+IADC
+&URVVLQJ
+5HVLGLQJ
+(a)MasshistogramofrocketbodiesinGEO.
+
+ 
+ 
+$UHD>P2@
+VWQXR&
+$UHD'LVWULEXWLRQRI5%V,QWHUVHFWLQJ*(2
+IADC
+&URVVLQJ
+5HVLGLQJ
+(b)AreahistogramofrocketbodiesinGEO.
+Figure3.9: DistributionofmassandareaofrocketbodiesinGEO.
+Page62/120
+
+ESAUNCLASSIFIED-ReleasabletothePublic
+3.3. Fragmentations in 2021
+In Table 3.7 all established fragmentation events of the year 2021 are shown. For a description of the event
+categories, please consult Section 5. In case no credible source is available on the amount ofAsserted Objects
+associated with a fragmentation event, it is indicated with None. ThoseAsserted Object are reported by space
+surveillancenetworkswhichcanhavevariabledetectionlimits. Amorein-depthoverviewoftheconsequencesof
+thoseeventscanbeaccessedonline[13].
+Table3.7: Fragmentationeventsin 2021.
+Event Object Mass Catalogued Asserted Event
+Orbit
+epoch type [kg] objects objects cause
+2021-03-10 Payload 1403 113 102 LEO Electrical
+2021-03-18 Payload 800 37 43 LEO Collision
+2021-10-24 Payload 45 22 21 LEO Unknown
+2021-11-15 Payload 1750 1595 1500 LEO Deliberate
+2021-11-18 Payload 42 11 8 LEO Unknown
+2021-11-26 RocketBody 202 13 8 LEO Unknown
+Total 4242 1791 1682
+Page63/120
+
+ESAUNCLASSIFIED-ReleasabletothePublic
+3.4. Changes to the Environment in 2021
+In this section, the change to the environment during 2021 is listed. The last state of the year is used to classify
+theobjectorbit. Ifnostateisavailable,adestinationorbitdefinedbyananalystisusedinstead.
+Table3.8: NumberofnewlyaddedobjectsorbitingEarth. Other: IGO,GHO,HAO,UFO,ESO.
+PL PF PD PM RB RF RD RM UI Total
+LEO 1762 1778 10 15 68 13 1 102 9 3758
+GEO 15 0 0 0 0 0 0 0 4 19
+EGO 4 0 0 0 1 0 0 0 109 114
+GTO 6 0 1 0 13 0 5 3 42 70
+NSO 3 0 0 0 1 0 0 0 1 5
+MEO 0 0 0 0 0 0 0 0 30 30
+LMO 2 0 0 1 5 0 1 1 88 98
+MGO 0 0 0 0 0 0 0 0 88 88
+HEO 8 0 0 0 5 0 0 0 101 114
+Other 1 0 0 0 0 0 0 0 6 7
+N/A 2 0 0 0 2 0 0 0 0 4
+Total 1801 1778 11 16 93 13 7 106 478 4303
+Table3.9: Absoluteandequivalentnumberofnewlyaddedobjectsintersectingwiththeprotectedregions.
+PL PF PD PM RB RF RD RM UI Total
+both(abs) 7 0 1 0 3 0 1 1 24 37
+LEO IADC (abs) 1774 1778 11 16 89 13 7 106 158 3952
+LEO IADC (eqv) 1763 1778 10 15 69 13 1 102 22 3774
+GEO IADC (abs) 29 0 1 0 5 0 1 1 234 271
+GEO IADC (eqv) 16 0 0 0 0 0 0 0 17 33
+none(abs) 5 0 0 0 2 0 0 0 110 117
+Page64/120
+
+ESAUNCLASSIFIED-ReleasabletothePublic
+Table3.10: NewlyaddedmassintonsorbitingEarth. Other: IGO,GHO,HAO,UFO,ESO.
+PL PF PD PM RB RF RD RM UI Total
+LEO 631.5 0.0 0.0 17.4 142.8 0.0 0.0 1.3 0.0 793.1
+GEO 67.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 67.2
+EGO 5.8 0.0 0.0 0.0 2.0 0.0 0.0 0.0 0.0 7.8
+GTO 19.8 0.0 0.0 0.0 37.4 0.0 0.0 0.9 0.0 58.0
+NSO 5.9 0.0 0.0 0.0 1.1 0.0 0.0 0.0 0.0 6.9
+LMO 0.0 0.0 0.0 0.0 15.5 0.0 0.0 1.0 0.0 16.5
+HEO 35.1 0.0 0.0 0.0 15.9 0.0 0.0 0.0 0.0 51.0
+Other 4.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 4.0
+N/A 0.3 0.0 0.0 0.0 2.0 0.0 0.0 0.0 0.0 2.3
+Total 769.3 0.0 0.0 17.4 214.7 0.0 0.0 3.2 0.0 1004.7
+Table3.11: Absoluteandequivalentnewlyaddedmassintonsintersectingwiththeprotectedregions.
+PL PF PD PM RB RF RD RM UI Total
+both(abs) 31.1 0.0 0.0 0.0 11.6 0.0 0.0 0.0 0.0 42.7
+LEO IADC (abs) 672.0 0.0 0.0 17.4 207.3 0.0 0.0 3.2 0.0 900.0
+LEO IADC (eqv) 632.6 0.0 0.0 17.4 146.7 0.0 0.0 1.4 0.0 798.1
+GEO IADC (abs) 122.3 0.0 0.0 0.0 15.9 0.0 0.0 0.0 0.0 138.2
+GEO IADC (eqv) 70.5 0.0 0.0 0.0 0.1 0.0 0.0 0.0 0.0 70.6
+none(abs) 6.2 0.0 0.0 0.0 3.1 0.0 0.0 0.0 0.0 9.2
+Page65/120
+
+ESAUNCLASSIFIED-ReleasabletothePublic
+Table3.12: Newlyaddedareainm2 orbitingEarth. Other: IGO,GHO,HAO,UFO,ESO.
+PL PF PD PM RB RF RD RM UI Total
+LEO 15208.5 0.0 0.0 103.4 975.7 0.0 0.0 26.3 0.0 16313.8
+GEO 442.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 442.3
+EGO 39.2 0.0 0.0 0.0 32.3 0.0 0.0 0.0 0.0 71.5
+GTO 122.7 0.0 0.0 0.0 405.3 0.0 0.0 54.8 0.0 582.8
+NSO 32.1 0.0 0.0 0.0 11.1 0.0 0.0 0.0 0.0 43.1
+LMO 0.2 0.0 0.0 0.0 175.0 0.0 0.0 8.2 0.0 183.4
+HEO 322.1 0.0 0.0 0.0 144.6 0.0 0.0 0.0 0.0 466.7
+Other 39.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 39.6
+N/A 4.1 0.0 0.0 0.0 24.6 0.0 0.0 0.0 0.0 28.7
+Total 16206.7 0.0 0.0 103.4 1743.9 0.0 0.0 89.3 0.0 18143.2
+Table3.13: Absoluteandequivalentnewlyaddedareainm2 intersectingwiththeprotectedregions.
+PL PF PD PM RB RF RD RM UI Total
+both(abs) 265.0 0.0 0.0 0.0 115.1 0.0 0.0 0.0 0.0 380.1
+LEO IADC (abs) 15522.0 0.0 0.0 103.4 1671.1 0.0 0.0 89.3 0.0 17385.8
+LEO IADC (eqv) 15215.9 0.0 0.0 103.4 1018.5 0.0 0.0 29.2 0.0 16367.0
+GEO IADC (abs) 915.5 0.0 0.0 0.0 144.6 0.0 0.0 0.0 0.0 1060.0
+GEO IADC (eqv) 466.1 0.0 0.0 0.0 0.6 0.0 0.0 0.0 0.0 466.7
+none(abs) 34.2 0.0 0.0 0.0 43.3 0.0 0.0 0.0 0.0 77.5
+Page66/120
+
+ESAUNCLASSIFIED-ReleasabletothePublic
+Table3.14: Numberofre-enteredobjects. Other: IGO,GHO,HAO,UFO,ESO.
+PL PF PD PM RB RF RD RM UI Total
+LEO 157 136 10 16 54 60 2 71 1 507
+LMO 0 0 0 0 3 1 1 2 0 7
+HEO 0 0 0 0 1 0 0 0 0 1
+N/A 0 0 0 0 1 0 0 0 0 1
+Total 157 136 10 16 58 61 3 73 1 515
+Table3.15: Re-enteredmassintons. Other: IGO,GHO,HAO,UFO,ESO.
+PL PF PD PM RB RF RD RM UI Total
+LEO 101.5 0.0 0.0 8.9 149.1 0.0 0.0 2.6 0.0 262.1
+LMO 0.0 0.0 0.0 0.0 9.5 0.0 0.0 1.4 0.0 10.9
+HEO 0.0 0.0 0.0 0.0 1.1 0.0 0.0 0.0 0.0 1.1
+N/A 0.0 0.0 0.0 0.0 4.3 0.0 0.0 0.0 0.0 4.3
+Total 101.5 0.0 0.0 8.9 159.6 0.0 0.0 4.1 0.0 274.1
+Table3.16: Re-enteredareainm2. Other: IGO,GHO,HAO,UFO,ESO.
+PL PF PD PM RB RF RD RM UI Total
+LEO 1474.1 0.0 0.0 64.6 1069.6 0.0 0.0 102.4 0.0 2710.8
+LMO 0.0 0.0 0.0 0.0 88.0 0.0 0.0 35.6 0.0 123.6
+HEO 0.0 0.0 0.0 0.0 8.7 0.0 0.0 0.0 0.0 8.7
+N/A 0.0 0.0 0.0 0.0 40.0 0.0 0.0 0.0 0.0 40.0
+Total 1474.1 0.0 0.0 64.6 1166.3 0.0 0.0 138.0 0.0 2843.0
+Page67/120
+
+ESAUNCLASSIFIED-ReleasabletothePublic
+3.5. Conjunction statistics in LEO in 2021
+This section aims to provide an assessment of the short-term risk related to space debris, quantified in terms of
+the number of conjunctions expected in different orbital regions, distinguishing also the type of secondary object
+involved in the conjunction. For the purpose of this report, a conjunction is understood as a geometric close ap-
+proachbetweentwoobjects,irrespectiveoftheiractivitystatus,triggeringanoperatoranalysisbutnotnecessarily
+anavoidancemanoeuvrenorimplyingacollision.
+Thefirststepoftheanalysisistodefinesomerepresentativetarget (orprimary)objectsintheconjunctions. The
+physical characteristics of the objects are derived from the average parameters of active payloads in LEO ,
+IADC
+reported in Fig. 2.25. In particular, a mass value of 355 kg and a cross-sectional area of 6 m2 were used for
+the analysis based on the averages for 2020 and applied also to 2021 considering the consistent trend in the
+propertiesshowninFig.2.25. Forwhatconcernstheorbitalparametersofthetargets,twoapproachesareused
+here. ThefirstsetofrepresentativetargetsisdefinedbylookingatthedistributionofactivepayloadsinLEO
+IADC
+insemi-majoraxisandinclinationasshowninFig.3.7,andatotalofseventargetsweredefinedforthisanalysis.
+The second approach is to define a set of targets in the Sun-Synchronous region; in particular, seven targets
+are defined to cover the region between 400 and 1000 km in altitude. In both cases, twelve values of the initial
+longitudeofascendingnodesareconsideredandtheresultspresentedinthefollowingarethemeanacrossthe
+simulatedcasesforeachtarget.
+In both cases, the trajectory of the targets is propagated for one year (from 1st to 31st )andforeachdayoftheyearananalysisisruntodetectpotentialconjunctionswithcataloguedobjects,by
+usingESACRASS(CollisionRiskASsessmentSoftware)[14]. Fortheanalysisshownhere,GeneralPerturbations
+(GP) data is retrieved to define the orbits of the secondary objects involved in the conjunctions [15]. The data in
+DISCOSisusedtofurthercharacterisethesecondaryobject,forexampleintermsofitssizeanditscategory. In
+additiontotheobjectcategoriesdefinedinSection1.1,thefollowingsubcategoriesareintroduced:
+• Payloadsisfurtherdistinguishedin:
+– Constellationobjects,payloadsbelongingtoaconstellation,
+– Smallsatellites,payloadswithamasssmallerthan15kg,
+– OtherPayloads,alltheotherpayloads.
+• Payloadfragmentationdebris,foursubcategoriesweredefinedtocollectobjectsbelongingtothefragmen-
+tationeventswiththehighestnumberofcataloguedobjects.
+– Fengyun1CFragmentationDebris,objectsgeneratedbythefragmentationofFengyun1C(1999-25A),
+withmass958.0,onthe11/01/2007atanaltitudebetween843.3and863.3kmandinclinationof98.6
+degrees.
+– Cosmos-2251 Fragmentation Debris, objects generated by the fragmentation of Cosmos-2251 (1993-
+36A),withmass892.0,onthe10/02/2009atanaltitudebetween776.1and791.1kmandinclinationof
+86.4degrees.
+– Iridium 33 Fragmentation Debris, objects generated by the fragmentation of Iridium 33 (1997-51C),
+withmass661.0,onthe10/02/2009atanaltitudebetween776.2and779.4kmandinclinationof86.4
+degrees.
+– Cosmos-1408 Fragmentation Debris, objects generated by the fragmentation of Cosmos-1408 (1982-
+92A),withmass2180.4,onthe15/11/2021atanaltitudebetween465.0and490.5kmandinclination
+of82.6degrees.
+Page68/120
+
+ESAUNCLASSIFIED-ReleasabletothePublic
+– OtherPayloadfragmentationdebris,alltheotherpayloadfragmentationdebris.
+• Rocketfragmentationdebris,foursubcategoriesweredefinedtocollectobjectsbelongingtothefragmenta-
+tioneventswiththehighestnumberofcataloguedobjects.
+– Centaur-5SECFragmentationDebris,objectsgeneratedbythefragmentationofCentaur-5SEC(2018-
+79B),withmass2020.0,onthe06/04/2019atanaltitudebetween8526.3and35092.8kmandinclina-
+tionof12.0degrees.
+– HAPSFragmentationDebris,objectsgeneratedbythefragmentationofHAPS(1994-29B),withmass
+96.1,onthe03/06/1996atanaltitudebetween584.1and818.9kmandinclinationof82.0degrees.
+– Centaur-5SECFragmentationDebris,objectsgeneratedbythefragmentationofCentaur-5SEC(2009-
+47B),withmass2020.0,onthe25/03/2019atanaltitudebetween6673.4and34706.6kmandinclina-
+tionof23.3degrees.
+– OtherRocketfragmentationdebris,alltheotherrocketfragmentationdebris.
+AdditionalinformationonthefragmentationeventscanbefoundinESAFragmentationDatabase[13].
+For each conjunction, the encounter geometry (i.e. the relative orientation of the orbits and time of closest ap-
+proach)isretrievedfromCRASS,whereasthecomputationofthecollisionprobabilityisperformedusingAlfriend-
+Akella’smethod[16]. Thevaluesofpositionaluncertaintyrequiredforthecollisionprobabilitycalculationareob-
+tainedwiththemethodologyin[17],wherethecovarianceforanobjectisdependentonitssize,orbit(i.e. perigee
+altitude,eccentricity,inclination)andtimebetweentheassessmentandtheTimeofCloseApproach(TCA).
+Intheresultsinthefollowing,theconjunctionsaregroupedinevents,whereaneventisdefinedbyapairofprimary
+and secondary object and a given TCA. The number of conjunction events with collision probability above 10−6
+within three days to TCAis shown in Fig. 3.10 and Fig. 3.11, which refer, respectively, to targets defined based
+onthedistributionofpayloadobjectsandtotargetsdefinedalongtheSun-Synchronousregion. Thethresholdat
+10−6 isusuallywellbelowthereactionthresholdforpayloadsinLEO (i.e. theeventsinFig.3.10andFig.3.11
+IADC
+willnotallresultsincollisionavoidancemanoeuvres),butthisthresholdcouldbealreadyrepresentativeofevents
+whereincreasedmonitoringoftheconjunctionisactivated.
+Inadditiontotheyearlystatistics, theanalysishasbeensystematicallyrepeatedyearlysince2015. Thisshows,
+particularly in the lower LEO regime, the increase of conjunction events that require coordination between
+IADC
+active operators due to the change in space traffic, whereas higher orbits remain dominated by space debris
+relatedevents.
+Page69/120
+
+ESAUNCLASSIFIED-ReleasabletothePublic
+
+K NP K NP K NP K NP K NP K NP K NP
+L  L  L  L  L  L  L 
+VWQHYHQRLWFQXMQRFIRUHEPX1
+8QNQRZQ
+5RFNHW'HEULV
+5RFNHW0LVVLRQ5HODWHG2EMHFW
++$36)UDJPHQWDWLRQ'HEULV
+2WKHU5RFNHW)UDJPHQWDWLRQ'HEULV
+5RFNHW%RG\
+3D\ORDG'HEULV
+3D\ORDG0LVVLRQ5HODWHG2EMHFW
+)HQJ\XQ&)UDJPHQWDWLRQ'HEULV
+&RVPRV)UDJPHQWDWLRQ'HEULV
+&RVPRV)UDJPHQWDWLRQ'HEULV
+,ULGLXP)UDJPHQWDWLRQ'HEULV
+2WKHU3D\ORDG)UDJPHQWDWLRQ'HEULV
+&RQVWHOODWLRQV
+6PDOOVDWHOOLWHV
+2WKHU3D\ORDG
+Figure3.10: Conjunctionevents,andcorrespondingchaserclassification,forasetofrepresentativetargetsover
+2021.
+
+K NP K NP K NP K NP K NP K NP K NP
+L  L  L  L  L  L  L 
+VWQHYHQRLWFQXMQRFIRUHEPX1
+8QNQRZQ
+5RFNHW'HEULV
+5RFNHW0LVVLRQ5HODWHG2EMHFW
++$36)UDJPHQWDWLRQ'HEULV
++)UDJPHQWDWLRQ'HEULV
+2WKHU5RFNHW)UDJPHQWDWLRQ'HEULV
+5RFNHW%RG\
+3D\ORDG'HEULV
+3D\ORDG0LVVLRQ5HODWHG2EMHFW
+)HQJ\XQ&)UDJPHQWDWLRQ'HEULV
+&RVPRV)UDJPHQWDWLRQ'HEULV
+&RVPRV)UDJPHQWDWLRQ'HEULV
+,ULGLXP)UDJPHQWDWLRQ'HEULV
+2WKHU3D\ORDG)UDJPHQWDWLRQ'HEULV
+&RQVWHOODWLRQV
+6PDOOVDWHOOLWHV
+2WKHU3D\ORDG
+Figure3.11: Conjunctionevents,andchaserclassification,forasetofrepresentativetargetsinSun-synchronous
+orbitsover2021.
+Page70/120
+
+ESAUNCLASSIFIED-ReleasabletothePublic
+K NPL 
+8QNQRZQ
+ 5RFNHW'HEULV
+5RFNHW0LVVLRQ5HODWHG2EMHFW
++$36)UDJPHQWDWLRQ'HEULV
++)UDJPHQWDWLRQ'HEULV
+ 2WKHU5RFNHW)UDJPHQWDWLRQ'HEULV
+5RFNHW%RG\
+K NPL 
+3D\ORDG'HEULV
+ 3D\ORDG0LVVLRQ5HODWHG2EMHFW
+)HQJ\XQ&)UDJPHQWDWLRQ'HEULV
+&RVPRV)UDJPHQWDWLRQ'HEULV
+&RVPRV)UDJPHQWDWLRQ'HEULV
+
+,ULGLXP)UDJPHQWDWLRQ'HEULV
+K NPL  2WKHU3D\ORDG)UDJPHQWDWLRQ'HEULV
+&RQVWHOODWLRQV
+
+6PDOOVDWHOOLWHV
+2WKHU3D\ORDG
+
+VWQHYHQRLWFQXMQRFIRUHEPX1
+K NPL 
+K NPL 
+
+K NPL 
+
+K NPL 
+
+ 
+Figure3.12: Conjunctionevents,andchaserclassification,forasetofrepresentativetargetsinSun-synchronous
+orbitsovermultipleyears.
+Page71/120
+
+ESAUNCLASSIFIED-ReleasabletothePublic
+4. INTENTIONAL OBJECT RELEASE
+A major part of the space debris mitigation measures are dedicated to the avoidance of intentionally releasing
+spacedebrisaspartofthemissionofarocketbodyorpayload. Thistypeofmissionrelatedobjectscangenerally
+be sub-categorised into functional parts that are designed to be released after they are no longer required, e.g.
+covers protecting instruments during launch, or combustion related products that support the main mission, e.g.
+slag from solid rocket motors, or pyrotechnics. Objects from both subcategories can generally be avoided by
+designchangesontherocketbodiesorpayloads. Forexample,cameracoverscanbeopenedandfoldedaway
+instead, or pyrotechnically expelled and solid rocket motor slag can be avoided by using on-board chemical or
+electrical propulsion systems. Small, i.e. sub millimetre, combustion related particles do contribute to the space
+debrisenvironmentbutarenotconsideredathreat. Mostpyrotechnicdevicesfallunderthiscase.
+Inthissection,theevolutionintermsofoccurrenceofthistypeofspacedebrisisillustrated.
+4.1. Mission Related Objects
+As metric for the adherence to space debris mitigations guidelines, the release of catalogued mission related
+objectscan be used. For every single payload and rocket body, the amount of released and catalogued mission
+related objects are counted. Furthermore, the fraction of payloads and rocket bodies releasing mission related
+objectstothetotalamountofpayloadsandrocketbodieslaunchedingivenyearispresented.
+
+ 
+/DXQFK<HDU
+WQXR&
+7RWDO3D\ORDG0LVVLRQ5HODWHG2EMHFWV
+&RXQW
+0DVV 
+
+@VQRW>VVD0
+Figure4.1: Totalnumberandmassofcataloguedmissionrelatedobjectsreleasedfrompayloads.
+Page72/120
+
+ESAUNCLASSIFIED-ReleasabletothePublic
+
+ 
+/DXQFK<HDU
+WQXR&
+7RWDO5RFNHW0LVVLRQ5HODWHG2EMHFWV
+&RXQW
+0DVV
+
+@VQRW>VVD0
+Figure4.2: Totalnumberandmassofcataloguedmissionrelatedobjectsreleasedfromrocketbodies.
+
+ 
+/DXQFK<HDU
+@>QRLWFDU)
+)UDFWLRQRI0525HOHDVH(YHQWVE\6RXUFH
+3D\ORDGV
+5RFNHWV
+Figure 4.3: Fraction of mission related objects releases per year w.r.t. the total amount of payloads and rocket
+bodiesinjectedintothespaceenvironmentduringthatyear.
+Page73/120
+
+ESAUNCLASSIFIED-ReleasabletothePublic
+4.2. Solid Rocket Motor Firings
+As a metric of the adherence to space debris mitigations guidelines the amount of solid rocket motor firings for
+asserted objects can be used. The propellant mass associated with each firing is given versus the date of the
+firing. Not all solid rocket motor firings are equally damaging for the space environment, i.e. solid rocket motor
+fuelswhichdonotcreatelargeslagparticleshavebeendeveloped. However, suchanidentificationisnotmade
+inthissection.
+
+ 
+(SRFK
+@JN>VVDPWQDOOHSRU3
+Figure4.4: Evolutionsolidrocketmotorfirings.
+
+ 
+<HDU
+VJQLULIIRUHEPX1
+/(2
+,*2
+*72
+*+2
+/02
+0*2
++(2
+2WKHU
+Figure4.5: Evolutionsolidrocketmotorfiringsbyorbittype.
+Page74/120
+
+ESAUNCLASSIFIED-ReleasabletothePublic
+5. FRAGMENTATION HISTORY
+Sincethebeginningofthespaceageuntiltheendof2021,therehavebeen636confirmedon-orbitfragmentation
+events. InFigure5.2,thehistoricaltrendoftheamountoffragmentationeventsperyearisshown,asafunction
+oftheeventdateandthelaunchdate,respectively. Fragmentationeventsarecurrentlybeingcategorisedinmain
+andsub-classesaccordingtotheassessedbreak-upcause. Inthefirstlistofclasses,thebreak-upcauseisfairly
+wellknown:
+Accidental: Subsystemsthatshoweddesignflawsultimatelyleadingtobreakupsinsomecases. Thisincludes,
+forexample,thebreakupofHitomi(Astro-H)in2016orthesub-classofOkosatellites.
+Cosmos862Class(ExplosiveCharge): TheOkomissileearlywarningsatelliteswerelaunchedintoMol-
+niya orbits. Each satellite carried an explosive charge in order to destroy it in case of a malfunction.
+Reportedly,thecontrolofthismechanismwasunreliable.
+Aerodynamics: Abreakupmostoftencausedbyanoverpressureduetoatmosphericdrag.
+Collision: There have been several collisions observed between objects. A sub-class are so-called small im-
+pactors.
+SmallImpactor: Causedbyacollision,butwithoutexplicitevidenceforanimpactor. Changesintheangular
+momentum,attitudeandsubsystemfailuresare,however,indirectindicationsofanimpact.
+Deliberate: Allintentionalbreakupevents.
+ASAT: Anti-satellitetests.
+Cosmos2031Class: TheOrletsreconnaissancesatelliteswereintroducedin1989andemployeddetona-
+tionasastandardprocedureafterthenominalmission.
+PayloadRecoveryFailure: Some satellites were designed such that they exploded as soon as a non-
+nominalre-entrywasdetected.
+RORSATReactorCoreEjectionClass: Between1980and1988,theSovietUnionre-orbitedtheirRadar
+OceanReconnaissanceSatellites(RORSAT)afterasuccessfulmissiontoasufficientlyhighorbitaround
+900kmaltitude. Themanoeuvrewasfollowedbyareactorcoreejection,whichresultedinanopeningof
+theprimarycoolantloop(Sodium-PotassiumorNaKalloy)andanassociatedreleaseofNaKdroplets.
+Electrical: Most of the events in this category occurred due to an overcharging and subsequent explosion of
+batteries. Asub-classisdefinedbasedonthesatellitebus.
+Battery: Battery-relatedexplosionsmayoccurduetoover-charging,over-temperature,short-circuits,over-
+discharging,structuralissuesordamage,ineachcasesleadingtoathermalrun-awayandsubsequent
+breakup.
+DMSP/NOAAClass: Based on the Television and InfraRed Observation Satellite (TIROS-N) satellite bus,
+someofthesatellitesinthisseriessufferedfrombatteryexplosions.
+Propulsion: Stored energy for non-passivated propulsion-related subsystems might lead to an explosion, for
+example due to thermal stress. Several sub-classes are defined for rocket stages that showed repeated
+breakupevents.
+ArianeUpperStage: Breakups for the H8 and H10 cryogenic stages were observed, most likely due to
+overpressureandsubsequentbulkheadrupture. Passivationwasintroducedin1990.
+Page75/120
+
+ESAUNCLASSIFIED-ReleasabletothePublic
+Briz-M: ThefourthstageoftheProtonrocketwhichisusedtoinsertsatellitesintohigherorbits.
+DeltaUpperStage: There were several events for Delta second stages due to residual propellants until
+depletionburnswereintroducedin1981.
+ProtonUllageMotor: TheBlokD/DMupperstagesoftheProtonrocketusedtwoullagemotorstosupport
+themainengine. Theywerereleasedasthemainengineperformeditsfinalburn.
+TitanTranstage: TheupperstageoftheTitan3Arocketusedahypergolicfueloxidizercombination.
+TsyklonUpperStage: The third stage of theTsyklon-3 launcher used a hypergolic fuel oxidizer combina-
+tion.
+Zenit-2UpperStage: ThesecondstageoftheZenit2launcherusedanRP-1/Liquidoxygenpropellant.
+Asecondlistofclassesrelatestobreak-upswherethecausehasnotbeenwellestablished. Eventsorsub-classes
+withintheseclassescouldbereclassifiedinthefuture:
+Anomalous: Definedastheunplannedseparation,usuallyatlowvelocity,ofoneormoredetectableobjectsfroma
+satellitethatremainsessentiallyintact. Thismayincludedebrissheddingduetomaterialdeterioration,which
+includesinsulationmaterialorsolarpanelsallofwhichhavebeenobservedfromgroundinthepast. Events
+withsufficientevidenceforanimpactofdebrisormicrometeroidsareclassifiedunderSmallImpactor. Sub-
+classesforanomalouseventsaredefined, assoonaseventsoccur multipletimesforthesamespacecraft
+orbustype.
+Cosmos-3Class: Soviet/Russianlauncherforsmallsatellites.
+Delta4Class: EventswithseveralcataloguedobjectsfortheDeltaCryogenicSecondStages(DCSS).
+ERS/SPOTClass: BoththeERS-1and-2satellites,aswellastheSPOT-4satellitehadconfirmedanoma-
+liesandfragmentswerecatalogued.
+MeteorClass: Russianmeteorologicalsatellitefamily.
+ScoutClass: ReferstotheAltairupperstageoftheScoutrocketfamily.
+TOPAZLeakageClass: TherearetwoknowneventsforTOPAZsatelliteswhereNaKdropletshavebeen
+observedinthevicinityoftheparentobjectpresumablyduetoleakage[18].
+TransitClass: Satellites of the U.S. Navy’s first satellite navigation system operational between 1964 and
+1996.
+VostokClass: ReferstotheupperstageoftheVostokrocket(BlokE).
+Assumed: IntroducedfortheMASTERmodel. CurrentlytheonlyassumedeventsareintheGEOregion,backed
+byinformationobtainedduringsurveycampaigns[19].
+Unconfirmed: Aprovisionalstatusuntilaneventisconfirmedandclassifiedaccordingly.
+Unknown: Isassignedwheneverthereislackingevidencetosupportamorespecificclassification.
+Cosmos699Class(EORSAT): For many of the ELINT Ocean Reconnaissance Satellites (EORSAT) a
+breakupwasobservedduringtheorbitaldecay.
+H-IIAClass: ThesecondstageoftheH-IIAlauncherusedacryogenicpropellant.
+L-14BClass: ThethirdstageoftheLongMarch4B(CZ-4B)launcherusedahypergolicpropellant.
+Page76/120
+
+ESAUNCLASSIFIED-ReleasabletothePublic
+5.1. All fragmentation events
+Asummary of the statistics on the recorded fragmentation events is reported in Table 5.1, whereAssumed and
+Unconfirmed were excluded from the aggregation. Abreakdown of the observed fragmentation events grouped
+by the main classes in terms of frequency and resulting catalogued debris is given in Figure 5.3 and Figure 5.4,
+respectively.
+Table5.1: Statisticsonfragmentationevents.
+Allhistory Last20years
+Numberofevents 636 246
+Non-deliberateeventsperyear 9.5 11.7
+Yearlyrateofeventswhere50%ofthegenerated 2.8 2.6
+fragmentshavealifetimeofgreaterthan10years
+Yearlyrateofeventswhere50%ofthegenerated 1.9 1.7
+fragmentshavealifetimeofgreaterthan25years
+Meantime(years)betweenlaunchandfragmen- 5.5 10.2
+tation
+Median time (years) between launch and frag- 1.0 6.8
+mentation
+Page77/120
+
+ESAUNCLASSIFIED-ReleasabletothePublic
+8QNQRZQ 3URSXOVLRQ $QRPDORXV 'HOLEHUDWH
+$HURG\QDPLFV (OHFWULFDO $FFLGHQWDO 6PDOO,PSDFWRU
+&ROOLVLRQ
+(a)Wholehistory.
+3URSXOVLRQ 8QNQRZQ $QRPDORXV 6PDOO,PSDFWRU
+(OHFWULFDO $HURG\QDPLFV $FFLGHQWDO 'HOLEHUDWH
+&ROOLVLRQ
+(b)Last10years.
+Figure5.1: Eventcausesandtheirrelativeshareforallpastfragmentationevents.
+Page78/120
+
+ESAUNCLASSIFIED-ReleasabletothePublic
+
+ 
+(YHQW<HDU
+UHEPX1
+1XPEHU)UDJPHQWDWLRQ(YHQWVSHU(YHQW<HDU
+(a)Numberoffragmentationeventspereventyear.
+
+ 
+/DXQFK<HDU
+UHEPX1
+1XPEHU)UDJPHQWDWLRQ(YHQWVSHU/DXQFK<HDU
+(b)Numberoffragmentationeventsperlaunchyear.
+
+ 
+/DXQFK<HDU
+KFQXDOUHSVWQHYHIRUHEPX1
+1RUPDOLVHG1XPEHU)UDJPHQWDWLRQ(YHQWVSHU/DXQFK<HDU
+(c)Numberoffragmentationeventsperlaunchyearnormalisedbythenumberoflaunchesinthatyear.
+Figure5.2: Historicaltrendoffragmentationevents.
+Page79/120
+
+ESAUNCLASSIFIED-ReleasabletothePublic
+
+ 
+(YHQW<HDU\HDUELQV
+UHEPX1
+1XPEHU)UDJPHQWDWLRQ(YHQWV
+8QNQRZQ
+&ROOLVLRQ
+$FFLGHQWDO
+(OHFWULFDO
+$HURG\QDPLFV
+'HOLEHUDWH
+$QRPDORXV
+3URSXOVLRQ
+(a)Absolutenumberoffragmentationeventspereventcause.
+
+ 
+(YHQW<HDU\HDUELQV
+HUDK6
+1XPEHU)UDJPHQWDWLRQ(YHQWV
+8QNQRZQ
+&ROOLVLRQ
+$FFLGHQWDO
+(OHFWULFDO
+$HURG\QDPLFV
+'HOLEHUDWH
+$QRPDORXV
+3URSXOVLRQ
+(b)Relativenumberoffragmentationeventspereventcause.
+Figure5.3: Historicaltrendoffragmentationeventspereventcause.
+Page80/120
+
+ESAUNCLASSIFIED-ReleasabletothePublic
+
+ 
+(YHQW<HDU\HDUELQV
+UHEPX1
+5HVXOWLQJ)UDJPHQWVIURP(YHQWV
+8QNQRZQ
+&ROOLVLRQ
+$FFLGHQWDO
+(OHFWULFDO
+$HURG\QDPLFV
+'HOLEHUDWH
+$QRPDORXV
+3URSXOVLRQ
+(a)Absolutenumberofresultingfragmentspereventcause.
+
+ 
+(YHQW<HDU\HDUELQV
+HUDK6
+5HVXOWLQJ)UDJPHQWVIURP(YHQWV
+8QNQRZQ
+&ROOLVLRQ
+$FFLGHQWDO
+(OHFWULFDO
+$HURG\QDPLFV
+'HOLEHUDWH
+$QRPDORXV
+3URSXOVLRQ
+(b)Relativenumberofresultingfragmentspereventcause.
+Figure5.4: Historicaltrendofnumbersoffragmentsproducedbyfragmentationevents.
+Page81/120
+
+ESAUNCLASSIFIED-ReleasabletothePublic
+8QNQRZQ
+&RVPRV
++,,$
+/%
+$FFLGHQWDO
+&RVPRV
+3URSXOVLRQ
+'HOWD8SSHU6WDJH
+3URWRQ8OODJH0RWRU
+7LWDQ7UDQVWDJH
+%UL]0
+$ULDQH8SSHU6WDJH
+7V\NORQ8SSHU6WDJH
+=HQLW8SSHU6WDJH
+%DWWHU\
+'06312$$
+$HURG\QDPLFV
+$QRPDORXV
+7UDQVLW
+6FRXW
+0HWHRU
+9RVWRN
+(566327
+'HOWD
+723$=/HDNDJH
+&RVPRV
+&DWHJRU\
+
+ 
+7LPHVLQFHODXQFK>\HDUV@
+
+*HQHUDWHGIUDJPHQWV
+Figure 5.5: Elapsed time between fragmentation and launch by category. The bubble size indicates the number
+ofgeneratedfragments.
+Page82/120
+
+ESAUNCLASSIFIED-ReleasabletothePublic
+QRLVLOOR& URWFDSP,OODP6
+
+&DWHJRU\
+@VUDH\>KFQXDOHFQLVHPL7
+*HQHUDWHGIUDJPHQWV
+ 
+Figure 5.6: Elapsed time between fragmentation and launch for collision events. The bubble size indicates the
+numberofgeneratedfragments.
+HWDUHELOH' 7$6$ HUXOLD)\UHYRFH5GDRO\D3 7$6525 VRPVR&
+
+&DWHJRU\
+@VUDH\>KFQXDOHFQLVHPL7
+*HQHUDWHGIUDJPHQWV
+ 
+Figure5.7: Elapsedtimebetweenfragmentationandlaunchfordeliberateevents. Thebubblesizeindicatesthe
+numberofgeneratedfragments.
+Page83/120
+
+ESAUNCLASSIFIED-ReleasabletothePublic
+
+ 
+7LPHWREUHDNXS>\HDUV@
+@>\WLOLEDERU3
+&XWRII\HDU
+1RQH
+
+Figure5.8: Cumulativedistributionfunction(CDF)fortheelapsedtimebetweenfragmentationandlaunchfornon-
+systemrelatedfragmentationevents,withdifferentcut-offvaluesonthelaunchyear.
+5.2. Non-system related fragmentation events
+Asalsodescribedwhenintroducingtheclassesforfragmentationevents,notalleventsaresimilarinnatureand
+hencethe consequenceson theenvironment andfor mitigationmeasures canvary. In particular, events caused
+byatechnicalflawinthedesignofa(sub-)systemthatisre-usedformanyRocketBodiesorPayloadplatforms,
+so-called system related events as for battery-related classes, are not representative for the space environment
+as a whole and need targeted counter measures, e.g. it as was done for certain launch vehicle related classes.
+Tounderstandthelikelihoodoffragmentationeventsoccurringintheenvironmentassinglestochasticevents,i.e.
+a background risk for any intact space object, it is instructive to analyses the non-system related fragmentation
+events in isolation. In this sense, we can group the data from the fragmentation classes Unknown, Accidental,
+Propulsion,Electrical,Battery,excludingtheirsub-classes.
+Arelationbetweenthetimetoafragmentationeventandthelaunchepochcanbeobservedfornon-systemrelated
+classes in Fig. 5.8. Acausal relationship with the orbital region in which these object resided at the time of the
+fragmentationeventcouldnotbederived,asshowninFig.5.9. Thederivedstatisticsforthenon-systemrelated
+fragmentationsaresignificantlylowerthanthosefortheentirepopulationasobservedintheprevioussub-section,
+and reported inTable 5.2. Based on the recent trend analysis, a value of 18 years is adopted as time limit after
+whichtheexplosionprobabilityforarecentlylaunchedspaceobject,duetonon-systematicdesignflaws,canbe
+consideredaseffectively0.
+Page84/120
+
+ESAUNCLASSIFIED-ReleasabletothePublic
+
+ 
+0HDQDOWLWXGH>NP@
+@JHG>QRLWDQLOFQ,
+
+&ODVV
+
+$FFLGHQWDO
+3URSXOVLRQ
+
+8QNQRZQ
+
+WQHYHRWVUDH<
+Figure5.9: Distributionofnon-systemrelatedfragmentationeventsinmeanaltitude,inclination,andtimetofrag-
+mentation.
+Table5.2: Statisticsonnon-systemrelatedfragmentationevents.
+Allhistory Last18years
+Numberofevents 164 44
+Non-deliberateeventsperyear 2.6 2.3
+Yearlyrateofeventswhere50%ofthegenerated 0.7 0.4
+fragmentshavealifetimeofgreaterthan10years
+Yearlyrateofeventswhere50%ofthegenerated 0.5 0.3
+fragmentshavealifetimeofgreaterthan25years
+Meantime(years)betweenlaunchandfragmen- 5.3 9.7
+tation
+Median time (years) between launch and frag- 1.2 4.0
+mentation
+Page85/120
+
+ESAUNCLASSIFIED-ReleasabletothePublic
+6. END-OF-LIFE OPERATIONS HISTORY
+Postmissiondisposalmitigationmeasuresarespecificallyaimedatreducingthelongterminterferenceanobject
+in the space environment could have on the two protected regions, LEO and GEO . These mitigation
+IADC IADC
+measuresareassociatedwithtimecriteria,i.e. socalledorbitallifetimesorclearanceoforbitalregions,andhence
+requireevaluatingthelongtermevolutionoforbits. Forbothprotectedregions,differentmitigationmeasuresimply
+differentend-oflifeoperations. ThereportedyearsforpayloadclearanceofLEO goesupto2020, forrocket
+IADC
+bodyclearanceofLEO goesupto2021,andforpayloadclearanceofGEO goesupto2021.
+IADC IADC
+6.1. End-Of-Life Operations in Low Earth Orbit
+Due to the presence of atmospheric drag in the lower levels of the LEO region, a natural cleansing of space
+debris from these regions occurs. Apayload or rocket body operating in the LEO Protected region, with either a
+permanentorperiodicpresence,shalllimititspost-missionpresenceintheLEOProtectedregiontoamaximum
+of25yearsfromtheendofmission[6]. Thislimitbyitselfwillnotleadtoalong-termreductionsintheamountof
+spacedebris,aswillbeshowinSection7.2,butisanimportantsteptowardslimitingthespacedebrisgrowthrate
+in LEO [2]. The mitigation measure itself, i.e. the so-called 25-year rule, does not indicate how it has to be
+IADC
+achieved,butvariousstandardsprovideanorderofpreferenceforvariousmethodologies,i.e. controlledre-entry,
+acceleratednaturalorbitaldecay,etc.
+For catalogued objects, the orbital activity of a payload or rocket body can be derived and the orbital lifetime
+estimated. Thismethodispreferredoverdirectinvestigation,intelligence,ofcommunicationwiththeownersofa
+payloadorarocketbody, whichcouldincreasetheaccuracyoftheprediction, butitmightbeunbalancedasthe
+request for such data might not be answered nor can all owners be clearly identified and approached. As some
+rocket bodies have been found to perform direct re-entries before they can be considered catalogued objects,
+additional asserted objects are used as to make sure that such positive cases are correctly considered in the
+resultingstatistics. ThemethodologytodeterminetheendoftheoperationalphaseofanobjectinLEOemployed
+hereisdescribedindepthin[20].
+Forsatelliteswithoutorbitcontrolcapacity(OCC),i.e. nopropulsionsystem,orforsatellitesthatneverexhibited
+any orbit manoeuvre otherwise, the assessment of the mission end is not possible from orbit information alone.
+Therefore,astatisticalapproachispursuedforthoseobjects. Thesourceofthestatisticsformissionlifetimesare
+themeasurablemissionswithorbitcontrolcapacity. Observedmissionlifetimesareprocessedintohistogramsby
+missioncategory,e.g. science,communications,military,etc. Theyarethenappliedtogeneratemissionslifetime
+estimationsfortheobjectswithoutorbitcontrolcapacityofthesamecategory.
+The boundaries between having an orbital control capacity or not is not always clearly defined by the underlying
+technology. Thisisbecausetheeffectsobservedbythespacesurveillancesystemmaynotbereliablydiscerned
+inallcases. Impulsivemanoeuvres,multi-revolutionsuseofelectricalpropulsion,andlargedragsaildeployments
+arereliablypickedupandhenceobjectsexhibitingthosefeaturesarecategorisedashavingOCC.
+Ontheotherhand,smallerorbitalchanges,suchasdragsailing,wherethechangeinballisticcoefficientissmaller
+than the error margin or the orbit determination capacity of the space surveillance system, are not picked up.
+However,themostimportantmetricw.r.t. theimplementationistoremoveanobjectfromLEO within25years,
+IADC
+orshortlythereafter,whichismeasuredindependentlyoftheOCCcategorisation.
+Inordertoestimatetheorbitallifetimeofanobjectafterreachingitsendoflife,thegeneralprocessesaslaidoutin
+standard[10]arefollowed. Toapplytheseprocessestoallcataloguedobjects,aBallisticCoefficient(BC)needs
+to be estimated for each of them. The BC estimation is based on least root-mean-square orbit fitting during the
+longest periods free from estimated manoeuvres, generally after end of life is reached in case of OCC classified
+Page86/120
+
+ESAUNCLASSIFIED-ReleasabletothePublic
+objects. In case this can’t be achieved, the BC is defined based in the available physical properties in DISCOS.
+TheestimatedBCisusedtoextrapolatethelastrecordedorbitalstatein2021untilre-entryincombinationwitha
+longtermspaceweatherforecast[21]. TheusedvaluesandobtainedresultsarestoredinDISCOSanddistributed
+onrequest[7]. Theprocessitselfissubjecttoasignificantamountofstochasticassumptionswhicharedescribed
+in [22]. Hence, the reported orbital lifetimes are procedurally defined and need to be understood as a current
+best-estimatethatcanvarybetweendifferentversionsofthisreport,asdiscussedinSection6.1.3.
+Incaseofpayloadobjects,atleastonecalendaryearwithoutorbitcontrolactionsneedstopassforanobjecttobe
+classifiedasreachingend-of-lifeunlessitperformsacontrolledre-entry. Thisisdonetomitigatetheimplicationsof
+thedetectionalgorithmdescribedabove,andtoavoidapotentiallylargeamountofreclassificationsinsubsequent
+editions of this report as some operators implement less frequent actions near the end-of-life. In practice, this
+meansthatthereportedyearsforthepayloadclearanceofLEO goesupto2020insteadof2021.
+IADC
+It is important to note that for this report, where conformance to a time-limitation guidelines is to be evaluated,
+the categorisation of each object becomes fixed after 25 years. Unpredicted events, such as increased solar
+activities or missions which actively remove large pieces of space debris, will thus be accounted for only when
+theymaterialise.
+RelocationsfromLEO intoorbitswithaperigeealtitudeabove2000kilometresarenolongerviableend-of-life
+IADC
+debris mitigation practices [6]. While such relocations where relatively rare for Payload objects and only a minor
+historicalentryinthedatasetofthissection,theyhavebeenmorecommonlyusedtoraisetheperigeeofRocket
+Bodieswhen,e.g. eccentricdestinationorbitssuchasGTOweretargeted.
+Humanspaceflight(HS)relatedmissionsareanalysedseparately,astheyskewresultsintermsofmassandcount
+affected. These missions include crew vehicles as well as cargo payloads, but not the rocket bodies that bring
+themintoorbit. Throughoutthissection,StageisusedassynonymforRocketBody. Theend-of-lifebehaviourof
+spaceobjectscanbecategorisedinsevenbehaviouralclassestoillustratedisposalsuccessrates:
+• NCWO: (Not Compliant WithOut attempt) the 25-year rule is not met by the mission orbit and no disposal
+actionhasbeentaken;
+• NCWFB:(NotCompliantWithattemptFalseBefore)the25-yearruleisnotmetbythemissionorbit,adisposal
+actionhasbeenattemptedbutitwasunsuccessfulorinsufficient;
+• NCWTB: (Not Compliant With attempt True Before) the 25-year rule was met by the initial mission orbit, a
+disposalactionhasbeenattemptedbutitwasunsuccessfulorthemissionorbitwasotherwisealtered,and
+theneworbitisnotcompliant;
+• CWFB:(CompliantWithattemptFalseBefore)the25-yearruleisnotmetbythemissionorbit,butadisposal
+actionhasbeentakenandwassuccessful;
+• CWTB:(CompliantWithattemptTrueBefore)themissionorbitallowedtomeetthe25-yearguideline,buta
+disposalactionhasbeentakennonetheless;
+• CWO: (Compliant WithOut attempt) the mission orbit allowed to meet the 25-year guideline, no action was
+taken(norneeded);
+• CD:(CompliantWithDirectRe-entry)acontrolledre-entryhasbeenperformed.
+Insummary,clearanceoftheLEOprotectedregionbypayloadsandrocketbodieswillbepresentedasNaturally
+Compliant,i.e. injectedintoanorbitthatfulfilsthe25-yearlifetimemeasure,SuccessfulAttempt whencompliant
+afteranattempttoreduceitsorbitallifetimeorre-orbitaboveLEO ,InsufficientAttemptwhennotcompliantbut
+IADC
+having attempted to reduce its orbital lifetime or re-orbit above LEO , or NoAttempt when not compliant with
+IADC
+noattemptatall.
+Page87/120
+
+ESAUNCLASSIFIED-ReleasabletothePublic
+6.1.1. Evolution of compliance shares
+
+> > >
+ 
+QXPEHU
+@>HUDK6
+2EMHFWW\SHV(2/DIWHU
++6
+1R2&&
+2&&
+6WDJH
+> > >
+ 
+PDVV
+
+>>>
+
++6
+@>UHEPX1ODWR7
+$FKLHYHPHQWV(2/DIWHUE\REMHFWW\SH
+FRPSOLDQW
+E\DFWLYH
+GHRUELW
+FRPSOLDQWE\
+QDWXUDOGHFD\
+QRQFRPSOLDQW
+>>> >>> >>>
+ 
+1R2&& 2&& 6WDJH
+Figure 6.1: Share of payloads and rocket bodies in terms of mass and number (top) and compliance in terms of
+clearingtheLEOprotectedregion(bottom). ThereportedyearsforpayloadclearanceofLEO goesupto2020,
+IADC
+forrocketbodyclearanceofLEO goesupto2021.
+IADC
+
+> > >
+ 
+$PDWHXU
+@>HUDK6
+$FKLHYHPHQWV(2/DIWHUE\PLVVLRQW\SH
+H[FOXGLQJ6WDJH+6
+FRPSOLDQW
+E\DFWLYH
+GHRUELW
+FRPSOLDQWE\
+QDWXUDOGHFD\
+QRQFRPSOLDQW
+> > > > > > > > >
+ 
+&LYLO &RPPHUFLDO 'HIHQVH
+Figure6.2: ShareofcomplianceintermsofclearingtheLEOprotectedregionbymissiontype.
+Page88/120
+
+ESAUNCLASSIFIED-ReleasabletothePublic
+
+> > >
+ 
+&RQVWHOODWLRQ
+@>UHEPX1ODWR7
+$FKLHYHPHQWV(2/DIWHUE\DUFKLWHFWXUHW\SH
+H[FOXGLQJ6WDJH+6
+FRPSOLDQW
+E\DFWLYH
+GHRUELW
+FRPSOLDQWE\
+QDWXUDOGHFD\
+QRQFRPSOLDQW
+> > >
+ 
+1RQFRQVWHOODWLRQ
+
+> > >
+ 
+&RQVWHOODWLRQ
+@>HUDK6
+$FKLHYHPHQWV(2/DIWHUE\DUFKLWHFWXUHW\SH
+H[FOXGLQJ6WDJH+6
+FRPSOLDQW
+E\DFWLYH
+GHRUELW
+FRPSOLDQWE\
+QDWXUDOGHFD\
+QRQFRPSOLDQW
+> > >
+ 
+1RQFRQVWHOODWLRQ
+Figure 6.3: Compliance in terms of clearing the LEO protected region for constellation and non-constellation ob-
+jects,inabsolutenumbersandinrelativeshare.
+Page89/120
+
+ESAUNCLASSIFIED-ReleasabletothePublic
+
+ 
+(2/\HDU
+@>VWQXR&
+/(2FOHDUDQFH3D\ORDGV+6H[FOXGHG
+&'
+&:2
+&:7%
+&:)%
+1&:)%
+1&:2
+
+ 
+(2/\HDU
+@>VVD0
+/(2FOHDUDQFH3D\ORDGV+6H[FOXGHG
+&'
+&:2
+&:7%
+&:)%
+1&:)%
+1&:2
+Figure6.4: Relativeshareofdisposalbehaviourclassesovertimeintermsofnumber(top)andmass(bottom)for
+payloadsinLEO,excludingobjectsassociatedwithhumanspaceflightbyend-of-lifeyear.
+Page90/120
+
+ESAUNCLASSIFIED-ReleasabletothePublic
+
+ 
+ODXQFK\HDU
+@>VWQXR&
+/(2FOHDUDQFH3D\ORDGV+6H[FOXGHG
+&'
+&:2
+&:7%
+&:)%
+1&:)%
+1&:2
+
+ 
+ODXQFK\HDU
+@>VVD0
+/(2FOHDUDQFH3D\ORDGV+6H[FOXGHG
+&'
+&:2
+&:7%
+&:)%
+1&:)%
+1&:2
+Figure6.5: Relativeshareofdisposalbehaviourclassesovertimeintermsofnumber(top)andmass(bottom)for
+payloadsinLEO,excludingobjectsassociatedwithhumanspaceflightbylaunchyear.
+Page91/120
+
+ESAUNCLASSIFIED-ReleasabletothePublic
+
+ 
+(2/\HDU
+@>VWQXR&
+/(2FOHDUDQFH5RFNHW%RGLHV
+&'
+&:2
+&:7%
+&:)%
+1&:)%
+1&:2
+
+ 
+(2/\HDU
+@>VVD0
+/(2FOHDUDQFH5RFNHW%RGLHV
+&'
+&:2
+&:7%
+&:)%
+1&:)%
+1&:2
+Figure6.6: Relativeshareofdisposalbehaviourclassesovertimeintermsofnumber(top)andmass(bottom)for
+RocketBodiesinLEObyend-of-life,i.e. launchyear.
+Page92/120
+
+ESAUNCLASSIFIED-ReleasabletothePublic
+
+ 
+(2/\HDU
+@>VWFHMERWQDLOSPRFIRHUDK6
+6XFFHVVIXOGHRUELWLQJDWWHPSWV+6H[FOXGHG
+3D\ORDG
+5RFNHW%RG\
+
+ 
+(2/\HDU
+@>VWFHMERWQDLOSPRFQRQIRHUDK6
+8QVXFFHVVIXOGHRUELWLQJDWWHPSWV+6H[FOXGHG
+3D\ORDG
+5RFNHW%RG\
+Figure6.7: Relativesharesofsuccessw.r.t. compliance(top)andnon-compliance(bottom)overtime,excluding
+objectsassociatedwithhumanspaceflight.
+Page93/120
+
+ESAUNCLASSIFIED-ReleasabletothePublic
+
+ 
+(2/\HDU
+@>VWQXR&
+3D\ORDGV&OHDUDQFHLQ/RZ(DUWK2UELW
+1DWXUDOO\
+&RPSOLDQW
+6XFFHVVIXO
+$WWHPSW
+,QVXIILFLHQW
+$WWHPSW
+1R$WWHPSW
+(a)RelativeclearanceofLEO bypayloads.
+IADC
+
+ 
+(2/\HDU
+@>VWQXR&
+5RFNHW%RGLHV&OHDUDQFHLQ/RZ(DUWK2UELW
+1DWXUDOO\
+&RPSOLDQW
+6XFFHVVIXO
+$WWHPSW
+,QVXIILFLHQW
+$WWHPSW
+1R$WWHPSW
+(b)RelativeclearanceofLEO byrocketbodies.
+IADC
+Figure6.8: TrendofadherencetoclearanceofLEO overtimeintermsofnumbers.
+IADC
+Page94/120
+
+ESAUNCLASSIFIED-ReleasabletothePublic
+
+ 
+(2/\HDU
+@>VVD0
+3D\ORDGV0DVV&OHDUDQFHLQ/RZ(DUWK2UELW
+1DWXUDOO\
+&RPSOLDQW
+6XFFHVVIXO
+$WWHPSW
+,QVXIILFLHQW
+$WWHPSW
+1R$WWHPSW
+(a)RelativeclearanceofLEO bypayloads.
+IADC
+
+ 
+(2/\HDU
+@>VVD0
+5RFNHW%RGLHV0DVV&OHDUDQFHLQ/RZ(DUWK2UELW
+1DWXUDOO\
+&RPSOLDQW
+6XFFHVVIXO
+$WWHPSW
+,QVXIILFLHQW
+$WWHPSW
+1R$WWHPSW
+(b)RelativeclearanceofLEO byrocketbodies.
+IADC
+Figure6.9: TrendofadherencetoclearanceofLEO overtimeintermsofmass.
+IADC
+Page95/120
+
+ESAUNCLASSIFIED-ReleasabletothePublic
+
+ 
+(2/\HDU
+@>VWQXR&
+3D\ORDGV&OHDUDQFHLQ/RZ(DUWK2UELW
+H[O1DWXUDOO\&RPSOLDQW3D\ORDGV
+6XFFHVVIXO
+$WWHPSW
+,QVXIILFLHQW
+$WWHPSW
+1R$WWHPSW
+(a)RelativeclearanceofLEO bypayloads.
+IADC
+
+ 
+(2/\HDU
+@>VWQXR&
+5RFNHW%RGLHV&OHDUDQFHLQ/RZ(DUWK2UELW
+H[O1DWXUDOO\&RPSOLDQW5RFNHW%RGLHV
+6XFFHVVIXO
+$WWHPSW
+,QVXIILFLHQW
+$WWHPSW
+1R$WWHPSW
+(b)RelativeclearanceofLEO byrocketbodies.
+IADC
+Figure 6.10: Trend of adherence to clearance of LEO over time in terms of numbers, excluding naturally
+IADC
+compliantobjects.
+Page96/120
+
+ESAUNCLASSIFIED-ReleasabletothePublic
+
+ 
+(2/\HDU
+@>VWQXR&
+2EMHFWV&OHDUDQFHLQ/RZ(DUWK2UELW
+1DWXUDOO\
+&RPSOLDQW
+6XFFHVVIXO
+$WWHPSW
+,QVXIILFLHQW
+$WWHPSW
+1R$WWHPSW
+(a)RelativeclearanceofLEO .
+IADC
+
+ 
+(2/\HDU
+@>VWQXR&
+2EMHFWV&OHDUDQFHLQ/RZ(DUWK2UELW
+H[O1DWXUDOO\&RPSOLDQW2EMHFWV
+6XFFHVVIXO
+$WWHPSW
+,QVXIILFLHQW
+$WWHPSW
+1R$WWHPSW
+(b)RelativeclearanceofLEO excludingnaturallycompliantobjects.
+IADC
+Figure 6.11: Trend of adherence to clearance of LEO over time in terms of numbers, considering payloads
+IADC
+androcketbodiestogether.
+Page97/120
+
+ESAUNCLASSIFIED-ReleasabletothePublic
+6.1.2. Evolution of behavioural classes per mass breakdown
+/(2FRPSOLDQFHV3D\ORDGV(2/ m NJ
+&:2
+
+1&:2
+(a)1990
+/(2FRPSOLDQFHV3D\ORDGV(2/ m NJ
+&:2
+
+1&:2
+(b)2000
+/(2FRPSOLDQFHV3D\ORDGV(2/ m NJ
+&:2
+
+1&:2
+(c)2010
+Figure6.12: Breakdownperdecadeofobservedbehaviouralclassesforpayloadswithamassbelow10.0kg.
+Page98/120
+
+ESAUNCLASSIFIED-ReleasabletothePublic
+/(2FRPSOLDQFHV3D\ORDGV(2/ <m NJ
+1&:)%
+&:2
+
+1&:2
+(a)1990
+/(2FRPSOLDQFHV3D\ORDGV(2/ <m NJ
+&:2
+1&:)%
+
+1&:2
+(b)2000
+/(2FRPSOLDQFHV3D\ORDGV(2/ <m NJ
+&:2
+
+1&:)%
+
+1&:2
+(c)2010
+Figure6.13: Breakdownperdecadeofobservedbehaviouralclassesforpayloadswithamassbetween10.0and
+100.0kg.
+Page99/120
+
+ESAUNCLASSIFIED-ReleasabletothePublic
+/(2FRPSOLDQFHV3D\ORDGV(2/ <m NJ
+&:)%
+&:7%
+ 
+1&:)% &:2
+ 
+ &'
+
+1&:2
+(a)1990
+/(2FRPSOLDQFHV3D\ORDGV(2/ <m NJ
+&:7%
+&:)%
+
+ &:2
+
+1&:)% &'
+
+1&:2
+(b)2000
+/(2FRPSOLDQFHV3D\ORDGV(2/ <m NJ
+&:7%
+
+&:)% &:2
+ 
+ &'
+
+1&:)%
+
+1&:2
+(c)2010
+Figure 6.14: Breakdown per decade of observed behavioural classes for payloads with a mass between 100.0
+and1000.0kg.
+Page100/120
+
+ESAUNCLASSIFIED-ReleasabletothePublic
+/(2FRPSOLDQFHV3D\ORDGV(2/ m>NJ
+&:2
+
+&'
+
+&:1&)%:)% 
+1&:2
+(a)1990
+/(2FRPSOLDQFHV3D\ORDGV(2/ m>NJ
+&:2
+
+&'
+
+&:)%
+
+1&:)%
+
+1&:2
+(b)2000
+/(2FRPSOLDQFHV3D\ORDGV(2/ m>NJ
+&:2
+
+&'
+
+&:)%
+
+1&:)%
+
+1&:2
+(c)2010
+Figure6.15: Breakdownperdecadeofobservedbehaviouralclassesforpayloadswithamassabove1000.0kg.
+Page101/120
+
+ESAUNCLASSIFIED-ReleasabletothePublic
+6.1.3. Robustness of the evaluation of compliance shares in LEO
+Inordertoevaluatetherobustnessofthecomplianceclassificationpresentedinthischapter,twoadditionalanal-
+ysesarepresented.
+First, as mentioned, the classification of the compliance is based on the computation of orbital lifetimes, which
+are affected by several sources of uncertainty, such as the estimation of the ballistic coefficient and the adopted
+predictionforthesolarandgeomagneticactivity[22]. Forthisreason,aMonteCarlo(MC)approachwasadopted
+to derive the distribution of the computed lifetime values for objects for which either the destination orbit or the
+latestorbitinthe2021hasaneccentricity>0.1oranominalorbitallifetimebetween20and50years.
+Aminimum number of 500 MC runs is performed for the evaluation of the orbital lifetime of each reference orbit,
+changingthevalueofballisticcoefficientforeachrun. Inparticular,inthecurrentstage,theballisticcoefficientis
+drawnfromauniformdistributionbetween-40%and+40%ofthenominalvaluedefinedbytheprocessdescribed
+atthebeginningofthisSection. Inthenexteditions,weplantoconsideralsothevariabilityinthespaceweather
+predictions.
+AstatisticalcheckbasedontheKolmogorov–Smirnovtestisusedtoassesswhetherenoughrunsarecomputed.
+Ifso,theresultingdistributionisreturnedandanalysedusingtheorbitallifetimevaluescorrespondingtodifferent
+quantiles to repeat the compliance analysis. Figure 6.16 presents the trend in the share of successful disposal
+attempts for Payloads and Rocket bodies considering the lifetime values at the 10, 50, and 90% quantiles of the
+distributions.
+Thesecondanalysisshowshowthecomplianceclassificationhaschangedoverthedifferenteditionsofthereport,
+consideringthateacheditionisbasedonacurrent best-estimateoftheresidualorbitallifetime.
+Figure 6.17 shows the share of successful re-/de-orbit attempts for payloads according to the different report
+editions. As mentioned in Section 6.1, in case of payload objects, as in the case in Figure 6.17, at least one
+calendaryearwithoutorbitcontrolactionsneedstopassforanobjecttobeclassifiedasreachingend-of-life, so
+thereportissuedinagivenyearcoversuptotheendoftwoyearsbeforethereleaseyear(e.g. thereportissued
+2017coversuntiltheendof2015). Notethatforthisvisualisation(andforthepurposeofthecomparison),re-orbits
+arestillconsideredassuccessfulattempts.
+Page102/120
+
+ESAUNCLASSIFIED-ReleasabletothePublic
+
+ 
+(2/\HDU
+@>HUDK6
+6XFFHVVIXODWWHPSWVIRU3D\ORDGVH[FOQDWXUDOO\FRPSOLDQW
+3HUFHQWLOH
+
+(a)RelativeclearanceofLEO bypayloads.
+IADC
+
+ 
+(2/\HDU
+@>HUDK6
+6XFFHVVIXODWWHPSWVIRU5RFNHW%RGLHVH[FOQDWXUDOO\FRPSOLDQW
+3HUFHQWLOH
+
+(b)RelativeclearanceofLEO byrocketbodies.
+IADC
+Figure 6.16: Trend of adherence to clearance of LEO over time, in terms of numbers excluding naturally
+IADC
+compliantobjects,consideringadispersionintheballisticcoefficientvalues.
+Page103/120
+
+ESAUNCLASSIFIED-ReleasabletothePublic
+
+ 
+(2/\HDU
+'&GQDHFQDLOSPRF\ODUXWDQOF[HHWDUHFQDLOSPR&
+6XFFHVVIXOUHGHRUELWDWWHPSWVIRU3D\ORDGV
+5HSRUWHGLWLRQ
+
+Figure6.17: Successfulre-/de-orbitattemptsforpayloadsaccordingtothedifferentreporteditions.
+Page104/120
+
+ESAUNCLASSIFIED-ReleasabletothePublic
+6.2. End-Of-Life Operations in Geostationary Orbit
+UnlikeinLEO,nonaturalsinkmechanismisavailablefortheGEOprotectedregionbywhichobjectscouldleave.
+The solar radiation pressure on the objects will also make long term predictions subject to non-negligible uncer-
+tainties. Apayload or rocket body operating in the GEO Protected Region, with either a permanent or periodic
+presence,shallbemanoeuvredinacontrolledmannerduringthedisposalphasetoanorbitthatliesentirelyout-
+sidetheGEOProtectedRegion. Therearedifferentwaysofensuringthatthisconditionismet. Forexample,the
+launch procedure for Rocket Bodies can be adapted to ensure that the release of the payloads no longer takes
+place directly within the geostationary orbit but below. In this case, the payload has to climb the last part into
+GEO but the launcher remains on a GTO trajectory that does not intersect the GEO protected region. For
+IADC
+payloads within the GEO protected region, the mitigation measure has been refined, i.e. the so called IADC for-
+mulation [5], to ensure that a disposal occurs in a graveyard orbit with minimal interference. At least one of the
+followingtwoconditionsshouldbemet:
+• The orbit has an initial eccentricity less than 0.003 and a minimum perigee altitude ∆H (in km) above the
+geostationaryaltitude,inaccordancewithequation:
+1. ∆H=235+(1000C A/m);
+r
+2. whereC isthesolarradiationpressurecoefficient(dimensionless);
+r
+3. A/mistheratioofthecross-sectionarea(inm2)todrymass(inkg)ofthepayload.
+• Theorbithasaperigeealtitudesufficientlyabovethegeostationaryaltitudethatlong-termperturbationforces
+donotcausethepayloadtoentertheGEOProtectedRegionwithin100years.
+In summary, clearance of the GEO protected region by payloads will be presented as Successful Attempt, i.e.
+thepayloadclearsGEO in-linewiththeformulationabove,InsufficientAttempt whenthepayloadsattemptto
+IADC
+cleartheGEO butdoesnotreachthecriteriaintheIADCformulation,andNoAttempt otherwise. Anin-depth
+IADC
+overview of the status of objects in GEO and description of the summarised results shown here is available
+IADC
+via[23].
+For the rocket bodies delivering payloads in or near the GEO protected region, the long-term disposal orbits are
+influencedbyavarietyofperturbationspotentiallyincludingLuni-Solar,solarradiationpressure,gravitationalres-
+onances, and atmospheric drag. The implies that long term, i.e. over 100 years [6], clearance of both protected
+regions by these rocket bodies is only predictable as a stochastic estimate. To assess the adherence by rocket
+bodies to the disposal guidelines in a first approximation, we list the amount of rocket bodies predicted to cross
+one or both of the protected regions within the next 100 years after launch, as a function of the total number of
+rocketbodiesthatlaunchpayloadobjectswithadestinationorbitinGEO.Inaddition,forthoseobjectcrossingthe
+LEOprotectedregionanobjectismarkedasLEO-crossingifitcrossesLEOandthepermanencetimeintheLEO
+regionislongerthan25years.
+Page105/120
+
+ESAUNCLASSIFIED-ReleasabletothePublic
+
+ 
+/DXQFK<HDU
+@>VWFHME2IRUHEPX1
+&ODVVLILFDWLRQRI2EMHFWVQHDUWKH*HRV\QFKURQRXV5LQJ
+2EMHFWVXQGHUFRQWURO
+2EMHFWVLQGULIWRUELW
+2EMHFWVLQOLEUDWLRQ
+&ODVVLILFDWLRQRI2EMHFWVQHDUWKH*HRV\QFKURQRXV5LQJ
+(:FRQWUROOHGRQO\
+'ULIWFRQWUROOHG
+(:DQG16FRQWUROOHG
+
+,QGHWHUPLQDWH
+
++LJKO\LQFOLQHG
+
+/LEUDWLQJDURXQGERWKSRLQWV 
+
+/LEUDWLQJDURXQG:
+
+/LEUDWLQJDURXQG( 
+'ULIWLQJ
+Figure6.18: OrbitalevolutionstatusofpayloadsneartheGeostationaryorbitduring2021.
+Page106/120
+
+ESAUNCLASSIFIED-ReleasabletothePublic
+
+ 
+(QGRI/LIH<HDU
+@>WQXR&
+3D\ORDG&OHDUDQFHQHDU*(2
+IADC
+1R$WWHPSW
+,QVXIILFLHQW
+$WWHPSW
+6XFFHVVIXO
+$WWHPSW
+(a)AbsoluteclearancenearGEO .
+IADC
+
+ 
+(QGRI/LIH<HDU
+@>WQXR&
+3D\ORDG&OHDUDQFHQHDU*(2
+IADC
+1R$WWHPSW
+,QVXIILFLHQW
+$WWHPSW
+6XFFHVVIXO
+$WWHPSW
+(b)RelativeclearancenearGEO .
+IADC
+Figure6.19: TrendofadherencetothedisposalguidelineinGEO .
+IADC
+Page107/120
+
+ESAUNCLASSIFIED-ReleasabletothePublic
+
+ 
+(QGRI/LIH<HDU
+@VQRW>VVD0
+3D\ORDG0DVV&OHDUDQFHQHDU*(2
+IADC
+1R$WWHPSW
+,QVXIILFLHQW
+$WWHPSW
+6XFFHVVIXO
+$WWHPSW
+(a)AbsolutemassclearancenearGEO .
+IADC
+
+ 
+(QGRI/LIH<HDU
+@>VVD0
+3D\ORDG0DVV&OHDUDQFHQHDU*(2
+IADC
+1R$WWHPSW
+,QVXIILFLHQW
+$WWHPSW
+6XFFHVVIXO
+$WWHPSW
+(b)RelativemassclearancenearGEO .
+IADC
+Figure6.20: MasstrendofadherencetothedisposalguidelineinGEO .
+IADC
+Page108/120
+
+ESAUNCLASSIFIED-ReleasabletothePublic
+
+ 
+/DXQFK\HDU
+V%5IRUHEPX1
+&RPSOLDQW
+*(2DQG/(2FURVVLQJ
+*(2FURVVLQJ
+/(2FURVVLQJ
+1RWFODVVLILHG
+(a)AbsoluteclearancenearGEO .
+IADC
+
+ 
+/DXQFK\HDU
+@>V%5IRHUDK6
+&RPSOLDQW
+*(2DQG/(2FURVVLQJ
+*(2FURVVLQJ
+/(2FURVVLQJ
+1RWFODVVLILHG
+(b)RelativeclearancenearGEO .
+IADC
+Figure6.21: TrendofadherencetothedisposalguidelineforrocketbodiesusedtoinsertsatellitesinGEO .
+IADC
+Page109/120
+
+ESAUNCLASSIFIED-ReleasabletothePublic
+6.3. End-Of-Life Operations in MEO
+ComparedtotheLEO andGEO regions,MEOcontainsrelativelyfewerobjectsinalargervolumeofspace.
+IADC IADC
+Notwithstanding the resulting lower space debris density, the region is of importance for global navigation and
+communication constellations, and crossed by space objects with large eccentricity and semi-major axis orbits.
+Space debris mitigation guidelines call for the avoidance of space debris dense regions by means of targeted
+disposals,evenoutsidetheprotectedregions[2]. Withthisperspectiveinmind,itisinstructivetoshowtheorbital
+disposalbehaviourofPayloadobjectsinthisregion.
+Page110/120
+
+ESAUNCLASSIFIED-ReleasabletothePublic
+
+ 
+0HDQDOWLWXGH>NP@
+@JHG>QRLWDQLOFQ,
+$FWLYH
+,QDFWLYH
+(a)MEOregion
+
+ 
+0HDQDOWLWXGH>NP@
+@JHG>QRLWDQLOFQ,
+$FWLYH
+,QDFWLYH
+(b)GNSSconstellations
+Figure 6.22: Distribution of payloads in MEO in mean altitude and inclination, distinguishing by activity status
+(symbols)andconstellation(colour).
+Page111/120
+
+ESAUNCLASSIFIED-ReleasabletothePublic
+7. ENVIRONMENT METRICS
+7.1. Environmental Index in 2021
+Theeffectofadherencetospacedebrismitigationguidelinesandregulationsonagloballevelhasadirectinfluence
+on the avoidance of the Kessler syndrome in Low Earth Orbit. In order to quantify the relation between them,
+the concept of an environment index is introduced via a general risk metric. The risk associated to an event is
+traditionallycomputedasRisk=Probability×Severity.
+Thisdefinitioncanbeappliedtospaceobjectstomeasurethefragmentationrisk associatedtothemandusethis
+as a metric of their potential contribution to the space debris environment. The term probability represents the
+probability of a catastrophic collision, which is dependent on the flux of debris able to trigger a collision and the
+cross-sectionalareaoftheobject. ThefluxvaluesareobtainedfromMASTER-8[24]consideringforeachobject
+thelastavailableorbitinDISCOS.Thephysicalpropertiesandtheactivitystatusoftheobjectsarealsoretrieved
+from DISCOS.The term severity measures the effect of such a fragmentation on operational spacecraft. This is
+done by simulating the generation of the cloud with the NASA breakup model [25] and modelling the evolution
+of its density over time under the effect of atmospheric drag. Arepresentative set of target spacecraft is defined
+as proxy of the population of operational satellites. For each of these target spacecraft, the resulting cumulative
+collision probability over 25 years due to the fragment cloud is computed and their sum is used as a severity
+measure.
+Theriskisevaluatedalongthemissionprofileofanobject,simulatingitsorbitevolutionover100years. Foractive
+and manoeuvrable objects, the implementation of a Post-Mission Disposal (PMD) manoeuvre and its estimated
+successrateareconsideredwhencomputingthetrajectoryevolution. Moredetailsontheapproachcanbefound
+in [26]. The risk metric can be used to compare objects or missions against each other, and the cumulated risk
+takenbyallobjectsinspaceatagiventime,andtheirbehaviourinthefuture,thusintroducesthenotionofcapacity
+oftheenvironment.
+Fig.7.1showsthedistribution,inmeanaltitudeandinclination,oftheanalysedobjectsinLEO.Thecolourofthe
+marker indicates the category of the objects, i.e. whether it is a rocket body, an inactive payload, an active one
+oraconstellation. Thesizeofthemarkerindicatesthedebrisindexvalueandanaggregatedscoreisshownfor
+constellations. Thevaluesareobtainedassuminga90%PMDsuccessrateforactiveobjects.Areaswithhighrisk
+concentrationcanbeobservedaround850kmofmeanaltitudeand70-80degreesininclination. Fig.7.2shows
+thedistributionofthetotalindexamongobjectcategories: Byfar,mostoftheriskisassociatedtoinactiveobjects
+(96%),withthelargestcontributioncomingfromspentrocketbodies.
+Page112/120
+
+ESAUNCLASSIFIED-ReleasabletothePublic
+
+ 
+0HDQDOWLWXGH>NP@
+@JHG>QRLWDQLOFQ,
+$FWLYH3D\ORDG
+&RQVWHOODWLRQ
+,QDFWLYH3D\ORDG
+5RFNHW%RG\
+Figure7.1: IndexvalueforobjectsinLEO.Thesizeofthemarkerisproportionaltothedebrisindexoftheobject
+orconstellation.
+,QDFWLYH3D\ORDG
+
+&RQVWHOODWLRQ
+
+ $FWLYH3D\ORDG
+
+5RFNHW%RG\
+Figure7.2: Distributionofthetotalindexamongobjectcategories.
+Page113/120
+
+ESAUNCLASSIFIED-ReleasabletothePublic
+7.2. Environment evolution
+The simulation of the future evolution of the debris population can be used to assess the efficacy of proposed
+mitigationactionsandofcurrentbehaviours. Inparticular,twoscenariosarepresentedinthissection:
+• A defined extrapolation of the current behaviour in terms of launch traffic, explosion rates, and disposal
+successrates;
+• Nofuturelaunches(NFL),whereitisassumedthatnolaunchtakesplaceafter2021.
+Thedefinitionoftrendsinlaunchtraffic,explosionrates,anddisposalsuccessratesisbasedonthedataavailable
+in DISCOS and on the analysis contained in this report. DELTA-3 [27] was used to simulate the evolution of the
+environment over 200 years, performing 100 Monte Carlo runs per scenario. The parameters for the scenario
+definitionaresummarisedhereafter.
+For both scenarios, the reference population used for the analysis is an extraction of the DISCOS population at
+the reference epoch (1st ). For each object, physical characteristics such as mass, cross-sectional
+area, and orbital parameters are retrieved For Rocket Bodies and Payloads, launch information is also stored.
+For Payloads specifically, it is also stored in which orbital region they are active and whether they belong to a
+constellation,followingthedefinitionsinSection1.1.
+Theyearlyexplosionrateistakenfromthelastdecadestatisticsonnon-systemrelatedfragmentationsinTable5.2.
+Inaddition,fortheNofuturelaunchesscenario,noexplosioneventissimulatedafterthefirst18yearsasFig.5.8
+showshow95%ofthenon-systemrelatedfragmentationeventsoccurwithin18yearssincethelaunch.
+Fortheextrapolationscenario,alaunchtrafficmodelisalsoneededasinputforthesimulations. Thiswasobtained
+byrepeatingthelaunchtrafficbetween2017and2021,discountingthecontributionfromconstellations. Foreach
+of the constellations currently in orbit, a model of deployment and replenishment was defined using the publicly
+available data. Acapability to successfully perform collision avoidance manoeuvres is assumed for as long as a
+Payloadobjectisactiveinthesimulation.
+AfixedoperationallifetimeofeightyearsisassumedforPayloadsnotbelongingtoaconstellationinsteadofthe
+values derived in this report, in-line with current long-term space debris environment modelling practices. Spe-
+cific values are used for Payloads belonging to constellation, based on the available information on the current
+constellationdesignswherepossible. Post-missiondisposalsuccessratesarederivedfromtheobservedvalues
+reported in Section 6, considering the performance for objects with End-Of-Life equal or later than 2015. In par-
+ticular,thepost-missiondisposalsuccessrateissetequalto55%forrocketbodies,40%forpayloads,and90%
+forconstellations. Thevalueforpayloadsishigherthantheobservedratestoreflecttheslowbutupwardstrend,
+and is combined with the shifting traffic towards destination orbits with lifetimes below 25 years. The value for
+constellationsisabovethehistoricallyobservedratesbutstatisticallyvalidratescouldnotyetbederivedfromthe
+current active population. As such, it is set to the bare minimum identified in [2] whereas in practice far higher
+ratesofcompliancewouldneedtobeobservedovertimetolimitthelong-termgrowthofthespacedebrispopu-
+lation.
+Theevolutionofthenumberofobjectslargerthan10cmandthecumulativenumberofcatastrophiccollisions,i.e.
+collisionleadingtothecompletedestructionoftargetandimpactor,areshowninFig.7.3andFig.7.4: thedarkline
+representsthemeanvalueoveralltheMonteCarlorunsandthelightcolouredlinesindicatetheoutcomeofthe
+singlerun. Thisrepresentationwasselectedtovisualisethevariabilityacrossthesinglerunswithoutintroducing
+standarddeviationbandsastheymaybenotrepresentativeoftheresultdistribution[28].
+Theresultsfromtheevaluationofthescenarioindicatedthatevenwhenspaceflightiscompletelyhaltedtoday,the
+amountofspacedebrisobjectsinLowEarthOrbitislikelytoincrease. Theextrapolationofourcurrentbehaviour,
+Page114/120
+
+ESAUNCLASSIFIED-ReleasabletothePublic
+whichassumesthecontinuationofexplosioninorbitsatcurrentrates,adherencebyconstellationstotheminimum
+desirablepost-missiondisposalsuccessrates, andcontinuationofthecurrentlyestimatedpost-missiondisposal
+successratesforallotherobjects,leadstoanunstableenvironmentwithcollisionratesincreasingexponentially.
+WhileashiftinlaunchtraffictoorbitswithloworbitaldecayasobservedinSection2.6improvesthesituation[29],
+theimplementationofallspacedebrismitigationarenecessarytoavoidandadversefuture.
+Establishing the space debris growth rates based on the status of yearly environment snapshots provides an
+estimatefortheconsequencesofthecurrentlevelsofglobalspacedebrismitigation. Toanalysetrendsinthepre-
+dictedenvironmentevolution,additionalscenarioscanbesimulatedusingdifferentstartingepochs,butadopting
+thelogiclaidoutaboveforwhatconcernsderivingspacetrafficsettingsforthemodel.
+In particular, in addition to the starting points generated from past and current editions of the report, other two
+referenceepochs(at2014and2005)weredefined,forwhichthecorrespondinglaunchtraffic,explosionrate,and
+disposalrateswereextractedfromthedatainDISCOS.Theyears2014and2005arenotchosenarbitrarily, but
+respectively correspond to the last year before the fundamental change in launch traffic (due to the increase in
+usageofsmallsatellites)andtheadoptionoftheIADCmitigationguidelinesinnationalpractices.
+The number of objects larger than 10 cm in the final population and the final cumulative number of catastrophic
+collisions at the end of the simulation are shown in Fig. 7.5 and Fig. 7.6, where red is used for the extrapolation
+scenariosand darkblue forthe no-furtherlaunches ones. Similarly, inFig. 7.7 samescenarios areevaluated by
+theriskindexintroducedinSection7.1. Boxplotsareusedtovisualisethespreadofresultsovertheruns: thebox
+coverstherangebetweenthefirstandthethirdquartile,withthehorizontallinewithintheboxindicatingthemedian;
+the whiskers indicate the distance of 1.5 the interquartile range in both directions and any datapoint outside this
+rangeisconsideredanoutlierandindicatedwithasmalldot. Itisimportanttonotethatinallextrapolationscenarios
+thesimulatedspacedebrisenvironmentcontinuestodeteriorate. Underthecurrentextrapolationconditions,the
+amount of catastrophic collision could rise quickly. Even under the no further launches scenarios, the amount of
+space debris objects is observed as increasing in all cases. However, from the associated risk perspective an
+evolutionisnoticeableovertimefortheExtrapolationscenarios.
+Page115/120
+
+ESAUNCLASSIFIED-ReleasabletothePublic
+
+ 
+<HDU
+2(/QLPF!VWFHME2
+1RIXUWKHUODXQFKHV
+([WUDSRODWLRQ
+Figure7.3: NumberofobjectsinLEO inthesimulatedscenariosoflong-termevolutionoftheenvironment.
+IADC
+
+ 
+<HDU
+VQRLVLOORFFLKSRUWVDWDFIRUHEPXQHYLWDOXPX&
+1RIXUWKHUODXQFKHV
+([WUDSRODWLRQ
+Figure 7.4: Number of cumulative collisions in LEO in the simulated scenarios of long-term evolution of the
+IADC
+environment.
+Page116/120
+
+ESAUNCLASSIFIED-ReleasabletothePublic
+ 
+
+6WDUWLQJ\HDU
+QRLWDOXSRSODQLIHKWQLPF!VWFHME2 1)/
+([WU
+Figure7.5: NumberofobjectsinLEO inthesimulatedscenariosoflong-termevolutionoftheenvironment.
+IADC
+ 
+
+6WDUWLQJ\HDU
+VQRLVLOORFFLKSRUWVDWDFIRUHEPXQHYLWDOXPX&
+1)/
+([WU
+Figure 7.6: Number of cumulative collisions in LEO in the simulated scenarios of long-term evolution of the
+IADC
+environment.
+Page117/120
+
+ESAUNCLASSIFIED-ReleasabletothePublic
+ 
+
+6WDUWLQJ\HDU
+[HGQLODQL)
+([WU
+1)/
+Figure7.7: Indexvalueindifferentscenarios.
+Page118/120
+
+ESAUNCLASSIFIED-ReleasabletothePublic
+References
+[1] UnitedNations. Guidelinesforthelong-termsustainabilityofouterspaceactivities(A/AC.105/C.1/L.366),
+2019.
+[2] Inter-AgencySpaceDebrisCoordinationCommittee. SpaceDebrisMitigationGuidelines,IADC-02-01,
+Revision2,2020.
+[3] D.J.KesslerandB.G.Cour-Palais. Collisionfrequencyofartificialsatellites: Thecreationofadebrisbelt.
+JournalofGeophysicalResearch,page2637–2646,1978.
+[4] UnitedNations. ConventiononInternationalLiabilityforDamageCausedbySpaceObjects,1972.
+[5] Inter-AgencySpaceDebrisCoordinationCommittee. SpaceDebrisMitigationGuidelines,2002.
+[6] InternationalStandardsOrganisation. Spacesystems-Spacedebrismitigationrequirements,ISOTC
+20/SC1424113:2019,2019.
+[7] EuropeanSpaceAgency. Databaseandinformationsystemcharacterisingobjectsinspace.
+ Accessed: 2022-04-06.
+[8] T.S.Kelso. CelesTrak. 
+[9] UnionofConcernedScientists. SatelliteDatabase.
+
+[10] InternationalStandardsOrganisation. Spacesystems-Estimationoforbitlifetimes,ISOTC20/SC14
+27852:2016,2016.
+[11] UnitedNationsOfficeforOuterSpaceAffairs. UnitedNationsRegisterofObjectsLaunchedintoOuter
+Space. 
+[12] UnitedNations. ConventiononRegistrationofObjectsLaunchedintoOuterSpace,1974.
+[13] EuropeanSpaceAgency. ESA’sFragmentationDatabase. 
+Accessed: 2022-04-06.
+[14] K.Merz,B.BastidaVirgili,V.Braun,T.Flohrer,Q.Funke,H.Krag,S.Lemmens,andJ.Siminski. Current
+collisionavoidanceservicebyESA’sspacedebrisoffice. 7th EuropeanConferenceonSpaceDebris,
+Proceedingsoftheconference,2017.
+[15] UnitedStatesSpaceForceś18thSpaceControlSquadron. Space-track. 
+2021. Accessed: 2022-04-06.
+[16] K.T.Alfriend,M.R.Akella,J.Frisbee,J.L.Foster,D.J.Lee,andM.Wilkins. Probabilityofcollisionerror
+analysis. SpaceDebris,1(1):21–35,1999.
+[17] ESASpaceDebrisOffice. AssessmentofRiskEventStatistics(ARES).
+
+[18] C.Wiedemann,E.Gamper,A.Horstmann,V.Braun,andE.Stoll. Releaseofliquidmetaldropletsfrom
+Cosmos1818and1867. 67th InternationalAstronauticalCongress,Proceedingsoftheconference,2016.
+[19] S.Flegel,J.Gelhaus,M.Möckel,C.Wiedemann,andDKempf. MaintenanceoftheESAMASTERModel.
+FinalReportofESAcontract21705/D/HK,2010.
+Page119/120
+
+ESAUNCLASSIFIED-ReleasabletothePublic
+[20] S.LemmensandH.Krag. Two-line-elements-basedmaneuverdetectionmethodsforsatellitesinlowearth
+orbit. JournalofGuidance,Control,andDynamics,37(3):860–868,2014.
+[21] R.Mugellesi-Dow,D.J.Kerridge,T.D.G.Clark,andA.W.P.Thompson. Solmag: anoperationalsystemfor
+predictionofsolarandgeomagneticactivityindices. 1st EuropeanConferenceonSpaceDebris,
+Proceedingsoftheconference,1993.
+[22] S.Lemmens,B.BastidaVirgili,V.Braun,T.Flohrer,Q.Funke,H.Krag,F.Mclean,andK.Merz. From
+End-of-LifetoImpactonGround: AnOverviewofESA’sToolsandTechniquestoPredictRe-entriesfromthe
+OperationalOrbittotheEarth’sSurface. 6th InternationalConferenceonAstrodynamicsToolsand
+Techniques,Proceedingsoftheconference,2016.
+[23] ESASpaceDebrisOffice. ClassificationofGeosynchronousObjects.Issue23.
+GEN-DB-LOG-00290-OPS-SD,ESA/ESOC,Darmstadt,Germany,2021.
+[24] C.Wiedemann,A.Horstmann,S.Hesselbach,V.Braun,H.Krag,S.Flegel,M.Oswald,andE.Stoll.
+ParticlefluxanalysiswiththeupdatedMASTERmodel. 67th InternationalAstronauticalCongres,
+Proceedingsoftheconference,2018.
+[25] N.L.JohnsonandP.H.Krisko. NASA’snewbreakupmodelofEVOLVE4.0. AdvancesinSpaceResearch,
+28(9):1377–1384,2001.
+[26] F.Letizia,S.Lemmens,B.BastidaVirgili,andH.Krag. Applicationofadebrisindexforglobalevaluationof
+mitigationstrategies. ActaAstronautica,161:348–362,2019.
+[27] B.BastidaVirgili. DELTA(DebrisEnvironmentLong-TermAnalysis). 6th InternationalConferenceon
+AstrodynamicsToolsandTechniques,Proceedingsoftheconference,2016.
+[28] A.A.Lidtke,H.G.Lewis,andR.Armellin. Statisticalanalysisoftheinherentvariabilityintheresultsof
+evolutionarydebrismodels. AdvancesinSpaceResearch,59(7):1698–1714,2017.
+[29] H.GLewis. Evaluationofdebrismitigationoptionsforalargeconstellation. JournalofSpaceSafety
+Engineering,7:192–197,2020.
+Page120/120

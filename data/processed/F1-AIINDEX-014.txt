@@ -1,0 +1,1051 @@
+Annual Report 2022
+Stanford Institute
+for Human-Centered
+Artificial Intelligence
+HAI built considerable momentum across our research, policy,
+and education programs during the 2021-22 academic year.
+
+Contents Letter from the Denning Co-Directors
+Silicon Valley startups are notorious for the demands
+they place on early employees—and the more
+1 Letter from the Denning Co-Directors successful they are, the more demanding they can
+2 HAI Events 2021-22 be. For the past three years, Stanford HAI has been
+an academic startup. We have accomplished a lot
+Research
+since our launch, and we are deeply grateful to our
+hardworking staff, faculty leaders, and generous
+5 HAI Research Focus
+donors for getting us where we are today.
+6 Grant Programs for AI Research
+In three years, HAI has established itself not only
+10 Center for Research on Foundation Models
+as a leading presence at Stanford, but as one of
+12 Stanford Digital Economy Lab the leading centers for AI in the world. We’ve Fei-Fei Li and John Etchemendy, Denning Co-Directors of the Stanford
+Institute for Human-Centered AI
+14 AI Index earned a reputation as a catalyst for innovative
+15 Research Events cross-disciplinary research and have developed a Stanford as well as other universities and organizations
+dynamic ecosystem for the study and advocacy of a worldwide–in helping us achieve these goals.
+distinctively human-centered approach to AI.
+In the broader world of AI, 2021-2022 has been an
+Policy As we reflect on the past academic year, we’re excited extraordinary year, one that has convinced even the most
+to see the Stanford campus active again with faculty, diehard skeptics of the importance of AI technology.
+17 Education and Training for Policymakers staff and students back in person. We’ve settled into a Gone are any worries about a coming “AI winter” or the
+new home on the ground floor of the Gates Computer sudden deflation of a hype-fueled bubble. It is impossible
+18 Policy Briefings in Washington, D.C.
+Science Building, where we can host groups of people to ignore such developments as DeepMind’s near
+19 U.S. and E.U. Policymakers Visit Stanford /
+from across the campus and beyond. complete solution of the protein-folding problem, or the
+Policy Initiatives
+steady release of new foundation models for generating
+Our foundational programs in research, education
+20 Policy Publications
+text, images and even computer code.
+and policy are all thriving in the wake of an extremely
+21 Faculty Engagement
+productive year. Among the highlights from the 2021- These developments are being addressed, from very
+2022 academic year: different perspectives, by our Center for Research on
+Foundation Models and our Digital Economy Lab, the
+• In Research: We’ve strengthened our Stanford
+former focusing on expanding research, resources and
+scholar community through more than 20 in-
+Education
+community around emerging AI technology, while the latter
+person and hybrid format workshops, meetings
+assesses its impact on the economy and the future of work.
+and collaborations, while also collaborating with
+23 Special Initiatives /
+About HAI
+external organizations including the IEEE on its The breathtaking pace of AI technology only
+For Current Leaders /
+For Future Leaders Planet Positive 2030 campaign. magnifies the importance of an institute devoted to
+24 Denning Co-Directors
+a thoroughly human-centered perspective on this
+• In Education: More than 7,000 individuals took
+25 Associate Directors / Staff rapidly evolving technology. It is undeniable that AI
+part in our educational programs, and we helped
+28 Faculty and Fellows to organize the largest AI+Health conference in holds extraordinary promise for improving the human
+condition, but only if we can successfully guide its
+30 Research Centers and Partners Stanford’s history.
+future in a responsible direction.
+31 Corporate Members Program • In Policy: We engaged with more than 30 U.S. federal
+32 Financials agencies, congressional offices, foreign government Thank you for being with us on this most important journey.
+representatives and delegations this past academic
+year, which deepened HAI’s relationships with
+policymakers and accelerated their understanding
+about the impact of AI.
+This Annual Report reflects the research, We sincerely appreciate the support and engagement Fei-Fei Li John Etchemendy
+activities, and impact of Stanford HAI between
+ to of our advisors, affiliates, scholars and students–at
+
+HAI Events
+HAI brings its extended community together by hosting a variety of events
+throughout the year, including workshops, conferences, and seminars. The
+institute held 81 events during AY 2021-22, reaching a total 19,475 attendees
+between in-person and virtual platforms.
+Artificial Intelligence and
+Strengthening the HAI Spring Conference the Economy: Charting a
+Technical Foundations of Key Advances in Artificial Path for Responsible and Advancing Technology for
+HAI Fall Conference on Policy & AI
+U.S. Security Intelligence Inclusive AI a Sustainable Planet
+Four Radical Proposals for a
+HAI Managing Director for Policy and The HAI Spring Conference explored This symposium brought together Hosted together with IEEE and the
+Better Society
+Society Russell Wald, CSET Senior three key advances in artificial leaders from government, industry, Stanford Woods Institute for the
+Hoffman-Yee Symposium
+Proposals were presented to a panel Fellow Andrew Lohn, and Stanford intelligence—accountable AI, civil society, and academia to explore Environment, this event explored
+Inaugural recipients of Hoffman-Yee of experts from multiple disciplines HAI Postdoctoral Fellow Jeff Ding foundation models, and embodied potential opportunities and challenges regulatory, policy, and financial
+Research Grants presented results and backgrounds, who vetted, discussed how a National AI Research AI in virtual and real worlds—as well posed by artificial intelligence and frameworks critical to advancing
+from their research to date and plans debated, and judged the merits of Resource (NAIRR) will impact U.S. as what the future of this technology machine learning deployment across technology which prioritizes people,
+for the future. each one. national security. might hold. different economic sectors. planet, and purpose-driven progress.
+September November December January February April July August
+Data-Centric AI Virtual AI+HEALTH Creating a National AI DEL Spring Workshop Stanford HAI Congressional
+Workshop This recorded online conference Research Resource Avoiding the Turing Trap: Boot Camp on Artificial
+This workshop explored challenges convened experts and leaders HAI Managing Director for Policy and Workshop on AI & the Future Intelligence
+and opportunities across the data-for- from academia, government, and Society Russell Wald, Center for Data of Work This multi-day, bi-partisan educational
+AI pipeline. clinical practice to explore critical Innovation Policy Analyst Hodan Omaar,
+event for a diverse cohort of 26
+This workshop brought together DEL’s
+and emerging issues related to AI’s and Founder & President of SeedAI
+congressional staffers unpacked what
+community of faculty, students, fellows, industry
+impact across the spectrum of health, Austin Carson held a discussion on how
+AI means for international security,
+leaders, and supporters to share research and
+healthcare, and related arenas. to design, implement and maintain a
+the future of work, and healthcare,
+discuss groundbreaking ideas related to the
+National Artificial Intelligence Research
+and included field trips to Stanford
+future of work and the digital economy.
+Resource (NAIRR).
+labs for interactive experiences.
+2 33
+
+HAI Research Focus
+Research HAI focuses its research initiatives around three main priorities, each with its
+own vision and mission.
+An Interdisciplinary
+Approach Human Impact Spotlight
+Civics Education for a Just
+To develop technology that is equitable,
+and Sustainable Future
+researchers must understand how AI
+interacts with humans, as well as how it Understanding and changing textbook content is
+HAI’s research efforts gained significant momentum
+interacts with vital social structures and one important lever in the multifaceted process
+in the 2021-22 academic year. The team was excited institutions. required to redesign history and civics education.
+to return to in-person events and to establish the Patricia Bromley in the Graduate School of
+Education has designed a study that uses Natural
+Ethics and Society Review process as part of HAI’s
+Language Processing (NLP) to assess textbook
+grant programs. content and document depictions of diversity,
+equity, and sustainability.
+Augment Human Spotlight
+Capabilities Rating Systems and the Future of
+Algorithmic Worker Evaluation
+HAI believes that breakthroughs in
+A team from the Schools of Engineering and
+human-centered design methods will
+Humanities and Sciences is developing a forward-
+further progress in healthcare, education,
+looking digital resumé for workers in online labor
+sustainability, automation, and countless
+platforms. The project brings together statistical
+other domains.
+methodology, algorithm design, human-computer
+interaction, and political economy to enable the
+same career pathways for online workers that
+society takes for granted in offline work.
+Intelligence Spotlight
+Toward Machine Models of
+To create a machine-assisted—yet
+human-centered—world, the AI Structured Human Reasoning through
+community must develop the next Explanation-based Meta-learning
+generation of techniques that overcomes
+Some of the most impressive achievements of the
+the limitations of current algorithms,
+human mind have led to deep scientific understanding
+expands the class of problems that can
+and powerful technologies. Two researchers from the
+be addressed, and complements human
+Schools of Engineering and Humanities and Sciences
+cognitive and analytic styles.
+seek to combine human and machine learning
+research to build artificially intelligent systems that
+could potentially achieve these abilities.
+4 5
+
+Grant Programs for AI Research Seed Research Grants
+Since its founding, HAI’s grant programs have supported 248 faculty members HAI seed research grants are designed to bring faculty together across
+from all seven Stanford schools. Many of these projects span multiple departments, disciplines to share knowledge and pursue new ideas. Three projects received
+in keeping with the commitment to support interdisciplinary AI research. notable awards to continue their research:
+How HAI Research Grants Connect Departments
+Decision Systems that Reflect
+Minority Perspectives
+Stanford Doerr School School of Engineering
+In , Computer Science Professor Michael
+of Sustainability
+Graduate School of Business Bernstein won the CHM Patrick J. McGovern Tech
+School of Medicine
+Graduate School of Education for Humanity Prize for his work toward introducing
+Law School
+diversity and reducing bias in AI systems. The project
+School of Humanities includes a public-awareness website and open-
+and Sciences
+source models for developers.
+Prototyping an Intelligent Agent for CO
+
+Sequestration in Saline Aquifers
+This project addresses the urgent need to develop and
+scale commercial operations for sequestering CO in
+
+the earth’s subsurface. Professor of Geological Sciences
+Jef Caers received significant support from an Austrian
+company that is working toward sustainability.
+Equitable Education Access in
+San Francisco
+After winning seed funding in 2020 from HAI for a
+project project called “School Choice Mechanisms:
+Improving Diversity and Equity,” Irene Lo and Itai
+Ashlagi from the School of Engineering received
+follow-on funding from Stanford Impact Labs to
+develop a method that San Francisco and other
+districts can use to improve equity in school
+assignment policies and practices.
+Faculty members
+Funded connections
+90 188
+6 7
+total research grants since 2018 faculty funded in AY 2021-22
+
+Hoffman-Yee Research Grants Cloud Credit Program
+Hoffman-Yee research grants are made possible by a gift from philanthropists Reid HAI saw record demand for cloud credit grants during AY 2021-22. This program
+Hoffman and Michelle Yee. In , HAI announced its second cohort of provides advanced computational resources that researchers need to conduct
+Hoffman-Yee Grant recipients. Six research teams were each awarded a total of rigorous AI projects. HAI allocates these credits to studies showing promising,
+$2.75 million to solve some of the most challenging problems in the field of AI. Each novel, or emerging ideas.
+of the proposals went through a rigorous review with faculty, as well as an Ethics
+In the second year of the Google Cloud Credit Grants, Human Impact—Azure
+and Society review.
+HAI awarded a total of $2.5 million in GCP credits “Foundation Models Homogenize
+to 48 faculty across 59 projects. The institute also
+Outcomes,” Percy Liang, Director, Center
+Tuning Our Algorithmic Amplifiers: EAE Scores: A Framework for Explainable, launched the Microsoft Azure Cloud Credit Grants
+for Research on Foundation Models, and
+Encoding Societal Values into Social Actionable and Equitable Risk Scores for and awarded $330,000 in Azure credits to 7 faculty
+Associate Professor of Computer Science
+Media Algorithms Healthcare Decisions across 11 projects.
+This study seeks to bring attention to a new class of
+Main PI: Michael Bernstein Main PI: Carlos Ernesto Guestrin
+Featured Cloud Grants potential harms that may arise with the increasing
+Co-PIs: Angele Christin, Jeffrey Hancock, Tatsunori Hashimoto, Co-PIs: Carissa Carter, Emily Fox, Ramesh Johari, David Maahs, Priya Prahalad,
+use of algorithmic systems—ones that are especially
+Nathaniel Persily, Jeanne Tsai, Johan Ugander Sherri Rose, David Scheinker
+Intelligence—Google problematic at scale. The research looks at whether
+Imagine a future in which the AI algorithms that Researchers in medicine and engineering are
+foundation models tend to homogenize outcomes,
+underpin social media platforms help us achieve collaborating to develop new AI algorithms and “Large-scale Evaluation of Visual Intuitive
+producing results that are more similar across
+societal goals rather than undermining them. A team open-source tools that will transform the patient risk Physics,” Dan Yamins, Assistant Professor
+different tasks or applications. The team aims to
+of social science, engineering, and policy researchers assessment process. Their ultimate goal is to improve of Psychology and of Computer Science
+provide a scientific understanding of the principles
+is studying how to encode societal values into social clinical outcomes for Type 1 Diabetes, epilepsy, and
+An artificial system that could mimic human-like intuitive that dictate how foundation models homogenize
+media AIs. opioid overdose risk.
+physical prediction abilities, given real-world visual outcomes, as well as evaluate possible interventions
+input in complex environments, would be useful for to correct for homogenization.
+MARPLE: Explaining What Happened Matching Newcomers to Places:
+applications in computer vision, robotics, reinforcement
+through Multi-modal Simulation Leveraging Human-Centered AI to
+learning, and other areas. To help advance research Augment Human Capabilities—Google
+Main PI: Tobias Gerstenberg Improve Immigrant Integration
+in this area of AI, this team plans to create a large- “Online Surgical Analytics through
+Co-PIs: Chelsea Finn, Noah Goodman, Thomas Icard, Robert MacCoun, Main PI: Jens Hainmueller
+Jiajun Wu scale evaluation benchmark that captures a variety Computer Vision via Multi-task Learning,”
+Co-PIs: Avidit Acharya, Yonatan Gur, Tomas Jimenez, Dominik Rothenhaeusler
+of aspects of intuitive physics. Afterward, they will
+Serena Yeung, Assistant Professor of
+This project aims to bridge the gap between vision and
+Exactly where immigrants settle within a host country evaluate a large set of state-of-the-art models on
+language models by creating a way for AI systems to Biomedical Data Science
+shapes the experience they have, as well as their this new benchmark and provide a comprehensive
+integrate different sources of evidence into a causal contributions to the local economy and society. comparison to human performance in a unified way. Due to complexity and lack of suitable data training
+model of the world. The resulting framework will seek The goal of this project is to develop data-driven sets, AI has not been widely developed for open
+to mimic the human ability to infer what happened. matching tools for location decision-makers—both surgical procedures. This project aims to overcome
+governments and immigrants themselves. existing limitations by curating the largest dataset of
+Foundation Models: Integrating Technical
+open surgical videos to date. Using this dataset, the
+Advances, Social Responsibility,
+Dendritic Computation for team has developed a multi-task AI model that is
+and Applications
+Knowledge Systems capable of understanding surgical behaviors, hands,
+Main PI: Percy Liang and tools across both space and time.
+Co-PIs: Kwabena Boahen, Scott W Linderman, H.-S. Philip Wong, Matei Zaharia
+Co-PIs: Russ B. Altman, Jeannette Bohg, Akshay Chaudhari, Chelsea Finn,
+This team is working on a way to rein in AI’s
+Tatsunori Hashimoto, Dan E. Ho, Fei-Fei Li, Tengyu Ma, Christopher Manning,
+Christopher Re, Rob Reich, Dorsa Sadigh, Matei Zaharia unsustainable energy, carbon, and monetary costs,
+Foundation models represent a paradigm shift in AI. But distribute its productivity gains equitably, transform
+developers need to improve their technical capabilities, its users’ experience, and restore their privacy. Their
+while being sensitive to social responsibility and finding aim is to move away from learning with synapses (2-
+more real-world applications. A diverse team with D) to learning with dendrites (3-D).
+expertise in machine learning, law, political science,
+biomedicine, vision, and robotics is on the case.
+248 faculty members supported through
+8 9
+HAI research grants to date
+
+HAI Research Center Research Community
+Center for Research on During the past academic year, CRFM scholars To build community at Stanford, CRFM holds weekly
+authored dozens of papers, including: meetings that bring together scholars from different
+departments, including computer science, law,
+Foundation Models
+The Time Is Now to Develop Community political science, and biomedicine. To build norms and
+Norms for the Release of Foundation Models standards across the foundation model ecosystem,
+Center for Research on Foundation Models (CRFM) celebrated its one-year In this paper, the authors propose setting up a review board the center has put forth a proposal (featured as an
+op-ed in Protocol) on norms for the release of and
+anniversary in and now counts more than 300 students, faculty, and to develop community norms and encourage coordination
+access to foundation models. CRFM researchers
+on release of foundation models for research access.
+postdocs working on relevant research projects. engaged with policymakers at the HAI Congressional
+FlashAttention: Fast and Memory-Efficient AI Bootcamp and are beginning to write a series
+This center was founded to drive fundamental models provide valuable representations for many
+Exact Attention with IO-Awareness of policy briefs together with HAI’s policy team on
+advances in the responsible study, development, and downstream applications; however, the technology is
+foundation models, the evolving ecosystem, and
+deployment of foundation models. Foundation models advancing at a rapid pace and there are unknown risks This innovation enables significant gains in speed for
+norms/standards/benchmarks for ensuring the impact
+are resource-intensive AI systems, such as GPT-3, that must be considered. training foundation models and has been integrated
+of this technology is in the interest of public good.
+Codex, StableDiffusion, Imagen, and AlphaFold, into major frameworks, as well as adopted by many
+Stanford established CRFM to focus on three pillars:
+which are trained on broad data at scale. Foundation industry teams. In collaboration with HAI’s Industry Programs
+team, CRFM presented its work at key community
+Large Language Models Can Be Strong engagement events with Google, IBM, and Wells Fargo.
+Differentially Private Learners
+Research Resources Community
+Contrary to conventional wisdom that DP optimization
+The center conducts The center builds and releases CRFM engages with universities, fails at learning high-dimensional models, empirical
+interdisciplinary research that lays foundation models, code, and companies, policymakers, results from this study revealed that private learning with
+groundwork for how foundation tools to improve the ecosystem. and civil society to develop pre-trained language models doesn’t tend to suffer from
+models should be built to make professional norms that govern dimension-dependent performance degradation.
+them more efficient, robust, the responsible development and
+Meet CoAuthor, an Experiment in
+interpretable, multimodal, and just. deployment of foundation models.
+Human-AI Collaborative Writing
+A team of researchers studied how humans and AI can
+write together by designing large interaction datasets. This
+paper won an honorable mention at the 2022 ACM CHI
+Conference on Human Factors in Computing Systems.
+Percy Liang, Director of the Center for
+Borrowing from the Law to Filter Training
+Research on Foundation Models
+Data for Foundation Models
+Percy Liang is an associate professor of computer science
+Using “Pile of Law,” a dataset of legal materials, at Stanford University and the director of the Center for
+Stanford researchers explore filtering private or toxic Research on Foundation Models. His research spans many
+content from training data for foundation models. topics in machine learning and natural language processing,
+including robustness, interpretability, semantics, and
+Notably, CRFM was awarded a 2022 Hoffman-Yee
+reasoning. Percy’s awards include the Presidential Early
+Research Grant to continue this important work.
+Career Award for Scientists and Engineers (2019), IJCAI
+Computers and Thought Award (2016), an NSF CAREER
+Resources
+Award (2016), a Sloan Research Fellowship (2015), and a
+Microsoft Research Faculty Fellowship (2014).
+To make progress on building concrete artifacts and
+tools, CRFM has hired its first few engineers. This As the director of CRFM, he is leading Stanford’s efforts to
+make fundamental advances in the study, development, and
+is a critical step for building the infrastructure and
+deployment of foundation models through an interdisciplinary
+expertise in academia to grapple with the scale and
+group of faculty, students, postdocs, and researchers.
+complexity of foundation models.
+10 11
+
+HAI Research Center Research Highlights The Turing Trap: The Promise & Peril
+of Human-like Artificial Intelligence
+Stanford Digital Economy Lab
+National Employment Report
+AI that complements or augments humans
+The lab collaborated with the ADP Research Institute has a lot of economic potential, but right
+Over the last academic year, the Digital Economy Lab has been focused on on a new version of the National Employment Report. now the incentives for entrepreneurs,
+This work represents an important step toward engineers, and governments are misaligned
+conducting research and hosting major events. The lab currently has more than
+properly measuring labor and the economy using fine- in favor of substituting human labor. In
+50 research projects in its portfolio. Those projects fall into four areas of research: grained and high-frequency data. , Digital Economy Lab Director
+Erik Brynjolfsson published an essay
+Digital Resilience: How Work-from-Home outlining the social and economic dangers
+Feasibility Affects Firm Performance of disproportionately focusing on AI that
+Measuring the Digital Economy AI & The Future of Work
+automates human tasks. The essay explains
+In this exploration of remote-work, researchers
+Creating better methods of measuring the health of an Understanding the future of the workforce in a rapidly provided a first look at how work-from-home that engineers have strong incentives to focus
+increasingly digital economy changing global economy practices improved resilience to a major, on automation, but for AI to create economic
+value in the long term, ideas that lead to
+unanticipated social and economic shock. The team
+augmentation are essential. It was widely
+also completed a second wave of its survey with
+covered in the media and has continued to
+Gallup, which measures how Covid-19 and remote
+gain traction and seed new research ideas.
+work affected organizations and workers.
+Adoption of Advanced Technologies Digital Platforms and Society
+and Management Practices Exploring how digital technologies can transform Community Engagement
+platforms and social media infrastructure to
+Measuring, assessing, and predicting how data-driven and Public Outreach
+benefit society
+decision-making and management practices are
+impacting the global economy and workforce To gather high-level feedback on its research areas,
+the lab hosted two advisory group meetings, which
+pointed the organization toward some key directions
+for growth and the expansion of its work. To build
+community at Stanford, the lab hosted two Stanford
+faculty roundtable discussions as well as a summer
+community BBQ in collaboration with HAI, the Golub
+Capital Social Impact Lab, and Stanford’s RegLab.
+The Digital Economy Lab is building community
+beyond Stanford, too. Two major hybrid events were
+hosted on campus, and a biweekly hybrid seminar
+during the academic school year featured top thinkers
+Erik Brynjolfsson, Director of the Stanford
+and academics from around the world.
+Digital Economy Lab
+Efforts like the DigDig, a semimonthly newsletter that
+Jerry Yang and Akiko Yamazaki Professor and Senior Fellow at HAI, Ralph
+captures both important Digital Economy Lab and HAI Landau Senior Fellow at the Stanford Institute for Economic Policy Research
+(SIEPR), and professor, by courtesy, at the Stanford Graduate School of
+content, provide a way of reaching audiences outside
+Business and Stanford Department of Economics
+the academic community. Finally, in social media, the
+Christie Ko, Executive Director
+lab’s audience continues to grow primarily on Twitter,
+where it introduced a weekly update on important
+news from the digital economy.
+12 13
+
+Research Program Research Program
+AI Index Research Events
+Measuring trends in artificial intelligence.
+HAI and the AI Index Steering Committee published the • Policy events included a trip to Washington, DC
+2022 AI Index report in . The latest edition to brief policymakers and tech policy experts, 21
+
+included data from a broad set of academic, private, and briefings with Canadian Members of Parliament,
+13 20
+nonprofit organizations as well as more self-collected data and a general reception with the British Consulate
+18 10
+
+and original analysis than any previous edition. The authors General in San Francisco. 6 233 122 21
+included a variety of new data points to cover technical • For the academic audience, HAI presented to the 56 68 12 24 7 6 2 1
+performance in reinforcement learning, the pricing of 4829 5 4 1
+robotic arms, and artificial intelligence legislation. W Da o t r a l d E t E h c ic o s n o a m nd ic I n F n o o ru va m ti ’ o s n A , I a T n e d a m th , e t h C e e C nt e e n r t f r o e r f or 4458 24 46 23 22 16 6 4
+2 17
+
+The AI Index received positive press coverage, both around AI Governance. 1 15 11
+the time of the launch and throughout the rest of the The findings in the 2022 report also were used to 62 3 15 4 2 104 3 1 6 4
+academic year: highlights included pieces from publishers inform policy-making in Canada and the European 1 5 7
+like IEEE Spectrum, Fast Company and Morning Brew. Union. Canadian parliamentarians consulted with 1 1 4 10 4 6
+A number of prominent publications cited information the AI Index team on the current state of facial 5 21 1 11 7 2 1
+
+contained in the report—TechCrunch, Fortune, Forbes
+recognition, and data from the AI Index made it into 3
+11 62
+and the Harvard Business Review among them.
+the official report that the parliamentary committee
+
+released on its recommended regulation of facial
+HAI organized a total of 17 policy, public, and
+
+recognition technology in Canada. Meanwhile,
+academic events to promote the findings in the 2022
+13 10
+report. Some of the most notable public events were: members of the European Commission consulted 9 2
+with the AI Index team to better understand the
+• Virtual briefings at the HAI weekly seminar and a European Union’s relative position in the international
+virtual presentation and fireside chat with a Chinese AI ecosystem.
+translation partner.
+Weekly seminars In , the HAI Collaboration Workshop
+provided a great example of community building
+HAI’s research team hosted 19 weekly seminars for more than 40 Stanford faculty. Designed as an
+from Stanford and non-Stanford researchers across in-person workshop to support faculty in forming
+a wide range of topics, from “Decolonial AI” to interdisciplinary research collaborations, the three-
+“Embodied Intelligence.” Seminars for the academic hour event included a combination of interactive
+year were held as virtual live events averaging about activities and discussion.
+
+170 attendees. In all, the seminars reached more than
+In , HAI collaborated with the IEEE Standards
+3000 3,300 people from 90 countries.
+Association and Stanford Woods Institute for the
+Environment to host Advancing Technology for a
+2500 Workshops
+Sustainable Planet, a two-day event as part of IEEE’s
+2000 In , HAI partnered with ETH Zurich AI Planet Positive 2030 campaign. Panel sessions explored
+regulatory, policy, and financial frameworks critical to
+Center to host the Data-Centric AI Virtual Workshop.
+1500 advancing technology that prioritizes people, planet,
+Sessions were hosted in both the U.S. and Europe.
+and purpose-driven progress. After the keynotes
+The recorded version of this event is one of HAI’s
+
+and panels, attendees were invited to contribute to most-viewed videos on YouTube. At the end of the
+a compendium document, “Strong Sustainability by
+500 workshop, HAI Research launched the Data-Centric
+Design,” which seeks to address climate change issues
+AI Benchmarking Competition.
+0 with recommendations and practical approaches.
+erocS
+olE
+Chess Software Engines: Elo Score
+Progress in reinforcement learning, an important AI skill capability, can be captured by the performance of the world’s top chess software engines.
+Computers surpassed human performance in chess a long time ago, and since then have not stopped improving.
+Source: Swedish Computer Chess Association, 2021. Chart: 2022 AI Index Report
+3,581
+2882, Magnus Carlsen
+2300, Expert
+1700, Intermediate
+800, Novice
+1987 1992 1997 2002 2007 2012 2017 2022
+14 1155
+
+Education and Training for Policymakers
+Promote National AI Research
+Resource (NAIRR)
+In an effort to better educate policymakers and
+combat false narratives on the NAIRR, the policy team
+partnered with organizations on two events, one with
+Georgetown CSET and another with the Center for
+Data Innovation and SeedAI.
+Artificial Intelligence and the Economy:
+Charting a Path for Responsible and
+Inclusive AI
+In , HAI co-hosted a one-day symposium
+with the Department of Commerce, National Institute
+of Standards and Technology, and FinRegLab at the
+Commerce Department in Washington, D.C. The
+symposium focused on responsible AI integration in the
+economy, general risk, financial services, and healthcare.
+HAI Congressional Staff Boot Camp
+In , HAI welcomed a diverse cohort of
+26 congressional staffers from both the House and
+Senate for a three-day educational event. Sessions
+Policy covered what AI means for international security,
+the future of work, and healthcare. The event also
+included fireside chats with leading AI experts,
+Engaging AI
+networking dinners, and field trips to Stanford labs.
+Leaders and
+Policymakers
+Stanford HAI’s policy team studies AI governance
+and appropriate uses, with a commitment to
+bringing AI leaders and policymakers together
+to learn about and discuss strategies for guiding On April 27, former HAI Associate Director Susan Athey joined Deputy From August 8-11, a bipartisan cohort of 26 congressional staffers from the
+Secretary of Commerce Don Graves and Acting Comptroller of the Currency House and the Senate joined our first Congressional Bootcamp on AI. They
+human-centered AI. Activities include education and Michael J. Hsu in a fireside chat during a symposium co-hosted by HAI, the participated in sessions which explored what AI means for international
+U.S. Dept. of Commerce, NIST, and FinRegLab. security, future of work, healthcare, and more.
+training for policymakers, as well as policy initiatives,
+publications, and events.
+16 17
+
+Policy Briefings in Washington, D.C. U.S. and E.U. Policymakers Visit Stanford
+The HAI policy team led Stanford faculty members to hold briefings for Throughout the academic year, HAI hosted a number
+of visits from high-level representatives to engage and
+policymakers in D.C. on AI-related research at Stanford.
+inform government officials on AI policy opportunities
+and challenges.
+U.S. Federal Agencies Congressional Offices
+Meetings included Senator Mark Warner,
+and Committees
+White House office of Science and Technology Representative Jerry McNerney, Representative
+(OSTP) Anna Eshoo, then-UK Chancellor of the Exchequer
+Congressional Black Caucus
+Rishi Sunak, eight members of the E.U. parliament
+Department of State (Bureau of Cyberspace and
+Congressional and Senate AI Caucuses with MEP Victor Negrescu, an Austrian government
+Digital Policy, Office of the Science and Technology
+delegation, a Norwegian government delegation,
+Adviser to the U.S. Secretary of State, Center for Senate and House Intelligence Committee
+an Estonian government delegation, and the Taipei
+Analytics)
+Senate Committee on Commerce, Science, Economic and Cultural Office (TECO). On May 25, HAI faculty affiliates and directors met with members of the
+General Accountability Office (GAO) and Transportation European Parliament at Stanford University to discuss the Digital Revolution,
+privacy, surveillance, and other AI regulatory issues.
+These visits served to enhance the visibility of cutting-
+National Security Council (NSC) House Select Committee on Economic Disparity
+edge Stanford AI research, promote direct dialogues
+and Fairness in Growth
+Central Intelligence Agency (CIA) between the federal government and academia, and
+House Committee on Science, Space, and Technology identify opportunities and gaps for collaboration in AI
+National Science Foundation (NSF)
+R&D, governance initiatives, and development of AI
+Office of Senator Martin Heinrich
+policy norms.
+Office of Senator Mark Warner
+Think Tanks
+Office of Senator Cory Booker
+Policy Initiatives
+Special Competitive Studies
+Project (SCSP) Office of Senator Alex Padilla
+Center for a New American Office of Senator Rob Portman
+Emerging Technology Policy Multilateral AI Research
+Security (CNAS)
+Office of Senator Mike Rounds Writing Competition Institute (MAIRI)
+Georgetown Center for Security
+Office of Representative Anna Eshoo HAI worked together with the Digital Economy HAI published this white paper to map a
+and Emerging Technology (CSET)
+Lab and the Stanford Institute for Economic Policy blueprint for a research institute that would
+Office of Representative Ted Lieu
+Center for Strategic and Research (SIEPR) to seek submissions of policy briefs provide a way to accelerate AI research and
+International Studies (CSIS) Office of Representative Jerry McNerney from Stanford graduate students. The competition development collaboration among like-
+Office of Representative Jay Obernolte aimed to cultivate succinct, effective, and evidence- minded countries. The authors make the
+based policy writing that can help policymakers case for how an institute like this could help
+map out a human-centric approach to responsible to establish better AI research standards
+development and deployment of AI technologies. worldwide for the responsible and inclusive
+development of AI.
+AI Audit Challenge
+In , HAI’s policy team coordinated with
+Marietje Schaake, Rob Reich, and Jack Clark to
+launch an algorithmic auditing competition. HAI
+invited participants to design and create applied
+tools to assess whether deployed AI systems exhibit
+bias or other harm. With a grant from the Rockefeller
+Foundation, the competition had a total of $71,000
+to offer the winning submissions. The application
+process was still underway at the end of AY 2021-22
+with awards planned to be announced in early 2023.
+18 1199
+
+Policy Publications Faculty Engagement
+Healthcare Policy Steering Committee
+HAI’s policy team translates cutting-edge, multidisciplinary AI research into digestible
+A committee led by HAI Associate Director
+formats for policymakers. The team also produces original AI-related policy research to
+Curt Langlotz met three times during the
+equip policymakers with tools to understand and govern this technology. academic year to build the community and
+discuss research agendas. The committee
+also funded three policy-related healthcare
+research grants.
+Policy Briefs Federal Requests for Information
+International Security
+During the last academic year, we published five Federal Requests for Information (RFIs) synthesize Steering Committee
+policy briefs: academic research and perspectives to provide the
+Led by Hoover Institution Senior Fellow and
+federal government with necessary tools and knowledge
+Risks of AI Race Detection in the Medical System Professor of Political Science (by courtesy),
+to develop AI-related governance initiatives. In response
+Amy Zegart, the committee commissioned a
+Using Satellite Imagery to Understand and Promote to the White House Office of Science and Technology
+study on DOD use cases in AI at the non-
+Sustainable Development Policy, HAI prepared the following:
+combat level and supported participation in
+Toward Stronger FDA Approval Standards for AI
+AI Bill of Rights for public and private sector use of the newly launched Stanford Emerging Tech
+Medical Devices
+biometric technologies Review. It also held various engagements
+A New Direction for Machine Learning in
+across campus.
+Recommendations on updating the National AI R&D
+Criminal Law
+Strategic Plan
+Promoting Algorithmic Fairness in Clinical Faculty-originated Policy Research
+Feedback to the National AI Research Resource
+Risk Prediction
+Interim Report HAI’s policy team is working with Professor
+of Law and Health Policy Michelle Mello on a
+comprehensive study of liability related to AI
+use in healthcare, funded by the Healthcare
+Policy Steering Committee.
+Policy Explainers Recommendations to the
+National Institute of Standards
+HAI’s policy explainers summarize key points of AI-
+relevant legislation or other legal documents to help and Technology
+decision-makers find the information they need to
+make effective decisions. These three explainers were To assist the National Institute of Standards and
+published in AY 2021-22: Technology, HAI prepared recommendations on
+how standards can be applied to a more productive
+EU AI Act digital economy.
+AI-related Provisions from the National Defense
+Authorization Act 2022
+What The CHIPS and Science Act means for
+Artificial Intelligence
+
+Reaching Faculty at Stanford and Beyond
+During AY 2021-22, HAI enrolled more than 7,000 people across its education
+Education
+programs, including 50 faculty from Stanford and other institutions who were
+trained in matters related to human-centered AI.
+Educating the
+Special Initiatives For Current Leaders
+Leaders of Today
+Stanford AI+Health Conference Government Education
+The inaugural Stanford AI+Health Conference, held HAI now offers six distinct programs targeting more
+and Tomorrow December 8-9, 2021, was the largest AI+Health than 100 government executives and policymakers.
+Conference in Stanford’s history in terms of audience In addition to the Congressional Boot Camp, four
+size and faculty participation, with more than 150 additional training programs provided opportunities
+Stanford faculty presenting. During this online event, for executives across federal government bodies in
+HAI’s growing portfolio of programs helps Stanford HAI, the Artificial Intelligence in Medicine & the U.S. and internationally to learn about the latest AI
+Imaging (AIMI) center, and the Center for Continuing trends and issues.
+high-impact decision-makers and emerging leaders
+Medical Education (CME) convened experts and
+to pursue cutting-edge research, create useful and leaders from academia, industry, government, and Executive Education
+responsible AI, and respond thoughtfully to the clinical practice to explore emerging issues related to 5,000 executives and professionals enrolled in HAI’s
+AI’s impact on healthcare. Executive and Professional Education offerings during
+societal and ethical implications of global AI.
+the academic year. Highlights included the launch
+Stanford Art + Tech Salon
+of an invitation-only CEO Roundtable Series and
+Stanford Art + Tech Salon is a quarterly get-together a new custom Executive Education program that
+for affiliated artists, researchers, scholars, and students gives organizations the option to choose among 100
+who work at the intersection of arts and tech to share AI topics. In , Journalist Day at HAI
+work and engage in discussions. Events are produced focused on AI Imperatives for 2022. The education
+through a partnership with Stanford Arts. AY 2021-2022 team also provided faculty training on “Teaching
+events included a spotlight on Jeremy Bailenson and AI and Ethics: Lessons from Stanford’s Embedded
+Cyan DeVeaux’s work creating classes and new worlds EthiCS Team” for the Stanford Educational Partnership
+in VR; Lark Alder and Khuyen Le on Queer Technology for Internationalizing Curriculum (EPIC) Community
+and Speculative Design; and Ge Wang and Kunwoo College Faculty Fellowship.
+Kim on Music, Computing and Design.
+For Future Leaders
+A group of high school students attended a three-
+week live virtual program called Stanford AI4ALL
+to get immersed in AI through a combination of
+lectures, hands-on research projects, and mentoring
+activities. HAI also offered two courses in Stanford’s
+Pre-collegiate Summer Institutes: Artificial
+Intelligence and Fundamentals of Augmented Reality.
+In the spring, HAI’s “Visions of the Future” online
+In the summer of 2022, 30+ high school students participated in a three-week
+course reached 500 global students, covering the
+AI4ALL program where they learned about AI through lectures, mentorship,
+and hands-on research projects. future impact of AI, as well as AI and the metaverse,
+healthcare, and blockchain.
+22 23
+
+Denning Co-Directors Associate Directors
+HAI’s co-directors lead the institute much like an academic startup, making HAI’s associate directors bring a diverse mix of backgrounds and experience
+sure that all of the institute’s work reflects a passion for the safe and responsible to the institute. They are essential to the execution of HAI’s multidisciplinary
+development of AI technology. approach to studying AI.
+Russ Altman Susan Athey Michele Elam
+Kenneth Fong Professor and Professor of Economics of Technology Professor, Senior Fellow William Robertson Coe Professor of Humanities,
+Bioengineering, of Genetics, of Medicine (General at the Stanford Institute for Economic Policy Department of English, Center for Comparative
+Medical Discipline), of Biomedical Data Science, Research and Professor, by courtesy, of Economics Studies in Race & Ethnicity, African & African
+John Etchemendy Fei-Fei Li and, by courtesy, of Computer Science Susan published “Uncovering American Studies
+Russ co-hosted the HAI Fall interpretable potential confounders Michele presented on AI & the Future
+Provost, Emeritus, and Patrick Suppes Family Professor in the School of Sequoia Professor, Computer Science Department
+Humanities and Sciences Conference with James Landay and in electronic medical records” in of the Creative Industry at the Stanford
+Fei-Fei co-led the HAI Spring Conference on Key co-chaired the search for HAI Junior MedRxiv and spoke at the HAI HAI Congressional Boot Camp on
+In AY 2021-22, John served as chair of the Hoffman-
+Advances in Artificial Intelligence and spoke at the Fellows with John Etchemendy, joint event with IEEE, “Advancing Artificial Intelligence, and with Russell
+Yee Grant Selection Committee and was named to
+Stanford HAI Congressional Boot Camp on Artificial which resulted in the hiring of Shriti Technology for a Sustainable Future.” Wald, briefed congressional staffers
+the AI Index Steering Committee. He also taught Intelligence in AY 2021-22. She was named to the Raj, HAI’s newest Junior Faculty In July, she moved on from HAI to on art, equity, and generative AI. She
+“Philosophy of Artificial Intelligence” to undergraduate The Center for Strategic and International Studies Fellow (). Russ also served accept a position as chief economist authored four peer-reviewed articles
+students. Notably, John received the K. Jon Barwise (CSIS) AI Council, and she published several papers: as Faculty Director for AI100, spoke of the antitrust division at the U.S. placed in top journals in the humanities
+Prize from the American Philosophical Association, “Embodied intelligence via learning and evolution” at the School of Engineering event on Department of Justice. as well as “The Stanford HAI Bill of
+honoring “significant and sustained contributions to Principled Engineering: AI and Drug Rights,” co-led with Rob Reich. She
+in Nature Communications; “Advances, challenges
+the intersection of philosophy and computation.” Development, and worked with Curt taught two interdisciplinary classes
+and opportunities in creating data for trustworthy AI”
+Langlotz to strengthen ties between on human-centered AI that examine
+in Nature Machine Intelligence; and “Searching for
+HAI and the School of Medicine. race, gender, disability & equity, and
+Computer Vision North Stars” (co-author) in Dædalus.
+gave keynote talks on human-centered
+Fei-Fei received the Thomas S. Huang Memorial
+AI at the University of Chicago,
+Prize which honors scientists who are recognized as Ohio State, UCLA, Princeton, and
+examples in research, teaching/mentoring and service Cambridge (UK). Her HAI committee
+to the computer vision community. work included Hoffman-Yee and
+Junior Fellows selection, and faculty
+lead for the HAI Visiting Artist
+selection committee. Michele is the
+faculty lead for the Arts & Tech Salon
+and represented HAI on the Race &
+Tech Initiative (co-sponsored by HAI
+and Center for Comparative Studies
+in Race & Ethnicity).
+
+Surya Ganguli Daniel E. Ho James Landay Curtis P. Langlotz Christopher Manning Rob Reich
+Associate Professor of Applied Physics, and, William Benjamin Scott and Luna M. Scott Anand Rajaraman and Venky Harinarayan Professor of Radiology, Medicine and Biomedical Professor of Political Science, Faculty Director
+Thomas M. Siebel Professor in Machine
+by courtesy, of Neurobiology, of Electrical Professor of Law; Professor of Political Science; Professor in the School of Engineering, Professor Data Science; Director, Center for Artificial of the McCoy Family Center for Ethics in Society,
+Learning, Professor of Linguistics and of
+Engineering, and of Computer Science Senior Fellow, SIEPR; Faculty Fellow, CASBS; of Computer Science Intelligence in Medicine & Imaging and the Marc and Laura Andreessen Faculty
+Computer Science; Director, Stanford Artificial
+Faculty Director, Stanford RegLab Co-Director of the Stanford Center on
+Surya published “Embodied James co-hosted the HAI Fall Curtis chaired the HAI Steering Intelligence Laboratory (SAIL)
+Philanthropy and Civil Society
+intelligence via learning and Daniel was appointed to the National Conference with Russ Altman on Committee on Healthcare Policy, Chris co-led the HAI Spring
+evolution” in Nature Communications AI Advisory Commission to advise the “AI in the Loop: Humans in Charge.” which initiated studies of tort liability Conference on Key Advances in Rob published a paperback version of
+and co-led an HAI seminar on this White House on AI policy, as well as to He was named Vice Director and and medical AI and dangers of Artificial Intelligence. He also leads the System Error: Where Big Tech Went
+work. He also published “Emergent the Committee on National Statistics Faculty Director of Research for health AI dual use. He published HAI cloud credit grant programs. He Wrong and How We Can Reboot,
+reliability in sensory cortical coding at the National Academies. He served HAI, and he continued to lead HAI’s “Implementation of Clinical Artificial published papers including “Human with Mehran Sahami and Jeremy M.
+and inter-area communication” in as co-lead for the HAI Fall Conference grant programs and to co-lead the Intelligence in Radiology: Who language understanding and reasoning” Weinstein, with Brazilian, Korean, and
+Nature and gave a lecture on Applied on Policy & AI: Four Radical Proposals Hoffman-Yee Symposium. James gave Decides and How?” which proposed a in Dædalus and “Fast model editing Japanese translations also released
+Physics/Physics Colloquium. for a Better Society. Daniel spoke a keynote on “‘AI for Good’ Isn’t Good risk model and governance structure at scale” and “GreaseLM: Graph in 2022. He spoke at the HAI Spring
+about Public Sector AI at the Artificial Enough: A Call for Human-Centered for the implementation of AI in health REASoning Enhanced Language Conference on Key Advances in
+Intelligence and the Economy event in AI” at MobiCom 2022 in Sydney, imaging. He also led the AIMI-HAI Models” at ICLR 2022. Artificial Intelligence and co-authored
+Washington, D.C., which was co-hosted The Australian National University, partnership grant program, which a HAI blog post, “The Time Is Now to
+with the Department of Commerce Brown University, and Northwestern provided over $1 million in new and Develop Community Norms for the
+and FinRegLab. He also spoke at the University. In , he ambitious ideas that reimagine AI in Release of Foundation Models.” He
+Stanford HAI Congressional Boot Camp published “End-User Audits: A System healthcare, using real clinical datasets, continued to guide development of
+on Artificial Intelligence. Additionally, Empowering Communities to Lead with near-term clinical applications. the Embedded EthiCS initiative.
+he taught “Antidiscrimination Law and Large-Scale Investigations of Harmful Curtis also helped organize the
+Algorithmic Bias,” and co-led a HAI Algorithmic Behavior,” along with Stanford AI+Health conference, which
+seminar on “A Blueprint for the National Michelle S. Lam, Mitchell L. Gordon, explored critical and emerging issues
+Research Cloud.” His publications included Danaë Metaxa, Jeffrey T. Hancock, related to AI’s impact across the
+“Advances, challenges and opportunities and Michael S. Bernstein, in Proc. spectrum of healthcare.
+in creating data for trustworthy AI” in ACM Hum.-Comput. Interact. 6,
+Nature Machine Intelligence. CSCW2, Article 512.
+Staff Krysten Hommel Vanessa Parli Michael Sellitto
+Senior Associate Director, Strategic Initiatives Associate Director of Research Programs
+Deputy Director (through )
+HAI depends on an exceptionally (through )
+Stacy Peña Michael Sellitto led the institute through a substantial growth phase, more than
+capable staff to realize its mission Amita Kumar
+Director of Communications doubling its size during the pandemic and significantly expanding its internal
+and run programs that have wide
+Director of Administration and external reach. In , Mike joined AI startup Anthropic as Head of
+appeal and global impact. John Robichaux
+Geopolitics and Security. He is also a co-author of the annual AI Index report and
+Panos Madamopoulos-Moraris
+Director of Education
+co-chairs an experts working group on national AI policy implementation at the
+Managing Director of Industry Programs and
+Partnerships Russell Wald Organization for Economic Cooperation and Development (OECD).
+Managing Director for Policy & Society
+Maura McGinnity
+Senior Director of Development,
+Strategic Initiatives
+26 2277
+
+Faculty and Fellows Junior Faculty Fellows
+2021–22 HAI Fellows
+HAI currently has 250 affiliated Stanford faculty from across all seven schools.
+Diana Acosta Navas
+Each year, the institute aims to support the work of researchers who focus on
+Embedded EthiCS Fellow
+the intersection of multiple disciplines. In AY 2021-22, HAI launched two new
+Sarah Bana
+graduate fellowships: The HAI Graduate Fellowship Program, led by HAI Junior DEL Postdoctoral Fellow
+Faculty Fellow and Assistant Professor in the Psychology Department, Johannes
+Kathleen Creel
+Eichstaedt, and the Technology and Racial Equity Graduate Fellowship offered in Embedded EthiCS Fellow
+partnership with the Center for Comparative Studies in Race and Ethnicity (CCSRE). Ruyu Chen
+Hariharan Subramonyam Johannes Eichstaedt
+DEL Postdoctoral Fellow
+HAI Junior Faculty Fellow HAI Junior Faculty Fellow
+Featured Fellows
+Jeffrey Ding
+Hari Subramonyam is an Assistant Johannes is a computational social
+HAI-CISAC Postdoctoral Fellow
+Professor at the Graduate School of scientist jointly appointed as a Ram
+Education and Computer Science and Vijay Shriram HAI Faculty Fellow Vael Gates
+(by courtesy). He is a Ram and Vijay and Assistant Professor (Research) of HAI-CISAC Postdoctoral Fellow
+Shriram Faculty Fellow at Stanford Psychology. He analyzes large social
+HAI. Hari’s research looks at enabling text (Twitter, Facebook, Reddit, etc.) Jazmia Henry
+multidisciplinary teams to design and with NLP and AI to understand and HAI-CCSRE Practitioner Fellow
+develop ethical, responsible, and measure psychological processes for
+Todd Karhu
+human-centered experiences with individuals and populations—such
+HAI-EIS Postdoctoral Fellow
+AI. A specific application area of his as building early warning systems for
+research is AI in education, where mental health. Currently, Johannes Jennifer King
+he draws from cognitive psychology is focused on leveraging generative HAI Privacy and Data Policy Fellow
+Kathleen Creel Jazmia Henry Peter Norvig
+principles to augment human learning, language models (like ChatGPT) to
+Embedded EthiCS Fellow HAI-CCSRE Practitioner Fellow Distinguished Education Fellow Jae Joon Lee
+creativity, and visual sensemaking. deliver high-fidelity therapy and positive
+DEL Postdoctoral Fellow
+In her second year of a two-year Machine learning specialist Jazmia AI expert Peter Norvig has joined interventions (like gratitude exercises).
+fellowship, Kathleen Creel seeks Henry focuses on finding a way to Stanford HAI as a Distinguished
+J. Frank Li
+to understand ethical questions responsibly incorporate African Education Fellow to help develop a
+DEL Postdoctoral Fellow
+posed by emerging technologies American Vernacular English (AAVE) human-focused AI curriculum and
+with an interdisciplinary approach. into natural language processing broaden access to education. A Evelyn Mei
+She teaches in and creates course models. As a fellow at HAI and the longtime innovator in the field, he co- HAI-CCSRE Practitioner Fellow
+material for a program designed to Center for Comparative Studies in wrote Artificial Intelligence: A Modern
+Collier Navaroli
+embed ethical considerations into Race and Ethnicity, she has created Approach, an introductory textbook Content
+HAI-CCSRE Practitioner Fellow
+the computer science curriculum. an open-source corpora of more used by 1,500 universities worldwide.
+She’s also pursuing her own research, than 141,000 AAVE words to help He has taught hundreds of thousands HAI’s content team published 97 blog posts, 9 announcement Rashaad Newsome
+collaborating with interdisciplinary researchers and builders design of students through his courses on the stories, and 61 videos, accumulating 552,000 pageviews and 169,700 Visiting Artist
+scholars from HAI’s Center for models that are both inclusive and online education platform Udacity. views on YouTube. The team increased social media following by
+Research on Foundation Models less susceptible to bias. 42% during the academic year and set up a syndication partnership Peter Norvig
+(CRFM) to study the negative with VentureBeat. Content highlights from the year included: HAI Distinguished Education Fellow
+impact of algorithmic monoculture
+Marietje Schaake
+on individuals. • A healthcare AI series covering explainability, generalizability, privacy
+HAI International Policy Fellow
+and fairness concerns, and whether AI for health is even useful
+Faye-Marie Vassell
+• A fall conference series examining crucial ideas around data
+STEM Education, Equity, and
+intermediaries, UBI, middleware, and AI audits
+Inclusion Fellow
+• The People of HAI series, highlighting the personalities and
+ambitions of the people affiliated with HAI
+• A video series on this year’s Hoffman-Yee Grant recipients and
+their research goals
+28 29
+
+Research Centers and Partners Corporate Members Program
+HAI’s work depends on close collaboration with many labs, centers, and institutes For its community of corporate members, HAI The HAI Corporate Affiliate Program launched a
+published two corporate industry briefs on Robotics second program area on Consumer Goods, Retail
+across the Stanford campus and beyond.
+& AI and Education & AI. The Founding Members & AI. This effort aims to provide an environment
+Program leveraged research tokens, Fellow-Mentor- for manufacturers, suppliers, distributors, retail
+AI100 Data Analytics for Regulation, Evaluation,
+Advisor relationships, and visiting scholars to facilitate chains and consumer goods and retail corporations
+What’s Next and Governance Lab
+The One Hundred Year Study on
+research collaborations and distribute almost $1.5 to engage with Stanford at the nexus of their most
+Artificial Intelligence, or AI100, is a Despite incredible recent advances in The Regulation, Evaluation, and million to faculty and programs across the university. fundamental AI challenges. The HAI Corporate
+100-year effort to study and anticipate machine learning, building machine Governance Lab (RegLab) partners
+Funded projects are addressing foundation models, Program also includes a general program area for
+how the effects of artificial intelligence learning applications remains with government agencies to design
+AI trust, social computing, conversational AI, and companies with a more horizontal interest in AI.
+will ripple through every aspect of how prohibitively time-consuming and and evaluate programs, policies, and
+human-computer/human-robot interaction. In
+people work, live, and play. expensive for all but the best-trained, technologies that modernize governance.
+addition, HAI developed a tailored AI Seminar Series
+best-funded engineering organizations.
+AI Index Stanford Artificial for corporate members.
+Data Analytics for What’s Next, or
+The AI Index is an effort to track, DAWN, is a five-year research project to Intelligence Laboratory
+collate, distill and visualize data relating democratize AI by making it dramatically
+The Stanford Artificial Intelligence
+to artificial intelligence. It aspires to be easier to build AI-powered applications.
+Laboratory (SAIL) has been a center of
+a comprehensive resource of data and
+excellence for AI research, teaching, theory,
+Digital Economy Lab
+analysis for policymakers, researchers,
+and practice since its founding in 1962.
+executives, journalists, and the general The Stanford Digital Economy Lab at The collaboration with HAI has evolved into deeper HAI continues to be a critical engagement for Wells
+public to develop intuitions about the HAI is an interdisciplinary research group Stanford Partners engagement over the course of the past year. Our Fargo’s innovation plans, specifically in the AI/ML
+complex field of AI. studying how digital technologies are
+Black in AI Research (BlackAIR) researchers interact regularly with faculty and graduate space. Its cross-discipline approach and resulting
+transforming work, organizations, and
+Center for AI Safety students on research topics of mutual interest, sharing access to deep subject matter expertise approaching
+the economy. An engine for research and Center for AI in Medicine & Imaging
+research outcomes through joint publications and the problems from different perspectives is the only
+The mission of the Stanford Center education, the Lab brings together an (AIMI)
+open-source code contributions. This is a natural way we will solve hard problems of explainability
+for AI Safety is to develop rigorous unprecedented group of stakeholders to
+Center for Comparative Studies in transition into the kind of deep joint collaboration that and bias for what will be an increasingly complex
+techniques for building safe and analyze data, run experiments, develop
+Race and Ethnicity (CCSRE)
+trustworthy AI systems and establishing theories, and provide actionable insights. we envisioned would happen as HAI grew out of the ecosystem of AI.
+McCoy Family Center for Ethics in founding stages into steady-state operation.
+confidence in their behavior and
+Golub Capital Social Society Chintan Mehta, CIO, Head of Digital
+robustness, thereby facilitating their
+Jeffrey J. Welser, COO, IBM Research, VP Technology and Innovation, Wells Fargo
+successful adoption in society. Impact Lab Center for International Security Exploratory Science & University
+The Golub Capital Social Impact Lab and Cooperation (CISAC) Collaboration
+Center for Research on
+uses digital technology and social science Cyber Policy Center
+Foundation Models
+research to improve the effectiveness of
+Digital Civil Society Lab (DCSL)
+The Center for Research on Foundation leading social sector organizations. Based
+Models (CRFM) is an interdisciplinary out of Stanford GSB, the lab is a research Hoover Institution
+initiative born out of Stanford HAI that initiative of affiliated academics and staff, Institute for Diversity in the Arts Google recognizes that HAI’s interdisciplinary
+aims to make fundamental advances as well as researchers and students, who perspective is key to shaping an inclusive AI future.
+John S. Knight Journalism
+in the study, development, and are passionate about conducting research
+The HAI Founding Members Program allows for
+Fellowships (JSK)
+deployment of foundation models. that guides and improves the process of
+customizable, project-based collaborations that
+innovation. Office of the Vice President
+engage participating Googlers with new topics,
+Center for the Study of
+for the Arts
+Language and Information Open Virtual Assistant Lab methods, and people in the domain of human-
+Stanford Aging and Ethnogeriatrics centered AI. We look forward to expanding on these
+The Center for the Study of Language Open Virtual Assistant Lab, or OVAL, (SAGE) Research Center
+initiatives as we continue our work with HAI.
+and Information (CSLI) serves Stanford is creating an ecosystem founded on
+Stanford Institute for Economic
+faculty and students who are engaged open virtual assistant technology that Jeff Dean, Google Senior Fellow and SVP
+Policy Research (SIEPR)
+in research involving computational, democratizes AI for linguistic user of Google Research
+logical, and stochastic modeling of interfaces, creates an open and non- Wu Tsai Neurosciences Institute
+cognitive functions and processes. proprietary web, and promotes sharing
+with individual data ownership. External Partners
+30 AI4All 3311
+
+Funding Financials
+Sponsored Cloud Credits Facilities
+Research (in kind) Upgrade
+4% 5% 7%
+Community Operations
+Endowment
+and (HAI, CSLI, DEL)
+Payouts
+Programs 26%
+3%
+13%
+In FY22, HAI
+issued $11.1M
+Total Total
+in research
+$64,910,741
+$27,308,730
+grants. People
+6%
+Research
+Gifts and 48%
+Other Income
+88%
+Sources of Income1 HAI Research Support Operations
+26%
+$7,563,459
+Gifts and Other Income Cloud Credit Grants $3,172,125
+88% People
+$56,842,049
+6%
+Hoffman-Yee Grants $6,000,000 $1,861,892
+Endowment Payouts
+3% Research
+$2,280,196 Seed Grants $1,960,248
+48%
+$14,001,153
+Sponsored Research
+Total $11,132,373
+4% Community and Programs
+$2,616,371
+13%
+$3,882,226
+Cloud Credits (in kind)
+5% Facilities Upgrade
+$3,172,125
+7%
+$2,000,000
+Total $64,910,741
+Total $27,308,730
+1 Income does not include increases in endowment principal
+32 3333
+
+Advisory Council Support for HAI
+The HAI Advisory Council consists of leaders in Stanford HAI is grateful for the generosity of those
+science, civil society, and business who provide HAI who provide support to make its work possible. The
+with expert advice on issues relevant to the institute’s institute welcomes gifts made online.
+mission and programs. Reid Hoffman serves as chair
+of the council, along with vice chairs Steve Denning
+and Srinija Srinivasan.
+Thank You
+Thank you for taking the time to learn about Visit us
+hai.stanford.edu
+our ongoing work across the AI landscape. We
+appreciate your support and encourage you to Reach out
+contact us with any questions. hai-institute@stanford.edu
+Subscribe to our
+353 Jane Stanford Way
+newsletter
+Stanford University
+Stanford, CA 94305
+Follow us

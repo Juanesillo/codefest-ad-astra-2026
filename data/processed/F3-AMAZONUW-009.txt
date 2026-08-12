@@ -1,0 +1,169 @@
+capa: au_compilado_R02, fid: 936, b_ADM2_ES: Bagua, b_ADM2_PCODE: PE0102, b_ADM1_ES: Amazonas, b_ADM1_PCODE: PE01, b_adm1_geral: Amazonas, b_adm2_geral: Bagua, b_ID_concatenated: amazonas-bagua, au_country: Peru, au_level1: Amazonas, au_level2: Bagua, au_population: 74100, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: VERDADEIRO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - Los Nocturnos de Bagua (en Aramango)
+Los Guardiantes de la Trocha (en Imaza) , au_popup_window_pt: - Los Nocturnos de Bagua (en Aramango)
+Los Guardiantes de la Trocha (en Imaza) , au_popup_window_en: - Los Nocturnos de Bagua (en Aramango)
+Los Guardiantes de la Trocha (en Imaza) , au_ID_concatenated: amazonas-bagua, au_area km: 5791.956302413522
+
+capa: au_compilado_R02, fid: 938, b_ADM2_ES: Condorcanqui, b_ADM2_PCODE: PE0104, b_ADM1_ES: Amazonas, b_ADM1_PCODE: PE01, b_adm1_geral: Amazonas, b_adm2_geral: Condorcanqui, b_ID_concatenated: amazonas-condorcanqui, au_country: Peru, au_level1: Amazonas, au_level2: Condorcanqui, au_population: 42470, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: VERDADEIRO, au_cv: FALSO, au_pcc: FALSO, au_others: VERDADEIRO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - Los Rápidos de Siasmi (en Amazonas)
+- Palaneros del Marañón (en Santa María)
+- Los Choneros, au_popup_window_pt: - Los Rápidos de Siasmi (en Amazonas)
+- Palaneros del Marañón (en Santa María)
+- Los Choneros, au_popup_window_en: - Los Rápidos de Siasmi (en Amazonas)
+- Palaneros del Marañón (en Santa María)
+- Los Choneros, au_ID_concatenated: amazonas-condorcanqui, au_area km: 17865.9281416938
+
+capa: au_compilado_R02, fid: 940, b_ADM2_ES: Huancabamba, b_ADM2_PCODE: PE2003, b_ADM1_ES: Piura, b_ADM1_PCODE: PE20, b_adm1_geral: Piura, b_adm2_geral: Huancabamba, b_ID_concatenated: piura-huancabamba, au_area km: 4293.684783907929
+
+capa: au_compilado_R02, fid: 941, b_ADM2_ES: Jaen, b_ADM2_PCODE: PE0608, b_ADM1_ES: Cajamarca, b_ADM1_PCODE: PE06, b_adm1_geral: Cajamarca, b_adm2_geral: Jaen, b_ID_concatenated: cajamarca-jaen, au_area km: 5062.289166086317
+
+capa: au_compilado_R02, fid: 953, b_ADM2_ES: Ferreñafe, b_ADM2_PCODE: PE1402, b_ADM1_ES: Lambayeque, b_ADM1_PCODE: PE14, b_adm1_geral: Lambayeque, b_adm2_geral: Ferreñafe, b_ID_concatenated: lambayeque-ferrenafe, au_area km: 1574.8991259867937
+
+capa: au_compilado_R02, fid: 954, b_ADM2_ES: Chota, b_ADM2_PCODE: PE0604, b_ADM1_ES: Cajamarca, b_ADM1_PCODE: PE06, b_adm1_geral: Cajamarca, b_adm2_geral: Chota, b_ID_concatenated: cajamarca-chota, au_area km: 3758.4673078425326
+
+capa: au_compilado_R02, fid: 955, b_ADM2_ES: Cutervo, b_ADM2_PCODE: PE0606, b_ADM1_ES: Cajamarca, b_ADM1_PCODE: PE06, b_adm1_geral: Cajamarca, b_adm2_geral: Cutervo, b_ID_concatenated: cajamarca-cutervo, au_area km: 3026.2128163784937
+
+capa: au_compilado_R02, fid: 956, b_ADM2_ES: Lambayeque, b_ADM2_PCODE: PE1403, b_ADM1_ES: Lambayeque, b_ADM1_PCODE: PE14, b_adm1_geral: Lambayeque, b_adm2_geral: Lambayeque, b_ID_concatenated: lambayeque-lambayeque, au_area km: 9595.963889297762
+
+capa: au_compilado_R02, fid: 964, b_ADM2_ES: Otuzco, b_ADM2_PCODE: PE1306, b_ADM1_ES: La Libertad, b_ADM1_PCODE: PE13, b_adm1_geral: La Libertad, b_adm2_geral: Otuzco, b_ID_concatenated: la_libertad-otuzco, au_area km: 2077.5663994815054
+
+capa: au_compilado_R02, fid: 965, b_ADM2_ES: Gran Chimu, b_ADM2_PCODE: PE1311, b_ADM1_ES: La Libertad, b_ADM1_PCODE: PE13, b_adm1_geral: La Libertad, b_adm2_geral: Gran Chimu, b_ID_concatenated: la_libertad-gran_chimu, au_area km: 1288.3116844605556
+
+capa: au_compilado_R02, fid: 966, b_ADM2_ES: Cajamarca, b_ADM2_PCODE: PE0601, b_ADM1_ES: Cajamarca, b_ADM1_PCODE: PE06, b_adm1_geral: Cajamarca, b_adm2_geral: Cajamarca, b_ID_concatenated: cajamarca-cajamarca, au_area km: 2974.852892876259
+
+capa: au_compilado_R02, fid: 967, b_ADM2_ES: San Miguel, b_ADM2_PCODE: PE0611, b_ADM1_ES: Cajamarca, b_ADM1_PCODE: PE06, b_adm1_geral: Cajamarca, b_adm2_geral: San Miguel, b_ID_concatenated: cajamarca-san_miguel, au_area km: 2535.2358785660176
+
+capa: au_compilado_R02, fid: 968, b_ADM2_ES: Hualgayoc, b_ADM2_PCODE: PE0607, b_ADM1_ES: Cajamarca, b_ADM1_PCODE: PE06, b_adm1_geral: Cajamarca, b_adm2_geral: Hualgayoc, b_ID_concatenated: cajamarca-hualgayoc, au_area km: 787.5612405458827
+
+capa: au_compilado_R02, fid: 969, b_ADM2_ES: San Pablo, b_ADM2_PCODE: PE0612, b_ADM1_ES: Cajamarca, b_ADM1_PCODE: PE06, b_adm1_geral: Cajamarca, b_adm2_geral: San Pablo, b_ID_concatenated: cajamarca-san_pablo, au_area km: 664.8147511479152
+
+capa: au_compilado_R02, fid: 970, b_ADM2_ES: Santa Cruz, b_ADM2_PCODE: PE0613, b_ADM1_ES: Cajamarca, b_ADM1_PCODE: PE06, b_adm1_geral: Cajamarca, b_adm2_geral: Santa Cruz, b_ID_concatenated: cajamarca-santa_cruz, au_area km: 1380.6614016136373
+
+capa: au_compilado_R02, fid: 1278, b_ADM2_ES: El Pan, b_ADM2_PCODE: EC0112, b_ADM1_ES: Azuay, b_ADM1_PCODE: EC01, b_adm1_geral: Azuay, b_adm2_geral: El Pan, b_ID_concatenated: azuay-el_pan, au_area km: 132.51112022602842
+
+capa: au_compilado_R02, fid: 1279, b_ADM2_ES: Sevilla de Oro, b_ADM2_PCODE: EC0113, b_ADM1_ES: Azuay, b_ADM1_PCODE: EC01, b_adm1_geral: Azuay, b_adm2_geral: Sevilla de Oro, b_ID_concatenated: azuay-sevilla_de_oro, au_area km: 314.6510567742339
+
+capa: au_compilado_R02, fid: 1281, b_ADM2_ES: Santiago, b_ADM2_PCODE: EC1405, b_ADM1_ES: Morona Santiago, b_ADM1_PCODE: EC14, b_adm1_geral: Morona Santiago, b_adm2_geral: Santiago, b_ID_concatenated: morona_santiago-santiago, au_country: Ecuador, au_level1: Morona Santiago, au_level2: Santiago, au_population: 9295, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: VERDADEIRO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: VERDADEIRO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: Los Lobos, au_popup_window_pt: Los Lobos, au_popup_window_en: Los Lobos, au_ID_concatenated: morona_santiago-santiago, au_area km: 1415.9207413547297
+
+capa: au_compilado_R02, fid: 1282, b_ADM2_ES: Azogues, b_ADM2_PCODE: EC0301, b_ADM1_ES: Cañar, b_ADM1_PCODE: EC03, b_adm1_geral: Cañar, b_adm2_geral: Azogues, b_ID_concatenated: canar-azogues, au_area km: 612.3594821333091
+
+capa: au_compilado_R02, fid: 1283, b_ADM2_ES: Morona, b_ADM2_PCODE: EC1401, b_ADM1_ES: Morona Santiago, b_ADM1_PCODE: EC14, b_adm1_geral: Morona Santiago, b_adm2_geral: Morona, b_ID_concatenated: morona_santiago-morona, au_country: Ecuador, au_level1: Morona Santiago, au_level2: Morona, au_population: 41155, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: VERDADEIRO, au_choneros: VERDADEIRO, au_cv: FALSO, au_pcc: FALSO, au_others: VERDADEIRO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - Los Choneros
+- Los Lobos, au_popup_window_pt: - Los Choneros
+- Los Lobos, au_popup_window_en: - Los Choneros
+- Los Lobos, au_ID_concatenated: morona_santiago-morona, au_area km: 4647.069514517554
+
+capa: au_compilado_R02, fid: 1285, b_ADM2_ES: Chordeleg, b_ADM2_PCODE: EC0111, b_ADM1_ES: Azuay, b_ADM1_PCODE: EC01, b_adm1_geral: Azuay, b_adm2_geral: Chordeleg, b_ID_concatenated: azuay-chordeleg, au_area km: 105.14435380741261
+
+capa: au_compilado_R02, fid: 1286, b_ADM2_ES: Guachapala, b_ADM2_PCODE: EC0114, b_ADM1_ES: Azuay, b_ADM1_PCODE: EC01, b_adm1_geral: Azuay, b_adm2_geral: Guachapala, b_ID_concatenated: azuay-guachapala, au_area km: 39.97590746133077
+
+capa: au_compilado_R02, fid: 1287, b_ADM2_ES: Gualaceo, b_ADM2_PCODE: EC0103, b_ADM1_ES: Azuay, b_ADM1_PCODE: EC01, b_adm1_geral: Azuay, b_adm2_geral: Gualaceo, b_ID_concatenated: azuay-gualaceo, au_area km: 349.7132698263899
+
+capa: au_compilado_R02, fid: 1288, b_ADM2_ES: Paute, b_ADM2_PCODE: EC0105, b_ADM1_ES: Azuay, b_ADM1_PCODE: EC01, b_adm1_geral: Azuay, b_adm2_geral: Paute, b_ID_concatenated: azuay-paute, au_area km: 269.24009927969325
+
+capa: au_compilado_R02, fid: 1289, b_ADM2_ES: San Fernando, b_ADM2_PCODE: EC0107, b_ADM1_ES: Azuay, b_ADM1_PCODE: EC01, b_adm1_geral: Azuay, b_adm2_geral: San Fernando, b_ID_concatenated: azuay-san_fernando, au_area km: 141.94604296634347
+
+capa: au_compilado_R02, fid: 1290, b_ADM2_ES: Cuenca, b_ADM2_PCODE: EC0101, b_ADM1_ES: Azuay, b_ADM1_PCODE: EC01, b_adm1_geral: Azuay, b_adm2_geral: Cuenca, b_ID_concatenated: azuay-cuenca, au_area km: 3189.440092939078
+
+capa: au_compilado_R02, fid: 1291, b_ADM2_ES: Cañar, b_ADM2_PCODE: EC0303, b_ADM1_ES: Cañar, b_ADM1_PCODE: EC03, b_adm1_geral: Cañar, b_adm2_geral: Cañar, b_ID_concatenated: canar-canar, au_area km: 1797.8457489040738
+
+capa: au_compilado_R02, fid: 1292, b_ADM2_ES: El Pangui, b_ADM2_PCODE: EC1906, b_ADM1_ES: Zamora Chinchipe, b_ADM1_PCODE: EC19, b_adm1_geral: Zamora Chinchipe, b_adm2_geral: El Pangui, b_ID_concatenated: zamora_chinchipe-el_pangui, au_country: Ecuador, au_level1: Zamora Chinchipe, au_level2: El Pangui, au_population: 8619, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: VERDADEIRO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: VERDADEIRO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: Los Lobos, au_popup_window_pt: Los Lobos, au_popup_window_en: Los Lobos, au_ID_concatenated: zamora_chinchipe-el_pangui, au_area km: 631.0890773103343
+
+capa: au_compilado_R02, fid: 1293, b_ADM2_ES: Gualaquiza, b_ADM2_PCODE: EC1402, b_ADM1_ES: Morona Santiago, b_ADM1_PCODE: EC14, b_adm1_geral: Morona Santiago, b_adm2_geral: Gualaquiza, b_ID_concatenated: morona_santiago-gualaquiza, au_country: Ecuador, au_level1: Morona Santiago, au_level2: Gualaquiza, au_population: 17162, au_c_d_f: VERDADEIRO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: VERDADEIRO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: VERDADEIRO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - Comandos de la Frontera
+- Los Lobos, au_popup_window_pt: - Comandos de la Frontera
+- Los Lobos, au_popup_window_en: - Comandos de la Frontera
+- Los Lobos, au_ID_concatenated: morona_santiago-gualaquiza, au_area km: 2189.4552882409253
+
+capa: au_compilado_R02, fid: 1294, b_ADM2_ES: San Juan Bosco, b_ADM2_PCODE: EC1408, b_ADM1_ES: Morona Santiago, b_ADM1_PCODE: EC14, b_adm1_geral: Morona Santiago, b_adm2_geral: San Juan Bosco, b_ID_concatenated: morona_santiago-san_juan_bosco, au_country: Ecuador, au_level1: Morona Santiago, au_level2: San Juan Bosco, au_population: 3908, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: VERDADEIRO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: VERDADEIRO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: Los Lobos, au_popup_window_pt: Los Lobos, au_popup_window_en: Los Lobos, au_ID_concatenated: morona_santiago-san_juan_bosco, au_area km: 1049.0412317108094
+
+capa: au_compilado_R02, fid: 1295, b_ADM2_ES: Sigsig, b_ADM2_PCODE: EC0109, b_ADM1_ES: Azuay, b_ADM1_PCODE: EC01, b_adm1_geral: Azuay, b_adm2_geral: Sigsig, b_ID_concatenated: azuay-sigsig, au_area km: 675.673490124856
+
+capa: au_compilado_R02, fid: 1296, b_ADM2_ES: Limon Indanza, b_ADM2_PCODE: EC1403, b_ADM1_ES: Morona Santiago, b_ADM1_PCODE: EC14, b_adm1_geral: Morona Santiago, b_adm2_geral: Limon Indanza, b_ID_concatenated: morona_santiago-limon_indanza, au_country: Ecuador, au_level1: Morona Santiago, au_level2: Limon Indanza, au_population: 9722, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: VERDADEIRO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: VERDADEIRO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: Los Lobos, au_popup_window_pt: Los Lobos, au_popup_window_en: Los Lobos, au_ID_concatenated: morona_santiago-limon_indanza, au_area km: 1803.4706018095621
+
+capa: au_compilado_R02, fid: 1298, b_ADM2_ES: Nabon, b_ADM2_PCODE: EC0104, b_ADM1_ES: Azuay, b_ADM1_PCODE: EC01, b_adm1_geral: Azuay, b_adm2_geral: Nabon, b_ID_concatenated: azuay-nabon, au_area km: 632.2296478244709
+
+capa: au_compilado_R02, fid: 1299, b_ADM2_ES: Giron, b_ADM2_PCODE: EC0102, b_ADM1_ES: Azuay, b_ADM1_PCODE: EC01, b_adm1_geral: Azuay, b_adm2_geral: Giron, b_ID_concatenated: azuay-giron, au_area km: 350.23190758334965
+
+capa: au_compilado_R02, fid: 1300, b_ADM2_ES: Oña, b_ADM2_PCODE: EC0110, b_ADM1_ES: Azuay, b_ADM1_PCODE: EC01, b_adm1_geral: Azuay, b_adm2_geral: Oña, b_ID_concatenated: azuay-ona, au_area km: 293.82765189960844
+
+capa: au_compilado_R02, fid: 1301, b_ADM2_ES: Santa Isabel, b_ADM2_PCODE: EC0108, b_ADM1_ES: Azuay, b_ADM1_PCODE: EC01, b_adm1_geral: Azuay, b_adm2_geral: Santa Isabel, b_ID_concatenated: azuay-santa_isabel, au_area km: 604.2744172399027
+
+capa: au_compilado_R02, fid: 1302, b_ADM2_ES: Saraguro, b_ADM2_PCODE: EC1111, b_ADM1_ES: Loja, b_ADM1_PCODE: EC11, b_adm1_geral: Loja, b_adm2_geral: Saraguro, b_ID_concatenated: loja-saraguro, au_area km: 1082.1406862533922
+
+capa: au_compilado_R02, fid: 1345, b_ADM2_ES: Latacunga, b_ADM2_PCODE: EC0501, b_ADM1_ES: Cotopaxi, b_ADM1_PCODE: EC05, b_adm1_geral: Cotopaxi, b_adm2_geral: Latacunga, b_ID_concatenated: cotopaxi-latacunga, au_area km: 1384.9214890988894
+
+capa: au_compilado_R02, fid: 1346, b_ADM2_ES: Mejia, b_ADM2_PCODE: EC1703, b_ADM1_ES: Pichincha, b_ADM1_PCODE: EC17, b_adm1_geral: Pichincha, b_adm2_geral: Mejia, b_ID_concatenated: pichincha-mejia, au_area km: 1483.4283212645137
+
+capa: au_compilado_R02, fid: 1347, b_ADM2_ES: Quito, b_ADM2_PCODE: EC1701, b_ADM1_ES: Pichincha, b_ADM1_PCODE: EC17, b_adm1_geral: Pichincha, b_adm2_geral: Quito, b_ID_concatenated: pichincha-quito, au_area km: 4210.913424341739
+
+capa: au_compilado_R02, fid: 1348, b_ADM2_ES: Saquisili, b_ADM2_PCODE: EC0506, b_ADM1_ES: Cotopaxi, b_ADM1_PCODE: EC05, b_adm1_geral: Cotopaxi, b_adm2_geral: Saquisili, b_ID_concatenated: cotopaxi-saquisili, au_area km: 205.35131563241225
+
+capa: au_compilado_R02, fid: 1349, b_ADM2_ES: Sigchos, b_ADM2_PCODE: EC0507, b_ADM1_ES: Cotopaxi, b_ADM1_PCODE: EC05, b_adm1_geral: Cotopaxi, b_adm2_geral: Sigchos, b_ID_concatenated: cotopaxi-sigchos, au_area km: 1351.337076994538
+
+capa: au_compilado_R02, fid: 1350, b_ADM2_ES: Guaranda, b_ADM2_PCODE: EC0201, b_ADM1_ES: Bolivar, b_ADM1_PCODE: EC02, b_adm1_geral: Bolivar, b_adm2_geral: Guaranda, b_ID_concatenated: bolivar-guaranda, au_area km: 1891.1395566618194
+
+capa: au_compilado_R02, fid: 1351, b_ADM2_ES: Pujili, b_ADM2_PCODE: EC0504, b_ADM1_ES: Cotopaxi, b_ADM1_PCODE: EC05, b_adm1_geral: Cotopaxi, b_adm2_geral: Pujili, b_ID_concatenated: cotopaxi-pujili, au_area km: 1299.7018353986161
+
+capa: au_compilado_R02, fid: 1352, b_ADM2_ES: Ambato, b_ADM2_PCODE: EC1801, b_ADM1_ES: Tungurahua, b_ADM1_PCODE: EC18, b_adm1_geral: Tungurahua, b_adm2_geral: Ambato, b_ID_concatenated: tungurahua-ambato, au_area km: 1017.5753829353835
+
+capa: au_compilado_R02, fid: 1353, b_ADM2_ES: Guano, b_ADM2_PCODE: EC0607, b_ADM1_ES: Chimborazo, b_ADM1_PCODE: EC06, b_adm1_geral: Chimborazo, b_adm2_geral: Guano, b_ID_concatenated: chimborazo-guano, au_area km: 459.7111481507703
+
+capa: au_compilado_R02, fid: 1354, b_ADM2_ES: Salcedo, b_ADM2_PCODE: EC0505, b_ADM1_ES: Cotopaxi, b_ADM1_PCODE: EC05, b_adm1_geral: Cotopaxi, b_adm2_geral: Salcedo, b_ID_concatenated: cotopaxi-salcedo, au_area km: 485.7049038995716
+
+capa: au_compilado_R02, fid: 1355, b_ADM2_ES: Mocha, b_ADM2_PCODE: EC1804, b_ADM1_ES: Tungurahua, b_ADM1_PCODE: EC18, b_adm1_geral: Tungurahua, b_adm2_geral: Mocha, b_ID_concatenated: tungurahua-mocha, au_area km: 85.77950308770315
+
+capa: au_compilado_R02, fid: 1356, b_ADM2_ES: Quero, b_ADM2_PCODE: EC1806, b_ADM1_ES: Tungurahua, b_ADM1_PCODE: EC18, b_adm1_geral: Tungurahua, b_adm2_geral: Quero, b_ID_concatenated: tungurahua-quero, au_area km: 173.63548214276366
+
+capa: au_compilado_R02, fid: 1357, b_ADM2_ES: Tisaleo, b_ADM2_PCODE: EC1809, b_ADM1_ES: Tungurahua, b_ADM1_PCODE: EC18, b_adm1_geral: Tungurahua, b_adm2_geral: Tisaleo, b_ID_concatenated: tungurahua-tisaleo, au_area km: 59.080381564051535
+
+capa: au_compilado_R02, fid: 1358, b_ADM2_ES: Cevallos, b_ADM2_PCODE: EC1803, b_ADM1_ES: Tungurahua, b_ADM1_PCODE: EC18, b_adm1_geral: Tungurahua, b_adm2_geral: Cevallos, b_ID_concatenated: tungurahua-cevallos, au_area km: 18.775668735417348
+
+capa: au_compilado_R02, fid: 1359, b_ADM2_ES: San Pedro de Pelileo, b_ADM2_PCODE: EC1807, b_ADM1_ES: Tungurahua, b_ADM1_PCODE: EC18, b_adm1_geral: Tungurahua, b_adm2_geral: San Pedro de Pelileo, b_ID_concatenated: tungurahua-san_pedro_de_pelileo, au_area km: 201.55076254682396
+
+capa: au_compilado_R02, fid: 1360, b_ADM2_ES: Penipe, b_ADM2_PCODE: EC0609, b_ADM1_ES: Chimborazo, b_ADM1_PCODE: EC06, b_adm1_geral: Chimborazo, b_adm2_geral: Penipe, b_ID_concatenated: chimborazo-penipe, au_area km: 366.14649388026555
+
+capa: au_compilado_R02, fid: 1362, b_ADM2_ES: Santiago de Pillaro, b_ADM2_PCODE: EC1808, b_ADM1_ES: Tungurahua, b_ADM1_PCODE: EC18, b_adm1_geral: Tungurahua, b_adm2_geral: Santiago de Pillaro, b_ID_concatenated: tungurahua-santiago_de_pillaro, au_area km: 445.83483108307644
+
+capa: au_compilado_R02, fid: 1373, b_ADM2_ES: Alausi, b_ADM2_PCODE: EC0602, b_ADM1_ES: Chimborazo, b_ADM1_PCODE: EC06, b_adm1_geral: Chimborazo, b_adm2_geral: Alausi, b_ID_concatenated: chimborazo-alausi, au_area km: 1656.700766532889
+
+capa: au_compilado_R02, fid: 1374, b_ADM2_ES: Pallatanga, b_ADM2_PCODE: EC0608, b_ADM1_ES: Chimborazo, b_ADM1_PCODE: EC06, b_adm1_geral: Chimborazo, b_adm2_geral: Pallatanga, b_ID_concatenated: chimborazo-pallatanga, au_area km: 379.6390445025721
+
+capa: au_compilado_R02, fid: 1375, b_ADM2_ES: Guamote, b_ADM2_PCODE: EC0606, b_ADM1_ES: Chimborazo, b_ADM1_PCODE: EC06, b_adm1_geral: Chimborazo, b_adm2_geral: Guamote, b_ID_concatenated: chimborazo-guamote, au_area km: 1220.305133820011
+
+capa: au_compilado_R02, fid: 1376, b_ADM2_ES: Chambo, b_ADM2_PCODE: EC0604, b_ADM1_ES: Chimborazo, b_ADM1_PCODE: EC06, b_adm1_geral: Chimborazo, b_adm2_geral: Chambo, b_ID_concatenated: chimborazo-chambo, au_area km: 164.00860948131427
+
+capa: au_compilado_R02, fid: 1377, b_ADM2_ES: Colta, b_ADM2_PCODE: EC0603, b_ADM1_ES: Chimborazo, b_ADM1_PCODE: EC06, b_adm1_geral: Chimborazo, b_adm2_geral: Colta, b_ID_concatenated: chimborazo-colta, au_area km: 836.3236707223166
+
+capa: au_compilado_R02, fid: 1378, b_ADM2_ES: Riobamba, b_ADM2_PCODE: EC0601, b_ADM1_ES: Chimborazo, b_ADM1_PCODE: EC06, b_adm1_geral: Chimborazo, b_adm2_geral: Riobamba, b_ID_concatenated: chimborazo-riobamba, au_area km: 980.6662706961108
+
+capa: au_compilado_R02, fid: 1379, b_ADM2_ES: Yacuambi, b_ADM2_PCODE: EC1904, b_ADM1_ES: Zamora Chinchipe, b_ADM1_PCODE: EC19, b_adm1_geral: Zamora Chinchipe, b_adm2_geral: Yacuambi, b_ID_concatenated: zamora_chinchipe-yacuambi, au_area km: 1253.7451871496999
+
+capa: au_compilado_R02, fid: 1380, b_ADM2_ES: Ayabaca, b_ADM2_PCODE: PE2002, b_ADM1_ES: Piura, b_ADM1_PCODE: PE20, b_adm1_geral: Piura, b_adm2_geral: Ayabaca, b_ID_concatenated: piura-ayabaca, au_area km: 5195.6513044819685
+
+capa: au_compilado_R02, fid: 1381, b_ADM2_ES: Nangaritza, b_ADM2_PCODE: EC1903, b_ADM1_ES: Zamora Chinchipe, b_ADM1_PCODE: EC19, b_adm1_geral: Zamora Chinchipe, b_adm2_geral: Nangaritza, b_ID_concatenated: zamora_chinchipe-nangaritza, au_country: Ecuador, au_level1: Zamora Chinchipe, au_level2: Nangaritza, au_population: 5169, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: VERDADEIRO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: VERDADEIRO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: Los Lobos, au_popup_window_pt: Los Lobos, au_popup_window_en: Los Lobos, au_ID_concatenated: zamora_chinchipe-nangaritza, au_area km: 2018.9556661605109
+
+capa: au_compilado_R02, fid: 1382, b_ADM2_ES: Centinela del Condor, b_ADM2_PCODE: EC1907, b_ADM1_ES: Zamora Chinchipe, b_ADM1_PCODE: EC19, b_adm1_geral: Zamora Chinchipe, b_adm2_geral: Centinela del Condor, b_ID_concatenated: zamora_chinchipe-centinela_del_condor, au_country: Ecuador, au_level1: Zamora Chinchipe, au_level2: Centinela Del Condor, au_population: 6479, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: VERDADEIRO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: VERDADEIRO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: Los Lobos, au_popup_window_pt: Los Lobos, au_popup_window_en: Los Lobos, au_ID_concatenated: zamora_chinchipe-centinela_del_condor, au_area km: 261.45811425197513
+
+capa: au_compilado_R02, fid: 1383, b_ADM2_ES: Paquisha, b_ADM2_PCODE: EC1909, b_ADM1_ES: Zamora Chinchipe, b_ADM1_PCODE: EC19, b_adm1_geral: Zamora Chinchipe, b_adm2_geral: Paquisha, b_ID_concatenated: zamora_chinchipe-paquisha, au_country: Ecuador, au_level1: Zamora Chinchipe, au_level2: Paquisha, au_population: 3854, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: VERDADEIRO, au_choneros: VERDADEIRO, au_cv: FALSO, au_pcc: FALSO, au_others: VERDADEIRO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - Los Lobos
+- Los Choneros, au_popup_window_pt: - Los Lobos
+- Los Choneros, au_popup_window_en: - Los Lobos
+- Los Choneros, au_ID_concatenated: zamora_chinchipe-paquisha, au_area km: 339.2056401342206
+
+capa: au_compilado_R02, fid: 1384, b_ADM2_ES: Yantzaza, b_ADM2_PCODE: EC1905, b_ADM1_ES: Zamora Chinchipe, b_ADM1_PCODE: EC19, b_adm1_geral: Zamora Chinchipe, b_adm2_geral: Yantzaza, b_ID_concatenated: zamora_chinchipe-yantzaza, au_country: Ecuador, au_level1: Zamora Chinchipe, au_level2: Yantzaza, au_population: 18675, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: VERDADEIRO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: VERDADEIRO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: Los Lobos, au_popup_window_pt: Los Lobos, au_popup_window_en: Los Lobos, au_ID_concatenated: zamora_chinchipe-yantzaza, au_area km: 1015.0191733786423
+
+capa: au_compilado_R02, fid: 1385, b_ADM2_ES: Utcubamba, b_ADM2_PCODE: PE0107, b_ADM1_ES: Amazonas, b_ADM1_PCODE: PE01, b_adm1_geral: Amazonas, b_adm2_geral: Utcubamba, b_ID_concatenated: amazonas-utcubamba, au_country: Peru, au_level1: Amazonas, au_level2: Utcubamba, au_population: 107237, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: VERDADEIRO, au_invest. with presence: FALSO, au_ID_concatenated: amazonas-utcubamba, au_area km: 3985.8310573066224
+
+capa: au_compilado_R02, fid: 1386, b_ADM2_ES: Chinchipe, b_ADM2_PCODE: EC1902, b_ADM1_ES: Zamora Chinchipe, b_ADM1_PCODE: EC19, b_adm1_geral: Zamora Chinchipe, b_adm2_geral: Chinchipe, b_ID_concatenated: zamora_chinchipe-chinchipe, au_country: Ecuador, au_level1: Zamora Chinchipe, au_level2: Chinchipe, au_population: 9119, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: VERDADEIRO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: VERDADEIRO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: Los Lobos, au_popup_window_pt: Los Lobos, au_popup_window_en: Los Lobos, au_ID_concatenated: zamora_chinchipe-chinchipe, au_area km: 1150.2125615103791
+
+capa: au_compilado_R02, fid: 1387, b_ADM2_ES: Espindola, b_ADM2_PCODE: EC1106, b_ADM1_ES: Loja, b_ADM1_PCODE: EC11, b_adm1_geral: Loja, b_adm2_geral: Espindola, b_ID_concatenated: loja-espindola, au_area km: 515.5714050354514
+
+capa: au_compilado_R02, fid: 1388, b_ADM2_ES: Palanda, b_ADM2_PCODE: EC1908, b_ADM1_ES: Zamora Chinchipe, b_ADM1_PCODE: EC19, b_adm1_geral: Zamora Chinchipe, b_adm2_geral: Palanda, b_ID_concatenated: zamora_chinchipe-palanda, au_country: Ecuador, au_level1: Zamora Chinchipe, au_level2: Palanda, au_population: 8089, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: VERDADEIRO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: VERDADEIRO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: Los Lobos, au_popup_window_pt: Los Lobos, au_popup_window_en: Los Lobos, au_ID_concatenated: zamora_chinchipe-palanda, au_area km: 1991.5408872900236
+
+capa: au_compilado_R02, fid: 1389, b_ADM2_ES: Catamayo, b_ADM2_PCODE: EC1103, b_ADM1_ES: Loja, b_ADM1_PCODE: EC11, b_adm1_geral: Loja, b_adm2_geral: Catamayo, b_ID_concatenated: loja-catamayo, au_area km: 653.1744295959328
+
+capa: au_compilado_R02, fid: 1390, b_ADM2_ES: Zamora, b_ADM2_PCODE: EC1901, b_ADM1_ES: Zamora Chinchipe, b_ADM1_PCODE: EC19, b_adm1_geral: Zamora Chinchipe, b_adm2_geral: Zamora, b_ID_concatenated: zamora_chinchipe-zamora, au_country: Ecuador, au_level1: Zamora Chinchipe, au_level2: Zamora, au_population: 25510, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: VERDADEIRO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: VERDADEIRO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: Los Lobos, au_popup_window_pt: Los Lobos, au_popup_window_en: Los Lobos, au_ID_concatenated: zamora_chinchipe-zamora, au_area km: 1898.6986656582883
+
+capa: au_compilado_R02, fid: 1391, b_ADM2_ES: Loja, b_ADM2_PCODE: EC1101, b_ADM1_ES: Loja, b_ADM1_PCODE: EC11, b_adm1_geral: Loja, b_adm2_geral: Loja, b_ID_concatenated: loja-loja, au_area km: 1894.6900628219694
+
+capa: au_compilado_R02, fid: 1392, b_ADM2_ES: San Ignacio, b_ADM2_PCODE: PE0609, b_ADM1_ES: Cajamarca, b_ADM1_PCODE: PE06, b_adm1_geral: Cajamarca, b_adm2_geral: San Ignacio, b_ID_concatenated: cajamarca-san_ignacio, au_area km: 4786.685260026018
+
+capa: au_compilado_R02, fid: 1393, b_ADM2_ES: Biblian, b_ADM2_PCODE: EC0302, b_ADM1_ES: Cañar, b_ADM1_PCODE: EC03, b_adm1_geral: Cañar, b_adm2_geral: Biblian, b_ID_concatenated: canar-biblian, au_area km: 226.70301197303758
+
+capa: au_compilado_R02, fid: 1394, b_ADM2_ES: Deleg, b_ADM2_PCODE: EC0306, b_ADM1_ES: Cañar, b_ADM1_PCODE: EC03, b_adm1_geral: Cañar, b_adm2_geral: Deleg, b_ID_concatenated: canar-deleg, au_area km: 76.01138750541908
