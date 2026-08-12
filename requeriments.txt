@@ -16,3 +16,4 @@ sentencepiece
 torch
 sentence-transformers
 faiss-cpu
+gdown
