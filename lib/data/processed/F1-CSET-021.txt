@@ -1,0 +1,427 @@
+A policy research organization within Georgetown University’s Walsh
+School of Foreign Service, the Center for Security and Emerging
+Technology informs high-stakes decisions by providing
+decision-makers with rigorous analysis on the security implications of
+emerging technologies.
+To learn more, visit cset.georgetown.edu.
+©2026 Center for Security and Emerging Technology. All Rights Reserved.
+This report was designed by Jason Ly and produced by CSET.
+
+Contents
+
+Letter from the Executive Director
+
+CSET in the Media
+
+Highlights of 2025
+
+Research
+
+Donors
+
+Culture Statement
+
+CENTER FOR SECURITY AND EMERGING TECHNOLOGY ANNUAL REPORT 2025
+Letter from the Executive Director
+Helen Toner
+Interim Executive Director
+Dear Friends of CSET, Our report revealed who showed
+up in these tender documents. In 2026, we’ve
+When we founded CSET in 2019, it was already published the first in a series on what the
+Washington’s first think tank focused entirely on PLA was seeking to purchase. CSET is using the
+security and emerging technology, and it quickly PLA’s own contracting records to assess what China
+grew to be the largest research organization in is going to do before they do it.
+the world working on AI policy. At a time when
+many viewed these areas as niche, we saw an In the summer, CSET hosted a closed-door
+opportunity to invest in issues that we knew would workshop on the automation of AI R&D, a topic
+be enormously consequential for the future. that is increasingly central in conversations among
+AI insiders but is largely absent from policy
+Central to our approach from the beginning has conversations. Against a backdrop of strong
+been building an interdisciplinary team with data disagreement between experts, we identified
+skills, foreign-language proficiency, national areas of unexpected consensus, clarified points of
+security experience, and deep technical expertise.. true divergence, and mapped what further data is
+This has allowed us to be at the cutting edge of needed to fully appreciate the implications of AI
+emerging tech issues, from our seminal paper on R&D automation. This foundational work positions
+the importance of AI chips, published a year before CSET to provide technical expertise to policymakers
+semiconductor supply chain issues hit the front as AI R&D automation efforts grow.
+pages during the pandemic, to our first-of-its-kind
+look at the future of sophisticated AI agents. Entering 2026, our most recent new initiative is
+Project ATLAS. ATLAS addresses the proliferation
+CSET continues to look around corners. In 2025, we of scientific research that too often exists only in
+published the first in a series of papers drawing on large, messy datasets. Building on our Map of
+an in-house dataset that revealed new information Science and led by our data team, ATLAS will make
+on how China is modernizing its military. CSET scientific data more practically useful by using new
+researchers analyzed thousands of procurement LLM-based methods to extract research metadata,
+documents showing the efforts of the People’s organize and describe the global scientific
+Liberation Army to purchase AI-related goods landscape, and identify emerging areas of activity.
+and services from both its traditional state-owned ATLAS will be a tool for researchers, practitioners,
+contractors and newer vendors. and policymakers to find signals of new scientific or
+CSET•2025 3
+
+CENTER FOR SECURITY AND EMERGING TECHNOLOGY ANNUAL REPORT 2025
+technological applications and plan for the future.
+These are a few examples of CSET’s work over the
+past year. In the following pages, you’ll read more
+about our pioneering research and impact.
+On a personal note, it has been an honor and
+a joy to step into the role of Executive Director
+over the past six months. We took the opportunity
+of this leadership transition—with Cara LaPointe
+also joining as our new Director of Analysis in the
+fall—to take time for a strategic review of where
+“Central to our
+we are and what we want to do next. I’m excited
+about the research priorities we’ve identified for the approach from
+coming year, where we believe focused investment
+the beginning has
+will have outsized impact: doubling down on
+analyzing the U.S. and Chinese tech ecosystems, been building an
+continuing our pioneering work on how the U.S. can
+interdisciplinary
+responsibly adopt AI for national security missions,
+investing in Project ATLAS to draw insights from data
+team with data
+about scientific progress, and expanding our focus
+on the security and governance implications of skills, foreign-
+progress at the frontier of AI.
+language
+Drawing on the experience, expertise, and energy proficiency,
+of our dedicated researchers, we will tackle these
+national security
+big questions and work to inform high-stakes
+decisions from D.C. to San Francisco and beyond. experience, and
+deep technical
+We can’t do it without your support. Thank you for
+your help in making CSET’s work possible.
+expertise.”
+Helen Toner
+CSET Interim Executive Director
+Sincerely,
+Helen
+CSET•2025 4
+
+CENTER FOR SECURITY AND EMERGING TECHNOLOGY ANNUAL REPORT 2025
+CSET in the Media
+Cole McFaul
+Senior Research Analyst & Andrew W. Marshall Fellow
+Foreign Policy
+Sam Bresnick
+Research Fellow & Andrew W. Marshall Fellow
+”Our data leaves little doubt that military-civil fusion is no longer an
+aspiration in Beijing—it is a reality. Unless the United States adapts its policies
+to that reality, it may find itself facing a PLA that is not only better armed but
+also better networked into the engines of civilian innovation.”
+Axios Steph Batalis
+Research Fellow
+“[Collecting better biological data, and running it through AI] might be the difference between managing a
+really small disease outbreak and letting it spread and become a much bigger problem.”
+Ali Crawford Matthias Oschinski Andrew J. Lohn
+National Interest
+Senior Research Analyst Senior Fellow Senior Fellow
+“Companies that invest in augmenting human work, respect creative rights, and prioritize transparency in AI
+deployment will be better positioned to attract top talent and earn long-term trust. In the decade ahead, speed
+alone won’t define the AI winners–the edge will go to those who treat human capital as a strategic asset.”
+CSET•2025 5
+
+CENTER FOR SECURITY AND EMERGING TECHNOLOGY ANNUAL REPORT 2025
+CNBC Hanna Dohmen
+Senior Research Analyst
+“China is working hard to build up its semiconductor fabrication capabilities and capacity; however, it still lags
+significantly due to constraints imposed by U.S. and allied export controls on semiconductor manufacturing
+equipment.”
+The Hill Jessica Ji Vikram Venkatram Mina Narayanan
+Senior Research Analyst Research Analyst Research Analyst
+“If Congress imposes this moratorium [on states regulating AI], it will effectively shoot itself in the foot
+by stifling U.S. AI innovation and even endangering national security. The reality is that AI governance
+infrastructure is necessary for both objectives, and states are well-equipped to contribute to infrastructure —
+indeed, they are already building it.”
+Foreign Affairs Lauren Kahn
+Senior Research Analyst
+“It could be that these social media accounts posting AI-generated content were nefarious pages that were
+trying to build an audience and would later pivot to trying to sell goods or link to ad-laden websites or maybe
+even change their topics to something political altogether. But I suspect more likely, many of these pages were
+simply creators who realized it was a useful tactic for getting audience engagement.”
+BBC News Owen J. Daniels
+Associate Director of Analysis and an Andrew W. Marshall Fellow
+“There are aspects of the [Trump administration’s AI] Action Plan that many of us see as quite promising in
+terms of recommendations that we previously made to the government… The major challenge here is going to
+be implementation.”
+Wall Street Journal Jacob Feldgoise
+Senior Data Research Analyst
+“Compute has been more skewed toward training in the past, and in the coming years, it’s going to shift much
+more toward inference, as demand for these AI services grows.”
+The Diplomat William C. Hannas Huey-Meei Chang
+Lead Analyst Senior China S&T Specialist
+“[I]t’s fair to say that the DeepSeek surprise opened Western eyes but also closed them. While we now take
+Chinese AI seriously, we imagine that large statistical models—DeepSeek being one of them—are the only
+Chinese path to AGI, when there are several typologically different approaches seriously pursued there.”
+CSET•2025 6
+
+CENTER FOR SECURITY AND EMERGING TECHNOLOGY ANNUAL REPORT 2025
+Highlights of 2025
+FEB
+Colin Shea-Blymer (left), Owen Daniels (right), and Mia Hoffman
+attended an International Association for Safe and Ethical AI conference
+MAR
+Sonali Subbu Rathinam (left), Ronnie Kinoshita (right), Adrian Thinnyun,
+and Mina Narayanan presented their research at an Association for the
+Advancement of Artificial Intelligence workshop
+MAR
+CSET hosted a workshop, Opportunities in Open Science,
+Metascience, and AI, organized by the CSET data team
+APR
+CSET hosted its inaugural Spring Symposium, How the U.S. Wins the
+Global Tech Competition; former Under Secretary of Commerce Alan
+Estevez was the keynote speaker
+MAY
+Mina Narayanan, Cole McFaul, Owen Daniels, and Mia Hoffman
+presented their research on global AI governance patterns at the
+Institute of Electrical and Electronics Engineers Conference on AI
+MAY
+Helen Toner testified on the role of trade secret protection in U.S. AI development
+before the House Judiciary Subcommittee on Courts, Intellectual Property,
+Artificial Intelligence, and the Internet
+MAY
+Steph Batalis and Vikram Venkatram helped organize a workshop, Violet
+Teaming AI-Enabled Biosurveillance, co-hosted by CSET and Texas
+A&M’s Biosecurity and Pandemic Policy Center
+JUL
+William Hannas testified before the Senate Small Business and
+Entrepreneurship Committee on the topic of Chinese technology transfer
+CSET•2025 7
+
+CENTER FOR SECURITY AND EMERGING TECHNOLOGY ANNUAL REPORT 2025
+JUL
+Ali Crawford delivered the keynote address and participated in a
+panel at the 2025 Young Southeast Asian Leaders Initiative Women’s
+Leadership Academy
+AUG
+Kathleen Curlee was featured in a CNBC mini-documentary, How the U.S.
+Became So Dependent on SpaceX
+SEP
+Helen Toner, who helped found CSET, was named Interim Executive Director
+OCT
+CSET hosted a conference, China’s AI Leap, based in part on a CSET report, Pulling Back the
+Curtain on China’s Military-Civil Fusion, which was an exclusive feature in The Wall Street
+Journal; Congressman John Moolenaar (pictured with Emmy Probasco) was the keynote speaker
+OCT
+The CSET Advisory Board was launched with six founding members: the
+Honorable Alan Estevez, Joel Meyer, Lauren Bedula, Michael Brown,
+Michael Howard, and the Honorable Dr. Sarah Sewall
+OCT
+Maj. Katherine Carroll presented on AI talent in the U.S. Space Force as
+part of the workforce team’s CSET Salon series
+DEC
+Jessica Ji participated in a panel at the Digital Vulnerabilities in
+the Age of AI Summit
+DEC
+Kyle Miller participated in an Information Technology & Innovation
+Foundation panel, The State of Open-Source AI and Why It Matters
+CSET•2025 8
+
+CENTER FOR SECURITY AND EMERGING TECHNOLOGY ANNUAL REPORT 2025
+Research
+As AI dominates news headlines day after day, CSET has kept pace by providing rigorous analysis on topics
+ranging from the intersection of AI and biotechnology to the future of U.S.–China tech competition. Our
+experts are known for the depth and integrity of their research. They regularly provide briefings to decision-
+makers at the highest levels and field inquiries from members of the press seeking to better understand what’s
+at stake as emerging technologies continue to reshape our world.
+Applications
+Our Applications team solidified CSET’s standing
+as a premier institute examining China’s adoption
+of AI. The team published an influential report that
+examined nearly 3,000 AI-related defense contract
+awards to identify how China’s commercial sector
+and People’s Liberation Army are working together
+to adopt military AI. The report was featured as an
+exclusive in the Wall Street Journal, served as the
+lynchpin for a high-profile conference with House
+China Committee Chairman John Moolenaar
+and other esteemed China experts, and informed
+congressional oversight efforts of advanced chip
+exports from the U.S. to China.
+Additionally, the team established a robust pipeline
+of research analyzing timely national security space
+challenges and burgeoning trends in international
+AI cooperation, all while continuing to regularly
+advise military leaders on emerging technology
+and directly informing the Pentagon’s policies and
+adoption of AI. The next year will yield further
+research into Chinese military AI efforts and deep
+dives on the hurdles hindering the U.S. military’s
+ability to leverage AI.
+CSET•2025 9
+
+CENTER FOR SECURITY AND EMERGING TECHNOLOGY ANNUAL REPORT 2025
+Biotech CyberAI
+As biotechnology developments drew attention from The CyberAI team continued its long-standing
+policymakers last year, CSET’s biotech team played work of providing technical expertise to inform
+a key role in evaluating emerging threats and the most pressing AI policy questions. The team
+informing stakeholders on appropriate responses. published analysis on AI’s effect on cybersecurity,
+Team members authored two essays for the Bulletin the use of open weight models to spur research
+of Atomic Scientists, one for its 80th anniversary and innovation, and the progress that foreign
+edition highlighting the promise and peril of new competitors and open-weight model producers
+biotechnology tools and another on ways to have made in gaining on the leading U.S. corporate
+counter bioterrorism that was named one of the models. This analysis served a crucial role in
+Bulletin’s top multimedia stories of 2025. helping tech and policy communities understand
+the implications of major AI news events, from
+the unveiling of DeepSeek’s R1 model to Chinese
+hackers’ use of Anthropic tools to execute the first
+reported AI-orchestrated hacking campaign
+.
+The team published new analysis tracing how
+NIH-funded research directly translates into human
+health improvements, commented on changes
+in public health policy and their implications for
+biodefense, and convened top policymakers, Additionally, the team hosted roundtables and
+scientists, and industry leaders to identify and published reports that outlined the potential of work-
+address the most pressing safety and security based learning for cyber jobs and harmonized AI
+challenges in emerging biotechnology. The team’s guidance to support more efficient adoption of AI
+findings were briefed to congressional staff, development standards by product developers.
+national security agencies, and the National The team will continue to provide expertise to the
+Security Commission on Emerging Biotechnology, AI policymaking community in 2026 with analysis
+directly informing executive branch policy and on the growing use of distillation to support
+final NSCEB recommendations. Our experts also development of smaller models, recommendations
+built new inroads with officials from Singapore, for cybersecurity acquisition, and discussions on the
+Sweden, South Korea, and Japan, advising them opportunities and limitations of agentic AI.
+on how international cooperation can address
+challenges related to dual-use and risky biological
+research. Future work includes efforts to provide
+recommendations for building U.S. biotechnology
+leadership in line with the Genesis Mission.
+CSET•2025 10
+
+CENTER FOR SECURITY AND EMERGING TECHNOLOGY ANNUAL REPORT 2025
+Data Governance
+The CSET Data Team updated the interactive, The Governance team made major strides in
+public data tools on our Emerging Technology advancing CSET’s profile at the intersection of
+Observatory, and launched new data resources AI governance and international competition.
+to help policymakers identify trends and make The team testified on measures to protect U.S.
+evidence-based policy decisions. The team advantages over China in frontier AI before the
+completed major updates to our Map of Science House Judiciary Committee. It also presented an
+tool, providing more coherently grouped research all-CSET panel comparing U.S., EU., and Chinese
+clusters to help users better understand the approaches to AI at the Institute of Electrical and
+technological landscape. Additionally, updates Electronic Engineers’ (IEEE) annual AI conference
+to the Supply Chain Explorer illustrate where in the Bay Area, as well as attending events at the
+China has made progress in developing its own Paris AI Action Summit and producing analysis
+semiconductor manufacturing capability and on the competing goals of international actors.
+where the U.S. still holds a sizable lead. The team Additionally, the team unveiled the updates to
+also hosted a National Science Foundation- CSET’s Supply Chain Explorer to an audience of
+supported workshop with more than 30 experts to more than 150 policy experts, providing deeper
+discuss open science, metascience, and the role analysis of China’s progress in increasing its own
+that AI can play in promoting the two. A report semiconductor production capacity.
+on the event provided policymakers, funders, and
+researchers with high-priority recommendations
+to further advance AI-enabled open science and
+metascience.
+The team published analysis on newly introduced
+AI legislation, mechanisms of AI risk and harm,
+and a framework for policymakers to compare and
+contrast the approaches of corporate, non-profit,
+In partnership with our workforce experts, the data and government frontier governance proposals.
+team also launched PATHWISE, a tool to identify Our experts appeared across a wide range of
+where cyber and AI talent is being produced and media to discuss the Trump Administration’s AI
+is most in demand. In 2026, the Data Team will Action Plan and China’s AI soft power strategy with
+launch a new interactive tool to explore global open models like DeepSeek. In 2026, the team will
+patents and publish new datasets with detailed provide new insights on national implications of
+technical information on over 2,000 advanced state-level AI governance efforts and examine how
+semiconductors and jumpstart a new project to build effective governance can strengthen democratic
+on our prior work mapping emerging science and competitiveness in AI.
+technology trends around the world.
+CSET•2025 11
+
+CENTER FOR SECURITY AND EMERGING TECHNOLOGY ANNUAL REPORT 2025
+Peer Watch Workforce
+The Peer Watch team solidified its role as an The Workforce team advanced data-driven analysis
+authoritative expert on China’s decades-old on how AI is reshaping labor markets critical to
+technology transfer programs, while raising the U.S. competitiveness and security, while expanding
+banner about China’s aggressive pursuit of artificial its engagement with policymakers to collectively
+general intelligence. The team engaged directly with tackle the most pressing emerging technology
+policymakers, including through testimony before workforce challenges. In partnership with the Data
+the Senate Small Business Committee for its hearing team, Workforce launched PATHWISE, a data
+on how the United States can better protect small tool to understand where cyber and AI talent is
+businesses from the threat of Chinese technology being produced, where it is in demand, and how
+transfer and espionage. Additionally, the team policymakers, educators, and industry can better
+published multiple reports showing that China is bridge the two. The team also launched its CSET
+aggressively pursuing artificial general intelligence Salon Series, a recurring forum to bring together
+and that they are doing so in a multitude of ways experts across government, industry, academia,
+while U.S. companies focus more selectively on and philanthropy to discuss ways to better attract
+generative AI. and retain tech talent in government.
+As policymakers grew concerned about the The team engaged with policymakers through
+narrowing performance gap between U.S. and congressional briefings, a formal response to the
+Chinese advanced AI and the latter’s ability to Trump Administration’s Request for Information on
+deploy smaller and more efficient models, CSET’s high-skilled immigration, and a workshop on the AI
+analysis served as a particularly crucial reminder chip manufacturing workforce. Looking ahead, the
+that China’s diversified approach in developing team is excited to produce analysis on the role that
+advanced AI could pose a threat to the United workers play in the successful adoption of AI and
+States’ AI leadership. The team shared their insights develop an expanded, more granular version of
+over the last year in briefings with U.S. and allied PATHWISE.
+government agencies, op-eds and media interviews
+across a variety of channels. The team looks
+forward to continuing their public and government
+outreach, while diving deeper into the ways
+Chinese leadership is working to align new AI tools
+with its political and social preferences.
+CSET•2025 12
+
+CENTER FOR SECURITY AND EMERGING TECHNOLOGY ANNUAL REPORT 2025
+Donors
+CSET is grateful for the support of those who made financial gifts in 2025 to sustain our research. We accept
+funding from parties who share our interest in security and emerging technology and respect our commitment
+to intellectual independence. Learn more about investing in CSET’s work at cset.georgetown.edu/donate.
+Thank you to our donors:
+$1,000,000+
+Craig Falls
+Google.org
+$100,000 - $999,999
+Eric Schmidt
+NobleReach Foundation
+Smith Richardson Foundation
+William and Flora Hewlett Foundation
+$15,000 - $99,999
+Apple
+Forterra
+Leidos
+$1,000 - $14,999
+Bockus Brown Family Foundation
+Joel Farquhar
+NVIDIA
+Richard Danzig
+If you or your organization are interested in supporting CSET while engaging more deeply with
+our experts and research, please consider joining CSET Forum. The Forum is a curated membership
+program including companies, foundations, and other organizations and individuals.
+To learn more, visit cset.georgetown.edu/forum.
+CSET•2025 13
+
+CENTER FOR SECURITY AND EMERGING TECHNOLOGY ANNUAL REPORT 2025
+CSET Culture Statement
+CSET was formed to examine emerging technology
+through an evidence-based, data-driven approach
+independent of government, funder or ideological
+perspectives.
+CSET staff come from a variety of backgrounds
+and disciplines, bringing a robust wealth of
+perspectives and experiences to inform research
+at the intersection of technology and national/
+international security.
+We are committed to fostering a diverse, equitable,
+and inclusive culture rooted in intellectual curiosity
+and respect.
+At CSET, we:
+Challenge assumptions, follow the evidence, understand how data can inform decisions and formulate
+policies, and serve as trusted advisors to the national security community.
+Are lifelong learners who understand that intellectual humility is essential to ongoing growth. We seek
+and absorb feedback and actively work on self and organizational improvement.
+Celebrate individuality and encourage all team members to welcome one another to create a sense of
+belonging.
+Collaborate because we know that problems are best solved as a team.
+Are empowered to take agency in the workplace and participate in meaningful decision-making.
+Support and encourage open dialogue across all teams.
+Know that while our work is important, our individual and familial needs come first. We value our time
+outside of work, respect a healthy work/life balance, and support one another in times of need.
+Measure our success as a team.
+Place acting with integrity and respect above all.
+CSET•2025 14
+
+To learn more, visit cset.georgetown.edu.
+©2026 Center for Security and Emerging Technology. All Rights Reserved.

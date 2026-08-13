@@ -1,0 +1,288 @@
+Policy Brief
+HAI Policy & Society
+
+Safeguarding Third-Party
+AI Research
+Kevin Klyman, Shayne Longpre, Sayash Kapoor, Key Takeaways
+Rishi Bommasani, Percy Liang, Peter Henderson
+Third-party AI research is
+essential to ensure that AI
+companies do not grade
+their own homework, but
+THIRD-PARTY EVALUATION IS A CORNERSTONE OF EFFORTS TO few companies actively
+protect or promote such
+REDUCE THE SUBSTANTIAL RISKS POSED BY AI SYSTEMS. AI is a
+research.
+vast field with thousands of highly specialized experts around the
+world who can help stress-test the most powerful systems. But few
+companies empower these researchers to test their AI systems, for
+We found no major
+fear of exposing flaws in their products. AI companies often block foundation model
+safety research with restrictive terms of service or by suspending developers currently offer
+comprehensive protections
+researchers who report flaws.
+for third-party evaluation.
+Instead, their policies often
+In our paper, “A Safe Harbor for AI Evaluation and Red Teaming,” we disincentivize it.
+assess the policies and practices of seven top developers of generative
+AI systems, finding that none offers comprehensive protections for
+A safe harbor for good-faith
+third-party AI research. Unlike with cybersecurity, generative AI is a
+research should be a top
+new field without well-established norms regarding flaw disclosure, priority for policymakers. It
+safety standards, or mechanisms for conducting third-party research. enables good-faith research
+and increases the scale,
+We propose that developers adopt safe harbors to enable good-faith,
+diversity, and independence
+adversarial testing of AI systems. of evaluations.
+
+Policy Brief
+Safeguarding
+Third-Party AI Research
+Introduction
+We assess the policies
+Generative AI systems pose a wide range of potential
+and practices of seven top
+risks, from enabling the creation of nonconsensual
+developers of generative AI
+intimate imagery to facilitating the development of
+malware. Evaluating generative AI systems is crucial
+systems, finding that none offers
+to understanding the technology, ensuring public
+comprehensive protections for
+accountability, and reducing these risks.
+third-party AI research.
+In , many prominent AI companies signed
+voluntary commitments at the White House, pledging
+to “incent third-party discovery and reporting of
+issues and vulnerabilities.” More than a year later,
+implementation of this commitment has been uneven.
+While some companies do reward researchers Companies have continued to be opaque about key
+for finding security flaws in their AI systems, few aspects of their most powerful AI systems, such as
+companies strongly encourage research on safety or the data used to build their models. Developers of
+provide concrete protections for good-faith research generative AI models tout the safety of their systems
+practices. Instead, leading generative AI companies’ based on internal red teaming, but there is no way
+terms of service legally prohibit third-party safety for the government or independent researchers to
+and trustworthiness research, in effect threatening validate these results, as companies do not release
+anyone who conducts such research with bans from reproducible evaluations.
+their platforms or even legal action. For example,
+companies’ policies do not allow researchers to Generative AI companies also impose barriers on their
+jailbreak AI systems like ChatGPT, Claude, or Gemini platforms that limit good-faith research. Similar issues
+to assess potential threats to U.S. national security. plague social media: Companies have taken steps to
+prevent researchers and journalists from conducting
+In , we penned an open letter signed investigations on their platforms that, together with
+by over 350 leading AI researchers and advocates federal legislation, have had a chilling effect on such
+calling for a safe harbor for third-party AI evaluation. research and worsened the spread of harmful content
+The researchers noted that while security research on online. But conducting research on generative AI
+traditional software is protected by voluntary company systems comes with additional challenges, as the
+protections (safe harbors), established vulnerability content on generative AI platforms is not publicly
+disclosure norms, and legal safeguards from the available. Users need accounts to access AI-generated
+Department of Justice, AI safety and trustworthiness content, which can be restricted by the company that
+research lacks comparable protections. owns the platform. Many AI companies also block
+
+Policy Brief
+Safeguarding
+Third-Party AI Research
+certain user requests and limit the functionality of propose alternative practices and policies to enable
+their models to prevent researchers from unearthing broader community participation in AI evaluation.
+issues related to safety or trustworthiness. The stakes
+are also higher for AI, which has the potential not only
+Research Outcomes
+to turbocharge misinformation but also to provide
+U.S. adversaries like China and Russia with material
+strategic advantages. At the time of our study, we found that AI companies’
+policies and practices regarding independent evaluation
+To assess the state of independent evaluation for were inconsistent, opaque, and burdensome, as shown
+generative AI, our team of machine learning, law, in Figure 1. Gaps in companies’ practices force well-
+and policy experts conducted a thorough review of intentioned researchers to either wait for approval
+seven major AI companies’ policies, access provisions, from unresponsive researcher access programs or
+and related enforcement processes. We detail our risk violating company policy and losing access to
+experiences with evaluation of AI systems and potential their accounts in the course of conducting good-
+barriers other third-party evaluators may face, and faith research.
+Figure 1: What access protections do AI companies provide for independent safety research?
+Source: Longpre et al., A Safe Harbor for AI Evaluation and Red Teaming
+Company Practices Claude 2 Command Gemini Inflection-1 Llama 2 Midjourney v6 GPT-4
+Model Access How can researchers access the company’s foundation model?
+Public API
+Deep Access
+Dedicated Researcher Access
+Independent Access Review
+Bug Bounty
+Safe Harbor What types of research do companies legally protect, and are those protections determined at their sole discretion?
+Security
+AI Safety & Flaws
+Not Sole Discretion
+Policy Enforcement Transparency & Fairness Are the policies used to enforce the terms of use transparent and fair, providing violation justifications and appeals?
+Enforcement Policy
+Enforcement Justifications
+Enforcement Violation Appeals
+
+Policy Brief
+Safeguarding
+Third-Party AI Research
+do not include broader AI safety and trustworthiness
+research, such as whether an AI system may facilitate
+AI companies’ policies and
+the development of cyber weapons.
+practices regarding independent
+Cohere, OpenAI, and Anthropic are exceptions. They
+evaluation were inconsistent,
+offer some protections beyond security research,
+opaque, and burdensome. though some ambiguity remains as to the scope of
+protected activities. Cohere, for example, allows
+“intentional stress testing of the API and adversarial
+attacks” provided appropriate vulnerability disclosure
+(without explicit legal promises). OpenAI expanded
+its safe harbor to include “model issues research” and
+in some limited cases “academic research related
+to model safety” in response to an early draft of
+While some companies provide access to their
+our paper. Anthropic created a “model safety bug
+systems through public Application Programming
+bounty” program after the release of our paper that
+Interfaces, allow for deeper access to their systems
+rewards researchers for “novel, universal jailbreak
+through fine-tuning or open-weight releases, and
+attacks that could expose vulnerabilities in critical,
+maintain dedicated researcher access programs,
+high risk domains such as CBRN (chemical, biological,
+others take none of these steps. Moreover, companies
+radiological, and nuclear) and cybersecurity.”
+generally select the researchers who participate in
+their researcher access programs, increasing the
+likelihood of favoritism and imbalanced representation
+in such programs.
+Existing protections apply almost exclusively to
+security research. Developers of AI systems have
+Restrictions on researchers’
+engaged to differing degrees with external red teamers
+and evaluators, though they focus on cybersecurity- accounts can have a chilling
+related flaws. For example, OpenAI, Google, and Meta
+effect by making researchers
+have bug bounties (monetary rewards for individuals
+who report security vulnerabilities) as well as legal reluctant to investigate certain
+protections for security research. Still, companies like
+risks or systems for fear
+Meta “reserve final and sole discretion for whether
+you are acting in good faith and in accordance with of blowback.
+this Policy,” which could deter good-faith research.
+These legal protections extend only to traditional
+security issues like unauthorized account access and
+
+Policy Brief
+Safeguarding
+Third-Party AI Research
+Our experiences as researchers conducting AI
+evaluation surfaced common themes regarding the
+If AI companies do not
+barriers that company practices pose to independent
+evaluation. For instance, restrictions on researchers’ voluntarily adopt such safe
+accounts can have a chilling effect by making
+harbors, policymakers should
+researchers reluctant to investigate certain risks
+or systems for fear of blowback. Similarly, a lack mandate them.
+of clarity regarding when and how independent
+researchers should disclose flaws in companies’ AI
+systems may deter researchers from disclosing their
+findings, preventing safety improvements that would
+benefit all users of a system.
+allow independent researchers to stress-test important
+Policy Discussion
+AI systems without fear of legal reprisal.
+Ensuring a safe harbor for good-faith AI safety and A legal safe harbor could provide assurances that AI
+trustworthiness research should be a top priority companies will not sue researchers if their actions
+for policymakers. Such protections would unlock were taken for research purposes. In the U.S. legal
+good-faith research, increasing the scale, diversity, regime, this would impact companies’ use of the
+and independence of evaluations. It is an essential Computer Fraud and Abuse Act (CFAA) and Section
+precondition for improving our understanding of 1201 of the Digital Millennium Copyright Act (DMCA)
+the wide-ranging risks of AI, increasing public to block independent research. These risks are not
+accountability, and ensuring safe and trustworthy AI. theoretical; security researchers have been targeted
+under the CFAA, and DMCA Section 1201 hampered
+We suggest that AI companies adopt safe harbors to security research to the extent that researchers
+improve participation, access, and incentives for public requested and won an exemption from the law for
+interest research into AI safety. If AI companies do this purpose. In the context of generative AI, OpenAI
+not voluntarily adopt such safe harbors, policymakers has attempted to dismiss a lawsuit brought by the
+should mandate them. For example, in the European New York Times by alleging that the media company’s
+Union, policymakers have already mandated protections research regarding ChatGPT when preparing the
+for independent research on social media platforms. lawsuit constituted hacking.
+First, companies can provide a legal safe harbor Second, AI companies can provide a technical
+that protects good-faith evaluation provided it is safe harbor by protecting vetted researchers from
+conducted in accordance with well-established restrictions on their accounts. Such protections
+security vulnerability disclosure practices. This would would prevent account suspensions or other technical
+
+Policy Brief
+Safeguarding
+Third-Party AI Research
+enforcement actions such as rate limiting that also conduct legal or institutional reviews that might
+impede independent safety evaluations. Each of these otherwise be deterred by the terms of service without
+safe harbors should be scoped to include research a carveout. A technical safe harbor would limit
+activities that uncover any flaw in a general-purpose practical barriers to safety research from companies’
+AI system, including all types of responses from a enforcement of their terms of service by clarifying that
+system that are prohibited by a company’s terms researchers will not be penalized.
+of service or acceptable use policy that would not
+otherwise violate the law. These protections apply only to researchers who abide
+by companies’ vulnerability disclosure policies, to
+We propose that companies offer some path to the extent researchers can subsequently justify their
+eliminate these technical barriers for good-faith actions in court. Research that is already illegal or does
+research, even when it can unearth flaws with not take reasonable steps for responsible disclosure
+companies’ systems. This would allow for a wider would not succeed in claiming those protections in an
+variety of researchers to access AI systems and ex-post investigation.
+guarantee that safety research will not be foreclosed
+when adhering to companies’ disclosure policies. The need for independent evaluation of powerful
+One way to do this is to scale up researcher access AI systems has garnered significant support from
+programs and provide impartial review of applications academics, journalists, and civil society. Safe harbors
+for these programs. One potential challenge with would improve safety, security, and trustworthiness in
+implementing a technical safe harbor is distinguishing the AI ecosystem, and enable community participation
+between legitimate research and malicious actors who in urgent efforts to tackle the risks of AI.
+ignore company policies with the intent to cause harm.
+An exemption to strict enforcement of companies’
+policies may need to be reviewed in advance, or at
+least when an unfair account suspension occurs. With
+help from credible third-party reviewers, companies
+can scale this review process to meet the needs of the
+wider research community.
+As others have argued, a legal and technical safe
+harbor would not inhibit existing enforcement against
+malicious misuse, as protections are contingent
+on abiding by the law and stringent vulnerability
+disclosure policies, determined ex post. A legal safe
+harbor would safeguard certain research from some
+amount of legal liability, mitigating the deterrent of
+strict terms of service. Some research organizations
+
+Reference: The original article is accessible Kevin Klyman is an MA candidate in international
+at Shayne Longpre, Sayash Kapoor, Kevin policy at Stanford University and a graduate fellow
+Klyman et al. 2024. Position: a safe harbor for AI at the Stanford Center for Research on Foundation
+evaluation and red teaming. In Proceedings of Models (CRFM), part of the Stanford Institute
+the 41st International Conference on Machine for Human-Centered Artificial Intelligence (HAI).
+Learning (ICML’24), Vol. 235. JMLR.org, His work on this brief was completed prior to
+Article 1327, 32691–32710. becoming a government employee.
+doi/10.5555/3692070.3693397.
+Shayne Longpre is a PhD candidate at
+MIT’s Media Lab and the lead of the Data
+Provenance Initiative.
+Stanford University’s Institute for Human-
+Sayash Kapoor is a senior fellow at Mozilla,
+Centered Artificial Intelligence (HAI) applies
+a Laurance S. Rockefeller Graduate Prize
+rigorous analysis and research to pressing policy
+Fellow in the University Center for Human
+questions on artificial intelligence. A pillar of HAI
+Values, and a PhD candidate in computer
+is to inform policymakers, industry leaders, and
+science at Princeton University’s Center for
+civil society by disseminating scholarship to a
+Information Technology Policy.
+wide audience. HAI is a nonpartisan research
+institute, representing a range of voices.
+The views expressed in this policy brief reflect Rishi Bommasani is a PhD candidate in
+the views of the authors. For further information, computer science at Stanford University
+please contact HAI-Policy@stanford.edu. and the society lead at Stanford CRFM.
+Percy Liang is an associate professor of
+computer science and statistics at Stanford
+University and the director of Stanford CRFM.
+Peter Henderson is an assistant professor
+of computer science and of public and
+international affairs at Princeton University.
+Stanford HAI: 353 Jane Stanford Way, Stanford CA 94305-5008
+T 650.725.4537 F 650.123.4567 E HAI-Policy@stanford.edu hai.stanford.edu

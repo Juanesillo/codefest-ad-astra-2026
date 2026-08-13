@@ -1,0 +1,1838 @@
+When the Teeth
+Eat the Tail
+A Review of Canada’s Defence Artificial Intelligence
+Robert C. Engen Ein Projekt im Rahmen von
+DAIO Study 23|09
+
+About the Defense AI Observatory
+The Defense AI Observatory (DAIO) at the Helmut Schmidt University in Hamburg
+monitors and analyzes the use of artificial intelligence by armed forces. DAIO comprises
+three interrelated work streams:
+Culture, concept development, and organizational transformation in the context of
+military innovation
+Current and future conflict pictures, conflict dynamics, and operational experience,
+especially related to the use of emerging technologies
+Defense industrial dynamics with a particular focus on the impact of emerging
+technologies on the nature and character of techno-industrial ecosystems
+DAIO is an integral element of GhostPlay, a capability and technology development project
+for concept-driven and AI-enhanced defense decision-making in support of fast-paced
+defense operations. GhostPlay is funded by the Center for Digital and Technology Research
+of the German Bundeswehr (dtec.bw).
+Ein Projekt im Rahmen von
+
+When the Teeth
+Eat the Tail
+A Review of Canada’s Defence Artificial
+Intelligence
+Robert C. Engen Ein Projekt im Rahmen von
+DAIO Study 23|09
+
+About the Authors
+Dr Robert C Engen is Senior Lecturer in War Studies at Deakin University, working in pro-
+fessional military education at the Australian War College in Canberra and convening units
+on contemporary trends in warfare and high-end conflict. He was previously an Assistant
+Professor of Defence Studies at the Canadian Forces College, and a post-doctoral fellow
+and faculty member in the History Department of the Royal Military College of Canada.
+An historian by training, he has written two monographs and an edited volume on the
+human dimensions of warfare, and recently co-wrote a groundbreaking graphic history with
+Dr Matthew Barrett: Through Their Eyes: A Graphic History of Hill 70 and Canada’s First
+World War. He is actively researching the intersection of the human dimensions of war and
+the inhuman dimensions of artificial intelligence. His Twitter account is @RobertEngen.
+Acknowledgments
+Great thanks are owed to Dr Allan English (Queen’s University), Charlotte Duval-Lantoine
+(Canadian Global Affairs Institute), Tindur Sigurdarson (Queen’s University), and Major
+Stephen Paish (Canadian Army) for valuable comments and suggestions. Brigadier-General
+Dave Yarker and his father, Colonel (ret’d) Rick Yarker, gave generously of their time and
+knowledge. Alexandre Jouan (DRDC) also provided a draft copy of the Canadian DND AI
+Strategy that completed this analysis, and DRDC okayed the citation of this important draft
+document. The author is solely responsible for any errors in fact, analysis, or omission.
+Design
+Almasy Information Design Thinking
+Imprint
+When the Teeth Eat the Tail: A Review of Canada’s Defence Artificial Intelligence. DAIO
+Study 23/09 (Hamburg: Defense AI Observatory, 2023)
+Defense AI Observatory | Chair of Political Theory | Helmut Schmidt University
+Holstenhofweg 85 | 22043 Hamburg | T +49 40 6541 2776
+ | contact@defenseai.eu | @Defense_AIO
+ISSN (online): 2749-5337
+ISSN (print): 2749-5345
+4 WHEN THE TEETH EAT THE TAIL
+
+Content
+1 Summary ....................................................................................................................... 6
+2 Thinking About Defence AI ......................................................................................... 8
+2.1 “Records-K eeping Bedlam”: Historical and C ultural Background to Defence AI in Canada. ...9
+2.2 What Canada Says It Thinks About AI ..........................................................................15
+3 Developing Defence AI. ............................................................................................. 19
+4 Organizing Defence AI .............................................................................................. 24
+4.1 External Governance for AI ..........................................................................................25
+4.2 Internal Governance for AI ...........................................................................................26
+5 Funding Defence AI ................................................................................................... 28
+5.1 PCAIS, IDEaS, and MINDS ...........................................................................................29
+5.2 Procurement................................................................................................................30
+6 Fielding and Operating Defence AI ......................................................................... 33
+7 Training for Defence AI .............................................................................................. 37
+8 Conclusion. .................................................................................................................. 40
+9 Annex .......................................................................................................................... 43
+9.1 Contracts ...................................................................................................................44
+9.2 Defence Research and Development Related to AI, 2009–2022 ........................................46
+9.3 Security Policy Nexus of Emerging Technology (SPNET) Briefing Notes on AI, 2020–2021 ....50
+Literature ........................................................................................................................ 54
+WWW.DEFENSEAI.EU 5
+
+1 Summary
+Canada is in trouble when it comes to defence artificial intelligence
+(AI). Although the country is well-p laced globally for AI research,
+development, and funding, its Department of National Defence/
+Canadian Armed Forces (DND/CAF) are badly positioned to em-
+brace digital transformation – including artificial intelligence systems.
+This is a consequence of the organization’s structure, its history, and
+its culture rather than any technical shortcomings. The consistent
+privileging of operations and the “teeth” of the organization and
+the denigration of its “tail” support functions has meant that DND/
+CAF information management system has been a disaster for more
+than two decades. Both internal and external agencies have recently
+flagged critical shortcomings in information management, procure-
+ment, personnel, and professionalism in DND/CAF as major road-
+blocks to wide- scale implementation of defence AI.
+There has been a substantial amount of theoretical work done on
+defence AI, and the Canadian military organization has, to greater
+or lesser degrees, already undertaken much of the necessary intel-
+lectual heavy lifting for how to approach AI. A comprehensive DND/
+CAF Artificial Intelligence Strategy exists in draft form. There are
+many Canadian initiatives related to defence AI under development,
+and DND/CAF has solid mechanisms for funding and nurturing
+AI projects in partnership with academia and industry. But most
+of these initiatives must be small in scale to circumvent the larger,
+highly dysfunctional defence procurement process in Canada. The
+decentralized organizational siloes mean that AI development,
+funding, and operation happen in isolation and without horizontal
+connections to the rest of the organization. There are also serious
+6 WHEN THE TEETH EAT THE TAIL
+
+unanswered questions about how AI will be governed within DND/
+CAF. Defence AI systems are finding limited operational and busi-
+ness application in the Canadian military establishment. However,
+present existential issues related to procurement and personnel are
+likely to throw these efforts into disarray. Short of major structural
+and cultural change within DND/CAF, it seems extremely unlikely
+that Canada will be able to make meaningful steps towards large-
+scale implementation of defence AI this decade.
+WWW.DEFENSEAI.EU 7
+
+2 Thinking
+About
+Defence AI
+8 WHEN THE TEETH EAT THE TAIL
+
+Canada’s Department of National Defence / Canadian Armed Forces (DND/
+CAF) are not well- prepared for defence artificial intelligence at scale. Many of the
+barriers to adoption come from how the Canadian military, as an institution, thinks.
+Organizational and cultural trends, rather than technical limits, are likely to deter-
+mine Canada’s trajectory in this field.
+The Department of National Defence (DND) is the civilian arm of Canada’s federal
+public service related to defence. The Canadian Armed Forces (CAF) are the coun-
+try’s uniformed military services. The “Defence Team” refers to both DND and the
+CAF, and the two halves are integrated in some ways. However, as a recent exter-
+nal review of the organization conducted by Justice Louise Arbour revealed, “even
+as part of the Defence Team (…) the CAF remains insular, closed, self- confident,
+persuaded of the merit of its methodolog[ies], and rarely exposed to the broader
+civilian organizational culture.”1 The present system of organization within the De-
+fence Team is referred to informally as the “Level 1” or “L1” system. The head of
+each of the L1s reports directly to the two “Level 0s”: either the uniformed Chief
+of the Defence Staff (CDS), or to the civilian Deputy Minister (DM) of National
+Defence, and, in a few cases, to both. L1s are led either by a senior military officer
+or a civilian assistant deputy minister. Some of the L1s’ responsibilities cut across
+wide areas of responsibility (such as Materiel and Real Property). However, all
+L1s are answerable only to the CDS or DM, and behave in self- directed manners,
+with authority flowing hierarchically from the top. The L1 system can charitably be
+characterized as “federated,” and more accurately as “balkanized.” In the past the
+CDS has exerted strong central control over the L1s, but this control has weak-
+ened in the last decade.
+2.1 “Records-K eeping Bedlam”: Historical and
+Cultural Background to Defence AI in Canada
+Two historical developments heavily influenced how the DND/CAF thinks. First,
+the transformation from three services to one service (unification) in the 1960s
+had the long- term effect of creating organizational balkanization. Second, drastic
+budget and personnel cuts beginning in the 1990s destroyed much of the organ-
+ization’s collective memory and left it without a solid basis for digital information
+management. These two aspects, in combination with an overemphasis on mission
+success and a system that rewards job mobility have created an almost totally
+1 Arbour,ReportoftheIndependentExternalComprehensiveReviewoftheDepartmentofNationalDefenceandtheCanadian
+ArmedForces,p.16.
+WWW.DEFENSEAI.EU 9
+
+dysfunctional organizational setup that seriously undercuts the ability of Canada to
+exploit the potential of defence AI.
+The first development, unification, was a 1960s program to transform Canada’s
+three military services (the Royal Canadian Air Force, the Royal Canadian Navy,
+and the Canadian Army) into one, unified service containing different subordinate
+Commands. Ironically, after dispensing with the three “strong services,” unification
+created the dozens of entrenched, semi- autonomous, highly siloed organizational
+entities – the “Level 1s” (L1s). Each L1 pulled decision- making authorities together
+at the top of their own silo to ensure control and away from both subordinate ele-
+ments and from enterprise- wide organizations.2 The way that data and information
+management are handled within the Department of National Defence today – that
+is to say, poorly – is a consequence of this history. The L1s all operate semi-
+autonomously and have different data requirements, separate IT systems, and
+independent procurement processes.3 As of 2019, the civilian Assistant Deputy
+Minister (Information Management) (ADM(IM)) “provides IM direction, procedures,
+and enterprise tools, [but] each L1 is responsible for implementing IM plans and
+activities within their respective operational areas.”4 The main common ground
+from an IM perspective is that each L1 still must meet base requirements set by
+the Treasury Board, which they often do not.
+The second development was the significant budget cuts and reductions in
+personnel costs during the 1990s. The 1994 Defence White Paper reduced the
+size of Canada’s Regular Forces by 32 per cent, from 89,000 to 60,000 as part of
+the Forces Reduction Program (FRP). The FRP reduced personnel and resources
+assigned to headquarters and support functions by 45 per cent to maximize the
+“teeth” of the organization – the operational elements – at a time in the mid-
+1990s when the tempo of CAF operational requirements was high.5 The cuts fell
+disproportionately on the “tail” of the organization: the support services and
+headquarters. As Canadian historians wrote over two decades ago, “In the relent-
+less paring of military personnel in the [CAF] and civilian staff in [the Department
+of National Defence], inevitably many of the first positions to go have been the
+information handlers such as clerks, secretaries, archivists, and librarians,” who
+the FRP deemed over- staffed and expendable in comparison to operators. These
+people constituted the record- keeping and information management backbone
+of Canada’s defence establishment. The well-d isciplined Cold War analog record-
+keeping systems disintegrated just as digital technology became widespread, and
+the FRP reduced personnel before IM tools were in place to support smaller staff.6
+2 AuthorCorrespondencewithLGenR.Crabbe,December13,2022.
+3 DepartmentofNationalDefence,TheDepartmentofNationalDefenceandCanadianArmedForcesDataStrategy,p.29.
+4 ChiefInformationOfficer,DefenceInformationManagementPlan,p.8.
+5 ChiefReviewServices,NDHQ99.Vol1,p.1.
+6 ChiefReviewServices,NDHQ99.Vol3.
+10 WHEN THE TEETH EAT THE TAIL
+
+Email and instant messaging bypassed the crumbling centralized record- keeping
+system and aggravated the problem, and DND/CAF left its best practices behind.7
+By 2001, observers described the situation as a state of “records- keeping bed-
+lam.”8 As a direct result of these trends, the CAF effectively has no single central-
+ized record- keeping system, and its inability to manage its own information has
+been the source of serious scandals and malpractice for three decades.9
+These historical developments have created path dependencies, aggravated by
+the major features of Canada’s military culture.10 One of the basic assumptions of
+the Canadian Armed Forces is the idea of “operations primacy” or “mission first”:
+that mission success should receive priority over everything else.11 This assumption
+comes from a long tradition of orientation towards mission effectiveness, but the
+new CAF professional ethos, Trusted to Serve (2022), reaffirmed operations prima-
+cy as a professional expectation.12 In the Canadian experience, this expectation
+has sometimes promoted a “get- it- done” mentality, privileging mission efficiency
+and accomplishment over personal wellbeing, and even accepting a degree of
+wilful disobedience so long as operational results are achieved.13 The concept of
+operations primacy is important for any military to function, but in Canada there is
+strong cultural pressure to have every mission be no- fail.14 Indeed, Justice Louise
+Arbour’s 2022 external review of the CAF noted that, “The long- established way
+of doing business in the CAF is anchored in operational imperatives that are often
+nothing more than assumptions.”15
+The basic assumption of operations primacy has a long pedigree in Canadian
+history, dating back to the end of the Second World War.16 It has sometimes been
+illustrated using the biological metaphor of “teeth and tail,” imagining the CAF as
+an animal whose fighting arms are the “teeth,” while the supporting functions of
+the organization are the “tail.” The metaphor lionizes the deployable, operational
+fighting “teeth” of the organization, while denigrating and even vilifying the sup-
+posedly non- essential “tail.” The metaphor justifies cuts to particular “tail” areas
+(headquarters, administration, record keeping, data analysis, etc.) and assumes
+that it is always preferable to cut the “tail” of the CAF instead of its “teeth.” “We
+7 Lizotte,LearningtoSwiminaSeaofInformation,p.7.
+8 English/Brown/Johnston,AreWeLosingOurMemory?,p.479.
+9 Desbarats,SomaliaCover-Up,pp.59.70;Sharpe,ExecutiveSummary–BoardofInquiry–Croatia;Sabry,TortureofAfghan
+Detainees,p.33;Berthiaume,“HeadofSexualMisconductResponseCentreSaysComplaintsagainstMilitaryBrassAreaSign
+ofProgress”;Arbour,ReportoftheIndependentExternalComprehensiveReviewoftheDepartmentofNationalDefenceandthe
+CanadianArmedForces,pp.54–55.
+10 DepartmentofNationalDefence,CanadianArmedForcesEthos:TrustedtoServe,p.53;Schein/Schein,OrganizationalCulture,
+chapter1.
+11 Hansen,“TheCanadianArmedForcesAreHeadingforaTitanicCollapse.”
+12 DepartmentofNationalDefence,CanadianArmedForcesEthos:TrustedtoServe,p.33;Leslie,ReportonTransformation2011.
+13 Rozema-Seaton,“BOXTOP22:TheCostofFocusingonanOperationalCulture,”p.15.
+14 Paquet,CultureChange:ShouldPeopleFirstTrumpMissionFirst?,pp.9-10.
+15 Arbour,ArbourReport,p.9.
+16 Burns,ManpowerintheCanadianArmy,1939-1945.
+WWW.DEFENSEAI.EU 11
+
+are going to have to reduce the tail of today while investing in the teeth of tomor-
+row,” wrote Canadian Army Commander Lieutenant- General Andrew Leslie in a
+much- cited 2011 report that was the capstone on one of the CAF’s failed transfor-
+mation efforts.17 The logic of the teeth and tail is purely that of operations primacy.
+It is a faulty metaphor. No higher animal consists only of teeth and tail; biological
+organisms are complex systems of systems, the most important of which is the
+guiding intelligence in the central nervous system. As historian Allan English has
+asked, “Is it better for the animal to lose a tooth or two, or a significant part of its
+brain?”18 In other words, as noted by Commodore Hans Jung, a former Surgeon
+General of the CAF, major cuts to the ”tail” of the armed forces (including health
+services, administration, and data analysis) are actually cuts to “key strategic ena-
+blers” that allow everything else to function.19
+Operations primacy as a basic assumption is understandable within the CAF’s
+context and history. Unlike the United States, where the armed services all wield
+significant political clout and enjoy relative independence, the CAF has little
+independence and almost no ability to shape political decision- making or strate-
+gy.20 The ability to complete those missions assigned to it in a superb fashion is a
+protective mechanism for the CAF: everyday government and public indifference
+to the military is so great in Canada that any mission failure might become existen-
+tial as an excuse for new rounds of cuts. However understandable it is, the primacy
+of operational requirements has important consequences related to defence AI.
+These are discussed further in chapters 5.2 and 7.
+Another, closely related, basic assumption underlying the CAF is the value of job
+mobility. The CAF suffers an organizational “addiction to mobility,” and likes key
+people, particularly leaders, to move jobs every two to three years.21 The CAF’s
+rewards system is performance- based, and privileges breadth and variety in post-
+ings over the development of expertise or depth. Promotions in the CAF hinge
+upon achieving short- term goals rapidly and then moving on, and the system has
+inadvertently rewarded dysfunctional behaviour as well as desired behaviour.22
+The cultivation of technical or administrative expertise in the CAF is not part of a
+career path that typically leads to promotion, and those who stay “geo- locked” in
+locations or jobs for extended periods forfeit promotion.23
+17 Leslie,ReportonTransformation2011.
+18 English,SexandtheSoldier,pp.202-203.
+19 TheCanadianPress,“MilitaryPlannedtoCutHealthServices,DocumentsShow.”
+20 English,UnderstandingMilitaryCulture,pp.88-89.
+21 Wakeham,CareerManagementModernization;Arbour,ReportoftheIndependentExternalComprehensiveReviewofthe
+DepartmentofNationalDefenceandtheCanadianArmedForces,p.257.
+22 English,“CorruptionintheCanadianMilitary?,”p.37.
+23 DepartmentofNationalDefence,TheDepartmentofNationalDefenceandCanadianArmedForcesArtificialIntelligenceStrate-
+gy,p.22;English,“EnablingInnovationinCanada’sArmy,”p.11.
+12 WHEN THE TEETH EAT THE TAIL
+
+The historical problems faced by Canada’s military have, since at least the 1990s,
+created a culture with some toxic characteristics.24 There are substantial barriers
+that the culture also creates for the adoption of defence artificial intelligence.
+Operations primacy means that those elements of the CAF that are immediately
+deployable on operations, and specifically those that fulfil direct combat functions,
+are the most highly privileged in the organization’s cultural esteem. The system
+is set up to reward people and perpetuate structures that are operationally fo-
+cused. The CAF is addicted to job mobility among its personnel and demands the
+willingness to move jobs constantly to meet short-t erm imperatives. Technical and
+administrative expertise are under- privileged, or are filled with non- permanent
+public servant positions.
+These historical developments and cultural traits have serious implications for
+defence AI in Canada. Canada’s DND/CAF is probably two decades behind where
+it needs to be on information management, which is a critical part of defence AI.
+DND introduced solutions that IT managers proposed for digital record-keeping in
+the CAF – such as an Electronic Document and Records Management System – a
+decade late, and did not implement it enterprise-wide.25 Powerful digital tools
+are available enterprise-w ide, but often user training and instructions are not, and
+key information managers within the L1 entities are typically double- hatted from
+other jobs rather than being dedicated specialists. The decentralized nature of
+the DND/CAF hierarchy, and the hodgepodge way IT systems developed in each
+silo in the 1990s, has left each L1 managing its own systems. In 2012 the ADM(IM)
+authorized the L1s’ different Records, Documents, and Information Management
+Systems, the Document Management Control System, and network- shared drives
+all as authorized repositories for data storage and management. This disparate
+set of applications “limits access, collaboration, and bloats the departments’ IT
+expenses. At the strategic level, it has led to significant challenges in applying
+common practices for IM that can be rolled out across the enterprise.”26 A few
+enterprise- wide IM systems exist for critical components of DND business, but
+other areas of the information ecosystem are effectively ungoverned, with net-
+worked shared drives, websites, SharePoint instances, mail servers, and document
+repositories holding huge volumes of disorganized content. “The result,” writes
+one CAF IM officer, “is an information environment which is untrustworthy, ineffi-
+cient, that frustrates users, and limits the value the DND/CAF can glean from its
+own information.”27
+24 Duval-Lantoine,TheOnesWeLetDown.
+25 English/Brown/Johnston,“AreWeLosingOurMemory?”,p.478.
+26 Lizotte,LearningtoSwiminaSeaofInformation,p.18.
+27 Ibid.,p.2.
+WWW.DEFENSEAI.EU 13
+
+Because of its structure, culture, and lack of internal coherence, DND/CAF has
+never developed holistic ways to capture data within its institutional memory.28 A
+2022 Centre for International Governance Innovation report noted that, “Canada
+has no enterprise- wide architecture for managing military digitalization across
+DND/CAF.”29 The 2019 DND/CAF Data Strategy highlighted similar organizational
+problems: the inability to make decision about data, ineffective data management
+practices, unwillingness to share data between L1s, lack of trust in data, inflexible
+legacy systems, low data literacy, and the lack of a data culture.30 The balkanized
+L1 system is particularly problematic. A DND/CAF draft AI strategy from 2022
+confirms that present AI initiatives within DND/CAF are fragmented between L1s,
+with each element proceeding independently with its own limited plans, and with
+no roadmap for moving the organization towards coordinated investment or gov-
+ernance. These problems must be addressed with culture change, as there is no
+culture of “working horizontally” among L1st at DND/CAF. However, the current
+structure, processes, and incentives are working against the necessary changes.31
+In its 2022 digital strategy, the Canadian Army correctly described the current era
+in DND/CAF as an ongoing “digital winter.”32 And external reviewer Louise Arbour
+wrote, “Ideally, a more thoughtful approach would ensure that the sum of each
+organization’s data represents the whole picture … with the current silo model
+focused on achieving individual organizational mandates, this is simply not possi-
+ble.”33 There remains no holistic, end-t o- end ownership of data within DND/CAF
+and limited grounds for digital jointness. These are, in sum, major limiting factors
+for the implementation of AI systems at scale in Canada’s defence establishment.
+To return to the “tooth- and- tail” metaphor: when confronted with the choice of
+what to cut, the DND/CAF “animal” has historically preferred lobotomy to den-
+tistry, shedding brain matter rather than risk losing “teeth.” This attitude presents
+a variety of barriers for defence artificial intelligence. The basic prerequisites for
+understanding, developing, and fielding AI systems at scale, by DND/CAF’s own
+reckoning, include research and development, agile project management, soft-
+ware (and those who use it) as an essential capability equal to hardware, massive
+investment in digital infrastructure and information management, and application
+development across the enterprise.34 These are all functions that will normally and
+derogatorily be lumped in with the “tail.”
+28 English/Brown/Johnston,“AreWeLosingOurMemory?,”p.473.
+29 Araya,ArtificialIntelligenceforDefenceandSecurity,p.9.
+30 DepartmentofNationalDefence,TheDepartmentofNationalDefenceandCanadianArmedForcesDataStrategy,p.6
+31 DepartmentofNationalDefence,TheDepartmentofNationalDefenceandCanadianArmedForcesArtificialIntelligence
+Strategy.
+32 CanadianArmy,ModernizationVitalGround,p.12.
+33 Arbour,ReportoftheIndependentExternalComprehensiveReviewoftheDepartmentofNationalDefenceandtheCanadian
+ArmedForces,p.52.
+34 DepartmentofNationalDefence,TheDepartmentofNationalDefenceandCanadianArmedForcesArtificialIntelligence
+Strategy,pp.6-7.
+14 WHEN THE TEETH EAT THE TAIL
+
+In 2022, Madame Louise Arbour’s external review of DND/CAF discussed the
+organization’s approach to problem solving, emphasizing why it rarely succeeds
+when dealing with “wicked” complex problems:
+Every problem must have a solution. The solution must be immediate and
+actionable. It matters little whether it actually fixes the problem, particularly if
+the problem is ill- defined and poorly understood, not unlike culture change.
+The response is a flurry of activities usually consisting of making lists, charts, in-
+ventories, and PowerPoint presentations, as well as enacting new orders, pol-
+icies, and directives on top of an already complex structure … [but] the CAF
+leadership seems to have been incapable of examining which aspects of its
+culture have been the most deficient. In none of the initiatives it has launched,
+is there a single reflection on whether its insular, hierarchical structures may
+have facilitated the [problem] … Rather, the focus has been on mapping steps,
+pathways, and activities.35
+The AI problem for DND/CAF has the characteristics of a wicked problem that
+will resist all simple technical solutions. Making the most of AI and ethical auton-
+omy requires major structural and cultural changes within Canada’s armed forces,
+particularly in how service members are rewarded. As it stands, there is little real
+appetite for change, because the reward system encourages carrying out a flurry
+of activities, or “doing spectacular things of small substance.”36 The changes
+necessary to develop the potential of defence AI are not small.
+2.2 What Canada Says It Thinks About AI
+At least on paper, the Canadian defence establishment is taking the uncertainties
+of emerging technology seriously. This begins at the top, with Canada’s 2017
+defence policy, entitled Strong, Secure, Engaged (SSE), which enshrines many of
+its formal military aspirations for the future.37 The CAF’s environmental L1s (land,
+air, maritime, SOF) have also put thought into the future of artificial intelligence,
+though the degree to which this thinking has occurred, and the degree to which it
+has been made public, varies considerably. An overview of the thinking about AI
+systems on the part of the Canadian Army, Royal Canadian Navy, Canadian Special
+Forces Command, and the Royal Canadian Air Force follows.
+35 Arbour,ReportoftheIndependentExternalComprehensiveReviewoftheDepartmentofNationalDefenceandtheCanadian
+ArmedForces,p.10.
+36 Horn/Bentley,ForcedtoChange,pp.66,68,71–72,76–78.
+37 DepartmentofNationalDefence,Strong,Secure,Engaged:Canada’sDefencePolicy2017,p.55.
+WWW.DEFENSEAI.EU 15
+
+The Canadian Army has been particularly forward- thinking concerning artificial
+intelligence. In its 2020 Modernization Strategy, the Canadian Army indicated
+that they believed it to be their responsibility “to examine the potential of AI and
+machine data to transform some aspects of land operations, including exploiting
+data and information to produce intelligence and predictive modelling to support
+decision- making.”38 The Army’s more recent addendum to the Modernization
+Strategy, the 2022 Modernization Vital Ground: Digital Strategy document,
+reflects recent thinking on technological drivers: “Raw data of unprecedented
+volumes may only be processed into tangible information via human- machine
+teaming,” the Vital Ground document reads. “Automating data exploration via AI/
+ML [artificial intelligence / machine learning] allows commanders to process more
+significant amounts of information while decreasing their cognitive load.” The
+Army also emphasizes the importance of Big Data: “This requires new procedures
+and processes to assure timely, reliable access to data.”39 The Army’s Land Warfare
+Centre has written very thoughtfully on how the adoption of AI by the Army, “must
+proceed with caution and be informed by a realistic sense of limits … Nonethe-
+less, if pursued and applied carefully, much of what AI offers generally aligns well
+with [Army] requirements.”40
+The Royal Canadian Navy’s (RCN) issued its Digital Navy strategy in 2020. Digital
+Navy addresses a broad range of digital technologies in a general manner, in-
+cluding “cognitive computing capabilities like artificial intelligence and machine
+learning that are driving advances in automation and big data analytics.” The
+Navy’s intends to use digital capabilities to “augment and empower all members
+of the naval team.”41 It argues for the need to cultivate a “data- centric mindset”
+in the RCN, as “quality data will be a fundamental enabler of this initiative … this
+data- centric mindset will be key to our success going forward.” The RCN stresses
+three categories of defence AI applications. First, Autonomous Things, which
+“includes a broad array of technologies including advanced robots, autonomous
+vehicles and intelligent agents (“bots”), which are rapidly evolving due to pow-
+erful cognitive computing capabilities.” Second, Augmented Analytics, using AI
+to enhance the analysis of both structured and unstructured data: “The RCN has
+made significant progress in developing its data analytic capabilities over the
+past few years and will continue to do so by leveraging AI. This will be done with
+a view to fully exploiting our data to enable timelier and better- informed deci-
+sions.” Third, AI- Driven Development, using AI in the design process for software,
+hardware, naval equipment, and systems: “This is an emerging application of AI
+that is of interest to the RCN as it has implications for naval materiel assurance,
+38 CanadianArmy,AdvancingwithPurpose,p.51.
+39 CanadianArmy,ModernizationVitalGround:DigitalStrategy,p.9.
+40 Priems/Gizewski,“LeverageArtificialIntelligenceforCanada’sArmy,”p.43.
+41 RoyalCanadianNavy,DigitalNavy,p.6.
+16 WHEN THE TEETH EAT THE TAIL
+
+training provided to members of the naval team, and the tools that they use.”42
+The strategy concludes with the promise to establish a Digital Navy Office “to
+ensure the successful execution of the RCN’s digital journey … to facilitate the
+implementation and evolution of this initiative.” Its mandate will include program
+alignment, communications, performance measurement, look- ahead functions,
+process enhancement, training, and contract vehicles.43
+The Canadian Special Operations Forces Command (CANSOFCOM) is an in-
+dependent L1 within the CAF. CANSOFCOM enjoys several privileges, which it
+refers to as the “3As”: direct access to decision makers; autonomy as a distinct
+and self- reliant entity; and having the appropriate authorities to meet their own
+requirements. By leveraging the “3As” CANSOFCOM is more able than other L1s
+to sidestep bureaucracy. In their 2020 strategic plan, Beyond the Horizon, CAN-
+SOFCOM laid out its perceived relationship to technology and “innovation”: “the
+Command will prioritize the implementation of Gradient Ascent – a new digitaliza-
+tion and data analytics initiative designed to ensure a level of competency in the
+digital space commensurate with what we have achieved in the kinetic space – in
+order to attain information dominance over adversaries on operations, while simul-
+taneously leveraging the advantages that digital technologies provide for improv-
+ing institutional efficiency and effectiveness.”44 Gradient Ascent is CANSOFCOM’s
+Digital Transformation Initiative.45 Little information is publicly available.
+The last environmental command, the Royal Canadian Air Force (RCAF), has pub-
+lished the least on artificial intelligence. The organization’s Future Air Operating
+Concept is from 2016, and recent Aerospace Warfare Centre publications offers
+few comments on technology and nothing specifically about artificial intelli-
+gence.46 The Royal Canadian Air Force Journal published a few articles related
+to AI between 2019 and 2022, but most of the RCAF’s work on AI is being done
+outside of the public eye.
+In all cases where they have adopted explicit stances on AI, DND/CAF enti-
+ties have maintained a commitment to keeping humans “in or on ‘the loop’”
+when it comes to decision- making, i.e. not allowing fully autonomous offensive
+weapon systems that “complete the loop” and offensively engage without
+human oversight. Attempting to ensure that combat remains an activity featuring
+meaningful human involvement is one of the cornerstones of Canadian AI think-
+ing.47 The CAF’s most- used leadership framework for the past two decades, the
+42 Ibid.,p.14.
+43 Ibid.,p.17.
+44 CanadianSpecialOperationsForcesCommand,BeyondtheHorizon,p.31.
+45 Gonthier,AcceleratingtheCanadianArmy’sDigitalTransformation,p.6.
+46 Goette,PreparingtheRCAFfortheFuture.
+47 DepartmentofNationalDefence,TheDepartmentofNationalDefenceandCanadianArmedForcesArtificialIntelligence
+Strategy,p.7.
+WWW.DEFENSEAI.EU 17
+
+Pigeau- McCann Model, explicitly deals with “cybernetic control” systems involv-
+ing some degree of autonomy as being feedback mechanisms, fundamentally
+lacking the properties of command.48 There are also the beginnings of internal
+military discussions on developing a professional code of ethics and policy for AI
+in Canada.49 The recently- formed Directorate Gender and Intersectional Analysis
+has also been involved with early efforts to bring what the federal government
+calls a “Gender- Based Analysis Plus” (GBA+) perspective to cyber, information
+management, and artificial intelligence capabilities in the CAF.50
+48 PigeauandMcCann,“Re-ConceptualizingCommandandControl,”p.54.
+49 Wasilow/Thorpe,ArtificialIntelligence,Robotics,Ethics,andtheMilitary:ACanadianPerspective,p.11.
+50 DepartmentofNationalDefence,“Gender-BasedAnalysisPlus.”
+18 WHEN THE TEETH EAT THE TAIL
+
+3 Developing
+Defence AI
+WWW.DEFENSEAI.EU 19
+
+Canada represents a potentially rich site for AI research and development, and
+for decades the country has been a locus of AI work. Some of the seminal work in
+the field (backpropagation and convoluted neural networks) came from academics
+at Canadian universities. A recent report from the Centre for International Gov-
+ernance Innovation described Canada’s AI strengths: “a strong AI talent pipeline,
+including 47 higher education institutions offering AI- specific programs and/or
+courses, and world- class AI institutes serving as anchors for future development.”51
+In 2017, the Government of Canada announced that the Canadian Institute for
+Advanced Research (CIFAR) would administer a $125- million CAD Pan- Canadian
+Artificial Intelligence Strategy (PCAIS) for research and talent. The PCAIS invests
+in creating research hubs and recruiting AI researchers globally; since 2017, 113
+Canada CIFAR AI Chairs have been established at institutes in Edmonton, Toronto,
+and Montreal, and over 200 Master’s and PhD students graduate annually from
+these three institutes. Canadian researchers have produced the seventh most
+academic research publications on artificial intelligence in the world as of 2021.
+However, despite its prominent place in AI research output, Canada only holds
+about half a per cent of the world’s nearly one million AI- related patents. The rate
+of such patents in Canada is also dropping sharply.52 Further, between 2018 and
+2022, one-t hird of identified Canadian AI firms either permanently closed or were
+acquired by foreign firms.53 Canada hemorrhages its AI talent to American tech
+firms as fast as it can develop new talent.
+The main L1 within the Canadian defence community that is working on AI tech-
+nologies today is Defence Research and Development Canada (DRDC). DRDC’s
+role within Canada’s Defence Team is to provide leadership and advice on issues
+of defence science and technology, to engage and collaborate with a network
+of domestic and international partners, and to exercise functional authority to
+“ensure coherence of defence and security science, technology and innovation
+investments.”54 The organization therefore serves as the bridge between Canada’s
+AI potential and its defence applications.
+DRDC defence scientists carry out research internal to the organization on behalf
+of or in partnership with other L1s, and commission contract research from ap-
+proved third- party vendors, sometimes working in partnership with them. The
+organization has invested in research related to artificial intelligence and machine
+learning for decades, both internally and externally, and a considerable corpus of
+relevant work associated with and funded by DRDC has accrued as a result. The
+main elements of this work are presented in chapter 9.2.
+51 Araya,ArtificialIntelligenceforDefenceandSecurity,p.5.
+52 OECDAI,“VisualisationsPoweredbyJSIUsingDatafromMAG.”
+53 Araya,“ArtificialIntelligenceforDefenceandSecurity,”p.5.
+54 DefenceResearchandDevelopmentCanada,“Mandate.”
+20 WHEN THE TEETH EAT THE TAIL
+
+Presently, the main route for pursuing the development of Defence AI internally
+to DND/CAF is through DRDC’s Innovation for Defence Excellence and Security
+(IDEaS) program, which was also announced in 2017. The intention behind IDEaS
+is to establish “research clusters” that will “bring together academics, industry,
+and other partners to form collaborative innovative networks.” IDEaS is a com-
+petitive funding model intended, in part, to bypass the cumbersome and archaic
+elements of the CAF’s traditional procurement system (see chapter 5.2) by stream-
+lining academic and industry technical cooperation with the military. Discussion of
+how IDEaS is funded will take place in chapter 5.1, but according to DRDC, about
+65–70 per cent of all proposals from academia and industry for IDEaS grants each
+year “involve AI components.”55
+Many of the IDEaS related to defence AI are through the program’s Competitive
+Projects funding mechanism. “The Competitive Projects element funds projects
+fast,” according to the program website. “It advances promising technology quick-
+ly through a phased approach.” It begins with up to six months of funding, after
+which there is an option for consideration for a further twelve months of funding
+at a much higher rate. After this, DND also has the option of pursuing the project
+further using non- IDEaS funding through S&T Solution Advancement.56 AI is either
+central to, or a component of, many of the technologies being developed through
+the Competitive Projects. IDEaS’s “Spot the Hack” challenge, issued on behalf
+of the RCAF, studies cyber vulnerabilities in the Military Standard 1553 bus used
+by RCAF aircraft avionics networks; many of the bids, including those from CAE,
+Palitronica, and Queen’s University which received first and second- round funding,
+included AI and machine learning agents for intrusion detection purposes.57
+Outside of DRDC, a potentially significant development avenues for AI is a rel-
+atively new DND program called “Mobilizing Insights in Defence and Security”
+(MINDS). MINDS is governed by DND’s office of the Assistant Deputy Minister
+(Policy), responsible for the development and management of defence policy-
+making.58 The program is based upon the idea that “policy- and decision- making
+are strengthened when assumptions are challenged and diverse viewpoints are
+considered.” MINDS provides collaboration opportunities between DND/CAF
+and the academic defence and security community, allowing for bespoke briefing
+engagements, targeted engagement grants for projects and conferences, support
+for emerging scholars, a “rapid response mechanism” for addressing evolving
+priorities, and ongoing collaboration and engagement through Collaborative
+55 DirectorateS&TStrategicPartnerships,“ArtificialIntelligence.”
+56 DepartmentofNationalDefence,“CompetitiveProjects.”
+57 DepartmentofNationalDefence,“SpottheHack.”
+58 DepartmentofNationalDefence,MobilizingInsightsinDefenceandSecurity– MINDS:AnnualReport2019-2020,p.9.
+WWW.DEFENSEAI.EU 21
+
+Networks.59 DND has established several of these Collaborative Networks since
+the program began in 2019.
+Only one Collaborative Network, the Security-P olicy Nexus of Emerging Tech-
+nology (SPNET) based out of Concordia University in Montreal, has specifically
+focused on artificial intelligence as an emerging policy issue. SPNET researchers
+focus on how public policy, defence decision- makers, and technology developers
+can address topics such as accountability, explainability, transparency, security and
+safety, fairness, privacy, ethics, human dignity and rights, inequality, economic
+impacts, international cooperation, and governance.60 Since receiving their first
+MINDS money in 2019, SPNET has produced a significant body of briefing notes
+on relevant topics for DND, particularly focusing on ethical AI in defence, account-
+ability, dual use, regulation, and privacy issues.
+While SPNET has produced prodigious work on a variety of vital issues related to
+artificial intelligence (a list is provided in chapter 9.3), their last briefing notes were
+issued in , presumably with the expiration of the MINDS grant.
+The SPNET Collaborative Network was funded in the 2019–20 cycle of competi-
+tions but has not been renewed. No other major grants have yet been given for AI
+research and development through the MINDS program since.
+The lynchpin of Canada’s defence AI ecosystem is private interests working as
+contractors for DND/CAF. Given the internal problems facing Canada’s military
+(see chapter 2.1) the importance of working with trusted AI vendors is magnified
+and presents many opportunities. The Treasury Board of Canada Secretariat main-
+tains a “List of interested Artificial Intelligence suppliers” who can “provide the
+Government of Canada with responsible and effective AI services, solutions, and
+products.” Federal departments can use these pre- qualified suppliers to launch
+streamlined procurement processes for AI technologies and services, for up to $9
+million CAD before taxes. As of , there were 117 companies on the
+Treasury Board list, ranging from very small startups to large enterprises and public
+companies such as Palantir Technologies, Amazon Web Services, IBM Canada, and
+Microsoft Canada.61 Chapter 9.1 shows the companies that, according to Open
+Government data, are both on the Treasury Board’s pre- approved AI list and have
+contracted with Canada’s Department of National Defence since 2010. Most of
+these contracts, particularly from large firms, are not for AI products, and not all
+details of contracts are publicly available.
+59 DepartmentofNationalDefence,“MobilizingInsightsinDefenceandSecurity(MINDS).”
+60 Security-PolicyNexusofEmergingTechnology,“AboutSPNET:OurWork.”
+61 TreasuryBoardofCanada,“ListofInterestedArtificialIntelligence(AI)Suppliers.”
+22 WHEN THE TEETH EAT THE TAIL
+
+The list in chapter 9.1 is nowhere near complete. In FY 22–23 alone there were
+110 different contracts issued by DND for “Informatics Professional Services” and
+74 for “Automatic Data Processing Software.” The pre- approved AI vendors for
+AI are not the only ones who can, or will, provide these products and services to
+the Department of National Defence. There are definitely companies outside of
+this list contracting AI services to DND, but it is very difficult to obtain a full picture
+without conducting a full audit. Chapter 9.1 is presented here to give a sense
+of how approved AI vendors are interacting with DND/CAF, and what sorts of
+projects they have contracted. This ecosystem is interrogated further in chapters 4
+and 5.2.
+WWW.DEFENSEAI.EU 23
+
+4 Organizing
+Defence AI
+24 WHEN THE TEETH EAT THE TAIL
+
+Canada’s DND/CAF has been reluctant to commit itself to external governance
+standards for the use of artificial intelligence systems and is equally reluctant to
+propose firm internal governance models. Given the department’s “federated” L1
+system, the lack of governance mechanisms may simply default to each Level 1 or-
+ganization within DND/CAF doing as it pleases in developing artificial intelligence
+applications, with little accountability.
+4.1 External Governance for AI
+Federal entities in Canada are supposed to be bound by the government’s 2019
+Treasury Board Directive on Automated Decision Making, which ensures that AI
+systems are used responsibly by government institutions.62 This Directive is a (sup-
+posedly) mandatory policy instrument that applies throughout federal government
+departments.63 The Directive applies to the use of all systems that make, or assist in
+making, recommendations or decisions. “Having a person make the final decision
+does not remove the need to comply with the Directive,” according to a Treasury
+Board memo. “For example, systems that provide information to officers who make
+the final decisions could be in scope.”64 As part of the Directive, every department
+must complete an Algorithmic Impact Assessment (AIA) of an AI system prior to
+production, and whenever system functionality changes. The AIA assesses a system’s
+impact based upon several factors, with impact levels varying based on the system’s
+affect on the rights, health, wellbeing, and interests of individuals or communities, as
+well as sustainability, reversibility, and duration.65 Based upon responses to risk and
+mitigation questions, the AIA assigns an impact rating and requires publication of
+the AIA on an open government transparency portal, creating a registry of automat-
+ed decision systems in use by the Government of Canada.66
+The Directive on Automated Decision Making appears robust but contains escape
+clauses and lacks enforcement mechanisms. The Directive applies only to “external”
+services of government – services offered to individuals or organizations by govern-
+ment – and does not apply internally within departments, a “glaring oversight” in this
+governance regime.67 The team presently carrying out a periodic review of the Di-
+rective recommended expanding the scope to include internal as well as external sys-
+tems. However, they also note that since the focus of the Directive is administrative
+decision-m aking, “Internal enterprise services, in which the provider and recipient are
+62 TreasuryBoardofCanada,“DirectiveonAutomatedDecisionMaking.”
+63 Beshaies/Hall,“ResponsibleUseofAutomatedDecisionSystemsintheFederalGovernment.”
+64 Ibid.
+65 Rileyetal.,“BillC-27,”p.27.
+66 Beshaies/Hall,“ResponsibleUseofAutomatedDecisionSystemsintheFederalGovernment.”
+67 Scassa,“CommentsontheThirdReviewofCanada’sDirectiveonAutomatedDecision-Making.”
+WWW.DEFENSEAI.EU 25
+
+federal institutions, are unlikely to become subject to the Directive except where they
+specifically concern the rights, interests, or privileges of individual employees.”68
+The degree to which the Directive applies to the Department of National Defence re-
+mains uncertain, but it is clear that DND/CAF does not believe the Directive applies
+to it. DND/CAF’s (unapproved draft) Artificial Intelligence Strategy notes that any
+new AI systems used by Defence should be developed and implemented “in accord-
+ance with applicable laws, policies, and guidelines.”69 However, the AI Strategy also
+proactively warns that, “because of their application to defence and national security,
+many DND/CAF use cases [of artificial intelligence] will fall outside the guidance
+provided by the Treasury Board Secretariat, and the gap between the development
+of AI and other emerging technologies and legislative and policy coverage only
+continues to widen.”70 The AI Strategy carefully discusses how it will be “aligned
+with” the Directive in considering risks without actually stating that it is subject to the
+Directive.71 This disconnect already exists in practice. In , media outlets
+reported that DND had used two AI-d riven hiring services – Knockri and Plum.io – to
+shortlist candidates for the department’s executive ranks. These companies provided
+hiring managers with behavioural assessments and measurements of the “person-
+alities, cognitive abilities and social acumen” of applicants. DND did not submit an
+Algorithmic Impact Assessment to the Treasury Board: a DND spokesperson said that
+because “final decisions” were not being made by AI, the department did not feel
+obliged to complete the Treasury’s algorithmic assessment.72 This excuse was neither
+in the spirit nor the letter of the Directive on Automated Decision Making, and it
+suggests two things. First, DND has yet to take compliance with existing AI govern-
+ance directives seriously and will likely resist having them imposed by other parts of
+the federal government. Second, there needs to be more appreciation within DND
+that a “final decision” being made by a machine is not the only problem, nor even
+the primary problem, that governance structures like the Algorithmic Impact Assess-
+ments are meant to mitigate.73 Reading between the lines, the AI Strategy signals
+that DND/CAF intends to chart its own path in this field.
+4.2 Internal Governance for AI
+The draft Artificial Intelligence Strategy does not definitively state how govern-
+ance of AI will function internally to DND/CAF, though there are hints. It seems
+68 Bitar/Deshais/Hall,3rdReviewoftheTreasuryBoardDirectiveonAutomatedDecision-Making,pp.10-11.
+69 DepartmentofNationalDefence,TheDepartmentofNationalDefenceandCanadianArmedForcesArtificialIntelligenceStrategy,p.21.
+70 Ibid.,pp.19-20.
+71 Ibid.,p.21.
+72 Cardoso/Curry,“NationalDefenceSkirtedFederalRulesinUsingArtificialIntelligence,PrivacyCommissionerSays.”
+73 Scassa,“CommentsonThirdReviewofCanada’sDirectiveonAutomatedDecision-Making.”
+26 WHEN THE TEETH EAT THE TAIL
+
+likely that the federated L1 entities within DND/CAF – those that answer only to
+the Chief of the Defence Staff or the Deputy Minister (see chapter 2.1) – will be
+left to govern their own uses of artificial intelligence. The AI Strategy proposes
+the creation of a Defence AI Centre of Excellence for Canada to “accelerate AI
+experimentation and scaling across the Defence enterprise,” creating a hub of AI
+expertise; however, it does not propose to invest it with governance responsibili-
+ties.74 Instead, the AI Strategy argues that DND/CAF must, “Vest decision author-
+ities for AI at the lowest appropriate level to encourage innovation.”75 Given how
+Canada’s military works, that lowest appropriate level will probably mean the L1s.
+The office of Assistant Deputy Minister (Data, Innovation, Analytics) (ADM (DIA)) is
+in one silo of DND, reporting directly to the Deputy Minister of National Defence.
+The office of Assistant Deputy Minister (Information Management) (ADM(IM)) and
+Assistant Deputy Minister (Defence Research and Development Canada)) are in a
+different silo, reporting to both the DM and to the Chief of the Defence Staff. On
+6 , the DND announced the removal of the ADM (DIA) office as
+an L1. ADM (DIA) has merged with the Directorate of Knowledge and Information
+Management (DKIM) under the ADM (IM), to stand up the Digital Transformation
+Office (DTO). Effective 6 December, the ADM (IM) L1 itself is now called the Chief
+Information Office. Although it is still too early to see what effects these changes
+will have, the new DTO is charged with managing both IM and data and analytics
+enablement “in support of initiatives like machine learning and Artificial Intelli-
+gence.”76 DND/CAF insiders suggest that ADM (DIA) did not accomplish very
+much since it was established in 2017, so this reorganization may correct some of
+the confusing divisions over IT that have plagued the organization.
+Perhaps with cross- cutting, general- purpose capabilities such as artificial intel-
+ligence systems, there is realistically nobody in Canada who can lead radical
+change except the “Level Zeros”: the Chief of the Defence Staff and the Deputy
+Minister of National Defence. The AI Strategy, like the Data Strategy and other
+recent documents before it, is a strategy devolved to the lowest levels of author-
+ity. The thinking within DND/CAF may be that trying to govern AI is like trying to
+govern electricity, and this may prove to be the correct interpretation. However,
+it seems equally likely that the “balkanized” character of DND/CAF’s structure
+means that governance and regulation of AI are such difficult questions that giving
+them sufficient consideration becomes problematic. The question of internal
+governance for artificial intelligence within DND/CAF is therefore an extremely
+difficult one, and there appear to be few answers at present.
+74 DepartmentofNationalDefence,TheDepartmentofNationalDefenceandCanadianArmedForcesArtificialIntelligence
+Strategy,p.15.
+75 Ibid.,p.17.Emphasisadded.
+76 Matthews,“MessagefromtheDeputyMinisterRegardingtheDigitalTransformationOffice.”
+WWW.DEFENSEAI.EU 27
+
+5 Funding
+Defence AI
+28 WHEN THE TEETH EAT THE TAIL
+
+5.1 PCAIS, IDEaS, and MINDS
+The Government of Canada has spent a generous amount of money to develop a
+thriving artificial intelligence ecosystem. The Pan-C anadian Artificial Intelligence
+Strategy (see chapter 3) infused $125 million CAD into AI research hubs and
+global talent recruitment back in 2017, and this effort was renewed in 2021 with
+an additional $440 million CAD over ten years, including $185 million to support
+the commercialization of AI in Canada.77 While the PCAIS appears to be a strong
+investment in AI – with some limitations – there is no direct Defence component of
+this funding. Nor are defence- related applications among the Canadian Institute
+for Advanced Research’s key strategic priorities for the Pan- Canadian AI Strategy:
+these are instead focused on fundamental AI science, AI for health care, AI for
+energy, AI commercialization, societal implications of AI, and advancing AI diversi-
+ty and inclusion.78
+If the Pan- Canadian Artificial Intelligence Strategy has little to say about defence
+AI, another program stood up by the Government of Canada in parallel serves
+as a corrective. Defence Research and Development Canada (DRDC) is the long-
+standing primary delivery agent for DND’s science and technology investments
+(see chapter 3).79 The main route for pursuing the development of Defence AI
+internally to DND/CAF is through DRDC’s Innovation for Defence Excellence and
+Security (IDEaS) program discussed earlier. IDEaS amounted to an investment
+of $85 million CAD per year for 20 years – significantly exceeding the funding
+given to the Pan- Canadian Artificial Intelligence Strategy. This substantial fund is
+managed through the office of the ADM(DRDC).80 There are five funding mecha-
+nisms to assist Canadian “innovators” in addressing defence issues: competitive
+projects up to $1.2 million CAD; “Innovation Networks” of up to $1.5 million CAD;
+contests on approved topics; sandboxes for field testing; and test drives for high-
+readiness ideas.81 A less technical field of investment comes from the Mobilizing
+Insights in Defence and Security (MINDS) expert outreach program discussed
+earlier in chapter 3. The MINDS Collaborative Networks are particularly important,
+with successful applicants receiving $250,000 CAD per year for three years.
+The key advantages of the IDEaS and MIDNS initiatives is that they involve large
+numbers of modest expenditures. In Canada, the Treasury Board has a $10
+million CAD threshold for its Organizational Project Management Capacity level,
+meaning that a project valued less than $10 million CAD “will be exempt from
+77 AdvisoryCouncilonArtificialIntelligence,AnnualReport2020-21.
+78 McKeown,“FoodforThoughtPaperfortheDeputyMinisterandtheChiefoftheDefenceStaff:ThreatsandChallengesof
+ArtificialIntelligence,”p.5.
+79 DepartmentofNationalDefence,ScienceandTechnologyinAction.
+80 DepartmentofNationalDefence,Strong,Secure,Engaged:Canada’sDefencePolicy2017,pp.77–78.
+81 DepartmentofNationalDefence,“IDEaS:InnovationforDefenceExcellenceandSecurity.”
+WWW.DEFENSEAI.EU 29
+
+much of the oversight and rigour” of the standard procurement system and does
+not need to prepare a project complexity and risk assessment for Treasury Board
+consideration.82
+5.2 Procurement
+The IDEaS and MINDS initiatives are vital because of the procurement context that
+they are attempting to escape. Canada’s Department of National Defence has, for
+well over a decade, been effectively disabled from procuring major technological
+systems. This is part of the wider, slow- motion disaster that is Canadian defence
+procurement.83 Seventy per cent of procurement contracts for Canada are overdue
+or delayed. Beginning in 2008, when significant increases in capital investment
+occurred, major capital projects became “jammed up” and have never gotten
+back on track.84 The procurement system involves achieving concord among
+three different government departments; it is designed to prioritize investment
+in the Canadian defence industry over actually building the capabilities of the
+armed forces.85 This process, devised in the 1970s for major capital purchases, is
+competition-b ased, and it is extremely difficult under current federal law to enter
+strategic partnerships with industry the way that the American armed services
+have with the US- based tech giants. It is nearly impossible to procure major capital
+pieces of technology in a useful timeframe in Canada.
+DND’s Project Approval Directive (PAD), updated in 2019, outlines the process for
+delivering new capabilities. According to Lieutenant- Colonel Kenneth Bedley, “the
+PAD follows a project process that is not conductive to digital technology and is
+causing a capability gap within the CAF.” Bedley’s recent study of the “tech gap”
+in Canada suggests that capability delivery in Canada is based on the “water-
+fall” approach to project management, where a linear flow of sequential project
+activities occurs, and the completion of one is necessary before proceeding to the
+next. Because Canada’s Treasury Board deems DND a fiscally risky institution, it
+has forced the adoption of manufacturing industry best practices and standards on
+the process. All projects must follow the PAD, regardless of type. This process was
+designed to procure large capital assets and traditional military hardware, and with
+each discrete phase taking approximately 1–4 years, a project can easily take ten
+years to deliver from start to finish. Although the PAD has a tailored process for
+IT- related projects, this tailored process is burdened with even greater demands
+for documentation and control. According to Bedley, the average length of DND
+82 Bedley,ClosingtheTechGap,p.39.
+83 Nossal,CharlieFoxtrot.
+84 Fetterly,ArmingCanada,p.26.
+85 Schofield,DeliveringonStrongSecureEngaged,p.1.
+30 WHEN THE TEETH EAT THE TAIL
+
+IT- related projects that followed the PAD waterfall model between 2011 and 2015
+was 9.6 years, but some IT projects had been open for over 16 years.86 The Treas-
+ury Board threshold between “minor projects” and “major projects” (see chapter
+5.1) means that any IT, software, or hardware acquisition that exceeds $10 million
+CAD faces a ten-y ear delivery time.87
+The PAD can bypass much of its own process when DND decides there is an
+Urgent Operational Requirement (UOR). The UOR process streamlines procure-
+ment to address short- term operational deficiencies, normally preferring high
+technological readiness level solutions (military- off- the- shelf and commercial-
+off- the- shelf) and is meant to address evolving threats. The UOR process proved
+highly successful during the Afghanistan era, and cut down on vital equipment
+procurement times dramatically, trading project risk to expedite delivery and
+receive priority over standard projects.88 However, the UOR approval requirements
+“demand that the project directly affect combat operations and contribute to a
+life- saving capability.”89 This generally makes the UOR ideal for CAF requirements
+(see “operations primacy” in chapter 2) and there is likely scope for rushing
+tactical projects with AI components through the procurement process as urgent
+requirements. However, there is almost no chance that the broader digital transfor-
+mation needed by DND/CAF and its L1s can be sold to the Treasury Board as an
+urgent operational requirement. And tactical, mission- focused UORs are going to
+constantly be taking priority for capability development within this system.
+The draft DND/CAF AI Strategy cites the need to “improve the procurement
+process to support development and acquisition of AI” as a critical element of its
+plan.90 Other entities within DND/CAF are saying the same thing. “The current
+capability investment paradigm uses a preponderance of rigid and lengthy major
+capital projects,” writes the Canadian Army’s Digital Strategy. “It does not enable
+the [Canadian Army] to benefit from a sustained technological advantage over
+a less- constrained adversary, nor parity with allies who benefit from more agile
+acquisition policies.”91
+The AI Strategy and Digital Strategy also assume that AI procurement should
+be a defence priority. But this is not a given and will likely require a champion at
+the CDS or Deputy Minister level. As now-r etired General Tom Lawson, a former
+Canadian chief of the defence staff, said in 2013 that the “Canadian Armed Forces
+do not procure capabilities unless they’re absolutely necessary to the attainment
+86 Bedley,ClosingtheTechGap,pp.36-38.
+87 Perry,“PrioritiesforCanada’sAirForce.”
+88 DepartmentofNationalDefence,ProjectApprovalDirective(PAD)(2019),pp.175-186.
+89 Bedley,ClosingtheTechGap,pp.42-43.
+90 DepartmentofNationalDefence,TheDepartmentofNationalDefenceandCanadianArmedForcesArtificialIntelligence
+Strategy,p.28.
+91 CanadianArmy,ModernizationVitalGround,p.13.
+WWW.DEFENSEAI.EU 31
+
+of our mandate.”92 What is “absolutely necessary” for the military is, of course,
+completely subjective, particularly given the CAF’s “operations primacy” basic
+assumption. Money in DND/CAF flows towards improving tactical capabilities that
+allow the CAF’s commands to maximize their short- term fitness for operations on
+the near horizon, instead of more general, longer- term, or enterprise- wide capa-
+bilities.93 Given the myriad problems facing Canadian procurement, successfully
+shepherding any major capital project through the system on a non- emergency
+basis is extraordinarily difficult.94
+92 Brewster,“MorethanaDecadeAgo,theArmyHadaPlantoRebuild.ItWentNowhere.”
+93 DepartmentofNationalDefence,TheDepartmentofNationalDefenceandCanadianArmedForcesArtificialIntelligence
+Strategy,p.16.
+94 Brewster,“MorethanaDecadeAgo,theArmyHadaPlantoRebuild.ItWentNowhere.”
+32 WHEN THE TEETH EAT THE TAIL
+
+6 Fielding and
+Operating
+Defence AI
+WWW.DEFENSEAI.EU 33
+
+At present there are not many instances available in the unclassified realm of
+defence AI systems being fielded and used within DND/CAF. Most projects are
+still being researched, under development, are being tested, or are finding limited
+tactical or business applications.
+A few defence AI initiatives are underway, as detailed in Canada’s Open Govern-
+ment procurement site. The Goods and Services Identification Number (GSIN – an
+alphanumeric code used to categorize goods and services) for Artificial Intelli-
+gence in Canada’s procurement system was introduced several years ago but has
+been used by the Department of National Defence only a handful of times amidst
+its tens of thousands of tenders. The most recent ones issued under that GSIN
+were published in FY 2021–22 (none have been issued yet in 2022–23). These in-
+cluded a $1.277 million CAD contract for “artificial intelligence / inference systems
+(R&D)” awarded non- competitively to IMRSV Data Labs in Ottawa on 13 Decem-
+ber 2021.95 No tender description was available. However, IMRSV advertises their
+Defence Suite of products as “a modern AI- enabled platform that enables all
+contributors to the intelligence cycles to make confidence decisions with data they
+trust,” and products such as their “Anvil Crucible” use machine learning to auto-
+mate data analysis tasks such as establishing relationships between entities, iden-
+tifying trends, and making predictions for key variables.96 The other major recent
+contract specifically for AI was issued by DRDC, which put out a tender asking for
+bidders to help “establish a technology exploitation mechanism for DRDC and
+DND to draw upon applied [machine learning] engineering and scientific support
+services. The objective of this work is to conceive, develop, test, optimize, and
+implement all components of custom [machine learning] solutions.”97 The contract
+for this tender opportunity was ultimately awarded to two firms: MDA Systems out
+of Richmond, British Columbia for $1.6 million CAD, and Thales Digital Solutions
+out of Montréal for $1.8 million CAD.98 None of these, to date, have completed a
+Treasury Board Algorithmic Impact Assessment (see chapter 4.1).
+Other AI systems or components of systems are being procured by DND under
+other GSIN labels: particularly the “Automated Data Processing (ADP) Software”
+category, “Informatics,” and “Algorithms.” But they are not being specifically
+flagged as artificial intelligence or machine learning procurements. The small
+Plum.io contract mentioned earlier in this report (see chapter 4.1) was awarded
+under the “Other Research and Development” GSIN code related to “Real Time
+95 DepartmentofNationalDefence,“ArtificialIntelligence/InferenceSystems(R&D),Contract#W8487-220165/001/SC,Awarded
+toIMRSVDataLabsInc.”
+96 IMRSVDataLabs,“OurProducts:AnvilCrucibleDefenceSuite.”
+97 DepartmentofNationalDefence,“Arti.Intell&Mac.L.R&DServices,Solicitation#W6399-19KH95/B.”
+98 DepartmentofNationalDefence,“Arti.Intell&Mac.L.R&DServices,Contract#W6399-19KH95/001/SL,AwardedtoThales
+DigitalSolutionsInc.;”DepartmentofNationalDefence,“Arti.Intell&Mac.L.R&DServices,Contract#W6399-19KH95/002/SL,
+AwardedtoMDASystemsLtd.”
+34 WHEN THE TEETH EAT THE TAIL
+
+Analysis,” and its original tender opportunity has not been made public.99 It is
+likely, given the scrutiny that “artificial intelligence” systems are coming under,
+that we will see more procurements of AI systems fall under banal categories such
+as “Informatics” and “ADP Software” in future. DND has stopped contracting
+services under the AI GSIN code altogether as of this writing.
+Operations primacy continues to shape Canada’s priorities for investment. In its
+recent Modernization Strategy, for instance, the Canadian Army decided to prior-
+itize the modernization of their operational C4ISR (command, control, communi-
+cations, computers, intelligence, surveillance, reconnaissance) capabilities, while
+putting off the establishment of a “digital army” with data analytics and artificial
+intelligence until a minimum 2025–2030 timeframe. Their stated assumption is
+that, “modernization efforts must be undertaken concurrent to (…) force employ-
+ment on operations – there will be no pause.”100 In other words, the continuance
+of operations takes priority, and the tactical equipment most necessary for short-
+term mission success must be put in place before any wider initiatives can begin.
+The C4ISR capabilities are likely to involve AI components, and several ISR- related
+projects are going through the IDEaS process now (see chapters 3 and 5.1).
+However, these will be narrow tactical applications of the technologies, embedded
+within existing organizational stovepipes and without wider integration.
+There are a few other systems with AI components that we know are in service,
+or will be shortly, with DND/CAF today. The Royal Canadian Navy awarded a $45
+million CAD contract to Kraken Robotic Systems Inc., out of Newfoundland, in
+late to provide remote mine hunting and mine disposal equip-
+ment, and an additional $12 million CAD for underwater sound equipment, for a
+24- month acquisition followed by an initial five- year logistics support program.101
+The acquisition includes autonomous underwater vehicles and the use of Kraken’s
+AquaPix synthetic aperture sonar and its image processing software that allows
+for embedded automatic target recognition and data exfiltration.102 Since 2016,
+the government has awarded large contracts to IBM to provide both the Canadian
+Forces Health Services Group and the Canadian Institute for Military and Veterans
+Health Research with the data infrastructure and cognitive computing capabilities
+to conduct advanced “big data” analytics related to healthcare research for ser-
+vice members.103 In , DND awarded a $5.75 million CAD contract
+99 DepartmentofNationalDefence,“RealTimeAnalysis:ScienceandTechnologyRelated(R&D),Contract#W3371-215029,
+AwardedtoPlum.IoInc”
+100 Gonthier,AcceleratingtheCanadianArmy’sDigitalTransformation,pp.2-3;CanadianArmy,AdvancingwithPurpose,p.26.
+101 DepartmentofNationalDefence,“RemoteMinehuntingandDisposalSystems,Contract#W8472-105270/001/QF,
+AwardedtoKrakenRoboticSystemsInc.;”DepartmentofNationalDefence,“UnderwaterSoundEquipment,Contract
+#W8482-206387/001/QF,AwardedtoKrakenRoboticSystemsInc.”
+102 KrakenRoboticsInc.,“KrakenAwarded$50+MillionNavyContractforRoyalCanadianNavyMinehuntingProgram.”
+103 Bélanger/Cramm,“CanadianMilitaryHealthcareConsortiumTapsAnalyticsforMoreComprehensiveResearch;”Department
+ofNationalDefence,“CFHIS-SupportServices,Contract#W8474-03BH01/001/XT,AwardedtoIBMCanadaLtd.”
+WWW.DEFENSEAI.EU 35
+
+to the Calian Group consulting firm for data remediation and marking of serially
+managed materiel, with the goal of supporting the implementation of automatic
+identification technology throughout the organization – a project to make more
+DND assets machine-r eadable that has been ongoing, with stops and starts, since
+2016.104
+However, one example publicized by DND/CAF as an effective use of AI is in
+fact an indictment of the organization’s data ecosystem. The AI Strategy cites
+the example of an AI tool used by the Joint Targeting Intelligence Centre (likely
+the IMRSV Anvil Crucible), which maps networked relationships between target
+entities: “In 2021, CAF was presented with an urgent request from Immigration
+Refugees and Citizenship Canada (IRCC) for the names of Afghan personnel who
+had worked for Canada and now needed evacuation. This data existed, but as
+large quantities of paper files that would take dozens of people hundreds of hours
+to review manually. With permission from JITC and support from the vendor,
+the team spent a weekend scanning the documents and used the tool to extract
+thousands of names for IRCC.”105 While the story suggests that applying an “agile
+AI- based solution” was a major accomplishment, the problem it solved was en-
+tirely manufactured by the failure of basic digitization and stovepiped information
+within DND/CAF. It was fortunate that a tool existed that could partially salvage
+the situation, but DND/CAF may come to rely on AI systems rescuing it from its
+own poor practices.
+So far there are very few “use cases” publicly identified where defence AI systems
+are actively being fielded and operated by DND/CAF today.
+104 DepartmentofNationalDefence,“InformaticsProfessionalServices,Contract#W6381-170008/001/XG,AwardedtoCalian
+Ltd.;”CalianGroup,“UniqueIdentification(UID)toImproveTracking,Remediation,andLifeCycleManagementofMateriel
+Assets.”
+105 DepartmentofNationalDefence,TheDepartmentofNationalDefenceandCanadianArmedForcesArtificialIntelligence
+Strategy,p.29.
+36 WHEN THE TEETH EAT THE TAIL
+
+7 Training for
+Defence AI
+WWW.DEFENSEAI.EU 37
+
+The Canadian Armed Forces are presently facing an existential threat in the form
+of a human resources crisis in their pool of uniformed personnel. As of , the CAF is 10,000 uniformed members short of its authorized strength, with
+a 10 per cent annual attrition rate that is “downright catastrophic.”106 A Chief of the
+Defence Staff / Deputy Minister Directive on Reconstitution was issued on 6 that began the process of scaling back non-e ssential operations and activities
+to “recover and rebuild (reconstitute) the organization,” but noted that the person-
+nel shortfalls had already “severely impacted the organization’s ability to deliver
+professional and collective training.” “During this period of change,” the Directive
+reads, “we will need to make difficult choices about our readiness levels, capacity
+for sustained operations, as well as our level of commitment to all activities, while
+continuing to deliver strategic effects for the [Government of Canada].”107
+What does reconstitution mean for defence AI? The draft DND/CAF AI Strategy
+highlights the “people problems” as requiring its own line of effort, and makes
+these points: “We must identify and plan for our workforce needs[,] we must
+cultivate AI readiness among our existing people[, and] we must find new ways to
+bring critical skills into the enterprise – and to retain and use them.” However, it
+will now be an uphill struggle. Recent polling has found a distinct lack of enthu-
+siasm among young Canadians for joining the CAF, and this polling is mirrored
+in disastrously low recruiting and high attrition rates. As Ken Hansen has recently
+argued, “The Canadian Armed Forces no longer reflect the principles and values
+of the Canadian populace, or of a modern Canadian work force. If this is not ad-
+dressed, any reform will only amount to a shuffling of the deck chairs.”108 Hansen’s
+judgment is harsh, but the present existential crisis in recruiting suggests that he is
+correct about at least one thing: Canadians do not wish to join the armed forces.
+This creates special problems for nurturing an internal talent pool with fluency in
+highly specialized AI technologies. If the values and principles of DND/CAF do
+not appeal to prospective servicemembers with skills in AI technologies then the
+situation may be unsalvageable, because those skills fetch an unmatchable premi-
+um on the open market. It is also worth mentioning that while “modernization” is
+supposedly a key part of the Reconstitution directive, there is no mention in the
+order itself of information management or ADM (IM).
+The draft AI Strategy says that it will meet the “talent and training” challenge first
+with a review of DND/CAF workforce needs for AI: “DND/CAF must review its AI
+workforce requirements to identify the skills, competencies, and personnel required
+to implement AI successfully. This must include not only subject matter experts in
+AI, but also staff whose roles support the AI lifecycle, including civilian and military
+106 Hansen,“TheCanadianArmedForcesAreHeadingforaTitanicCollapse.”
+107 Eyre/Matthews“CDS/DMDirectiveforCAFReconstitution.”
+108 Hansen,“TheCanadianArmedForcesAreHeadingforaTitanicCollapse.”
+38 WHEN THE TEETH EAT THE TAIL
+
+leadership.” The Strategy also urges DND/CAF to identify priority AI workforce
+needs and either develop or procure training curricula to meet them: “This review
+should consider training needs at all levels, and the exploration of new options
+for both academic and professional training to ensure a talent pipeline for future
+needs.” Finally, it flags the urgent need to “Explore and identify processes to recruit
+and retain AI talent, and to utilise it where it is needed.” Some of the solutions that
+the strategy offers are the creation of technical Reserves, short-t erm exchanges, and
+more flexible career pathways allowing for the attraction of tech-s avvy talent above
+entry level in the CAF.109 These are all potentially viable paths, and Canada’s draft AI
+Strategy does an exemplary job of identifying problems and systemic barriers.
+The barriers are many. The assumption of operations primacy has consequences for
+training and the CAF’s posting cycle. Promotion at the mid-l evel ranks are dispropor-
+tionately determined by success in commanding operations.110 Personnel in non-
+operations career trajectories are far less likely to “have legs” in the reward system,
+and are unofficially barred from holding the seniormost leadership positions within
+the organization.111 “While the CAF recognizes its own need for AI skills,” the DND/
+CAF draft Artificial Intelligence Strategy writes, “it often struggles to make use of
+those it already has. Members have described their specialization in AI and related
+fields as career-l imiting and speak of having to choose between remaining within
+their technical field and [choosing] a career path that would lead to promotion.
+Unsurprisingly, the frustration this produces leads members to release or transfer to
+the Reserves. This must change if DND/CAF is to rise to the AI challenge.”112
+It is therefore difficult to see how the Department of National Defence and the
+Canadian Armed Forces will be able to train a reliable AI talent pipeline internally,
+particularly with uniformed servicemembers. DND/CAF is already embroiled in the
+wicked problems of training and talent retention more generally, which does not
+create a promising milieu for harnessing defence AI. The special problems of talent
+retention in a hot tech market are aggravated by the CAF basic assumptions of
+operations primacy and unlimited job mobility discussed earlier. Neither hard-w on
+technical expertise in a narrow field, nor a focus on “non-o perational” specialist
+computer science occupations are much rewarded within the CAF. Changing that
+will require an overhaul of the entire rewards and promotions system, and such an
+overhaul will meet fierce resistance. DND/CAF may have no choice but to seek ex-
+ternal partnerships and contracting for all their major AI needs, as the development
+of an internal talent pipeline will present a major problem. But as we have seen
+when discussing Procurement, that path also contains major obstacles.113
+109 DepartmentofNationalDefence,TheDepartmentofNationalDefenceandCanadianArmedForcesArtificialIntelligenceStrategy,p.24.
+110 Hansen,“TheCanadianArmedForcesAreHeadingforaTitanicCollapse.”
+111 Kelley,CorrelationofMilitaryTradewithSelectionofGeneralsandFlagOfficers.
+112 DepartmentofNationalDefence,TheDepartmentofNationalDefenceandCanadianArmedForcesArtificialIntelligenceStrategy,p.22.
+113 Duval-Lantoine,TheOnesWeLetDown,pp.1141-17.
+WWW.DEFENSEAI.EU 39
+
+8 Conclusion
+40 WHEN THE TEETH EAT THE TAIL
+
+Technologies categorized as artificial intelligence are in use in Canada’s Depart-
+ment of National Defence and Canadian Armed Forces now, and this will continue
+at a modest pace in the years to come. However, the organization faces serious
+challenges to any kind of digital transformation or large- scale adoption of defence
+AI systems. These problems are almost entirely historical, cultural, and organi-
+zational, rather than technical. As a country, Canada is quite well- positioned to
+engage with the potentially transformational effects of artificial intelligence. Its
+armed forces, however, are definitively not.
+Historical and cultural trends within the Canadian military have left the institution
+heavily decentralized, and its “Level 1” organizations (including the main force
+employers) are stovepiped from one another, developing capabilities in isolation.
+DND/CAF’s enterprise-w ide information management has been a disaster for
+more than two decades and the organization’s data stewardship is a constant
+source of scandal and embarrassment. Progress is uneven across the organization.
+Governance appears to be an afterthought.
+Is DND/CAF capable of transforming itself? It is not impossible. However, the
+necessary changes would go “against the grain” of DND/CAF military culture.
+The changes needed to embrace an “innovative” mindset with regards to AI
+will run afoul of existing values and norms related to operations primacy, service
+members’ job mobility, rewards, and the insularity of its hierarchical structure. As
+Allan English has argued, “to enable innovation one must either have a long- term
+plan to change culture or, if one is not willing or able to do that, change should be
+planned to be compatible with the existing organizational culture.”114 The existing
+organizational culture, according to DND/CAF’s own strategy documents, is not
+conducive to the widespread implementation of digital technologies and defence
+AI. And to make matters worse, DND/CAF’s other culture change initiatives have,
+to date, been very weak. Compounding the matter is the CAF’s present “exis-
+tential crisis” of personnel, which has required an operational pause to focus on
+reconstitution.
+The cultural considerations do not even include the prosaic considerations of
+procurement: Treasury Board rules and treatment of DND as a high- risk investment
+disables DND from acquiring anything valued over $10 million CAD in much than
+ten years. DND has organized funding mechanisms to allow for “minor projects”
+beneath the $10 million CAD envelope, including the IDEaS and MINDS pro-
+grams, both of which have exciting possibilities for defence AI in the country.
+However, the scope of these projects is, even for a relatively small country, tiny.
+A plethora of small projects means that individual tactical defence AI capabilities
+114 English,“EnablingInnovationinCanada’sArmy,”p.8.
+WWW.DEFENSEAI.EU 41
+
+(particularly mission-o riented ones) might be advanced, but the wider problem of
+balkanized data, IT, IM, and digital infrastructure in DND/CAF will not be ad-
+dressed with dribs and drabs of “minor project” funding. The DND/CAF draft Arti-
+ficial Intelligence Strategy, which has sadly been languishing unsigned for months,
+correctly identifies that much larger and more fundamental transformations are
+needed. A wholesale reform of how the organization handles procurement is likely
+necessary before any major defence AI acquisitions or partnerships can occur.
+This brings us back to the “teeth-a nd- tail” metaphor for operations primacy.
+Although AI technologies are broad and cross- cutting, enabling them as strategic
+assets, will require heavy, even transformational investment in what is derogatorily
+referred to as the “tail” of the organization. In a small defence force such as Can-
+ada’s, this will require trade- offs. The idea that the procurement of new combat
+equipment should be further delayed or cancelled in favour of enhanced back- end
+computing capabilities and enterprise-w ide information management software is
+going to be a difficult sell to the L1s. But the DND/CAF “animal” of the metaphor
+is in deep trouble, and its teeth are falling out on their own for lack of strength in
+the rest of the organization. There is remarkable work being done on defence AI
+at the grassroots level in DND/CAF, and there are pockets of expertise throughout
+the organization, particularly in Defence Research and Development Canada.
+These allow some progress in defence AI. Coupled with low- level “minor project”
+funding through programs such as IDEaS, some interesting developments can still
+occur in Canada. However, without leadership and funding above the “minor”
+threshold, it seems unlikely that these initiatives will be transformational.
+In short, something fundamental must change before Canada makes any serious
+advance towards integrative defence AI across its institution. Realistically, many
+fundamental things must change. And it seems unlikely that they will change in
+any great hurry. The fact that the DND/CAF AI Strategy has been completed since
+the middle of 2022 but still awaits “Level Zero” signatures may be suggestive of
+exactly what kind of priority AI can expect within a department filled with conflict-
+ing, competing demands between the L1 siloes. If the global adoption of defence
+AI proceeds on its present course, Canada is going to be left well behind both
+its adversaries and its allies, the latter of which will present the greater problem.
+Worse yet, there are no easy answers or straightforward prescriptions for how
+Canada might be able to improve its position. The list of what must be done is
+significant, and almost every point on it will face vitriolic opposition from some
+quarter. But Canada will mostly likely continue as it is, developing minor tactical
+AI- related capabilities while neglecting the more serious problems.
+42 WHEN THE TEETH EAT THE TAIL
+
+9 Annex
+WWW.DEFENSEAI.EU 43
+
+9.1 Contracts
+Vendor Business Type HQ Known, Likely, and Possible Defence
+and Sector AI- Related Contracts
+CalianLtd. Consulting/Gen- Ottawa, Informatics–dataremediationand
+eralPurpose Canada labelling(2020,$5.75millionCAD)
+SupporttoDRDCHuman-AutonomyInter-
+actions(2019,$6.38millionCAD)
+Informatics–CoursewareDevforLand
+CommandSupportSystem(2018,$1.41
+millionCAD)
+Informatics–IM/ITEngineeringand
+Architecture(2018,$9.97millionCAD)
+Ernst&YoungLLP Consulting/Gen- London, NoneKnown
+eralPurpose UK
+GlobalSpatial Software/Geo- Nova RadarDefenceSystems(R&D)(2022,
+TechnologySolu- spatialImaging Scotia, $555KCAD)
+tionsInc.(GSTS) Canada
+IBMCanadaLtd. Consulting/IT New ProjectManagementandEngineering
+Solutions York,USA SupportServices(2019,$4.12million
+CAD)
+CanadianForcesHealthInformation
+SystemSupportServices(2016,$6.22
+millionCAD)
+DirectorHumanResourcesInformation
+ManagementProfessionalServices
+(2022,$10.5millionCAD)
+Task-BasedInformaticsforcustomsoft-
+ware(2018,$4.89millionCAD)
+KPMGLLP Consulting/Gen- Am- DirectorHumanResourcesInformation
+eralPurpose stelveen, ManagementProfessionalServices
+Nether- (2022,$11.7millionCAD)
+lands Task-BasedInformaticsforcustomsoft-
+ware(2018,$2.84millionCAD)
+CyberOperatorTraining(2020,$1.06
+millionCAD)
+L3Technologies Consulting/ Quebec, Computer-AssistedLearning(2022,
+MASInc. Defence Canada $36,842USD)
+LockheedMartin Software/AI Washing- RadarEquipment(2022,$1.5millionCAD)
+CanadaInc. Solutions ton,DC, UnderwaterSoundEquipment(2022,
+USA $1.99millionUSD)
+44 WHEN THE TEETH EAT THE TAIL
+
+Vendor Business Type HQ Known, Likely, and Possible Defence
+and Sector AI- Related Contracts
+LouisTanguay Software/IT Quebec, Weaponsystemsanalysis,modeling,and
+Informatique(LTI), Solutions Canada simulationforDRDC(2020,$5.75million
+Ltd. CAD)
+Soutienàlarechercheetaudévelop-
+pementauniveaudel'apprentissage
+machine(2019,$2.30millionCAD)
+MDACorporation Software/IT British HyperspectralTargetDetection(2017,
+Services Colum- $977KCAD)
+bia, Research&DevelopmentSupportto
+Canada DRDC,JointISR(2020,$3.2millionCAD)
+Pricewaterhouse- Consulting/Gen- London, Auditservicesofinternalfinancialcon-
+CoopersLLP eralPurpose UK trolsandITsystems(2017,$5.23million
+CAD)
+SAPCanadaInc. Software/IT Walldorf, Automaticdataprocessingsoftware
+Solutions Germany (2018,$376KCAD)
+SierraSystems Consulting/IT Tokyo, InformaticsforAirDefenceITSystem
+Group,Inc. Services Japan Management(2019,$4.31millionCAD)
+ThalesCanadaInc. N/A La Command,ControlandInformation
+Défense, capabilitydevelopmentforDRDC(2020,
+France $10.34millionCAD)
+R&DEmbeddedSystemsSecurity(2022,
+$14.95millionCAD)
+CryptologicalEquipmentandCompo-
+nents(2021,$1.13millionUSD)
+Mid-EarthOrbitSearchandRescue
+SatelliteGroundSegment(2018,$8.60
+millionCAD)
+ThomsonReuters Software/Data Ontario, NoneKnown
+CanadaLtd. Solutions Canada
+XtractAIInc. Software/AI British ScienceandTechR&DDevelopment,
+Solutions Columbia, Formulation,Modification(2019,$157K
+Canada CAD)
+IpssInc./Service- Software/IT Ontario, Informatics:provisionofIM/ITengi-
+NowCanadaInc. Solutions Canada neeringandarchitectureservices(2020,
+$10.28millionCAD)
+WWW.DEFENSEAI.EU 45
+
+9.2 Defence Research and Development Related to AI,
+2009–2022
+DRDC Date Title Partners
+Report
+Number
+DRDC-RDDC- 01-Sep-22 Anovel machine learning approachtoanalyzing Dalhousie;DRDC
+2022-P359 geospatialvesselpatternsusingAISdata Halifax
+DRDC-RDDC- 01-Jan-22 Live Automated VideoAnalysis(LAVA):Proofof DRDCValcartier
+2022-R017 Concept
+DRDC-RDDC- 01-N ov-21 QuestionAnswering Artificial Intelligence Chat- DRDCOttawa
+2021-R175 botonMilitaryDressPolicy
+DRDC-RDDC- 01-N ov-21 Machine learning literacyandapplicationsin DRDCHalifax
+2021-R163 defenceandsecurity
+DRDC-RDDC- 01-N ov-21 Machine learning literacyandapplicationsin DRDCHalifax
+2021-R163 defenceandsecurity
+DRDC-RDDC- 01-O ct-21 ValidationoftheARMOUR Automated Computer DRDCOttawa
+2021-R155 NetworkDefenceTechnologyDemonstrator
+DRDC-RDDC- 01-M ay-21 Artificial intelligence toolsforthreatassessment DRDCOttawa
+2021-D 079
+DRDC-RDDC- 01-M ar-21 SurveyofVideo-to-TextLiterature ThalesResearch
+2021-C 082 Canada;DRDC
+Valcartier
+DRDC-RDDC- 01-M ar-21 Deep Learning MethodsforObjectClassification DRDCHalifax
+2021-R016 inWidebandSonarScatteringData
+DRDC-RDDC- 01-M ar-21 Trainingstrategiesforsustainingoperatoratten- DRDCToronto
+2021-D 046 tionin automated systemsforCanadianArmed
+Forcesenvironments
+DRDC-RDDC- 01-Jan-21 Mission-O rientedResearchfor artificial intel- TheNetherlands
+2022-N 258 ligence (AI)andBigDataforMilitaryDecision Organization;
+Making DRDCValcartier;
+LeonardoSocieta
+perAzioni(Italy)
+DRDC-RDDC- 01-D ec-20 ARADARSAT-2datasetfortheapplicationof ma- DRDCOttawa
+2020-R13 chine learning inmaritimedomainawareness
+46 WHEN THE TEETH EAT THE TAIL
+
+DRDC Date Title Partners
+Report
+Number
+DRDC-RDDC- 01-N ov-20 FinalreportforTask2on artificial intelli- DRDCToronto
+2020-C 175 gence (AI)andcognitiveinformatics(CI)forau-
+thoritypathwayforweaponengagement(APWE)
+DRDC-RDDC- 01-O ct-20 Computationalresourcestoaddressemerg- DRDCOttawa
+2020-D 111 ing artificial intelligence defencerequirements:
+jointtargetingsection
+DRDC-RDDC- 01-Sep-20 Developmentofatestingarchitectureforcharac- DRDCValcartier
+2020-R086 terizationof deep learning algorithms
+DRDC-RDDC- 01-A ug-20 FinalReport,AT01:DataManagement,Labelling, SolanaNetworks;
+2021-C 072 andAutomationfor Machine Learning DRDCValcartier
+DRDC-RDDC- 01-M ay-20 MiNet:Efficient deep learning automatictarget DRDCHalifax
+2020-P186 recognitionforsmallautonomousvehicles
+DRDC-RDDC- 01-N ov-19 UPEIDevelopmentofan Automated Goniometer DRDCValcartier;
+2019-C 268 Universityof
+PrinceEdward
+Island
+DRDC-RDDC- 01-A pr-19 Machine Learning inVulnerabilityAssessment SolanaNetworks;
+2019-C 067 DRDCOttawa
+DRDC-RDDC- 01-A pr-19 MethodologyforEvaluatingtheFitnessofVul- DRDCOttawa;
+2019-C 082 nerabilityAssessmentToolsfor Automated Com- SolanaNetworks
+puterNetworkDefence
+DRDC-RDDC- 01-M ar-19 Artificial Intelligence,Robotics,Ethics,andthe DRDCOttawa
+2022-P287 Military:ACanadianPerspective
+DRDC-RDDC- 01-M ar-19 TaskAuthorization43-doc2vec Deep Learn- ThalesResearch
+2020-C 064 ing forTextAnalytics Canada;DRDC
+Valcartier
+DRDC-RDDC- 01-D ec-18 ReductionofFalseAlarmsinSeaIceCovered DRDCOttawa
+2018-R249 OceanRegionsUsing Machine Learning
+DRDC-RDDC- 01-O ct-18 ADeepReinforcementLearning-basedTrust Carleton;DRDC
+2022-D 133 ManagementSchemeforSoftware-defined Ottawa;Associa-
+VehicularNetworks tionforComputing
+Machinery(NY)
+WWW.DEFENSEAI.EU 47
+
+DRDC Date Title Partners
+Report
+Number
+DRDC-RDDC- 01-O ct-18 Supportingtechnologyenabledlearningwith arti- DRDCToronto;
+2021-N 138 ficial intelligence andcognitivemodelling NationalResearch
+CouncilofCanada
+DRDC-RDDC- 01-O ct-18 Internetofthingsand machine learning forinfor- DRDCOttawa;
+2019-N 155 mationoperationstargeting Communications
+ResearchCentre
+DRDC-RDDC- 01-Feb-18 Investigationtoreplace machine learning archi- DRDCHalifax
+2017-D 136 tectureinDRDC’sauralclassifier
+DRDC-RDDC- 25-O ct-17 Automated stationaryhumantargetdetectorfor DRDCOttawa
+2017-P035 3-Dthrough-wallradarimagery
+DRDC-RDDC- 01-Jul-17 SystemConceptofOperations(CONOPS)for DRDCOttawa;
+2017-C 169 the Automated ComputerNetworkDefence(AR- GeneralDynamics
+MOUR)TechnologyDemonstration(TD)Contract Canada
+DRDC-RDDC- 04-M ay-17 ISRassetvisibilityandcollectionmanagement DRDCValcarti-
+2016-P144 optimizationthroughknowledgemodelsand au- er;USArmy
+tomated reasoning ResearchLab
+DRDC-RDDC- 01-M ar-17 Deep Learning forHumanDecisionSupport DRDCOttawa;
+2017-C 061 NationalResearch
+CouncilofCanada
+DRDC-RDDC- 01-M ar-16 Automated ComputerNetworkDefenceArchitec- DRDCOttawa;Bell
+2016-C 330 turesinCoalitionEnvironments Canada;Sphyrna
+Security
+DRDC-RDDC- 01-Jan-15 Automated ComputerNetworkDefenceTechnol- DRDCOttawa;
+2015-C 006 ogyDemonstrationProjectArchitecturalDesign GeneralDynamics
+Document Canada
+DRDC-RDDC- 18-M ar-14 Automated ExtractionandCharacterisationof DRDCValcartier
+2014-P5 SocialNetworkDatafromUnstructuredSources
+DRDC- 01-N ov-13 Automated ExperimentationSystem-Malware DRDCOttawa;
+OTTAWA-CR- AnalysisSystem AEPOSTechnol-
+2013-101 ogies
+DRDC-C SS- 01-N ov-13 OverviewoftheAllHazardsRiskAssessment DRDCOttawa
+TN-2013-031 (AHRA) Automated ApplicationandCapability
+AssessmentManagementSystem(CAMS)
+48 WHEN THE TEETH EAT THE TAIL
+
+DRDC Date Title Partners
+Report
+Number
+DRDC-C ORA- 01-A ug-13 Machine Learning AlgorithmsforMultipleAu- DRDCOttawa;
+CR-2013-121 tonomousUnmannedVehicleOperations:Using NathalieJapkow-
+SupportVectorMachine iczConsulting
+DRDC-C ORA- 01-A ug-13 MethodsandToolsfor Automated DataCollec- DRDCOttawa;
+CR-2013-119 tionandCollationofOpenSourceInformation CAEProfessional
+Services
+DRDC-C ORA- 01-A pr-13 Machine Learning AlgorithmsforMultipleAu- DRDCOttawa;
+CR-2013-059 tonomousUnmannedVehicleOperations:AFast NathalieJapkow-
+DetectionAlgorithm iczConsulting
+DRDC- 01-A ug-12 ArtificialIntelligenceinGames:ASurveyofthe DRDCOttawa
+OTTAWA- StateoftheArt
+TM-
+2012-084
+DRDC-C ORA- 01-Jun-12 Machine Learning AlgorithmsforMultipleAuton- DRDCOttawa;
+CR-2012-154 omousUnmannedVehicleOperations:Research NathalieJapkow-
+Proposal iczConsulting
+DRDC- 01-M ay-12 Automated riskmanagementsystem DRDCOttawa
+OTTAWA-TR-
+2012-060
+DRDC-VAL- 01-Jan-12 Artificial Intelligence forNetworkedRobotic DRDCValcartier
+CARTIER-SL- Drones
+2012-027
+DRDC- 01-D ec-10 Securityclassificationusing automated learning DRDCOttawa
+OTTAWA- (SCALE):Optimizingstatisticalnaturallanguage
+TM- processingtechniquestoassignsecuritylabels
+2010-215 tounstructuredtext
+DRDC-VAL- 15-Sep-09 Automated ReasoningforMaritimeAnomaly DRDCValcartier
+CARTIER-SL- Detection
+2009-384
+WWW.DEFENSEAI.EU 49
+
+9.3 Security Policy Nexus of Emerging Technology
+(SPNET) Briefing Notes on AI, 2020–2021
+SPNET Briefing Note Title Authors Date
+Transparency,Accountability,andBiasinAI MehdiTaheri,RezaBahrevar October
+andKashKhorasani 2020
+RequirementsforAILiabilities,AccountabilityandRole MohammadrezaNematallahy October
+ofExplanation andKashKhorasani 2020
+FacialRecognition,ImpactofAIonNationalSecurity, MehdiTaheriandKash October
+AdversarialAttacksandTrustinAI Khorasani 2020
+Dual-UseTechnologyPolicyforAI BitaAfsharandKashKho- October
+rasani 2020
+TheRiseofIndustrialCyberDefencePowerinthe DaveMcMahon October
+21st Century–RegulationandPublicPartnerships 2020
+VulnerabilitiesofTechnology:AFrameworktoLook MichaelWoodandMohsen October
+intotheImpactonHumanActivity Farhadloo 2020
+WhySpecializedMilitaryAIInspectorsareNeeded? RezaBahrevarandKash February
+Khorasani 2021
+Privacy,Fairness,andSecurity:AIandEdgeComputing RezaBahrevarandKash February
+Khorasani 2021
+Dual-UseinITDevelopment BitaAfsharandKashKho- February
+rasani 2021
+FutureofPrivacyandSecurityIssuesofAISystems RezaBahrevarandKash February
+UndertheBranchofFogComputing Khorasani 2021
+NationalDefenceandtheInfodemic DaveMcMahon February
+
+DataPrivacyandLiabilityofEmergingTechnologies EdwardGharibianandKash February
+and AI Khorasani 2021
+RegulationandNeedforCategorizationofAI-Based RezaBahrevarandKash May
+Systems Khorasani 2021
+DualUseAspectsofArtificialIntelligence(AI)and RezaBahrevarandKash May
+AutonomousSystems Khorasani 2021
+DualUseAspectsofArtificialIntelligence(AI)and BitaAfsharandKashKho- May
+AutonomousSystems rasani 2021
+50 WHEN THE TEETH EAT THE TAIL
+
+SPNET Briefing Note Title Authors Date
+RequirementsforLiabilitiesofAISystems MohamadrezaNematollahi May
+andKashKhorasani 2021
+AccountabilityandtheRoleofAIExplanation MohamadrezaNematollahi May
+andKashKhorasani 2021
+PublicandDefencePolicyChallengesandInnovations NeshatElhamiFard,Rastko May
+onArtificialIntelligence,AutonomousSystems,and R.SelmicandKhashayar 2021
+Cybersecurity Khorasani
+ChallengesofPublicPolicyinAutonomousSystems ShahramShahkarandKash May
+Khorasani 2021
+VulnerabilitiesofEmergingTechnologies:ASystematic SamanAsvadiandMohsen May
+LiteratureReview Farhadloo 2021
+DataRestrictionforAI-BasedDualUseTechnologies RezaBahrevarandKash August
+andAIDefensiveMeasures Khorasani 2021
+PublicandDefencePolicyChallengesandInnovations NeshatElhamiFard,Rastko August
+onArtificialIntelligence,AutonomousSystems,and R.SelmicandKashKhoras- 2021
+Cybersecurity ani
+Part2:DefencePolicyChallengesofArtificialIntelli-
+gence
+PublicandDefencePolicyChallengesandInnovations NeshatElhamiFard,Rastko August
+onArtificialIntelligence,AutonomousSystems,and R.SelmicandKashKhoras- 2021
+Cybersecurity ani
+Part3:ReinforcementLearningAlgorithmsforCyberse-
+curityandMilitaryDefenseApplications
+PublicandDefencePolicyChallengesandInnovations NeshatElhamiFard,Rastko August
+onArtificialIntelligence,AutonomousSystems,and R.SelmicandKashKhoras- 2021
+Cybersecurity ani
+Part4:ReinforcementLearningAlgorithmsforCyberse-
+curityandMilitaryDefenseApplications
+PublicandDefencePolicyChallengesandInnovations NeshatElhamiFard,Rastko August
+onArtificialIntelligence,AutonomousSystems,and R.SelmicandKhashayar 2021
+Cybersecurity Khorasani
+Part5:Applications,Challenges,andEthicalBehaviors
+onReinforcementandDeepReinforcementLearning
+Algorithms
+WWW.DEFENSEAI.EU 51
+
+SPNET Briefing Note Title Authors Date
+CYBERDECEPTION-TheArtofCamouflage,Stealth DaveMcMahonandClairvoy- August
+andMisdirection anceCyberCorp 2021
+CanadianDesignConceptsinAutonomousSystems ShahramShahkarandKash August
+Khorasani 2021
+EthicalandPrivacyIssuesinAIandIoTDevices MehdiTaheri andKash August
+Khorasani 2021
+EthicsofLethalAutonomousWeaponsSystems KariZacchariasandKetra August
+Schmitt 2021
+DataRestrictionforAI-basedDualUseTechnologies R.BahrevarandK.Khorasani Novem-
+ber2021
+CognitiveSecurityAnalystandWhyweNeedIt R.BahrevarandK.Khorasani Novem-
+ber2021
+ArtificialIntelligence:EthicalChallengesofLabor M.R.NematollahiandK. Novem-
+Market Khorasani ber2021
+ArtificialIntelligence:EconomicSystemandFinancial M.R.NematollahiandK. Novem-
+MarketSecurity Khorasani ber2021
+AI,Contestability,andLegalArguments R.BahrevarandK.Khorasani Novem-
+ber2021
+RegulationandNeedforCategorizationofAI-Based R.BahrevarandK.Khorasani Novem-
+Products ber2021
+CanadianDesignConceptsinAutonomousSystems S.ShahkarandK.Khorasani Novem-
+ber2021
+AccountabilityandTransparencyinAISystems:A R.BahrevarandK.Khorasani Novem-
+PublicPolicyPerspective ber2021
+AccountabilityandTransparencyinAISystems R.BahrevarandK.Khorasani Novem-
+ber2021
+PublicPolicyFrameworkforAI-PoweredFacialRecog- M.R.NematollahiandK. Novem-
+nitionTechnologies Khorasani ber2021
+PublicandDefensePolicyChallengesandInnovations NeshatElhamiFard,Rastko Novem-
+onArtificialIntelligence,AutonomousSystems,and R.SelmicandKhashayar ber2021
+Cybersecurity Khorasani
+Part7:EthicalAIinDefence-
+PublicandDefensePolicyChallengesandInnovations NeshatElhamiFard,Rastko Novem-
+onArtificialIntelligence,AutonomousSystems,and R.SelmicandKhashayar ber2021
+Cybersecurity,Part8:EthicalAIinDefence Khorasani
+52 WHEN THE TEETH EAT THE TAIL
+
+SPNET Briefing Note Title Authors Date
+PublicandDefensePolicyChallengesandInnovations NeshatElhamiFard,Rastko Novem-
+onArtificialIntelligence,AutonomousSystems,and R.SelmicandKhashayar ber2021
+Cybersecurity,Part9:EthicalAIinDefence Khorasani
+PublicandDefensePolicyChallengesandInnovations NeshatElhamiFard,Rastko Novem-
+onArtificialIntelligence,AutonomousSystems,and R.SelmicandKhashayar ber2021
+Cybersecurity, Khorasani
+Part10:EthicalAIinDefence
+HowtoApplyAIintheBattlefieldArena? R.BahrevarandK.Khorasani Novem-
+ber2021
+DefencePoliciesonZeroTrustModelforBattlefield R.BahrevarandK.Khorasani Novem-
+Applications ber2021
+ArtificialIntelligence:NationalSecurityandPolicy M.R.NematollahiandK. Novem-
+Considerations Khorasani ber2021
+ArtificialIntelligence:InternationalSecurityandForeign M.R.NematollahiandK. Novem-
+Policy Khorasani ber2021
+ArtificialIntelligence:Defense,IntelligenceandNation- M.R.NematollahiandK. Novem-
+alSecurity Khorasani ber2021
+ArmsRaceDynamicsforArtificialGeneralIntelligence PatrickFolinsbee Novem-
+ber2021
+SemiconductorSupplyChains VincentZottola Novem-
+ber2021
+WWW.DEFENSEAI.EU 53
+
+Literature
+AdvisoryCouncilonArtificialIntelligence,Annual Decision-M aking(Ontario:TreasuryBoardofCanada
+Report2020-21(Ontario:Innovation,ScienceandEco- Secretariat,2022).
+nomicDevelopmentCanada,2021),
+canada.ca/site/advisory-council-artificial-intelligence/ Brewster,Murrray,“MorethanaDecadeAgo,the
+en/annual-report-2020-21(lastaccessedJanuary18, ArmyHadaPlantoRebuild.ItWentNowhere,”CBC
+2023). NewsOnline,January7,2023.
+news/politics/canadian-armed-forces-equipment-
+Araya,Daniel,ArtificialIntelligenceforDefenceand procurement-ukraine-latvia-1.6706444(lastaccessed
+Security(Waterloo:CentreforInternationalGovernance January18,2023).
+Innovation,2022).
+Burns,E.L.M,ManpowerintheCanadianArmy,1939-
+Arbour,Louise,ReportoftheIndependentExternal 1945(Toronto:ClarkeIrwin,1956).
+ComprehensiveReviewoftheDepartmentofNational
+DefenceandtheCanadianArmedForces(Montreal: CalianGroup,“UniqueIdentification(UID)toImprove
+BordnerLadnerGervais,2022), Tracking,Remediation,andLifeCycleManagement
+ca/en/department-national-defence/corporate/ ofMaterielAssets,”CalianGroupPressRelease,July
+reports-publications/report-of-the-independent-external- 26,2021.
+comprehensive-review.html(lastaccessedJanuary18, calian-enables-department-of-national-defence-to-track-
+2023). millions-of-assets/(lastaccessedJanuary18,2023).
+Bedley,KennethP,ClosingtheTechGap:ACAFStart- CanadianArmy,AdvancingwithPurpose:The
+upModelforDigitalTransformation.JCSP47Master CanadianArmyModernizationStrategy(Ottawa:HQ,
+ofDefenceStudies(Ontario:CanadianForcesCollege, CanadianArmy,2020).
+2021),
+Bedley.pdf(lastaccessedJanuary18,2023) CanadianArmy,ModernizationVitalGround:Digital
+Strategy(Ottawa:HQ,CanadianArmy,2022)
+Bélanger,StéphanieandHeidiCramm,“Canadian
+MilitaryHealthcareConsortiumTapsAnalyticsfor CanadianSpecialOperationsForcesCommand,
+MoreComprehensiveResearch,”IBMBlog,November BeyondtheHorizon:AStrategyforCanada’sSpecial
+22,2016. OperationsForcesinanEvolvingSecurityEnvironment
+canadian-military-healthcare-consortium-adopts- (Ottawa:CANSOFCOM,2020).
+analytics-for-deeper-research/((lastaccessedJanuary
+18,2023). Cardoso,TomandBillCurry,“NationalDefenceSkirt-
+edFederalRulesinUsingArtificialIntelligence,Privacy
+Berthiaume,Lee,“HeadofSexualMisconduct CommissionerSays,”TheGlobeandMail,February
+ResponseCentreSaysComplaintsagainstMilitaryBrass 7,2021.
+AreaSignofProgress,”TheGlobeandMail,March17, article-national-defence-skirted-federal-rules-in-using-
+2021. artificial/(lastaccessedJanuary18,2023).
+Beshaies,BenoitandDawnHall,“Responsible ChiefInformationOfficer,DefenceInformation
+UseofAutomatedDecisionSystemsintheFederal ManagementPlan(Ottawa:DepartmentofNational
+Government,”StatisticsCanada,December1,2021. Defence,2019.)
+
+automated-systems(lastaccessedJanuary18,2023). ChiefReviewServices,NDHQ99:ReviewofRestruc-
+turingandRe-Engineering:Volume1(Ontario:Chief
+Bitar,Omar,BenoitDeshaies,andDawnHall,3rd ReviewServices,2001),
+ReviewoftheTreasuryBoardDirectiveonAutomated collections/collection_2015/mdn-dnd/D58-83-2001-eng.
+pdf(lastaccessedJanuary18,2023).
+54 WHEN THE TEETH EAT THE TAIL
+
+ChiefReviewServices,NDHQ99:ReviewofRestruc- departmental-results-report/2020-21-index/
+turingandRe-Engineering:Volume3(Ontario:Chief supplementary-information-tables/gba-plus.html(last
+ReviewServices,2001). accessedJanuary18,2023).
+DefenceResearchandDevelopmentCanada,“Man- DepartmentofNationalDefence,“IDEaS:Innovation
+date,”January27,2022. forDefenceExcellenceandSecurity,”AccessedNovem-
+defence-research-development/corporate/mandate.html ber5,2022.
+(lastaccessedJanuary18,2023). national-defence/programs/defence-ideas.html(last
+accessedJanuary18,2023).
+DepartmentofNationalDefence,“Arti.Intell&Mac.
+L.R&DServices,Contract#W6399-19KH95/001/SL, DepartmentofNationalDefence,“Informatics
+AwardedtoThalesDigitalSolutionsInc.,”CanadaBuys ProfessionalServices,Contract#W6381-170008/001/
+AwardNotices,October27,2020. XG,AwardedtoCalianLtd.,”CanadaBuysAwardNotices,
+canada.ca/en/tender-opportunities/award-notice/ November27,2020.
+w6399-19kh95001sl(lastaccessedJanuary18,2023). tender-opportunities/award-notice/w6381-170008001xg
+(lastaccessedJanuary18,2023).
+DepartmentofNationalDefence,“Arti.Intell&Mac.
+L.R&DServices,Contract#W6399-19KH95/002/SL, DepartmentofNationalDefence,“Mobilizing
+AwardedtoMDASystemsLtd.,”CanadaBuysAward InsightsinDefenceandSecurity(MINDS),”October26,
+Notices,November16,2020. 2022. 
+ada.ca/en/tender-opportunities/award-notice/w6399- defence/programs/minds.html(lastaccessedJanuary
+19kh95002sl(lastaccessedJanuary18,2023). 18,2023).
+DepartmentofNationalDefence,“Arti.Intell& DepartmentofNationalDefence,“RealTimeAnal-
+Mac.L.R&DServices,Solicitation#W6399-19KH95/B,” ysis:ScienceandTechnologyRelated(R&D),Contract
+CanadaBuysTenderNotices,June23,2020.https:// #W3371-215029,AwardedtoPlum.IoInc.,”CanadaBuys
+canadabuys.canada.ca/en/tender-opportunities/tender- AwardNotices,May15,2020.
+notice/pw-sl-014-38055(lastaccessedJanuary18, ada.ca/en/tender-opportunities/award-notice/w3371-
+2023). 215029001sc(lastaccessedJanuary18,2023).
+DepartmentofNationalDefence,“Artificial DepartmentofNationalDefence,“Remote
+Intelligence/InferenceSystems(R&D),Contract MinehuntingandDisposalSystems,Contract
+#W8484-220165/001/SC,AwardedtoIMRSVDataLabs #W8472-105270/001/QF,AwardedtoKrakenRobotic
+Inc.,”CanadaBuysAwardNotices,December13,2021. SystemsInc.,”CanadaBuysAwardNotices,November
+ 30,2022.
+award-notice/w8484-220165001sc(lastaccessed opportunities/award-notice/w8472-105270001qf(last
+January18,2023). accessedJanuary18,2023).
+DepartmentofNationalDefence,“CFHIS-Support DepartmentofNationalDefence,“SpottheHack:
+Services,Contract#W8474-03BH01/001/XT,Awarded IntrusionDetectionSystemsforAvionicsNetworksand
+toIBMCanadaLtd.,”CanadaBuysAwardNotices,June BusTechnologies.”InnovationforDefenceExcellence
+14,2016. andSecurity(IDEaS)CompetitiveProjects,April1,
+opportunities/award-notice/w8474-03bh01001xt(last 2022,
+accessedJanuary18,2023). defence/programs/defence-ideas/element/competitive-
+projects/challenges/spot-hack-intrusion-detection-
+DepartmentofNationalDefence,“CompetitivePro- avionics-networks-technologies.html(lastaccessed
+jects.”InnovationforDefenceExcellenceandSecurity January18,2023).
+(IDEaS).AccessedDecember30,2022.
+canada.ca/en/department-national-defence/programs/ DepartmentofNationalDefence,“UnderwaterSound
+defence-ideas/element/competitive-projects.html(last Equipment,Contract#W8482-206387/001/QF,Awarded
+accessedJanuary18,2023). toKrakenRoboticSystemsInc.,”CanadaBuysAward
+Notices,November30,2022.
+DepartmentofNationalDefence,“Gender-Based ada.ca/en/tender-opportunities/award-notice/w8482-
+AnalysisPlus,”DNDDepartmentResultsReports,Feb- 206387001qf(lastaccessedJanuary18,2023).
+ruary1,2022.
+national-defence/corporate/reports-publications/
+WWW.DEFENSEAI.EU 55
+
+DepartmentofNationalDefence,CanadianArmed English,Allan,“EnablingInnovationinCanada’s
+ForcesEthos:TrustedtoServe(Ottawa:Canadian Army:CulturalTransformationsandMilitaryEffec-
+DefenceAcademy–ProfessionalConceptsand tiveness.”ConferencePresentation,CanadianArmy
+LeaderDevelopment,2022), HistoricalWorkshop,Kingston,2011.
+en/department-national-defence/corporate/reports-
+publications/canadian-armed-forces-ethos-trusted-to- English,Allan,“SexandtheSoldier:TheEffect
+serve.html(lastaccessedJanuary18,2023). ofCompetingEthicalValueSystemsontheMental
+HealthandWellBeingofCanadianMilitaryPersonnel
+DepartmentofNationalDefence,MobilizingInsights andVeterans,”inStephanieA.H.BelangerandDaniel
+inDefenceandSecurity–MINDS:AnnualReport Lagace-Roy(eds.)MilitaryOperationsandtheMind:War
+2019-2020(Ottawa:DepartmentofNationalDefence, EthicsandSoldiers’Well-Being(Montreal&Kingston:
+2020), McGill-Queen’sUniversityPress,2016),pp.191–208.
+documents/minds/minds-annual-report-2020.pdf(last
+accessedJanuary18,2023). English,Allan,AngusBrown,andPaulJohnston,
+“AreWeLosingOurMemory?DecisionMakinginDND,”
+DepartmentofNationalDefence,ProjectApproval inYvesTremblay(ed.),CanadianMilitaryHistorySince
+Directive(PAD)(2019). the17thCentury:ProceedingsoftheCanadianMilitary
+HistoryConference,Ottawa,5-9May2000(Ottawa:
+DepartmentofNationalDefence,Scienceand DirectorateofHistoryandHeritage,2001),pp.473-480.
+TechnologyinAction:DeliveringResultsforCanada’s
+DefenceandSecurity,”DefenceandSecurityS&TStrate- English,Allen,UnderstandingMilitaryCulture:ACa-
+gy(Ottawa:DepartmentofNationalDefence,2013.) nadianPerspective(Montreal&Kingston:McGill-Queen’s
+UniversityPress,2004).
+DepartmentofNationalDefence,Strong,Secure,
+Engaged:Canada’sDefencePolicy2017(Ottawa: Eyre,WayneandBillMatthews,“CDS/DMDirec-
+DepartmentofNationalDefence,2017), tiveforCAFReconstitution,”DepartmentofNational
+forces.gc.ca/en/canada-defence-policy/docs/canada- Defence,October6,2022.
+defence-policy-report.pdf(lastaccessedJanuary18, en/department-national-defence/corporate/policies-
+2023). standards/dm-cds-directives/cds-dm-directive-caf-
+reconstitution.html(lastaccessedJanuary18,2023).
+DepartmentofNationalDefence,TheDepartmentof
+NationalDefenceandCanadianArmedForcesArtificial Fetterly,EglinRoss,ArmingCanada:Defence
+IntelligenceStrategy(UNAPPROVEDDRAFT)(Ottawa: Procurementforthe21stCentury.PhDThesis(Ontario:
+DepartmentofNationalDefence,2022). RoyalMilitaryCollegeofCanada,2011).
+DepartmentofNationalDefence,TheDepartment Goette,Richard,PreparingtheRCAFfortheFuture:
+ofNationalDefenceandCanadianArmedForcesData DefiningPotentialNichesforExpeditionaryOperations
+Strategy(Ottawa:DepartmentofNationalDefence, (Astra:RCAFAerospaceWarfareCentre,2020).
+2019).
+Gonthier,Nicholas,AcceleratingtheCanadianArmy’s
+Desbarats,Peter,SomaliaCover-Up:ACommission- DigitalTransformation.JointCommandandStaff
+er’sJournal(Toronto:McClelland&Stewart,1997. Program48ServicePaper(Ontario:CanadianForces
+College,2022).
+DirectorateS&TStrategicPartnerships,“Artificial
+Intelligence,”PowerPointBrief,Ottawa,September2022. Hansen,Ken,“TheCanadianArmedForcesAre
+HeadingforaTitanicCollapse,”TheGlobeandMail,
+Duval-Lantoine,Charlotte,TheOnesWeLetDown: December2,2022.
+ToxicLeadershipCultureandGenderIntegrationinthe opinion/article-canada-military-shortage-crisis/?utm_
+CanadianForces(Montreal&Kingston:McGill-Queen’s source=dlvr.it&utm_medium=twitter(lastaccessed
+UniversityPress,2022). January18,2023).
+English,Allan,“CorruptionintheCanadianMilitary? Horn,Bernd,andBillBentley,ForcedtoChange:Cri-
+DestroyingTrustintheChainofCommand,”Canadian sisandReformintheCanadianArmedForces(Toronto:
+ForeignPolicyJournal23,no.1(2017),pp.32–46. DundurnPress,2015).
+56 WHEN THE TEETH EAT THE TAIL
+
+IMRSVDataLabs,“OurProducts:AnvilCrucible cfc.forces.gc.ca/259/290/24/192/Paquet.pdf(last
+DefenceSuite,”IMRSVDataLabs,2022. accessedJanuary18,2023).
+products(lastaccessedJanuary18,2023).
+Perry,Dave,“PrioritiesforCanada’sAirForce,”
+Kelley,Travis,CorrelationofMilitaryTradewith DefenceDeconstructed,
+SelectionofGeneralsandFlagOfficers.MasterofDe- user-609485369/defence-deconstructed-priorities-for-
+fenceStudies(Ontario:CanadianForcesCollege,2020), canadas-air-force(lastaccessedJanuary18,2023).
+
+pdf(lastaccessedJanuary18,2023). Pigeau,Ross,andCarolMcCann,“Re-
+ConceptualizingCommandandControl,”Canadian
+KrakenRoboticsInc.,“KrakenAwarded$50+Million MilitaryJournal,vol.3,no.1(Spring2002),pp.53–64.
+NavyContractforRoyalCanadianNavyMinehunting
+Program,”December7,2022, Priems,Geoffrey,andPeterGizewski,“Leveraging
+com/kraken-awarded-50-m illion-navy-contract-for-royal- ArtificialIntelligenceforCanada’sArmy:CurrentPossi-
+canadian-navy-m inehunting-program/(lastaccessed bilitiesandFutureChallenges,”CanadianArmyJournal,
+January18,2023). vol.19,no.2(2021),pp.40–51.
+Leslie,Andrew,ReportonTransformation2011 Riley,Alycia,JasmineSamra,MattHervey,and
+(Ontario:DepartmentofNationalDefence,2011), JocelynPaulley,“BillC-27:ADepperDiveintoCanada’s
+ ProposedArtificialIntelligenceandDataAct,”Gowling
+defence/corporate/reports-publications/report-on- WLG,October28,2022.
+transformation-2011.html(lastaccessedJanuary18, insights-resources/articles/2022/canada-s-artificial-
+2023). intelligence-and-data-act/(lastaccessedJanuary18,
+2023).
+Lizotte,Ryan,LearningtoSwiminaSeaofInfor-
+mation:ImprovingInformationManagementinthe RoyalCanadianNavy,DigitalNavy:AStrategyto
+DepartmentofNationalDefence.JointCommandand EnableCanada’sNavalTeamfortheDigitalAge(Ottawa:
+StaffProgram45SoloFlight(Ontario:CanadianForces RoyalCanadianNavy,2020).
+College,2019).
+Rozema-Seaton,Erik,“BOXTOP22:TheCostof
+Matthews,Bill,“MessagefromtheDeputyMinister FocusingonanOperationalCulture,”RoyalCanadianAir
+RegardingtheDigitalTransformationOffice,”The ForceJournal,vol.8,no.4(Fall2019),pp.6–23.
+MapleLeaf,December6,2022.
+ca/en/department-national-defence/maple-leaf/ Sabry,Omar,“TortureofAfghanDetainees:Canada’s
+defence/2022/12/message-deputy-minister-digital- AllegedComplicityandtheNeedforaPublicInquiry
+transformation-office.html(lastaccessedJanuary18, (Ottawa:CanadianCentreforPolicyAlternatives,2015).
+2023).
+Scassa,Teresa,“CommentsontheThirdReviewof
+McKeown,Ryder,“FoodforThoughtPaperforthe Canada’sDirectiveonAutomatedDecision-Making,”May
+DeputyMinisterandtheChiefoftheDefenceStaff: 17,2022,
+ThreatsandChallengesofArtificialIntelligence.” tion=com_k2&view=item&id=354:comments-on-the-third-
+DepartmentofNationalDefence,DirectorateofPolicy review-of-canadas-directive-on-automated-decision-
+Development,November30,2018. making&Itemid=80(lastaccessedJanuary18,2023).
+Nossal,KimRichard,CharlieFoxtrot:FixingDefence Schein,EdgarH.,andPeterSchein,Organizational
+ProcurementinCanada(Toronto:Dundurn,2016). CultureandLeadership(NewYork:JohnWiley&Sons,
+2017).
+OECDAI,“VisualisationsPoweredbyJSIUsingData
+fromMAG,”December31,2021 Schofield,M.E.,DeliveringonStrongSecure
+data?selectedArea=ai-research&selectedVisualizatio Engaged:DefenceProcurementReformstoIncrease
+n=ai-publications-by-country-over-time(lastaccessed Efficiency.JCSP45ServicePaper(Ontario:Cana-
+January18,2023). dianForcesCollege,2019)
+gc.ca/259/290/308/192/schofield.pdf(lastaccessed
+Paquet,Guillaume,CultureChange:ShouldPeople January18,2023).
+FirstTrumpMissionFirst?,JCSP48ServicePaper
+(Ontario:CanadianForcesCollege,2022)
+WWW.DEFENSEAI.EU 57
+
+Security-PolicyNexusofEmergingTechnology
+“AboutSPNET:OurWork,”
+ginacody/research/spnet/about.html(lastaccessed
+January18,2023).
+Sharpe,G.E.“ExecutiveSummary–BoardofInquiry
+–Croatia,”January19,2000.Fonds31,Box2,04.37.05.
+PPCLIArchives.
+TheCanadianPress.“MilitaryPlannedtoCut
+HealthServices,DocumentsShow.”CBCNewsOnline,
+October3,2012.
+military-planned-to-cut-health-services-documents-
+show-1.1164960(lastaccessedJanuary18,2023).
+TreasuryBoardofCanada,“DirectiveonAutomated
+DecisionMaking(2019),”
+ca/pol/doc-eng.aspx?id=32592(lastaccessedJanuary
+18,2023).
+TreasuryBoardofCanada,“ListofInterested
+ArtificialIntelligence(AI)Suppliers,”August22,2022.
+
+digital-government/digital-government-innovations/
+responsible-use-ai/list-interested-artificial-intelligence-
+ai-suppliers.html#wb-auto-5(lastaccessedJanuary18,
+2023).
+Wasilow,SherryandJoelleThorpe,ArtificialIntel-
+ligence,Robotics,Ethics,andtheMilitary:ACanadian
+Perspective.ExternalLiterature(P)(Ottawa:Defence
+ResearchandDevelopmentCanada,2022).
+58 WHEN THE TEETH EAT THE TAIL
+
+Defense AI Observatory Studies
+23|09 Robert C Engen, When the Teeth Eat the Tail: A Review of Canada’s Defence Artificial
+Intelligence
+23|08 Çağlar Kurç, Enabling Technology of Future Warfare. Defense AI in Turkey
+23|07 Lauren A. Kahn, Risky Incrementalism. Defense AI in the United States
+22|06 Yvonne Hofstetter, Wie KI Innere Führung lernt. Wertbasierte Technik mit
+IEEE7000TM-2021
+22|05 Andrea Gilli, Mauro Gilli, and Ivan Zaccagnini, Exploring the Benefits of a New Force
+Enabler: Defense AI in Italy
+22|04 Kenneth Payne, Bright Prospects – Big Challenges. Defense AI in the United
+Kingdom
+22|03 Heiko Borchert, Christian Brandlhuber, Armin Brandstetter, and Gary S. Schaal, Free
+Jazz on the Battlefield. How GhostPlay’s AI Approach Enhances Air Defense
+22|02 Peter Layton, Evolution not Revolution. Australia’s Defence AI Pathway
+21|01 Heiko Borchert, Torben Schütz, Joseph Verbovszky, Beware the Hype. What Military
+Conflicts in Ukraine, Syria, Libya, and Nagorno-Karabakh (Don’t) Tell Us About the
+Future of War

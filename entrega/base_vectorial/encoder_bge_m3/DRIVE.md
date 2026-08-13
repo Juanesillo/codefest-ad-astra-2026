@@ -17,7 +17,7 @@ Los dos archivos corregidos están en esta ruta local ahora mismo:
 Para bajarlos a esta carpeta (una vez estén subidos):
 
 ```bash
-python scripts/fetch_base_vectorial.py
+python lib/scripts/fetch_base_vectorial.py
 ```
 
 O manualmente: descargar `index.faiss` y `metadata.jsonl` del link de
@@ -30,7 +30,7 @@ arriba y colocarlos en esta misma carpeta (`entrega/base_vectorial/encoder_bge_m
 El organizador confirmó en el FAQ que el emparejamiento contra el ground
 truth se hace por el `DOC_ID` que asigna ADL en `Indice_Datos_Codefest.xlsx`
 (ej. `F1-AIINDEX-015`), no por un doc_id inventado por el equipo. Este
-índice ya usa esos DOC_ID oficiales (ver `scripts/build_corpus.py`). Los 8
+índice ya usa esos DOC_ID oficiales (ver `lib/scripts/build_corpus.py`). Los 8
 archivos del corpus que no aparecen en ese inventario oficial (catálogos y
 registros auxiliares de scraping que ADL no considera "documentos") se
 excluyeron.

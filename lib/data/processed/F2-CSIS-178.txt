@@ -1,0 +1,41 @@
+CREAM: avoiding collisions in space through automation
+
+Earth orbit is becoming increasingly crowded. With over 11 000 active satellites and many thousands more expected in the coming years as well as over 1.2 million pieces of space debris greater than 1 cm, the risk of in-orbit collisions has turned into a daily operational concern. ESA is investing in automation technologies that can help satellite operators respond more effectively to collision risks.
+
+At the heart of this effort is the Collision Risk Estimation and Automated Mitigation (CREAM) project. A key element of ESA’s Space Safety Programme, it aims to reduce the workload of operators, the number of false alerts and the response time of collision avoidance measures, while improving mission safety.
+
+Started in 2020, the project has now entered a critical phase of ground systems test operations and in-orbit demonstrations.
+
+The collision avoidance vision
+
+Assessing the risk of a collision and, if necessary, designing collision avoidance manoeuvres are two labour-intensive tasks. Communication (or the lack thereof) between satellite operators is often ad hoc, not always easy and can at times cause complications. To ease the required manual effort, the vision for the CREAM system takes over a great number of related activities: evaluate potential conjunctions, generate manoeuvre plans and support with the decision-making process, coordination with other operators, as well as monitoring by potential future regulators.
+
+A component of the system is being designed to allow a diverse ecosystem of stakeholders to get into contact with each other. By connecting satellite operators, space situational awareness service providers, regulators and observers, CREAM can ease the decision-making process throughout, especially if two active satellites are involved rather than debris.
+
+CREAM may also facilitate negotiation between operators, minimising human intervention. In cases of disagreement with a proposed solution, CREAM could refer the issue to a mediation service, ensuring flexibility, transparency and fairness.
+
+From ground-based to orbit
+
+At this time, the prototype CREAM system components, developed by GMV and Guardtime, are being integrated into a common platform under the lead of GMV. The system, at this time still ground-based, can already provide alerts and generates actionable avoidance manoeuvres for the ground segment to implement and can support coordination between parties.
+
+The project will now enter an expanded pilot usage phase as additional technologies are added for the decision-making process, while in-orbit demonstrations are being prepared in parallel. These include ‘piggyback missions’ where the system will be onboard as a digital payload as well as a dedicated CREAM in-orbit demonstration mission.
+
+Supporting space sustainability standards
+
+CREAM can not only support space sustainability by helping avoid collisions and debris generation. Integrating a CREAM component onboard spacecraft can also ease, as a technology component, a transition in the regulatory landscape of space traffic management. The problem with establishing any kind of ‘rules of the road’ depends not only on the need to find consensus on such rules, but also on the availability of the technologies to make them a reality – a kind of chicken-and-egg problem.
+
+CREAM can support future space traffic management frameworks by offering a standardised toolset allowing operators to comply with best practices and rules and regulators to monitor compliance. It is designed to be highly adaptable, allowing non-technical users to define evolving standards within the system. This flexibility ensures long-term relevance as best practice, international norms and technologies will mature.
+
+Earth orbit is becoming increasingly crowded. With over 11 000 active satellites and many thousands more expected in the coming years as well as over 1.2 million pieces of space debris greater than 1 cm, the risk of in-orbit collisions has turned into a daily operational concern. ESA is investing in automation technologies that can help satellite operators respond more effectively to collision risks.
+At the heart of this effort is the Collision Risk Estimation and Automated Mitigation (CREAM) project. A key element of ESA’s Space Safety Programme, it aims to reduce the workload of operators, the number of false alerts and the response time of collision avoidance measures, while improving mission safety.
+Started in 2020, the project has now entered a critical phase of ground systems test operations and in-orbit demonstrations.
+The collision avoidance vision
+Assessing the risk of a collision and, if necessary, designing collision avoidance manoeuvres are two labour-intensive tasks. Communication (or the lack thereof) between satellite operators is often ad hoc, not always easy and can at times cause complications. To ease the required manual effort, the vision for the CREAM system takes over a great number of related activities: evaluate potential conjunctions, generate manoeuvre plans and support with the decision-making process, coordination with other operators, as well as monitoring by potential future regulators.
+A component of the system is being designed to allow a diverse ecosystem of stakeholders to get into contact with each other. By connecting satellite operators, space situational awareness service providers, regulators and observers, CREAM can ease the decision-making process throughout, especially if two active satellites are involved rather than debris.
+CREAM may also facilitate negotiation between operators, minimising human intervention. In cases of disagreement with a proposed solution, CREAM could refer the issue to a mediation service, ensuring flexibility, transparency and fairness.
+From ground-based to orbit
+At this time, the prototype CREAM system components, developed by GMV and Guardtime, are being integrated into a common platform under the lead of GMV. The system, at this time still ground-based, can already provide alerts and generates actionable avoidance manoeuvres for the ground segment to implement and can support coordination between parties.
+The project will now enter an expanded pilot usage phase as additional technologies are added for the decision-making process, while in-orbit demonstrations are being prepared in parallel. These include ‘piggyback missions’ where the system will be onboard as a digital payload as well as a dedicated CREAM in-orbit demonstration mission.
+Supporting space sustainability standards
+CREAM can not only support space sustainability by helping avoid collisions and debris generation. Integrating a CREAM component onboard spacecraft can also ease, as a technology component, a transition in the regulatory landscape of space traffic management. The problem with establishing any kind of ‘rules of the road’ depends not only on the need to find consensus on such rules, but also on the availability of the technologies to make them a reality – a kind of chicken-and-egg problem.
+CREAM can support future space traffic management frameworks by offering a standardised toolset allowing operators to comply with best practices and rules and regulators to monitor compliance. It is designed to be highly adaptable, allowing non-technical users to define evolving standards within the system. This flexibility ensures long-term relevance as best practice, international norms and technologies will mature.

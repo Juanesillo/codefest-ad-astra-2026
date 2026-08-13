@@ -1,0 +1,890 @@
+ANTHROP\C
+How Anthropic teams
+How Anthropic teams
+use Claude Code
+use Claude Code
+</>
+AAnntthhrrooppiicc's’s iinntteerrnnaall tteeaammss aarree ttrraannssffoorrmminingg tthheeiirr wwoorrkkfflloowwss wwiitthh CCllaauuddee CCooddee,, eennaabblliinngg 
+ddeevveellooppeerrss aanndd nnoonn--tteecchhnnicicaal l ssttaaffff ttoo ttaacckkllee ccoommpplleexx pprroojjeeccttss,, aauuttoommaattee ttaasskkss,, aanndd bbrriiddggee 
+sskkiillll ggaappss tthhaatt pprreevviioouussllyy lliimmiitteedd tthheeiirr pprroodduuccttiivviittyy..
+TThhrroouugghh iinntteerrvviieewwss wwiitthh oouurr oowwnn CCllaauuddee CCooddee ppoowweerr uusseerrss,, wwee’'vvee ggaatthheerreedd iinnssiigghhttss oonn hhooww
+ddiiffffeerreenntt ddeeppaarrttmmeenntst slleevveerraaggee CCllaauuddee CCooddee,, iittss iimmppaacctt oonn tthheeiirr wwoorrkk,, aanndd ttiippss ffoorr ootthheerr
+oorrggaanniizzaattiioonnss ccoonnssiiddeerriinngg aaddooppttiioonn. .
+
+Contents
+Contents CCllaauuddee CCooddee ffoorr ddaattaa iinnffrraassttrruucctuturer e 33
+CCllaauuddee CCooddee ffoorr pprroodduucctt ddeevveellooppmmeennt t 55
+CCllaauuddee CCooddee ffoorr sseeccuurriittyy eennggiinneeeerriinngg 77
+CCllaauuddee CCooddee ffoorr iinnffeerreennccee 99
+CCllaauuddee CCooddee ffoorr ddaattaa sscciieennccee aanndd vviissuuaalliizzaattiioonn 1111
+CCllaauuddee CCooddee ffoorr AAPPII 1133
+CCllaauuddee CCooddee ffoorr ggrroowwtthh mmaarrkkeettiinngg 1155
+CCllaauuddee CCooddee ffoorr pprroodduucctt ddeessiiggnn 1177
+CCllaauuddee CCooddee ffoorr RRLL eennggiinneeeerriinngg 1199
+CCllaauuddee CCooddee ffoorr lleeggaall 2211
+22 HHOoWw AANnTtHhRrOoPpICic tTEeAaMmSs uUsSEe CClLAaUuDdEe CCoOdDEe
+
+Claude Code for data
+Claude Code for data
+infrastructure
+infrastructure
+Main Claude Code use cases
+Main Claude Code use cases
+TThhee DDaattaa IInnffrraasstrturcutcutreu re tteeaamm
+oorrggaannizizeess aallll bbuussiinneessss ddaattaa ffoorr KKuubbeerrnneetteess ddeebbuuggggiinngg wwiitthh ssccrreeeennsshhoottss 
+tteeaammss aaccrroossss tthhee ccoommppaannyy.. TThheeyy WWhheenn KKuubbeerrnneetteess cclluusstteerrss wweenntt ddoowwnn aanndd wweerreenn'’tt sscchheedduulliinngg nneeww ppooddss,,
+uussee CCllaauuddee CCooddee ffoorr aauuttoommaatitnign g
+tthhee tteeaamm uusseedd CCllaauuddee CCooddee ttoo ddiiaaggnnoossee tthhee iissssuuee.. TThheeyy ffeedd ssccrreeeennsshhoottss ooff
+rroouuttininee ddaattaa eennggiinneeeerriningg ttaasskkss, ,
+ddaasshhbbooaarrddss iinnttoo CCllaauuddee CCooddee,, wwhhiicchh gguuiiddeedd tthheemm tthhrroouugghh GGooooggllee CClloouudd'’ss
+ttrroouubblelesshhoootointgin g ccoommpplleexx
+UUII mmeennuu bbyy mmeennuu uunnttiill tthheeyy ffoouunndd aa wwaarrnniinngg iinnddiiccaattiinngg ppoodd IIPP aaddddrreessss
+iinnffrraasstrturcutcutreuirses uisessu,aensd, and
+eexxhhaauussttiioonn. . CCllaauuddee CCooddee tthheenn pprroovviiddeedd tthhee eexxaacctt ccoommmmaannddss ttoo ccrreeaattee aa
+ccrreeaattiningg ddooccuummeenntteedd wwoorrkkfflolowws s
+nneeww IIPP ppooooll aanndd aadddd iitt ttoo tthhee cclluusstteerr,, bbyyppaassssiinngg tthhee nneeeedd ttoo iinnvvoollvvee
+ffoorr tteecchhnnicicaal l aanndd nnoonn--tteecchhnniciacla l
+nneettwwoorrkkiinngg ssppeecciiaalliissttss..
+
+tteeaamm mmeemmbbeerrss ttoo aacccceessss aanndd
+mmaanniippuulalatete ddaattaa iinnddeeppeennddeennttlyl.y .
+PPllaaiinn tteexxtt wwoorrkkfflloowwss ffoorr fifinnaannccee tteeaamm 
+TThhee tteeaamm sshhoowweedd fifinnaannccee tteeaamm mmeemmbbeerrss hhooww ttoo wwrriittee ppllaaiinn tteexxtt fifilleess
+ddeessccrriibbiinngg tthheeiirr ddaattaa wwoorrkkfflloowwss,, tthheenn llooaadd tthheemm iinnttoo CCllaauuddee CCooddee ttoo ggeett
+ffuullllyy aauuttoommaatteedd eexxeeccuuttiioonn.. EEmmppllooyyeeeess wwiitthh nnoo ccooddiinngg eexxppeerriieennccee ccoouulldd
+ddeessccrriibbee sstteeppss lliikkee “"qquueerryy tthhiiss ddaasshhbbooaarrdd, , ggeett iinnffoorrmmaattiioonn, , rruunn tthheessee
+qquueerriieess,, pprroodduuccee EExxcceell oouuttppuutt,",” aanndd CCllaauuddee CCooddee wwoouulldd eexxeeccuuttee tthhee eennttiirree
+wwoorrkkffllooww,, iinncclluuddiinngg aasskkiinngg ffoorr rreeqquuiirreedd iinnppuuttss lliikkee ddaatteess..
+
+CCooddeebbaassee nnaavviiggaattiioonn ffoorr nneeww hhiirreess 
+WWhheenn nneeww ddaattaa sscciieennttiissttss jjooiinn tthhee tteeaamm,, tthheeyy'’rree ddiirreecctteedd ttoo uussee CCllaauuddee
+CCooddee ttoo nnaavviiggaattee tthheeiirr mmaassssiivvee ccooddeebbaassee.. CCllaauuddee CCooddee rreeaaddss tthheeiirr
+CCllaauuddee..mmdd fifilleess ((ddooccuummeennttaatitoionn),) , iiddeennttiiffiieess rreelleevvaanntt fifilleess ffoorr ssppeecciiffiicc
+ttaasskkss,, eexxppllaaiinnss ddaattaa ppiippeelliinnee ddeeppeennddeennccieies,s , aanndd hheellppss nneewwccoommeerrss
+uunnddeerrssttaanndd wwhhiicchh uuppssttrreeaamm ssoouurrcceess ffeeeedd iinnttoo ddaasshhbbooaarrddss. . TThhiiss rreeppllaacceess
+ttrraaddiittiioonnaal l ddaattaa ccaattaallooggss aanndd ddiissccoovveerraabbiilliittyy ttoooollss..
+
+EEnndd--ooff--sseessssiioonn ddooccuummeennttaattioionn uuppddaatteess 
+TThhee tteeaamm aasskkss CCllaauuddee CCooddee ttoo ssuummmmaarriizzee ccoommpplleetteedd wwoorrkk sseessssiioonnss aanndd
+ssuuggggeesstt iimmpprroovveemmeenntsts aatt tthhee eenndd ooff eeaacchh ttaasskk.. TThhiiss ccrreeaatteess aa ccoonnttiinnuuoouuss
+iimmpprroovveemmeennt t lloooopp wwhheerree CCllaauuddee CCooddee hheellppss rreeffiinnee tthhee CCllaauuddee..mmdd
+ddooccuummeenntatatitoionn aanndd wwoorrkkffllooww iinnssttrruuccttiioonnss bbaasseedd oonn aaccttuuaall uussaaggee,, mmaakkiinngg
+ssuubbsseeqquueennt t iitteerraattiioonnss mmoorree eeffffeeccttiivvee..
+
+PPaarraalllleell ttaasskk mmaannaaggeemmeenntt aaccrroossss mmuullttiippllee iinnssttaanncceess 
+WWhheenn wwoorrkkiinngg oonn lloonngg--rruunnnniinngg ddaattaa ttaasskkss,, tthheeyy ooppeenn mmuullttiippllee iinnssttaanncceess
+ooff CCllaauuddee CCooddee iinn ddiiffffeerreenntt rreeppoossiittoorriieess ffoorr ddiiffffeerreenntt pprroojjeeccttss.. EEaacchh
+iinnssttaannccee mmaaiinnttaaiinnss ffuullll ccoonntteexxtt,, ssoo wwhheenn tthheeyy sswwiittcchh bbaacckk aafftteerr hhoouurrss oorr
+ddaayyss,, CCllaauuddee CCooddee rreemmeemmbbeerrss eexxaaccttllyy wwhhaatt tthheeyy wweerree ddooiinngg aanndd wwhheerree
+tthheeyy lleefftt ooffff,, eennaabblliinngg ttrruuee ppaarraalllleell wwoorrkkffllooww mmaannaaggeemmeennt t wwiitthhoouutt 
+ccoonntteexxtt lloossss..
+33 CClLaAuUdDeE CCoOdDeE fFoOrR dDaAtTaA i InNfFrRaAsStTrRuUcCtTuUrReE
+
+Claude Code for data
+Claude Code for data
+infrastructure
+infrastructure
+T Te e a a m m i i m mp p a a c c t t RReessoollvveedd iinnffrraassttrruuccttuurree pprroobblleemmss wwiitthhoouutt ssppeecciiaalliizzeedd eexxppeerrttiissee 
+RReessoollvveedd KKuubbeerrnneetteess cclluusstteerr iissssuueess tthhaatt wwoouulldd nnoorrmmaallllyy rreeqquuiirree ppuulllliinngg iinn
+ssyysstteemmss oorr nneettwwoorrkkiinngg tteeaamm mmeemmbbeerrss, , uussiinngg CCllaauuddee CCooddee ttoo ddiiaaggnnoossee
+pprroobblleemmss aanndd pprroovviiddee eexxaacctt fifixxeess.
+.
+AAcccceelleerraatteedd oonnbbooaarrddiinngg 
+NNeeww ddaattaa aannaallyyssttss aanndd tteeaamm mmeemmbbeerrss ccaann qquuiicckkllyy uunnddeerrssttaanndd ccoommpplleexx
+ssyysstteemmss aanndd ccoonnttrriibbuuttee mmeeaanniinnggffuulllyly wwiitthhoouutt eexxtteennssiivvee gguuiiddaannccee..
+
+EEnnhhaanncceedd ssuuppppoorrtt wwoorrkkffllooww 
+CCaann pprroocceessss mmuucchh llaarrggeerr ddaattaa vvoolluummeess aanndd iiddeennttiiffyy aannoommaalliieess ((lliikkee
+mmoonniittoorriinngg 220000 ddaasshhbbooaarrddss)) tthhaatt wwoouulldd bbee iimmppoossssiibbllee ffoorr hhuummaannss ttoo
+rreevviieeww mmaannuuaallllyy..
+
+EEnnaabblleedd ccrroossss--tteeaamm sseellff--sseerrvviiccee 
+FFiinnaannccee tteeaammss wwiitthh nnoo ccooddiinngg eexxppeerriieennccee ccaann nnooww eexxeeccuuttee ccoommpplleexx ddaattaa
+wwoorrkkfflloowwss iinnddeeppeennddeenntltyly. .
+T To o p p t ti i p p s s f fr r o o m m t th h e e  WWrriittee ddeettaaiilleedd CCllaauuddee..mmdd fifilleess 
+Data Infrastructure
+TThhee bbeetttteerr yyoouu ddooccuummeennt t yyoouurr wwoorrkkfflloowwss,, ttoooollss,, aanndd eexxppeeccttaattiioonnss iinn
+Data Infrastructure
+CCllaauuddee..mmdd fifilleess,, tthhee bbeetttteerr CCllaauuddee CCooddee ppeerrffoorrmmss.. TThhiiss mmaaddee CCllaauuddee CCooddee
+team
+team eexxcceell aatt rroouuttiinnee ttaasskkss lliikkee sseettttiinngg uupp nneeww ddaattaa ppiippeelliinneess wwhheenn yyoouu hhaavvee
+eexxiissttiinngg ppaatttteerrnnss. .
+
+UUssee MMCCPP s seerrvveerrss iinnsstteeaadd ooff CCLLII ff oorr sseennssiittiivvee ddaattaa 
+TThheeyy rreeccoommmmeenndd uussiinngg MMCCPP sseerrvveerrss rraatthheerr tthhaann tthhee BBiiggQQuueerryy CCLLII ttoo
+mmaaiinnttaaiinn bbeetttteerr sseeccuurriittyy ccoonnttrrooll oovveerr wwhhaatt CCllaauuddee CCooddee ccaann aacccceessss,,
+eessppeecciiaallllyy ffoorr hhaannddlliinngg sseennssiittiivvee ddaattaa tthhaatt rreeqquuiirreess llooggggiinngg oorr hhaass
+ppootteennttiiaal l pprriivvaaccyy ccoonncceerrnnss..
+
+SShhaarree tteeaamm uussaaggee sseessssiioonnss 
+TThhee tteeaamm hheelldd sseessssiioonnss wwhheerree mmeemmbbeerrss ddeemmoonnssttrraatetedd tthheeiirr CCllaauuddee CCooddee
+wwoorrkkfflloowwss ttoo eeaacchh ootthheerr.. TThhiiss hheellppeedd sspprreeaadd bbeesstt pprraaccttiicceess aanndd sshhoowweedd
+ddiiffffeerreenntt wwaayyss ttoo uussee tthhee ttooooll tthheeyy mmiigghhtt nnoott hhaavvee ddiissccoovveerreedd oon n
+tthheeiirr oowwnn..
+44 CClLaAuUdDeE CCoOdDeE fFoOrR dDaAtTaA i InNfFrRaAsStTrRuUcCtTuUrReE
+
+Claude Code for product
+Claude Code for product
+development
+development
+Main Claude Code use cases
+Main Claude Code use cases
+TThhee CCllaauuddee CCooddee tteeaamm uusseess tthheeiirr
+oowwnn pprroodduucctt ttoo bbuuiilldd uuppddaatteess ttoo FFaasstt pprroottoottyyppiinngg wwiitthh aauuttoo--aacccceepptt mmooddee 
+CCllaauuddee CCooddee,, eexxppaannddiinngg tthhee EEnnggiinneeeerrss uussee CCllaauuddee CCooddee ffoorr rraappiidd pprroottoottyyppiinngg bbyy eennaabblliinngg “"aauuttoo -
+pprroodduucctt's’s eenntteerrpprirsies e ccaappaabbiillitiiteies s
+aacccceepptt mmooddee"” ((sshhiifftt++ttaabb)) aanndd sseettttiinngg uupp aauuttoonnoommoouuss llooooppss wwhheerree CCllaauuddee
+aanndd aaggeenntticic lloooopp ffuunnccttioionnaalitliietsie. s.
+wwrriitteess ccooddee,, rruunnss tteessttss,, aanndd iitteerraatteess ccoonnttiinnuuoouusslyly. . TThheeyy ggiivvee CCllaauuddee
+aabbssttrraacctt pprroobblleemmss tthheeyy'’rree uunnffaammiilliiaarr wwiitthh,, lleett iitt wwoorrkk aauuttoonnoommoouusslyly, , tthheenn
+rreevviieeww tthhee 8800%% ccoommpplleettee ssoolluuttiioonn bbeeffoorree ttaakkiinngg oovveerr ffoorr fifinnaall rreeffiinneemmeennttss. .
+TTeeaammss eemmpphhaassiizzee ssttaarrttiinngg ffrroomm aa cclleeaann ggiitt ssttaattee aanndd ccoommmmiittttiinngg
+cchheecckkppooiinnttss rreegguullaarrllyy ssoo tthheeyy ccaann eeaassiillyy rreevveerrtt aannyy iinnccoorrrreecctt cchhaannggeess 
+iiff CCllaauuddee ggooeess ooffff ttrraacckk..
+
+SSyynncchhrroonnoouuss ccooddiinngg ffoorr ccoorree ffeeaattuurreess 
+FFoorr mmoorree ccrriittiiccaall ffeeaattuurreess ttoouucchhiinngg tthhee aapppplliiccaattiioonn's’s bbuussiinneessss llooggiicc,, tthhee
+tteeaamm wwoorrkkss ssyynncchhrroonnoouusslyly wwiitthh CCllaauuddee CCooddee,, ggiivviinngg ddeettaaiilleedd pprroommppttss
+wwiitthh ssppeecciiffiicc iimmpplleemmeenntatatitoionn iinnssttrruuccttioionnss. . TThheeyy mmoonniittoorr tthhee pprroocceessss iinn
+rreeaall--ttiimmee ttoo eennssuurree ccooddee qquuaalliittyy,, ssttyyllee gguuiiddee ccoommpplliiaannccee,, aanndd pprrooppeerr
+aarrcchhiitteeccttuurree wwhhiillee lleettttiinngg CCllaauuddee hhaannddllee tthhee rreeppeettiittiivvee ccooddiinngg wwoorrkk..
+
+BBuuiillddiinngg VViimm mmooddee 
+OOnnee ooff tthheeiirr mmoosstt ssuucccceessssffuull aassyynncc pprroojjeeccttss wwaass iimmpplleemmeenntitningg VViim m
+kkeeyy bbiinnddiinnggss ffoorr CCllaauuddee CCooddee.. TThheeyy aasskkeedd CCllaauuddee ttoo bbuuiilldd tthhee eennttiirree
+ffeeaattuurree ((ddeessppiittee iitt nnoott bbeeiinngg aa pprriioorriittyy)),, aanndd rroouugghhllyy 7700%% ooff tthhee fifinnaall
+iimmpplleemmeenntatatitoionn ccaammee ffrroomm CCllaauuddee'’ss aauuttoonnoommoouuss wwoorrkk,, rreeqquuiirriinngg 
+oonnllyy aa ffeeww iitteerraattiioonnss ttoo ccoommpplleettee..
+
+TTeesstt ggeenneerraattiioonn aanndd bbuugg fifixxeess 
+TThheeyy uussee CCllaauuddee CCooddee ttoo wwrriittee ccoommpprreehheennssivivee tteessttss aafftteerr iimmpplleemmeenntitningg
+ffeeaattuurreess aanndd hhaannddllee ssiimmppllee bbuugg fifixxeess iiddeennttiiffiieedd iinn ppuullll rreeqquueesstt rreevviieewwss..
+TThheeyy aallssoo lleevveerraaggee GGiittHHuubb AAccttiioonnss iinntteeggrraattiioonn ttoo hhaavvee CCllaauuddee
+aauuttoommaatticicaalllyly aaddddrreessss PPuullll RReeqquueesstt ccoommmmeennttss lliikkee ffoorrmmaattttiinngg iissssuueess 
+oorr ffuunnccttiioonn rreennaammiinngg. .
+
+CCooddeebbaassee eexxpplloorraattiioonn 
+WWhheenn wwoorrkkiinngg wwiitthh uunnffaammiilliiaarr ccooddeebbaasseess ((lliikkee tthhee mmoonnoorreeppoo oorr AAPPI I
+ssiiddee)),, tthhee tteeaamm uusseess CCllaauuddee CCooddee ttoo qquuiicckkllyy uunnddeerrssttaanndd hhooww ssyysstteemmss
+wwoorrkk.. IInnsstteeaadd ooff wwaaiittiinngg ffoorr SSllaacckk rreessppoonnsseess, , tthheeyy aasskk CCllaauuddee ddiirreeccttllyy 
+ffoorr eexxppllaannaattiioonnss aanndd ccooddee rreeffeerreenncceess,, ssaavviinngg ssiiggnniiffiiccaanntt ttiimmee iin n
+ccoonntteexxtt sswwiittcchhiinngg..
+55 CClLaAuUdDeE CCoOdDeE fFoOrR pPRroOdDuUcCtT dDeEvVeElLoOpPmMeEnNtT
+
+Claude Code for product
+Claude Code for product
+development
+development
+T Te e a a m m i i m mp p a a c c t t FFaasstteerr ffeeaattuurree iimmpplleemmeennttaatitoionn 
+SSuucccceessssffuullllyy iimmpplleemmeenntetedd ccoommpplleexx ffeeaattuurreess lliikkee VViimm mmooddee wwiitthh 7700%% ooff
+ccooddee wwrriitttteenn aauuttoonnoommoouusslyly bbyy CCllaauuddee..
+
+IImmpprroovveedd ddeevveellooppmmeennt t vveelloocciittyy 
+CCaann rraappiiddllyy pprroottoottyyppee ffeeaattuurreess aanndd iitteerraattee oonn iiddeeaass wwiitthhoouutt ggeettttiinngg
+bbooggggeedd ddoowwnn iinn iimmpplleemmeenntatatitoionn ddeettaaiillss..
+
+EEnnhhaanncceedd ccooddee qquuaalliittyy tthhrroouugghh aauuttoommaatteedd tteessttiinngg 
+CCllaauuddee ggeenneerraatteess ccoommpprreehheennssivivee tteessttss aanndd hhaannddlleess rroouuttiinnee bbuugg fifixxeess,,
+mmaaiinnttaaiinniningg hhiigghh ssttaannddaarrddss wwhhiillee rreedduucciinngg mmaannuuaall eeffffoorrtt..
+
+BBeetttteerr ccooddeebbaassee eexxpplloorraattiioonn 
+TTeeaamm mmeemmbbeerrss ccaann qquuiicckkllyy uunnddeerrssttaanndd uunnffaammiilliiaarr ppaarrttss ooff tthhee mmoonnoorreeppoo
+wwiitthhoouutt wwaaiittiinngg ffoorr ccoolllleeaagguuee rreessppoonnsseess..
+T To o p p t ti i p p s s f fr r o o m m t th h e e  CCrreeaattee sseellff--ssuufffificciieenntt llooooppss 
+Claude Code team
+SSeett uupp CCllaauuddee ttoo vveerriiffyy iittss oowwnn wwoorrkk bbyy rruunnnniinngg bbuuiillddss,, tteessttss,, aanndd lliinnttss
+Claude Code team
+aauuttoommaatticicaalllyly. . TThhiiss aalllloowwss CCllaauuddee ttoo wwoorrkk lloonnggeerr aauuttoonnoommoouusslyly aanndd ccaattcchh
+iittss oowwnn mmiissttaakkeess,, eessppeecciiaallllyy eeffffeeccttiivvee wwhheenn yyoouu aasskk CCllaauuddee ttoo ggeenneerraattee
+tteessttss bbeeffoorree wwrriittiinngg ccooddee..
+
+DDeevveelloopp ttaasskk ccllaassssiiffiiccaattiioonn iinnttuuiittiioonn 
+LLeeaarrnn ttoo ddiissttiinngguuiisshh bbeettwweeeenn ttaasskkss tthhaatt wwoorrkk wweellll aassyynncchhrroonnoouusslyly
+((ppeerriipphheerraall ffeeaattuurreess,, pprroottoottyyppiinngg)) vveerrssuuss tthhoossee nneeeeddiinngg ssyynncchhrroonnoouuss
+ssuuppeerrvviissiioonn ((ccoorree bbuussiinneessss llooggiicc,, ccrriittiiccaall fifixxeess)).. AAbbssttrraacctt ttaasskkss oonn tthhee
+pprroodduucctt's’s eeddggeess ccaann bbee hhaannddlleedd wwiitthh “"aauuttoo--aacccceepptt mmooddee,,"” wwhhiillee ccoorree
+ffuunnccttiioonnaaliltiyty rreeqquuiirreess cclloosseerr oovveerrssiigghhtt..
+
+FFoorrmm cclleeaarr,, ddeettaaiilleedd pprroommppttss 
+WWhheenn ccoommppoonneenntsts hhaavvee ssiimmiillaarr nnaammeess oorr ffuunnccttiioonnss, , bbee eexxttrreemmeellyy ssppeecciiffiicc
+iinn yyoouurr rreeqquueessttss.. TThhee bbeetttteerr aanndd mmoorree ddeettaaiilleedd yyoouurr pprroommpptt,, tthhee mmoorree yyoouu
+ccaann ttrruusstt CCllaauuddee ttoo wwoorrkk iinnddeeppeennddeenntltyly wwiitthhoouutt uunneexxppeecctteedd cchhaannggeess ttoo
+tthhee wwrroonngg ppaarrttss ooff tthhee ccooddee bbaassee..
+66 CClLaAuUdDeE CCoOdDeE fFoOrR pPRroOdDuUcCtT dDeEvVeElLoOpPmMeEnNtT
+
+Claude Code for security
+Claude Code for security
+engineering
+eng1■ neer1■ ng
+Main Claude Code use cases
+Main Claude Code use cases
+TThhee SSeeccuurriittyy EEnnggiinneeeerriningg tteeaamm
+ffooccuusseess oonn sseeccuurriinngg tthhee ssooffttwwaarer e CCoommpplleexx iinnffrraassttrruuccttuurree ddeebbuuggggiinngg 
+ddeevveellooppmmeennt t lliiffeeccyycclele, , ssuuppppllyy WWhheenn wwoorrkkiinngg oonn iinncciiddeennttss,, tthheeyy ffeeeedd CCllaauuddee CCooddee ssttaacckk ttrraacceess aanndd
+cchhaaiinn sseeccuurriittyy, , aanndd ddeevveellooppmmeennt t
+ddooccuummeennttaatitoionn, , aasskkiinngg iitt ttoo ttrraaccee ccoonnttrrooll flflooww tthhrroouugghh tthhee ccooddee bbaassee.. TThhiiss
+eennvviirroonnmmeennt t sseeccuurriittyy. . TThheeyy uussee
+ssiiggnniiffiiccaannttllyy rreedduucceess ttiimmee--ttoo--rreessoolluutitoionn ffoorr pprroodduuccttiioonn iissssuueess,, aalllloowwiinngg
+CCllaauuddee CCooddee eexxtteennssiviveelyly ffoorr
+tthheemm ttoo uunnddeerrssttaanndd pprroobblleemmss tthhaatt wwoouulldd nnoorrmmaallllyy ttaakkee 1100--1155 mm iinnuutteess ooff
+wwrriittiningg aanndd ddeebbuuggggiinngg ccooddee..
+mmaannuuaall ccooddee ssccaannnniinngg iinn aabboouutt 55 mmiinnuutteess..
+
+TTeerrrraaffoorrmm ccooddee rreevviieeww aanndd aannaallyyssiiss 
+FFoorr iinnffrraassttrruuccttuurere cchhaannggeess rreeqquuiirriinngg sseeccuurriittyy aapppprroovvaall,, tthheeyy ccooppyy
+TTeerrrraaffoorrmm ppllaannss iinnttoo CCllaauuddee CCooddee ttoo aasskk “"wwhhaatt'’ss tthhiiss ggooiinngg ttoo ddoo?? AAmm II
+ggooiinngg ttoo rreeggrreett tthhiiss??"” TThhiiss ccrreeaatteess ttiigghhtteerr ffeeeeddbbaacckk llooooppss aanndd mmaakkeess iitt
+eeaassiieerr ffoorr tthhee sseeccuurriittyy tteeaamm ttoo qquuiicckkllyy rreevviieeww aanndd aapppprroovvee iinnffrraassttrruuccttuurere
+cchhaannggeess,, rreedduucciinngg bboottttlleenneecckkss iinn tthhee ddeevveellooppmmeenntt pprroocceessss..
+
+DDooccuummeennttaattioionn ssyynntthheessiiss aanndd rruunnbbooookkss 
+TThheeyy hhaavvee CCllaauuddee CCooddee iinnggeesstt mmuullttiippllee ddooccuummeennttaatitoionn ssoouurrcceess aanndd
+ccrreeaattee mmaarrkkddoowwnn rruunn bbooookkss,, ttrroouubblleesshhoooottiningg gguuiiddeess,, aanndd oovveerrvviieewwss.. 
+TThheeyy uussee tthheessee ccoonnddeennsseedd ddooccuummeennttss aass ccoonntteexxtt ffoorr ddeebbuuggggiinngg rreeaall
+iissssuueess,, ccrreeaattiinngg aa mmoorree eefffificciieenntt wwoorrkkffllooww tthhaann sseeaarrcchhiinngg tthhrroouugghh ffuullll
+kknnoowwlleeddggee bbaasseess..
+
+TTeesstt--ddrriivveenn ddeevveellooppmmeennt t wwoorrkkffllooww 
+IInnsstteeaadd ooff tthheeiirr pprreevviioouuss “"ddeessiiggnn ddoocc →- jjaannkkyy ccooddee →- rreeffaaccttoorr →- ggiivvee uupp
+oonn tteessttss"” ppaatttteerrnn, , tthheeyy nnooww aasskk CCllaauuddee CCooddee ffoorr ppsseeuuddooccooddee, , gguuiiddee iitt
+tthhrroouugghh tteesstt--ddrriivveenn ddeevveellooppmmeenntt, , aanndd ppeerriiooddiiccaallllyy cchheecckk iinn ttoo sstteeeerr iitt
+wwhheenn ssttuucckk,, rreessuullttiinngg iinn mmoorree rreelliiaabbllee aanndd tteessttaabbllee ccooddee..
+
+CCoonntteexxtt sswwiittcchhiinngg aanndd pprroojjeecctt oonnbbooaarrddiinngg 
+WWhheenn ccoonnttrriibbuuttiinngg ttoo eexxiissttiinngg pprroojjeeccttss lliikkee “"ddeeppeennddaanntt"” ((aa wweebb
+aapppplliiccaattiioonn ffoorr sseeccuurriittyy aapppprroovvaall wwoorrkkfflloowwss)),, tthheeyy uussee CCllaauuddee CCoodde e
+ttoo wwrriittee,, rreevviieeww,, aanndd eexxeeccuuttee ssppeecciiffiiccaattiioonnss wwrriitttteenn iinn mmaarrkkddoowwnn aanndd
+ssttoorreedd iinn tthhee ccooddeebbaassee,, eennaabblliinngg mmeeaanniinnggffuull ccoonnttrriibbuuttiioonnss wwiitthhiinn ddaayyss
+iinnsstteeaadd ooff wweeeekkss..
+77 CClLAaUuDdEe CCoOdDEe fFoORr sSEeCcUuRrIiTtYy eEnNGgIiNnEeEeRrINinGg
+
+Claude Code for security
+Claude Code for security
+engineering
+eng1■ neer1■ ng
+T Te e a a m m i i m mp p a a c c t t RReedduucceedd iinncciiddeenntt rreessoolluuttiioonn ttiimmee 
+IInnffrraassttrruuccttuurere ddeebbuuggggiinngg tthhaatt nnoorrmmaallllyy ttaakkeess 1100--1155 mm iinnuutteess ooff mmaannuuaall
+ccooddee ssccaannnniinngg nnooww ttaakkeess aabboouutt 55 mmiinnuutteess. .
+
+IImmpprroovveedd sseeccuurriittyy rreevviieeww ccyyccllee 
+TTeerrrraaffoorrmm ccooddee rreevviieewwss ffoorr sseeccuurriittyy aapppprroovvaall hhaappppeenn mmuucchh ffaasstteerr,,
+eelliimmiinnaattiinngg ddeevveellooppeerr bblloocckkss wwhhiillee wwaaiittiinngg ffoorr sseeccuurriittyy tteeaamm aapppprroovvaall..
+
+EEnnhhaanncceedd ccrroossss--ffuunnccttiioonnaal l ccoonnttrriibbuuttiioonn 
+TTeeaamm mmeemmbbeerrss ccaann mmeeaanniinnggffuulllyly ccoonnttrriibbuuttee ttoo pprroojjeeccttss wwiitthhiinn ddaayyss
+iinnsstteeaadd ooff wweeeekkss ooff ccoonntteexxtt bbuuiillddiinngg..
+
+BBeetttteerr ddooccuummeennttaattiioonn wwoorrkkffllooww 
+SSyynntthheessiizzeedd ttrroouubblleesshhooootitningg gguuiiddeess aanndd rruunnbbooookkss ffrroomm mmuullttiippllee ssoouurrcceess
+ccrreeaattee mmoorree eeffifficciieenntt ddeebbuuggggiinngg pprroocceesssseess..
+T To o p p t ti i p p s s f fr r o o m m t th h e e  UUssee ccuussttoomm ssllaasshh ccoommmmaannddss eexxtteennssiivveellyy 
+Security Engineering
+SSeeccuurriittyy eennggiinneeeerriinngg uusseess 5500%% ooff aallll ccuussttoomm ssllaasshh ccoommmmaanndd
+Security Engineering
+iimmpplleemmeenntatatitoionns s iinn tthhee eennttiirree mmoonnoorreeppoo.. TThheessee ccuussttoomm ccoommmmaannddss
+team
+team ssttrreeaammlliinnee ssppeecciiffiicc wwoorrkkfflloowwss aanndd ssppeeeedd uupp rreeppeeaatteedd ttaasskkss..
+
+LLeett CCllaauuddee ttaallkk fifirrsst t
+IInnsstteeaadd ooff aasskkiinngg ttaarrggeetteedd qquueessttiioonnss ffoorr ccooddee ssnniippppeettss, , tthheeyy nnooww 
+tteellll CCllaauuddee CCooddee ttoo “"ccoommmmiitt yyoouurr wwoorrkk aass yyoouu ggoo”" aanndd lleett iitt wwoorrkk
+aauuttoonnoommoouusslyly wwiitthh ppeerriiooddiicc cchheecckk--iinnss,, rreessuullttiinngg iinn mmoorree 
+ccoommpprreehheennssivivee ssoolluuttiioonnss..
+
+LLeevveerraaggee iitt ffoorr ddooccuummeennttaattiioonn 
+BBeeyyoonndd ccooddiinngg,, CCllaauuddee CCooddee eexxcceellss aatt ssyynntthheessiizziinngg ddooccuummeenntatatitoionn aanndd
+ccrreeaattiinngg ssttrruuccttuurreedd oouuttppuuttss. . TThheeyy pprroovviiddee wwrriittiinngg ssaammpplleess aanndd ffoorrmmaattttiinngg
+pprreeffeerreenncceess ttoo ggeett ddooccuummeenntsts tthheeyy ccaann iimmmmeeddiiaatteelyly uussee iinn SSllaacckk,, GGooooggllee
+DDooccss,, aanndd ootthheerr ttoooollss ttoo aavvooiidd iinntteerrffaaccee sswwiittcchhiinngg ffaattiigguuee..
+88 CClLAaUuDdEe CCoOdDEe fFoORr sSEeCcUuRrIiTtYy eEnNGgIiNnEeEeRrINinGg
+
+Claude Code for inference
+Claude Code for inference
+Main Claude Code use cases
+Main Claude Code use cases
+TThhee IInnffeerreennccee tteeaamm mmaannaaggeess 
+tthhee mmeemmoorryy ssyysstteemm tthhaatt ssttoorreess CCooddeebbaassee ccoommpprreehheennssioionn aanndd oonnbbooaarrddiinngg 
+iinnffoorrmmaatitoino n wwhhiillee CCllaauuddee rreeaaddss TThhee tteeaamm rreelliieess hheeaavviillyy oonn CCllaauuddee CCooddee ttoo qquuiicckkllyy uunnddeerrssttaanndd tthhee
+yyoouurr pprroommpptt aanndd ggeenneerraatteess iittss
+aarrcchhiitteeccttuurree wwhheenn jjooiinniinngg aa ccoommpplleexx ccooddeebbaassee.. IInnsstteeaadd ooff mmaannuuaallllyy
+rreessppoonnssee.. TTeeaamm mmeemmbbeerrss, ,
+sseeaarrcchhiinngg GGiittHHuubb rreeppooss,, tthheeyy aasskk CCllaauuddee ttoo fifinndd wwhhiicchh fifilleess ccaallll ssppeecciiffiicc
+eessppeecciiaallllyy tthhoossee wwhhoo aarree nneeww ttoo
+ffuunnccttiioonnaaliltiiteiess, , ggeettttiinngg rreessuullttss iinn sseeccoonnddss rraatthheerr tthhaann aasskkiinngg ccoolllleeaagguueess oorr
+mmaacchhiinnee lleeaarrnniinngg, , ccaann uussee CCllaauuddee
+sseeaarrcchhiinngg mmaannuuaallllyy..
+
+CCooddee eexxtteennssiviveelyly ttoo bbrriiddggee tthhaatt
+kknnoowwlleeddggee ggaapp aanndd aacccceelleerraattee
+UUnniitt tteesstt ggeenneerraattiioonn wwiitthh eeddggee ccaassee ccoovveerraaggee 
+tthheeirir wwoorrkk..
+AAfftteerr wwrriittiinngg ccoorree ffuunnccttiioonnaalilityty, , tthheeyy aasskk CCllaauuddee ttoo wwrriittee ccoommpprreehheennssivivee
+uunniitt tteessttss.. CCllaauuddee aauuttoommaattiiccaalllyly iinncclluuddeess mmiisssseedd eeddggee ccaasseess,, ccoommpplleettiinngg
+wwhhaatt wwoouulldd nnoorrmmaallllyy ttaakkee ssiiggnniiffiiccaanntt mmeennttaall eenneerrggyy iinn mmiinnuutteess, , aaccttiinngg
+lliikkee aa ccooddiinngg aassssiissttaanntt tthheeyy ccaann rreevviieeww.
+.
+MMaacchhiinnee lleeaarrnniinngg ccoonncceepptt eexxppllaannaattiioonn 
+WWiitthhoouutt aa mmaacchhiinnee lleeaarrnniinngg bbaacckkggrroouunndd, , tteeaamm mmeemmbbeerrss ddeeppeenndd oonn
+CCllaauuddee ttoo eexxppllaaiinn mmooddeell--ssppeecciiffiicc ffuunnccttiioonnss aanndd sseettttiinnggss.. WWhhaatt wwoouulldd
+rreeqquuiirree aann hhoouurr ooff GGooooggllee sseeaarrcchhiinngg aanndd rreeaaddiinngg ddooccuummeenntatatitoionn nnooww
+ttaakkeess 1100--2200 mmiinnuutteess, , rreedduucciinngg rreesseeaarrcchh ttiimmee bbyy 8800%%.
+.
+CCrroossss--llaanngguuaaggee ccooddee ttrraannssllaattiioonn 
+WWhheenn tteessttiinngg ffuunnccttiioonnaaliltiyty iinn ddiiffffeerreenntt pprrooggrraammmminingg llaanngguuaaggeess,, tthheeyy
+eexxppllaaiinn wwhhaatt tthheeyy wwaanntt ttoo tteesstt aanndd CCllaauuddee wwrriitteess tthhee llooggiicc iinn tthhee rreeqquuiirreedd
+llaanngguuaaggee ((lliikkee RRuusstt)),, eelliimmiinnaattiinngg tthhee nneeeedd ttoo lleeaarrnn nneeww llaanngguuaaggeess jjuusstt ffoorr
+tteessttiinngg ppuurrppoosseess..
+
+CCoommmmaanndd rreeccaallll aanndd KKuubbeermneetteess mmaannaaggeemmeenntt 
+IInnsstteeaadd ooff rreemmeemmbbeerriningg ccoommpplleexx KKuubbeerrnneetteess ccoommmmaannddss, , tthheeyy aasskk CCllaauuddee
+ffoorr tthhee ccoorrrreecctt ssyynnttaaxx,, lliikkee “"hhooww ttoo ggeett aallll ppooddss oorr ddeeppllooyymmeennt t ssttaattuuss,,"” aanndd
+rreecceeiivvee tthhee eexxaacctt ccoommmmaannddss nneeeeddeedd ffoorr tthheeiirr iinnffrraassttrruucctuturere wwoorrkk..
+99 CClLaAuUdDeE CCoOdDeE fFoOrR iInNfFeErReEnNcCeE
+
+Claude Code for inference
+Claude Code for inference
+T Te e a a m m i i m mp p a a c c t t AAcccceelleerraatteedd MMLL c coonncceepptt lleeaarrnniinngg 
+RReesseeaarrcchh ttiimmee rreedduucceedd bbyy 8800%% -- wwhhaatt ttooookk aann hhoouurr ooff GGooooggllee sseeaarrcchhiinngg
+nnooww ttaakkeess 1100--2200 mmiinnuutteess. .
+
+FFaasstteerr ccooddeebbaassee nnaavviiggaattiioonn 
+CCaann fifinndd rreelleevvaanntt fifilleess aanndd uunnddeerrssttaanndd ssyysstteemm aarrcchhiitteeccttuurree iinn sseeccoonnddss
+iinnsstteeaadd ooff aasskkiinngg ccoolllleeaagguueess..
+
+CCoommpprreehheennssiivvee tteesstt ccoovveerraaggee 
+CCllaauuddee aauuttoommaatticicaalllyly ggeenneerraatteess uunniitt tteessttss wwiitthh eeddggee ccaasseess,, rreelliieevviinngg
+mmeennttaall bbuurrddeenn wwhhiillee mmaaiinnttaaiinniningg ccooddee qquuaalliittyy..
+
+LLaanngguuaaggee bbaarrrriieerr eelliimmiinnaattiioonn 
+CCaann iimmpplleemmeennt t ffuunnccttiioonnaaliltiyty iinn uunnffaammiilliiaarr llaanngguuaaggeess lliikkee RRuusstt wwiitthhoouutt
+nneeeeddiinngg ttoo lleeaarrnn iitt..
+T To o p p t ti i p p s s f fr r o o m m t th h e e  TTeesstt kknnoowwlleeddggee bbaassee ffuunnccttiioonnaalliittyy fifirrsst t
+Inference team
+TTrryy aasskkiinngg vvaarriioouuss qquueessttiioonnss ttoo sseeee iiff CCllaauuddee ccaann aannsswweerr ffaasstteerr tthhaann
+Inference team
+GGooooggllee sseeaarrcchh.. IIff iitt'’ss ffaasstteerr aanndd mmoorree aaccccuurraattee,, iitt'’ss aa vvaalluuaabbllee ttiimmee--ssaavviinngg
+ttooooll ffoorr yyoouurr wwoorrkkffllooww.
+.
+SSttaarrtt wwiitthh ccooddee ggeenneerraattiioonn 
+GGiivvee CCllaauuddee ssppeecciiffiicc iinnssttrruuccttiioonnss aanndd aasskk iitt ttoo wwrriittee llooggiicc,, tthheenn vveerriiffyy
+ccoorrrreeccttnneessss. . TThhiiss hheellppss bbuuiilldd ttrruusstt iinn tthhee ttooooll'’ss ccaappaabbiilliittiieess bbeeffoorree uussiinngg iitt
+ffoorr mmoorree ccoommpplleexx ttaasskkss..
+
+UUssee iitt ffoorr tteesstt wwrriittiinngg 
+HHaavviinngg CCllaauuddee wwrriittee uunniitt tteessttss rreelliieevveess ssiiggnniiffiiccaanntt pprreessssuurree ffrroomm ddaaiillyy
+ddeevveellooppmmeennt t wwoorrkk.. LLeevveerraaggee tthhiiss ffeeaattuurree ttoo mmaaiinnttaaiinn ccooddee qquuaalliittyy wwiitthhoouutt
+ssppeennddiinngg ttiimmee tthhiinnkkiinngg tthhrroouugghh aallll tteesstt ccaasseess mmaannuuaallllyy..
+1100 CClLaAuUdDeE CCoOdDeE fFoOrR iInNfFeErReEnNcCeE
+
+Claude Code for data science
+Claude Code for data science
+and visualization
+and visualization
+Main Claude Code use cases
+Main Claude Code use cases
+DDaattaa SScciieennccee aanndd MMLL
+EEnnggiinneeeerriningg tteeaammss nneeeedd BBuuiillddiinngg JJaavvaaSSccrriipptt//TTyyppeesSccrripipt t ddaasshhbbooaarrdd aappppss
+ssoopphhiisstticicaatetde d vviissuuaalliizzaatitoion n  DDeessppiittee kknnoowwiinngg “"vveerryy lliittttllee JJaavvaaSSccrriipptt aanndd TTyyppeesSccrriippt,t",” tthhee tteeaamm uusseess
+ttoooollss ttoo uunnddeerrssttaanndd mmooddeell
+CCllaauuddee CCooddee ttoo bbuuiilldd eennttiirree RReeaacctt aapppplliiccaattiioonnss ffoorr vviissuuaalliizziinngg RRLL mmooddeell
+ppeerrffoorrmmaanncec,e , bbuutt bbuuiillddiinngg tthheessee
+ppeerrffoorrmmaannccee aanndd ttrraaiinniinngg ddaattaa.. TThheeyy ggiivvee CCllaauuddee ccoonnttrrooll ttoo wwrriittee ffuullll
+ttoooollss oofftteenn rreeqquuiirreess eexxppeerrttisisee 
+aapppplliiccaattiioonnss ffrroomm ssccrraattcchh,, lliikkee aa 55,,000000--lliinnee TTyyppeesSccrriippt t aapppp,, wwiitthhoouutt
+iinn uunnffaammiliilaiar r llaanngguuaaggeess aanndd
+nneeeeddiinngg ttoo uunnddeerrssttaanndd tthhee ccooddee tthheemmsseellvveess. . TThhiiss iiss ccrriittiiccaall bbeeccaauussee
+ffrraammeewwoorkrsk.s . CCllaauuddee CCooddee
+vviissuuaalliizzaattiioonn aappppss aarree rreellaattiivveellyy llooww ccoonntteexxtt aanndd ddoonn'’tt rreeqquuiirree
+eennaabblleess tthheessee tteeaammss ttoo bbuuiilldd
+uunnddeerrssttaannddining g tthhee eennttiirree mmoonnoorreeppoo,, aalllloowwiinngg rraappiidd pprroottoottyyppiinngg ooff ttoooollss 
+pprroodduuccttioionn-q-uqaulaityli ty aannaallyytticicss
+ddaasshhbbooaarrddss wwiitthhoouut t bbeeccoommiinngg
+ttoo uunnddeerrssttaanndd mmooddeell ppeerrffoorrmmaannccee dduurriinngg ttrraaiinniinngg aanndd eevvaalluuaattiioonnss..
+
+ffuulll-l-sstatcakc k ddeevveellooppeerrss. .
+HHaannddlliinngg rreeppeettiittiivvee rreeffaaccttoorriinngg ttaasskkss 
+WWhheenn ffaacceedd wwiitthh mmeerrggee ccoonnfflliiccttss oorr sseemmii--ccoommpplliiccaatetedd fifillee rreeffaaccttoorriinngg
+tthhaatt'’ss ttoooo ccoommpplleexx ffoorr eeddiittoorr mmaaccrrooss bbuutt nnoott llaarrggee eennoouugghh ffoorr mmaajjoorr
+ddeevveellooppmmeennt t eeffffoorrtt,, tthheeyy uussee CCllaauuddee CCooddee lliikkee aa “"sslloott mmaacchhiinnee"” -- ccoommmmiitt
+tthheeiirr ssttaattee,, lleett CCllaauuddee wwoorrkk aauuttoonnoommoouusslyly ffoorr 3300 mmiinnuutteess, , aanndd eeiitthheerr
+aacccceepptt tthhee ssoolluuttiioonn oorr rreessttaarrtt ffrreesshh iiff iitt ddooeessnn'’tt wwoorrkk..
+
+CCrreeaattiinngg ppeerrssiisstteenntt aannaallyyttiiccss ttoooollss iinnsstteeaadd ooff tthhrroowwaawwaayy nnootteebbooookkss 
+IInnsstteeaadd ooff bbuuiillddiinngg oonnee--ooffff JJuuppyytteerr nnootteebbooookkss tthhaatt ggeett ddiissccaarrddeedd, , tthhee
+tteeaamm nnooww hhaass CCllaauuddee bbuuiilldd ppeerrmmaanneennt t RReeaacctt ddaasshhbbooaarrddss tthhaatt ccaann bbee
+rreeuusseedd aaccrroossss ffuuttuurree mmooddeell eevvaalluuaattiioonnss. . TThhiiss iiss iimmppoorrttaannt t bbeeccaauussee
+uunnddeerrssttaannddining g CCllaauuddee'’ss ppeerrffoorrmmaannccee iiss “"oonnee ooff tthhee mmoosstt iimmppoorrttaannt t tthhiinnggss
+ffoorr tthhee tteeaamm"” -- tthheeyy nneeeedd ttoo uunnddeerrssttaanndd hhooww mmooddeellss ppeerrffoorrmm dduurriinngg
+ttrraaiinniinngg aanndd eevvaalluuaattiioonnss,, wwhhiicchh “"iiss aaccttuuaallllyy nnoonn--ttrriivviiaall aanndd ssiimmppllee ttoooollss
+ccaann'’tt ggeett ttoooo mmuucchh ssiiggnnaall ffrroomm llooookkiinngg aatt aa ssiinnggllee nnuummbbeerr ggoo uupp..”
+"
+ZZeerroo--ddeeppeennddeennccyy ttaasskk ddeelleeggaattiioonn 
+FFoorr ttaasskkss iinn ccoommpplleetteellyy uunnffaammiilliiaarr ccooddeebbaasseess oorr llaanngguuaaggeess,, tthheeyy ddeelleeggaattee
+eennttiirree iimmpplleemmeenntatatitoionn ttoo CCllaauuddee CCooddee,, lleevveerraaggiinngg iittss aabbiilliittyy ttoo ggaatthheerr
+ccoonntteexxtt ffrroomm tthhee mmoonnoorreeppoo aanndd eexxeeccuuttee ttaasskkss wwiitthhoouutt tthheeiirr iinnvvoollvveemmeenntt
+iinn tthhee aaccttuuaall ccooddiinngg pprroocceessss.. TThhiiss aalllloowwss pprroodduuccttiivviittyy iinn aarreeaass oouuttssiiddee
+tthheeiirr eexxppeerrttiissee iinnsstteeaadd ooff ssppeennddiinngg ttiimmee lleeaarrnniinngg nneeww tteecchhnnoollooggiieess. .
+1111 CClLaAuUdDeE CCoOdDeE fFoOrR dDaAtTaA sSCcIieEnNCceE aAnNDd vViIsSUuAaLliIzZaAtTiIoOnN
+
+Claude Code for data science
+Claude Code for data science
+and visualization
+and visualization
+T Te e a a m m i i m mp p a a c c t t AAcchhiieevveedd 22--44xx ttiimmee ssaavviinnggss 
+RRoouuttiinnee rreeffaaccttoorriinngg ttaasskkss tthhaatt wweerree tteeddiioouuss bbuutt mmaannaaggeeaabbllee mmaannuuaallllyy 
+aarree nnooww ccoommpplleetteedd mmuucchh ffaasstteerr..
+
+BBuuiilltt ccoommpplleexx aapppplliiccaattiioonnss iinn uunnffaammiilliiaarr llaanngguuaaggeess 
+CCrreeaatteedd 55,,000000--lliinnee TTyyppeesSccrriipptt aapppplliiccaattiioonnss ddeessppiittee hhaavviinngg mmiinniimmaall
+JJaavvaaSSccrriipptt//TTyyppeesSccrirpipt t eexxppeerriieennccee..
+
+SShhiifftteedd ffrroomm tthhrroowwaawwaayy ttoo ppeerrssiisstteenntt ttoooollss 
+IInnsstteeaadd ooff ddiissppoossaabbllee JJuuppyytteerr nnootteebbooookkss,, nnooww bbuuiillddiinngg rreeuussaabbllee RReeaacctt
+ddaasshhbbooaarrddss ffoorr mmooddeell aannaallyyssiiss..
+
+DDiirreecctt mmooddeell iimmpprroovveemmeenntt iinnssiigghhttss 
+FFiirrsstthhaanndd CCllaauuddee CCooddee eexxppeerriieennccee iinnffoorrmmss ddeevveellooppmmeenntt ooff bbeetttteerr
+mmeemmoorryy ssyysstteemmss aanndd UUXX iimmpprroovveemmeennttss ffoorr ffuuttuurree mmooddeell iitteerraattiioonnss..
+
+EEnnaabblleedd vviissuuaalliizzaattioionn-d-drirviveenn ddeecciissiioonn mmaakkiinngg 
+BBeetttteerr uunnddeerrssttaannddiningg ooff CCllaauuddee'’ss ppeerrffoorrmmaannccee dduurriinngg ttrraaiinniinngg aanndd
+eevvaalluuaattiioonnss tthhrroouugghh aaddvvaanncceedd ddaattaa vviissuuaalliizzaattiioonn ttoooollss..
+T To o p p t ti i p p s s f fr r o o m m t th h e e  TTrreeaatt iitt lliikkee aa sslloott mmaacchhiinnee 
+Data Science and 
+SSaavvee yyoouurr ssttaattee bbeeffoorree lleettttiinngg CCllaauuddee wwoorrkk,, lleett iitt rruunn ffoorr 3300 mmiinnuutteess, , 
+Data Science and
+tthheenn eeiitthheerr aacccceepptt tthhee rreessuulltt oorr ssttaarrtt ffrreesshh rraatthheerr tthhaann ttrryyiinngg ttoo wwrreessttllee
+ML Engineering teams
+ML Engineering teams wwiitthh ccoorrrreeccttiioonnss.. SSttaarrttiinngg oovveerr oofftteenn hhaass aa hhiigghheerr ssuucccceessss rraattee tthhaann ttrryyiinngg
+ttoo fifixx CCllaauuddee'’ss mmiissttaakkeess..
+
+IInntteerrrruupptt ffoorr ssiimmpplliicciittyy wwhheenn nneeeeddeedd 
+WWhhiillee ssuuppeerrvviissiinngg,, ddoonn'’tt hheessiittaattee ttoo ssttoopp CCllaauuddee aanndd aasskk “"wwhhyy aarree 
+yyoouu ddooiinngg tthhiiss?? TTrryy ssoommeetthhiinngg ssiimmpplleerr.."” TThhee mmooddeell tteennddss ttoowwaarrdd 
+mmoorree ccoommpplleexx ssoolluuttiioonnss bbyy ddeeffaauulltt bbuutt rreessppoonnddss wweellll ttoo rreeqquueessttss ffoor r
+ssiimmpplleerr aapppprrooaacchheess..
+1122 CClLaAuUdDeE CCoOdDeE fFoOrR dDaAtTaA sSCcIieEnNCceE aAnNDd vViIsSUuAaLliIzZaAtTiIoOnN
+
+Claude Code for API
+Claude Code for API
+Main Claude Code use cases
+Main Claude Code use cases
+TThhee AAPPII KKnnoowwlleeddggee tteeaamm wwoorrkkss
+oonn ffeeaattuureres s lliikkee PPDDFF ssuuppppoorrtt, , FFiirrsstt--sstteepp wwoorrkkffllooww ppllaannnniinngg 
+cciittaattioionns,s , aanndd wweebb sseeaarrcchh tthhaatt TThhee tteeaamm uusseess CCllaauuddee CCooddee aass tthheeiirr “"fifirrsstt ssttoopp"” ffoorr aannyy ttaasskk,, aasskkiinngg iit t
+bbrriinngg aaddddiittioionnaal l kknnoowwlleeddggee iinnttoo
+ttoo iiddeennttiiffyy wwhhiicchh fifilleess ttoo eexxaammiinnee ffoorr bbuugg fifixxeess,, ffeeaattuurree ddeevveellooppmmeennt,t , 
+CCllaauuddee'’ss ccoonntteexxtt wwiinnddooww..
+oorr aannaallyyssiiss.. TThhiiss rreeppllaacceess tthhee ttrraaddiittiioonnaal l ttiimmee--ccoonnssuumminingg pprroocceessss ooff
+WWoorrkkiinngg aaccrroossss llaarrggee,, ccoommpplleexx
+mmaannuuaallllyy nnaavviiggaattiinngg tthhee ccooddeebbaassee aanndd ggaatthheerriinngg ccoonntteexxtt bbeeffoorree 
+ccooddeebbaasseess mmeeaannss ccoonnssttaanntltyl y
+ssttaarrttiinngg wwoorrkk..
+
+eennccoouunntteerriningg uunnffaammiliilaiar r ccooddee
+sseeccttiioonnss, , ssppeennddiinngg ssiiggnniifficicaannt t
+IInnddeeppeennddeenntt ddeebbuuggggiinngg aaccrroossss ccooddeebbaasseess 
+ttiimmee uunnddeerrssttaannddinign g wwhhiicchh ffiilleess ttoo
+TThhee tteeaamm nnooww hhaass tthhee ccoonnffiiddeennccee ttoo ttaacckkllee bbuuggss iinn uunnffaammiilliiaarr ppaarrttss ooff tthhee
+eexxaammiinnee ffoorr aannyy ggiivveenn ttaasskk,, aanndd
+ccooddee bbaassee iinnsstteeaadd ooff aasskkiinngg ootthheerrss ffoorr hheellpp.. TThheeyy ccaann aasskk CCllaauuddee “"DDoo yyoouu
+bbuuiillddiinngg ccoonntteexxtt bbeeffoorree mmaakkiinngg
+cchhaannggeess.. CCllaauuddee CCooddee iimmpprroovveess
+tthhiinnkk yyoouu ccaann fifixx tthhiiss bbuugg?? TThhiiss iiss tthhee bbeehhaavviioorr II’'mm sseeeeiinngg"” aanndd oofftteenn ggeett
+tthhisis eexxppeerriieennccee bbyy sseerrvviinngg aass aa iimmmmeeddiiaattee pprrooggrreessss,, wwhhiicchh wwaassnn'’tt ffeeaassiibbllee bbeeffoorree ggiivveenn tthhee ttiimmee
+gguuiiddee tthhaatt ccaann hheellpp tthheemm iinnvveessttmmeennt t rreeqquuiirreedd..
+
+uunnddeerrssttaanndd ssyysstteemm aarrcchhiitteecctutruer,e ,
+iiddeennttififyy rreelleevvaanntt ffiilleess,, aanndd MMooddeell iitteerraattiioonn tteessttiinngg tthhrroouugghh ddooggffooooddiinngg 
+eexxppllaaiinn ccoommpplleexx iinntteerraacctitoinosn.s . CCllaauuddee CCooddee aauuttoommaatticicaalllyly uusseess tthhee llaatteesstt rreesseeaarrcchh mmooddeell ssnnaappsshhoottss, ,
+mmaakkiinngg iitt tthheeiirr pprriimmaarryy wwaayy ooff eexxppeerriieenncciinngg mmooddeell cchhaannggeess.. TThhiiss ggiivveess
+tthheemm ddiirreecctt ffeeeeddbbaacckk oonn mmooddeell bbeehhaavviioorr cchhaannggeess dduurriinngg ddeevveellooppmmeennt t
+ccyycclleess,, wwhhiicchh tthheeyy hhaaddnn't’t eexxppeerriieenncceedd dduurriinngg pprreevviioouuss llaauunncchheess. .
+
+EElliimmiinnaattiinngg ccoonntteexxtt--sswwiittcchhiningg oovveerrhheeaadd 
+IInnsstteeaadd ooff ccooppyyiinngg ccooddee ssnniippppeettss aanndd ddrraaggggiinngg fifilleess iinnttoo CCllaauuddee..aaii 
+wwhhiillee eexxppllaaiinniinngg pprroobblleemmss eexxtteennssiivveellyy,, tthheeyy ccaann aasskk qquueessttiioonnss ddiirreeccttllyy iinn
+CCllaauuddee CCooddee wwiitthhoouutt aaddddiittiioonnaal l ccoonntteexxtt ggaatthheerriinngg, , ssiiggnniiffiiccaannttllyy rreedduucciinngg 
+mmeennttaall oovveerrhheeaadd..
+1133 CClLaAuUdDeE CCoOdDeE fFoOrR AAPPII
+
+Claude Code for API
+Claude Code for API
+T Te e a a m m i i m mp p a a c c t t IInnccrreeaasseedd ccoonnffiiddeennccee iinn ttaacckklliinngg uunnffaammiilliiaarr aarreeaass 
+TTeeaamm mmeemmbbeerrss ccaann iinnddeeppeennddeenntltyly ddeebbuugg bbuuggss aanndd iinnvveessttiiggaattee iinncciiddeennttss
+iinn uunnffaammiilliiaarr ccooddeebbaasseess..
+
+SSiiggnniiffiiccaanntt ttiimmee ssaavviinnggss iinn ccoonntteexxtt ggaatthheerriinngg 
+EElliimmiinnaatteedd tthhee oovveerrhheeaadd ooff ccooppyyiinngg ccooddee ssnniippppeettss aanndd ddrraaggggiinngg fifilleess iinnttoo
+CCllaauuddee..aaii,, rreedduucciinngg mmeennttaall ccoonntteexxtt--sswwiittcchhiinngg bbuurrddeenn. .
+
+FFaasstteerr rroottaattiioonn oonnbbooaarrddiinngg 
+EEnnggiinneeeerrss rroottaattiinngg ttoo nneeww tteeaammss ccaann qquuiicckkllyy nnaavviiggaattee uunnffaammiilliiaarr
+ccooddee bbaasseess aanndd ccoonnttrriibbuuttee mmeeaanniinnggffuulllyly wwiitthhoouutt eexxtteennssiivvee ccoolllleeaagguuee
+ccoonnssuullttaattiioonn. .
+
+EEnnhhaanncceedd ddeevveellooppeerr hhaappppiinneessss 
+TTeeaamm rreeppoorrttss ffeeeelliinngg hhaappppiieerr aanndd mmoorree pprroodduuccttiivvee wwiitthh rreedduucceedd ffrriiccttiioonn
+iinn ddaaiillyy wwoorrkkfflloowwss..
+T To o p p t ti i p p s s f fr r o o m m t th h e e  TTrreeaatt iitt aass aann iitteerraattiivvee ppaarrttnneerr,, nnoott aa oonnee--sshhoott ssoolluuttiioonn 
+API Knowledge team
+RRaatthheerr tthhaann eexxppeeccttiinngg CCllaauuddee ttoo ssoollvvee pprroobblleemmss iimmmmeeddiiaatteelyly,, aapppprrooaacchh 
+API Knowledge team
+iitt aass aa ccoollllaabboorraattoorr yyoouu iitteerraattee wwiitthh.. TThhiiss wwoorrkkss bbeetttteerr tthhaann ttrryyiinngg ttoo ggeett
+ppeerrffeecctt ssoolluuttiioonnss oonn tthhee fifirrsstt ttrryy..
+
+UUssee iitt ffoorr bbuuiillddiinngg ccoonnffiiddeennccee iinn uunnffaammiilliiaarr aarreeaas s
+DDoonn'’tt hheessiittaattee ttoo ttaacckkllee bbuuggss oorr iinnvveessttiiggaattee iinncciiddeennttss oouuttssiiddee yyoouurr
+eexxppeerrttiissee -- CCllaauuddee CCooddee mmaakkeess iitt ffeeaassiibbllee ttoo wwoorrkk iinnddeeppeennddeenntltyly iinn aarreeaass
+tthhaatt wwoouulldd nnoorrmmaallllyy rreeqquuiirree eexxtteennssiivvee ccoonntteexxtt bbuuiillddiinngg..
+
+SSttaarrtt wwiitthh mmiinniimmaall iinnffoorrmmaattiioonn 
+BBeeggiinn wwiitthh jjuusstt tthhee bbaarree mmiinniimmuumm ooff wwhhaatt yyoouu nneeeedd aanndd lleett CCllaauuddee gguuiiddee
+yyoouu tthhrroouugghh tthhee pprroocceessss,, rraatthheerr tthhaann ffrroonntt--llooaaddiinngg eexxtteennssiivvee eexxppllaannaattiioonnss. .
+1144 CClLaAuUdDeE CCoOdDeE fFoOrR AAPPII
+
+Claude Code for growth
+Claude Code for growth
+marketing
+marketing
+Main Claude Code use cases
+Main Claude Code use cases
+TThhee GGrroowwtthh MMaarrkkeettiningg 
+tteeaamm ffooccuusseess oonn bbuuiillddiinngg oouutt AAuuttoommaatteedd GGooooggllee AAddss ccrreeaattiivvee ggeenneerraattiioonn 
+ppeerrffoorrmmaanncec e mmaarrkkeettiningg cchhaannnneellss TThhee tteeaamm bbuuiilltt aann aaggeennttiicc wwoorrkkffllooww tthhaatt pprroocceesssseess CCSSVV fif illeess ccoonnttaaiinniinngg
+aaccrroossss ppaaiidd sseeaarrcchh,, ppaaiidd ssoocciiaall,,
+hhuunnddrreeddss ooff eexxiissttiinngg aaddss wwiitthh ppeerrffoorrmmaannccee mmeettrriiccss,, iiddeennttiiffiieess
+mmoobbiillee aopppp ssttoorreess, , eemmaaiill
+uunnddeerrppeerrfoforrmmining g aaddss ffoorr iitteerraattiioonn, , aanndd ggeenneerraatteess nneeww vvaarriiaattiioonnss tthhaatt
+mmaarrkkeettiningg, , aanndd SSEEOO.. AAss aa nnoonn -
+mmeeeett ssttrriicctt cchhaarraacctteerr lliimmiittss ((3300 cchhaarraacctteerrss ffoorr hheeaaddlliinneess, , 9900 ffoorr
+tteecchhnnicicaal l tteeaamm ooff oonnee,, tthheeyy uussee
+ddeessccrriippttiioonnss)). . UUssiinngg ttwwoo ssppeecciiaalliizzeedd ssuubb--aaggeennttss ((oonnee ffoorr hheeaaddlliinneess, , oonnee 
+CCllaauuddee CCooddee ttoo aauuttoommaatete
+ffoorr ddeessccrriippttiioonnss),) , tthhee ssyysstteemm ccaann ggeenneerraattee hhuunnddrreeddss ooff nneeww aaddss iinn
+rreeppeettitiitviev e mmaarrkkeettiningg ttaasskkss aanndd
+mmiinnuutteess iinnsstteeaadd ooff rreeqquuiirriinngg mmaannuuaall ccrreeaattiioonn aaccrroossss mmuullttiippllee ccaammppaaiiggnnss. .
+ccrreeaattee aaggeenntticic wwoorrkkfflolowws s tthhaatt
+wwoouulldd ttrraadditiitoinoanlalyl ly rreeqquuiirree
+TThhiiss hhaass eennaabblleedd tthheemm ttoo tteesstt aanndd iitteerraattee aatt ssccaallee,, ssoommeetthhiinngg tthhaatt wwoouulldd
+ssiiggnniifficicaannt t eennggiinneeeerriningg hhaavvee ttaakkeenn aa ssiiggnniiffiiccaanntt aammoouunntt ooff ttiimmee ttoo aacchhiieevvee pprreevviioouussllyy..
+
+rreessoouurrcceess. .
+FFiiggmmaa pplluuggiinn ffoorr mmaassss ccrreeaattiivvee pprroodduuccttiioonn 
+IInnsstteeaadd ooff mmaannuuaallllyy dduupplliiccaattiinngg aanndd eeddiittiinngg ssttaattiicc iimmaaggeess ffoorr ppaaiidd 
+ssoocciiaall aaddss,, tthheeyy ddeevveellooppeedd aa FFiiggmmaa pplluuggiinn tthhaatt iiddeennttiiffiieess ffrraammeess aanndd
+pprrooggrraammmmaatitcicaalllyly ggeenneerraatteess uupp ttoo 110000 aadd vvaarriiaattiioonnss bbyy sswwaappppiinngg
+hheeaaddlliinneess aanndd ddeessccrriippttiioonnss, , rreedduucciinngg wwhhaatt wwoouulldd ttaakkee hhoouurrss ooff ccooppyy -
+ppaassttiinngg ttoo hhaallff aa sseeccoonndd ppeerr bbaattcchh.. TThhiiss eennaabblleess 1l00xx ccrreeaattiivvee oouuttppuutt, ,
+aalllloowwiinngg tthhee tteeaamm ttoo tteesstt vvaassttllyy mmoorree ccrreeaattiivvee vvaarriiaattiioonnss aaccrroossss kkeeyy 
+ssoocciiaall cchhaannnneellss. .
+
+MMeettaa AAddss MMCCPP ss eerrvveerr ffoorr ccaammppaaiiggnn aannaallyyttiiccss 
+TThheeyy ccrreeaatteedd aann MMCCPP sseerrvveerr iinntteeggrraatteedd wwiitthh MMeettaa AAddss AAPPII ttoo qquueerryy
+ccaammppaaiiggnn ppeerrffoorrmmaannccee, , ssppeennddiinngg ddaattaa,, aanndd aadd eeffffeeccttiivveenneessss ddiirreeccttllyy
+wwiitthhiinn tthhee CCllaauuddee DDeesskkttoopp aapppp,, eelliimmiinnaattiinngg tthhee nneeeedd ttoo sswwiittcchh bbeettwweeeenn
+ppllaattffoorrmmss ffoorr ppeerrffoorrmmaannccee aannaallyyssiiss,, ssaavviinngg ccrriittiiccaall ttiimmee wwhheerree eevveerryy
+eeffifficciieennccyy ggaaiinn ttrraannssllaatteess ttoo bbeetttteerr RROOII.
+.
+AAddvvaanncceedd pprroommpptt eennggiinneeeerriinngg wwiitthh mmeemmoorryy ssyysstteemmss 
+TThheeyy iimmpplleemmeenntetedd aa rruuddiimmeenntataryry mmeemmoorryy ssyysstteemm tthhaatt llooggss hhyyppootthheesseess
+aanndd eexxppeerriimmeenntsts aaccrroossss aadd iitteerraattiioonnss, , aalllloowwiinngg tthhee ssyysstteemm ttoo ppuullll pprreevviioouuss
+tteesstt rreessuullttss iinnttoo ccoonntteexxtt wwhheenn ggeenneerraattiinngg nneeww vvaarriiaattiioonnss,, ccrreeaattiinngg aa sseellff-
+iimmpprroovviinngg tteessttiinngg ffrraammeewwoorrkk.. TThhiiss eennaabblleess ssyysstteemmaattiicc eexxppeerriimmeennttaatitoionn
+tthhaatt wwoouulldd bbee iimmppoossssiibbllee ttoo ttrraacckk mmaannuuaallllyy..
+1155 CClLAaUuDdEe CCoOdDEe fFoOrR gGrROoWwTtHh mMAaRrKkEeTtINinGg
+
+Claude Code for growth
+Claude Code for growth
+marketing
+marketing
+T Te e a a m m i i m mp p a a c c t t DDrraammaattiicc ttiimmee ssaavviinnggss oonn rreeppeettiittiivvee ttaasskkss 
+AAdd ccooppyy ccrreeaattiioonn rreedduucceedd ffrroomm 22 hhoouurrss ttoo 1155 m miinnuutteess, , ffrreeeeiinngg uupp ttiimmee ffoorr
+ssttrraatteeggiicc wwoorrkk..
+
+1100xx iinnccrreeaassee iinn ccrreeaattiivvee oouuttppuutt 
+TThhee tteeaamm ccaann nnooww tteesstt vvaassttllyy mmoorree aadd vvaarriiaattiioonnss aaccrroossss cchhaannnneellss wwiitthh
+aauuttoommaatteedd ggeenneerraattiioonn aanndd FFiiggmmaa iinntteeggrraattiioonn. .
+
+OOppeerraattiinngg lliikkee aa llaarrggeerr tteeaamm 
+TThhee tteeaamm ccaann hhaannddllee ttaasskkss tthhaatt ttrraaddiittiioonnaalllyly rreeqquuiirreedd ddeeddiiccaatteedd
+eennggiinneeeerriinngg rreessoouurrcceess..
+
+SSttrraatteeggiicc ffooccuuss sshhiifftt 
+TThhee tteeaamm ccaann ssppeenndd mmoorree ttiimmee oonn oovveerraallll ssttrraatteeggyy aanndd bbuuiillddiinngg aaggeennttiicc
+aauuttoommaattioionn rraatthheerr tthhaann mmaannuuaall eexxeeccuuttiioonn..
+T To o p p t ti i p p s s f fr r o o m m t th h e e  IIddeennttiiffyy AAPPII--eennaabblleedd rreeppeettiittiivvee ttaasskkss 
+Growth Marketing
+LLooookk ffoorr wwoorrkkfflloowwss iinnvvoollvviinngg rreeppeettiittiivvee aaccttiioonnss wwiitthh ttoooollss tthhaatt hhaavvee 
+Growth Marketing
+AAPPIiss ((lliikkee aadd ppllaattffoorrmmss,, ddeessiiggnn ttoooollss,, aannaallyyttiiccss ppllaattffoorrmmss)).. TThheessee aarree 
+team
+team pprriimmee ccaannddiiddaatteess ffoorr aauuttoommaattioionn aanndd wwhheerree CCllaauuddee CCooddee pprroovviiddeess tthhee
+mmoosstt vvaalluuee..
+
+BBrreeaakk ccoommpplleexx wwoorrkkfflloowwss iinnttoo ssppeecciiaalliizzeedd ssuubb--aaggeennttss 
+IInnsstteeaadd ooff ttrryyiinngg ttoo hhaannddllee eevveerryytthhiinngg iinn oonnee pprroommpptt oorr wwoorrkkffllooww,, ccrreeaattee
+sseeppaarraattee aaggeennttss ffoorr ssppeecciiffiicc ttaasskkss ((lliikkee tthheeiirr hheeaaddlliinnee aaggeenntt vvss.. ddeessccrriippttiioonn
+aaggeenntt)).. TThhiiss mmaakkeess ddeebbuuggggiinngg eeaassiieerr aanndd iimmpprroovveess oouuttppuutt qquuaalliittyy wwhheenn
+ddeeaalliinngg wwiitthh ccoommpplleexx rreeqquuiirreemmeenntst.s .
+
+TThhoorroouugghhllyy bbrraaiinnssttoorrmm aanndd pprroommpptt ppllaann bbeeffoorree ccooddiinngg 
+SSppeenndd ssiiggnniiffiiccaanntt ttiimmee uuppffrroonntt uussiinngg CCllaauuddee..aaii ttoo tthhiinnkk tthhrroouugghh yyoouurr
+eennttiirree wwoorrkkffllooww,, tthheenn hhaavvee CCllaauuddee..aaii ccrreeaattee aa ccoommpprreehheennssivivee pprroommpptt aanndd
+ccooddee ssttrruuccttuurree ffoorr CCllaauuddee CCooddee ttoo rreeffeerreennccee.. AAllssoo,, wwoorrkk sstteepp--bbyy--sstteepp
+rraatthheerr tthhaann aasskkiinngg ffoorr oonnee--sshhoott ssoolluuttiioonnss ttoo aavvooiidd CCllaauuddee ggeettttiinngg
+oovveerrwwhheellmmeedd bbyy ccoommpplleexx ttaasskkss..
+1166 CClLAaUuDdEe CCoOdDEe fFoOrR gGrROoWwTtHh mMAaRrKkEeTtINinGg
+
+Claude Code for product design
+Claude Code for product design
+Main Claude Code use cases
+Main Claude Code use cases
+TThhee PPrroodduucctt DDeessiiggnn tteeaamm
+ssuuppppoorrttss CCllaauuddee CCooddee,, CCllaauuddee..aaii FFrroonntt--eenndd ppoolliisshh aanndd ssttaattee mmaannaaggeemmeennt t cchhaannggeess 
+aanndd tthhee AAnntthhrrooppici c AAPPII,, IInnsstteeaadd ooff ccrreeaattiinngg eexxtteennssiivvee ddeessiiggnn ddooccuummeenntatatitoionn aanndd ggooiinngg tthhrroouugghh
+ssppeecciiaalliizziningg iinn bbuuiillddiinngg AAlI
+mmuullttiippllee rroouunnddss ooff ffeeeeddbbaacckk wwiitthh eennggiinneeeerrss ffoorr vviissuuaall ttwweeaakkss ((ttyyppeeffaacceess,,
+pprroodduuccttss. . EEvveenn nnoonn--ddeevveeloloppeersrs
+ccoolloorrss,, ssppaacciinngg)),, tthheeyy nnooww ddiirreeccttllyy iimmpplleemmeennt t tthheessee cchhaannggeess uussiinngg CCllaauuddee
+ccaann uussee CCllaauuddee CCooddee ttoo bbrriiddggee
+CCooddee.. EEnnggiinneeeerrss nnootteedd tthheeyy'’rree mmaakkiinngg “"llaarrggee ssttaattee mmaannaaggeemmeennt t cchhaannggeess
+tthhee ttrraadditiitoinoanla l ggaapp bbeettwweeeenn
+tthhaatt yyoouu ttyyppiiccaallllyy wwoouullddnn'’tt sseeee aa ddeessiiggnneerr mmaakkiinngg,,"” eennaabblliinngg tthheemm ttoo
+ddeessiiggnn aanndd eennggiinneeeerriningg, , eennaabblliinngg
+aacchhiieevvee tthhee eexxaacctt qquuaalliittyy tthheeyy eennvviissiioonn..
+
+ddiirreecctt iimmpplleemmeennttaatitoino n ooff tthheeiirr
+ddeessiiggnn vviissiioonn wwiitthhoouut t eexxtteennssivivee
+GGiittHHuubb AAccttiioonnss aauuttoommaatteedd ttiicckkeettiinngg 
+bbaacckk--aanndd--fofrothrt h wwiitthh eennggiinneeeerrss. .
+UUssiinngg CCllaauuddee CCooddee’'ss GGiittHHuubb iinntteeggrraattiioonn, , tthheeyy ccaann ssiimmppllyy fifillee iissssuueess//
+ttiicckkeettss ddeessccrriibbiinngg nneeeeddeedd cchhaannggeess,, aanndd CCllaauuddee aauuttoommaatticicaalllyly pprrooppoosseess
+ccooddee ssoolluuttiioonnss wwiitthhoouutt hhaavviinngg ttoo ooppeenn CCllaauuddee CCooddee,, ccrreeaattiinngg aa sseeaammlleessss
+bbuugg--ffiixxiinngg aanndd ffeeaattuurree rreeffiinneemmeenntt wwoorrkkffllooww ffoorr tthheeiirr ppeerrssiisstteenntt bbaacckklloogg 
+ooff ppoolliisshh ttaasskkss..
+
+RRaappiidd iinntteerraaccttiivvee pprroottoottyyppiinngg 
+BByy ppaassttiinngg mmoocckkuupp iimmaaggeess iinnttoo CCllaauuddee CCooddee,, tthheeyy ggeenneerraattee ffuullllyy
+ffuunnccttiioonnaal l pprroottoottyyppeess tthhaatt eennggiinneeeerrss ccaann iimmmmeeddiiaatteelyly uunnddeerrssttaanndd aanndd
+iitteerraattee oonn,, rreeppllaacciinngg tthhee ttrraaddiittiioonnaal l ccyyccllee ooff ssttaattiicc FFiiggmmaa ddeessiiggnnss tthhaatt
+rreeqquuiirreedd eexxtteennssiivvee eexxppllaannaattiioonn aanndd ttrraannssllaattiioonn ttoo wwoorrkkiinngg ccooddee..
+
+EEddggee ccaassee ddiissccoovveerryy aanndd ssyysstteemm aarrcchhiitteeccttuurree uunnddeerrssttaannddiinngg 
+TThheeyy uussee CCllaauuddee CCooddee ttoo mmaapp oouutt eerrrroorr ssttaatteess,, llooggiicc flfloowwss,, aanndd ddiiffffeerreenntt
+ssyysstteemm ssttaattuusseess,, aalllloowwiinngg tthheemm ttoo iiddeennttiiffyy eeddggee ccaasseess dduurriinngg ddeessiiggnn rraatthheerr
+tthhaann ddiissccoovveerriinngg tthheemm llaatteerr iinn ddeevveellooppmmeennt,t , ffuunnddaammeenntatalllyly iimmpprroovviinngg
+tthhee qquuaalliittyy ooff tthheeiirr iinniittiiaall ddeessiiggnnss..
+
+CCoommpplleexx ccooppyy cchhaannggeess aanndd lleeggaall ccoommpplliiaannccee 
+FFoorr ttaasskkss lliikkee rreemmoovviinngg “"rreesseeaarrcchh pprreevviieeww"” mmeessssaaggiinngg aaccrroossss tthhee eennttiirree
+ccooddee bbaassee,, tthheeyy uusseedd CCllaauuddee CCooddee ttoo fifinndd aallll iinnssttaanncceess, , rreevviieeww ssuurrrroouunnddiningg
+ccooppyy,, ccoooorrddiinnaattee cchhaannggeess wwiitthh lleeggaall iinn rreeaall--ttiimmee,, aanndd iimmpplleemmeennt t uuppddaatteess --
+aa pprroocceessss tthhaatt ttooookk ttwwoo 3300--mmiinnuuttee ccaallllss iinnsstteeaadd ooff aa wweeeekk ooff bbaacckk--aanndd -
+ffoorrtthh ccoooorrddiinnaattiioonn. .
+1177 CClLaAuUdDeE CCoOdDeE fFoOrR pPrRoOdDuUcCtT dDeEsSIigGnN
+
+Claude Code for product design
+Claude Code for product design
+T Te e a a m m i i m mp p a a c c t t TTrraannssffoorrmmeedd ccoorree wwoorrkkffllooww 
+CCllaauuddee CCooddee bbeeccoommeess aa pprriimmaarryy ddeessiiggnn ttooooll,, wwiitthh FFiiggmmaa aanndd CCllaauuddee CCooddee
+ooppeenn 8800%% ooff tthhee ttiimmee..
+
+22--33xx ffaasstteerr eexxeeccuuttiioonn 
+VViissuuaall aanndd ssttaattee mmaannaaggeemmeennt t cchhaannggeess tthhaatt pprreevviioouussllyy rreeqquuiirreedd eexxtteennssiivvee
+bbaacckk--aanndd--ffoorrtthh wwiitthh eennggiinneeeerrss nnooww iimmpplleemmeenntetedd ddiirreeccttllyy..
+
+WWeeeekkss ttoo hhoouurrss ccyyccllee ttiimmee 
+CCoommpplleexx pprroojjeeccttss lliikkee GGAA llaauunncchh mmeessssaaggiinngg tthhaatt wwoouulldd ttaakkee aa wweeeekk ooff
+ccoooorrddiinnaattiioonn nnooww ccoommpplleetteedd iinn ttwwoo 3300--mmiinnuuttee ccaallllss..
+
+TTwwoo ddiissttiinncctt uusseerr eexxppeerriieenncceess 
+DDeevveellooppeerrss ggeett “"aauuggmmeenntteedd wwoorrkkffllooww"” ((ffaasstteerr eexxeeccuuttiioonn)),, wwhhiillee nnoonn -
+tteecchhnniiccaall uusseerrss ggeett “"hhoollyy ccrraapp,, II’'mm aa ddeevveellooppeerr wwoorrkkffllooww"” ((ee nnttiirreellyy nneeww
+ccaappaabbiilliittiieess pprreevviioouussllyy iimmppoossssiibbllee))..
+
+IImmpprroovveedd ddeessiiggnn--eenngginineeereirning g ccoollllaabboorraattiioonn 
+BBeetttteerr ccoommmmuunnicicaatitoionn aanndd ffaasstteerr pprroobblleemm--ssoollvviinngg bbeeccaauussee ddeessiiggnneerrss
+uunnddeerrssttaanndd ssyysstteemm ccoonnssttrraaiinnttss aanndd ppoossssiibbiilliittiieess uuppffrroonntt..
+T To o p p t ti i p p s s f fr r o o m m t th h e e  GGeett pprrooppeerr sseettuupp hheellpp ffrroomm eennggiinneeeerrss 
+Product Design team
+HHaavvee eennggiinneeeerriinngg tteeaammmmaatteess hheellpp wwiitthh iinniittiiaall rreeppoossiittoorryy sseettuupp aanndd
+Product Design team
+ppeerrmmiissssiioonnss -- tthhee tteecchhnniiccaall oonnbbooaarrddiinngg iiss cchhaalllleennggiinngg ffoorr nnoonn--ddeevveellooppeerrss, ,
+bbuutt oonnccee ccoonnffiigguurreedd,, iitt bbeeccoommeess ttrraannssffoorrmmaatitvivee ffoorr ddaaiillyy wwoorrkkffllooww.
+.
+UUssee ccuussttoomm mmeemmoorryy fifilleess ttoo gguuiiddee CCllaauuddee'’ss bbeehhaavviioorr 
+CCrreeaattee ssppeecciiffiicc iinnssttrruuccttioionnss tteelllliinngg CCllaauuddee yyoouu'’rree aa ddeessiiggnneerr wwiitthh lliittttllee
+ccooddiinngg eexxppeerriieennccee wwhhoo nneeeeddss ddeettaaiilleedd eexxppllaannaattiioonnss aanndd ssmmaalllleerr,,
+iinnccrreemmeenntatal l cchhaannggeess,, ddrraammaattiiccaalllyly iimmpprroovviinngg tthhee qquuaalliittyy ooff CCllaauuddee'’ss
+rreessppoonnsseess aanndd mmaakkiinngg iitt lleessss iinnttiimmiiddaatitningg. .
+
+LLeevveerraaggee iimmaaggee ppaassttiinngg ffoorr pprroottoottyyppiinngg 
+UUssee CCoommmmaanndd++VV ttoo ppaassttee ssccrreeeennsshhoottss ddiirreeccttllyy iinnttoo CCllaauuddee CCooddee -- iitt eexxcceellss
+aatt rreeaaddiinngg ddeessiiggnnss aanndd ggeenneerraattiinngg ffuunnccttiioonnaal l ccooddee,, mmaakkiinngg iitt iinnvvaalluuaabbllee
+ffoorr ttuurrnniinngg ssttaattiicc mmoocckkuuppss iinnttoo iinntteerraaccttiivvee pprroottoottyyppeess tthhaatt eennggiinneeeerrss ccaann
+iimmmmeeddiiaatteelyly uunnddeerrssttaanndd aanndd bbuuiilldd uuppoonn..
+1188 CClLaAuUdDeE CCoOdDeE fFoOrR pPrRoOdDuUcCtT dDeEsSIigGnN
+
+Claude Code for RL engineering
+Claude Code for RL engineering
+Main Claude Code use cases
+Main Claude Code use cases
+TThhee RRLL EEnnggiinneeeerriningg tteeaamm
+ffooccuusseess oonn eeffffiiccieiennt t ssaammpplliinngg iinn FFeeaattuurree ddeevveellooppmmeenntt wwiitthh ssuuppeerrvviisseedd aauuttoonnoommyy 
+RRLL aanndd wweeiigghhtt ttrraannssfefresr s aaccrroossss TThhee tteeaamm lleettss CCllaauuddee CCooddee wwrriittee mmoosstt ooff tthhee ccooddee ffoorr ssmmaallll ttoo mmeeddiiuumm
+tthhee cclluusstteerr. . TThheeyy uussee CCllaauuddee
+ffeeaattuurreess wwhhiillee pprroovviiddiinngg oovveerrssiigghhtt,, ssuucchh aass iimmpplleemmeennttiningg aauutthheenntitcicaatitoionn
+CCooddee pprriimmaarriliyl y ffoorr wwrriittiningg ssmmaallll
+mmeecchhaanniissmmss ffoorr wweeiigghhtt ttrraannssffeerr ccoommppoonneenntsts. . TThheeyy wwoorrkk iinntteerraaccttiivveellyy,,
+ttoo mmeeddiiuumm ffeeaattuureres,s , ddeebbuuggggiinngg,,
+aalllloowwiinngg CCllaauuddee ttoo ttaakkee tthhee lleeaadd bbuutt sstteeeerriinngg iitt wwhheenn iitt ggooeess ooffff ttrraacckk..
+
+aanndd uunnddeerrssttaannddinign g ccoommpplleexx
+ccooddeebbaasseess,, wwiitthh aann iitteerraatitviev e
+TTeesstt ggeenneerraattiioonn aanndd ccooddee rreevviieeww 
+aapppprrooaacchh tthhaatt iinncclluuddeess ffrreeqquueennt t
+AAfftteerr iimmpplleemmeenntitningg cchhaannggeess tthheemmsseellvveess, , tthheeyy aasskk CCllaauuddee CCooddee ttoo aadddd
+cchheecckkppooiinnttiningg aanndd rroollllbbaacckkss. .
+tteessttss oorr rreevviieeww tthheeiirr ccooddee.. TThhiiss aauuttoommaatteedd tteessttiinngg wwoorrkkffllooww ssaavveess
+ssiiggnniiffiiccaanntt ttiimmee oonn rroouuttiinnee bbuutt iimmppoorrttaannt t qquuaalliittyy aassssuurraannccee ttaasskkss..
+
+DDeebbuuggggiinngg aanndd eerrrroorr iinnvveessttiiggaattiioonn 
+TThheeyy uussee CCllaauuddee CCooddee ttoo ddeebbuugg eerrrroorrss wwiitthh mmiixxeedd rreessuullttss -- ssoommeettiimmeess iitt
+iiddeennttiiffiieess iissssuueess iimmmmeeddiiaatteelyly aanndd aaddddss rreelleevvaanntt tteessttss,, wwhhiillee ootthheerr ttiimmeess 
+iitt ssttrruugggglleess ttoo uunnddeerrssttaanndd tthhee pprroobblleemm,, bbuutt oovveerraallll pprroovviiddeess vvaalluuee wwhheenn 
+iitt wwoorrkkss..
+
+CCooddeebbaassee ccoommpprreehheennssiioonn aanndd ccaallll ssttaacckk aannaallyyssiiss 
+OOnnee ooff tthhee bbiiggggeesstt cchhaannggeess iinn tthheeiirr wwoorrkkffllooww iiss uussiinngg CCllaauuddee CCooddee ttoo ggeett
+qquuiicckk ssuummmmaarriieess ooff rreelleevvaanntt ccoommppoonneenntsts aanndd ccaallll ssttaacckkss,, rreeppllaacciinngg
+mmaannuuaall ccooddee rreeaaddiinngg oorr eexxtteennssiivvee ddeebbuuggggiinngg oouuttppuutt ggeenneerraattiioonn. .
+
+KKuubbeerrnneetteess ooppeerraattiioonnss gguuiiddaannccee 
+TThheeyy ffrreeqquueennttllyy aasskk CCllaauuddee CCooddee aabboouutt KKuubbeemrneetteess ooppeerraattiioonnss tthhaatt wwoouulldd
+ootthheerrwwiissee rreeqquuiirree eexxtteennssiivvee GGoooogglliinngg,, ggeettttiinngg iimmmmeeddiiaattee aannsswweerrss ffoorr
+ccoonnffiigguurraattiioonn aanndd ddeeppllooyymmeenntt qquueessttiioonnss. .
+1199 CClLaAuUdDeE CCoOdDeE fFoOrR RRLL eEnNgGiInNeEeErRiInNgG
+
+Claude Code for RL engineering
+Claude Code for RL engineering
+D D e ev v e e l l o o p p m m e e n n t t  EExxppeerriimmeennttaall aapppprrooaacchh eennaabblleedd 
+workflow impact
+TThheeyy nnooww uussee aa “"ttrryy aanndd rroollllbbaacckk"” mmeetthhooddoolologgyy,, ffrreeqquueennttllyy ccoommmmiittttiinngg
+workflow impact
+cchheecckkppooiinnttss ssoo tthheeyy ccaann tteesstt CCllaauuddee'’ss aauuttoonnoommoouuss iimmpplleemmeenntatatitoionn
+aatttteemmppttss aanndd rreevveerrtt iiff nneeeeddeedd,, eennaabblliinngg mmoorree eexxppeerriimmeennttaal.l .
+
+DDooccuummeennttaattioionn aacccceelleerraattiioonn 
+CCllaauuddee CCooddee aauuttoommaatticicaalllyly aaddddss hheellppffuull ccoommmmeennttss tthhaatt ssaavvee ssiiggnniiffiiccaanntt
+ttiimmee oonn ddooccuummeenntatatitoionn, , tthhoouugghh tthheeyy nnoottee iitt ssoommeettiimmeess aaddddss ccoommmmeennttss
+iinn oodddd ppllaacceess oorr uusseess qquueessttiioonnaabblele ccooddee oorrggaanniizzaattiioonn. .
+
+SSppeeeedd--uupp wwiitthh lliimmiittaattiioonnss 
+WWhhiillee CCllaauuddee CCooddee ccaann iimmpplleemmeennt t ssmmaallll--ttoo--mmeeddiuiumm PPRRss wwiitthh “"rreellaattiivveellyy
+lliittttllee ttiimmee"” ffrroomm tthheemm,, tthheeyy aacckknnoowwlleeddggee iitt oonnllyy wwoorrkkss oonn fifirrsstt aatttteemmpptt
+aabboouutt oonnee--tthhiirrdd ooff tthhee ttiimmee,, rreeqquuiirriinngg eeiitthheerr aaddddiittiioonnaal l gguuiiddaannccee oorr
+mmaannuuaall iinntteerrvveennttioionn. .
+T To o p p t ti i p p s s f fr r o o m m t th h e e  CCuussttoommiizzee yyoouurr CCllaauuddee..mmdd fifillee ffoorr ssppeecciiffiicc ppaatttteerrnnss 
+RL Engineering team
+AAdddd iinnssttrruuccttiioonnss ttoo yyoouurr CCllaauuddee..mmdd fifillee ttoo pprreevveenntt CCllaauuddee ffrroomm mmaakkiinngg
+RL Engineering team
+rreeppeeaatteedd ttooooll--ccaalllliinngg mmiissttaakkeess,, ssuucchh aass tteelllliinngg iitt ttoo “"rruunn ppyytteesstt nnoott rruunn aanndd
+ddoonn'’tt ccdd uunnnneecceessssaarriliyly -- jjuusstt uussee tthhee rriigghhtt ppaatthh.."” TThhiiss ssiiggnniiffiiccaannttllyy
+iimmpprroovveedd ccoonnssiisstteennccyy..
+
+UUssee aa cchheecckkppooiinntt--hheeaavvyy wwoorrkkffllooww 
+RReegguullaarrllyy ccoommmmiitt yyoouurr wwoorrkk aass CCllaauuddee mmaakkeess cchhaannggeess ssoo yyoouu ccaann eeaassiillyy
+rroollll bbaacckk wwhheenn eexxppeerriimmeennttss ddoonn'’tt wwoorrkk oouutt.. TThhiiss eennaabblleess aa mmoorree
+eexxppeerriimmeennttaal l aapppprrooaacchh ttoo ddeevveellooppmmeennt t wwiitthhoouutt rriisskk..
+
+TTrryy oonnee--sshhoott fifirrsstt,, tthheenn ccoollllaabboorraattee 
+GGiivvee CCllaauuddee aa qquuiicckk pprroommpptt aanndd lleett iitt aatttteemmpptt tthhee ffuullll iimmpplleemmeenntatatitoionn
+fifirrsstt.. IIff iitt wwoorrkkss ((aabboouutt oonnee--tthhiirrdd ooff tthhee ttiimmee)),, yyoouu'’vvee ssaavveedd ssiiggnniiffiiccaanntt
+ttiimmee.. IIff nnoott,, tthheenn sswwiittcchh ttoo aa mmoorree ccoollllaabboorraattiivvee,, gguuiiddeedd aapppprrooaacchh. .
+2200 CClLaAuUdDeE CCoOdDeE fFoOrR RRLL eEnNGgIiNnEeEeRrIiNnGg
+
+Claude Code for legal
+Claude Code for legal
+Main Claude Code use cases
+Main Claude Code use cases
+TThhee LLeeggaall tteeaamm ddiissccoovveerreedd
+CCllaauuddee CCooddee’'ss ppootteennttiaial l tthhrroouugghh CCuussttoomm aacccceessssiibbiilliittyy ssoolluuttiioonn ffoorr ffaammiillyy mmeemmbbeerrss 
+eexxppeerriimmeenntatatiotino,n , aanndd aa ddeessiirree ttoo TTeeaamm mmeemmbbeerrss hhaavvee bbuuiilltt ccoommmmuunniiccaatitoionn aassssiissttaannttss ffoorr ffaammiillyy mmeemmbbeerrss
+lleeaarrnn aabboouutt AAnntthhrrooppici'cs’ s pprroodduucctt
+wwiitthh ssppeeaakkiinngg ddiifffificcuullttiieess dduuee ttoo mmeeddiiccaall ddiiaaggnnoosseess.. IInn jjuusstt oonnee hhoouurr,, tthheeyy
+ooffffeerrininggss. . AAddddiittioionnaallyll,y , oonnee tteeaamm
+ccrreeaatteedd aa pprreeddiiccttiivvee tteexxtt aapppp uussiinngg nnaattiivvee ssppeeeecchh--ttoo--tteexxtt tthhaatt ssuuggggeessttss
+mmeemmbbeerr hhaadd aa ppeerrssoonnaal l uussee ccaassee
+rreessppoonnsseess aanndd ssppeeaakkss tthheemm uussiinngg vvooiiccee bbaannkkss,, ssoollvviinngg ggaappss iinn eexxiissttiinngg
+rreellaatteedd ttoo ccrreeaattiningg aacccceessssiibbiillitiyt y
+aacccceessssiibbiilliittyy ttoooollss rreeccoommmmeennddeedd bbyy ssppeeeecchh tthheerraappiissttss. .
+
+ttoooollss ffoorr ffoammiliyly aanndd wwoorrkk
+pprroottootytyppese s tthhaatt ddeemmoonnssttraratet e 
+LLeeggaall ddeeppaarrttmmeenntt wwoorrkkffllooww aauuttoommaattiioonn 
+tthhee tteecchhnnoolologgyy's’ s ppoowweerr ffoorr 
+TThheeyy ccrreeaatteedd pprroottoottyyppee “"pphhoonnee ttrreeee"” ssyysstteemmss ttoo hheellpp tteeaamm mmeemmbbeerrss
+nnoonn--ddeevveeloloppeerrss. .
+ccoonnnneecctt wwiitthh tthhee rriigghhtt llaawwyyeerr aatt AAnntthhrrooppiicc,, ddeemmoonnssttrraatitningg hhooww lleeggaall
+ddeeppaarrttmmeenntst s ccaann bbuuiilldd ccuussttoomm ttoooollss ffoorr ccoommmmoonn ttaasskkss wwiitthhoouutt ttrraaddiittiioonnaal l
+ddeevveellooppmmeennt t rreessoouurrcceess..
+
+TTeeaamm ccoooorrddiinnaattiioonn ttoooollss 
+MMaannaaggeerrss hhaavvee bbuuiilltt GG SSuuiittee aapppplliiccaattiioonnss tthhaatt aauuttoommaattee wweeeekkllyy tteeaamm
+uuppddaatteess aanndd ttrraacckk lleeggaall rreevviieeww ssttaattuuss aaccrroossss pprroodduuccttss, , aalllloowwiinngg llaawwyyeerrss ttoo
+qquuiicckkllyy flflaagg iitteemmss nneeeeddiinngg rreevviieeww tthhrroouugghh ssiimmppllee bbuuttttoonn cclliicckkss rraatthheerr
+tthhaann sspprreeaaddsshheeeet t mmaannaaggeemmeennt.t .
+
+RRaappiidd pprroottoottyyppiinngg ffoorr ssoolluuttiioonn vvaalliiddaattiioonn 
+TThheeyy uussee CCllaauuddee CCooddee ttoo qquuiicckkllyy bbuuiilldd ffuunnccttiioonnaal l pprroottoottyyppeess tthheeyy ccaann
+sshhooww ttoo ddoommaaiinn eexxppeerrttss ((lliikkee sshhoowwiinngg aacccceessssiibbiilliittyy ttoooollss ttoo UUCCSSFF
+ssppeecciiaalliissttss)) ttoo vvaalliiddaattee iiddeeaass aanndd iiddeennttiiffyy eexxiissttiinngg ssoolluuttiioonnss bbeeffoorree
+iinnvveessttiinngg mmoorree ttiimmee..
+2211 CClLaAuUdDeE CC oOdDeE fF oOrR lL eEgGaAlL
+
+Claude Code for legal
+Claude Code for legal
+W Wo o r r k k s s t ty y l l e e a an n d d i i m mp p a a c c t t PPllaannnniinngg iinn CCllaauuddee..aaii,, bbuuiillddiinngg iinn CCllaauuddee CCoodde e
+TThheeyy uussee aa ttwwoo--sstteepp pprroocceessss wwhheerree tthheeyy bbrraaiinnssttoorrmm aanndd ppllaann wwiitthh
+CCllaauuddee..aaii fifirrsstt,, tthheenn mmoovvee ttoo CCllaauuddee CCooddee ffoorr iimmpplleemmeennttaatitoionn, , aasskkiinngg iit t
+ttoo ssllooww ddoowwnn aanndd wwoorrkk sstteepp--bbyy--sstteepp rraatthheerr tthhaann oouuttppuuttttiningg eevveerryytthhiinngg 
+aatt oonnccee..
+
+VViissuuaall--ffiirrsstt aapppprrooaacchh 
+TThheeyy ffrreeqquueennttllyy uussee ssccrreeeennsshhoottss ttoo sshhooww CCllaauuddee CCooddee wwhhaatt tthheeyy wwaanntt
+iinntteerrffaacceess ttoo llooookk lliikkee,, tthheenn iitteerraattee bbaasseedd oonn vviissuuaall ffeeeeddbbaacckk rraatthheerr tthhaann
+ddeessccrriibbiinngg ffeeaattuurreess iinn tteexxtt..
+
+PPrroottoottyyppee--ddrriivveenn iinnnnoovvaattiioonn 
+TThheeyy eemmpphhaassiizzee oovveerrccoommiinngg tthhee ffeeaarr ooff sshhaarriinngg “"ssiillllyy”" oorr “"ttooyy"”
+pprroottoottyyppeess, , aass tthheessee ddeemmoonnssttrraatitoionns s iinnssppiirree ootthheerrss ttoo sseeee ppoossssiibbiilliittiieess
+tthheeyy hhaaddnn't’t ccoonnssiiddeerreedd. .
+S Se e c c u u r r i i t t y y a an n d d MMCCPP i inntteeggrraattiioonn ccoonncceerrnnss 
+compliance awareness
+AAss pprroodduucctt llaawwyyeerrss,, tthheeyy iimmmmeeddiiaatteelyly iiddeennttiiffyy sseeccuurriittyy iimmpplliiccaattiioonnss ooff
+compliance awareness
+ddeeeepp MMCCPP iinntteeggrraattiioonnss, , nnoottiinngg hhooww ccoonnsseerrvvaattiivvee sseeccuurriittyy ppoossttuurreess wwiillll
+ccrreeaattee bbaarrrriieerrss aass AAII ttoooollss aacccceessss mmoorree sseennssiittiivvee ssyysstteemmss..
+
+CCoommpplliiaannccee ttoooolliinngg pprriioorriittiieess 
+TThheeyy aaddvvooccaattee ffoorr bbuuiillddiinngg ccoommpplliiaannccee ttoooollss qquuiicckkllyy aass AAI I
+ccaappaabbiilliittiieess eexxppaanndd,, rreeccooggnniizziinngg tthhee bbaallaannccee bbeettwweeeenn iinnnnoovvaattiioonn 
+aanndd rriisskk mmaannaaggeemmeennt.t .
+T To o p p t ti i p p s s f fr r o o m m t th h e e  PPllaann eexxtteennssiivveelyly iinn CCllaauuddee..aaii fifirrsstt 
+Legal Department
+UUssee CCllaauuddee'’ss ccoonnvveerrssaattiioonnaal l iinntteerrffaaccee ttoo flfleesshh oouutt yyoouurr eennttiirree iiddeeaa bbeeffoorree
+Legal Department
+mmoovviinngg ttoo CCllaauuddee CCooddee.. TThheenn aasskk CCllaauuddee ttoo ssuummmmaarriizzee eevveerryytthhiinngg iinnttoo aa
+sstteepp--bbyy--sstteepp pprroommpptt ffoorr iimmpplleemmeenntatatitoionn. .
+
+WWoorrkk iinnccrreemmeennttaalllyly aanndd vviissuuaallllyy 
+AAsskk CCllaauuddee CCooddee ttoo ssllooww ddoowwnn aanndd iimmpplleemmeennt t oonnee sstteepp aatt aa ttiimmee ssoo yyoouu
+ccaann ccooppyy--ppaassttee wwiitthhoouutt ggeettttiinngg oovveerrwwhheellmmeedd. . UUssee ssccrreeeennsshhoottss lliibbeerraallllyy ttoo
+sshhooww wwhhaatt yyoouu wwaanntt iinntteerrffaacceess ttoo llooookk lliikkee.
+.
+SShhaarree pprroottoottyyppeess ddeessppiittee ihmnppeerrffeeccttiioonn 
+OOvveerrccoommee tthhee uurrggee ttoo hhiiddee “"ttooyy"” pprroojjeeccttss oorr uunnffiinniisshheedd wwoorrkk -- sshhaarriinngg
+pprroottoottyyppeess hheellppss ootthheerrss sseeee ppoossssiibbiilliittiieess aanndd ssppaarrkkss iinnnnoovvaattiioonn aaccrroossss
+ddeeppaarrttmmeenntst s tthhaatt ddoonn'’tt ttyyppiiccaallllyy iinntteerraacctt. .
+2222 CClLaAuUdDeE CC oOdDeE fF oOrR lL eEgGaAlL

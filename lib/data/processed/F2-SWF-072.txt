@@ -1,0 +1,189 @@
+Fact Sheet SUMMARY
+INDIAN DIRECT-
+Over the last decade, India has shifted from a purely civil
+ASCENT ANTI-
+space program to one that includes military capabilities. In
+, India tested a direct-ascent anti-satellite (DA-
+SATELLITE
+ASAT) system by destroying one of its own satellites after
+TESTING a failed attempt a month earlier. While Indian government
+officials state that this was a demonstration and that India
+
+is against the weaponization of space, this is part of a larger
+CONTACT: VICTORIA SAMSON effort where India is organizationally making way for its
+VSAMSON@SWFOUND.ORG military to become active users of space and creating explicit
+military space capabilities.
+DA-ASAT PROGRAMS
+DA-ASATs use a ground, air, or sea-launched rocket to place a kinetic kill vehicle (KKV) on a ballistic
+trajectory up into space. After separation from the rocket, the KKV uses onboard guidance, navigation,
+and control systems to identify and track a targeted space object and fine-tune its trajectory to create
+a hypervelocity collision. DA-ASATs are very similar to midcourse missile defense interceptors, with the
+difference being the missile defense targets are also on ballistic trajectories. Unlike a co-orbital ASAT, the
+DA-ASAT KKV itself does not have enough velocity to achieve
+orbit and any resulting fragments are likewise unlikely to
+remain in orbit unless they were part of an orbital object that
+was struck.
+Indian DA-ASAT Development
+Following the Chinese 2007 DA-ASAT weapon test, many
+Indian officials worried about what it meant for the
+militarization of space. This, combined with ongoing border
+disputes and concerns about China’s role in the Asia-Pacific,
+led many leaders to begin considering whether India
+should have its own ASAT capabilities.¹ Dr. K. Kasturirangan,
+former head of the Indian Space Research Organisation
+(ISRO), said in that “India has spent a huge
+sum to develop its capabilities and place these assets in
+space. Hence, it becomes necessary to protect them from
+adversaries. There is a need to look at means of securing
+these.”² Over the ensuing decade, Indian officials adjusted
+their take on developing and testing ASAT technology from
+simply ground simulation to needing to have “all the building
+blocks...in place” as V.K. Saraswat, who was then the head
+of India’s Defence Research and Development Organisation
+(DRDO), stated.³ At the time, he said they had “no plans for
+PDV-Mk II leaving Abdul Kalam Island launch site.
+offensive space capabilities.”⁴
+Image credit: Indian Government
+Indian Direct-Ascent Anti-Satellite Testing • 1
+
+Diagram of the 2019
+Indian DA-ASAT Test.
+Image credit: Aerospace
+Security Project /
+Emily Tiemeyer
+In 2017, India began a series of interceptor tests against suborbital targets with the Prithvi Air Defense
+(PAD) system (later to be replaced by the Prithvi Defense Vehicle, or PDV) and the Advanced Area Defense
+(AAD) system.
+The PDV was successfully test-fired in , when it was reported to have intercepted its
+target at 97 km in altitude, and is intended to provide exo-atmospheric intercepts.⁵ It was tested again
+in , this time at night, and was able to “successfully engage” its target.⁶ The AAD was
+launched in to make a successful intercept at an altitude of 15–25 km⁷ and was later tested
+in , successfully destroying its target, which was surrounded by decoys.⁸ In ,
+government officials stated that the system was complete.9
+The AD-1 missile was successfully flown for the first time in a test and was designed to
+be able to provide both endo- and exo-atmospheric intercepts.10 It flew for the second time in 
+when a target missile was launched as part of an overall test of the system’s ability to track, guide, and
+communicate; an intercept was not attempted. This was for India’s planned Phase-II Ballistic Missile
+Defence System, which is intended to intercept medium- to long-range ballistic missiles.11 Phase III is
+intended to defend against hypersonic threats and MIRV’d ballistic missiles; DRDO is reported to be
+developing two new interceptors, AD-AH and AD-AM, to do so.12
+On February 12, 2019, India attempted to launch and test their first ASAT weapon against Microsat-R,
+one of India’s military imaging satellites launched previously that year.13 The solid-fueled PDV failed
+thirty seconds into flight. At the time, India gave a vague announcement that they would be conducting
+a missile test and it was not clear at that point that the test was of ASAT capabilities. It was not until the
+successful test later in March that the outside observers noted the same trajectory and target satellite
+passing overhead for both the failed and successful tests.
+On March 27, 2019, the Indian Prime Minister announced that they had successfully conducted Mission
+Shakti, where a PDV MK-II interceptor successfully destroyed a satellite at an altitude of about 300 km.14
+The missile used was from India’s indigenously developed missile defense system, a PDV MK-II, and the
+satellite target was Microsat-R, a medium-sized (740 kg) Indian military imaging satellite launched into a
+low Sun-synchronous orbit in . ISRO had launched the satellite but did not know that it was
+intended to be an ASAT target, just that it was intended to have a defense application.15 The kill vehicle’s
+terminal guidance used a ring laser gyro-based inertial navigation system and a strap-down Imaging
+Infrared Seeker; the interception was done at a speed of 10 km/second, with the electro optical tracking
+system tracking the entire engagement.16 Reportedly, the decision was made in 2017 to undertake the
+test (initially called Project XSV-1), giving DRDO engineers about 30 months to ensure that the kill vehicle
+was ready for it.17
+Indian Direct-Ascent Anti-Satellite Testing • 2
+
+In a fact sheet released about the ASAT test, the Indian government explained, “The test was done
+to verify that India has the capability to safeguard our space assets. It is the Government of India’s
+responsibility to defend the country’s interests in outer space,” but went on to say, “We are against the
+weaponisation of Outer Space and support international efforts to reinforce the safety and security of
+space-based assets.”18 After the test, DRDO chair G. Sateesh Reddy stated, “We don’t need any more tests
+in this orbit now,” but did not rule out tests at higher orbits.19
+Indian officials downplayed concerns about large amounts of debris being created by this test, stating
+that the intercept was at a low enough altitude that most of the debris would reenter in a few days,
+with the entirety of it coming back down within 45 days at most.20 However, the intercept created 130
+pieces of trackable debris with some pieces thrown to an altitude of more than 1000 km due to collision
+dynamics.21 The debris ended up taking over three years to de-orbit. While there was some international
+outcry over the further weaponization of space and the creation of debris in highly trafficked orbits
+such as that of the ISS, due to the overall smaller amount of debris than previous destructive tests many
+countries remained silent.
+A prime motivation for the test was likely to ensure India would be grandfathered into any future
+ban on DA-ASAT testing. Successfully demonstrating their own DA-ASAT capability might have been a
+political prerequisite for India to support discussions on a future ban and showcase their strength as a
+new military space power. While it is possible that Indian officials may decide to test another ASAT, this
+capability is more likely to be useful as a bargaining chip or a way to demonstrate that India is keeping
+pace with China.
+Summary of Known or Suspected Indian DA-ASAT Tests in Space22
+Date Interceptor Launch Site Target Altitude Debris Time on Orbit Comment
+Reached Created
+Feb. 2019 PDV-MK II Abdul Kalam Microsat-R suborbital 0 N/A Booster
+Island failed within
+30 seconds,
+no intercept
+Mar. 27, PDV-MK II Abdul Kalam Microsat-R 300 km 130 3.2 years Successfully
+2019 Island intercepted
+orbital target
+Indian Direct-Ascent Anti-Satellite Testing • 3
+
+ENDNOTES
+1. Harsh Vasani, “India’s Anti-Satellite Weapons: Does India truly have the ability to target enemy satellites in
+war?,” The Diplomat, June 14, 2016, 
+2. “Ex-ISRO chief calls China’s A-SAT a cause for worry,” Press Trust of India, September 14, 2009.
+3. “India has anti-satellite capability: Saraswat,” Press Trust of India, February 10, 2010; Sandeep Unnithan, “India
+has all the building blocks for an anti-satellite capability,” India Today, April 27, 2012, 
+intoday.in/story/agniv-drdov-drd-chief-dr-vijay-kumar-saraswat-interview/1/186248.html.
+4. Rajat Pandit, “After Agni-V launch, DRDO’s new target is anti-satellite weapons,” Times of India, April 21, 2012,
+
+articleshow/12763074.cms.
+5. “India successfully test-fires interceptor missile,” Times of India, February 11, 2017, 
+indiatimes.com/india/india-successfully-test-fires-interceptor-missile/articleshow/57093816.cms; “India Tests
+New High-Altitude Interceptor Missile,” Missile Defense Project, Center for Strategic and International Studies,
+February 13, 2017, 
+6. “India Conducts Successful Interceptor Missile Test at Night,” PTI, September 23, 2018, https://
+economictimes.indiatimes.com/news/defence/india-conducts-successful-interceptor-missile-test-at-night/
+articleshow/65925514.cms.
+7. “Successful Test Firing of AAD Endo-Atmospheric Interceptor Missile,” Press Information Bureau, Government
+of India, Ministry of Defence, March 1, 2018, PrintRelease.aspx?relid=158774.
+8. Franz-Stefan Gady, “India’s Advanced Air Defense Interceptor Shoots Down Ballistic Missile Target in Test,” The
+Diplomat, August 3, 2018, 
+down-ballistic-missile-target-in-test/.
+9. Snehesh Alex Philip, “India’s Ballistic Missile Shield Ready, IAF & DRDO To Seek Govt Nod To Protect Delhi,” The
+Print, January 8, 2020, 
+nod-to-protect-delhi/345853/.
+10. Ahmad Adil, “India conducts maiden flight test of ballistic missile defense interceptor,” Andalou Agency, Nov.
+2, 2022, 
+interceptor/2727822.
+11. Vijainder K. Thakur, “THAAD’s Analog, S-400’s Partner, DRDO’s AD-1 Missile Interceptor Puts India In The Elite
+League,” Eurasian Times, July 26, 2024, 
+12. Diksha Modi, “DRDO Builds Next-Gen Shield To Destroy Hypersonic Missiles Flying At 10,000 Kmph,” News18.
+com, January 22, 2026, 
+missiles-flying-at-10000-kmph-ws-kl-9848737.html.
+13. Ankit Panda, “Exclusive: India Conducted a Failed Anti-Satellite Test in ,” The Diplomat, March 30,
+2019, 
+14. “Speech by Prime Minister on ‘’Mission Shakti’’, India’s Anti-Satellite Missile test conducted on 27 March,
+2019,” Ministry of External Affairs, Government of India, March 27, 2019, 
+Statements.htm?dtl/31180
+15. Ankit Panda, “ISRO wasn’t told that Microsat-R was being launched to serve as an ASAT target,” Twitter, April
+20, 2021, 
+16. Dinakar Peri, “Two Years Since ASAT Test, DRDO Working on Several Key Space Technologies,” The Hindu, March
+26, 2021, 
+space-technologies/article34171447.ece.
+17. Indranil Roy, “All You Need To Know About The PDV MK-II: India’s Satellite Killer,” Delhi Defence Review, April
+3, 2019, 
+satellite-killer/; Bulbul Khan, Sk Ahamed Ali, Sanjay Kumar Srivastava, Rajesh Kumar Gupta, Pulkit Kumar,
+“Mission Shakti aka Project XSV-1: India’s First Anti- Satellite Test (ASAT),” 2025, 
+publication/390096204_Mission_Shakti_aka_Project_XSV-1_India’s_First_Anti-_Satellite_Test_ASAT.
+Indian Direct-Ascent Anti-Satellite Testing • 4
+
+18. Frequently Asked Questions, India’s Anti-Satellite Missile Test conducted on 27 , Ministry of
+External Affairs, Government of India, March 27, 2019, 
+19. Snehesh Alex Philip, “DRDO Rules Out A-SAT Tests In Lower Earth Orbits, But Keeps Options Open in Higher
+Orbits,” The Print, April 6, 2019, 
+but-keeps-options-open-in-higher-orbits/217879/.
+20. Marco Langbroek, “Why India’s ASAT Test Was Reckless: Publicly available data contradicts official assurances
+about its first anti-satellite test,” The Diplomat, April 30, 2019, 
+asat-test-was-reckless/.
+21. “Space Threat Assessment 2020,” Center for Strategic and International Affairs, , https://
+missilethreat.csis.org/analysis/space-threat-assessment-2020/.
+22. Data compiled from the public catalog maintained by the US military at 
+Indian Direct-Ascent Anti-Satellite Testing • 5
+
+525 Zang Street, STE. D 1779 Massachusetts Ave. NW
+Broomfield, CO 80021 USA Washington, DC 20036 USA
+v : + 1 303 554 1560 v : + 1 202 568 6212
+e : info@swfound.org
+SWF Publication: FS26/4
+Published: 26.06

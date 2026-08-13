@@ -1,7 +1,7 @@
 # Ignorar archivos de datos locales
-data/raw/
-data/chunks/
-data/*.jsonl
+lib/data/raw/
+lib/data/chunks/
+lib/data/*.jsonl
 # Ignorar archivos de índice de FAISS
 indices/
 *.faiss
@@ -18,5 +18,5 @@ __pycache__/
 
 .DS_Store
 
-# PDF del spec descargado suelto en la raíz (material de referencia, no del proyecto)
-CODEFEST_2026-1 (1).pdf
+# PDF del spec descargado suelto (material de referencia, no del proyecto)
+lib/docs/CODEFEST_2026-1 (1).pdf

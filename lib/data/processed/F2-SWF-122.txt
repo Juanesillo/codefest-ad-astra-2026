@@ -1,0 +1,252 @@
+Fact Sheet SUMMARY
+COMMERCIAL
+Over the past two decades, several countries have begun
+AND CIVIL
+developing rendezvous and proximity (RPO) technologies for
+non-military purposes such as satellite inspection, refueling,
+ROBOTIC
+repairs, on-orbit assembly, and debris removal. In addition to
+RENDEZVOUS government-funded programs, companies have also begun
+developing, testing, and operationalizing capabilities to
+AND PROXIMITY
+provide commercial on-orbit satellite servicing capabilities
+such as life extension, repair, refueling, and inspection. In
+OPERATIONS
+, the first commercial satellite servicing mission
+ successfully docked with and repositioned a commercial
+communications satellite in the geosynchronous region. In
+CONTACT: VICTORIA SAMSON
+VSAMSON@SWFOUND.ORG early 2022, China successfully removed a dead satellite from
+GEO to the graveyard region. Several additional commercial/
+civil demonstrations and operational missions are planned
+over the next few years.
+RENDEZVOUS AND PROXIMITY OPERATIONS
+(RPO) AND ON-ORBIT SERVICING (OOS)
+Proximity operations are a series of orbital maneuvers executed to place and maintain a spacecraft in
+the vicinity of another space object on a relative planned path for a specific time duration to accomplish
+mission objectives. Rendezvous is a process whereby two space objects, artificial or natural bodies, are
+intentionally brought close together through a series of orbital maneuvers at a planned time and place.
+Taken together, RPO technologies enable a wide range of capabilities to support civil and commercial
+on-orbit satellite servicing (OOS) capabilities such as inspection, repair, refueling, assembly, and life
+extension. RPO capabilities can also be used for military and intelligence space activities such as
+intelligence, surveillance, and offensive weapons such as co-orbital anti-satellites.¹
+CIVIL ROBOTIC RPO AND OOS TECHNOLOGY
+DEVELOPMENT AND TESTING
+While RPO capabilities have a long history in human spaceflight, the past twenty years have shown a
+growing focus on developing robotic versions of these same capabilities. This focus includes government
+funding to conduct research and development of underlying technologies, technology transfer to
+industry, and industry efforts to commercialize the technology and identify customers.²
+The first robotic RPO mission to be categorized as a civil operation was the Japan
+ORIHIME and HIKOBOSHI test conducted by the Japan Aerospace Exploration Agency (JAXA). As part of
+the Engineering Test Satellite VII, the servicer satellite (Orihime) orbited the client satellite (Hikoboshi)
+and became the first successful instance of autonomous robotic rendezvous and docking with another
+space object.³ While orbiting, Orihime took pictures, inspecting Hikoboshi before redocking and finishing
+the autonomous test.
+On April 14, 2005, NASA launched the DART satellite to conduct an autonomous rendezvous experiment
+Commercial and Civil Robotic Rendezvous and Proximity Operations • 1
+
+with a U.S. Navy communications satellite, MUBLCOM.⁴ DART ended
+up “bumping” into MUBLCOM during the test but both satellites were
+unharmed. An after-action report concluded that the incident was
+due to a malfunction of the automated rendezvous system, although
+not all details were released due to export control and classification
+restrictions.
+In 2010, Sweden began an RPO mission of their own focusing on
+autonomous guidance and navigation experiments.⁵ The pair of
+satellites in the PRISMA mission, PRISMA Target and Main, were
+also commonly known as Mango and Tango. This close-approach
+experiment also provided GPS navigation testing for future
+formation flying as well as other technology experiments for various Prisma’s Mango & Tango.
+European partners. Image credit: European Space Agency
+ marked the first university-led test of RPO capabilities.
+BEVO-2 and AggieSat4 were part of the second LONESTAR mission
+aimed at testing in-space navigation capabilities built and conducted by the University of Texas and Texas
+A&M.⁶ BEVO-2 was deployed from AggieSat4 after both were released from the ISS. The pair of satellites
+proceeded to practice communication and data exchange while station-keeping and updating their
+navigation. This marked a key capability to remotely conduct accurate communication transfer and flying
+controls with navigation and guidance techniques.
+As part of their program to develop OOS capabilities to support future missions, NASA had two missions
+focused on on-orbit servicing, assembly, and manufacturing (OSAM), dubbed OSAM-1 and OSAM-
+2. OSAM-1’s primary mission was to demonstrate the ability to refuel a satellite, but also included a
+robotic arm known as SPIDER that would demonstrate the ability to assemble an antenna in space.
+However, NASA announced in that it was canceling OSAM-1 due to it being years delayed
+and heavily over its budget, and in , NASA announced that it was wrapping up spending
+on the program by the end of the month.⁷ OSAM-2 involved a satellite called Archinaut One that would
+build, assemble, and deploy its own operational solar array; it was concluded in 2023 prior to a flight
+demonstration.⁸
+Other commercial and civil RPO developments include Italy’s D-Orbit ION launched in ,
+which offered rideshare opportunities to bring satellites to their operational orbits faster than typical
+drifting procedures.⁹ Additionally, Japanese start-up Astroscale’s ELSA-d servicer launched in and successfully demonstrated the ability to rendezvous, inspect, and capture another object
+to support future active debris removal missions.¹⁰ The Swiss company ClearSpace originally had a
+contract from the European Space Agency to remove a 100-kg upper stage adapter from orbit,¹¹ but in
+2024, the ClearSpace-1 mission was assigned a new target due to the original one hitting some debris
+and becoming too complex of a challenge. Planned for 2028,12 ClearSpace-1 will rendezvous with and
+capture the ESA’s Project for On-Board Autonomy-1 (Proba-1) satellite, followed by a reentry in the Earth’s
+atmosphere.13
+On October 24, 2021, China launched the SJ-21 satellite for a space debris mitigation mission.14 On
+December 25, 2021, the SJ-21 rendezvoused with the Compass G2, a defunct Chinese navigation satellite.
+Commercial and Civil Robotic Rendezvous and Proximity Operations • 2
+
+View of IS-901 from MEV-1 while docking.
+Image credit: Northrop Grumman.
+The Compass G2 had experienced a fragmentation event in 2016
+which released six trackable pieces.15 The SJ-21 docked at some
+point and on January 21, 2022, used its onboard propulsion to pull
+the Compass G2 to an altitude above the geostationary belt.16
+On February 18, 2024, Astroscale Japan launched the Adras-J
+satellite for a debris inspection demonstration mission. Between
+April 17 and November 30, 2024, Adras-J conducted close
+approaches, fixed-point observations, and fly-around observations
+with an H-2A rocket upper stage. On November 30, 2024, Adras-J
+successfully conducted a final close approach at a distance
+of 15 meters from the upper stage. Adras-J did not reach its
+intended final distance because an autonomous abort was triggered by the satellite’s onboard collision
+avoidance system.17
+There have also been two commercial satellite servicing missions. The Mission Extension Vehicle 1 (MEV-
+1), a satellite developed by SpaceLogistics (a subsidiary of Northrop Grumman), docked with the Intelsat
+901 (IS-901) satellite in just above the geostationary belt and then brought it down to GEO to
+provide life-extension and repositioning services until , when it brought IS-901 back up to the
+GEO graveyard orbit and MEV-1 undocked.18 Its follow-up, MEV-2, launched in and docked
+with Intelsat 10-02 in in the geostationary belt to begin a similar five-year life extension
+mission.19
+While there have only been a few commercial missions to date, the advances in technology, changes in
+national policy, and new regulations could spark a significant increase in the future. Recently, multiple
+start-ups have offered their first clients satellite servicing, active debris removal, and end-of-life services;
+this could be a promising future for the commercial space industry. The Consortium for Execution of
+Rendezvous and Servicing Operations (CONFERS), created in 2017 with initial funding from the Defense
+Advanced Research Projects Agency (DARPA), today has more than 80 members from several countries
+planning a wide range of future commercial OOS missions.20
+DUAL USE AND TRANSPARENCY
+The growing advances in commercial and civil RPO and OOS capabilities raise important questions about
+the distinction between their activities and RPO conducted for military or intelligence reasons. Increased
+transparency is needed, along with the establishment of norms of behavior and technical standards, to
+increase the safety of commercial and civil RPO and OOS and help distinguish them from military and
+intelligence activities.
+Commercial and Civil Robotic Rendezvous and Proximity Operations • 3
+
+Summary of Known Commercial and Civil RPO & OOS Activities in Space
+Date of Servicer Client
+Country Launch Site Notes
+Activity Satellite Satellite
+Tanegashima Demonstrated autonomous docking and satellite
+Japan Nov. 1997 ORIHIME HIKOBOSHI
+Space Center servicing with onboard mounted robotic system
+April 14, NASA DART bumped into military satellite during
+USA MUBLCOM DART Vandenberg AFB
+2005 proximity test, unclear if offensive test
+Aug. 2010 - PRISMA Dombarovskiy Air Demonstrated autonomous guidance and navigation
+Sweden PRISMA Main
+ Target Base experiments
+Pair of satellites deployed from ISS to practice station
+USA Jan. 2016 BEVO-2 AggieSat4 Cape Canaveral
+keeping and navigation
+Jan. 25,
+MEV-1 successfully docked to provide mission extension
+USA 2020 - Apr. Intelsat 901 MEV-1 Baikonur
+services for Intelsat 901 for five years
+9, 2025
+AC-10B entered a proximity orbit around AC-10A and
+June 15-29, Aerocube Aerocube
+USA Wallops used its on-board camera to take resolved images of
+2020 10-B 10-A
+AC-10A
+Sept. 3 - ION performed rendezvous operations with multiple
+D-Orbit Guiana Space
+Italy Oct. 28, Multiple satellites to bring it to its designated orbit faster than
+ION Center
+2020 normal drifting
+April 12,
+Intelsat Guiana Space MEV-2 successfully docked with Intelsat 10-02 to provide
+USA 2021- MEV-2
+10-02 Center mission extension services
+present
+April 27, NEO-1 planned to release a small piece of pseudo-debris
+Taiyuan Satellite
+China 2021 NEO-1 ? and then capture it again using a net system. Mission
+Launch Center
+(launch) status is unknown
+ELSA-D magnetically docked with the client sub satellite
+ ELSA-D
+Japan ELSA-D Client Baikonur and demonstrated RPO stationkeeping and on-orbit
+- Servicer
+inspection
+SJ-21 docked with Compass G2 and towed it to the GEO
+Oct 2021 - Xichang Satellite
+China SJ-21 Compass G2 graveyard, before detaching and returning to active GEO
+Jan. 2022 Launch Center
+region
+One cubesat performed the role of a servicing vehicle for
+Kennedy Space
+USA Apr-23 LINUSS1 LINUSS2 the other. The mission was used by Lockheed Martin to
+Center
+test various algorithms, SSA cameras, and the new ASPIN
+ADRAS-J successfully approached a rocket upper stage
+in LEO within 15 meters, which is the closest approach
+Feb. - Nov. H-2A rocket Rocket Lab
+Japan ADRAS-J of space debris by a commercial space company to date.
+2024 upper stage Launch Complex
+ADRAS-J reached a 15 meter distance on November 30,
+2024.
+Commercial and Civil Robotic Rendezvous and Proximity Operations • 4
+
+ENDNOTES
+1. NASA Goddard Space Flight Center, “On Orbit Satellite Servicing Study Project Report,” , https://
+nexis.gsfc.nasa.gov/images/NASA_Satellite_Servicing_Project_Report_2010A.pdf.
+2. Brian Weeden, “The Evolution of Space Rendezvous and Proximity Operations and Implications for National
+Security,” September 6, 2018, 
+eng-0-804.pdf.
+3. Mitsushige Oda, “On-orbit Satellite Servicing,” JAXA, May, 2012, 
+oda_final_presentation_2012_workshop.pdf; “About Engineering Test Satellite VII ‘KIKU-7,’” JAXA, accessed July
+1, 2020, 
+4. “Overview of the DART Mishap Investigation Results,” NASA, accessed July 1, 2020, 
+pdf/148072main_DART_mishap_overview.pdf.
+5. Stephen Clark, “Sweden’s Prisma Satellites Accomplish Close Approach,” Spaceflight Now, October 25, 2010,
+
+6. “Pair of Satellites Ejected from ISS for In-Space Navigation Exercise,” Spaceflight 101, January 29, 2016, https://
+spaceflight101.com/iss-expedition-46/pair-of-satellites-ejected-from-iss-for-in-space-navigation-exercise/.
+7. “OSAM-1: On-Orbit Servicing, Assembly, and Manufacturing-1,” NASA’s Exploration and In-space Services,
+accessed March 27, 2021, Jeff Foust, “NASA reaffirms decision
+to cancel OSAM-1,” SpaceNews, September 5, 2024, 
+cancel-osam-1/.
+8. “On-Orbit Servicing, Assembly, and Manufacturing-2 (OSAM-2),” NASA, last updated October 30, 2023, https://
+
+9. “In-Orbit Now: Space Transportation. Reinvented,” D-Orbit SpA, accessed March 28, 2021, 
+dorbit.space/.
+10. “Astroscale’s ELSA-d Mission Successfully Completes Complex Rendezvous Operation,” Astroscale, May 4, 2022,
+
+11. “A strong Public Interest and a Sustainable message for the future,” Clearspace Today, accessed March 31,
+2021, 
+12. “Clearspace-1,” The European Space Agency, Accessed May 19, 2025, 
+ClearSpace-1.
+13. Debra Werner, “Major changes approved for ClearSpace-1 mission,” SpaceNews, April 24, 2024, https://
+spacenews.com/major-changes-approved-for-clearspace-1-mission/.
+14. Stephen Clark, “China says its launched a space debris mitigation tech demo satellite,” Spaceflight Now,
+October 25, 2021, 
+mitigation-tech-demo-satellite/.
+15. “Orbital Debris Quarterly News,” NASA Orbital Debris Program Office, Volume 20, Issue 4, , https://
+orbitaldebris.jsc.nasa.gov/quarterly-news/pdfs/odqnv20i4.pdf.
+16. Theresa Hitchens, “China’s SJ-21 ‘tugs’ dead satellite out of GEO belt: Trackers,” Breaking Defense, January 26,
+2022, 
+17. “Astroscale’s ADRAS-J Achieves Historic 15-Meter Approach to Space Debris,” Astroscale, December 11, 2024,
+
+Commercial and Civil Robotic Rendezvous and Proximity Operations • 5
+
+18. “Northrop Grumman Successfully Completes Historic First Docking of Mission Extension Vehicle with Intelsat
+901 Satellite,” Northrop Grumman, February 26, 2020, 
+northrop-grumman-successfully-completes-historic-first-docking-of-mission-extension-vehicle-with-intelsat-
+901-satellite; “Intelsat Completes Satellite Life-Extension Mission, Makes Space History,” Intelsat, April 9, 2025,
+
+Andrew Jones, “2 private satellites undock after pioneering life-extension mission,” Space.com, April 18,
+2025, 
+extension-mission.
+19. “MEV-1,2,” Gunter’s Space Page, Accessed March 29, 2021, 
+20. The Consortium for Execution of Rendezvous and Servicing Operations (CONFERS), 
+satelliteconfers.org/about-us, accessed May 19, 2025.
+Commercial and Civil Robotic Rendezvous and Proximity Operations • 6
+
+525 Zang Street, STE. D 1779 Massachusetts Ave. NW
+Broomfield, CO 80021 USA Washington, DC 20036 USA
+v : + 1 303 554 1560 v : + 1 202 568 6212
+e : info@swfound.org
+SWF Publication: FS25/3
+Published: 25.06

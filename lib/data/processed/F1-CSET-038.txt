@@ -1,0 +1,633 @@
+Translation
+The following document is a guide to how China should formulate AI-related standards. The
+guide governs how China crafts standards for both AI technology itself and for applications
+of AI in various industries, and is relevant for either domestic or international standards-
+setting. Note that although this is the “2024 edition” of the guide, CSET has not observed a
+“2025 edition” as of the publication date of this translation.
+Title
+Guidelines for the Construction of a Comprehensive Standardization System for the National Artificial
+Intelligence Industry (2024 Edition)
+国家人工智能产业综合标准化体系建设指南（2024版）
+Authors
+Ministry of Industry and Information Technology (MIIT; 工业和信息化部; 工信部), Office of the Central
+Cyberspace Affairs Commission (中央网络安全和信息化委员会办公室; 中央网信办 [aka the Cyberspace
+Administration of China, or CAC]), National Development and Reform Commission (NDRC; 国家发展和
+改革委员会; 国家发展改革委; 国家发改委), and Standardization Administration of China (SAC; 国家标准
+化管理委员会; 国家标准委)
+Source
+Website of the Central People’s Government of the People’s Republic of China (中国政府网). The
+Guidelines are dated June 5, 2024 and were uploaded to the website on July 2, 2024.
+The Chinese source text is available online at:
+
+An archived version of the Chinese source text is available online at: 
+Translation Date Translator Editor
+October 1, 2025 Etcetera Language Group, Inc. Ben Murphy, CSET Translation Manager
+Guidelines for the Construction of a Comprehensive Standardization
+System for the National Artificial Intelligence Industry
+(2024 Edition)1
+These Guidelines have been formulated in order to thoroughly implement the
+directives of the Party Central Committee and the State Council on accelerating the
+development of artificial intelligence (AI), to put into practice the National
+1 Translator's note: CSET previously translated a draft version of these guidelines. This translation is
+available online at: 
+draft/.
+
+Standardization Development Outline2 and the Global AI Governance Initiative,3 to
+further enhance the systematic planning of AI standardization efforts, to accelerate the
+development of a standards system that supports the high-quality growth of the AI
+industry and meets the demands of high-level empowerment through “AI+,” and to
+strengthen the foundational role of standards in driving technological advancement,
+fostering enterprise growth, guiding industrial transformation and upgrading, and
+safeguarding industrial security.
+I. Industry Development Status
+AI is a basic and strategic technology that is leading a new round of scientific and
+technological (S&T) revolution and industrial transformation. It is rapidly becoming a
+key engine for developing new quality productive forces (新质生产力), accelerating
+deep integration with the real economy, comprehensively empowering new-style
+industrialization (新型工业化), and profoundly changing the mode of industrial
+production and the form of economic development. It will play an important supporting
+role in accelerating the construction of a manufacturing powerhouse, a cyber
+powerhouse,4 and a Digital China. The AI production chain includes four parts: the
+basic layer, framework layer, model layer, and application layer. The basic layer mainly
+includes computing power (“compute”), algorithms, and data; the framework layer
+mainly refers to the deep learning frameworks and tools used for model development;
+the model layer mainly refers to technologies and products such as large models; and
+the application layer mainly refers to the applications of AI technology in industry
+scenarios. In recent years, China's AI industry has achieved rapid development in
+technological innovation, product creation, and industry applications, forming a market
+with a massive scale. With the accelerated iteration of new technologies as
+represented by large models, the AI industry has presented new features such as
+collective breakthroughs (群体突破) in innovative technology, integrated development
+of industry applications, and deep collaboration through international cooperation.
+There is an urgent need to improve the system of standards for the AI industry.
+2 Translator’s note: CSET’s English translation of China’s National Standardization Development Outline
+is available online at: 
+committee-and-the-state-council-publish-the-national-standardization-development-outline/.
+3 Translator’s note: Archived versions of the text of the English and Chinese versions of China’s Global
+Governance Initiative are available online, respectively, at and
+
+4 Translator's note: This translation renders the Chinese word 强国 qiángguó—which literally means
+"strong nation"—in English as "powerhouse," as in the phrases "manufacturing powerhouse" (制造强国)
+and "cyber powerhouse" (网络强国). For a more thorough discussion in English of the Chinese word
+qiángguó, see: 
+qiangguo/.
+
+II. Overall Requirements
+Guided by Xi Jinping Thought on Socialism with Chinese Characteristics for a New
+Era, fully implement the spirit of the 20th Party Congress and the Second Plenum of
+the 20th Central Committee, conscientiously implement the deployment requirements
+of the Central Economic Work Conference and the Nationwide New-Style
+Industrialization Promotion Conference (全国新型工业化推进大会), fully, accurately,
+and comprehensively implement the new concept of development (新发展理念),
+coordinate high-quality development and high-level security, accelerate the
+empowerment of new-style industrialization, take seizing the development
+opportunities in the AI industry as our goal, improve the top-level design of AI
+standards work, strengthen collaboration in standards work through the production
+chain, coordinate the research, formulation, implementation, and internationalization of
+standards, and provide solid technical support for promoting the high-quality
+development of China's AI industry.
+By 2026, the degree of linkage between standards and industrial technological
+innovation shall continue to increase, and over 50 new national standards and industry
+standards shall be formulated, accelerating the formation of a standards system to
+promote the high-quality development of the AI industry. More than 1,000 companies
+shall engage in standards indoctrination, implementation, and promotion, further
+highlighting the innovation and development performance of standards service
+companies (标准服务企业). We shall participate in the formulation of at least 20
+international standards, promoting the globalized development of the AI industry.
+Persist in being innovation-driven: Optimize the linkage mechanisms between
+industrial S&T innovation and standardization, accelerate research on key general
+purpose technologies in the field of AI, and promote the efficient conversion of
+advanced and applicable S&T innovation achievements into standards.
+Persist in being application-led: Persist in making enterprises the mainstay and
+being market-oriented, look to industry application needs, strengthen the iteration of
+innovation achievements and the construction of application scenarios, and
+collaboratively promote the integrated application of AI along with key industries.
+Persist in industry collaboration: Strengthen collaboration in standardization work
+throughout the entire AI production chain, strengthen technical organization cooperation
+in cross-industry and cross-field standardization, and create a standardization model for
+the integrated development of small-, medium-sized, and large enterprises.
+Persist in open cooperation: Deepen international exchanges and cooperation for
+
+standardization, encourage Chinese enterprises and public institutions5 to actively
+participate in international standardization activities, and work with upstream and
+downstream enterprises in the global production chain to jointly formulate international
+standards.
+III. Construction Philosophy
+(1) Structure of the AI standardization system
+The AI standards system architecture includes seven parts: basic general purpose,
+basic support, key technology, intelligent products and services, empowerment of
+new-style industrialization, industry applications, and safety6 and governance
+standards, as shown in Figure 1. Here, the basic general purpose standards are the
+basic, framework, and overall standards for AI. Basic support standards mainly provide
+requirements for technical aspects such as data, compute, and algorithms, laying a
+solid technical foundation for the development of the AI industry. Key technology
+standards mainly regulate the technical requirements for AI text, speech, images, and
+the technologies used in fields such as human-machine hybrid augmented intelligence
+(人机混合增强智能), intelligent agents (智能体), cross-media intelligence, and
+embodied AI, promoting innovations in and applications of AI technology. Intelligent
+product and service standards mainly regulate intelligent product and service models
+formed by AI technology. Standards for empowering new-type industrialization
+primarily specify the technical requirements for applying artificial intelligence to enable
+full-process intelligent transformation in manufacturing and to support intelligent
+upgrades in key industries. Industry application standards mainly specify the technical
+requirements for AI empowerment of various industries, providing technical support for
+AI empowerment of industry applications and promoting the development of industrial
+intelligentization. Safety and governance standards mainly specify the requirements
+for AI safety, security, and governance, providing safety and security assurance for the
+development of the AI industry.
+5 Translator's note: "Public institutions" (事业单位) are organizations created and led by Chinese
+government departments that provide social services. Unlike state-owned enterprises (SOEs), public
+institutions do not create material products and do not generate income. Public institutions are not
+considered government agencies, and their employees are not civil servants. Most public institutions are
+fully or partially government-funded, but some fully privately funded (but still government-led) public
+institutions exist. Public institutions typically provide services in areas such as education, science and
+technology, culture, health, and sanitation.
+6 Translator's note: The Chinese word 安全 encompasses the meanings of both "safety" (protection from
+accidental harm) and "security" (protection from deliberate harm). In this translation, it is variously
+translated as "safety," "security," or "safety and security" at the translator's discretion.
+
+y g ol o ni mr e T A A
+e
+g a n a M D A n oit a zil airt s u d n i f o t n e mr e w o e p w l m y e t E E n s- gnirutcafuna m seirts u d ni y e K ssec l o lu rp F - n gis e d d n a D & A R E EF E H E R n oit a dil a v d n a G a E w g nits et t o B li P E q C u o m i i n p n a s m d t u e u g nir utc af u n a m e m r s n i d n a n oitc u d o C r P E t e a t r r l y i s n g i d o n u o d s eci vr es s d u t s s g nit e kr a D M E r y tr y t n e m e g a n a m s n oit ar e p E O E s n oit acil p p a l airts u d nI F s eitic tr a m A S F ec n a nif tr a m S F F g nit u p m oc t n e gill et n i scitsi g ol tr a m S G F cifit n ei B c S F n oit ac u d e er utl ucir g a tr a m S C F tr a m S H F er ac htl a e h y gr e n e tr a m D S F tr a m S I F n oitc et or p n oit atr o ps n art l at n e m n ori v n e tr a m S J F tr a m S E F ytir u c e s d n a yt ef A a G S
+m G
+pr u p l ar e
+n e g cis a B A
+cr a e c n
+er ef B e A R t n e Pro s d e u rv D c i t c s e a s nd D
+C
+D
+A
+A D
+M
+I n D
+a
+te i
+c
+g l
+h
+l it
+i
+i
+n
+g a
+e
+l e n h
+le
+t u
+a
+r m o
+rn
+a b
+i
+n o
+n
+s t
+g
+s D
+CB
+B
+K
+S S
+n
+m c m o
+o
+a n a
+w
+r r v t t
+l
+e D
+e
+v s y
+d
+e E e a
+g
+h r n v
+e
+i c c i e c l
+g
+e e s
+r
+s s
+a p
+a
+h
+n
+s
+d
+C
+D t
+C
+e C r
+L
+m S
+a
+i m
+r
+n
+g
+a a
+e
+l r t
+m
+d m e
+o
+v o
+d
+ic b
+e
+e i
+l
+l s
+s
+e
+nr e v o g
+y t d e n f S a a
+o h a
+es
+er ut c
+eti
+s u S E A tech C n K ol e o y g ies C C D G N B r p i a o e r t c m o u o c r e g a e t l n s r i s l i c t a i i n n o f g e n g a u t a u g re e C C E h H y I n b H i t r n e u id t l m e l a i l g a l u i n e g g n - e m m t n e s c a p e n c e t h e e in d c e h C C I F I n C t o e m llig pu en te t r a v g is e i n o t n s e c
+n
+b a ni
+at
+CJ Group intelligence CK in C te ro ll s ig s- e m nc e e d ia CL Embodied AI G B G
+n oit
+a
+ul a v e
+d
+n a g
+nit
+s C e A T
+ytili
+su B p a
+B
+p s o ic r t s
+mroftalp
+s mroftalp
+era
+wdra H
+era wtfoS
+BD C
+B
+o
+F
+B
+m
+B
+S B
+p
+y
+S
+H s
+u
+m
+t
+t
+e
+i
+S
+a
+n
+m o
+r
+g
+t
+f s t
+e
+c
+w o
+q
+h
+f a
+u
+i
+t
+p
+w r
+ip
+s
+e a
+m
+a r n e
+e
+d
+nt
+h ardwa
+B
+re
+B
+E
+B c
+C
+C
+G o f
+S
+o
+l r l D
+m
+m
+a a e m b
+p
+a
+v o
+r
+u
+e e r
+t
+w
+t
+a l
+e
+s
+o t o
+e
+p i
+c
+o r
+n
+m
+e
+k n
+s
+n
+s
+o
+e
+t
+n
+r
+e
+s
+t
+r s
+e c n a nr e
+v
+o
+D
+ata BA Basic data services
+Figure 1. Structural diagram of the AI standards system
+(2) AI standards system framework
+The AI standards system framework is composed of seven main parts: basic
+general purpose, basic support, key technology, intelligent products and services,
+empowerment of new-style industrialization, industry applications, and safety and
+governance standards, as shown in Figure 2.
+
+AI standards system framework
+A Basic general purpose B Basic support C Key technologies D Products and services
+y g ol o ni mr e T A A er utc eti h cr a ec n er ef e R B A n oit a ul a v e d n a g nits C e A T t n e m e g a n a D M A ytili b a ni ats u S E A r e ht O F A s eci vr es at a d cis a B A B s pi hc tr a m S B B sr os n es tr a m S C B t n e m pi u q e g nit u p m o C D B sr et n ec et u p m o C E B er a wtf os m ets y S F B s kr o w e m arf t n e m p ol e v e D G B n oit ar o b all oc er a w dr a h d n a er a wtf o S H B r e ht O I B g ni nr a el e ni hc a M A C s h p ar g e g d el w o B n K C sl e d o m e gr aL C C g niss ec or p e g a u g n al l ar ut a N D C hc e e ps t n e gill et nI E C n oisi v r et u p m o C F C n oiti n g oc er er ut a ef cirt e m oi B G C ec n e gill et ni d et n e m g u a H C dir b y h e n n i a h m c a u m H - st n e g a t n e gill et nI I C ec n e gill et ni p u or G J C ec n e gill et n ss i o a r i d C e K m C - d ei d o b m E L I A C r e ht O M C st o b or t n e gill et nI A D s ec n a y e v n oc d n a tr s a e m l c S i h B e D v s eci v e d l a ni mr et eli b o m tr a m S C D s n a m u h l ati g D i D D s eci vr es tr a m E D S r e ht O F D
+E Empowerment of new-style F Industrial applications G Security and
+industrialization governance
+n gis e d d n a D & A R E n oit a dil a v d n a g nits et t o B li P E g nir utc af u n a m d n a n oitc u d o C r P E s eci vr es g nit e kr a D M E
+n
+s
+e
+n m o e it g a a r n e a p E m O E yrts u d ni sl air et a m w a F R E yrts u d ni s d o o g r e m us n G o C E yrts u d ni t n e m pi u H q E E s eitic tr a m A S F g nit u p m oc t n e gill et ni cifit n ei B c S F er utl u cir g a tr a m S C F y g r e n e t r a m S D F n oitc et or p l at n e m n ori v n e tr a m S E F ec n a nif tr a m F S F scitsi g ol tr a m S G F n oit ac u d e tr a m S H F er ac htl a e h tr a m S I F n oit atr o ps n art tr a m S J F r e ht O K F ytir uc es d n a yt ef A a G S ec n a nr e v o G B G r e ht O C G
+t
+Figure 2 AI Standards System Framework
+
+IV. Key directions
+(1) Basic general purpose standards
+Basic general purpose standards mainly include AI terminology, reference
+architecture, testing and evaluation, management, and sustainability.
+1. Terminology standards: These standards standardize the conceptual
+definitions used in AI-related technologies and industrial applications, providing a
+reference for the formulation of other standards and AI research. They include
+standards for definitions, categories, and examples of AI terms.
+2. Reference architecture standards: These standards standardize the logical
+relationships and interactions of AI technologies, applications, and systems, and
+include standards on AI reference architectures, the artificial intelligence system life
+cycle, and stakeholders.
+3. Testing and evaluation standards: These standards standardize the indicator
+requirements for testing and evaluation of the maturity of AI technology development,
+for adaptability between AI system architectures, for industry development levels, and
+for enterprise intelligentization (智能化) capabilities. They include standards for AI-
+related service capability maturity assessments, AI general applicability (通用性)
+testing guidelines, assessment principles and level requirements, corporate capability
+frameworks, and evaluation requirements.
+4. Management standards: These standards standardize the management
+requirements and evaluation of all personnel and organizations involved in the life
+cycle of AI technology, products, systems, or services. They include standards for
+management requirements for AI organizations, AI management systems,
+categorization methods, and evaluation processes.
+5. Sustainability standards: These standards standardize the technical
+frameworks, methods, and metrics used to measure the impact of AI on the
+environment and balance industrial development and environmental protection. They
+include standards for open-source basic frameworks for AI software that promote
+ecological sustainability, energy efficiency evaluation of AI systems, AI and resource
+utilization, carbon emissions, and scrap parts disposal.
+(2) Basic support standards
+Basic support standards mainly cover basic data services, smart chips, smart
+sensors, computing equipment, compute centers, system software, development
+frameworks, and software and hardware collaboration standards.
+
+1. Basic data services standards: These standards standardize the requirements
+for data services involved in the R&D, testing, and application of AI. They include
+standards for data acquisition, data labeling, data governance, and data quality.
+2. Smart chip standards: These standards standardize general technical
+requirements related to smart chips. They include standards for smart chip
+architecture, instruction sets, unified programming interfaces and related test
+requirements, chip data formats, and protocols.
+3. Smart sensor standards: These standards standardize the interface protocols,
+performance evaluation, test methods, and other technical requirements for new
+single-mode and multimodal sensors. They include standards for smart sensor
+architecture, instructions, data formats, information extraction methods, information
+fusion methods, functional integration methods, performance indicators, and
+evaluation methods.
+4. Computing equipment standards: These standards standardize the technical
+requirements and testing methods for AI accelerator cards, AI acceleration modules, AI
+servers, and other computing equipment as well as their enabling software. They
+include standards for AI computing equipment virtualization methods, AI accelerator
+module interface protocols and test methods, and the access protocols, functions,
+performance, energy efficiency test methods, and operations and maintenance (O&M)
+requirements of enabling software.
+5. Compute center standards: These standards standardize the technical
+requirements and evaluation methods for AI-oriented infrastructure such as large-
+scale computing clusters, new-style data centers (新型数据中心), intelligent computing
+centers, foundational network communications, compute networks, and data storage.
+These include standards for reference architectures, computing capacity evaluation,
+technical specifications, stability requirements, and service interfaces.
+6. System software standards: These standards standardize the software and
+hardware technical requirements of the AI system layer. They include standards for
+software and hardware compiler architecture and optimization methods, AI operator
+libraries, chip software runtime libraries and debugging tools, and AI software and
+hardware platform computing performance.
+7. Development framework standards: These standards standardize technical
+requirements related to AI development frameworks. They include standards for the
+functional requirements of development frameworks, interface protocols between
+application systems, neural network model expression, and compression.
+8. Software and hardware collaboration standards: These standards
+
+standardize the adaptation requirements between smart chips, computing equipment,
+and other hardware and system software, development frameworks, and other
+software. They include standards for the adaptation requirements of smart chips and
+development frameworks and the interaction protocols, execution efficiency, and
+collaborative performance for AI computing task scheduling, distributed computing,
+and other software and hardware collaborative tasks.
+(3) Key technology standards
+Key technology standards mainly cover machine learning, knowledge graphs,
+large models, natural language processing, intelligent speech, computer vision,
+biometric feature recognition, human-machine hybrid augmented intelligence,
+intelligent agents, group intelligence (群体智能), cross-media intelligence, and
+embodied AI.
+1. Machine learning standards: These standards standardize machine learning
+training data, data preprocessing, model expression and formats, and model
+performance evaluation. They include standards for self-supervised learning,
+unsupervised learning, semi-supervised learning, deep learning, and reinforcement
+learning.
+2. Knowledge graph standards: These standards standardize the description,
+construction, O&M, sharing, management, and application of knowledge graphs. They
+include standards for knowledge representation and modeling, knowledge acquisition
+and storage, knowledge fusion and visualization, knowledge computing (知识计算) and
+management, knowledge graph quality evaluation and interconnection, knowledge
+graph delivery and application, and knowledge graph system architecture and
+performance requirements.
+3. Large model standards: These standards standardize the technical
+requirements for areas such as large model training, inference, and deployment. They
+include standards for general technical requirements for large models, evaluation
+metrics and methods, service capability maturity assessment, and generated content
+evaluation.
+4. Natural language processing standards: These standards standardize the
+technical requirements and evaluation methods for language information extraction,
+text processing, and semantic processing in natural language processing. They include
+standards for parsing (语法分析), semantic understanding, semantic expression,
+machine translation, automatic summarization, automatic question answering, and
+large language models (LLMs).
+5. Intelligent speech standards: These standards standardize the technical
+
+requirements and evaluation methods for front-end processing, speech processing,
+speech interfaces, and data resources. They include standards for deep synthesis (深度
+合成) deepfake detection (鉴伪) methods, full-duplex (全双工) interaction, and LLMs.
+6. Computer vision standards: These standards standardize technical
+requirements and evaluation methods for image acquisition, image and video
+processing, image content analysis, three-dimensional computer vision, computational
+photography, and cross-media fusion (跨媒体融合). They include standards for
+functionality, performance, and maintainability.
+7. Biometric feature recognition standards: These standards standardize
+technical requirements for biometric sample processing and biometric data protocols,
+equipment, and systems. They include standards for biometric data exchange formats
+and interface protocols.
+8. Human-machine hybrid augmented intelligence standards: These standards
+standardize multi-channel, multimodal, and multidimensional interaction pathways,
+modes, methods, and technical requirements. They include standards for brain-
+computer interface, online knowledge evolution, dynamic self-adaptation (动态自适应),
+dynamic recognition, human-computer coordinated perception, and human-computer
+coordinated decision-making and control.
+9. Intelligent agent standards: These standards standardize the technical
+requirements for intelligent agents with general purpose large models as their focus,
+for basic agent functions, and for application architecture. They include standards for
+intelligent agent reinforcement learning, multi-task decomposition, inference, prompt
+engineering, intelligent agent data interfaces and parameter ranges, human-computer
+collaboration, intelligent agent autonomous operations, and multi-agent distributed
+consensus.
+10. Group intelligence standards: These standards standardize the technical
+requirements and evaluation methods for the control, formation, perception, planning,
+decision-making, and communication of group intelligence algorithms. They include
+standards for autonomous control, collaborative control, task planning, path planning,
+collaborative decision-making, and networked communication.
+11. Cross-media intelligence standards: These standards standardize the
+technical requirements for multimodal data processing, conversion analysis (转换分析),
+and fusion applications for text, images, video, audio, and other media. They include
+standards for data acquisition and processing, modal conversion, modal alignment,
+fusion and collaboration, and application expansion.
+12. Embodied AI standards: These standards standardize multimodal initiative
+
+and interaction, autonomous behavioral learning (自主行为学习), emulation and
+simulation, knowledge inference, embodied navigation, and group embodied AI.
+(4) Intelligent Product and Service Standards
+Intelligent product and service standards mainly cover intelligent robots, smart
+vehicles and conveyances (智能运载工具), smart mobile terminal devices (智能移动终
+端), digital humans, and smart services.
+1. Intelligent robot standards: These standards standardize the technical
+requirements for the application of artificial intelligence in the field of robotics. They
+include standards for intelligent perception and intelligent decision-making in robots.
+2. Smart vehicle and conveyance standards: These standards standardize the
+technical requirements for smart vehicle and conveyance perception, identification and
+prediction, collaboration and gameplay (博弈), decision-making and control, and
+evaluation. They include standards for environmental fusion perception, intelligent
+identification and prediction, intelligent decision-making and control, and multimodal
+testing and evaluation.
+3. Smart mobile terminal device standards: These standards standardize the
+technical requirements for AI applications in the field of mobile terminal devices. They
+include standards for image recognition, facial recognition, and intelligent speech
+interaction, as well as for the information accessibility and elder-friendliness of
+intelligent mobile terminal devices.
+4. Digital human standards: These standards standardize the technical
+requirements for digital human appearance, motion generation, speech recognition and
+synthesis, and natural language interaction. They include standards for digital human
+basic ability assessment, multimedia synthesis rendering, basic data collection
+methods, and identification and recognition methods.
+5. Smart service standards: These standards standardize services provided
+based on artificial intelligence technologies such as large models, natural language
+processing, intelligent speech, and computer vision. They include technical
+requirements and evaluation methods for model-as-a-service (MaaS) platforms, as
+well as standards for AI application services in specific scenarios, such as intelligent
+software development, smart design, and intelligent deepfake prevention (防伪).
+(5) Standards for Empowering New-Style Industrialization
+Standards for empowering new-style industrialization primarily include
+intelligentization standards for the entire manufacturing process. They include R&D
+and design, pilot testing and validation, production and manufacturing, marketing
+
+services, and operations management, as well as standards for intelligent upgrades in
+key industries.
+1. R&D and design standards: Develop standards for cross-domain knowledge
+integration, the generation of new design patterns, and human-computer coordinated
+research and development.
+2. Pilot testing and validation standards: Focus on high-precision, full-process
+simulation models; develop standards for intelligent virtual pilot testing and the
+application of new technologies in complex industrial scenarios.
+3. Production and manufacturing standards: Develop standards for
+intelligentized production processes, production line monitoring, and maintenance.
+4. Marketing service standards: To enhance the efficiency of marketing services,
+develop standards for intelligent customer service, digital humans, 3D product models,
+and user experience.
+5. Operations management standards: With a focus on improving the
+intelligentized capabilities of operations management, develop relevant standards for
+supply chain management, data management, and risk management.
+6. Key industry intelligent upgrade standards: For the raw materials industry,
+develop standards for the smooth coupling of large models with production line data,
+optimization of online monitoring and control, and process improvement. For the
+consumer goods industry, develop standards for demand forecasting and personalized
+customization. For the equipment industry, develop standards for intelligent equipment
+perception, interaction, control, collaboration, and autonomous decision-making.
+(6) Industry Application Standards
+Conduct standardization research in areas such as smart cities, scientific
+intelligent computing, smart agriculture, smart energy, smart environmental protection,
+smart finance, smart logistics, smart education, smart healthcare, smart transportation,
+and smart culture and tourism.
+(7) Safety and Governance Standards
+Safety and governance standards cover safety, security, and governance in the AI
+field.
+1. Safety and security standards: These standards standardize safety and
+security requirements throughout the lifecycle of AI technology, products, systems,
+applications, and services. They include standards for basic safety and security, data,
+algorithm, and model safety and security, network technology and system security,
+
+safety and security management and services, safety and security testing and
+evaluation, safety labeling, content identifiers, and product and application safety and
+security.
+2. Governance standards: Considering the actual needs of AI governance, these
+standards standardize the requirements for AI technical R&D and operational services,
+including technical requirements and evaluation methods for the robustness, reliability,
+and traceability of AI, AI governance support technology, and ethical governance
+requirements for the total AI life cycle. They include standards for AI ethical risk
+assessment, AI fairness, explainability, and other ethical governance technical
+requirements and evaluation methods, and AI ethical review.
+V. Assurance Measures
+(1) Improve organization building: Establish and improve technical
+organizations for standardization in the field of AI, coordinate the strengths of all
+stakeholders across industry, academia, research institutes, and users, as well as all
+segments of the production chain, and jointly advance the development of AI
+standards to build a sophisticated and applicable standards system for the AI industry.
+(2) Build a talent cadre: Encourage standardization research institutions to
+cultivate and recruit elite standardization talents and strengthen special training for
+standardization practitioners. Encourage enterprises, universities, research institutions,
+and other organizations to include standardization talents in the scope of their
+professional ability assessment and incentives and to build standardization talent tiers
+(人才梯队).
+(3) Increase indoctrination and promotion: Guide industry associations,
+standardization technical organizations, and national technical standards innovation
+bases to carry out indoctrination and training on AI standards systems and key
+standards for the benefit of enterprises. Guide enterprises to comply with relevant
+standards in the R&D, design, production, management, quality testing, and other
+stages and continuously improve the efficacy of standards in facilitating the high-
+quality development of industries.

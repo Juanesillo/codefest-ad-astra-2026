@@ -1,0 +1,1156 @@
+Fragmented
+Efforts
+Defense AI in Brasil
+Ein Projekt im Rahmen von
+João Paulo Moralez and Santiago Rivas
+DAIO Study 26|34
+
+About the Defense AI Observatory
+The Defense AI Observatory (DAIO) at the Helmut Schmidt University in Hamburg
+monitors and analyzes the use of artificial intelligence by armed forces. DAIO comprises
+three interrelated work streams:
+Culture, concept development, and organizational transformation in the context of
+military innovation
+Current and future conflict pictures, conflict dynamics, and operational experience,
+especially related to the use of emerging technologies
+Defense industrial dynamics with a particular focus on the impact of emerging
+technologies on the nature and character of techno-industrial ecosystems
+DAIO is an integral element of GhostPlay, a capability and technology development
+project for concept-driven and AI-enhanced defense decision-making in support of fast-
+paced defense operations. GhostPlay is funded by the Center for Digital and Technology
+Research of the German Bundeswehr (dtec.bw). dtec.bw is funded by the European Union
+– NextGenerationEU.
+Ein Projekt im Rahmen von
+
+Fragmented
+Efforts
+Defense AI in Brasil
+Ein Projekt im Rahmen von
+João Paulo Moralez and Santiago Rivas
+DAIO Study 26|34
+
+About the Authors
+João Paulo Moralez is a Brazilian journalist and photographer specializing in Aviation and
+Public Security. He holds a degree in Social Communication, with a specialization in Script-
+writing for Productions, and a postgraduate qualification in Organizational Communication
+and Public Relations from the Faculdade Cásper Líbero. He is the author of several articles
+published in specialized international magazines and of the books EMB-312 Tucano: Brazil’s
+turboprop success story (Vienna: Harpia Publishing, 2018), EMB-314 Super Tucano: Brazil’s
+turboprop success story continues (Vienna: Harpia Publishing, 2018), and AMX: Brazilian-
+Italian Fighter-Bomber (Vienna: Harpia Publishing, 2023).
+Santiago Rivas, born in Buenos Aires, Argentina, is a defense journalist, analyst, and
+consultant with 29 years of experience working all over Latin America. As a graduate of the
+Argentine Catholic University, he founded Pucara Defensa in 2020, one of Latin America’s
+leading defense media and consulting companies, with João Paulo Moralez. He is also an
+assessor of the Ministry of Defense in Argentina and a member of the executive committee
+of the Foro Argentiono de Defensa (Argentine Defense Forum).
+Acknowledgments
+The authors would like to thank Joaquín Rivas, the Brazilian Army, and Brazilian Navy for
+their support.
+Imprint
+Fragmented Efforts. Defense AI in Brasil. DAIO Study 26/34
+(Hamburg: Defense AI Observatory, 2026).
+Defense AI Observatory | Chair of Political Theory | Helmut Schmidt University
+Holstenhofweg 85 | 22043 Hamburg | T +49 40 6541 2776
+ | contact@defenseai.eu | @Defense_AIO
+ISSN (online): 2749–5337
+ISSN (print): 2749–5345
+4 FRAGMENTED EFFORTS
+
+Content
+1 Executive Summary .................................................................................................... 6
+2 Thinking about Defense AI ........................................................................................ 8
+2.1 Budgetary Constraints Limit Strategic Thinking ............................................................9
+2.2 Weak Reference to Defense AI in National Capstone Documents ...............................10
+2.3 Challenges to Advance the Use of Defense AI ............................................................11
+3 Developing Defense AI. ........................................................................................... 14
+4 Organizing Defense AI ............................................................................................. 18
+4.1 Army ........................................................................................................................19
+4.2 Air Force ..................................................................................................................21
+4.3 Navy ........................................................................................................................22
+5 Funding Defense AI ................................................................................................. 23
+6 Fielding and Operating Defense AI. ....................................................................... 26
+6.1 Army ........................................................................................................................27
+6.2 Air Force ...................................................................................................................28
+6.3 Navy .........................................................................................................................29
+7 Training for Defense AI ............................................................................................ 32
+8 Conclusion. ................................................................................................................ 34
+Literature ...................................................................................................................... 37
+WWW.DEFENSEAI.EU 5
+
+1 Executive Summary
+Although Brazil has one of the most developed Armed Forces in
+Latin America and the most significant defense industry on the
+subcontinent, the country lacks a consolidated vision for the devel-
+opment of Artificial Intelligence (AI) in the defense domain, with only
+a few limited initiatives within the Armed Forces and little integration
+between them.
+This, however, is not an exception in Latin America, where the de-
+velopment of AI in the defense field is, incipient at best and largely
+non-existent in smaller forces. The lack of political interest in de-
+fense across the region, mainly due to the absence of conventional
+conflicts and the fact that Latin America is considered a “zone of
+peace,” has reduced defense investments over the past 40 years to
+around or below 1% of GDP. This reality has slowed technological
+defense development. Although public figures on defense AI spend-
+ing are hard to come by, initiatives like the creation of the LabIA by
+the Air Force suggest that annual military spending on AI is in the
+low one or two-digit million dollar range.
+Within this context, AI currently shows very limited and slow pro-
+gress in its military application, both in Brazil and across the rest of
+Latin America.
+Nevertheless, Brazil’s armed forces are gradually adopting AI. Over-
+all, the Army, Air Force and Navy are considering AI primarily for
+assistant and supportive functions, while making sure that human
+operators cede as little decision-making power to AI as possible.
+The three services have put significant effort into setting up govern-
+ance frameworks that ensure the responsible use of defense AI in full
+compliance with national and international regulations.
+6 FRAGMENTED EFFORTS
+
+Resource constraints and an underdeveloped institutional set-up,
+as well as the lack of qualified personal currently, constitute the
+main obstacles for more advance uses of defense AI in Brazil. Thus,
+current defense AI development priorities are limited. The Army is
+mainly looking at AI for data analysis, the Air Force is focusing on
+AI for maintenance, fleet management, and the analysis of satellite
+and drone imagery, and, finally, the Navy is exploring AI to enhance
+logistical support. So far, cross-service cooperation to advance AI is
+limited. In addition, Brazil’s emphasis on national sovereignty that
+limits data sharing constitutes a challenge for international coopera-
+tion on defense AI.
+Similarly current applications of defense AI in Brazil’s military services
+are limited as well. The Army uses AI in systems built to respond
+to public requests and to support cyber defense. The Air Force is
+primarily using AI for air defense, search and rescue missions, and
+logistics, while the Navy is using algorithms in decision support
+mechanisms, cyber defense and electronic warfare. In addition, AI is
+also part of Brazil’s SIFRON border security program.
+Although all three services are using AI for wargaming and sim-
+ulation-based training, proper initiatives to prepare the defense
+workforce for the future use of AI have yet to emerge. Rudimentary
+introductory courses have been launched but more remains to be
+done to make sure that Brazil’s emphasis on the responsible use of
+AI in the military domain is backed up with defense personnel who
+understand the technology and make informed decisions about its
+use for military tasks.
+WWW.DEFENSEAI.EU 7
+
+2 Thinking
+about
+Defense AI
+8 FRAGMENTED EFFORTS
+
+Different drivers shape force transformation in general and the adoption of new
+concepts and technologies in particular. Unlike other countries, Brazil is neither
+facing imminent military conflicts nor ongoing war. External threat as a force to
+update the country’s defense posture is relatively weak. Nonetheless, artificial
+intelligence (AI) and other technologies have begun to play a role in the routine
+activities of certain segments of the Brazilian Armed Forces. It is important to
+emphasize that this role is assistive and supportive in nature, without assuming
+tactical or offensive functions.
+2.1 Budgetary Constraints Limit Strategic Thinking
+The budgetary constraints faced by Brazil and the South American continent
+impose limitations not only on the acquisition and modernization of equipment,
+but also on broader thinking about the future. While there is a recognized need to
+equip the Armed Forces with disruptive technologies, priority is given to resolving
+immediate and urgent problems before addressing future requirements.
+Currently, Brazil faces a modernization backlog. There is a continuing requirement
+to equip the forces with medium- and high-altitude air defense systems, data
+links and network-centric systems, attack drones and other capabilities before any
+meaningful planning for multi-domain operations can take place. In parallel, the
+acquisition of fighter aircraft, frigates, submarines, border surveillance systems,
+main battle tanks and other systems is heavily delayed, often due to payment
+shortfalls. Once these systems reach operational units, the underlying technolo-
+gies are outdated. As a result, modernization programs are required to bring them
+up to current technological standards.
+Although senior leadership and the General Staff plan for the use of disruptive
+technologies, the need to maintain and equip forces with basic capabilities
+ultimately postpones future-oriented capabilities, often without any clear timeline
+for implementation. This situation challenges capability development and has so
+far prevented Brazil’s Armed Forces to come up with strategic plans on what to
+expect of defense AI and how to prepare for its adoption.
+WWW.DEFENSEAI.EU 9
+
+2.2 Weak Reference to Defense AI in
+National Capstone Documents
+In 2026, Brazil will mark the 30th anniversary of the National Defense Policy (PND),
+a document created in 1996, at a time when the Ministry of Defense did not yet
+exist as a central authority and when each military service (Army, Navy and Air
+Force) had its own minister and operated independently.
+The PND was established to guide the efforts of Brazil’s society towards consolidat-
+ing national capabilities and developing the conditions necessary to guarantee the
+country’s sovereignty, territorial integrity and the fulfilment of national objectives. It
+therefore defines how the Armed Forces must act in relation to the national and inter-
+national defense context and its geopolitical environment. Promoting technological
+and production autonomy in the defense sector is one of the policy’s eight objectives.1
+In addition to the PND, two other documents define Brazil’s political framework
+for defense. The National Defense Strategy (END) defines how the Armed Forces
+must implement the guidelines of the PND, involving National Power, national de-
+fense capabilities and the Defense Industrial Base (BID).2 In addition, the National
+Defense White Paper is broader in scope and addresses various issues, such as
+the strategic environment, the need to modernize the Armed Forces, the ration-
+alization and adaptation of defense structures, peacekeeping and humanitarian
+assistance operations, and national economic support for defense.3
+Together, these three documents are updated every four years. The penultimate
+update took place in 2016, while the 2020 version suffered delays in approval and
+was only released in 2024, being finally consolidated in 2025. This negligence
+reflects the fact that various Brazilian governments have considered defense a low
+priority for decades. But despite the delay, the most recent update did mention,
+albeit cautiously, AI as a disruptive technology which, together with virtual and
+augmented reality and quantum computing, “accentuates asymmetries in the
+defense domain, influencing the balance of power between countries.” In addi-
+tion, “promoting the development of artificial intelligence for National Defense”4
+is mentioned as one of the strategic defense actions.
+Against this background, Brazil has undertaken first steps to use AI for defense
+purposes as the following chapters will illustrate. These discrete moves have been
+driven by strategic documents. In , the “Strategic Directive on Artificial In-
+1 PoliticaNacionaldeDefesa–EstratégiaNacionaldeDefesa.
+2 PoliticaNacionaldeDefesa–EstratégiaNacionaldeDefesa.
+3 DefenseWhitePaper.
+4 DecretoNº12.725.
+10 FRAGMENTED EFFORTS
+
+telligence for the Brazilian Army” was approved through Ordinance C Ex No. 1,318.5
+This is the first document issued by a service branch to specifically address the
+application of AI, establishing objectives to integrate AI into the Army Information
+System (SINFOEx) and the Land Operational Information System (SINFOTER). The
+document emphasizes the use of AI in land operations, logistics and decision-mak-
+ing support, while also highlighting the need to master emerging technologies to
+increase operational efficiency and preparedness for modern conflicts.
+In parallel, the Brazilian Congress continues to work on Legal Bill No. 2338 of
+2023, which aims to regulate the development and use of AI in Brazil. The proposal
+establishes a set of rules that companies in the defense sector must follow and
+defines how technology will be monitored. The bill is currently awaiting approval by
+the Chamber of Deputies.6
+One of the main innovations put forward because of this bill is the creation of the
+National Artificial Intelligence Regulation and Governance System (SIA), respon-
+sible for establishing subsequent regulations and overseeing compliance with the
+rules. The bill defines technologies considered to be high-risk, which will be sub-
+ject to stricter regulation. These include systems that may cause harm to individ-
+uals or society, such as autonomous vehicles or biometric identification systems.
+In addition, it prohibits the use of autonomous weapons and tools employed by
+public authorities to assess or classify individuals for access to goods and services.7
+2.3 Challenges to Advance the Use of Defense AI
+AI is being gradually introduced into the Brazilian Armed Forces through different
+pathways.8 Internally, the development of new tools is carried out by military personnel
+who create solutions to meet their own demands, whether administrative or routine
+in nature, as exemplified in chapter 6. AI has also become part of the daily routine of
+many individuals who use different tools on their own initiative — whether to review
+documents, produce summaries, generate images for presentations or address other
+administrative requirements. However, when it comes to tactical, operational or strate-
+gic decision support, AI is still regarded as a technology to be applied in the future:9
+5 DiretrizEstratégicadeInteligênciaArtificialparaoExércitoBrasileiro.
+6 BillProjectPL2338/2023.
+7 “PLdogovernopropõesistemadegovernançaparaainteligênciaartificialnopaís”(GovernmentbillproposesGovernance
+systemforartificialintelligenceinBrazil).
+8 ThefollowingparagraphsbuildonfeedbackfromtheBrazilianArmyandtheBrazilianNavyinresponsetoquestionssubmitted
+bytheauthors.TheBrazilianAirForcedidnotrespond.
+9 Inthisregarditisalsoworthnotingthattheservicesenjoyhighdegreesoffreedomindefiningthefuturedevelopmenttrajec-
+tories,asillustratedbytheNavyStrategicPlan2040,theNavyStrategicPortfolio,theAirForceMilitaryStrategicPlan,theAir
+ForceStrategicConcept100,theArmyStrategicPlan(PEEx)andtheArmy’sForça40program.
+WWW.DEFENSEAI.EU 11
+
+Army Perspectives
+The Army recognizes AI as a tool that may become a major asset in the de-
+cision-making process at all levels. Its corporate use will occur both in opera-
+tional and administrative contexts, contributing to facilitating and accelerating
+the analysis of data essential to the Force’s activities. At present, AI is already
+being used in support of administrative activities through proprietary and
+adapted LLM models; in cyber security; in various studies conducted in the
+academic field of science and technology through the Military Engineering
+Institute and other military organizations linked to research and development;
+as well as in the operational domain, which has also been employing proprie-
+tary LLM models focused on decision-making processes.10
+There are two major challenges the Army and Brazil’s Armed Forces in general
+face to disseminate AI. First, technological resources are very limited and thus
+not available at sufficient scale to cover as many personnel and organizations
+as possible, enabling effective use, provide feedback, and adapt existing and
+develop new concepts and doctrines. In addition, there is an organizational
+requirement to create centers that can generate and disseminate adequate
+knowledge on AI. “Over the next five years, priorities include the acquisition of
+adequate infrastructure, improvements to data centers, continuous personnel
+training and the development of proprietary AI solutions, both for operational
+and administrative applications,”11 the Army contends.
+Second, there is a cultural challenge that stems from the fact that personnel—
+especially more experienced staff and miliary leaders operating at higher
+hierarchical levels—need to adapt before being able to adopt the technology
+in operational contexts. The Army states that
+there are relatively few personnel qualified to work directly on AI develop-
+ment. However, the Army has been offering courses at different levels with
+the aim of enabling users to correctly employ these tools. In the fields of
+ethics and reliability, the Force has formal guidelines, such as the Strategic
+AI Directive of the Brazilian Army, the Regulation of the Artificial Intelligence
+Governance Committee, and the establishment of a specific working group to
+structure AI governance and management within the Army General Staff.12
+10 BrazilianArmy.Officialresponsetothequestionnairesubmittedbytheauthorsregardingtheuseofartificialintelligencewithin
+theArmy,17November2025.
+11 Ibidem.
+12 Ibidem.
+12 FRAGMENTED EFFORTS
+
+Navy Perspectives
+The Navy faces similar challenges particularly in terms of infrastructure and
+training, compounded by budgetary constraints. Culturally, as witnessed
+in the civilian sector, there is a need to recognize AI as a tool that supports
+human operators in executing tasks rather than acting on its own. People have
+frequently sought to identify a single “best” AI technology to address multiple
+day-to-day professional demands, whereas experience shows that each soft-
+ware solution has its own strengths and weaknesses and that, in many cases,
+it is necessary to combine several tools to achieve the desired results. Overall,
+the Navy argues:
+The technical challenges identified relate to training, infrastructure, deci-
+sion support and the governance of AI systems within the Brazilian Navy.
+Each of these areas presents financial, human resources and legal chal-
+lenges that must be overcome. In the cultural domain, the challenge lies
+in recognizing AI as a support tool rather than as a direct problem-solving
+instrument. In addition, one of the main concerns is protection against
+cyber threats, an area in which the Navy has been improving in step with
+current technologies.13
+Each of the services faces domain specific challenges. But solutions meant
+to address these challenges need to converge to advance joint capability
+development as required by Brazil’s strategic capstone document. Right
+now, however, capability development is underdeveloped as the respective
+concepts, processes and institutions that would help to synchronize the three
+military services are lacking.
+13 BrazilianNavy. Officialresponsetothequestionnairesubmittedbytheauthorsregardingtheuseofartificialintelligencewithin
+theNavalForce,19December2025.
+WWW.DEFENSEAI.EU 13
+
+3 Developing
+Defense AI
+14 FRAGMENTED EFFORTS
+
+Currently, a coherent picture about Brazil’s defense AI development priorities is
+not available. This is a consequence of the country’s relatively fragmented force
+development approach in which the services mainly operate on their own. There-
+fore, different lines of effort exist next to each other:
+Army
+The Army, through its Department of Science and Technology, has sought to
+establish agreements and partnerships with public and private institutions to
+develop and promote AI initiatives. Among other partners, the Army is coop-
+erating with the Brazilian Funding Authority for Studies and Projects (FINEP),
+which supports projects developed by the service that are also relevant to the
+civilian market. Army activities primarily focus on developing AI solutions for
+enterprise applications, which will encompass both operational and adminis-
+trative frameworks, contributing to streamlining and accelerating the analysis
+of data essential to the Army’s activities.
+Air Force
+In , the Brazilian Air Force, in cooperation with the Casimiro
+Montenegro Filho Foundation, inaugurated LabIA, its first AI laboratory.14 The
+lab is focusing on large language models (LLMs) and the processing of large
+volumes of data. In its initial phase, it will concentrate its efforts on optimizing
+aircraft maintenance using intelligent algorithms (particularly for the Gripen
+E/F fighters and the KC-390 transportation aircraft), fleet management,
+the analysis of satellite and drone imagery to locate targets on the ground,
+combat training, and cyber security.
+Navy
+The Navy’s primary interest is in using AI to enhance logistical support, par-
+ticularly regarding life-cycle management. Beyond this focus, the service
+welcomes different types of partnerships aimed at improving processes and
+solving problems with AI to support administrative tasks, education, training,
+personnel management, maintenance, supply chain management, unmanned
+vehicles, decision-making processes, operational intelligence, maritime traffic,
+search and rescue operations, and cyber defense.
+Service-specific development activities underline that it is too early for the Brazilian
+Armed Forces to scale the use of AI for joint tasks, as current efforts are too pre-
+liminary and require extensive testing and comprehensive doctrinal adjustments.
+Cross-service cooperation might occur to advance exchanges of knowledge but is
+14 “CCA-SJassinaconvênioinéditonaáreadeInteligênciaArtificial”(CCA-SJsignsunprecedentedagreementinthefieldof
+ArtificialIntelligence).
+WWW.DEFENSEAI.EU 15
+
+still very limited. This also holds true for research cooperation with foreign partners
+as information is protected for reasons of national sovereignty.
+Brazil’s emphasis on national sovereignty in the field of AI, however, is likely to
+create challenges as the country is about to receive new defense equipment from
+foreign partners. A strong emphasis on sovereignty might deprive Brazil and the
+Brazilian defense industry from access to the respective technologies and could
+hinder the transfer of expertise. For example, it is unclear to what extent Brazil
+will benefit from AI-enhanced electronic warfare suites that Sweden’s Saab Gripen
+E provides, even though Brazil could plug into the fighter’s open architecture
+approach.15
+It also remains to be seen how Brazil’s defense companies will adjust to the use of
+AI and to what extent their priorities will be driven by the requirement of Brazil’s
+Armed Forces or export opportunities. Embraer, for example, has been investing
+in the use of AI for inventory management. In addition, the company has set up
+the New Technologies Demonstrator Platform for which a test aircraft is used to
+insert or integrate new technologies. This initiative is intended to test the feasi-
+bility of medium-maturity technologies, systems and tools, identify their potential
+applications and allocate them to specific projects.16
+In general, industry and academia are two strong and structuring pillars in Brazil.
+They are present in significant numbers and possess the quality required to
+support the government in both its immediate and long-term actions. But Brazil’s
+fragmented approach to developing AI for military applications also makes it dif-
+ficult to leverage their expertise at scale. Consequently, defense demand signals
+that could trigger more robust industrial and academic initiatives are missing,
+even though some universities and research centers have promoted AI research.
+Overall, Brazil occupies only intermediate positions in international rankings such
+as no 15 in the number of AI-related articles, no 8 in the number of authors, but
+only on rank 23 in citation impact, indicating a more quantitative than qualitative
+approach.17
+In sum, preparing Brazil’s ecosystem for the advent of AI and the need to develop
+indigenous solutions remains most challenging. Initiatives that help advance col-
+laboration and knowledge transfer among ecosystem partners are thus even more
+important. In this regard the activities of the Ezute Foundation and the Getulio
+Vargas Foundation are particularly noteworthy, as these institutions have started
+to position the development of AI and digital technologies as key enablers of the
+15 Newdick,“Saab’sGripenTestsAIInLong-RangeAir-To-AirEngagements.”
+16 Zaparolli,“Quartamaisinovadora,Embraertemumaviãosóparatestarnovastecnologias”(Themostinnovativeaircraft
+manufacturer,Embraerhasanaircraftdedicatedtotestingnewtechnologies).
+17 ÍndiceLatinoamericanodeInteligenciaArtificial(LatinAmericanAIIndex).
+16 FRAGMENTED EFFORTS
+
+“Navy of the Future,” for example. The Navy has started to complement these
+activities with events such as the Aratu Maritime Unmanned Systems Simulation
+2025 (ARAMUSS-2025). Organized at the Aratu Naval Base the event brought
+together naval stakeholders, industry, and researchers and was instrumental in
+providing practical demonstrations of unmanned maritime, underwater and aerial
+systems, particularly those focused on mine warfare and the potential use of AI.18
+18 “’ARAMUSS-2025’:eventopioneirodetecnologiamarítimanãotripuladaéencerradoemSalvadoreapontaparaofuturo”
+(PioneeringunmannedmaritimetechnologyeventconcludesinSalvadorandpointstothefuture).
+WWW.DEFENSEAI.EU 17
+
+4 Organizing
+Defense AI
+18 FRAGMENTED EFFORTS
+
+The Brazilian Artificial Intelligence Strategy (EBIA), formulated by the Ministry of
+Science, Technology and Innovation (MCTI), emphasizes digital transformation,
+talent development and ethics in the use of AI, but leaves sectoral implementa-
+tion to each ministry. Along these lines and absent a unifying defense AI strategy,
+Brazil’s three military services are developing very different governance solutions
+to advance the use of defense AI. All services put major emphasis on the respon-
+sible use of defense AI and full compliance with national and international legal
+requirements.19
+4.1 Army
+The Army has been a pioneer with its 2024 directive, which establishes principles
+for the implementation of AI in intelligence, logistics, and operational domains.
+This directive emphasizes the need for human control in line with national pol-
+icies such as the National Information Security Policy (Decree No. 9,637/2018).
+Accordingly, the Brazilian Army is the first service to have its own specific directive
+governing the use of AI.20 Its primary objective is to establish strategic guidelines
+for the implementation and use of AI within the Brazilian Army, aligned with the
+Army’s Information Policy. The document also highlights the need to master
+emerging technologies to ensure state security and preparedness for modern op-
+erations, especially considering the global context of technological competition.
+The directive provides a regulatory framework to integrate AI into the Army
+Information System (SINFOEx) and the Land Operational Information System
+(SINFOTER), promoting its ethical and efficient use in land operations, logistics,
+decision-support activities, and surveillance. The directive seeks to enhance the
+Army’s operational capability in the face of asymmetric and cyber threats, without
+replacing human judgement in critical decisions.
+The directive applies to all Army bodies involved in the development, acquisition,
+and implementation of AI systems. It includes systems focused on specific tasks
+and exploratory initiatives towards more complex AI, with an emphasis on human
+control. Exceptional cases not covered by the directive will be assessed by the
+Army General Staff, and any omissions will be resolved by the Chief of the General
+19 AsBrazilstrivesforlegallybindingobligationsforuseofAIthecountryhasnotsignedupthedeclarationsofinternational
+non-bindinginitiativesliketheResponsibleUseofAIintheMilitaryDomain(REAIM).
+20 StrategicDirectiveonArtificialIntelligencefortheBrazilianArmy(EB20-D-02.031),thefirsteditionofwhichwasapproved
+throughOrdinanceCExNo.1,318,issuedon14April2024bytheChiefoftheArmyGeneralStaff(EME),ArmyGeneralRichard
+FernandezNunes.ThisordinanceisbasedonthepowersconferredbyitemXofArticle4oftheRegulationoftheArmyGeneral
+Staff(EB10-R-01.007),approvedbyOrdinanceoftheArmyCommanderNo.1,780of21June2022.Thedirectiveenteredinto
+forceon24May2024andwaspublishedinArmyBulletinNo.21ofthesamedate.
+WWW.DEFENSEAI.EU 19
+
+Staff. The directive establishes guiding principles for the development and use of
+AI, ensuring alignment with institutional values and ongoing regulatory efforts:21
+Ethics and Morality: Compliance with ethical principles and the Army’s moral
+values must guide all AI system development. The use of AI in lethal deci-
+sion-making without human supervision is implicitly prohibited, requiring
+rigorous evaluation of autonomous systems.
+Security and Confidentiality: Integration with regulations such as the National
+Information Security Policy (Decree No. 9,637/2018) and the General Instruc-
+tions for the Safeguarding of Classified Matters (IGSAS – EB10-IG-01.011).
+Operational Efficiency: AI should enhance decision-making, predictive analysis
+and logistical optimization thereby reducing risks to personnel.
+Responsible Innovation: Promotion of technological “leapfrogging,” encourag-
+ing research and development (R&D) in collaboration with universities and the
+private sector, in alignment with the Brazilian Digital Transformation Strategy
+(E-Digital, Decree No. 9,319/2018 and MCTIC Ordinance No. 1,556/2018).
+Human Control: Emphasis that any AI system that does not allow human inter-
+vention in critical decisions (especially those that may result in loss of life) will
+be subject to rigorous evaluation by the Army General Staff (EME).
+To implement its directive, the Army puts particular emphasis on the following
+instruments:22
+Assessment and Prioritization: The Army has established committees within the
+Army General Staff (EME) to evaluate and prioritize AI projects in alignment
+with the Army Strategic Plan (PEEx).
+Training: AI training programs for officers and technical personnel shall be
+integrated into the Systems Development Center.
+Agile Development: The Army wants to adopt agile prototyping methods with
+an emphasis on ethical and cyber security testing.
+Monitoring: The Army wants to define performance indicators – such as the
+time saved to conduct intelligence analyses with AI, for example – to assess
+the performance of AI
+Building on its directive, the Army started a three-phased process by establishing
+an inventory of current AI capabilities in 2024 (diagnosis phase). The consecutive
+development phase, which lasts until 2027, will integrate AI into systems like
+SISFRON and into Army logistics solutions. In parallel, annual reviews conducted
+21 Thedirectiveisalsogroundedinabroadlegalandstrategicframeworkincluding,forexample,theBrazilianArmyOperational
+Concept(COEB2040–EB20-MF-07.101),theArmyInformationPolicyandthe2012NationalDefenseWhitePaper.
+22 DiretrizEstratégicadeInteligênciaArtificialparaoExércitoBrasileiro.
+20 FRAGMENTED EFFORTS
+
+by the EME will help to stay the course and undertake adjustments to national and
+global developments.23
+Overall, this directive represents a significant step forward for the Brazilian Army,
+and positions the service within the global debate, albeit with a conservative
+approach in terms of ethics and human control.
+4.2 Air Force
+The Brazilian Air Force maintains the Aeronautics Computing Centre in São José
+dos Campos (CCA-SJ),24 which acts as a hub for the dissemination of knowledge
+and doctrine and fulfils the operational role related to information technology,
+simulation and software development. It is subordinated to the Department of
+Aerospace Science and Technology (DCTA) and has been increasingly engaged
+in initiatives related to AI as part of the FAB’s broader digital transformation and
+modernization efforts.
+One of its main milestones was the establishment of the first AI laboratory within
+the Brazilian Air Force, created through a cooperation agreement with the
+Casimiro Montenegro Filho Foundation and other partners. This laboratory fo-
+cuses on developing and applying AI solutions to improve logistics management,
+document processing and administrative systems aiming to enhance efficiency, de-
+cision support and information management within the Air Force. A key initiative
+under this effort is the Inteligência Logistica com Inteligência Artificial (ILOG-IA)
+project, which applies advanced AI capabilities, including automated analysis and
+contextual text processing, to optimize logistical workflows and documentation
+processes.
+In addition to technological development, the CCA-SJ also plays an important
+role in fostering knowledge and integration, having organized events such as the
+FAB AI Seminar, bringing together military, academic and industry stakeholders to
+discuss challenges, opportunities and operational applications of AI in the defense
+domain.
+23 DiretrizEstratégicadeInteligênciaArtificialparaoExércitoBrasileiro.
+24 “FABapostaemInteligênciaArtificialparaeficiência,segurançaeinovaçãotecnológica”(FABinvestsinArtificialIntelligence
+forefficiency,security,andtechnologicalinnovation).
+WWW.DEFENSEAI.EU 21
+
+4.3 Navy
+The Brasilia-based Army Cyber Defense Command, which operates jointly with
+personnel from the Air Force and the Navy, is responsible for monitoring and
+countering threats against the computer systems of critical and vital national
+infrastructure, such as energy, sanitation, communications, financial, healthcare
+and other networks. It employs AI both to provide continuous protection and to
+conduct war games.
+The Naval Systems Analysis Centre (CASNAV) is the Navy’s principal hub for
+software development, computational intelligence, information technology and
+systems analysis. CASNAV supports naval activities by developing technology
+solutions, simulators and decision-support systems that ensure information supe-
+riority in the maritime environment. Within CASNAV’s the Advanced Laboratory
+for Operational Research and Artificial Intelligence (LAB-APOIA) play a particularly
+relevant role, as will be discussed in chapter 6.3.
+The Navy also operates SeCiber, which focuses on cyber defense to enhancing
+Naval power and ensuring the digital security of networks and onboard systems
+of ships and submarines. To this purpose, SeCiber must ensure the integrity and
+availability of naval weapon and control systems against adversarial cyber-attacks.
+Finally, the Navy Research Institute (IPqM) conducts research and development
+of hardware and sensors, complementing CASNAV’s work by creating national
+technology, increasing national sovereignty and reducing Brazil’s dependence on
+foreign nations.
+Like the Army, the Brazilian Navy has formal guidelines to make sure the use of
+AI is reliable and in full compliance with Brazil’s ethical and legal requirements.
+This commitment is anchored in two key federal laws that govern transparency
+and access to information (Law No. 12,527/2011) and ensure the protection and
+privacy of personal data processed by AI systems (Law No. 13,709/2018). Based
+on this foundation, the Navy considers military ethics to be the primary guiding
+principle for the use of AI. This implies that AI development must be fully aligned
+with military codes of conduct, encompassing values such as duty, discipline,
+loyalty, courage and integrity.
+22 FRAGMENTED EFFORTS
+
+5 Funding
+Defense AI
+WWW.DEFENSEAI.EU 23
+
+The Brazilian AI Plan (PBIA), which is part of the country’s AI strategy, outlines
+the future roadmap to develop national AI capacities. With an allocated budget
+of BRL23bn (USD4.3bn) until 2028, approximately BRL1bn (USD180M) has been
+mobilized through FINEP and the National Bank for Economic and Social Devel-
+opment (BNDES). The objective is to finance projects with immediate impact,
+particularly those related to defense.
+Under this plan significant investments were allocated to build the Santos Dumont
+supercomputer located at the National Laboratory for Scientific Computing
+(LNCC) and linked to the MCTI. This system is fundamental to support AI opera-
+tions of the Brazilian Air Force and the Navy. The system was modernized in 2019
+to advance its processing capacity to 5.1 petaflops (quadrillions of operations per
+second) and is one of the region’s most powerful computers. The system is used
+for AI algorithm training, data analysis, and operational research.
+Overall, Brazil is Latin America’s biggest defense spender. In 2024, the country
+spent around BRL133bn (USD23.8bn) on defense. This, however, represents only
+1.1% of its GDP and puts the country behind Colombia (3%), Guyana (2.4%), Chile
+(1.9%), Uruguay (1.8%) and Ecuador (1.5%).25 Dedicated spending on defense AI
+is miniscule. The Air Force, for example, invested BRL6.5M (USD1.2M) in LabIA,
+while the Ministry of Defense allocated undisclosed sums to enable SISFRON
+(Army) and to integrate AI-enhanced predictive analysis into the Navy’s Amazon
+Blue Management System.
+In addition, the MCTI has opened a credit line that Brazilian defense compa-
+nies can use to convert analogue into AI-based processes. In total, BRL120M
+(USD22.4M) were released under a specific grant to support technologies for more
+sustainable aviation.26 This included, for example, applications in autonomous
+flight and flight safety systems, more efficient energy storage systems and initi-
+atives that encourage the use of strategic fuels and minerals within the country,
+among others. In addition, the Brazilian Funding Authority for Studies and Projects
+(FINEP) has funded several AI projects:
+25 Formore,see:SIPRIYearbook2025.Militaryspendingbasedon
+GD.ZS(lastaccessed18February2026).
+26 “ComapresençadeLula,sãolançados11editaisdeSubvençãoEconômicadoFinepMaisInovação,comvalortotaldeR$
+2,18bilhões”(WithLulainattendance,11callsforproposalsarelaunchedforFinepMaisInovaçãoeconomicsubsidies,witha
+totalvalueofR$2.18billion).
+24 FRAGMENTED EFFORTS
+
+Kryptus was selected to develop cyber security and advanced cryptography sys-
+tems. As part of developing this solution, Projeto Typhon has received funds to
+develop a cyber defense system using AI.27
+The defense company IACIT received a total of BRL28M (USD5.4M) to devel-
+op software for autonomous systems like drones and flying cars.28
+In addition to specific projects, FINEP is also directly supporting companies. Siste-
+mas Integrados de Alto Teor Tecnologico (SIATT) for example, which is developing
+missiles, has received funds to develop intelligent and autonomous systems.29
+27 “Kryptusesseleccionadoparadesarrollarelprimersistemadeciberseguridadinteligenteautónomobrasileño”(Kryptusselect-
+edtodevelopBrazil’sfirstautonomousintelligentcybersecuritysystem).
+28 Formore,seeFinepassinacontratodefinanciamentocomaIACITparadesenvolversistemade“Finepassinacontratode
+financiamentocomaIACITparadesenvolversistemadecontrolededronesecarrosvoadores”(Finepsignsfinancingagree-
+mentwithIACITtodevelopcontrolsystemfordronesandflyingcars).
+29 Moralez,“Unejemploparaelcontinente”(Anexampleforthecontinent).
+WWW.DEFENSEAI.EU 25
+
+6 Fielding and
+Operating
+Defense AI
+26 FRAGMENTED EFFORTS
+
+Brazil’s military services use AI to support enterprise tasks and mission tasks across
+a broad spectrum of functionalities. As the fielding of AI has only started very
+recently, it is difficult to assess its impact on the armed forces’ effectiveness. At
+the same time Brazil’s defense companies, which have been approached for the
+conduct of this study, are very reluctant to provide details about their adoption of
+AI. This makes it difficult to gauge Brazil’s defense industrial readiness for AI.30 It
+is, however, obvious that exposure to AI will increase as Brazil is about to procure
+modern defense equipment from partners that will be equipped with AI. To what
+extent this will enable Brazil’s armed forces to benefit from other nations’ experi-
+ences, remains to be seen.
+In addition to service specific AI solutions one of the country’s central applications
+lies in improving border security under the SISFRON program. The goal is to
+install sensors and monitoring centers along Brazil’s entire border to deter illegal
+activities. The purpose of using AI is to provide improved solutions to identify
+criminals and their networks and to identify, track, and monitor suspicious behavior
+along smuggling routes.31
+6.1 Army
+One of the Army’s earliest initiatives involved the use of bots for administrative
+functions, assisting military personnel with basic tasks. In 2019, the Brazilian Army
+implemented a basic module to respond to external public enquiries, clarifying
+questions, and disseminating information. Known as MAX, the Army uses AI in an
+enterprise application to respond to user integration on social media and messag-
+ing channels such as Messenger or Telegram.32
+The Army Cyber Defense Command (see chapter 4.3) employs AI algorithms to
+analyze traffic patterns across critical infrastructure, identifying anomalies that may
+indicate the onset of a cyber-attack. By processing thousands of security events
+per second, AI filters false and genuine alerts, enabling specialists to focus on
+real and complex threats. At present, AI also operates autonomously, using pre-
+established patterns to respond to attacks by blocking access ports or isolating
+network segments, thereby preventing an attack from progressing. In addition, AI
+30 GiventhefactthatlocaldefenseAIdevelopmentisunderdevelopedrightnow,noinitiativesorpolicieshavebeenidentifiedto
+regulatetheexportofAIsoftwareortoolsthatemployAI.
+31 Zaparolli,“Bordersurveillance;”deOliveiraAlcenar/Contini,“ThePilotProjectoftheIntegratedBorderMonitoringSystem
+(SISFRON)andtheBrazilianstateactioninthefightagainstdrugtraffickingintheStateofMatoGrossodoSul,”Soares/Souza,
+“TheuseofArtificialIntelligenceinSISFRON.”
+32 “InteligênciaArtificialdoExércitoépromovida”(PromotingArmyArtificialIntelligence).
+WWW.DEFENSEAI.EU 27
+
+is applied to test the robustness of new cryptographic protocols, seeking vulnera-
+bilities that could be exploited by advanced computing capabilities in the future.33
+In addition, the Army also uses AI for wargaming to support the creation of
+dynamic scenarios for high-complexity training, simulating an adversary that learns
+and adapts its tactics during the exercise. There is also significant relevance in the
+domain of big data, with the processing of exercise results identifying systemic
+weaknesses in national defense and generating continuous improvement reports
+for the participating institutions.34
+6.2 Air Force
+Brazil’s Air Force is using AI for a broad spectrum of enterprise and mission-ori-
+ented tasks. To support enterprise tasks, the Air Force is using AI for operational
+and administrative support processes, facilitating analysis, orientation, and risk
+management. In addition to increasing agility, it improved efficiency in the use of
+human resources, allowing personnel to focus on core mission tasks.35 In Decem-
+ber 2025, the Air Force, like the Army, has launched FABIA, an AI-tool, to interact
+with Air Force personnel and provide rapid and accurate responses on matters
+of interest. The virtual assistant uses AI to understand questions, guide users and
+support the dissemination of official information, contributing to greater efficiency
+in service delivery and institutional transparency. 36
+In support of Air Force missions, the Aerospace Operations Command, a high-lev-
+el body responsible for operational deployments, disclosed in 
+using AI for air defense, search and rescue (SAR) and logistical transport.37 In
+addition, the Air Force is using generative AI and machine learning for predictive
+analyses and simulations that make operations more agile and efficient, optimize
+mission planning and allocate air assets by selecting the best routes and maximiz-
+ing the transport potential of available aircraft for personnel and cargo.38 AI has
+also been employed in command-and-control, data processing and to identify
+patterns in intelligence, surveillance and reconnaissance (ISR) imagery.39
+33 Adaptedfrom:GuerraCibernética.ManualdeCampanha(CyberWarfare.CampaignManual).
+34 Basedon:DiretrizEstratégicadeInteligênciaArtificialparaoExércitoBrasileiro(StrategicArtificialIntelligenceGuidelinefor
+theBrazilianArmy).
+35 “FABapostaemInteligênciaArtificialparaeficiência,segurançaeinovaçãotecnológica”(FABinvestsinArtificialIntelligence
+forefficiency,security,andtechnologicalinnovation).
+36 “FABapresentaFabIA,suanovaagentedigitalcomInteligênciaArtificial”(FABintroducesFabIA,itsnewdigitalagentwith
+ArtificialIntelligence).
+37 “PesquisadesenvolvidanoITAutilizaInteligênciaArtificial”(ResearchconductedatITAusesArtificialIntelligence).
+38 “COMAE,umprecursordaInteligênciaArtificial(IA)naFAB”(COMAE,apioneerinArtificialIntelligence(AI)intheBrazilianAirForce).
+39 Ibidem.
+28 FRAGMENTED EFFORTS
+
+In the first half of 2025, the Air Force began using AI to detect aircraft wreckages
+thereby fielding a solution developed by the Graduate Program in Operational
+Applications (PPGAO) of the Aeronautics Institute of Technology (ITA), which has
+been adapted to Brazil’s national biomes. The study used images captured by
+aircraft imaging sensors during real missions conducted by the 2nd/10th GAV
+Pelicano Squadron, a Brazilian Air Force unit specialized in SAR missions. The
+AI application is meant to accelerate aircraft search operations and close a gap.
+According to the Air Force, there is limited research focused on aircraft wreckage
+identification, despite the wide availability of software designed to search for and
+locate missing persons in forests or remote areas.40
+During the international Cyber Shield 2025 exercise held in the United States, the
+Brazilian Air Force (FAB) participated by testing AI-automated air defense systems
+designed to identify “drone swarms”, as well as simulating real threats through cy-
+ber-attacks against FAB networks, including attempted intrusions into flight control
+systems, radars and satellite communications. During the exercise, AI tools de-
+veloped at LabIA were integrated to detect intrusions within milliseconds, before
+human analysts could perceive the anomaly. In addition, the resilience of systems
+against drone “hijacking” and GPS signal interference was tested to prepare for
+the use of electronic warfare, which is increasingly common in modern conflicts.41
+In the future, AI may also be incorporated into weapon systems acquired abroad.
+Saab’s Gripen E, for example, which is currently tested by Sweden, has integrated
+AI tools for data processing and to control weapon systems. Similar applications of
+AI are expected as part of the Enhanced Modular Air Defense Solutions (EMADS)
+program, which is currently in the acquisition phase, with equipment selected from
+companies such as Leonardo, MBDA and other manufacturers.
+6.3 Navy
+The Brazilian Navy wants AI to contribute to executing complex tasks in an
+efficient manner to improve and accelerate decision-making.42 That’s why the
+service is continuously monitoring the evolution of digital technologies43 and has
+launched several AI use cases:
+40 “PesquisadesenvolvidanoITAutilizaInteligênciaArtificial”(ResearchconductedatITAusesArtificialIntelligence).
+41 “FABparticipadoCyberShield2025ereforçadefesacibernética”(FABparticipatesinCyberShield2025andstrengthenscyberdefense).
+42 BrazilianNavy.Officialresponsetothequestionnairesubmittedbytheauthorsregardingtheuseofartificialintelligencewithin
+theNavalForce,19December2025.
+43 Ibidem.
+WWW.DEFENSEAI.EU 29
+
+At the Naval Systems Analysis Centre (CASNAV), AI algorithms are developed
+to process data in support of decision-making; create highly complex and re-
+alistic training environments with adaptable and simulated enemy learning to
+increase exercise difficulty; and identify suspicious navigation patterns to sup-
+port the monitoring of Brazil’s coastline. CASNAV also oversees the Advanced
+Laboratory for Operational Research and Artificial Intelligence (LAB-APOIA).
+Although still an embryonic initiative, LAB-APOIA operates in modelling, sim-
+ulation, optimization and decision support for naval systems, as well as in the
+development and employment of Unmanned Maritime Systems.44
+Within SeCiber, a section dedicated to naval cyber defense, AI monitors the
+integrity of onboard software, detecting intrusions or malicious code that
+could interfere with missile launches or navigation. In addition, AI algorithms
+are employed in active defense to isolate critical systems when anomalies
+are detected within milliseconds, following the standards tested in exercises
+such as Cyber Shield. AI is present both in the systems of the Tamandaré-class
+frigates—within Atech’s Athena Combat Management System, acting through
+machine learning—and in the Riachuelo-class submarines, within the Naval
+Group’s SUBTICS system.45
+In the field of electronic warfare, AI processes electronic signals, enabling
+systems to automatically identify the “signature” of enemy radars or sonars
+amid electromagnetic noise, assisting sensor operators much more rapidly in
+distinguishing friend from foe. Neural networks are also used to integrate data
+from different sources (optronic sensors, radars and sonars), providing opera-
+tors with a single, clear picture of the combat environment.46
+Moreover, several studies conducted by the organization have enabled the
+validation of computational solution concepts focused on autonomous opera-
+tion and performance analysis in complex maritime environments.47
+Finally, and to interact with broader public, the Navy has also been using AI for
+public relations. Particularly on Instagram, several campaigns have been con-
+ducted using films produced with AI tools that comment on ships and aircraft
+from the past or explain and highlight current combat systems in operation. All
+this institutional material has been prepared by private agencies contracted for
+this purpose.48
+44 “Lab=APOIA-LaboratórioAvançadodePesquisaOperacionaleInteligênciaArtificial”(Lab=APOIA–AdvancedLaboratoryfor
+OperationalResearchandArtificialIntelligence).
+45 Moralez,“LaArmadadeBrasilbotaelsubmarinoS42Tonelero”(TheBrazilianNavylaunchestheS42Tonelerosubmarine).
+46 Formore,see
+47 “Lab=APOIA-LaboratórioAvançadodePesquisaOperacionaleInteligênciaArtificial”(Lab=APOIA–AdvancedLaboratoryfor
+OperationalResearchandArtificialIntelligence).
+48 Formore,checktheInstagramaccount
+30 FRAGMENTED EFFORTS
+
+Moreover, the Navy is engaged in procurement projects with international partners
+that will expose the service to new AI solutions. Both, the Navy’s Prosub program
+to construct four Scorpène-class conventional submarines and one nuclear-pow-
+ered submarine, and the Prosuper program to develop four Tamandaré-class
+frigates will include electronic systems that make extensive use of AI. How the
+Brazilian Navy will accommodate these foreign AI solutions remains to be seen.
+WWW.DEFENSEAI.EU 31
+
+7 Training for
+Defense AI
+32 FRAGMENTED EFFORTS
+
+Brazil acknowledges the need to develop a qualified and trained workforce
+capable of working with AI and understanding it. However, to date no measures
+have been observed to significantly scale up the number of defense professionals
+with AI expertise, either through training programs within the Armed Forces or
+through the recruitment of civilian personnel, although courses and postgraduate
+programs focused on AI already exist.
+The Navy, for example, has launched a course entitled “Introduction to AI Tech-
+niques” to advance basic qualifications through its personnel training plan.49 In
+2024, the Navy organized also the country’s inaugural “Course on AI Applied to
+Military Systems” in cooperation with the Getulio Vargas Foundation (GVF), Brazil’s
+oldest economic school.50
+The Army is also looking into how best to prepare its technical and operational
+personnel. Currently, it focuses on “training for the correct and ethical use of AI
+tools, especially those available to the general public.”51 Through distance learn-
+ing and simulators, the Army has incorporated digital platforms to ensure that
+personnel in remote areas, such as the Amazon, have access to the same stand-
+ard of technological training as units based in major urban centers. This training
+requires technical qualifications in information technology, data analysis and the
+operation of AI systems, ensuring that the use of technology on the battlefield is
+both effective and secure. In , the Army also signed a partnership
+with the Government of the State of Paraná to develop education-related research
+on AI, cyber security and quantum technologies.52
+The Air Force uses AI as part of a Ambiente de Simulçao Aeroespacial (ASA-Si-
+maaS), and advanced aerospace simulation environment that provides a “custom
+cloud-based simulation service for creating, configuring, and executing defense
+scenario simulations.”53
+In parallel, annual meetings among the Armed Forces’ Scientific, Technological and
+Innovation Institutions—such as the Army Technological Centre (CTEx)—promote
+the exchange of knowledge regarding the progress of education and research
+partnerships. Furthermore, the Higher War College (ESG) has also expanded its cur-
+riculum with an “Advanced Course in Cyber Security and Defense,” which, by 2025,
+already focuses on the use of cutting-edge technologies and autonomous systems.
+49 BrazilianNavy.Officialresponsetothequestionnairesubmittedbytheauthorsregardingtheuseofartificialintelligencewithin
+theNavalForce,19December2025.
+50 “RealizadaAulaInauguraldoprimeiroCursodeInteligênciaArtificialAplicadaaSistemasMilitaresdoPaís”(InauguralLecture
+HeldfortheFirstCourseonArtificialIntelligenceAppliedtoMilitarySystemsinBrazil),
+51 BrazilianArmy.Officialresponsetothequestionnairesubmittedbytheauthorsregardingtheuseofartificialintelligencewithin
+theArmy,19November2025.
+52 “ParanáfirmaparceriacomExércitoparadesenvolvimentodepesquisasemIAecibersegurança”(Paranásignspartnership
+withtheArmytodevelopAIandcybersecurity).
+53 Dantasetal.,“ASA-SimaaS:AdvancingDigitalTransformationthroughSimulationServicesintheBrazilianAirForce.”
+WWW.DEFENSEAI.EU 33
+
+8 Conclusion
+34 FRAGMENTED EFFORTS
+
+At present, Brazil does not have a structured program for the devel-
+opment of AI in the defense sector, nor has it established clearly de-
+fined objectives to be achieved. Consequently, progress is not only
+limited in scope but is also driven by specific initiatives undertaken
+by individual services, organizations within them, or programs aimed
+at incorporating new weapons systems. Therefore, Brazil’s defense
+AI approach is very fragmented.
+Nevertheless, Brazil’s Armed Forces are seeking to incorporate AI
+across a wide range of activities, ranging from citizen services to
+planning, enhanced situational awareness and cyber threat detec-
+tion, as well as through the development of different personnel
+training programs and plans.
+One of the main reasons for the country’s slow and poorly structured
+development can be attributed to the chronic underfunding of
+defense during the past decades, compounded by the prioritization
+of certain major programs—such as F-X2 (fighter jet), Prosub (sub
+marine development program), and Prosuper (navy vessel modern-
+ization program)—which consume a large share of the resources
+available for investment and capability acquisition. This makes it
+difficult to generate new programs capable of incorporating new
+capabilities more rapidly and on a larger scale, including the devel-
+opment and adoption of AI.
+In addition, the absence of conventional conflicts in the region
+directly affects budget allocation and further delays the adoption
+of new technologies, as there is no perceived urgency driving such
+investments. Moreover, there is a clear lack of a strategic plan that
+includes the large-scale adoption of AI with defined objectives and
+measurable goals. Consequently, it is necessary to develop plans
+and directives governing the adoption and application of AI by the
+Navy and the Air Force, enabling more effective planning and the
+establishment of long-term strategies.
+WWW.DEFENSEAI.EU 35
+
+Several Brazilian companies possess the capacity to participate in
+the development and implementation of AI-based solutions. Sig-
+nificant defense industrial investments would thus make a signifi-
+cant contribution to defense AI in the country. This would support
+Brazil’s objective of greater technological independence and open
+the possibility of becoming an exporter of software and systems
+that integrate AI as part of the solutions currently offered by Brazil’s
+Defense Industrial Base. At present, there is an almost total depend-
+ence on foreign technology in this area, creating risks related to data
+leakage.
+Finally, Brazil’s legal framework has yet to mature, as there is current-
+ly no approved law regulating AI, although the enactment of Legisla-
+tive Bill No. 2338 of 2023—i ntended to regulate the use of artificial
+intelligence—is expected soon. While this bill does not directly
+address the use of AI in defense, it establishes restrictions—such as
+those concerning the use of autonomous weapons—that directly
+affect the defense sector. Therefore, a major challenge lies in the
+need to develop an appropriate regulatory framework focused on
+the implementation of AI in defense, and to explicitly incorporate AI
+into the National Defense Strategy and the National Defense Policy.
+On 26 November 202554 both documents were updated. Although
+these documents mention innovation and technological develop-
+ments, their references to AI remain superficial.
+54 “PolíticaeEstratégiaNacionaldeDefesaeoLBDNsãoaprovados”(NationalDefensePolicyandStrategyandtheLBDNare
+approved).
+36 FRAGMENTED EFFORTS
+
+Literature
+“’ARAMUSS-2025’:eventopioneirodetecnologia meteorol%C3%B3gica%20com%20IA(lastaccessed18
+marítimanãotripuladaéencerradoemSalvadore February2026).
+apontaparaofuturo”(Pioneeringunmannedmaritime
+technologyeventconcludesinSalvadorandpointsto “FABapostaemInteligênciaArtificialpara
+thefuture),AgenciaMarinhadeNoticias,14November eficiência,segurançaeinovaçãotecnológica”(FAB
+2025, investsinArtificialIntelligenceforefficiency,security,
+aramuss-2025-evento-pioneiro-de-tecnologia-mariti- andtechnologicalinnovation),ForcaAereaBrasileira,
+ma-nao-tripulada-e-encerrado-em(lastaccessed18 13December2024,
+February2026). mostra/43576/TECNOLOGIA%20-%20FAB%20aposta%20
+em%20Intelig%C3%AAncia%20Artificial%20para%20
+“CCA-SJassinaconvênioinéditonaáreade efici%C3%AAncia,%20seguran%C3%A7a%20e%20
+InteligênciaArtificial”(CCA-SJsignsunprecedented inova%C3%A7%C3%A3o%20tecnol%C3%B3gica(last
+agreementinthefieldofArtificialIntelligence),Forca accessed18February2026).
+AereaBrasileira,15August2025,
+mil.br/noticias/mostra/44630/CI%C3%8ANCIA%20 “FABapresentaFabIA,suanovaagentedigitalcom
+E%20TECNOLOGIA%20-%20CCA-SJ%20assina%20 InteligênciaArtificial”(FABintroducesFabIA,itsnew
+conv%C3%AAnio%20in%C3%A9dito%20na%20%C3%A1r- digitalagentwithArtificialIntelligence),ForcaAerea
+ea%20de%20Intelig%C3%AAncia%20Artificial(last Brasileira,22December2025,
+accessed18February2026). noticias/mostra/45250/INOVAÇÃO%20-%20FAB%20
+apresenta%20FabIA,%20sua%20nova%20agente%20dig-
+“ComapresençadeLula,sãolançados11editais ital%20com%20Inteligência%20Artificial(lastaccessed
+deSubvençãoEconômicadoFinepMaisInovação,com 18February2026).
+valortotaldeR$2,18bilhões”(WithLulainattendance,
+11callsforproposalsarelaunchedforFinepMaisIno- “FABparticipadoCyberShield2025ereforça
+vaçãoeconomicsubsidies,withatotalvalueofR$2.18 defesacibernética”(FABparticipatesinCyberShield
+billion),Finep,19January2024, 2025andstrengthenscyberdefense),ForçaAérea
+br/noticias/todas-noticias/6730-com-a-presenca-de-lula- Brasileira,18June2025,
+sao-lancadas-11-chamadas-de-subvencao-economica- noticias/mostra/44357/DEFESA%20CIBERN%C3%89TI-
+do-finep-mais-inovacao-com-valor-total-de-r-2-18-bilhoes CA%20-%20FAB%20participa%20do%20Cyber%20
+(lastaccessed18February2026). Shield%202025%20e%20refor%C3%A7a%20defesa%20
+cibern%C3%A9tica(lastaccessed18February2026).
+“COMAE,umprecursordaInteligênciaArtificial
+(IA)naFAB”(COMAE,apioneerinArtificialIntelligence “FinepassinacontratodefinanciamentocomaIACIT
+(AI)intheBrazilianAirForce),ForcaAereaBrasileira, paradesenvolversistemadecontrolededronesecarros
+18September2024, voadores”(FinepsignsfinancingagreementwithIACIT
+mostra/43140/INTELIGÊNCIA%20ARTIFICIAL%20-%20 todevelopcontrolsystemfordronesandflyingcars),
+COMAE,%20um%20precursor%20da%20Inteligência%20 Finep.1April2025,
+Artificial%20(IA)%20na%20FAB(lastaccessed18 todas-noticias/6944-finep-assina-contrato-de-financi-
+February2026). amento-com-a-iacit-para-desenvolver-sistema-de-con-
+trole-de-drones-e-carros-voadores(lastaccessed18
+“DECEAfirmaparceriacomGoogleparadesenvolver February2026).
+previsãometeorológicacomIA”(DECEAentersinto
+partnershipwithGoogletodevelopAI-basedweather “InteligênciaArtificialdoExércitoépromovida”
+forecasting),ForcaAereaBrasileira,4September2025, (PromotingArmyArtificialIntelligence),ExercitoBra-
+ sileiro,undated,
+RIA%20-%20DECEA%20firma%20parceria%20com%20 inteligencia-artificial-do-exercito-e-promovida-1(last
+Google%20para%20desenvolver%20previs%C3%A3o%20 accessed18February2026).
+WWW.DEFENSEAI.EU 37
+
+“Kryptuseselecionadoparadesenvolveroprimeiro servatoryofPraiaVermelhaattheEscoladeComandoe
+sistemaautônomointeligentededefesacibernética Estado-MaiordoExército,2024).
+brasileiro”(KryptusselectedtodevelopBrazil’sfirstau-
+tonomousintelligentcybersecuritysystem),Kryptus,18 SalasdeOliveira,Patricia,ASegurançadaInfor-
+January2023, maçãoeaEngenhariaSocialnaFABàLuzdoscasos
+da-para-desenvolver-o-primeiro-sistema-autonomo-inteli- RSA,SonyPictureseUbiquitiNetworks(Information
+gente-de-defesa-cibernetica-brasileiro/(lastaccessed SecurityandSocialEngineeringintheBrazilianAirForce
+18February2026). inLightoftheRSA,SonyPictures,andUbiquitiNetwork
+Cases)(RiodeJaneiro:UniversidadedaForcaAérea,
+“Lab=APOIA–LaboratorioAvançadodePesquisa 2019),
+OperacionaleInteligênciaArtificial”(Lab=APOIA– RI/Busca/Download?codigoArquivo=11663&tipoMidia=0
+AdvancedLaboratoryforOperationalResearchand (lastaccessed18February2026).
+ArtificialIntelligence),CASNAVCentrodeAnalisesdes
+SistemasNavais,undated, BillProjectPL2338/2023,CamaradosDeputados,
+casnav/noticias/2025/05/labapoia-laboratorio-avanca- 17March2025,
+do-de-pesquisa-operacional-e-inteligencia-artificial(last sWeb/fichadetramitacao?idProposicao=2487262(last
+accessed18February2026). accessed18February2026).
+“PesquisadesenvolvidanoITAutilizaInteligênciaAr- DaSilvaFaria,LuisClaudio,OOmpactoDaIAParaa
+tificial”(ResearchconductedatITAusesArtificialIntel- DefenseCibernética:PropostaparacriaçãodoComan-
+ligence),ForcaAereaBrasileira,17March2025,https:// doConjuntodeInteligênciaArtificial(TheimpactofAI
+ onCyberDefense.ProposalforthecreationofaJoint
+E%20DESENVOLVIMENTO%20-%20Pesquisa%20desen- ArtificialIntelligenceCommand(RiodeJaneiro:Escola
+volvida%20no%20ITA%20utiliza%20Inteligência%20 SuperiordeGuerra,2024),
+Artificial(lastaccessed18February2026). bitstream/123456789/1971/1/LUIS%20CLAUDIO%20
+DA%20SILVA%20FARIA.pdf(lastaccessed18February
+“PLdogovernopropõesistemadegovernança 2026).
+paraainteligênciaartificialnopaís”(Governmentbill
+proposesgovernancesystemforartificialintelligencein Dantas,JoaoP.A.etal.,“ASA-SimaaS:Advancing
+Brazil),MinistériodaGestãoedaInovaçãoemServiços DigitalTransformationthroughSimulationServices
+Públicos,9December2025, intheBrazilianAirForce,”Spectrum–TheJournalof
+pt-br/assuntos/noticias/2025/dezembro/pl-do-gover- OperationalApplicationsinDefenseAreas,26:1(23
+no-propoe-sistema-de-governanca-para-a-inteligencia-ar- September2025),pp.1-7,
+tificial-no-pais(lastaccessed18February2026). index.php/spectrum/article/view/419(lastaccessed18
+February2026).
+“PolíticaeEstratégiaNacionaldeDefesaeoLBDN
+sãoaprovados”(NationalDefensePolicyandStrategy deOliveriaAlcenar,MylenaandAlaerteAntonio
+andtheLBDNareapproved),MinistériodeDefesa, MartelliContini,“ThePilotProjectoftheIntegrated
+26November2025, BorderMonitoringSystem(SISFRON)andtheBrazilian
+centrais-de-conteudo/noticias/politica-e-estrategia-na- stateactioninthefightagainstdrugtraffickinginthe
+cional-de-defesa-e-o-lbdn-sao-aprovadas(lastaccessed StateofMatoGrossodoSul,”Seveneditoraacademia,
+18February2026). 9April2023,
+view/840/946(lastaccessed18February2026).
+“RealizadaAulaInauguraldoprimeiroCursode
+InteligênciaArtificialAplicadaaSistemasMilitaresdo DecretoNº12.725,DiarioOficialdaUniao,Edicao
+País”(InaugurallectureheldforthefirstcourseonArti- 221,Secao1,p.2,18November2025,
+ficialIntelligenceappliedtomilitarysystemsinBrazil), br/en/web/dou/-/decreto-n-12.725-de-18-de-novembro-
+AgenciaMarinhadeNoticias,2February2024,https:// de-2025-670208756(lastaccessed18February2026).
+
+realizada-aula-inaugural-do-primeiro-curso-de-inteligen- DefenseWhitePaper.LivroBrancodeDefesaNa-
+cia-artificial-aplicada(lastaccessed18February2026). cional(Brasilia:MinistryofDefense,2012),
+gov.br/defesa/pt-br/arquivos/ajuste-01/estado_e_def-
+Alves,FlavioTostesandAndersondosSantos esa/livro_branco/Versao2012dolivroLBDNemingles.pdf
+Alves,ArtificialIntelligenceandItsUseintheMilitary (lastaccessed18February2026).
+Decision-MakingProcess(RiodeJaneiro:MilitaryOb-
+38 FRAGMENTED EFFORTS
+
+DiretrizEstratégicadeInteligênciaArtificialpara tionsandperspectivesfortheBrazilianNavy),RMB,
+oExércitoBrasileiro(StrategicArtificialIntelligence 3/2021,pp.8-15,
+GuidelinefortheBrazilianArmy)(EB20-D02.031),Por- mil.br/index.php/revistamaritima/article/down-
+taria–EME/CExno.1.318,14May2024), load/5858/5597/21589(lastaccessed18February
+sgex.eb.mil.br/sg8/006_outras_publicacoes/01_dire- 2026).
+trizes/04_estado-maior_do_exercito/port_n_1318_eme_
+14mai2024.html(lastacessedon18February2026) IndiceLatinoamericanodeInteligenciaArtificial,
+2025(LatinAmericanAIIndex2025)(Santiago:
+DeConclusaodeCurso,Trabalho,Utilizaçãoeficaz NacionesUnidas,2025),
+deferramentasdeinteligênciaartificial(IA)para tent/uploads/2025/10/Documento_ILIA_2025.pdf(last
+identificarameaçasquímicas,biológicas,radiológi- accessed18February2026).
+casenucleares(QBRN)emergentes,contribuindo
+paraagarantiadasegurançanacional(Effectiveuse Marques,AndersonVeras,OUsodesistemas
+ofAItoolstoidentifyemergingchemical,biological, inteligentesemapoioédecisão,faceaspoliticasde
+radiologicalandnuclear(CBRN)threats,contrib- movimentaçãodopessoal(Effectiveuseofartificial
+utingtonationalsecurity)(RiodeJaneiro:Escola intelligencetoolsinsupportofdecision-making,con-
+SuperiordeGuerra,2024), sideringpersonnelmovementpoliciesoftheBrazilian
+bitstream/123456789/2050/1/CAEPE.49%202024%20 Army)(RiodeJaneiro:EscoladeComandoEEstado
+TCC%20VC%20assinado.pdf(lastaccessed18February MaiordoExerrcito,2022),
+2026). bitstream/123456789/11349/1/MO%201045%20-%20
+Anderson%20VERAS%20Marques.pdf(lastaccessed18
+EstratégiaNacionaldeDefesa(NationalDefense February2026).
+Strategy)(Brasilia:MinistryofDefense,2024),https://
+ Moralez,JoãoPaulo,“LaArmadadeBrasilbotael
+ticias/end_2024_-_1a_minuta.pdf(lastaccessed18 submarinoS42Tonelero”(TheBrazilianNavylaunches
+February2026). theS42Tonelerosubmarine),PucaráDefensa,27March
+2024,
+FerreiradaSilva,Peterson,AGuerradoFuturo sil-bota-el-submarino-s42-tonelero(lastaccessed18
+jácomeçoueoBrasilenfrentaodesfaiodoabismo February2026).
+tecnológico(TheWaroftheFuturehasalreadybegun
+andBrazilfacesthechallengeofthetechnologicalgap) Moralez,JoãoPaulo,“Unejemploparaelcontinente”
+(Brasília:CentrodesEstudosEstratégicosdoExercito, (Anexampleforthecontinent),PucaráDefensa,28
+2019), April2025,
+wp-content/uploads/2019/09/a-guerra-do-futuro-ja-com- ra-el-continente(lastaccessed18February2026).
+ecou-e-o-brasil-enfrenta-o-desafio-do-abismo-tecnologi-
+co.pdf(lastaccessed18February2026). Newdick,Thomas,“Saab’sGripenTestsAIInLong-
+RangeAir-To-AirEngagements”,TheWarZone,11June
+FurtadoAndré,AInteligenciaArtificialMulti- 2025,
+agenteeosdesafiosparaoExércitoBrasileirono ai-in-long-range-aerial-engagements(lastaccessed18
+séculoXXI(Multi-agentArtificialIntelligenceandthe February2026).
+challengesfortheBrazilianArmyinthe21stCentury)
+(RiodeJaneiro:EscoladeComadoeEstado-Maior Nogueira,RenataMiranda,PrincipaisIniciativasde
+doExército,2023), inteligênciaartificialdosestadosUnidosdoAmérica
+stream/123456789/12904/1/MO%201112%20-%20Ron- eChinaquepodemcontribuircomofortalecimento
+aldo%20Andr%C3%A9%20FURTADO.pdf(lastaccessed dopodermaritimedobrasilecomaconsecução
+18February2026). dosobjetivosdapoliticanacionaldedefesa(KeyAI
+initiativesbytheUnitedStatesandChinathatcould
+GuerraCibernética.ManualdeCampanha(Cyber contributetostrengtheningBrazil’smaritimepowerand
+Warfare.CampaignManual)(Brazilia:MinostryofDe- chievetheobjectisoftheNationalDefensePolicy)(Rio
+fense,2017), deJaneiro:EscoladeGuerraNaval,2024),
+pdf/EB70MC10232.pdf(lastaccessed18February repositorio.mar.mil.br/bitstream/ripcmb/847706/1/
+2026). CSUP24_CC_T_RENATA_NOGUEIRA.pdf(lastaccessed
+18February2026).
+Junior,AliKamelIssmael,InteligênciaArtificial:
+AplicaçõesoperativasesperspectivasparaaMarinha “ParanáfirmaparceriacomExércitoparadesenvolvi-
+doBrasil(ArtificialIntelligence:operationalapplica- mentodepesquisasemIAecibersegurança”(Paraná
+WWW.DEFENSEAI.EU 39
+
+signspartnershipwiththeArmytodevelopresearch Teixeira,AlwexandrePeres,“Os‘Sistemasde
+inAIandcybersecurity),ParanáGovernodoEstado, CombateTotalmenteAutônomos’easimplicaçõesdo
+27October2025, seuusoparaoDireitoInternacionalHumanitário”(Fully
+Parana-firma-parceria-com-Exercito-para-desenvolvimen- AutonomousCombatSystemsandtheirlegalimplica-
+to-de-pesquisas-em-IA-e-ciberseguranca(lastaccessed tionsforBrazil),RevistadoMinisterioPublicoMilitar,24
+18February2026). October2023,
+view/58(lastaccessed18February2026).
+PereiradeSousa,CarlosEduardo,“Ainteligência
+artificialcomoferramentaparaatomadadedecisão SantosNanni;JoaoPedroetal.,Autilização
+noprocessodeplanejamentoconjuntodasforcas deinteligênciaartificialcomoestratégiadedefesa
+armadasBrasileiras”(Artificialintelligenceasatool nacional(Theuseofartificialintelligenceasanational
+fordecision-makinginthejointplanningprocessof defensestrategy),inFabricioMoraesdeAlmeide(ed.),
+theBrazilianArmedForces),undated, TrilhandooFuturo:Ciência,tecnologiaetinovação
+marinha.mil.br/egn/sites/ nacontemporaneidade(PontaGrossa:Atena,2023),
+files/A%20INTELIG%C3%8ANCIA%20ARTIFICIAL%20 pp.17-35,
+COMO%20FERRAMENTA%20PARA%20A%20TOMA- load-post/86458(lastaccessed18February2026).
+DA%20DE%20DECIS%C3%83O%20NO%20PROCESSO%20
+DE%20PLANEJAMENTO%20CONJUNTO%20DAS%20 Zaparolli,Domingos,“Bordersurveillance,”Revista
+FOR%C3%87AS%20ARMADAS%20BRASILEIRAS.pdf(last PesquisaFapesp,August2019,
+accessed18February2026). sa.fapesp.br/en/border-surveillance/#:~:text=In%20
+about%20six%20months%2C%20a%20650%2Dkilom-
+Picinini,AlexandreMedeiros,InteligênciaArtificial: eter%20(km),real%20time%20along%20the%20Brazil-
+Principaispossibilidadesdeaplicaçãonasoperações ian%20terrestrial%20border(lastaccessed18February
+militarestoExércitoBrasileiro(ArtificialIntelligence: 2026).
+mainpossibilitiesofapplicationinlandoperations)
+(RiodeJaneiro:EscoladeComandoeEstado-Ma- Zaparolli,Domingos,“Quartamaisinovadora,
+kordoExército,2024), Embraertemumaviãosóparatestarnovastecnologias”
+bitstream/123456789/14121/1/MO%207075%20-%20 (Themostinnovativeaircraftmanufacturer,Embraer,has
+Alexandre%20Medeiros%20PICININI.pdf(lastaccessed anaircraftdedicatedtotestingnewtechnologies.),Val-
+18February2024) or,19August2025,
+noticia/2025/08/19/valor-inovacao-quarta-mais-inova-
+PoliticaNacionaldeDefesa–EstratégiaNacional dora-embraer-tem-um-aviao-so-para-testar-novas-tecno-
+deDefesa(NationalDefensePolicy–NationalDefense logias.ghtml(lastaccessed18February2026).
+Strategy)(Brasilia:MinistryofDefense,2020),https://
+
+do-e-defesa/pnd_end_congresso_.pdf(lastaccessed18
+February2026).
+Sa,HebertAzevedoetal.“Tendenciasdainteligên-
+ciaartificialaplicadaàdefese:Forças,Fraquezas,
+oportunidadeseameaçasparaoBrasil”(Trendsin
+ArtificialIntelligenceappliedtodefense),BOCABoletim
+deConjuntura,21:62(26February2025),
+ioles.com.br/boca/index.php/revista/article/view/6573
+(lastaccessed18February2026).
+SIPRIYearkbook2025(Stockholm:StockholmInter-
+nationalPeaceResearchInstitute,2025).
+Soares,RachelandJodelmirSouza,“Theuseof
+ArtificialIntelligenceinSISFRON,”RevistadeSegurança,
+DesenvolvimentoeDefensa,1:1(Jul/Dez2024),pp.
+32-51,
+download/9/7/88(lastaccessed18February2026).
+40 FRAGMENTED EFFORTS
+
+Defense AI Observatory Studies
+26|33 Daniel Fiott, Controlled Adaptation and Integration. Defence AI in Belgium
+26|32 Raluca Csernatoni, From Laggard to Potential Regional Innovator? Defence AI in Romania
+25|31 Emanuel Ario Bimo and Bagus Jatmiko, A Careful Walk on Thin Ice. Defense AI in Indonesia
+25|30 Heiko Borchert, Bonds That Separate. Defense AI in the Arab Gulf States
+25|29 Rafał Lipka, Jakub Wernik, and Wojciech Dzięgiel, Guarding the Alliance’s Eastern Frontiers. Defense
+AI in Poland
+25|28 Umaima Ali, An Underdeveloped Strategic Necessity. Defence AI in Pakistan
+25|27 Heiko Borchert, Christian Brandlhuber, and Jeronimo Dzaack, Thinking Before Sinking.
+Red and Blue AI Tactics for Naval Combat
+24|26 Heiko Borchert and Christian Brandlhuber, His Hands Can’t Hit What His Eyes Can’t See.
+Emergent AI Tactics for Successful Operations in the Air Littoral
+24|25 Mahmoud Javadi, Heavy Thunder, No Rain: Defense AI in Iran
+24|24 Kitsch Liao, Intelligent National Defense Amid Strategic Ambiguity? Defense AI in Taiwan
+24|23 Motohiro Tsuchiya, Overcoming the Long Shadow of the Past. Defense AI in Japan
+24|22 Vitaliy Goncharuk, Survival of the Smartest? Defense AI in Ukraine
+24|21 Youngwook Park, Wil the One Ring Hold? Defense AI in South Korea
+23|20 Tomas Jermalivičius, Caught Between Today and Tomorrow. Defence AI in Estonia
+23|19 Nikolaos Karampekios, Konstantinos Sakalis, and Iraklis Oikonomou, Harnessing the Potential. De-
+fense AI in Greece
+23|18 Andreas Graae, Servers Before Tanks? Defence AI in Denmark
+23|17 Kévin Martin and Lucie Liversain, A Winding Road Before Scaling-Up? Defense AI in France
+23|16 Sami O. Järvinen, Cautious Data-Driven Evolution. Defence AI in Finland
+23|15 Inbar Dolinko and Liran Antebi, Embracing the Organized Mess. Defense AI in Israel
+23|14 Alastair Finlan, A Fertile Soil for AI? Defense AI in Sweden
+23|13 John Lee, “Overtaking on the Curve?” Defense AI in China
+23|12 Heiko Borchert, Torben Schütz, and Joseph Verbovszky, Master and Servant. Defense AI in Germany
+23|11 Katarzyna Zysk, High Hopes Amid Hard Realities. Defense AI in Russia
+23|10 Yvonne Hofstetter and Joseph Verbovzsky, How AI Learns the Bundeswehr’s
+“Innere Führung.” Value-Based Engineering with IEEE7000™-2021
+23|09 Robert C Engen, When the Teeth Eat the Tail: A Review of Canada’s Defence Artificial Intelligence
+23|08 Çağlar Kurç, Enabling Technology of Future Warfare. Defense AI in Turkey
+23|07 Lauren A. Kahn, Risky Incrementalism. Defense AI in the United States
+22|06 Yvonne Hofstetter, Wie KI Innere Führung lernt. Wertbasierte Technik mit IEEE7000™-2021
+22|05 Andrea Gilli, Mauro Gilli, and Ivan Zaccagnini, Exploring the Benefits of a New Force Enabler: Defense
+AI in Italy
+22|04 Kenneth Payne, Bright Prospects – Big Challenges. Defense AI in the United Kingdom
+22|03 Heiko Borchert, Christian Brandlhuber, Armin Brandstetter, and Gary S. Schaal, Free Jazz on the
+Battlefield. How GhostPlay’s AI Approach Enhances Air Defense
+22|02 Peter Layton, Evolution not Revolution. Australia’s Defence AI Pathway
+21|01 Heiko Borchert, Torben Schütz, Joseph Verbovszky, Beware the Hype. What Military Conflicts in
+Ukraine, Syria, Libya, and Nagorno-Karabakh (Don’t) Tell Us About the Future of War

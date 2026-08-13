@@ -1,0 +1,834 @@
+INDUSTRY BRIEF
+Healthcare,
+Life Sciences,
+and AI
+
+INDUSTRY BRIEF
+Introduction
+We are pleased to announce our new HAI Industry Briefs, which we
+hope will provide a valuable bridge between academic research at
+Stanford and our industry stakeholders seeking to understand and
+guide the impact of AI technologies.
+– John Etchemendy and Fei-Fei Li, the Denning Co-Directors of the
+Stanford Institute for Human-Centered Artificial Intelligence (HAI)
+For the full text of the introduction to the HAI Industry Briefs,
+visit hai.stanford.edu/blog/announcing-hai-industry-briefs.
+HAI’s mission is to advance AI research, education, policy and practice to improve
+the human condition. To learn more about HAI, visit hai.stanford.edu
+
+INDUSTRY BRIEF
+Healthcare &
+Life Sciences
+
+Drug Discovery
+
+Telehealth
+
+Ambient Intelligence
+
+Operational Excellence
+
+Medical Imaging
+
+Augmented Intelligence
+
+Data & Privacy
+Photo: Drew Kelly
+
+INDUSTRY BRIEF
+
+HEALTHCARE &
+LIFE SCIENCES
+DRUG DISCOVERY
+WHAT’S NEW?
+New computational approaches to drug discovery help to identify and
+examine relevant protein and molecular targets (such as the COVID-19
+spike protein), design candidate drugs, anticipate therapeutic responses 4
+and side-effects in patients, and optimize clinical trial enrollment. These “By augmenting and
+approaches leverage natural language processing to extract value from
+enhancing scientist
+biomedical literature at scale and apply neural network architectures that
+capabilities with
+enable deep learning on multi-modal data and simultaneous predictions
+on multiple tasks. computational approaches,
+AI has demonstrated the
+potential to overcome
+WHY DOES THIS MATTER NOW?
+major bottlenecks in
+Drug development is expensive and time-consuming with low success
+drug development. In my
+rates, where it is not uncommon for R&D to cost upwards of $1B and span
+over 10 years. The COVID-19 pandemic has spurred urgency to accelerate research with Genentech
+these processes with AI. Indeed, the category “Drugs, Cancer, Molecular,
+and Roche, we have
+Drug, Discovery” received the greatest amount of AI investment in 2020 with
+found that AI can make
+over $13.8B (4.5 times higher than in 2019).
+clinical trials, one of the
+lengthiest phases of drug
+development, both more
+EYE ON CAMPUS
+efficient and more inclusive.
+Researchers on campus are...
+This is only an early glimpse
+• T ackling COVID-19 with NLP and machine learning by rapidly scanning
+biomedical literature for target proteins, predicting the 3D structure of those into how AI can help us
+target proteins, and identifying drug candidates push the boundaries of
+• P redicting antibody binding sites on the receptor binding domain of the viral discovering, testing, and
+spike protein targeted by vaccine development efforts with machine learning
+accelerating the delivery of
+• Predicting antigen molecules relevant to the development of vaccines with
+medicines of the future.”
+multi-modal recurrent neural networks
+• J ointly predicting drug response, targets, and side effects with multi-task –James Zou, Assistant
+learning
+Professor of Biomedical
+• E stimating drug side-effect pro-arrhythmia risk by combining machine
+Data Science;
+learning and multiscale modeling
+HAI Faculty Affiliate
+• O ptimizing clinical trial enrollment
+
+INDUSTRY BRIEF
+
+HEALTHCARE &
+LIFE SCIENCES
+TELEHEALTH
+WHAT’S NEW?
+Machine learning is being newly applied to digital health contexts to
+automate processes in virtual patient visits, enable remote clinical
+diagnoses from patient mobile phone images, and assess the quality of 5
+“The landscape of
+text-based therapeutic services. Reinforcement learning and deep learning
+on mobile health data additionally enable real-time health analysis and digital health
+personalized interventions.
+is being rapidly
+transformed by the
+COVID-19 pandemic,
+WHY DOES THIS MATTER NOW?
+with the exponential
+COVID-19 has accelerated the adoption of digital health technologies in the
+form of virtual appointments, chatbots, and wearables -- providers report adoption of telehealth
+50-175 times the number of telehealth visits pre-COVID-19. The additional
+and remote care
+data generated from these digital touchpoints creates opportunities for
+AI to enhance remote healthcare delivery and provide more proactive, likely to only continue
+individualized care.
+growing in the post-
+pandemic future.
+EYE ON CAMPUS
+This is an exciting
+Researchers on campus are...
+moment to study the
+• A utomating patient history-taking in virtual visits from text with active
+learning possibilities and role
+of AI in digital health
+HAI • Augmenting psychotherapy in both in-person and digital
+technology.”
+contexts with NLP
+RESEARCH
+–Serena Yeung,
+• I dentifying diabetic retinopathy with deep learning on mobile phone images
+Assistant Professor
+• D etecting poor telehealth image quality for patient guidance with an
+automated machine learning pipeline of Biomedical Data
+• D etecting stroke risk-factors in real-time from wearable data with multi-task
+Science; HAI Faculty
+deep learning
+Affiliate
+• P ersonalizing mobile health interventions with reinforcement learning
+• D etecting illness with “smart toilets” and automated urine and stool analysis
+
+INDUSTRY BRIEF
+
+HEALTHCARE & LIFE SCIENCES
+AMBIENT INTELLIGENCE
+WHAT’S NEW?
+Low-cost sensors and advances in computer vision enable accurate activity
+recognition in healthcare and daily living spaces where constant human
+observation is infeasible. 6
+“For AI algorithms,
+Technical advances in visual tracking, human pose estimation, activity
+understanding dynamic
+recognition, real-time inference, and generalization to new environments
+help to overcome major algorithmic challenges to these applications. human behavior in health-
+This progress is reflected by the improving performance of submissions
+critical situations is far
+to several computer vision benchmark challenges, such as the ActivityNet
+more challenging than
+Temporal Action Localization Task, which has seen a 140% increase in
+highest mean average precision in the last five years. labeling cats and chairs in
+images. From a technical
+perspective, many
+WHY DOES THIS MATTER NOW?
+computer vision problems
+Extended passive vigilance can help improve the quality of healthcare
+remain to be overcome
+delivery, clinician productivity, and business operations, particularly
+before these technologies
+in times of scarce resources amidst healthcare crises. Fueled by the
+maturation of computer vision technologies, these solutions are can be widely deployed.
+becoming increasingly practical. However, we are on
+the right track with
+researchers and care
+EYE ON CAMPUS
+providers partnering
+Researchers on campus are...
+closely to combine the
+best of sensor hardware,
+• Making our hospitals smarter by embedding ambient
+AI algorithms, and a
+intelligence into their dark spaces
+HAI holistic understanding
+• Designing integrated solutions to help remotely monitor
+RESEARCH of patient needs and
+clinically relevant activities of seniors with non-intrusive
+existing practices.”
+sensors
+–Fei-Fei Li, Professor of
+• M easuring movement impairment in patients with cerebral palsy and
+Computer Science and
+parkinson’s with video
+Co-Director of HAI
+• M onitoring hand hygiene of health workers with depth sensors
+• A utomating video analysis of surgical operations
+
+INDUSTRY BRIEF
+
+HEALTHCARE & LIFE SCIENCES
+OPERATIONAL EXCELLENCE
+WHAT’S NEW?
+Prediction and simulation tools have been developed in direct response to
+COVID-19. They have demonstrated potential to effectively allocate limited
+resources and triage patients in emergency departments and model “The insights prov 7 ided by
+pandemic spread using population-scale cell phone data.
+Stanford Medicine’s AI
+World class advances leveraging machine learning, mathematical systems on COVID-19
+optimization, simulation, and other computational tools show potential to
+patients have helped
+supercharge the engines powering healthcare operations everywhere from
+front-line doctors reassess
+hospitals to public health departments.
+the appropriateness
+of care guidelines and
+WHY DOES THIS MATTER NOW? better manage hospital
+A health delivery system must be efficient and effective in daily resources without
+operations but also elastic enough to respond to unplanned systemic
+compromising health
+shocks. AI has found early success in creating value with automated tools
+outcomes. These early
+that predict or simulate risk, optimize resource allocation, and enhance
+operational efficiencies in a system where 25% of spending may already successes demonstrate the
+be considered wasteful.
+importance of partnering
+closely with care providers
+to bring AI into clinical use,
+EYE ON CAMPUS safely, ethically and cost
+Researchers on campus are... effectively. The challenge
+• B uilding data platforms that enable AI approaches to clinical data and have after the pandemic will be
+already powered insights boosting ICU capacity by 25% at Stanford Hospital to make these solutions
+• D eveloping an AI-based system capable of real-time identification and scalable and sticky to
+triage of handwritten faxed COVID-19 forms
+provide lasting value.”
+• A llocating scarce resources such as COVID-19 PCR tests and PPE according
+–Nigam Shah, Associate
+to predicted need
+Professor of Medicine
+• I nforming policy responses with fine-grained simulations of COVID-19
+and Biomedical Data
+spread as modeled by mobility networks
+Science; Associate CIO of
+• W orking with the Lucile Packard Children’s Hospital Stanford to forecast Data Science @ Stanford
+surgical procedure duration, improve operating room utilization, schedule
+Healthcare; HAI Faculty
+procedures, forecast patient flow, and automate nurse workload, patient
+Affiliate
+transfer, and billing decision-support
+
+INDUSTRY BRIEF
+
+HEALTHCARE & LIFE SCIENCES
+MEDICAL IMAGING
+WHAT’S NEW?
+Applications of deep learning to medical images and video continue
+to show promise in outperforming human experts on a wide range of
+
+diagnostic tasks. Researchers also find ways to use less hand-labeled
+data, reducing costs while still achieving accurate results. “Progress in deep
+learning has generated
+Human-in-the-loop AI outperforms either human or machine alone,
+suggesting a path to achieving the ideal symbiosis of human experts incredible excitement
+and AI models.
+among medical imaging
+researchers. Because
+medical images have
+WHY DOES THIS MATTER NOW?
+been captured in
+Hospital systems face pressure to rapidly deliver diagnostic results,
+while smaller clinics face a shortage of expertise. AI can expand access standard digital format
+to advanced imaging and assist physician judgment. AI models can
+for decades, scientists
+automatically analyze scans not only to enhance clinician accuracy, but
+are making dramatic
+also to triage patients according to urgency. Advances in medical imaging
+analysis may also unlock value beyond immediate clinical questions by progress developing
+enabling longer-range analysis of a patient’s imaging history. new methods to tackle
+the massive size and
+high complexity of
+EYE ON CAMPUS
+medical images. We are
+Researchers on campus are...
+starting to see concrete
+• A utomatically extracting labels from radiology text reports using BERT to results that improve
+serve as training data for computer vision experiments.
+patient care.”
+• R eleasing 10,000+ photos of Chest X-rays so clinics can obtain AI advice from
+smartphones –Curtis Langlotz,
+• L earning medical visual representations from paired images and text, Professor of Radiology
+reducing the need for hand-labeled datasets and of Medicine;
+• U sing deep learning on medical images and videos to assess cardiac function, Director of the Stanford
+diagnose appendicitis, diagnose pneumonia with swarm-based technology, Center for Artificial
+predict outcomes of non-small-cell lung cancer, and detect pulmonary
+Intelligence in Medicine
+embolisms
+and Imaging Center;
+HAI Faculty Affiliate
+
+INDUSTRY BRIEF
+
+HEALTHCARE & LIFE SCIENCES
+AUGMENTED INTELLIGENCE
+WHAT’S NEW?
+Machine-learning powered tools show potential to augment decision making
+systems and provide more personalized care by tapping into existing patient
+
+health records and genomic data. Some have moved beyond experimental
+phases to being deployed in practice, such as Stanford Medicine’s first-of-its- “As offline AI algorithms
+kind, in-house whole genome sequencing service, launched in January of 2021.
+in healthcare improve,
+we are increasingly
+WHY DOES THIS MATTER NOW?
+turning to the
+On top of the estimated $34B - $251B cost of caring for COVID-19 patients,
+challenges of real time
+deferred treatments and exacerbated behavioral health problems caused by
+the pandemic are projected to incur additional costs between $125B and $200B. implementation. It is
+With employer health insurance premiums expected to rise anywhere between an urgent priority to
+4% and 40% in 2021 and healthcare spending already accounting for roughly
+understand how human
+17% of GDP, urgency to make patient care more efficient and cost-effective with
+technology should not be felt by healthcare providers alone. AI tools have the experts respond to a
+potential to scale care without sacrificing cost, quality, and access.
+workflow augmented
+by AI and to study
+EYE ON CAMPUS
+how AI is, in turn,
+Researchers on campus are...
+incrementally impacted
+• Launching the first in-house clinical, whole-genome, sequencing-based
+by expert input or new
+diagnostic testing service, initially targeting patients with inherited
+cardiovascular diseases observations. Indeed,
+• Predicting the deterioration of patients with COVID-19 from past respiratory completing the Human
+infection data
+Intelligence-Artificial
+• Informing advanced care planning by predicting 12-month mortality from
+Intelligence cycle will
+EHR data
+be the major focus for
+• Distinguishing high-value from low-value medical diagnostic testing with a
+systematic machine learning approach healthcare AI efforts
+over the next few years.”
+• M ining patient electronic medical records to assess and
+HAI recommend clinical orders, inspired in approach by Amazon’s –Euan Ashley, Professor
+RESEARCH
+and Netflix’s product recommenders* of Medicine & Genetics;
+Associate Dean,
+• Predicting patient response to antidepressants and antibiotic susceptibility
+Precision Health
+with machine learning
+* Only first reference is to HAI funded research. 9
+
+INDUSTRY BRIEF
+
+HEALTHCARE & LIFE SCIENCES
+DATA: BIAS & PRIVACY
+WHAT’S NEW?
+Researchers have developed new computational and ethical frameworks for
+identifying and addressing issues of bias, consent, security, privacy, and justice.
+
+Techniques such as federated learning and secure multi-party computation
+(SMC) demonstrate potential as privacy-preserving approaches to aggregating, “As biomedical AI
+sharing, and computing on data for machine learning while maintaining
+increasingly moves
+regulatory compliance and patient privacy.
+into real-world use, we
+must ensure that it is
+WHY DOES THIS MATTER NOW?
+a force for addressing
+During COVID-19, AI has already shown potential to exacerbate health
+health disparities, not
+disparities and inspired calls for industry to create better off-the-shelf
+technologies for protecting patient privacy while responding to the pandemic. exacerbating them.
+As medical AI becomes more widely deployed, both developers and health
+It is imperative that
+practitioners must ensure the technology and its applications benefit the
+entire population. all stakeholders -
+academia, industry,
+EYE ON CAMPUS regulators, clinicians,
+Researchers on campus are...
+patients, ethicists, and
+• Deploying the world's largest application of SMC in a health context,
+others - proactively
+demonstrating the practicality of privacy-preserving analytics for
+population-scale digital health interventions collaborate to
+• Developing a federated learning-based distributed AI system for detecting anticipate and address
+COVID-19 without sharing patient data across institutions
+these issues.”
+• Identifying geographic bias in datasets used to train clinical deep learning
+algorithms
+–Russ Altman,
+• Raising concerns about unrepresentative training data and a lack of
+Professor of
+regulated COVID-19 data resources that may be exacerbating disparities or
+underrepresenting older people and people of color Bioengineering,
+Genetics, Medicine,
+HAI • Developing ethical frameworks for the sharing and use of
+and Biomedical Data
+clinical and sensor data in AI development*
+RESEARCH
+Science; Associate
+Director of HAI
+* Only second reference is to HAI funded research. 10
+
+INDUSTRY BRIEF
+Industry Take
+Industry will play a critical role in scaling the
+applications of AI research. For this reason, it is a
+goal and privilege of HAI to convene stakeholders
+from industry in addition to those in academia,
+government, and civil society to address the
+technical and societal challenges posed by AI.
+Leading venture investors, positioned at the
+frontlines of startup innovation, can provide
+a unique perspective on the development and
+deployment of AI technologies in the healthcare
+and life sciences industries.
+
+INDUSTRY BRIEF
+Industry Take
+“In recent years the power of AI to augment human performance to superhuman
+levels has been amply demonstrated in diverse medical applications such as
+interpreting radiological images, histopathology, genomics, colonoscopies,
+retinal images, EKGs, identifying gaps in care, and providing improved
+antibiotic recommendations. There should now be no question that AI, if
+deployed correctly, can be used to increase the quality of care, lower costs,
+and increase accessibility. Radical new technology can create opportunities for
+radically new ways of providing healthcare and new business models.”
+–Alex Morgan, Partner, Khosla Ventures
+“With a growing shortage of physicians and the increased strain caused by the
+pandemic, many medical professionals have their schedules packed so tightly that
+much of the human element which motivated their pursuit of medicine in the first
+place is reduced. In this state of affairs, AI will be an accelerant and enabler, not a
+threat. Already, it is helping care providers scale their ability to proactively detect
+and mitigate the risk of adverse events. Automated scribes are reducing the burden
+of tedious tasks, allowing doctors to focus on the patient. It would be good business
+for AI companies to help, rather than attempt to replace, medical professionals.”
+–Konstantin Buhler, Partner, Sequoia Capital
+“Given its immense potential utility, AI is now a part of every link on bio’s value
+chain, from drug discovery, to diagnostic development, to healthcare delivery
+technologies. There are so many new applications for AI in bio that it is
+increasingly difficult to delineate the signal from the noise. One of the best ways
+to do this is to determine whether a new AI-driven technology is differentiated
+from the competition. To understand the innovative nature of a given product, it
+is naturally important to have a deeper understanding of the application domain
+(medical transcription, drug design, biomarker discovery, clinical trial prediction, etc).
+The core question here is whether it actually enables something unprecedented in the field, be it a
+completely new use case or an order of magnitude improvement in speed/efficiency/cost/etc. The
+logic here is actually the same for all new products, AI or not.”
+–Vijay Pande, General Partner, Andreessen Horowitz
+Adjunct Professor of Bioengineering, Stanford University
+
+INDUSTRY BRIEF
+Nearly 200 Stanford faculty
+LATEST
+FROM HAI
+FACULTY are affiliates of Stanford HAI,
+spanning all seven schools and
+and more than 90 departments.
+The Value of Data and AI: Strategies for Senior
+Leadership, is an upcoming HAI Executive Education
+Program in which Stanford faculty take senior
+executives and key decision-makers through the
+emerging business strategies and research around
+the economics of data and AI.
+Program: March 29 - 31
+Application Deadline: March 22
+Apply early for the best chance to secure your seat. Admitted applicants should
+use the promo code “INDUSTRYBRIEF" at the time of course registration to
+receive a 20% discount for the program.
+Submit your application today.
+JAMES ZOU
+is the HAI Faculty Director for The Value of Data and
+AI Executive Education Program. He is an Assistant
+Professor of Biomedical Data Science (and Computer
+Science and Electrical Engineering, by courtesy), HAI
+Faculty Affiliate, Faculty Director of Stanford AI for
+Health, and a Chan-Zuckerberg Investigator.
+
+INDUSTRY BRIEF
+Are you prepared for
+the next wave of change?
+THINGS YOU SHOULD KNOW.
+52%
+$15.7
+T
+of Fortune 500 companies
+in value will be added
+were extinguished by
+by AI to the global
+digital disruption between
+economy by 20303
+2000 and 20141
+$1.4
+50% B
+in annualized value can
+of the S&P 500 in 2018
+be gained by AI-led
+was forecasted to be
+transformation of a
+replaced in just ten years2
+Fortune 500 company4
+References:
+1 Ray Wang, “Research Summary: Sneak Peeks From Constellation’s Futurist Framework
+And 2014 Outlook On Digital Disruption,” Constellation Research, February 18, 2014.
+2 Scott D. Anthony et al., “2018 Corporate Longevity Forecast: Creative Destruction is Accelerating,” Innosight, .
+3 “PwC’s Global Artificial Intelligence Study: Sizing the prize,” PricewaterhouseCoopers, Retrieved March 1, 2021.
+4 “Incorporate enterprise A.I. now or risk getting disrupted,” Fortune + C3. Ai, Retrieved March 1, 2021.
+
+INDUSTRY BRIEF
+Become a
+corporate
+member today.
+50% of companies are likely to
+miss the window of opportunity.1
+Let’s talk.
+Learn more about the
+Corporate Members Program
+and the Stanford advantage.
+Panos Madamopoulos,
+HAI Director of Partnerships
+1 Jacques Bughin, “Wait-and-See Could Be a Costly AI Strategy,” MIT Sloan Management Review, June 15, 2018.
+
+INDUSTRY BRIEF
+Appendix
+
+Artificial
+Intelligence
+Definitions
+Intelligence might be defined as the ability to learn such as winning games, without explicit examples of
+and perform suitable techniques to solve problems and good techniques, enabling autonomy.
+achieve goals, appropriate to the context in an uncertain,
+Deep Learning is the use of large multi-layer
+ever-varying world. A fully pre-programmed factory robot
+(artificial) neural networks that compute with
+is flexible, accurate, and consistent but not intelligent.
+continuous (real number) representations, a little like the
+Artificial Intelligence (AI), a term coined by hierarchically-organized neurons in human brains. It is
+emeritus Stanford Professor John McCarthy in 1955, was currently the most successful ML approach, usable for all
+defined by him as “the science and engineering of making types of ML, with better generalization from small data
+intelligent machines”. Much research has humans program and better scaling to big data and compute budgets.
+software agents to behave in a clever way, like playing
+An algorithm lists the precise steps to take, such
+chess, but, today, we emphasize agents that can learn, as
+as a person writes in a computer program. AI systems
+human beings navigating our changing world do.
+contain algorithms, but often just for a few parts like a
+Autonomous systems can independently plan and learning or reward calculation method. Much of their
+decide sequences of steps to achieve a specified goal behavior emerges via learning from data or experience,
+without micro-management. A hospital delivery robot which is a sea change in system design that Stanford
+must autonomously navigate busy corridors to succeed in alumnus Andrej Karpathy dubbed Software 2.0.
+its task. In AI, autonomy doesn’t have the sense of being
+Narrow AI is intelligent systems for particular tasks,
+self-governing that is common in politics or biology.
+e.g., speech or facial recognition. Human-
+Machine Learning (ML) is the part of AI studying level AI, or Artificial General Intelligence
+how computer systems can improve their perception, (AGI), seeks broadly intelligent, context-aware
+knowledge, decisions, or actions based on experience or machines. It is needed for effective, adaptable social
+data. For this, ML draws from computer science, statistics, chatbots or human-robot interaction.
+psychology, neuroscience, economics, and control theory.
+Human-Centered Artificial Intelligence is
+In supervised learning, a computer learns to AI that seeks to augment the abilities of, address the
+predict human-given labels, such as dog breed based on societal needs of, and draw inspiration from human
+labeled dog pictures; unsupervised learning does beings. It researches and builds effective partners and
+not require labels, sometimes making its own prediction tools for people, such as a robot helper and companion
+tasks such as trying to predict each successive word in for the elderly.
+a sentence; reinforcement learning lets an agent Text by Professor Christopher Manning, v 1.1, 
+learn action sequences that optimize its total rewards, Learn more at hai.stanford.edu
+
+References Zhang, D., Mishra, S., Brynjolfsson, E., Etchemendy, J., Ganguli D.,
+Grosz B., Lyons T., Manyika J., Niebles, JC., Sellitto, M., Shoham,
+Y., Clark J., and Perrault, R. “The AI Index 2021 Annual Report,”
+HEALTHCARE & AI Index Steering Committee, Human-Centered AI Institute,
+LIFE SCIENCES Stanford University, Stanford, CA, .
+Telehealth
+Drug Discovery Agarwal, P., Shcherbina, A., Day, S., Saberi, S., Mealiffe, M.,
+Edelberg, J.M., Li, Y., & Ashley, E. (2020). Abstract 14963:
+Chen, B., Khodadoust, M.S., Olsson, N. et al. Predicting Accelerometer-measured Activity in Non-obstructive Hypertrophic
+HLA class II antigen presentation through integrated deep Cardiomyopathy: Patient-generated Activity Measures Correlate
+learning. Nat Biotechnol 37, 1332–1343 (2019). With, and Are Convolutional Neural Network Predictors of, Clinical
+org/10.1038/s41587-019-0280-2 Parameters in the MAVERICK-HCM Study. Circulation, 142. https://
+
+Buhler, K. (2020, July 7). What A Stanford Researcher’s
+Fight Against Covid-19 Can Tell Us About The Future Of Armitage, H. (2020, April 6). ‘Smart toilet’ monitors for signs of
+Drug Discovery. Forbes. disease. Stanford Medicine News Center. 
+konstantinebuhler/2020/07/07/what-a-stanford-researchers- edu/news/all-news/2020/04/smart-toilet-monitors-for-signs-of-
+fight-against-covid-19-can-tell-us-about-the-future-of-drug- disease.html
+discovery/?sh=404bd0a71e01
+Ludwig, CA., Perera, C., Myung, D., Greven, MA., Smith, SJ., Chang,
+Fast, E., Altman, R. B. & Chen, B. Potential T-cell and B-cell RT., Leng, T; Automatic Identification of Referral-Warranted
+Epitopes of 2019-nCoV. (2020). Preprint at Diabetic Retinopathy Using Deep Learning on Mobile Phone
+org/10.1101/2020.02.19.955484 Images. Trans. Vis. Sci. Tech. 2020;9(2):60. doi: 
+org/10.1167/tvst.9.2.60.
+Liu, R. (2021, April 7). AI uses patient data to optimize
+selection of eligibility criteria for clinical trials. Nature. Miller, K. (2021, January 14). Augmenting Psychotherapy with AI.
+ Stanford Institute for Human-Centered AI. 
+5?error=cookies_not_supported&code=d8270d24-95ca-4c28- edu/blog/augmenting-psychotherapy-ai
+8f02-37e06df9ac20
+McKinsey on Healthcare: 2020 Year in Review | Healthcare Systems
+Lynch, S. (2020, April 30). Russ Altman: AI’s Potential To Detect & Services. (2020). McKinsey & Company. 
+COVID and Find Cures. Stanford Institute for Human-Centered com/industries/healthcare-systems-and-services/our-insights/
+AI. mckinsey-on-healthcare-2020-year-in-review
+detect-covid-and-find-cures
+Mottaghi, A., Sarma, P., Amatriain, X., Yeung, S., & Kannan, A.
+Sahli-Costabal, F., Seo, K., Ashley, E., & Kuhl, E. (2020). (2020). Medical symptom recognition from patient text: An active
+Classifying Drugs by their Arrhythmogenic Risk Using Machine learning approach for long-tailed multilabel distributions. ArXiv,
+Learning. Biophysical journal, 118(5), 1165–1176. 
+org/10.1016/j.bpj.2020.01.012
+Tomkins, S., Liao, P., Klasnja, P.V., Yeung, S., & Murphy, S. (2020).
+Jiang Y, Rensi S, Wang S, Altman RB. DrugOrchestra: Jointly Rapidly Personalizing Mobile Health Treatment Policies with
+predicting drug response, targets, and side effects via deep Limited Data. ArXiv, 
+multi-task learning. bioRxiv; 2020. Prepint at 
+Torres-Soto, J., & Ashley, E. A. (2020). Multi-task deep learning
+org/10.1101/2020.11.17.385757
+for cardiac rhythm detection in wearable devices. NPJ digital
+Rensi, S., Altman, R. B., Liu, T., Lo, Y. C., McInnes, G., Derry, medicine, 3, 116. 
+A., & Keys, A. (2020). Homology Modeling of TMPRSS2 Yields
+Vodrahalli, K., Daneshjou, R., Novoa, R., Chiou, A., Ko, J., & Zou, J.
+Candidate Drugs That May Inhibit Entry of SARS-CoV-2 into
+(2020). TrueImage: A Machine Learning Algorithm to Improve the
+Human Cells. ChemRxiv : the preprint server for chemistry,
+Quality of Telehealth Photos. ArXiv, 
+10.26434/chemrxiv.12009582.v1. 
+chemrxiv.12009582 Webster, D.E., Tummalacherla, M., Higgins, M., Wing, D., Ashley,
+E., Kelly, V.E., McConnell, M., Muse, E., Olgin, J., Mangravite, L.M.,
+Wouters OJ, McKee M, Luyten J. Estimated Research and
+Godino, J.G., Kellen, M.R., & Omberg, L. (2020). Heart Snapshot:
+Development Investment Needed to Bring a New Medicine
+a broadly validated smartphone measure of VO2max for
+to Market, 2009-2018. JAMA. 2020;323(9):844–853. https://
+collection of real world data. bioRxiv. 
+jamanetwork.com/journals/jama/article-abstract/2762311
+content/10.1101/2020.07.02.185314v1 81
+
+References
+Operational Excellence
+HEALTHCARE & Chang, S., Pierson, E., Koh, P.W. et al. Mobility network models
+of COVID-19 explain inequities and inform reopening. Nature
+LIFE SCIENCES
+589, 82–87 (2021). 
+Chebrolu, K., Ressler, D., & Varia, H. (2022, October 22). Smart
+use of artificial intelligence in health care. Deloitte Insights.
+
+care/artificial-intelligence-in-health-care.html
+Ambient Intelligence
+Datta, S., Posada, J., Olson, G., Li, W., O’Reilly, C., Balraj, D.,
+Abate, T. (2020, September 9). Smarter Hospitals: How AI-
+Mesterhazy, J., Pallas, J., Desai, P., & Shah, N. (2020). A new
+Enabled Sensors Could Save Lives. Stanford Institute for
+paradigm for accelerating clinical data science at Stanford
+Human-Centered AI. 
+Medicine. ArXiv, 
+hospitals-how-ai-enabled-sensors-could-save-lives
+Joshi, R.P., Pejaver, V., Hammarlund, N., Sung, H., Lee, S.K.,
+Flynn, L. (2020, August 12). Improving Hospital Hand Hygiene:
+Furmanchuk, A., Lee, H., Scott, G., Gombar, S., Shah, N.,
+The Solution May Lie with AI. Stanford Medicine Clinical
+Shen, S., Nassiri, A., Schneider, D., Ahmad, F.S., Liebovitz,
+Excellence Research Center. 
+D.M., Kho, A., Mooney, S., Pinsky, B., & Banaei, N. (2020).
+news/cerc-articles/improving-hospital-hand-hygiene.html
+A predictive tool for identification of SARS-CoV-2 PCR-
+Lu, M., Poston, K., Pfefferbaum, A., Sullivan, E., Fei-Fei, L., Pohl, negative emergency department patients using routine test
+K.M., Niebles, J.C., & Adeli, E. (2020). Vision-based Estimation of results. Journal of Clinical Virology, 129, 104502 - 104502.
+MDS-UPDRS Gait Scores for Assessing Parkinson's Disease Motor 
+Severity. Medical image computing and computer-assisted S1386653220302444?via%3Dihub
+intervention : MICCAI ... International Conference on Medical
+Lavertu, A., Stribling, A., White, M., McInnes, G., Altman, R.,
+Image Computing and Computer-Assisted Intervention, 12263,
+Pramanik, R., & Kaushal, A. (2020). Covid Fast Fax: A system for
+637-647. 
+real-time triage of Covid-19 case report faxes. medRxiv. https://
+Myers, A. (2020, August 11). A Powerful AI Tool Could Help 
+Medical Professionals Treat Serious Motor Dysfunction. Stanford
+Scheinker, D., & Brandeau, M.L. (2020). Implementing Analytics
+Institute for Human-Centered AI. 
+Projects in a Hospital: Successes, Failures, and Opportunities.
+blog/powerful-ai-tool-could-help-medical-professionals-treat-
+Interfaces, 50, 176-189. 
+serious-motor-dysfunction
+full/10.1287/inte.2020.1036?af=R
+Senior Care | Stanford Partnership in AI-Assisted Care (PAC).
+Shaban, B. R. C. (2021, February 11). Silicon Valley Prescribes
+(n.d.). Stanford Partnership in AI-Assisted Care. Retrieved
+‘Big Data’ to Combat COVID-19. NBC Bay Area. 
+February 9, 2021, from 
+nbcbayarea.com/investigations/silicon-valley-prescribes-big-
+senior_care/
+data-to-combat-covid-19/2465131/
+Task 1 – Temporal Action Localization | International
+Challenge on Activity Recognition 2020 (ActivityNet). (2020).
+ActivityNet. Medical Imaging
+anet_localization.html
+Huang, SC., Kothari, T., Banerjee, I. et al. PENet—a scalable
+Zhang, M., Cheng, X., Copeland, D., Desai, A., Guan, M.Y., Brat,
+deep-learning model for automated diagnosis of pulmonary
+G.A., & Yeung, S. (2020). Using Computer Vision to Automate
+embolism using volumetric CT imaging. npj Digit. Med. 3, 61
+Hand Detection and Tracking of Surgeon Movements in Videos
+(2020). 
+of Open Surgery. ArXiv, 
+Hughes, J., Yuan, N., He, B., Ouyang, J., Ebinger, J., Botting,
+Zhang, D., Mishra, S., Brynjolfsson, E., Etchemendy, J., Ganguli D.,
+P., Lee, J., Tooley, J., Neiman, K., Lungren, M.P., Liang, D.,
+Grosz B., Lyons T., Manyika J., Niebles, JC., Sellitto, M., Shoham,
+Schnittger, I., Harrington, R., Chen, J.H., Ashley, E., Cheng,
+Y., Clark J., and Perrault, R. “The AI Index 2021 Annual Report,” AI
+S., Ouyang, D., & Zou, J. (2021). Deep Learning Prediction of
+Index Steering Committee, Human-Centered AI Institute, Stanford
+Biomarkers from Echocardiogram Videos. medRxiv. https://
+University, Stanford, CA, .
+
+References Centers for Medicare and Medicaid Services. (2020, December
+16). NHE Fact Sheet. CMS.Gov. 
+Research-Statistics-Data-and-Systems/Statistics-Trends-and-
+HEALTHCARE & Reports/NationalHealthExpendData/NHE-Fact-Sheet
+LIFE SCIENCES
+Corbin, C. K., Medford, R. J., Osei, K., & Chen, J. H. (2020).
+Personalized Antibiograms: Machine Learning for Precision
+Selection of Empiric Antibiotics. AMIA Joint Summits on
+Translational Science proceedings. AMIA Joint Summits on
+Mukherjee, P., Zhou, M., Lee, E. et al. A shallow convolutional Translational Science, 2020, 108–115. 
+neural network predicts prognosis of lung cancer patients in nih.gov/pmc/articles/PMC7233062/
+multi-institutional computed tomography image datasets. Nat
+Jung, K., Kashyap, S., Avati, A., Harman, S., Shaw, H., Li,
+Mach Intell 2, 274–282 (2020). 
+R., Smith, M.A., Shum, K., Javitz, J., Vetteth, Y., Seto, T.,
+020-0173-6
+Bagley, S.C., & Shah, N.H. (2020). A framework for making
+Ollove, M. (2020, January 31). Rural America’s Health Crisis predictive models useful in practice. medRxiv. https://
+Seizes States’ Attention. Pew. academic.oup.com/jamia/advance-article/doi/10.1093/jamia/
+en/research-and-analysis/blogs/stateline/2020/01/31/rural- ocaa318/6045012
+americas-health-crisis-seizes-states-attention
+Li, R., Wang, J., Sharp, C.D., & Chen, J. (2019). When order
+Ouyang, D., He, B., Ghorbani, A., Yuan, N., Ebinger, J., Langlotz, sets do not align with clinician workflow: assessing practice
+C. P., Heidenreich, P. A., Harrington, R. A., Liang, D. H., Ashley, patterns in the electronic health record. BMJ Quality
+E. A., & Zou, J. Y. (2020). Video-based AI for beat-to-beat & Safety, 28, 987 - 996. 
+assessment of cardiac function. Nature, 580(7802), 252–256. content/28/12/987
+
+Rajpurkar P, Yang J, Dass N, et al. Evaluation of a Machine
+Patel, B.N., Rosenberg, L., Willcox, G. et al. Human–machine Learning Model Based on Pretreatment Symptoms and
+partnership with artificial intelligence for chest radiograph Electroencephalographic Features to Predict Outcomes
+diagnosis. npj Digit. Med. 2, 111 (2019). of Antidepressant Treatment in Adults With Depression:
+s41746-019-0189-7 A Prespecified Secondary Analysis of a Randomized
+Clinical Trial. JAMA Netw Open. 2020;3(6):e206653.
+Phillips, N.A., Rajpurkar, P., Sabini, M., Krishnan, R., Zhou, S.,
+
+Pareek, A., Phu, N.M., Wang, C., Jain, M., Du, N.D., Truong,
+fullarticle/2767367
+S.Q., Ng, A., & Lungren, M. (2020). CheXphoto: 10,000+ Photos
+and Transformations of Chest X-rays for Benchmarking Deep Lee, V. (2021, February 2). U.S. Health Care Is in Flux. Here’s
+Learning Robustness. arXiv: Image and Video Processing. What Employers Should Do. Harvard Business Review.
+ 
+employers-should-do
+Rajpurkar, P., Park, A., Irvin, J. et al. AppendiXNet: Deep
+Learning for Diagnosis of Appendicitis from A Small Dataset Sang, S., Sun, R., Coquet, J., Carmichael, H., Seto, T., &
+of CT Exams Using Video Pretraining. Sci Rep 10, 3958 (2020). Hernandez-Boussard, T. (2021). Learning from past respiratory
+ infections to predict COVID-19 Outcomes: A retrospective
+study. Journal of medical Internet research. 
+Smit, A., Jain, S., Rajpurkar, P., Pareek, A., Ng, A., & Lungren, M.
+jmir.org/preprint/23026/accepted
+(2020). CheXbert: Combining Automatic Labelers and Expert
+Annotations for Accurate Radiology Report Labeling Using Understanding the hidden costs of COVID-19’s potential
+BERT. EMNLP. impact on US healthcare. (2020, September 4). McKinsey
+& Company. 
+Zhang, Y., Jiang, H., Miura, Y., Manning, C.D., & Langlotz, C. (2020).
+healthcare-systems-and-services/our-insights/understanding-
+Contrastive Learning of Medical Visual Representations from
+the-hidden-costs-of-covid-19s-potential-impact-on-us-
+Paired Images and Text. ArXiv, 
+healthcare#
+Wang, J.X., Sullivan, D.K., Wells, A.C., & Chen, J. (2020).
+ClinicNet: machine learning for personalized clinical order
+Augmented Intelligence
+set recommendations. JAMIA Open, 3, 216 - 224. https://
+academic.oup.com/jamiaopen/article/3/2/216/5864422
+Armitage, H. (2021b, February 11). Stanford Medicine launches
+in-house service for whole genome sequencing. Stanford
+Medicine. 
+stanford-medicine-service-for-whole-genome-sequencing.html
+
+References Röösli, E., Rice, B., & Hernandez-Boussard, T. (2021). Bias at warp
+speed: how AI may contribute to the disparities gap in the time of
+COVID-19. Journal of the American Medical Informatics Association
+HEALTHCARE &
+: JAMIA, 28, 190 - 192. 
+LIFE SCIENCES PMC7454645/
+Xu, Y., Ma, L., Yang, F., Chen, Y., Ma, K., Yang, J., Yang, X., Shu,
+C., Fan, Z., Gan, J., Zou, X., Huang, R., Zhang, C., Liu, X., Tu, D.,
+Xu, C., Zhang, W., Yang, D., Wang, M., Wang, X., Xie, X., Leng, H.,
+Holalkere, N., Halin, N.J., Kamel, I., Wu, J., Peng, X., Shao, J.,
+Data & Privacy Mongkolwat, P., Zhang, J., Rubin, D., Wang, G., Zheng, C., Li, Z.,
+Bai, X., & Xia, T. (2020). A collaborative online AI engine for CT-
+E, Andrews. “Finding the COVID-19 Victims That Big Data Misses.” based COVID-19 diagnosis. medRxiv. 
+Stanford HAI, Stanford Institute for Human-Centered AI, 8 Feb. content/10.1101/2020.05.10.20096073v2
+2021, 
+big-data-misses Zoppi, B. L. A. (2020, March 24). New ethical framework developed
+to tackle ethical issues in clinical AI data sharing. News Medical Life
+Enya Inc. (2020, December 8). Six Million Fighting Covid-19: Sciences. 
+FeverIQ Offers Premium Covid Safety Solution for Free to Public ethical-framework-developed-to-tackle-ethical-issues-in-clinical-
+Elementary Schools. PR Newswire. AI-data-sharing.aspx
+com/news-releases/six-million-fighting-covid-19-feveriq-offers-
+premium-covid-safety-solution-for-free-to-public-elementary-
+schools-301188180.html Other
+Larson, D., Magnus, D., Lungren, M., Shah, N., & Langlotz, C. Anthony, S. D., Viguerie, S. P., Schwartz, E. L., & Landeghem, J.
+(2020). Ethics of Using and Sharing Clinical Imaging Data for D. (2018, February). 2018 Corporate Longevity Forecast: Creative
+Artificial Intelligence: A Proposed Framework. Radiology, 192536. Destruction is Accelerating. Innosight. 
+ com/wp-content/uploads/2017/11/Innosight-Corporate-
+Longevity-2018.pdf
+Lynch, S. (2020, September 21). The Geographic Bias in Medical
+AI Tools. Stanford Institute for Human-Centered AI. Incorporate enterprise A.I. now or risk getting disrupted. (n.d.).
+stanford.edu/blog/geographic-bias-medical-ai-tools Fortune + C3.Ai. Retrieved March 1, 2021, from 
+studio.fortune.com/c3.ai/incorporate-enterprise-ai-now-or-risk-
+Martinez-Martin, N., Luo, Z., Kaushal, A., Adeli, E., Haque, A., Kelly,
+getting-disrupted/?prx_t=hx0GAQ6hIAoPEQA&ntv_fr
+S.S., Wieten, S., Cho, M., Magnus, D., Fei-Fei, L., Schulman, K., &
+Milstein, A. (2020). Ethical issues in using ambient intelligence Bughin, J. (2018, June 15). Wait-and-See Could Be a Costly AI
+in health-care settings. The Lancet. Digital health. Strategy. MIT Sloan Management Review. 
+sciencedirect.com/science/article/pii/S2589750020302752 edu/article/wait-and-see-could-be-a-costly-ai-strategy/
+Nyczepir, D. (2020, July 8). As data-sharing becomes more crucial, PricewaterhouseCoopers. (n.d.). PwC’s Global Artificial Intelligence
+agencies say industry can help with privacy issues. FedScoop. Study: Sizing the prize. PwC. Retrieved March 1, 2021, from https://
+ 
+census-bureau/ artificial-intelligence-study.html
+Ranjan, A., Li, S., Chen, B., Chiu, A., Jagadeesh, K., & Liphardt, J. Wang, R. (2014, February 18). Research Summary: Sneak Peeks From
+(2020). FeverIQ - A Privacy-Preserving COVID-19 SymptomTracker Constellation’s Futurist Framework. Constellation Research. https://
+with 3.6 Million Reports. medRxiv. 
+content/10.1101/2020.09.23.20200006v2 peeks-constellations-futurist-framework-and-2014-outlook-digital
+Acknowledgments
+This brief was produced by the HAI Partnerships team as one of its strategic initiatives, with research and writing led
+by Alice Hau. We are grateful for the generosity of the following people for providing their time, helpful suggestions,
+and constructive feedback in the creation of this brief (names listed in alphabetical order): Alex Morgan, Amit Kaushal,
+Curtis Langlotz, Erika Strandberg, Euan Ashley, Fei-Fei Li, Hesam Motlagh, James Zou, Jan Liphardt, John Etchemendy,
+Jonathan Chen, Jure Leskovec, Konstantine Buhler, Nigam Shah, Pablo Paredes, Russ Altman, Serena Yeung, Serina
+
+Chang, Stefano Rensi, Tina Wie, Vijay Pande, and the HAI Staff.

@@ -1,0 +1,68 @@
+Scanning and observing
+
+Space object catalogues, as generated and maintained by space surveillance networks, are limited to larger objects, typically greater than 10 cm in low-Earth orbits (LEO, below about 2000 km) and greater than 0.3–1 m at geostationary orbits (GEO, about 36 000 km). These sensitivity thresholds are a compromise between system cost and performance.
+
+Knowledge of the meteoroid and space debris environment at subcatalogue sizes is normally acquired through statistical analysis, although, in general terms:
+
+Ground­based telescopes can detect debris down to 10 cm in size in GEO;
+
+Ground­based radars can detect debris down to a few cm in size in LEO;
+
+In­situ impact detectors (detectors flying on spacecraft) can sense objects down to a few micrometres.
+
+While telescopes are mainly suited for GEO and high­-altitude debris observations, radars are advantageous for LEO.
+
+International collaboration
+
+ESA collaborates primarily with the operators of the Tracking and Imaging Radar (TIRA), located at the Fraunhofer Institute for High Frequency Physics and Radar Techniques (FHR), near Bonn, Germany.
+
+The TIRA radar features a 34 m-diameter dish antenna operating in L-­band for debris detection and tracking.
+
+Apart from tracking campaigns, the radar also conducts regular ‘beam park’ experiments, where the beam is pointed in a fixed direction for 24 hours, so that it scans 360º in a narrow strip of the sky during a full Earth rotation, detecting objects that move through the beam.
+
+In such experiments, TIRA can detect debris and determine coarse orbit information for objects of diameters down to 2 cm at 1000 km range.
+
+The radar can also work in tandem with the 100 m-diameter receiver antenna of the nearby Effelsberg radio telescope (TIRA transmits a signal that reflects off an object and is picked up by Effelsberg). In this ‘bistatic’ mode, the overall sensitivity increases toward 1 cm objects. A special seven-­horn receiver, developed for the 100 m-diameter Effelsberg telescope, allows better resolution of object passages, permitting a reliable assessment of radar cross-­sections.
+
+In Tromsø, Norway, the European Incoherent Scatter Scientific Association (EISCAT), an international scientific partnership involving scientific institutes in 10 countries, operates a 930 MHz UHF radar and a 225 MHz VHF radar. They also have a 500 MHz radar system consisting of a steerable 32 m dish and a fixed 42 m dish in Longyearbyen, Svalbard.
+
+The primary mission of the EISCAT network is to perform ionospheric measurements. However, following the development of a dedicated space­-debris computer to run at the back­end of the processing units, these radars are capable of statistical observations of LEO debris down to some centimetres in size, without compromising the main EISCAT objectives.
+
+Monitoring and model validation of the space debris environment requires conducting regular radar and optical observation campaigns.
+
+The EISCAT radars now allow continuous monitoring of the LEO debris population in a beam-park configuration. As an example, EISCAT monitored and characterised China's FengYun-1C debris cloud, generated at 800 km altitude in following its intentional destruction, the worst single fragmentation event in space history.
+
+ESA’s top­-ranked telescope: detecting unknown objects
+
+ESA operates an Optical Ground Station (OGS) at the Teide Observatory on Tenerife, Spain, where a Zeiss 1 m-diameter telescope is used for the survey and characterisation of objects near the geostationary ring. The telescope has Ritchey­Chrétien optics, with a field of view of about 0.7º, and highly efficient digital cameras.
+
+The telescope can detect and track near­-GEO objects up to magnitudes of +19 to +21 (down to 10–15 cm in size). With this performance, the ESA telescope is top­ranked worldwide. During GEO observation campaigns, typically 75% of all detections are new objects that are not contained in the US Space Surveillance Catalogue.
+
+The data provided by the telescope are a major input for space debris-environment models, indicating a much larger number of GEO fragmentation events than confirmed so far (a Soviet Ekran-2 satellite explosion in 1978 and a US Titan Transtage break-up in 1992). Observations of highly eccentric orbits passing through GEO led to the discovery of a class of faint, lightweight objects with high area­-to-­mass ratios. Orbital characteristics indicate that those could be pieces of thermal blankets of satellites.
+
+The telescope is also capable of conducting photometric observations, to determine the ‘colour’ of objects. This enables the material properties of unknown objects to be characterised and provides valuable information on the potential origin of newly detected fragments.
+
+The OGS has also demonstrated that it can acquire spectroscopic information, which can give even greater insight into the material composition of fragments. These observation capabilities may be extended in future.
+
+Space object catalogues, as generated and maintained by space surveillance networks, are limited to larger objects, typically greater than 10 cm in low-Earth orbits (LEO, below about 2000 km) and greater than 0.3–1 m at geostationary orbits (GEO, about 36 000 km). These sensitivity thresholds are a compromise between system cost and performance.
+Knowledge of the meteoroid and space debris environment at subcatalogue sizes is normally acquired through statistical analysis, although, in general terms:
+Ground­based telescopes can detect debris down to 10 cm in size in GEO;
+Ground­based radars can detect debris down to a few cm in size in LEO;
+In­situ impact detectors (detectors flying on spacecraft) can sense objects down to a few micrometres.
+While telescopes are mainly suited for GEO and high­-altitude debris observations, radars are advantageous for LEO.
+International collaboration
+ESA collaborates primarily with the operators of the Tracking and Imaging Radar (TIRA), located at the Fraunhofer Institute for High Frequency Physics and Radar Techniques (FHR), near Bonn, Germany.
+The TIRA radar features a 34 m-diameter dish antenna operating in L-­band for debris detection and tracking.
+Apart from tracking campaigns, the radar also conducts regular ‘beam park’ experiments, where the beam is pointed in a fixed direction for 24 hours, so that it scans 360º in a narrow strip of the sky during a full Earth rotation, detecting objects that move through the beam.
+In such experiments, TIRA can detect debris and determine coarse orbit information for objects of diameters down to 2 cm at 1000 km range.
+The radar can also work in tandem with the 100 m-diameter receiver antenna of the nearby Effelsberg radio telescope (TIRA transmits a signal that reflects off an object and is picked up by Effelsberg). In this ‘bistatic’ mode, the overall sensitivity increases toward 1 cm objects. A special seven-­horn receiver, developed for the 100 m-diameter Effelsberg telescope, allows better resolution of object passages, permitting a reliable assessment of radar cross-­sections.
+In Tromsø, Norway, the European Incoherent Scatter Scientific Association (EISCAT), an international scientific partnership involving scientific institutes in 10 countries, operates a 930 MHz UHF radar and a 225 MHz VHF radar. They also have a 500 MHz radar system consisting of a steerable 32 m dish and a fixed 42 m dish in Longyearbyen, Svalbard.
+The primary mission of the EISCAT network is to perform ionospheric measurements. However, following the development of a dedicated space­-debris computer to run at the back­end of the processing units, these radars are capable of statistical observations of LEO debris down to some centimetres in size, without compromising the main EISCAT objectives.
+Monitoring and model validation of the space debris environment requires conducting regular radar and optical observation campaigns.
+The EISCAT radars now allow continuous monitoring of the LEO debris population in a beam-park configuration. As an example, EISCAT monitored and characterised China's FengYun-1C debris cloud, generated at 800 km altitude in following its intentional destruction, the worst single fragmentation event in space history.
+ESA’s top­-ranked telescope: detecting unknown objects
+ESA operates an Optical Ground Station (OGS) at the Teide Observatory on Tenerife, Spain, where a Zeiss 1 m-diameter telescope is used for the survey and characterisation of objects near the geostationary ring. The telescope has Ritchey­Chrétien optics, with a field of view of about 0.7º, and highly efficient digital cameras.
+The telescope can detect and track near­-GEO objects up to magnitudes of +19 to +21 (down to 10–15 cm in size). With this performance, the ESA telescope is top­ranked worldwide. During GEO observation campaigns, typically 75% of all detections are new objects that are not contained in the US Space Surveillance Catalogue.
+The data provided by the telescope are a major input for space debris-environment models, indicating a much larger number of GEO fragmentation events than confirmed so far (a Soviet Ekran-2 satellite explosion in 1978 and a US Titan Transtage break-up in 1992). Observations of highly eccentric orbits passing through GEO led to the discovery of a class of faint, lightweight objects with high area­-to-­mass ratios. Orbital characteristics indicate that those could be pieces of thermal blankets of satellites.
+The telescope is also capable of conducting photometric observations, to determine the ‘colour’ of objects. This enables the material properties of unknown objects to be characterised and provides valuable information on the potential origin of newly detected fragments.
+The OGS has also demonstrated that it can acquire spectroscopic information, which can give even greater insight into the material composition of fragments. These observation capabilities may be extended in future.

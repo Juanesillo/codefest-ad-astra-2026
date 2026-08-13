@@ -1,0 +1,1678 @@
+From Laggard to Potential
+Regional Innovator?
+Defence AI in Romania
+Ein Projekt im Rahmen von
+Raluca Csernatoni
+DAIO Study 26|32
+
+About the Defense AI Observatory
+The Defense AI Observatory (DAIO) at the Helmut Schmidt University in Hamburg
+monitors and analyzes the use of artificial intelligence by armed forces. DAIO comprises
+three interrelated work streams:
+Culture, concept development, and organizational transformation in the context of
+military innovation
+Current and future conflict pictures, conflict dynamics, and operational experience,
+especially related to the use of emerging technologies
+Defense industrial dynamics with a particular focus on the impact of emerging
+technologies on the nature and character of techno-industrial ecosystems
+DAIO is an integral element of GhostPlay, a capability and technology development
+project for concept-driven and AI-enhanced defense decision-making in support of fast-
+paced defense operations. GhostPlay is funded by the Center for Digital and Technology
+Research of the German Bundeswehr (dtec.bw). dtec.bw is funded by the European Union
+– NextGenerationEU.
+Ein Projekt im Rahmen von
+
+From Laggard to
+Potential Regional
+Innovator?
+Defence AI in Romania
+Ein Projekt im Rahmen von
+Raluca Csernatoni
+DAIO Study 26|32
+
+About the Author
+Dr Raluca Csernatoni is a Fellow at Carnegie Europe in Brussels, Belgium, where she
+specialises in European security and defence, with a focus on emerging and disruptive
+technologies, such as Artificial Intelligence (AI). At Carnegie Europe, she is a Team Leader
+and Senior Research Expert on new technologies for the EU-funded project, EU Cyber
+Diplomacy Initiative - EU Cyber Direct (EUCD), and leads Carnegie Europe’s research on
+the geopolitics of AI. Csernatoni is currently a Professor on European security and defence
+at the Brussels School of Governance (BSoG) and its Centre for Security, Diplomacy and
+Strategy (CSDS) and Vesalius College (VeCo), at Vrije Universiteit Brussel (VUB), Belgium. At
+the CSDS, she is a Senior Researcher on new digital technologies for the Horizon Europe
+project, ‘Indo-Pacific-European Hub for Digital Partnerships: Trusted Digital Technologies
+for Sustainable Well-Being’ (INPACE). Csernatoni holds a PhD and a Master’s degree in
+International Relations from the Central European University.
+Acknowledgments
+The author would like to thank Heiko Borchert for his invaluable contributions and insightful
+suggestions on earlier drafts of the study.
+Design
+Almasy Information Design Thinking
+Imprint
+Raluca Csernatoni, From Laggard to Potential Regional Innovator? Defence AI in Romania.
+DAIO Study 26/32 (Hamburg: Defense AI Observatory, 2026).
+Defense AI Observatory | Chair of Political Theory | Helmut Schmidt University
+Holstenhofweg 85 | 22043 Hamburg | T +49 40 6541 2776
+ | contact@defenseai.eu | @Defense_AIO
+ISSN (online): 2749–5337
+ISSN (print): 2749–5345
+4 FROM LAGGARD TO POTENTIAL REGIONAL INNOVATOR?
+
+Content
+1 Summary ..................................................................................................................... 6
+2 Thinking about Defence AI. ....................................................................................... 8
+2.1 Strategic Environment and the Defence AI Imperative ..................................................9
+2.2 National Strategies and AI in Defence ........................................................................12
+3 Developing Defence AI. ........................................................................................... 18
+3.1 Participation in NATO Initiatives .................................................................................19
+3.2 European Union Initiatives and Industrial Cooperation ................................................22
+3.3 Other Partnerships and National Initiatives .................................................................25
+3.4 A Local Defence AI Ecosystem in the making? ...........................................................26
+4 Organising Defence AI. ............................................................................................ 31
+5 Funding Defence AI ................................................................................................. 35
+6 Fielding and Operating Defence AI ....................................................................... 38
+7 Training for Defence AI ............................................................................................ 41
+8 Conclusion. ................................................................................................................ 44
+Literature ...................................................................................................................... 47
+WWW.DEFENSEAI.EU 5
+
+1 Summary
+Romania’s defence AI posture has been gradually shifting from conceptual aware-
+ness to cautious institutional and industrial mobilisation. Faced with an increas-
+ingly volatile security and defence landscape on NATO’s eastern flank, Romania
+is incorporating dual-use emerging and disruptive technologies (EDTs) such as
+artificial intelligence (AI) into its defence strategy, though from a modest starting
+point. At its core, this study is driven by a simple but pressing question: how can a
+frontline ally with limited indigenous capacity responsibly engage with one of the
+most transformative technologies of modern warfare?
+Romania lacks a dedicated defence AI policy, and its National Artificial Intelligence
+Strategy for 2024–2027,1 published in , primarily focuses on the civilian
+sector. This strategic document details the country’s plan for adopting and inte-
+grating AI technologies across different sectors, in line with the European Union’s
+(EU) ambitions to become a global leader in AI. It must be indeed noted that
+Romania’s national AI strategy primarily serves as an economic development plan
+and remains silent on the deployment of AI for defence and security. The argu-
+ment is that this tension between ambition and omission runs through Romania’s
+approach to AI more broadly, shaping both its opportunities and its constraints.
+Defence is only mentioned in passing, if at all. The strategy thus leaves a gap in
+addressing security and defence applications. This represents a major blind spot
+in the realm of national security, with the country remaining reactive and lacking
+coherent tools for prevention and response to AI-driven threats in both civilian and
+military domains. This has led to calls for a dedicated Defence AI policy, or at least
+a sector-specific plan to complement the civilian AI strategy, but these calls have
+not yet been answered.
+Furthermore, this gap is tentatively recognised and is being addressed amid
+Russia’s 2022 invasion of Ukraine and a wave of hybrid warfare in Eastern Europe,
+which has served as a wake-up call by exposing vulnerabilities from drone incur-
+sions to AI-driven disinformation campaigns. For Romanian policymakers and mil-
+itary planners, these developments have been felt as immediate, tangible security
+concerns unfolding just beyond the country’s borders, and increasingly spilling
+over into Romanian territory. Yet, although it actively engages in Euro-Atlantic
+structures, Romania remains mainly a security consumer rather than a regional
+provider of expertise and initiative in emerging areas such as AI and information
+1 Romania’sNationalArtificialIntelligenceStrategyfor2024–2027.
+6 FROM LAGGARD TO POTENTIAL REGIONAL INNOVATOR?
+
+warfare.2 This reactive stance, lacking sufficient tools to counter evolving security
+and defence threats, has motivated Romania to accelerate its digital transfor-
+mation in defence and to align more closely with recent NATO and EU defence
+innovation initiatives, including those related to EDTs.
+Overall, as a frontline NATO and EU member bordering the Black Sea and ex-
+posed to increasing hybrid pressures, Romania is increasingly viewing AI as crucial
+for strengthening deterrence, resilience, and interoperability across the Euro-At-
+lantic region. Under various National Strategies, defence planners anticipate AI
+to improve situational awareness, decision-making, and command-and-control,
+as well as advancing autonomous systems, cyber defence, and information op-
+erations. Thus, there is a growing emphasis on digital sovereignty, data security,
+and enhancing defence-industrial capacity through closer collaboration between
+government, industry, and academia.
+Yet, despite this awareness, Romania’s defence AI journey remains in its early
+stages and faces significant capability and governance challenges. The domestic
+defence industry and research base require greater investment, skilled human
+capital, and deeper international partnerships to develop AI-enabled systems sus-
+tainably. Most indigenous contributions to advanced military technology projects
+remain limited, with Romanian entities often playing minor roles in multinational
+consortia. From an institutional perspective, Romania still lacks a dedicated de-
+fence AI strategy, a central coordinating body, or integrated governance mecha-
+nisms linking defence, intelligence, and civilian R&D ecosystems. What emerges,
+therefore, is a dire need for Romania to learn under pressure. What is more, ethical
+and legal frameworks, particularly principles such as meaningful human control,
+remain underdeveloped even as Romania rhetorically aligns with emerging NATO
+and EU responsible-use norms.
+Consequently, looking ahead, Romania’s strategic direction is clear, namely, to uti-
+lise alliance frameworks, capability-building tools, and public-private cooperation
+to accelerate AI adoption. This is coupled by efforts to gradually boost sovereign
+capacity for innovation, but it remains somewhat rhetorical rather than operational.
+With political commitment demonstrated through increased defence spending
+and active engagement in NATO and EU innovation programmes, Romania could
+be poised to shift from a technology importer and cautious adopter to a contrib-
+utor of AI-enabled defence solutions. However, to achieve this goal, it will require
+ongoing investment, institutional reform, talent cultivation, and a focus on re-
+sponsible governance to ensure that AI enhances, rather than diminishes, national
+resilience and collective defence on the Eastern flank.
+2 Peptan,“RomaniaFacingNewVectorsofInsecurity:HybridWarfareandArtificialIntelligence,”p.95.
+WWW.DEFENSEAI.EU 7
+
+2 Thinking
+about
+Defence AI
+8 FROM LAGGARD TO POTENTIAL REGIONAL INNOVATOR?
+
+2.1 Strategic Environment and the
+Defence AI Imperative
+The security shocks from Russia’s 2022 invasion of Ukraine, which occurred just
+across Romania’s borders, have strengthened efforts to modernise and expand
+Romania’s defence capabilities. It is worth noting that the shock was not merely
+strategic, but psychological, reintroducing the reality of large-scale conventional
+war into Romania’s defence planning horizon. In this context, a new National
+Defence Strategy 2025–2030 was approved by Parliament in late 2025, outlining
+Romania’s vision of “solidary independence,” meaning strategic autonomy exer-
+cised in full solidarity with NATO allies and EU partners. This strategy is driven by
+rising defence budgets, urgent procurement needs for modern weaponry, and
+extensive plans to revitalise Romania’s long-neglected defence industry.
+It also coincides with unprecedented EU support, as Romania has secured
+€16.68bn in loans under the EU’s SAFE programme, the second-largest allocation
+after Poland, to fund rapid investments in military equipment and defence produc-
+tion capacity.3 Romania’s SAFE allocation is expected to prioritise defence mod-
+ernisation while anchoring procurement within European collaboration. Spending
+priorities include urgent capabilities such as ammunition, drones, air defence, and
+cyber resilience, but a significant portion is likely to also be allocated to high-
+er-end strategic systems such as Command, Control, Communications, Comput-
+ers, Intelligence, Surveillance, Target Acquisition, and Reconnaissance (C4ISTAR),
+AI-enabled decision support systems, electronic warfare, and advanced unmanned
+and counter-unmanned platforms.
+Under the SAFE instrument, approximately €9.6bn of the total allocation has been
+designated for military acquisitions by the Ministry of National Defence. An addi-
+tional €4.2bn will support strategic infrastructure, including parts of the A7 and A8
+motorways towards Ukraine and Moldova, while around €2.8bn is allocated to the
+Ministry of Internal Affairs and other national security agencies. The defence pro-
+curement plan includes 21 projects, encompassing both joint acquisitions with part-
+ner states and domestic procurements. Joint efforts involve air defence systems such
+as missile and radar platforms with France and Germany, as well as helicopter and
+maritime patrol capabilities. The military purchases range from armoured personnel
+carriers (e.g., Piranha 5) and multi-mission helicopters (H225M) to naval patrol ves-
+sels, radar systems, loitering munitions, and C4ISR software suites, reflecting a broad
+programme of modernisation directly linked to the SAFE financing framework.4
+3 Cristea,“EUbacksRomaniawith16.7billioneurosindefenceloans.”
+4 Vasilacheetal.,“HowRomaniawillspend€16.6billionfromtheSAFEprogramme.”
+WWW.DEFENSEAI.EU 9
+
+At the same time, Romania is leveraging NATO initiatives and strengthening
+bilateral partnerships, particularly with the United States (U.S.) and South Korea,
+to further improve its forces. These developments are set to transform Romania’s
+Defence Technological and Industrial Base (DTIB), but they also reveal ongoing
+structural challenges rooted in the country’s post-Cold War history of underinvest-
+ment and fragmentation.
+Indeed, Romania’s proximity to the ongoing Russian war in Ukraine has highlight-
+ed the need to revamp its security and defence policies, emphasising the need to
+address longstanding vulnerabilities while pursuing strategic opportunities. Tradi-
+tionally reliant on Soviet-era systems, Romania’s defence capabilities have suffered
+from decades of underinvestment and a fragmented industrial base.5 The 2022
+Russian invasion of Ukraine exposed weaknesses in Romania’s military infrastruc-
+ture and defence industrial strategy, prompting a necessary realignment of both its
+short-term and long-term security and defence policies. In response, Romania has
+increased its defence budget to 2.5% of GDP and accelerated procurement from
+international allies, including the U.S., to strengthen its defence capabilities, but
+challenges remain, as will be discussed in chapter 5.
+In this context, Romania’s approach to military innovation, including AI, is shaped
+by its strategic culture and defence sector legacy. Unlike some larger NATO allies,
+Romania does not have a decades-long tradition of indigenous high-tech defence
+R&D. It historically relied on imported Soviet, then Western, military technology.
+The post-Cold War downsizing and chronic underfunding of the defence industry
+left it with limited capacity for cutting-edge innovation. This has fostered a prag-
+matic and incremental mindset. Romania tends to adopt proven technologies from
+partners rather than leapfrogging with experimental capabilities. In this regard, Ro-
+mania is “not currently a significant actor in the development of AI technologies,
+but rather a vulnerable recipient of their effects,” with low digital literacy in society
+amplifying that vulnerability.6 In fact, this historical inheritance continues to shape
+how Romanian decision-makers approach innovation, namely cautiously, pragmati-
+cally, and, in practice, rarely without an external anchor.
+Romania’s broader national effort towards digital transformation further shapes
+the direction of defence modernisation, especially regarding the gradual inte-
+gration of AI-enabled capabilities. Current reforms focus on upgrading digital
+infrastructure, improving interoperability and secure data exchanges, and expand-
+ing cybersecurity capacity, all essential for deploying next-generation defence
+systems. Initiatives to modernise cloud infrastructure, fibre connectivity, and digital
+public administration aim to address long-standing fragmentation across state IT
+5 Csernatoni,Romania’sdefencetechnologicalandindustrialbase:Challengesandprospects.
+6 Peptan,“Romaniafacingnewvectorsofinsecurity,”p.90.
+10 FROM LAGGARD TO POTENTIAL REGIONAL INNOVATOR?
+
+systems. These challenges have similarly constrained digital transformation within
+the Romanian Ministry of National Defence (MApN).
+Although mainly civilian in scope, these reforms directly affect the armed forces’
+ability to operationalise AI for command-and-control, training and simulation,
+logistics and maintenance, and predictive decision-making. As Romania remains
+structurally positioned as a “catch-up” digital economy, military digitalisation
+depends heavily on broader state modernisation, sustained funding, and the
+capacity to adapt to complex emerging technologies.7 Therefore, ongoing gaps in
+digital skills and uneven investment patterns pose risks to the secure, responsible,
+and interoperable adoption of defence AI.
+In this context, digitalisation of government and the economy is not a peripheral
+reform but a crucial enabling condition for Romania’s growing ambition to incor-
+porate AI into its defence strategy. Thus, Romania’s adoption of defence AI is
+driven by its shifting security environment, efforts to broaden digitalisation, and
+the necessity to modernise its armed forces. As a NATO member on the EU’s
+eastern border, Romania confronts a mix of conventional and hybrid threats that
+intensified after 2020.
+Russia’s assertive stance, reaching a pinnacle with the full-scale war against Ukraine
+in 2022, coupled with rises in cyber and information warfare in the Black Sea
+region, highlights the importance of advanced technological countermeasures. In
+this setting, Romanian defence planners view technology adoption and defence
+modernisation as essential for national survival. In this sense, defence AI should
+not be treated as a standalone technological silver bullet, but as a stress test for
+the country’s broader innovation potential and digital maturity.
+In summary, Romania’s strategic stance on defence AI is marked by a high level
+of threat awareness, a political mandate to modernise through technology, and
+a cultural tendency to do so collaboratively with allies. Romania’s perspective on
+defence AI remains only partly autonomous and continues to be heavily influenced
+by key partners, primarily the U.S. and NATO frameworks. This influence is evident
+in procurement decisions, doctrinal borrowing, and a preference for proven, inter-
+operable U.S.-aligned systems rather than indigenous experimentation. Although
+this strategy reduces short-term risks and speeds up capability development,
+it creates long-term “intellectual dependence” as Romania risks importing not
+just technologies but also threat perceptions, operational concepts, and ethical
+assumptions.
+7 Marinașetal.,“AFrameworkAnalysisofDigitalTransformation:InsightsfromtheRomanianNationalRecoveryandResiliencePlan.”
+WWW.DEFENSEAI.EU 11
+
+Over time, this could restrict strategic innovation, limit domestic development
+ecosystems, and diminish Romania’s capacity to shape European defence AI
+standards, making it more of a follower than a leader in shaping future military AI
+governance. Notwithstanding, there is a noticeable sense of urgency driven by the
+Ukraine war and hybrid warfare trends, which have raised defence technology dis-
+cussions, including fostering a homegrown defence AI ecosystem, to the highest
+levels of government in Bucharest. The following section will explore how these
+strategic objectives enshrine the defence AI sphere into consecutive programmat-
+ic documents.
+2.2 National Strategies and AI in Defence
+Since the 2020s, national strategic documents, including the National Defence
+Strategy 2020–2024,8 the 2021 Military Strategy of Romania,9 the 2021 White
+Paper on Defence,10 the National Defence Industry Strategy 2024–203011, and the
+National Defence Strategy for 2025–2030, titled “Independence and Solidarity:
+Romania’s Vision for a Changing World,”12 have emphasised digitisation and EDTs
+like AI, big data, and robotics as essential for military modernisation.
+Indeed, Romanian defence planners view tech adoption as necessary for survival.
+The National Defence Strategy 2020–2024 explicitly identified hybrid and cyber
+threats, often AI-enabled, as key risks to national security, calling for state action to
+boost resilience, though the document was initially more declarative than pre-
+scriptive on emerging tech. The National Defence Strategy 2020–202413 recog-
+nised AI and related digital technologies as vital factors transforming the security
+landscape. It identified them as both drivers of innovation and facilitators of hybrid
+threats. Moreover, the National Defence Strategy 2020–2024 explicitly identified
+hybrid and cyber threats, often AI-enabled, as major risks to national security,
+calling for government action to enhance resilience. However, that document was
+initially more declarative than prescriptive regarding emerging technologies.
+The document acknowledged that AI, machine learning, big data, and the Inter-
+net of Things (IoT) can enhance communication, information processing, and the
+development of new weapon systems. Indeed, the text described an international
+security environment transformed by rapid technological development, increased
+8 Romania’sNationalDefenceStrategy2020–2024.
+9 MilitaryStrategyofRomania2021.
+10 Romania’s2021WhitePaperonDefence.
+11 Romania’sNationalDefenceIndustryStrategy2024–2030.
+12 Romania’sNationalDefenceStrategyfor2025–2030.
+13 Romania’sNationalDefenceStrategy2020–2024,pp.19–21.
+12 FROM LAGGARD TO POTENTIAL REGIONAL INNOVATOR?
+
+interconnectivity, and growing cyber vulnerabilities. Emerging technologies,
+including AI, machine learning, big data, IoT, cloud computing, quantum technol-
+ogy, and 5G, were mainly seen as risk multipliers that enable new forms of hybrid
+and asymmetric threats. That is why AI was presented not only as a capability for
+defensive purposes, but also as a tool that can be maliciously exploited by organ-
+ised crime, cybercriminals, hacktivists, terrorists, and state-linked actors. In this
+regard, it might be worth noting that AI was framed more as a source of anxiety
+rather than as an instrument of strategic agency or technological sovereignty.
+The document also highlighted concerns that AI and related technologies could
+facilitate more advanced cyberattacks, offensive operations, and coordinated
+cross-border manipulation. It pointed out that as emerging technologies spread,
+the threat environment becomes more complex and volatile, especially as non-
+state actors gain access to advanced capabilities. At the same time, it recognised
+that AI-driven systems introduce operational challenges for securing large volumes
+of data circulating within increasingly digital defence ecosystems. The strategy
+connected technological progress to trends in weapon design, indicating that AI
+and autonomy will shape future platforms and sensor-rich systems. Essentially, AI
+was seen mainly as a disruptive, dual-use technology that heightens vulnerabilities,
+enlarges attack surfaces, and accelerates arms races, underscoring the importance
+of defensive preparedness rather than providing a clear strategy for leveraging AI
+as a strategic military asset.
+Therefore, and as already mentioned, the strategy mainly viewed AI from a risk-ori-
+ented perspective, emphasising its potential for malicious use by non-state actors,
+cybercriminals, hacktivists, and terrorists, but only subtly hinting at its possible de-
+fence benefits. Its approach remained largely technological and lacked differentia-
+tion, grouping AI with other disruptive civilian technologies without detailing their
+specific military applications or governance requirements. Therefore, the strategy
+provided no clear guidance on defence AI development priorities, organisational
+mandates, procurement procedures, or frameworks for responsible innovation,
+among others. This absence of specificity, endemic to subsequent strategic docu-
+ments, reflects an early phase of strategic thinking, in which recognition of oppor-
+tunities and challenges precedes implementation or operationalisation.
+Moreover, it omitted references to interoperability or alignment with NATO or EU
+defence innovation initiatives introduced during the same period. Consequently,
+AI was regarded as part of a broader set of emerging risks linked to digital trans-
+formation, rather than a distinct capability frontier for Romania’s armed forces. As
+a result, the strategy effectively identified major technological shifts, but it failed
+to translate these insights into concrete defence planning priorities. Overall, the
+strategy demonstrated an early-stage strategic awareness rather than a compre-
+hensive vision for integrating AI into Romania’s defence posture.
+WWW.DEFENSEAI.EU 13
+
+That is why the gap between recognising threats and implementing solutions
+became clear as Romania faced real incidents, for instance, waves of false bomb
+alerts, election interference attempts,14 and hostile drone incursions15 along its
+borders in 2022–2025. The war in Ukraine showed how low-cost drones and AI-en-
+abled loitering munitions could cause strategic effects, emphasising Romania’s
+need to counter such systems or deploy its own.16 In fact, these episodes served
+as a sobering reminder that technological gaps should be rapidly mitigated, an
+effort that is, of course, easier said than done.
+The 2021 Military Strategy17 engaged more deeply with AI than the earlier Nation-
+al Defence Strategy 2020–2024, positioning AI at the core of Romania’s defence
+digital transformation. It explicitly linked AI to C4ISR integration, cyberspace
+operationalisation, and the acceleration of planning and support functions, thus
+aligning with NATO’s emphasis on data-driven military transformation. The strat-
+egy acknowledged that AI, combined with big data, IoT, cloud, edge computing,
+and quantum technologies, will underpin emerging digital ecosystems and future
+military capabilities. Specifically, it placed AI within a federated multinational
+interoperability framework and identified legal, industrial, and research partner-
+ships as vital for capability development. Yet, these references to AI mostly served
+as signalling devices rather than actual drivers of tangible change. While they
+demonstrated alignment with NATO and emerging technological trends, they
+were not supported by clearly allocated budgets, measurable AI capability targets,
+or dedicated implementation roadmaps. In practice, AI remained more aspiration-
+al than operational in Romanian defence planning.
+The document indeed highlighted digital transformation as central to Romania’s
+defence modernisation and decision-making superiority. Digitalisation was seen
+as a way to operationalise cyberspace as a battlefield and enable automated
+planning, operational analysis, and C4ISR functions. In this regard, defence AI ap-
+peared to be part of a broader emerging technology ecosystem, integrated along-
+side big data, IoT, cloud and edge computing, and quantum systems, to support
+data processing, autonomy, and rapid decision-making. From this perspective, AI
+was portrayed as a software-driven capability with “revolutionary impact,” ena-
+bling experimentation with new concepts and maintaining digital sovereignty for
+the MApN. Moreover, the development and operational deployment of AI systems
+was connected to legal and regulatory reform, enhanced collaboration with the
+private sector and academia, and engagement with NATO and EU interoperability
+frameworks.
+14 OECD.“AI-DrivenSocialMediaInterferenceAnnulsRomania’sConstitutionalCourtRulingonthe2024Election’sFirstRound.”
+15 Vișan,“RomaniaNoLongerTurnsBlindEyetoRussia’sAirspaceViolations.”
+16 Peptan,“RomaniaFacingNewVectorsofInsecurity,”p.98.
+17 MilitaryStrategyofRomania2021,pp.16,19,48.
+14 FROM LAGGARD TO POTENTIAL REGIONAL INNOVATOR?
+
+In the cyber domain, AI was portrayed as part of a layered defence system that
+combined machine learning, IoT, and big data analytics for cyber operations,
+threat detection, and response. In addition, AI-enabled capabilities were seen as
+crucial to multidimensional force protection, especially against misinformation, de-
+ception, and hybrid threats. Overall, the document presented defence AI as both
+a facilitator of modern operational capability and a necessity for digital sovereign-
+ty, interoperability, and resilience in contested information environments. Here,
+optimism about technological progress risked obscuring the hard governance
+questions that determine whether innovation actually delivers military advance.
+Hence, AI was described as a “game changer,” but engagement remained aspi-
+rational and overly deterministic, assuming digital progress would naturally lead
+to decision superiority without addressing risks such as algorithmic bias, military
+reliance on foreign vendors, vulnerabilities from interconnected IoT battlespace
+systems, or escalation from autonomous functions.
+Similarly, the 2021 White Paper on Defence18 identified AI alongside quantum
+tech, directed-energy weapons, advanced materials, and synthetic biology as
+key future capabilities the military must harness in the coming years. This aligned
+with NATO’s own 20-year outlook that lists AI as a top emerging and disruptive
+technology for defence. The White Paper indicated a growing recognition of AI as
+a strategic tool for Romania’s defence transformation, but its approach remained
+mostly declarative and capability neutral. Indeed, AI mainly featured as part of
+wider digitalisation and automation initiatives, integrated into visions of big data
+decision-making, cyber defence, production efficiency, and autonomous systems.
+This approach followed the broader Euro-Atlantic innovation agendas and ac-
+knowledged AI’s disruptive potential, including vulnerabilities in cyberspace or
+cognitive manipulation.
+However, the document stopped short of defining specific priorities, governance
+frameworks, or operational concepts for military AI. For instance, responsibilities,
+timelines, and resource allocations were once again left unclear. Furthermore,
+although autonomous systems and AI-enabled production were mentioned,
+ethical, legal, and safety concerns, including responsible human control, were
+not addressed. Although the focus on industrial modernisation and partnerships
+suggested a pragmatic goal of utilising dual-use ecosystems, it was without
+concurrent commitments to doctrinal changes, institutional reforms, or accounta-
+bility structures. All in all, the White Paper signified a crucial symbolic shift, but its
+operational implementation remained rather limited and risked relegating Roma-
+nia to a reactive adopter rather than a strategic innovator in defence AI. The shift
+18 Romania’s2021WhitePaperonDefence,pp.16,19,48.
+WWW.DEFENSEAI.EU 15
+
+was primarily vital because it marked Romania’s first formal recognition of AI as a
+strategic defence matter rather than merely a technical addition. Even if mostly
+symbolic, it established an institutional entry point for future policies, budgets,
+and debates, shaping expectations, legitimising AI investment, and aligning
+Romania with emerging NATO and EU dual-use AI discourses.
+The National Defence Industry Strategy 2024–203019 leveraged AI mainly in the
+industrial and R&D sectors, signalling a gradual shift from broad strategic aware-
+ness to specific sectoral implementation plans. Unlike earlier high-level defence
+strategies, it highlighted AI as part of modernising the national defence industry,
+focusing on defence production optimisation, research clusters, and dual-use
+technological innovation. Notably, the document connected AI to autonomous
+combat vehicles, protection systems, and industrial automation, implicitly aligning
+with NATO goals for EDTs.
+Nevertheless, and yet again, the engagement remained largely functional and
+techno-industrial, viewing AI as a component within larger re-technologization,
+digitisation, and manufacturing modernisation efforts. The document offered little
+explicit discussion on military operational AI uses, responsible or ethical deploy-
+ment frameworks, or governance concerning battlefield autonomy. Also, AI was
+positioned within a broad laundry list of EDTs, with few mechanisms for setting
+priorities, securing funding, or defining institutional responsibilities.
+Whilst the strategy indeed emphasised collaboration, research partnerships, and
+legislative adaptations, it remained unclear how Romania planned to address risks
+related to integration, cybersecurity, or supply-chain vulnerabilities. Importantly,
+the repeated references to autonomy, unmanned systems, and production optimi-
+sation indicated an awareness that AI will transform warfare and industrial capac-
+ity, but the transition from being a laggard in defence innovation in general to
+operational defence AI capability remained insufficiently detailed. Essentially, the
+strategy marked initial steps towards embedding AI within defence industry policy,
+though further development of doctrinal, ethical, procurement, and operational
+frameworks will be critical for Romania’s defence AI readiness.
+The new National Defence Strategy 2025–203020 was expected to address AI
+more explicitly, aligning with NATO’s and the EU’s strategic emphasis on emerging
+tech. It indeed recognises AI as a transformative and dual-use frontier technology
+with significant implications for national and international security. Its approach to
+AI reflects a growing realisation within Romania’s strategic community that compe-
+tition in EDTs, such as AI, quantum technologies, and advanced microprocessors,
+19 Romania’sNationalDefenceIndustryStrategy2024–2030,pp.30,33,35.
+20 Romania’sNationalDefenceStrategy2025–2030,pp.4,13,22,26,30.
+16 FROM LAGGARD TO POTENTIAL REGIONAL INNOVATOR?
+
+will shape geopolitical hierarchies and military strength. The strategy emphasises
+the AI’s potential to accelerate digitalisation and narrow Romania’s development
+gaps with allies, signalling political acknowledgement of AI as a key capability for
+modernising defence.
+However, this engagement remains mainly conceptual and declarative. AI is
+primarily viewed as a structural driver of global competition, a disruptive factor
+creating vulnerabilities, and an object of technological dependence. The docu-
+ment notes that AI can exacerbate national and global inequalities, foster new
+dependencies, and be weaponised by hostile actors for aggression, manipulation,
+and terrorism. This threat-focused perspective aligns with NATO rhetoric on EDTs,
+but lacks concrete pathways for defence AI research, innovation, and deployment,
+as well as clear institutional roles or capability development priorities. The strategy
+does not specify how Romania plans to develop, acquire, deploy, or govern de-
+fence AI, nor does it outline mechanisms for responsible adoption, talent growth,
+or civil-military innovation.
+Likewise, the absence of interoperability considerations with EU and NATO
+emerging tech initiatives leaves unclear how the country intends to utilise alliance
+frameworks for AI-enabled capabilities. By mainly framing AI as an economic and
+digital transformation tool, the strategy risks underestimating the specific military,
+operational, and ethical challenges involved in deploying AI in command, control,
+intelligence, cyber, and unmanned systems, although some of these aspects have
+been addressed via the country’s engagement in NATO and the EU (see chapter
+3). Therefore, although the strategy recognises AI’s critical role in Romania’s securi-
+ty, its operational priorities remain starkly underdeveloped. This reinforces the fact
+that turning this vision into practical action will be difficult and will necessitate ad-
+ditional defence-specific AI planning documents that convert strategic awareness
+into clear objectives, defined responsibilities, institutional reforms, cooperation
+programmes, and clever resource allocation, enabling Romania to incorporate AI
+into defence responsibly and in accordance with Euro-Atlantic standards.
+In conclusion, and taken together, Romania’s strategic context and the need to
+adapt to rapid technological development create both urgency and vulnerability
+regarding defence AI. The war in Ukraine and the rise of hybrid threats turbo-
+charged by AI have made digital modernisation a key national security priority, yet
+decades of underinvestment in the DTIB and reliance on foreign suppliers limit
+Romania’s ability to innovate, adopt, and manage AI responsibly. A new political
+mandate and rising defence expenditure could offer a rare chance for structural
+change, but seizing it will require careful planning, coherent governance, and
+investment in sovereign digital capacity.
+WWW.DEFENSEAI.EU 17
+
+3 Developing
+Defence AI
+18 FROM LAGGARD TO POTENTIAL REGIONAL INNOVATOR?
+
+Romania’s practical efforts to develop defence AI capabilities have accelerated
+after 2020, concentrating on key areas such as unmanned systems, intelligence
+analysis, cybersecurity, and training. It is worth noting that in practice, these
+strategic focus areas emerged more from the bottom up than through a coherent
+top-down capability planning process. They mainly built on existing partnerships,
+NATO-driven priorities, and available technologies rather than a systematic iden-
+tification of national AI capability gaps. In fact, it could be argued that strategic
+coherence followed pragmatism, not the other way around.
+This section examines the projects and development priorities Romania is pursu-
+ing, as well as the emerging ecosystem of institutions, industry players, and fund-
+ing streams supporting defence AI. International cooperation is the foundation
+of Romania’s strategy for defence innovation. Since 2020, Romania has actively
+used NATO and EU frameworks to enhance its capabilities in AI and emerging
+technologies, including NATO’s innovation ecosystem, supporting NATO’s Emerg-
+ing and Disruptive Technology agenda for technological supremacy,21 as well as
+contributions to EU initiatives such as Permanent Structured Cooperation (PESCO)
+projects, the European Defence Fund (EDF), the Security Action for Europe (SAFE)
+instrument, including various bilateral programmes, which collectively promote
+Romania’s defence AI development.
+In essence, Romania aims to position itself not only as a consumer of allied tech-
+nology but also as a contributor to allied innovation networks, carving out a niche
+in resilience and hybrid threat mitigation through technology. Through NATO, EU,
+and key partner collaborations, Romania has greatly increased its access to knowl-
+edge, funding, and technology in defence AI since 2020. The upcoming challenge
+will be to absorb these inputs and turn them into lasting national capabilities. This
+will also require Romania to put more emphasis on establishing and developing its
+national (defence) innovation ecosystem, which is weak right now.
+3.1 Participation in NATO Initiatives
+Romania was an early supporter of NATO’s efforts to craft a unified approach
+to military AI, including NATO’s 2021 AI Strategy.22 Romania supports the EU’s
+proposed AI Act, a landmark regulation that would impose strict requirements on
+high-risk AI systems, signalling that any AI it develops for defence will adhere to
+European ethical and legal norms. It is worth noting that the AI Act focuses solely
+on commercial AI, explicitly excluding military applications and national security
+21 Brînza,“TheImplicationsofArtificialIntelligenceontheGlobalSecurityEnvironmentandtheImpactofAIonDefenceStrategies.”
+22 “SummaryofNATO’sRevisedArtificialIntelligence(AI)Strategy.”
+WWW.DEFENSEAI.EU 19
+
+services.23 By backing these frameworks, Romania aims to strengthen its image as
+a reliable, norm-abiding partner committed to developing and applying AI in line
+with Western values. It has also emphasised interoperability in AI, ensuring Roma-
+nian systems can integrate into NATO networks and data architectures, viewing
+this as essential for collective defence.
+Following NATO’s 2021 AI Strategy, Romania designated representatives to
+NATO’s Data and AI Review Board (DARB), the body overseeing the implementa-
+tion of the AI strategy across the Alliance.24 Through the DARB and related forums,
+Romania gains insight into Allies’ best practices, for example, U.S. methods for
+testing AI systems, and contributes input based on its regional perspective, such
+as countering AI-enabled hybrid tactics seen from Russia. This two-way exchange
+helps Romania align its nascent AI projects with NATO standards from the outset.
+Romania is also a founding member of the NATO Innovation Fund (NIF), the Alli-
+ance’s venture capital fund for emerging and disruptive technologies. At the NATO
+Madrid Summit in , Romania joined 21 other Allies in launching this
+€1 billion fund, the world’s first multi-sovereign VC fund, which invests in early-stage
+start-ups working on priority tech areas such as AI, autonomy, big-data processing,
+quantum, space, biotech, and more. But perhaps the most important NATO initia-
+tive for Romania is DIANA - Defence Innovation Accelerator for the North Atlantic,
+launched in 2022.25 DIANA offers a network of innovation hubs, test centres, and ac-
+celerator programmes to encourage dual-use technological solutions among Allies.
+Romania eagerly joined DIANA and was chosen to host four DIANA test centres on
+its territory, one of which specialises in AI.26 The NIF also complements DIANA: start-
+ups graduating from DIANA’s accelerator can seek follow-on funding from NIF.
+DIANA centres allow Romanian and allied innovators to test AI applications in
+realistic environments. On 23 , the official signing of a Memorandum
+of Understanding27 took place between DIANA and the Test Centre in Artificial
+Intelligence at the Politehnica University of Bucharest (UPB). The mission of UPB’s
+International Centre of Excellence in Artificial Intelligence28 is to advance research
+and innovation in human-centred, trustworthy, safe, and secure AI. It aims to go
+beyond the current limits of AI technology and to develop AI-specialised human
+resources by aligning top-level research activities with industry and societal
+challenges. The goal is to create a tangible socio-economic impact for businesses,
+23 Clapp,DefenceandArtificialIntelligence.
+24 Brînza,“TheImplicationofArtificialIntelligenceontheGlobalSecurityEnvironmentandtheImpactofAIonDefenceStrate-
+gies,”pp.140–141.
+25 Formore,see:
+26 NATO’sDIANANetworkTestCentres,p.6.
+27 “OfficialSigningoftheMemorandumofUnderstandingbetweentheDefenceInnovationAcceleratorfortheNorthAtlantic
+(DIANA)andtheUPB-TestCentreinArtificialIntelligence.”
+28 Formore,see:
+20 FROM LAGGARD TO POTENTIAL REGIONAL INNOVATOR?
+
+citizens, security, and society. Accordingly, hosting DIANA test centres carries a
+lot of symbolic capital, signalling Romania’s aspiration to be seen as a contributor
+rather than as a beneficiary of Allied innovation.
+Moreover, Romania hosts the NATO Human Intelligence Centre of Excellence
+(HUMINT COE)29 in Oradea, which plays a vital role in developing and modern-
+ising human intelligence capabilities across the Alliance. As multi-domain oper-
+ations evolve, the Centre is integrating emerging technologies, most notably AI,
+into HUMINT processes to enhance collection, analysis, and decision-making. In
+this respect, the Centre prioritises collaborative research with academia and indus-
+try to leverage AI algorithms to improve operational effectiveness, exemplified by
+NATO-funded projects such as “Artificial Intelligence - Leveraged Enterprise Agil-
+ity.” The Centre also supports the development of AI-driven tools for intelligence
+tasks, thus emphasising the ongoing importance of human expertise alongside
+technological innovation.
+Romania’s private sector and start-up community have also embraced DIANA’s
+accelerator challenges. In 2024, Romania was “among the top countries applying
+to the DIANA accelerator,” submitting 88 proposals, a tenfold increase from the
+8 submitted in 2023.30 These proposals came from Romanian start-ups and scale-
+ups developing dual-use technology, many of them AI-driven solutions for energy,
+logistics, autonomous systems, and data-driven decision-making. Though only one
+Romanian company advanced to the later stages of the 2024 DIANA cohort, this
+volume of applications indicates a rising interest and capacity within Romania’s
+tech sector for defence-related innovation. On the one hand, it could be argued
+that success rates remain rather modest; on the other hand, the learning effects of
+participation should equally not be underestimated, potentially leading to a spill-
+over effect in building a domestic defence AI ecosystem.
+During the seventh edition of the Investors’ Day, an event organised on 16 by Techcelerator, the longest-running high-tech accelerator in Romania, to
+bring together tech startups and investors, a NATO DIANA Board of Directors
+member from Romania, Horia-Răzvan Botiș, highlighted that many proposals were
+technically strong but needed clearer articulation of military use-cases.31 This feed-
+back has prompted Romanian participants to sharpen their focus on defence ap-
+plications of AI, ensuring, for example, that an AI drone traffic management idea
+explicitly addresses battlefield scenarios. The DIANA experience is thus aiding in
+developing Romania’s human capital in pitching, developing, and aligning tech
+29 NATOAlliedCommandTransformation,“NATO’sHumanIntelligenceCentreofExcellence:AHubforInnovation.”
+30 Purice,“RomaniaAmongtheTopApplicantCountriesinNATO’sDIANAAccelerator.”
+31 Idem.
+WWW.DEFENSEAI.EU 21
+
+solutions to NATO requirements. All in all, NATO’s ecosystem provides Romania
+with an invaluable platform to compensate for its small R&D base.
+3.2 European Union Initiatives and
+Industrial Cooperation
+Parallel to NATO, the EU defence innovation tools have become increasingly signif-
+icant for Romania. As an EU member, Romania views the Union’s initiatives as com-
+plementary to NATO’s, focusing more on joint capability development and strength-
+ening Europe’s defence industrial base. Romanian officials often state that effective
+European defence projects ultimately reinforce NATO, and therefore, they pursue
+both collaboratively. Romania has increased its participation in EU frameworks such
+as PESCO, the EDF, the European Defence Agency (EDA) programmes, including
+the EU’s recent SAFE instrument, to advance its AI and technological ambitions.
+As part of the joint initiatives, Romania supports all defence projects in which our
+country participates at the EU level, such as: PESCO - 23 projects, EDA frame-
+work - 29 projects, the Act in Support of Ammunition Production (ASAP) – within
+which Romania (ROMARM) cooperates with Germany’s Rheinmetall to build a new
+gunpowder factory in Romania, the European Defence Industry Reinforcement
+through common Procurement Act (EDIRPA), in which Romania participates in the
+joint procurement of MISTRAL led by France, and the EDF - 33 projects.32 These
+figures point to the breadth of engagement, but also raise important questions
+about depth, critical mass, and strategic influence.
+Yet, Romania’s capacity to lead European defence consortia and integrate into
+large-scale European initiatives within EU defence programmes has remained rel-
+atively limited. This is evidenced by the fact that, unlike other Central and Eastern
+European countries, Romania leads only two PESCO projects.33 Still, for Bucharest,
+coordinating the EU Network of Diving Centres (EUNDC) and the CBRN Defence
+Training Range (CBRN DTR) PESCO projects involves significant responsibilities,
+and Romania is fully committed to making these capabilities operational, which
+can strengthen the resilience of our Armed Forces in force protection and train-
+ing.34 It has also participated in the EDF with relatively modest research and devel-
+opment projects since 2021. This is especially significant for state-owned defence
+industrial entities, such as ROMARM.35
+32 RomanianDefence2025.
+33 Soare,Romania’sPerceptionoftheEUDefenceIndustrial“Toolbox.”
+34 RomanianDefence2025.
+35 Cozma,“HowCanRomaniaRevitaliseItsDefenceIndustry?”
+22 FROM LAGGARD TO POTENTIAL REGIONAL INNOVATOR?
+
+For instance, Romania is part of an EDF project on Artificial Intelligence Deploy-
+able Agent (AIDA),36 financed under the EDF 2023 call, which aims to develop pro-
+totype AI-based cyber-defence agents capable of autonomously managing the full
+life cycle of cyber incidents, from detection to response, addressing the growing
+attack surface of highly digitalised defence environments. Romania participates
+modestly in AIDA through Eviden Technologies SRL and the Ministry of National
+Defence, reflecting its emerging but limited role in collaborative AI-for-defence
+innovation at the EU level. This involvement signals growing engagement with EU
+cyber-AI ecosystems, but it also highlights Romania’s status as a secondary partner
+rather than a lead technological contributor.
+Indeed, typically, Romanian entities in EDF consortia are small research agencies
+or SMEs that often receive only a modest share of the budget.37 This reflects
+capacity issues, as Romanian firms tend to act as junior partners providing niche
+expertise or regional test environments rather than leading high-value work
+packages. Thus, in practice, participation has often meant presence rather than
+real agenda-setting power. Importantly, of the 157 projects initiated between 2021
+and 2023, Romania has only led an EDF project, AVALON.38 It is led by a Roma-
+nian entity, an SME specialising in underwater wireless optical communication
+technology, Artemis Research & Innovation S.R.L. Though a notable achievement,
+AVALON remains an isolated case rather than an indicator of broader national
+engagement.
+In , MApN also signed a Memorandum of Understanding with Micro-
+soft Romania39 to bolster digitalisation in Romania’s defence sector, enhancing co-
+operation in information technology, security, and cyber defence. The agreement
+reflects MApN’s growing reliance on strategic partnerships with global technology
+providers to accelerate digital transformation and operational resilience.40
+Under the memorandum, Microsoft committed to sharing technical expertise and
+knowledge based on its global experience, including best practices in deploying
+innovative digital ecosystems and emerging technologies such as AI, advanced
+data analytics, cloud computing, big and open data architectures, IoT networks,
+Zero Trust security models, data lake infrastructures, and data-warehouse solu-
+tions. This collaboration indicates Romania’s intention to modernise digital de-
+fence infrastructure through public-private cooperation and to lay the groundwork
+for scalable defence AI-enabled capabilities across its armed forces.
+36 “AIDA–ArtificialIntelligenceDeployableAgent.”
+37 Iancu,“Romania’sDefencePolicyandNationalSecurityInterestsintheEuropeanDefenceFundAmidstEuropeanDefence
+Integration,”p.223.
+38 “Avalon-Long-TermSupportforRoboticsandAutonomousSystems.”
+39 “MemorandumofUnderstandingbetweenMONDandMicrosoftRomania.”
+40 Neagu,“DigitalisationoftheRomanianArmy:TheMinistryofNationalDefenceSignsaPartnershipwithMicrosoftRomaniain
+theFieldofInformationTechnology,Security,andCyberDefence.”
+WWW.DEFENSEAI.EU 23
+
+In 2024, Romania became the coordinator of another EDF project, the Small En-
+hanced European UAS (SEEU-STEP), funded under the 2024 Development Actions.41
+It aims to develop advanced small unmanned aerial systems capable of operating
+in contested environments and supporting C4ISR missions across EU armed forces.
+The project is led by Kapamed International SRL, a Romanian company based in
+Cluj-Napoca, marking a notable example of Romanian leadership within an EDF
+development initiative. The project’s total estimated cost is €11,585,387.50, with
+€10,999,940.00 covered by EDF funding. The initiative focuses on enhanced endur-
+ance, low observability, interoperability, and intelligent data processing, including
+software components that enable autonomy. Romania’s role as coordinator repre-
+sents a significant step beyond junior participation, further strengthening its position
+within EU defence innovation and defence AI ecosystems. This case demonstrates
+that leadership is possible but remains the exception rather than the rule.
+Yet, leadership requires significant project management skills and financial con-
+tributions that Romania’s industry currently lacks. Although Romania’s National
+Defence Strategy 2020–2024 explicitly acknowledged the importance of EU-led
+security and defence initiatives, this recognition has not actually resulted in
+concrete actions to modernise its defence industry or enhance cooperation with
+European partners.
+Romania has also secured €16.68bn in loans under the EU’s SAFE programme, the
+second-largest allocation after Poland, to fund rapid investments in military equip-
+ment and defence production capacity.42 SAFE, a temporary emergency instrument,
+supports advanced technologies, including AI for defence and security, to enhance
+interoperability with NATO and EU partners. The programme demonstrates Euro-
+pean solidarity in addressing the need for modern and resilient collective defence.
+Its goal is to promote industrial cooperation, reduce fragmentation, and establish a
+more efficient single market for defence equipment. Loans are provided based on a
+national defence industry investment plan approved by the European Commission,
+with Funds remaining available until 31 .
+Romania also engages in EDA research and technology activities, including
+CapTech initiatives related to communications, cyber defence, and digital technol-
+ogies. Although publicly available information does not allow for precise meas-
+urement of national involvement, these activities align with Romania’s interests in
+secure military communications and emerging AI-enabled capabilities. Beyond
+the defence sector, Romania benefits from EU civilian research programmes like
+Horizon Europe,43 with significant defence crossover.
+41 “SmallEnhancedEuropeanUnmannedAerialSystems.”
+42 Cristea,“EUbacksRomaniawith16.7billioneurosindefenceloans.”
+43 OECD,ProgressinImplementingtheEUCoordinatedPlanonAI(Vol.1):Romania.
+24 FROM LAGGARD TO POTENTIAL REGIONAL INNOVATOR?
+
+Romanian universities, research institutes, and technology firms actively participate
+in Horizon Europe projects focused on AI and cybersecurity, developing expertise
+and tools that can inform defence applications. Simultaneously, Romanian institu-
+tions are involved in EU-funded AI excellence and competence networks, which
+help build national expertise in advanced AI methods. Although mainly civilian in
+focus, these initiatives could indirectly strengthen Romania’s defence AI ecosystem
+by expanding the country’s research capacity, skills development, and exposure to
+European innovation networks that the MApN can increasingly leverage. Nonethe-
+less, Eurostat data from shows that in 2024, only 3.1% of Romanian
+companies used AI technologies, placing Romania last in the EU, compared to the
+European average of 13.5%.44
+3.3 Other Partnerships and National Initiatives
+Beyond NATO and EU frameworks, Romania has developed direct partnerships
+with key allies to advance defence technology and AI. This reflects Romania’s
+approach to defence innovation that is incremental and anchored around contribu-
+tions by partner nations (chapter 2.1). Close cooperation with partners also allows
+Romania to gain hands-on experience by procuring and fielding foreign AI-ena-
+bled defence solutions,45 as chapter 6 will discuss.
+The United States is Romania’s most significant strategic partner, with technol-
+ogy cooperation playing a prominent role in that relationship. Under a 10-year
+Roadmap for Defence Cooperation signed in 2020, the U.S. and Romania agreed
+to collaborate on emerging technologies such as AI, cyber, and space, among
+others.46 American defence firms also play a role. Lockheed Martin has partnered
+with Romanian institutions, as shown by Lockheed’s involvement in the Cluj AI
+Research Centre project.47 In addition, Romania’s long-standing ties with Israel and
+its defence sector play a crucial role in advancing access to AI-enabled unmanned
+systems, such as UAVs, to enhance Romania’s capabilities in Intelligence, Recon-
+naissance, and Surveillance, as well as border security.
+Moreover, Romania established a unique institution in 2021, the Euro-Atlantic
+Resilience Centre (E-ARC) in Bucharest.48 Even though it is not military-specific,
+this centre addresses hybrid threats, resilience, and the impacts of emerging
+44 “EUMemberStates’DefenceSpendingandMilitaryPersonnelStatistics.”
+45 “Learningbyprocuring”isanapproachmanyotherEUandNATOpartnersofRomaniasuchasDenmark,Estonia,Finland,Ger-
+many,GreeceorItalyarepursuingaswell.Formore,see:Borchert,“TheVeryLongGameofDefenseAIAdoption:Introduction,”
+p.26.
+46 Vergun,“U.S.,RomaniaChart10-YearRoadMapforMilitaryCooperation.”
+47 Marica,“LockheedMartinandClujUniversityEstablishAIPartnershipforDefenceApplications.”
+48 Formoreonthecentre,see:
+WWW.DEFENSEAI.EU 25
+
+technologies on security, operating under a diplomatic umbrella with NATO and
+EU support. E-ARC has organised workshops on AI governance and cognitive
+security with NATO and EU experts, where Romanian defence officials also par-
+ticipate. These initiatives help Romania develop a comprehensive understanding
+of AI’s strategic and hybrid implications, from societal resilience to military appli-
+cations, and bolster the country’s role as a regional hub for security innovation. In
+this sense, resilience has become one of Romania’s most distinctive conceptual
+contributions to Allied security debates.
+3.4 A Local Defence AI Ecosystem in the making?
+The reality is that Romania has consistently ranked among the lowest in AI adop-
+tion across the EU, which significantly affects home-grown defence AI applica-
+tions.49 Indeed, Romania’s ability to develop a credible defence AI ecosystem is
+fundamentally limited by the country’s ongoing lag in digital transformation and AI
+adoption across the wider economy and society. Despite increasing political focus
+on EDTs, Romania remains among the lowest performers in the EU on key indi-
+cators related to AI uptake, digital skills, and innovation intensity.50 This broader
+technological lag directly influences the potential for domestic defence AI applica-
+tions, which rely on a mature civilian digital environment for talent, data, infrastruc-
+ture, and entrepreneurial spillovers. Indeed, this structural lag creates a ceiling on
+what defence AI can realistically achieve in the short to medium term.
+A key systemic challenge is Romania’s weak domestic innovation system. Public
+and private R&D investment remains low, venture capital markets are limited, and
+collaboration among universities, industry, and the government is fragmented.
+Defence AI, which relies heavily on software and data, requires ongoing access
+to advanced computing resources, high-quality datasets, and interdisciplinary
+research teams. Furthermore, such assets are unevenly distributed and often
+concentrated in isolated university centres of excellence rather than scaled across
+the country. Consequently, it could be argued that promising defence-related
+innovations often remain at the prototype stage or are absorbed into foreign-led
+ecosystems.
+Digital skills shortages further constrain ecosystem growth. Romania faces a dual
+challenge of low overall digital literacy and a limited pipeline of advanced AI spe-
+cialists. Although the country produces strong technical graduates, there is a mas-
+sive brain drain issue. Many highly skilled workers are absorbed by multinational IT
+49 “EUDigitalEconomyandSocietyStatistics:20.0%ofEUIndividualsUsedAIServicesin2025.”
+50 “Romania,FailinginDigitalisation:ItReceivedaScoreof3outof10inaReportbyEstonianExperts.”
+26 FROM LAGGARD TO POTENTIAL REGIONAL INNOVATOR?
+
+firms or move to higher-paying markets, decreasing the pool for defence-related
+projects.51 Within the armed forces, limited exposure to AI-enabled systems
+reduces demand: without clear operational concepts, procurement pathways, and
+user communities, military demand for AI remains cautious and fragmented. That
+is why the challenge is not only a lack of talent, but the inability to retain and chan-
+nel it strategically, including in the Romanian armed forces.
+Therefore, Romania risks falling behind in AI unless defence becomes a catalyst
+for AI adoption. Following the Polish model, for example, it should establish a
+dedicated military AI unit as a template, encouraging Romania to increase de-
+fence funding, utilise its IT sector, and systematically embed AI into armed forces
+modernisation.52 Finally, the armed forces’ procurement culture prioritises proven,
+imported systems over experimental domestic solutions, reinforcing dependence
+on foreign vendors. Without coordinated demand signals, sustained funding,
+and mechanisms to absorb risk, domestic firms find it difficult to scale defence AI
+solutions.
+Nonetheless, Romania has taken a significant step towards establishing itself as
+a research and technology hub in Eastern Europe with the opening of its first na-
+tional AI factory. The new facility, called RO AI Factory,53 is part of the EU initiative
+EuroHPC - AI Factories,54 which unites several countries to create a network of
+centres for high-performance computing and AI technologies. The RO AI Factory
+is the country’s first national AI infrastructure, developed by the National Institute
+for Research and Development in Informatics - ICI Bucharest as the hosting entity,
+along with the National University of Science and Technology POLITEHNICA
+Bucharest and a consortium of academic, research, and industry partners. Thus, for
+the first time, Romania now has promising infrastructural foundations to experi-
+ment with AI at scale under sovereign conditions.
+This initiative has the potential to enhance Romania’s defence AI capacity by
+providing sovereign high-performance computing and AI infrastructure crucial for
+training, testing, and validating military-relevant algorithms. Connected to the EU’s
+EuroHPC network, it can support dual-use research, enable secure data processing
+for defence purposes, and decrease reliance on foreign computing resources, thus
+improving resilience, interoperability, and Romania’s ability to develop indigenous
+defence AI innovations.
+51 “HowtheRomanianWorkforceComparestoOtherEuropeanMarkets.”
+52 Dumitrache,“RomaniaRisksMissingtheAITrain.TheArmyCanandMustReceiveWellAbove3%ofGDP,andtheOpportunity
+MayComefromtheITSector.”FormoreontheAIImplementationCenterestablishedattheCyberspaceDefenceForcesCom-
+ponentCommand,see:Lipka/Wernik/Dziegiel,GuardingtheAlliance’sEasternFrontiers,pp.39–40.
+53 “NationalPremiere:ICIBucharestandPolitehnicaBucharestBuildtheFirstAIFactoryinRomania.”
+54 EuropeanCommission,AIFactories.
+WWW.DEFENSEAI.EU 27
+
+Romania’s emerging defence AI ecosystem is also gaining momentum through
+both commercial innovation and experimental defence applications. A Romanian
+tech company, Makeitfuture, based in Cluj-Napoca, won international awards
+for its advances in automated and AI-driven solutions, highlighting the country’s
+potential in high-performance AI technologies that can spill over into defence
+contexts, such as data processing and autonomous systems development.55
+Makeitfuture primarily uses AI to develop automation and no-code solutions that
+help organisations streamline workflows, integrate Software as a Service (SaaS)
+tools, and deploy AI agents and chatbots tailored to specific business data and
+needs. Their services include AI workflow integration, intelligent decision-making
+systems, and automated data processing to improve efficiency across sectors such
+as customer support, sales, and operations.56
+Meanwhile, OVES Enterprise’s AI innovations are attracting attention from Ger-
+many’s defence industry with their proprietary Nemesis AI, highlighting the export
+potential of Romanian AI solutions and enhancing their relevance within European
+security markets.57 The company has developed a low-cost FPV drone controlled
+entirely by AI, capable of autonomous flight without GPS or radio, and utilising
+thermal and neuromorphic vision for target engagement. The company contends
+that such systems could redefine defence paradigms by emphasising speed and
+digital sovereignty, and it has signed a strategic memorandum with the UK’s Over-
+watch Aerospace to collaborate on advanced aerial solutions.
+Experimental systems, such as Romanian-designed AI-controlled drones, show-
+case early operational prototypes that could inform future autonomous ISR and
+loitering platforms, despite current limited integration with formal military procure-
+ment. Furthermore, the potential creation of an AI-controlled FPV drone costing
+under $500 by a domestic firm exemplifies promising grassroots defence AI skills
+and indicates how affordable autonomous platforms could enhance traditional
+force structures if adopted and scaled by the armed services.
+These developments collectively demonstrate an emerging ecosystem in which
+civilian AI expertise, startup vitality, and early defence-focused prototypes are
+converging, laying the foundation for a stronger Romanian contribution to NA-
+TO-aligned AI innovation.58 Thus Romania’s domestic capacity to develop AI-ena-
+bled systems is growing. This also provides an opportunity to reduce the country’s
+dependence on foreign suppliers. But for these initiatives to sustainably support
+future defence modernisation efforts, companies require military demand signals
+55 “RomaniantechcompanyearnsinternationalrecognitionforAIandautomationinnovation.”
+56 Formoreonthecompany,see:
+57 Dragan,“RomanianAIAttractsAttentionfromGermany’sDefenceIndustry.”
+58 Jipa,“RomaniaHasanAI-ControlledDroneUnder$500.”
+28 FROM LAGGARD TO POTENTIAL REGIONAL INNOVATOR?
+
+via procurement contracts, and military users must be trained to handle new
+equipment.59
+Taken together, recent industrial, institutional, and policy initiatives indicate the
+gradual development of a local defence AI ecosystem in Romania, even if it
+remains fragmented and uneven. On the industrial front, several Romanian and
+Romania-based companies are building AI-enabled capabilities with clear defence
+relevance. Orbotix Technologies,60 a Polish-Romanian DefenceTech startup, is
+developing AI for loitering munitions, signalling both indigenous and collaborative
+experimentation with autonomy, targeting, and human-machine teaming. The
+company operates in Poland, Romania, Spain and Ukraine, and plans to establish
+an AI-focused R&D centre in Warsaw. Meanwhile, the partnership between Dzyne
+Technologies and ROMARM61 on drone and counter-drone solutions demonstrates
+how Romania leverages foreign expertise while incorporating production, testing,
+and integration locally. Similarly, ASSIST Software62 offers advanced AI-driven
+situational awareness solutions, including within defence-tech cooperation frame-
+works with Germany, reinforcing Romania’s role as a software- and data-centric
+contributor within European defence innovation networks.
+From an institutional perspective, efforts to build ecosystems are becoming more
+apparent. The launch of the Romanian AI Hub (HRIA)63 in represents an
+attempt to strengthen national research capacity, promote public-private collabo-
+ration, and embed AI development within smart specialisation priorities, including
+security and defence spillovers. HRIA is a national project to create a centre of
+excellence for AI research, development, and innovation, bringing together uni-
+versities and innovative SMEs within a consortium coordinated by Politehnica Bu-
+charest. It aims to strengthen the national defence AI ecosystem, connect research
+with industry, develop advanced AI technologies, and increase Romania’s visibility
+in Europe’s strategic tech landscape, thereby indirectly supporting defence-related
+research and innovation.
+Within the Ministry of National Defence, the Military Equipment and Technolo-
+gies Research Agency (ACTTM, also known as METRA)64 could play a potentially
+significant enabling role, especially in applied research, testing, and technology
+validation, even though its direct involvement with advanced AI remains limited
+and under-documented. Recently, the establishment of the Agency for Operation-
+al Experimentation and Advanced Technologies (AEOTA)65 indicates a growing
+59 Moiș,“RomanianAI-EnabledDronesTestedontheUkrainianFront.”
+60 Bednarz,“Orbotixsecures€6.5MtoboostAIdronesystems.”
+61 “DZYNETechnologiesandRomania’sNationalDefenseCompanyFormalizeCollaborationtoBuildRomanianDefenseCapability.”
+62 “ASSISTStrengthensGerman-RomanianCollaborationinDefenceTechandAIInnovation.”
+63 “RomanialaunchestheRomanianArtificialIntelligenceHub.”
+64 Formore,see:
+65 ReportonEmergingandAdvancedTechnologies,p.38.
+WWW.DEFENSEAI.EU 29
+
+institutional recognition of emerging and advanced technologies, including AI, as
+strategic enablers for future military capabilities.
+Overall, these initiatives indicate that Romania is not starting from zero. Instead,
+a defence AI ecosystem is developing through pragmatic connections between
+startups, established IT companies, foreign defence partners, and evolving nation-
+al institutions. However, this ecosystem remains driven more by opportunity and
+collaboration than by a coherent national defence AI strategy, highlighting both its
+potential and its structural fragility.
+30 FROM LAGGARD TO POTENTIAL REGIONAL INNOVATOR?
+
+4 Organising
+Defence AI
+WWW.DEFENSEAI.EU 31
+
+The discussion of Romania’s strategic documents in chapter 2 made clear that the
+country’s thinking on appropriate defence AI governance solutions is nascent at
+best. The 2021 Military Strategy, for example, lacked clear institutional respon-
+sibility for defence AI governance, lifecycle management, and ethical oversight.
+Although it recognised dual-use technology development and private sector
+collaboration, it provided no clear mechanisms for trusted procurement, sovereign
+control of defence data, or resilience against AI-enabled cyber threats. In short,
+the strategy reflected a more mature outlook on AI’s defence potential but did not
+offer guidance on establishing concrete pathways for responsible and operational
+military AI deployment. MApN has also been actively connected to the interinsti-
+tutional effort to endorse and approve the National Artificial Intelligence Strategy
+for 2024–2027.66
+In addition, the Communications and Informatics Command (CCI)67 is a special-
+ised structure within MApN responsible for managing, securing, and operating
+the Romanian armed forces’ communication and IT networks. At the same time,
+the Cyber Defence Command (CaPC)68 is the specialised military structure under
+the Defence Staff, responsible for protecting, defending, and ensuring the resil-
+ience of military IT networks and critical infrastructure. Both are crucial in coordi-
+nating IT modernisation and deploying AI-driven cybersecurity69 tools to defend
+military networks.
+Building on its increasing integration into NATO’s innovation ecosystem (chapter
+3.1), Romania has also taken tangible institutional steps to strengthen defence-in-
+dustrial cooperation by establishing the Romanian Agency for Technological and
+Industrial Cooperation for Security and Defence (ARCTIS), under Government
+Emergency Ordinance no. 124/2023. The creation of ARCTIS marks a significant
+shift in Romania’s approach to defence industrial policy, reflecting a deliberate
+effort to enhance strategic autonomy while integrating national industry more
+deeply within European and NATO defence frameworks. This institutional reform,
+if it does not create more bureaucracy and inefficiency, could reflect a growing
+awareness that innovation requires structural reforms, as well as whole-of-govern-
+ment and interdisciplinary coordination.
+The ordinance details the principles, procedures, and governance mechanisms
+for technological and industrial cooperation arising from defence and security
+procurement, explicitly aimed at safeguarding Romania’s vital security interests.
+By replacing the former Office for Offset (OCATS), ARCTIS is intended to serve as
+66 Brînza,“TheImplicationsofArtificialIntelligenceontheGlobalSecurityEnvironmentandtheImpactofAIonDefenceStrate-
+gies,”p.141.
+67 Formore,see:
+68 Formore,see:
+69 Crelier,“Romania’sNationalCybersecurityandDefensePosture:PolicyandOrganizations.”
+32 FROM LAGGARD TO POTENTIAL REGIONAL INNOVATOR?
+
+a central coordination hub facilitating collaboration between Romanian defence
+companies and international partners, including those operating within NATO
+supply chains.70
+From a defence AI perspective, ARCTIS is especially relevant because it formalis-
+es cooperation formats crucial for emerging and disruptive technologies. These
+include technology transfer, joint research and development, subcontracting,
+localisation of production, and the export of defence-related products and
+services. Such mechanisms are vital for scaling AI-enabled capabilities, where
+software, data, and systems integration increasingly drive value creation. By
+reducing bureaucratic fragmentation and streamlining transitions from R&D to
+production, ARCTIS can enable Romanian firms to participate more effectively in
+NATO-aligned defence innovation ecosystems.
+Its focus on cybersecurity, AI, and advanced digital technologies indicates an in-
+tention to align Romania’s defence industrial modernisation with the technological
+priorities shaping modern warfare. In this way, ARCTIS could indeed complement
+Romania’s involvement in NATO innovation initiatives by providing the domestic
+institutional infrastructure needed to turn Alliance-driven AI experimentation into
+sustainable industrial and operational capabilities.
+Meanwhile, Romania still lacks a clear and operational framework for ongoing
+state collaboration with companies developing AI and advanced digital solutions
+for defence and security. As recent industry commentary has noted, strategic
+documents and political commitments have not yet translated into predictable
+procurement processes, long-term partnerships, or clear rules for public-private
+cooperation in sensitive AI fields.71 This implementation gap weakens incentives
+for domestic firms to invest in defence-relevant AI and reinforces reliance on
+foreign suppliers and ad hoc partnerships. A similar tension is evident in Romania’s
+need for a more comprehensive MILCLOUD approach that aims to provide sover-
+eign cloud infrastructure for defence and public administration.
+While MILCLOUD represents an important step towards data sovereignty, secure
+information sharing, and Alliance interoperability,72 it remains primarily an in-
+frastructure project rather than a comprehensive enabler of AI-driven defence
+capabilities. Its governance model, integration with AI development pipelines,
+and role in supporting trusted data access for military AI applications remain
+under-specified. Without clearer links between MILCLOUD, defence procurement,
+and AI innovation policy, cloud infrastructure risks becoming an isolated technical
+70 RomanianDefenseMarket:OpportunitiesandChallenges,pp.6–7
+71 Barac,“OvesEnterprisesays‘RomaniaMustMakeAIaStrategicPriorityforNationalSecurity.’”
+72 “MinisterofNationalDefenceSignedtheLetterofIntentbyWhichRomaniaJoinsAlliedSoftwareforCloudandEdgeServices.”
+WWW.DEFENSEAI.EU 33
+
+solution rather than a backbone for AI experimentation, testing, and deploy-
+ment.73 Overall, these shortcomings highlight a broader structural challenge:
+Romania has begun building the institutional and technological components of a
+defence AI ecosystem but has yet to connect them through coherent governance,
+implementation mechanisms, and sustained public-private collaboration. Until this
+gap is closed, Romania’s defence AI ambitions are likely to remain fragmented and
+reactive, rather than strategically coordinated and nationally anchored.
+73 Țiganus,“MILCLOUD:MilitaryCloudComputingArchitecture.”
+34 FROM LAGGARD TO POTENTIAL REGIONAL INNOVATOR?
+
+5 Funding
+Defence AI
+WWW.DEFENSEAI.EU 35
+
+By 2024, Romania’s defence budget exceeded the NATO benchmark of 2% of
+GDP for the ninth consecutive year, reaching around €9bn. Romania has thus
+become one of the more responsive European allies to long-standing U.S. pres-
+sure to boost defence expenditure within NATO.74 As discussed in chapter 2.1,
+this shift reflects both a changing threat perception and a broader recalibration of
+what Romanian society is willing to prioritise in the name of security.
+In essence, the war had significant implications for Romania’s defence posture
+and, by extension, its DTIB. Suddenly, Romania found itself sharing a border with
+an active war zone, a situation that brought a sense of urgency to defence plan-
+ning not seen since the Cold War. Romania responded to the war by increasing its
+defence budget beyond previous commitments. By early 2025, the expectation
+was that the defence expenditure could reach 3% of GDP within one to two years,
+representing a substantial increase and signalling the intention to align with the
+more ambitious NATO benchmarks under discussion in the region.75 After the
+2025 NATO Summit in The Hague, Romania has a stated goal to increase its total
+defence-related spending to 5% of GDP by 2030, which would include 3.5% for
+direct military spending and an additional 1.5% for related investments, such as
+strategic infrastructure and cybersecurity.76
+This increase in resources will ostensibly provide funding for major procurement
+programmes and the opportunity to invest in technological and industrial capacity,
+such as capital expenditure in local factories or R&D centres. The war has at least
+ensured that political support for defence funding remains strong, overriding
+earlier hesitations caused by budget deficits. It has become politically acceptable,
+even essential, to invest heavily in defence as Romanian society and elites witness
+the devastating consequences of military inferiority in nearby Ukraine.
+In contrast to the general spending increase recent evidence confirms that Ro-
+mania’s defence R&D investment remains limited, uneven, and structurally sub-
+ordinate to equipment procurement. Romania’s post-2022 budget growth has
+predominantly focused on procurement, force readiness, and major capability
+upgrades, with research and innovation regarded as supportive activities rather
+than strategic drivers.77 The 2025 defence budget reinforces his pattern by allo-
+cating €2.5–2.75bn to equipment procurement and R&D, a combined category
+that conceals how much funding is genuinely dedicated to research as opposed to
+procurement-related integration and upgrades.78 As the 2024 activity report of the
+74 RomanianDefenseMarket:OpportunitiesandChallenges.
+75 “Romaniandefencespendingcouldreach3%ofGDPin1–2years,presidentsays.”
+76 Ernst,“RomaniaAdheresto5%-of-GDPDefenceSpendingTarget.”
+77 RomanianDefenseMarket:OpportunitiesandChallenges.
+78 Brăteanu,“SecretaryofStateintheMinistryofNationalDefense:Defensebudget2025–8.7billioneurosforequipmentand
+research.”
+36 FROM LAGGARD TO POTENTIAL REGIONAL INNOVATOR?
+
+Ministry of National Defence’s 2024 reveals, Romania currently spends no more
+than 1.14% of MApN’s total budget on R&D.79
+This figure shows Romania far below NATO goals to boost defence innovation
+and reveals a persistent imbalance between acquiring capabilities and developing
+them domestically. In practice, R&D funding is mainly used for applied projects
+related to procurement programmes, offsets, and international cooperation
+frameworks, rather than dedicated to exploratory research, experimentation, or
+emerging technologies such as AI. The result is a defence innovation model that
+remains reactive and externally shaped, relying heavily on imported systems and
+allied technologies. While use of EU and NATO instruments partly compensates
+for limited national investment, the low and weakly ring-fenced R&D share limits
+Romania’s ability to develop sovereign expertise and sustain long-term innovation
+in AI-enabled and data-driven military capabilities.
+79 ReportontheActivityoftheMinistryofNationalDefence2024,p.19.
+WWW.DEFENSEAI.EU 37
+
+6 Fielding and
+Operating
+Defence AI
+38 FROM LAGGARD TO POTENTIAL REGIONAL INNOVATOR?
+
+As discussed in chapter 3.3, international partners are essential to advance Roma-
+nia’s access to AI capabilities via procurement projects. Together with these part-
+ners Romania is gradually fielding AI for unmanned systems, counter-unmanned
+systems solutions and air defence:
+Unmanned Systems
+The Romanian Navy has acquired the V-BAT surveillance drone from U.S.
+manufacturer Shield AI in a deal worth approximately USD30M. This uncrewed
+aerial system (UAS) is employed for intelligence, surveillance, reconnaissance
+(ISR) and targeting missions and operates in GPS- and communication-denied
+environments thanks to Shield AI’s Hivemind autonomy software.80 With a
+view to improving the country’s ISR capabilities, Romania has also signed a
+USD400M deal to procure the Watchkeeper X UAV in 2023. Produced by Elbit
+(Israel) and Thales (UK), the system augments the Romanian armed forces’
+higher resolution data collection and pattern analysis. 81
+Also in 2023, Romania and Baykar signed a contract for 18 Bayraktar TB2
+combat drones, including training and support worth USD321M. This acqui-
+sition was completed in 2025 and strengthens the capabilities of Romania’s
+Army.82 While the official procurement documentation does not explicitly
+mention AI capabilities, the platforms feature advanced avionics and automat-
+ed flight control systems. Current Turkish drone developments, such as the
+AI-guided Kemankes missile tested for use on Baykar systems, suggest that
+AI-assisted target detection and decision support are being integrated at the
+payload and sensor level.83
+Countering Unmanned Systems
+In late 2025, the U.S. supplied Romania with the Merops compact coun-
+ter-drone system for testing as part of broader NATO efforts to strengthen air
+defences on the Alliance’s Eastern Flank.84 The U.S.-developed Merops system
+uses AI to detect, classify, and neutralise hostile unmanned aerial systems even
+in environments with jamming or disrupted communications, thus addressing
+a growing drone threat that has emerged along NATO borders. Romanian
+defence authorities reported ongoing trials and plans to integrate Merops into
+operational frameworks, reflecting deepening U.S.-Romanian defence cooper-
+ation in AI-enabled counter-UAS technologies that bridge tactical innovation
+and Alliance interoperability.
+80 Bisht.“RomanianNavytoAcquireV-BATDronesfor$30Million.”
+81 Dumitrescu.“RomaniaAcquiresIsraeliSurveillanceDronesinUSD400MlnDeal.”
+82 BaykarTeknoloji,“RomaniaAwards$321MillionContractforTurkishTB2CombatDrones.”
+83 Bolocan,“Romania’sBayraktarTB2DronesNowUseanAI-EnabledMissileThatHuntsUnmannedAerialVehicles.”Formoreon
+Turkey’sAIdevelopmentsrelatedtounmannedsystems,see:Kurc,EnablingTechnologyofFutureWarfare,pp.18–19.
+84 “U.S.SendsMeropsAIAnti-DroneSystemtoRomaniaforTesting.”
+WWW.DEFENSEAI.EU 39
+
+Air Defence
+Romania has also recently signed an agreement with Israel’s Rafael Advanced
+Defense Systems to procure very short- and short-range air defence systems
+(V/SHORAD), reflecting a major expansion of its layered air-defence architec-
+ture. The deal, valued at approximately EUR2bn to EUR2.3bn, was approved
+through Romania’s Ministry of National Defence and state-owned CN Romteh-
+nica SA, and will see the acquisition of six integrated systems, training, simu-
+lation platforms, ammunition, and logistical support over a seven-year period,
+with the first two systems expected within three years.85 While official Roma-
+nian reporting does not explicitly label these systems as “AI” programmes,
+modern V/SHORAD suites like Rafael’s Spyder family integrate advanced
+automated sensor fusion, target tracking, and decision-support software that
+rely on AI-enabled algorithms for threat evaluation and engagement coordina-
+tion, particularly against drones, cruise missiles, and other low-altitude aerial
+threats.
+The acquisition of these systems exposes Romania’s armed forces to different AI
+applications. In parallel Romanian personnel are being trained to maintain and,
+possibly, manufacture components of different drones currently in use that operate
+AI for target tracking. This could enhance local expertise in autonomous flight and
+sensor data processing. Overall, however, it remains to be seen to what extent
+procurement-related AI introduction will help advance indigenous capacities and
+accelerate the development of innovative local solutions.
+85 “RomaniatobuyIsraelianti-aircraftsystemsfor$2.3bln”
+40 FROM LAGGARD TO POTENTIAL REGIONAL INNOVATOR?
+
+7 Training for
+Defence AI
+WWW.DEFENSEAI.EU 41
+
+Training and education form a vital yet frequently underdeveloped pillar of Ro-
+mania’s emerging defence AI ecosystem. The digital transformation of higher
+military education is not mainly a technological challenge, but an institutional and
+pedagogical one, demanding new skills, teaching approaches, and organisational
+cultures tailored to data-driven and AI-enabled military settings.86 These issues
+underline ongoing constraints, including uneven digital infrastructure, limited
+instructor readiness, and fragmented coordination among military education insti-
+tutions. Moreover, they directly impact the armed forces’ capability to responsibly
+implement and oversee AI-enabled systems.
+That is why Romania’s military higher education institutions remain vital entry
+points for developing defence AI capabilities. Two military education institutions
+are key:
+Military Technical Academy “Ferdinand I” (ATM)
+ATM plays a particularly significant role in delivering engineering-focused
+expertise in fields closely linked to defence AI, such as automation, robotics,
+control systems, and unmanned systems engineering. Beyond education,
+ATM-affiliated experts are involved in European research and advisory bodies,
+including EU-level AI governance and assessment mechanisms.87 This po-
+sitions ATM as a potential link between technical AI expertise and defence
+applications, even if this expertise is not yet integrated into a coherent nation-
+al defence AI training strategy.
+Carol I National Defence University (UNAp)
+UNAp complements this technical focus by engaging with AI from doctrinal,
+strategic, and operational perspectives. UNAp-affiliated research has exam-
+ined AI in the context of post-industrial society, military decision-making,
+and command-and-control processes, contributing to conceptual debates on
+AI-supported decision support rather than purely technical implementation.88
+At the same time, UNAp has experimented with AI-enabled educational tools,
+notably through adaptive e-learning platforms designed to personalise instruc-
+tion and improve training outcomes.89 The use of AI-enhanced simulations,
+including the Joint Conflict and Tactical Simulation System (JCATS), further
+exposes officers to complex, data-driven operational environments, strength-
+ening AI literacy at the level of military planning and command.
+86 Nicoară/Coroi,“TheChallengesAssociatedwithDigitalEducationinHigherMilitaryEducationalSettings.”
+87 NationalResearchAuthorityofRomania,“ScientificandEthicsCouncilonArtificialIntelligence.”
+88 Ioniță,Post-IndustrialSocietyandArtificialIntelligence.
+89 Lehacietal.,“ArtificialIntelligenceinE-LearningPlatformsforMilitaryEducation.”
+42 FROM LAGGARD TO POTENTIAL REGIONAL INNOVATOR?
+
+International initiatives complement the activities of these national military educa-
+tion institutions. For example, the AI Academy for Defence - Romanian Black Sea
+Readiness Track, signals a growing ambition to boost AI readiness through immer-
+sive and simulation-based training. This initiative was launched by EON Reality in
+2025 and will use extended reality (XR) simulations to advance training on different
+Western weapons systems.90
+In parallel a broader national framework helps embed military education related
+to the use of AI. The Romanian AI Hub (HRIA) connects universities and research
+institutions with the goal to provide a platform for AI research and skills develop-
+ment with potential defence applications. While HRIA creates an enabling environ-
+ment for cooperation, its influence on shaping defence-specific training priorities
+remains indirect and largely depends on institutional initiative rather than strategic
+planning.
+Overall, it is worth noting that digital and AI-related training initiatives are grad-
+ually spreading across Romania’s broader (military) education system. There are
+increasing efforts to incorporate emerging technologies into curricula and training
+environments across multiple academies, reflecting a system-wide recognition that
+future military effectiveness relies on digital competence. However, these efforts
+remain inconsistent and often project-based, rather than grounded in a unified
+defence AI education framework.
+At the same time, reliance on foreign commercial providers raises questions about
+long-term knowledge sovereignty, curriculum control, and dependency in sensitive
+defence areas. Eventually, meaningful human control over AI-enabled military
+systems cannot be achieved without sustained investment in training and educa-
+tion. Without deep institutional commitment to AI literacy, ethics, and operational
+understanding, Romania risks deploying increasingly complex systems without the
+human capacity required to govern, supervise, and adapt them responsibly.
+90 “EONRealityLaunchesInitiativetoFortifyRomania’sNATOEasternFlankRolewithSpatialAI&XRForginganAI-ReadyRoma-
+nianArmedForces,”
+WWW.DEFENSEAI.EU 43
+
+8 Conclusion
+44 FROM LAGGARD TO POTENTIAL REGIONAL INNOVATOR?
+
+Romania’s defence AI trajectory is best understood as a work in progress rather
+than a settled strategic affair. Romania’s engagement with defence AI since the
+2020s demonstrates the uneven path of a medium-sized frontline Euro-Atlantic ally
+striving to adapt to rapid technological change amidst significant security pres-
+sures and systemic challenges in the DTIB inherited from the Soviet era, along with
+decades of underinvestment in defence. Indeed, the country has unquestionably
+advanced beyond mere adoption to active involvement in defence AI initiatives.
+Conversely, progress remains slow, fragmented, and heavily reliant on external
+frameworks. Romania’s experience highlights both the opportunities offered by
+Alliance and EU integration processes and the structural constraints that continue
+to limit national ambition and implementation, that can be summarized as follows:
+Accelerated by Adversity. Russia’s war against Ukraine and the growing hybrid
+threats in the Black Sea region have been key catalysts for Romania’s defence
+modernisation programme, including its emphasis on AI and digital technologies.
+The proximity of conflict has created a sense of urgency in policy discussions and
+helped overcome longstanding inertia in procurement and planning. However,
+this threat-driven acceleration has also resulted in reactive decisions, rather than
+strategic policymaking, or radical institutional reforms for that matter. AI adoption
+is often seen as an urgent necessity rather than a carefully managed systemic
+transformation, which raises the risk of hasty solutions, untested systems, and
+inadequate attention to long-term sustainability and ethical safeguards. Urgency
+has thus enabled changes, but it cannot substitute true strategic vision.
+EU and Allied Integration as Force Multipliers. Romania’s dependence on NATO and
+EU innovation ecosystems has been its greatest strength and a source of structural
+reliance. Participation in allied programmes has enabled Bucharest to access capa-
+bilities, expertise, and funding that would otherwise be unavailable domestically.
+Yet this model also cements Romania’s role as a secondary contributor rather than
+a leader in defence AI innovation agendas. Integration promotes interoperability,
+but it can also obscure the absence of a clear national vision and reduce the moti-
+vation to develop indigenous capabilities.
+From Strategy to Implementation – Bridging the Gap. Romania has repeatedly recog-
+nised the strategic importance of dual-use AI systems, yet this acknowledgement
+has not resulted in a dedicated defence AI roadmap, clear priorities, or consistent
+funding. Defence AI remains scattered across high-level strategies, pilot projects,
+and partnerships without a unifying framework. The lack of explicit targets, institu-
+tional responsibility, and lifecycle planning will continue to hinder progress. Hence,
+without a formalised approach, home-grown defence AI solutions risk remaining
+an aspirational idea rather than transformative capabilities.
+WWW.DEFENSEAI.EU 45
+
+Institutional Change and Human Capital – The Real Challenges. The Romanian armed
+forces face significant organisational and cultural obstacles in adopting AI. Talent
+shortages, competition from the private sector, and limited AI literacy within military
+command structures diminish demand for advanced solutions. That is why innova-
+tion frameworks remain insufficiently institutionalised, and promising initiatives risk
+stagnation after pilot phases end. Without structural incentives, flexible career paths,
+tangible capability targets, dedicated budget lines, and a unified strategic vision,
+it could be argued that Romania will find it difficult to retain expertise and turn
+experimentation into operational benefits. Ultimately, cutting-edge technological
+innovation and adoption are as much a human challenge as a technical one.
+Punching Above Its Weight in Norms and Ethics. Romania has increasingly aligned
+itself with allied principles on AI governance, especially regarding human oversight,
+legality, and responsible use in military contexts. This alignment indicates normative
+intent and a willingness to adhere to emerging standards, but it does not auto-
+matically constitute full normative leadership. While Romania can credibly position
+itself as a responsible participant in allied debates, alignment alone risks remaining
+superficial if not supported by domestic capacity-building. Ethical leadership in
+defence AI requires more than mere endorsement: it must be backed by concrete
+doctrine, dedicated training, and enforceable accountability mechanisms within the
+armed forces. Without these, a gap could form between Romania’s external norma-
+tive stance and its internal capacity to operationalise responsible AI in practice.
+Resilience to AI-Driven Threats. Romania is increasingly aware that dual-use AI
+brings new vulnerabilities alongside operational benefits. In this regard, efforts to
+boost cyber resilience and combat disinformation are encouraging but still incon-
+sistent. In this context, a credible defence AI approach requires consistent invest-
+ment in counter-AI capabilities, fallback systems, and broader societal resilience,
+not just technological solutionism and adoption.
+Defence-Industrial Overhaul and Economic Benefits. AI-driven defence innovation
+offers Romania industrial and economic prospects, particularly in niche areas like
+drones, software, and simulation. Nevertheless, without coordinated demand from
+the armed forces and predictable procurement processes, local companies will
+remain marginal players or be integrated into foreign ecosystems.
+Overall, Romania’s defence AI approach is pragmatic but limited. It demonstrates
+adaptation through coalition leverage rather than strategic leadership and a clear
+strategic vision. The Romanian case thus offers broader lessons for the other
+mid-sized allies navigating the promises and perils of defence AI amid heightened
+geopolitical stresses and ongoing defence industrial reforms. Whether Romania
+can transition from a cautious adopter to a confident contributor depends on its
+willingness to tackle structural weaknesses, institutionalise innovation, and align
+ambition with ongoing investment and governance.
+46 FROM LAGGARD TO POTENTIAL REGIONAL INNOVATOR?
+
+Literature
+“AIDA–ArtificialIntelligenceDeployableAgent: ucts-eurostat-news/w/ddn-20250123–3(lastaccessed
+SelectedProjectsEuropeanDefenceFund(EDF)2023,” 30January2026).
+EuropeanCommission,Directorate-GeneralforDefence
+IndustryandSpace,undated, “HowtheRomanianWorkforceComparestoOther
+try-space.ec.europa.eu/document/download/f1aa1eeb- EuropeanMarkets,”RinaRecruitment,8August2025,
+a368–41ab-be91–54728c24ccba_en?filename=EDF- 
+2023-DA-CYBER-DAAI%20AIDA.pdf(lastaccessed30 force-compares-to-other-european-markets/(last
+January2026). accessed30January2026).
+“ASSISTStrengthensGerman-RomanianCollabora- “MemorandumofUnderstandingbetweenMOND
+tioninDefenceTechandAIInnovation,”ASSIST,Press andMicrosoftRomania,”RomanianMinistryofNational
+Release,14November2025, Defence,PressRelease,28March2023,
+news/assist-strengthens-german-romanian-collabora- mapn.ro/cpresa/5932_Memorandum-of-Understand-
+tion-defence-tech-and-ai-innovation(lastaccessed30 ing-between-MOND-and-Microsoft-Romania(last
+January2026). accessed30January2026).
+“Avalon-Long-TermSupportforRoboticsandAu- “MinisterofNationalDefenceSignedtheLetter
+tonomousSystems(LS-RA-SMERO-NTAvalon):Selected ofIntentbyWhichRomaniaJoinsAlliedSoftwarefor
+ProjectsEuropeanDefenceFund(EDF)2023,”European CloudandEdgeServices,”MinistryofNationalDefence,
+Commission,Directorate-GeneralforDefenceIndustry PressRelease,10July2024,
+andSpace,undated, cpresa/6297_Minister-of-National-Defence-signed-the-
+ec.europa.eu/document/download/49c57e3c-e1ca- Letter-of-Intent-by-which-Romania-joins-Allied-software-
+475c-8012–760cc8ab8ee9_en?filename=EDF-2023- for-Cloud-and-Edge-services(lastaccessed30January
+LS-RA-SMERO-NT%20AVALON.pdf(lastaccessed30 2026).
+January2026).
+“NationalPremiere:ICIBucharestandPolitehni-
+“DZYNETechnologiesandRomania’sNational caBucharestBuildtheFirstAIFactoryinRomania,”
+DefenseCompanyFormalizeCollaborationtoBuildRo- RomanianInstituteforCultureandInnovation(ICI),
+manianDefenseCapability,”PRNewswire,27September 10October2025,
+2024, national-premiere-ici-bucharest-and-politehnica-bucha-
+dzyne-technologies-and-romanias-national-defense-com- rest-build-the-first-ai-factory-in-romania/,(lastaccessed
+pany-formalize-collaboration-to-build-romanian-de- 30January2026).
+fense-capability-302261199.html(lastaccessed30
+January2026). “OfficialSigningoftheMemorandumofUnderstand-
+ingbetweentheDefenceInnovationAcceleratorfor
+“EUDigitalEconomyandSocietyStatistics:20% theNorthAtlantic(DIANA)andtheUPB-TestCentre
+ofEUIndividualsUsedAIServicesin2025,”Eurostat inArtificialIntelligence,”PolitehnicaUniversityof
+NewsRelease,11December2025, Bucharestpressrelease,23May2023,
+ropa.eu/eurostat/web/products-eurostat-news/w/ semnarea-oficiala-a-memorandum-of-understanding-in-
+ddn-20251211–2#:~:text=In%202025%2C%20 tre-defence-innovation-accelerator-for-the-north-atlan-
+20.0%25%20of%20EU,and%20Lithuania%20(+12.5%20 tic-diana-si-upb-test-center-in-inteligenta-artificiala/.
+pp).&text=The%20most%20common%20use%20
+of,spoken%20language%20(+3.4%25)(lastaccessed30 “RomanialaunchestheRomanianArtificialIntelli-
+January2026). genceHub–acentreofexcellenceprojectmadepossi-
+blebythefulfilmentbytheNationalResearchAuthority
+“EUMemberStates’DefenceSpendingandMilitary oftheenablingcondition1.1onsmartspecialisation
+PersonnelStatistics,”EurostatNewsRelease,23 governance,”ANCResearch,26June2025,
+January2025, research.gov.ro/romania-lanseaza-hubul-roman-de-inteli-
+WWW.DEFENSEAI.EU 47
+
+genta-artificiala-un-proiect-de-excelenta-posibil-prin-in- thediplomat.ro/2025/02/21/oves-enterprise-says-roma-
+deplinirea-de-catre-anc-a-conditiei-favorizante-1– nia-must-make-ai-a-strategic-priority-for-national-securi-
+1-privind-guvernanta-specializarii-inteligente-25196/ ty/(lastaccessed30January2026).
+(lastaccessed30January2026).
+BaykarTeknoloji,“RomaniaAwards$321Million
+“RomaniatobuyIsraelianti-aircraftsystemsfor$2.3 ContractforTurkishTB2CombatDrones,”BaykarTe-
+bln,”Reuters,21July2025, knoloji,pressrelease,25April2023,
+business/aerospace-defense/romania-buy-israeli-an- com/en/press/romania-awards-321-million-contract-for-
+ti-aircraft-systems-23-bln-2025–07–21/(lastaccessed turkish-tb2-combat-drones/(lastaccessed30January
+30January2026). 2026).
+“Romania,FailinginDigitalisation:ItReceiveda Bednarz,Ewelina,“Orbotixsecures€6.5MtoboostAI
+Scoreof3outof10inaReportbyEstonianExperts,” dronesystems,”Evertiq,2October2025,
+EuronewsRomania,10October2025, com/design/2025–10–02-orbotix-secures-65m-to-boost-
+euronews.ro/articole/romania-corigenta-la-digitaliza- ai-drone-systems#:~:text=The%20funding%20round%20
+re-a-primit-nota-3-din-10-intr-un-raport-realizat(last was%20led,%2C%20and%20under%20allied%20con-
+accessed30January2026). trol.%E2%80%9D(lastaccessed30January2026).
+“Romaniandefencespendingcouldreach3%ofGDP Bisht,InderSingh,“RomanianNavytoAcquireV-BAT
+in1–2years,presidentsays,”Reuters,28February2025, Dronesfor$30Million,”TheDefensePost,28February
+ 2025,
+fence-spending-could-reach-3-gdp-1–2-years-president- nia-v-bat-drones/(lastaccessed30January2026).
+says-2025–02–28/,(lastaccessed30January2026).
+Bolocan,Valentin,“Romania’sBayraktarTB2Drones
+“Romaniantechcompanyearnsinternationalrecog- NowUseanAI-EnabledMissileThatHuntsUnmanned
+nitionforAIandautomationinnovation,”Agerpres,28 AerialVehicles,”NewsweekRomania,1July2025,
+October2025, 
+romanian-tech-company-earns-international-recogni- ca-ale-romaniei-folosesc-acum-o-racheta-cu-ai-care-
+tion-for-ai-and-automation-innovation--1497897(last vaneaza-aparate-fara-pilot(lastaccessed30January
+accessed6January2026). 2026).
+“SmallEnhancedEuropeanUnmannedAerial Borchert,Heiko,“TheVeryLongGameofDefense
+Systems(EDF-2024-DA-C4ISR-SEEU-STEP):EDF2024 AIAdoption:Introduction,”inHeikoBorchert,Torben
+SelectedProjectsFactsheet,”EuropeanCommission, SchützandJosephVerbovszky(eds.),TheVeryLong
+Directorate-GeneralforDefenceIndustryandSpace, Game.25CaseStudiesontheGlobalStateofDefense
+undated, AI(Cham:SpringerNature,2024),pp.1–38,
+eu/document/download/21d5a469-c47f-4684–8ece- springer.com/chapter/10.1007/978–3-031–58649–1_1
+eaff846e2d25_en?filename=FACTSHEET_EDF_2024_ (lastaccessedJanuary2026).
+DA_C4ISR_SEEU_STEP_101224328_Small_UAS.pdf(last
+accessed30January2026). Brăteanu,Liviu,“SecretaryofStateintheMinistry
+ofNationalDefense:Defensebudget2025–8.7billion
+“SummaryofNATO’sRevisedArtificialIntelligence eurosforequipmentandresearch,”Informat.ro,26
+(AI)Strategy,”NATO,10July2024, November2025,
+int/en/about-us/official-texts-and-resources/offi- defense-budget-for-2025–87-billion-euros-and-focus-on-
+cial-texts/2024/07/10/summary-of-natos-revised-arti- equipment-93359(lastaccessed30January2026).
+ficial-intelligence-ai-strategy(lastaccessed6January
+2026). Brînza,Adrian,“TheImplicationsofArtificial
+IntelligenceontheGlobalSecurityEnvironmentandthe
+“U.S.SendsMeropsAIAnti-DroneSystemtoRoma- ImpactofAIonDefenceStrategies,”Euro-AtlanticResil-
+niaforTesting,”RomaniaJournal,7November2025, ienceJournal,2:3(Issue2/2023),pp.131–142,https://
+ resiliencejournal.e-arc.ro/wp-content/uploads/2024/06/
+merops-ai-anti-drone-system-to-romania-for-testing/. EARJ-3–2024-Brinza.pdf(lastaccessed30January
+2026).
+Barac,Petre,“OvesEnterprisesays‘RomaniaMust
+MakeAIaStrategicPriorityforNationalSecurity,”The Clapp,Sebastian,DefenceandArtificialIntelli-
+Diplomat–Bucharest,21February2025, gence,EuropeanParliamentaryResearchService,EPRS
+48 FROM LAGGARD TO POTENTIAL REGIONAL INNOVATOR?
+
+BRI(2025)769580(Strasbourg:EuropeanParliament, com/eon-reality-launches-initiative-to-fortify-roma-
+2025), nias-nato-eastern-flank-role-with-spatial-ai-xr-forg-
+BRIE/2025/769580/EPRS_BRI(2025)769580_EN.pdf. ing-an-ai-ready-romanian-armed-forces/.
+Cozma,Bogdan,“HowCanRomaniaRevitaliseIts Ernst,Iulian,“RomaniaAdheresto5%-of-GDP
+DefenceIndustry?”TheGermanMarshallFundofthe DefenceSpendingTarget,”Romania-Insider.com,3June
+UnitedStates(GMF),18July2025, 2025,
+org/news/how-can-romania-revitalize-its-defense-indus- fence-budget-june-2025(lastaccessed30January
+try,(lastaccessed30January2026). 2026).
+Crelier,Alice,Romania’sNationalCybersecuri- Iancu,Niculae,“Romania’sDefencePolicyand
+tyandDefensePosture:PolicyandOrganizations NationalSecurityInterestsintheEuropeanDefence
+(Zurich:CenterforStrategicStudies,2020),https:// FundAmidstEuropeanDefenceIntegration,”Land
+css.ethz.ch/content/dam/ethz/special-interest/gess/ ForcesAcademyReview,30:2(June2025),pp.218–228,
+cis/center-for-securities-studies/pdfs/Cyber-Re- 
+ports-2020–10-Romania.pdf,(lastaccessed30January 30January2026).
+2026).
+Ioniță,Crăișor-Constantin,Post-IndustrialSociety
+Cristea,Alexandru,“EUbacksRomaniawith16.7 andArtificialIntelligence(Bucharest:CarolINational
+billioneurosindefenceloans,”SeeNews,10September DefenceUniversity,2022),
+2025, pdf_studii/societatea_postindustriala_si_inteligenta_ar-
+with-16–7-bln-euro-in-defence-loans-1281370(last tificiala.pdf?utm(lastaccessed30January2026).
+accessed6January2026).
+Jipa,Florin,“RomaniaHasanAI-ControlledDrone
+Csernatoni,Raluca,Romania’sdefencetechnological Under$500:TheArmyJustNeedstoBuyItand
+andindustrialbase:Challengesandprospects(Paris: TrainSoldiersforThisNewTypeofWarfare,”Mon-
+InstitutdeRelationsInternationalesetStratégiques, itorulApărăriișiSecurității,5August2025,https://
+2024), monitorulapararii.ro/romania-are-drona-sub-500-de-
+loads/2024/07/ARES_2024_02_93_EDTIB_Romania_ dolari-controlata-de-ai-trebuie-doar-ca-armata-sa-o-
+Comment.pdf(lastaccessed5January2026). cumpere-si-sa-inceapa-sa-si-pregateasca-militarii-pent-
+ru-acest-nou-1–58695(lastaccessed30January2026).
+Dragan,Aurel,“RomanianAIAttractsAttentionfrom
+Germany’sDefenceIndustry,BusinessReview,20June Kurc,Caglar,EnablingTechnologyofFutureWarfare.
+2025, DefenseAIinTurkey(Hamburg:DefenseAIObserva-
+prise-romanian-ai-gains-attention-from-germanys-de- tory,2023),
+fense-industry-285248(lastaccessed30January2026). accessed30January2026):
+Dumitrache,Ciprian,“RomaniaRisksMissingthe Lehaci,Niculai-Tudorel,etal.,“ArtificialIntelligence
+AITrain.TheArmyCanandMustReceiveWellAbove inE-LearningPlatformsforMilitaryEducation,”in
+3%ofGDP,andtheOpportunityMayComefromtheIT ProceedingsofINTED2020(Valencia:IATED,2020),
+Sector,”DefenseRomania.ro,4March2025, pp.5194–5201,doi: 10.21125/iceri.2020.1129(last
+defenseromania.ro/armata-poloneza-infiinteaza-o-uni- accessed30January2026).
+tate-responsabila-cu-implementarea-inteligentei-artifi-
+ciale-in-fortele-armate_632701.html(lastaccessed5 Lipka,Rafal,JakubWernik,andWojciechDziegiel,
+January2026). GuardingtheAlliance’sEasternFrontiers.DefenseAI
+inPoland(Hamburg:DefenseAIObservatory,2025),
+Dumitrescu,Radu,“RomaniaAcquiresIsraeli 
+SurveillanceDronesinUSD400MlnDeal,”Roma- liances_eastern_frontiers_lipka_wernik_dziegiel(last
+nia-Insider.com,26November2025, accessed6January2026).
+romania-insider.com/romania-acquires-israeli-surveil-
+lance-drones-nov-2025(lastaccessed30January2026.
+“EONRealityLaunchesInitiativetoFortifyRomania’s
+NATOEasternFlankRolewithSpatialAI&XRForgingan
+AI-ReadyRomanianArmedForces,”EONReality,press
+release16May2025.Availableat:
+WWW.DEFENSEAI.EU 49
+
+M.Purice.RomaniaAmongtheTopApplicantCoun- eneriat-cu-microsoft-romania-in-domeniul-tehnologiei-in-
+triesinNATO’sDIANAAccelerator,Outsourcing-Today. formatiei-securitatii-si-apararii-cibernetice_658240.html
+ro,30June2024,Availableat: (lastaccessed30January2026).
+ro/?p=13462.
+Nicoară,Gabriela-Florina andAlex-GiulianCoroi,“The
+Marica,Irina,“LockheedMartinandClujUniversity ChallengesAssociatedwithDigitalEducationinHigher
+EstablishAIPartnershipforDefenceApplications,” MilitaryEducationalSettings,”AgoraInternational
+Romania-Insider.com,30January2024, JournalofJuridicalSciences,18:1(2024–06–30)pp.
+romania-insider.com/lockheed-martin-cluj-univer- 215–224, 
+sity-ai-partnership-january-2024(lastaccessed30 (lastaccessed30January2026).
+January2026).
+OECD,“AI-DrivenSocialMediaInterferenceAnnuls
+Marinaș,L.E.etal.“AFrameworkAnalysisofDigital Romania’sConstitutionalCourtRulingonthe2024
+Transformation:InsightsfromtheRomanianNational Election’sFirstRound,”OECDAIIncidentsandHazards
+RecoveryandResiliencePlan,”RomanianJournalof Monitor,10December2024,
+EuropeanAffairs,25:1(June2025),pp.122–147, dents/2024–12–10–3d09(lastaccessed30January
+ 2026).
+RJEA_vol.25_no.1_2025_ART6.pdf(lastaccessed30
+January2026). OECD,ProgressinImplementingtheEUCoordinated
+PlanonAI(Vol.1):Romania(Paris:Organisationfor
+MilitaryStrategyofRomania2021(Bucharest: EconomicCo-operationandDevelopment,2025),https://
+MinistryofNationalDefence,2021), 
+ro/legislatie/documente/STRATEGIA-MILITARA-A-RO- reports/2025/10/progress-in-implementing-the-europe-
+MANIEI-ENG.pdf(lastaccessed30January2026). an-union-coordinated-plan-on-artificial-intelligence-vol-
+ume-1-country-notes_b0385317/romania_b342902b/
+Moiș,Maria,“RomanianAI-EnabledDronesTested a8f9b33e-en.pdf(lastaccessed30January2026).
+ontheUkrainianFront:HowanITEntrepreneurWantsto
+TransformtheEuropeanMilitaryDroneMarket,”Eurone- Peptan,Catalin,“RomaniaFacingNewVectorsof
+wsRomania,19December2025, Insecurity:HybridWarfareandArtificialIntelligence,”
+ro/articole/drone-romanesti-cu-inteligenta-artificiala-tes- ResearchandScienceToday2,no.30(3October2025),
+tate-pe-frontul-din-ucraina-cum-vre(lastaccessed30 pp.87–106,DOI: 10.38173/RST.2025.30.2.8:87–106
+January2026). (lastaccessed5January2026).
+NationalResearchAuthorityofRomania,“Scientific Purice,Magda,“Romaniaamongthetopapplicant
+andEthicsCouncilonArtificialIntelligence,”undated, countriesinNATO’sDIANAaccelerator,”Outsourc-
+ ing-Today.ro,30June2024,
+ganisme-consultative/consiliul-stiintific-si-de-etica-in-in- ro/?p=13462(lastaccessed30January2026).
+teligenta-artificiala/(lastaccessed30January2026).
+ReportonEmergingandAdvancedTechnol-
+NATOAlliedCommandTransformation,“NATO’s ogies(Bucharest:MinistryofNationalDefence,
+HumanIntelligenceCentreofExcellence:AHubforInno- 2025),
+vation,”7August2024, raport_20250506081518.pdf(lastaccessed30January
+humint-coe-2024/(lastaccessed30January2026). 2026).
+NATO’sDIANANetworkTestCentres(London: ReportontheActivityoftheMinistryofNational
+DIANA,2025), Defence2024.(Bucharest:MinistryofNationalDefence,
+site1/general/test%20centres/diana_affiliated_network_ 2025),
+testcentres_2025–12.pdf(lastaccessed30January raport_20250506081518.pdf(lastaccessed30January
+2026). 2026).
+Neagu,Lidia,“DigitalisationoftheRomanianArmy: Romania’s2021WhitePaperonDefence(Bucharest:
+TheMinistryofNationalDefenceSignsaPartnership SecretariatulGeneralalGuvernului,2021),
+withMicrosoftRomaniaintheFieldofInformation gov.ro/1/wp-content/uploads/2021/03/CARTA-AL-
+Technology,Security,andCyberDefence,”Economica. BA-A-APARARII-.pdf(lastaccessed30January2026).
+net,29March2023,
+digitalizarea-armatei-romaniei-mapn-a-incheiat-un-part-
+50 FROM LAGGARD TO POTENTIAL REGIONAL INNOVATOR?
+
+Romania’sNationalArtificialIntelligenceStrategy itare-pe-care-le-va-face-armata-2157509(lastaccessed
+for2024–2027(Bucharest:SecretariatulGeneralal 30January2026).
+Guvernului,2024),
+uploads/2024/07/ANEXA-1–10.pdf(lastaccessed30 Vergun,David,“U.S.,RomaniaChart10-YearRoad
+January2026). MapforMilitaryCooperation,”U.S.DepartmentofWar,
+8October2020,
+Romania’sNationalDefenceIndustryStrategy ries/Article/Article/2376797/us-romania-chart-10-year-
+2024–2030(Bucharest:SecretariatulGeneralalGuver- road-map-for-military-cooperation/(lastaccessed30
+nului,2024).Availableat: January2026
+tent/uploads/2024/11/ANEXA-44.pdf(lastaccessed30
+January2026). Vișan,George,“RomaniaNoLongerTurnsBlindEye
+toRussia’sAirspaceViolations,”JamestownFoundation,
+Romania’sNationalDefenceStrategy2020–2024 26July2023,
+(Bucharest:PresidentofRomania,2020), turns-blind-eye-to-russias-airspace-violations/(last
+presidency.ro/files/userfiles/National_Defence_Strate- accessed30January2026).
+gy_2020_2024.pdf(lastaccessed30January2026).
+Romania’sNationalDefenceStrategyfor2025–2030
+(Bucharest:PresidentofRomania,2025),https://
+
+Na%C8%9Bional%C4%83%20de%20Ap%C4%83rare%20
+a%20%C8%9A%C4%83rii%20pentru%20perioada%20
+2025–2030.pdf(lastaccessed30January2026).
+RomanianDefence2025(Bucharest:Ministryof
+NationalDefence,2025),
+licatii_militare/documente/romanian_defence_2025.
+pdf#:~:text=PESCO’s%20role%20should%20be%20
+highlighted%20among%20all,in%20the%20force%20
+protection%20and%20training%20fields,(lastaccessed
+30January2026).
+RomanianDefenseMarket:Opportunitiesand
+Challenges(Bucharest:KPMGRomania,2025),https://
+assets.kpmg.com/content/dam/kpmg/ro/pdf/2025/
+romanian-defense-market.pdf(lastaccessed30January
+2026).
+Soare,Simona,Romania’sPerceptionoftheEU
+DefenceIndustrial“Toolbox”(Paris:IRIS,2024),https://
+
+fence-industrial-toolbox/(lastaccessed30January
+2026).
+Țigănus,Dan,“MILCLOUD:MilitaryCloudComput-
+ingArchitecture,”RevistaMilitarăTehnică,No.2/2023
+(2023),
+files/arhiva%20reviste/RMT/2023/2/TIGANUS.pdf(last
+accessed30January2026).
+Vasilache,A.,Popescu,R.,&Cozmei,“Official:
+HowRomaniawillspend€16.6billionfromtheSAFE
+programme.Thelistofmilitaryacquisitionsplanned
+bythearmedforces.”HotNews.ro,(2026,February6),
+
+miliarde-de-euro-din-programul-safe-lista-de-achizitii-mil-
+WWW.DEFENSEAI.EU 51
+
+52 FROM LAGGARD TO POTENTIAL REGIONAL INNOVATOR?
+
+Defense AI Observatory Studies
+25|31 Emanuel Ario Bimo and Bagus Jatmiko, A Careful Walk on Thin Ice. Defense AI in Indonesia
+25|30 Heiko Borchert, Bonds That Separate. Defense AI in the Arab Gulf States
+25|29 Rafał Lipka, Jakub Wernik, and Wojciech Dzięgiel, Guarding the Alliance’s Eastern Frontiers.
+Defense AI in Poland
+25|28 Umaima Ali, An Underdeveloped Strategic Necessity. Defence AI in Pakistan
+25|27 Heiko Borchert, Christian Brandlhuber, and Jeronimo Dzaack, Thinking Before Sinking.
+Red and Blue AI Tactics for Naval Combat
+24|26 Heiko Borchert and Christian Brandlhuber, His Hands Can’t Hit What His Eyes Can’t See.
+Emergent AI Tactics for Successful Operations in the Air Littoral
+24|25 Mahmoud Javadi, Heavy Thunder, No Rain: Defense AI in Iran
+24|24 Kitsch Liao, Intelligent National Defense Amid Strategic Ambiguity? Defense AI in Taiwan
+24|23 Motohiro Tsuchiya, Overcoming the Long Shadow of the Past. Defense AI in Japan
+24|22 Vitaliy Goncharuk, Survival of the Smartest? Defense AI in Ukraine
+24|21 Youngwook Park, Wil the One Ring Hold? Defense AI in South Korea
+23|20 Tomas Jermalivičius, Caught Between Today and Tomorrow. Defence AI in Estonia
+23|19 Nikolaos Karampekios, Konstantinos Sakalis, and Iraklis Oikonomou, Harnessing the Potential.
+Defense AI in Greece
+23|18 Andreas Graae, Servers Before Tanks? Defence AI in Denmark
+23|17 Kévin Martin and Lucie Liversain, A Winding Road Before Scaling-Up? Defense AI in France
+23|16 Sami O. Järvinen, Cautious Data-Driven Evolution. Defence AI in Finland
+23|15 Inbar Dolinko and Liran Antebi, Embracing the Organized Mess. Defense AI in Israel
+23|14 Alastair Finlan, A Fertile Soil for AI? Defense AI in Sweden
+23|13 John Lee, “Overtaking on the Curve?” Defense AI in China
+23|12 Heiko Borchert, Torben Schütz, and Joseph Verbovszky, Master and Servant. Defense AI in
+Germany
+23|11 Katarzyna Zysk, High Hopes Amid Hard Realities. Defense AI in Russia
+23|10 Yvonne Hofstetter and Joseph Verbovzsky, How AI Learns the Bundeswehr’s
+“Innere Führung.” Value-Based Engineering with IEEE7000™-2021
+23|09 Robert C Engen, When the Teeth Eat the Tail: A Review of Canada’s Defence Artificial
+Intelligence
+23|08 Çağlar Kurç, Enabling Technology of Future Warfare. Defense AI in Turkey
+23|07 Lauren A. Kahn, Risky Incrementalism. Defense AI in the United States
+22|06 Yvonne Hofstetter, Wie KI Innere Führung lernt. Wertbasierte Technik mit IEEE7000™-2021
+22|05 Andrea Gilli, Mauro Gilli, and Ivan Zaccagnini, Exploring the Benefits of a New Force Enabler:
+Defense AI in Italy
+22|04 Kenneth Payne, Bright Prospects – Big Challenges. Defense AI in the United Kingdom
+22|03 Heiko Borchert, Christian Brandlhuber, Armin Brandstetter, and Gary S. Schaal, Free Jazz on the
+Battlefield. How GhostPlay’s AI Approach Enhances Air Defense
+22|02 Peter Layton, Evolution not Revolution. Australia’s Defence AI Pathway
+21|01 Heiko Borchert, Torben Schütz, Joseph Verbovszky, Beware the Hype. What Military Conflicts in
+Ukraine, Syria, Libya, and Nagorno-Karabakh (Don’t) Tell Us About the Future of War

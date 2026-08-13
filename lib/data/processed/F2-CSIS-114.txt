@@ -1,0 +1,2025 @@
+FLY ME TO THE MOON
+Worldwide Cislunar and Lunar Missions
+AUTHOR
+Kaitlyn Johnson
+A Report of the
+CSIS AEROSPACE SECURITY PROJECT
+
+FLY ME TO THE MOON
+Worldwide Cislunar and Lunar Missions
+AUTHOR
+Kaitlyn Johnson
+A Report of the
+CSIS AEROSPACE SECURITY PROJECT
+
+II
+Fly
+Me
+to
+the
+Moon
+About CSIS
+The Center for Strategic and International Studies (CSIS) is a bipartisan, non-
+profit policy research organization dedicated to advancing practical ideas to
+address the world’s greatest challenges.
+Thomas J. Pritzker was named chairman of the CSIS Board of Trustees in
+2015, succeeding former U.S. senator Sam Nunn (D-GA). Founded in 1962,
+CSIS is led by John J. Hamre, who has served as president and chief executive
+officer since 2000.
+CSIS’s purpose is to define the future of national security. We are guided by
+a distinct set of values—nonpartisanship, independent thought, innovative
+thinking, cross-disciplinary scholarship, integrity and professionalism, and
+talent development. CSIS’s values work in concert toward the goal of making
+real-world impact.
+CSIS scholars bring their policy expertise, judgment, and robust networks to their
+research, analysis, and recommendations. We organize conferences, publish,
+lecture, and make media appearances that aim to increase the knowledge,
+awareness, and salience of policy issues with relevant stakeholders and the
+interested public.
+CSIS has impact when our research helps to inform the decisionmaking of key
+policymakers and the thinking of key influencers. We work toward a vision of
+a safer and more prosperous world.
+CSIS does not take specific policy positions; accordingly, all views expressed
+herein should be understood to be solely those of the author(s).
+© 2022 by the Center for Strategic and International Studies.
+All rights reserved
+Center for Strategic & International Studies
+1616 Rhode Island Avenue, NW
+Washington, DC 20036
+202-887-0200 | 
+
+Kaitlyn
+Johnson
+About the Aerospace Security Project
+The Aerospace Security Project (ASP) at CSIS explores the technological,
+budgetary, and policy issues related to the air and space domains and inno-
+vative operational concepts for air and space forces. Part of the International
+Security Program at CSIS, ASP is led by Senior Fellow Todd Harrison. ASP’s
+research focuses on space security, air dominance, long-range strike, and civil
+and commercial space. Learn more at aerospace.csis.org.
+III
+Project Scope
+This project contains a compendium of cislunar and lunar missions from
+government and commercial entities around the world. There are several
+planned national and commercial missions to explore cislunar space or the
+Moon. Often government efforts will enable or utilize private industry missions;
+however, sometimes commercial space companies are independently pur-
+suing such missions. This paper concludes with analysis on the trends and
+commonalities across all of these planned endeavors.
+Timelines for space missions shift regularly due to challenges such as funding
+inequities or technical delays. While this paper is as accurate as possible as of
+its publication, it is highly likely that dates and details of missions will continue
+to change as missions progress.
+Acknowledgments
+This publication is made possible by general support to CSIS. The author would
+like to thank Nico Wood, Todd Harrison, and Will Taylor for their support of
+the research, design, and publication processes.
+
+Contents
+Introduction 1
+Defining Cislunar 2
+Europe and Russia 3
+European Space Agency 4
+France 5
+Germany 5
+Italy 5
+Luxembourg 6
+Russia 6
+Ukraine 8
+United Kingdom 8
+Indo-Pacific 9
+Australia 10
+China 10
+India 12
+Japan 12
+South Korea 13
+Thailand 13
+Americas 15
+Canada 16
+Mexico 16
+United States of America 16
+Middle East and Africa 21
+Israel 22
+Turkey 22
+United Arab Emirates 22
+Trends across Planned Missions 23
+About the Author 28
+Endnotes 29
+IV
+Fly
+Me
+to
+the
+Moon
+
+Kaitlyn
+Johnson
+Introduction
+The crowning achievement of the notorious Space Race between the United
+States and the Soviet Union occurred in , when the first humans
+landed on the Moon. Prior to this, the United States and the Soviet Union sent
+several uncrewed missions to the lunar surface, culminating in an American
+crewed mission on the Moon. Now, over 50 years later, nations are looking
+toward the Moon as a goalpost of both national space capability and pride. To
+achieve these goals—and potentially go beyond the Moon to Mars—nations
+will need to build significant cislunar and lunar infrastructure. This open-
+source assessment aggregates and analyzes publicly available statements,
+
+documents, and sources describing these worldwide efforts in cislunar space.
+This assessment begins with an evaluation of national and international
+definitions of cislunar space, as there is no commonly accepted definition
+across the international or technical community. It then evaluates national
+and commercial plans to send missions to cislunar space or the Moon. The
+analysis presents an overview of national civil, military, and commercial ac-
+tivity, as well as multinational activity, in or planned for cislunar space.1 Lunar
+missions are also included to showcase the demand signal of missions that
+will pass through cislunar space or be supported by satellites in cislunar orbits.
+The assessment concludes with key trends, possible future flashpoints, and
+recommendations for further analysis.
+Many nations view lunar and cislunar investments as a means to advance
+their domestic space industrial capabilities and as the first step toward a
+greater presence in near-Earth space. The scientific and economic potential
+of a robust space presence and international partnerships in space drives
+many companies and countries to pursue lunar and cislunar missions.2 The
+opportunities lunar and cislunar missions present have caused nations to
+begin designing policies to regulate and promote celestial resource extraction
+and in situ resource utilization (ISRU)—or the production and manufacture of
+materials found on the Moon or other celestial bodies.
+The rush to settle cislunar space or the Moon is motivated both by science and
+the important strategic value held by certain sites in cislunar space or on the
+lunar surface. For various sites, certain physical properties add value, such as
+stability on orbit or the prospect of water in the form of ice. For more detail on
+these high-value locations, see: Eyes on the Prize: The Strategic Implications
+of Cislunar Space and the Moon.3
+
+Defining Cislunar
+Thus far,
+Despite many nations, organizations, and companies investing in lunar and
+there is no
+cislunar ventures, few specifically define cislunar. Competing definitions include:
+▪ “The area between the Earth and the Moon, including the Moon’s or-
+consensus
+bit”—including low Earth orbit (LEO), medium Earth orbit (MEO), and
+geosynchronous orbit (GEO);4 and
+on the
+▪ The distance from beyond GEO (also known as XGEO) to the Moon’s surface.5
+demarcation
+The definition of cislunar may influence national policies and plans, commercial
+investments, and broader international understanding. Thus far, there is no
+of cislunar
+consensus on the demarcation of cislunar space, and to ensure entities with
+lunar ambitions are not talking past one another, establishing a formal defini- space.
+tion of cislunar space could be a valuable action taken by the United Nations.
+While China, Russia, and the United States occasionally reference the bounds
+of cislunar space in public documents or statements, other nations do not ap-
+pear to specifically and consistently define cislunar space. While it seems that
+many civil space organizations and universities have written on the technical
+aspects of cislunar space, policymakers and the wider international community
+have not settled on one consistent technical definition. This may be because
+there is no clear “shoreline” or distance from Earth at which the properties of
+the space environment change significantly to designate it as cislunar space.
+For this paper, cislunar space includes the area between XGEO and the Moon,
+as well as orbits that are affected by lunar gravitational pull and go beyond
+the Moon. This does not include LEO, MEO, and GEO but does include low
+lunar orbit (LLO)—the area between 100 kilometers of the Moon’s surface and
+the L1 and L2 Lagrange points.6 Earth-Moon Lagrange points L4 and L5—the
+stable regions of the Moon’s Trojan points along the Moon’s orbit—are also
+considered part of cislunar space for
+the purposes of this paper. Once
+satellites are placed in XGEO orbit,
+*The Moon’s orbit around or higher, the Moon’s gravity has
+the Earth is not to scale.
+Distances are not to scale. an increasingly significant effect
+L4
+(in addition to the Earth’s gravity).
+At lower altitudes (including LEO,
+GEO
+MEO, and GEO), the Moon’s gravity
+MEO
+has relatively less effect on satel-
+LEO
+lites due to the nonuniformity of the
+Earth’s gravitational field and other
+LLO
+
+forces, such as atmospheric drag at
+L3 L1 L2
+lower altitudes.7 This definition of
+cislunar space also appears to be
+CISLUNAR SPACE most consistent with much of the
+technical research found.
+L5
+Figure 1: Visual Representation
+of Cislunar Space
+Source: Author’s own research and analysis.
+Fly
+Me
+to
+the
+Moon
+
+EUROPE & RUSSIA
+
+Europe
+and
+Russia
+the discussion focused around lunar and deep-space
+European Space Agency
+exploration missions, as well as telemetry, tracking, and
+The European Space Agency (ESA) is contributing to many control for these missions.14 In the past, ESA and CNSA
+international cislunar and lunar efforts. One prominent have discussed cooperation for south pole lunar missions,
+effort is the partnership between ESA and Roscosmos, the including the successful Chang’e-5 lunar return mission.15
+Russian space agency, on three lunar missions involving
+two landers and one orbiter. For Luna 25, ESA provided a ESA’s Moonlight Initiative
+European Pilot-D camera that will assist the lunar landing
+The Moonlight Initiative is an effort led by ESA to partner
+by imaging the terrain. Luna 25 is expected to launch in
+with spacefaring nations and commercial space com-
+.8 Expected in 2024, the Luna 26 orbiter mission
+panies to develop a communication and navigation
+will utilize an ESA ground station for communications
+infrastructure in cislunar space. This network will support
+back to Earth.9 In 2025, the Luna 27 mission will launch
+lunar missions and add the capability for lunar landers
+and land on the Moon. ESA is contributing to the Luna 27
+to land on the lunar surface more easily because they
+mission once again by providing Pilot cameras that will
+could rely on a shared the network instead of developing
+assist the lander in completing the challenging landing
+separate communications and navigation systems for
+near the Moon’s south pole. The Pilot cameras observe
+individual missions.16
+the lunar terrain and correlate their view with data from
+maps of the lunar surface. This allows the lander to rec- An impressive collection of European companies, organi-
+ognize craters and determine its location over the Moon’s zations, and universities will support the effort, including
+surface while landing. For Luna 27, ESA will also provide Surrey Satellite Technology, Airbus, SES, Kongsberg Sat-
+the European Prospect Drill, which will collect samples ellite Services, Goonhilly Earth Station, and GMV-NSL.17
+of water, ice, and other minerals and chemicals under
+A second tranche of European commercial companies
+the lunar surface at the south pole. Along with Russian
+will also take part in the initiative, including Telespazio,
+instruments, the European drill will assist in the lander’s
+Thales Alenia Space, Inmarsat, Hispasat, Aerospace
+mission to identify water and other minerals by using an
+Logistics Technology Engineering Company, Argotec,
+onboard miniature laboratory built into the drill itself.10
+and Nanoracks Europe, as well as two universities: the
+As part of ESA’s Space 4.0 initiative, which highlights new Politecnico Milano and the Università Commerciale Luigi
+commercial technologies as well as new national objectives Bocconi. In addition to this wide base of commercial
+in space, ESA proposed the Moon Village concept.11 The expertise, ESA plans to engage with other spacefaring
+Moon Village is an idea that a cohesive lunar community nations, including China, India, Russia, and the United
+can be “created when groups join forces without first States.18
+sorting out every detail, instead simply coming together
+with a view to sharing interests and capabilities.”12 The ESA Support to the U.S. Lunar Gateway
+Moon Village would allow participation from any nation and Artemis Programs
+or non-governmental actor, and participation would vary
+ESA selected Airbus Defence and Space as the main contrac-
+in involvement, sector, and activity. For example, some
+tor for the European Service Module (ESM) of the Artemis
+actors would have a wholly robotic presence, while some
+program, run by the United States’ National Aeronautical
+might wish to establish a permanent crewed scientific
+and Space Administration (NASA). While NASA’s Orion
+outpost (such as in Antarctica), while others may only
+spacecraft will carry crew from Earth to cislunar space,
+be interested in tourism to the Moon. The Moon Village
+the ESM will act as the spacecraft’s service module and
+is an idea or vision for future human cooperation not
+will be providing “electricity, water, oxygen, and nitrogen,
+defined by national interest or competition.13 However,
+as well as keeping the spacecraft at the right temperature
+any of these future activities envisioned would require
+and on course.”19 A total of six ESMs have been awarded
+significant cislunar and lunar-based infrastructure, such
+to Airbus as of .20 Three ESMs are currently
+as cislunar communications relays and lunar life support.
+in development to support the Artemis program. ESM-1 is
+On April 1, 2021, the new director of ESA met the direc- already paired with the U.S.-designed Crew Module and
+tor of the China National Space Administration (CNSA) is undergoing final preparations prior to a planned 2022
+to discuss future space cooperation between the two test launch. 21 ESM-2 is ready to be flown from Germany
+space agencies. According to the CNSA press release, to NASA’s Kennedy Space Center and will be included
+
+Kaitlyn
+Johnson
+in the first crewed test flight to send astronauts in orbit France is not currently planning any military or national
+around the Moon.22 ESM-3 will support the landing of the security space missions to cislunar orbit or the lunar
+first woman and person of color on the Moon. surface.32 There are also no concrete plans from French
+commercial space companies to conduct cislunar missions
+ESA’s European Large Logistics Lander (L3) program is
+without government funding or as part of a broader ESA
+currently in the study phase with two potential prime
+initiative. However, a French-Italian company, Thales
+contractors, Airbus Defense and Space and Thales Alenia Alenia Space, has been awarded several contracts to
+Space.23 These two companies will study options for the support ESA’s contribution to the Artemis program. See
+Cis-Lunar Transfer Vehicle (CLTV) for ESA. The CLTV will the Italy section for details on these programs.
+be an advanced on-orbit servicing satellite that can also
+assist in lunar descent. The CLTV will be able to transport
+
+cargo or fuel into lunar orbit and transfer a larger lunar
+module into LLO for landing and ascent missions. It will
+Germany
+also be capable of servicing other satellites in non-cislunar
+orbits, such as GEO.24 The planned lander is envisioned to Germany is not currently planning any military or national
+support the Artemis program and independent European security space missions to cislunar orbit or the lunar
+missions by delivering massive amounts (possibly 1.5 tons) surface.33 The German Space Agency (DLR) is also not
+of cargo payload to the lunar surface.25 The study phase planning any national civil space missions to cislunar
+began in mid-2021 and is expected to move to the System space. While most of Germany’s civil space endeavors are
+Design Review in late 2022.26 ESA has already selected through ESA, DLR funded an effort from Kiel University to
+develop an instrument that measures radiation in space.
+three contending payloads for the first L3 mission. The
+This effort, known as the Lunar Lander Neutron and Do-
+first payload will be selected in 2022 with an undefined
+simetry instrument, was successfully launched onboard
+first launch date in the late 2020s.27
+China’s Chang’e-4 lunar lander, which is still active.34
+The international habitation module, or I-HAB, is being
+Plus Ultra Space, a European space company based in
+led by ESA, in cooperation with the Japan Aerospace
+Germany, Spain, and Luxembourg, plans to build a con-
+Exploration Agency, Canadian Space Agency, and NASA.
+stellation of satellites called Harmony in LLO to establish
+The I-HAB is a pressurized module designed for crew
+better communications and navigation infrastructure for
+quarters that will allow for external vehicle docking.
+cislunar and lunar missions.35 Plus Ultra Space recently
+Thales Alenia Space is the prime project manager and
+signed a memorandum of understanding (MOU) for a
+is working to develop aspects of the pressurized module
+demonstration mission in 2023, with the satellite becoming
+infrastructure, including avionics, thermal and mechanical
+operational in LLO by 2024.36
+systems, and pressurized hatches.28 The I-HAB is intended
+to launch in 2026.29
+Italy
+France The Italian Space Agency is waiting for its nanosatellite
+ArgoMoon to launch on NASA’s Space Launch System
+The French space agency, Center National D’Études
+(SLS). Designed by Italian company Argotec, the Ar-
+Spatiales (CNES), does not currently have any planned
+goMoon satellite is critical to testing technology and
+independent cislunar or lunar missions, but it plans to
+providing proof of concept for future cislunar missions.
+partner bilaterally with many other nations and through
+A key aspect of the mission is to “demonstrate the ability
+ESA. For example, France was one of the first partners that to perform operations in close proximity of the Interim
+signed on to NASA’s Artemis program. Additionally, the Cryogenic Propulsion Stage (ICPS)” on the Orion space-
+Chinese Chang’e-6 mission will feature a French radon craft.37 The ICPS is the second stage liquid oxygen/liquid
+measurement instrument, DORN.30 DORN’s objective is to hydrogen-based booster.38 ArgoMoon will take pictures
+measure and record regolith outgassing and other volatile of the ICPS during its flight to the Moon.39 After this test,
+gasses in the lunar exosphere. Chang’e-6 is expected to ArgoMoon will photograph the Earth, Moon, and sur-
+launch in 2024.31 rounding environment in an orbit that passes through
+
+cislunar space.40 The expected launch date continues to from within celestial bodies. While the 1967 Outer Space
+slip with SLS delays but is currently expected in 2022.41 Treaty dictates that no territory can be claimed on the
+Moon or another celestial body, Luxembourg asserts that
+As previously mentioned, the French-Italian space com-
+there is nothing illegal about claiming resources derived
+pany Thales Alenia Space is a key partner for Artemis and
+from a celestial body.49 An analogy often referred to is the
+the Lunar Gateway. Italy may further support the Artemis
+finishing industry: while a nation cannot own international
+program by supplying “crew habitats, lunar surface sci-
+waters, fishermen have ownership rights to the resources
+entific investigations, and telecommunications services”;
+(e.g., fish, shellfish) they catch in them.50
+however, further details have not yet been announced.42
+Commercial
+ESA awarded Thales Alenia Space several cislunar and
+This legal framework in Luxembourg has drawn several
+lunar contracts to support these international partnerships.
+commercial endeavors, such as Cislunar Industries and
+The Habitation and Logistics Outpost (HALO)—the first
+ispace Europe, to establish headquarters in Luxembourg.
+module for the Lunar Gateway—is also being supported
+Luxembourg is a part of the Artemis program and intends
+by Thales Alenia Space. HALO is led by U.S. company
+to support in situ resourcing and mining missions.51
+Northrop Grumman Corporation, and Thales Alenia
+Space was selected to “provide its primary structure and
+micrometeoroid protection system.”43 HALO is planned
+to launch in 2024, along with the Power and Propulsion
+Element and will serve as the pressurized living quarters Russia
+for any visiting astronauts to the Lunar Gateway.44
+The Russian space agency, Roscosmos, has several part-
+ESA also awarded Thales Alenia Space the European nerships and cooperative lunar missions. Furthermore,
+System Providing Refueling, Infrastructure, and Telecom- there are several pseudo-commercial subsidiaries of
+munications (ESPRIT) contract in early .45 The Rosocosmos that will likely be involved in these future
+government-led lunar missions. The flagship of Russian
+ESPRIT module for the Lunar Gateway is a cross-Thales
+lunar exploration is the Luna program, which includes
+Alenia Space mission involving teams from France, Italy,
+five planned missions: Luna 25–29 (Table 1 includes a
+Belgium, Spain, and the United Kingdom. ESPRIT will be
+description of each mission).
+responsible for communications and refueling for the
+Lunar Gateway and will have an observation window.
+ESPRIT refueling will extend Lunar Gateway’s operational
+life, as well as enable a future reusable lunar lander or
+support other deep-space exploration missions.46 There
+are two modules that make up ESPRIT: the HALO Lunar
+Communication System that is planned to launch in
+2024 and the ESPRIT Refueling Module that is planned
+for launch in 2027.47
+Luxembourg has
+positioned itself
+
+Luxembourg
+to have a niche in
+While not a major space power, Luxembourg has po-
+sitioned itself to have a niche in space resourcing and
+space resourcing
+mining, including materials on the Moon. To do this,
+the country launched the SpaceResources.Lu Initiative and mining,
+in 2016, which established a “unique legal, regulatory,
+and business environment enabling private investors including materials
+and companies to explore and use space resources.”48
+Luxembourg’s legal and regulatory framework allows on the Moon.
+legal ownership of minerals or other resources mined
+Europe
+and
+Russia
+
+Kaitlyn
+Johnson
+water might be as a resource for future lunar missions,
+Government
+including a sustained presence on the Moon.
+Luna 25 is a lunar lander mission and will be the first
+Russian lunar program since Luna 24 in 1976.52 Luna 25 Luna 28, or Luna Grunt, is a lunar sample return mission
+will land near the Moon’s south pole to search for signs planned by Roscosmos. The Luna 28 module is expected
+of water and other minerals under the lunar surface as to return to Earth samples of regolith from the lunar south
+well as to evaluate dust and plasma that make up the polar region. The expected total mass of these samples
+Moon’s exosphere. The mission is expected to last at is 2 to 4 kilograms. The mission will select samples from
+least one year and will launch in , a date later various locations around the south pole that are likely to
+than originally expected due to critical issues that arose include ice.57 The mission is expected to launch in 2027
+during testing.53 As aforementioned, ESA is a key partner or later.58 Luna 29 will include a lunar rover that will carry
+
+for this mission. instruments capable of analyzing geological samples on
+site.59 The estimated launch date for this mission is 2029.60
+Scheduled for 2025, the Luna 26 orbital mission will study
+the lunar surface from low lunar polar orbit to inform Russia is planning for a crewed mission to orbit the Moon
+in 2028 called Oryol.61 Dependent on successful uncrewed
+the landing site for Luna 27 and serve as a communica-
+flights in 2023 and 2024, the Oryol spacecraft will fly around
+tions relay for Russian lunar landers.54 Luna 26 will also
+the Moon and better position Russia for consistent crewed
+“monitor the solar wind and high-energy cosmic rays.”55
+capability to cislunar space and—with a future lunar
+ESA is again partnering with Roscosmos on this mission.
+lander—to the lunar surface.62 Recently, Dmitry Rogozin,
+Luna 27, or Luna Resurs, is anticipated in 2026 and will director general of Roscosmos, announced that he met with
+not only land on the Moon but also be able to prospect NASA representatives at the International
+and analyze the lunar surface. The highly capable drill that Astronautical Congress to discuss the possibility of the
+is central to the mission is being developed by ESA and Oryol spacecraft with the Lunar Gateway and the need
+will search for underground ice and study the makeup of to adapt technical standards to ensure compatibility.63
+the lunar bedrock.56 This mission will bring better under-
+standing of how much subsurface ice might be present Table 1: Announced Russian Cislunar and Lunar Missions
+near the south pole of the Moon and how accessible this Source: Author’s own research and analysis.
+NAME ESTIMATED LAUNCH LOCATION MISSION PARTNERS
+Luna 25 Lunar South Pole Region Search for water and minerals ESA
+under lunar surface and evaluate
+exosphere
+Luna 26 2025 Low Lunar Orbit Study lunar surface and ESA
+determine Luna 27 landing site
+Luna 27 2026 Lunar South Pole Region Prospect and analyze below ESA
+(Luna Resurs) lunar surface
+Luna 28 2027 or later Lunar South Pole Region Collect samples (including ice) N/A
+(Luna Grunt) and return to Earth
+Luna 29 2029 TBA Rover with capability to analyze N/A
+lunar geological samples
+Oryol (test) 2023 Cislunar Orbit Uncrewed test flight N/A
+Oryol 2024 International Space Test flight N/A
+(second test) Station
+Oryol 2028 Crewed Lunar Mission Crewed lunar landing N/A
+
+In , Rogozin directed the Energia Space will move 10 meters from the lander and provide video
+Rocket Corporation to study the possibility of downsiz- and 3D lidar imaging of the lunar surface.70 A walking
+ing the Oryol spacecraft to make a smaller two-seater rover has legs instead of the traditional wheels to navigate
+resupply spacecraft. Dubbed Orlyonok, this craft would more easily around the rough and cratered lunar surface.
+use 90 percent of Oryol’s technology and therefore be a Shortly after this first lunar mission, Spacebit will return
+cheaper alternative.64 to the Moon with a second mission, this time launched
+on a SpaceX Falcon 9 rocket.71 The second is a Ukrainian
+Another long-term goal for Russia is to establish a human
+mission, described previously.
+settlement on the Moon by 2040. There are several stages
+to achieving this goal, including landing Russia’s first Surrey Satellite Technology Ltd (SSTL) will launch its
+cosmonauts on the Moon.65 One recent announcement Lunar Pathfinder mission in 2024.72 The Lunar Pathfinder
+is the Russian-Chinese agreement to establish a joint 1 is a cislunar relay satellite that will likely be in LLO. It is
+lunar base (see for more).66 Russia is clearly in- planned to be the first of a series of more capable lunar
+vesting in cislunar and lunar operations for the future of communication and navigation satellites that will support
+the civil space program; however, it is less clear how the future lunar (crewed and uncrewed) missions. Lunar Path-
+Russian military may utilize this area of space, as there finder 1 will enable easier communication for polar and
+are no public sources indicating plans or goals for lunar far-side lunar explorations. Pathfinder will also host two
+military operations. ESA experiments: one is a test of navigation technology
+for the Moon, and the second is a radiation detection
+Another long-term goal for Russia is to establish a human
+monitor for cislunar space. NASA will also collaborate
+settlement on the Moon by 2040.
+by providing a laser retro-reflector payload, which will
+provide data to allow comparison of orbit positioning
+data from ESA’s navigation experiment. 73
+The Moon Probe Initial Explorer (MoonPIE) project from
+Ukraine
+TCT Aerospace, a UK-based company, intends to launch a
+Ukraine has no government capability (civil or commer- lunar sample return mission in 2025. MoonPIE will return
+cial) to place a satellite in cislunar orbit or on the Moon. around 1 kilogram of lunar samples to Earth for further
+However, the Ukrainian government is funding Spacebit, a study. MoonPIE also plans to demonstrate reusability
+British company led by a Ukrainian CEO, to place a walking for lunar return missions, as well as send a time capsule
+rover on the Moon, possibly in late 2022. The estimated to the lunar surface. To reduce ecological harm to the
+cost to the Ukrainian government is $1.5 million.67 Moon, the mission intends to land only 50 meters from
+the Apollo 12 landing site.74
+United Kingdom
+The United Kingdom is not currently planning any military
+or national security space missions to cislunar orbit or the
+lunar surface. The United Kingdom is also not planning
+any national civil space missions to cislunar space, as 008
+most of the United Kingdom’s civil space endeavors are
+through ESA. 68
+Commercial
+Spacebit, a UK-based company, is planning two lunar
+missions. The first will be launched on the inaugural
+United Launch Alliance (ULA) Vulcan Centaur launch in
+2022.69 The Spacebit walking rover will be deposited on
+the lunar surface by the Peregrine lunar lander, developed
+by the U.S. company Astrobotic. The first walking rover
+Europe
+and
+Russia
+
+INDO-PACIFIC
+
+Indo-Pacific
+Australia
+Australia has a long
+Australia has a long history of providing integral support
+history of providing
+to cislunar and lunar missions, including the Australia
+Carnarvon station that supported the first Moon landing on
+integral support
+the Apollo 11 mission.75 From its position in the southern
+hemisphere, Australia is ideally situated to integrate with
+to cislunar and
+other telemetry and tracking capabilities from countries
+in the northern hemisphere.
+lunar missions.
+Government
+In coordination with NASA, the recently established
+Australian Space Agency is promoting a Moon to Mars
+Initiative. This initiative includes $150 million for invest-
+ment in Australian space companies or technologies over
+the next five years. To distribute funding, the Australian
+Space Agency has identified three integrated elements
+for applicants:
+▪ the Supply Chain program, which will focus on de-
+key goal of the Seven Sisters effort is to firmly establish
+veloping a noncompetitive (to the United States)
+Australia and Australian industry as leaders in space
+supply chain network within Australia;
+exploration and research by 2030.80
+▪ the Demonstrator program, which includes grants
+to promote Australian companies developing space Lunar Ascent, another Australian industry-led effort was
+technologies; and announced in . Lunar Ascent is a satellite
+transport bus that will provide rideshare opportunities
+▪ the flagship Trailblazer program that will contribute
+for other government and commercial payloads to cislu-
+flagship Australian space capability within NASA’s
+Artemis program.76 nar space. The first mission is expected to be around 60
+kilograms and launch in 2024. There are two customers
+On October 12, 2021, NASA and the Australian Space committed thus far.81
+Agency announced plans to cooperate on a future lunar
+Australia-based Saber Astronautics is partnering with
+rover. This mission is part of the “Moon to Mars” flagship
+Rhea Space Activity, a new U.S.-based space consulting
+Trailblazer program and could land on the Moon as early
+firm that won a $50,000 contract from the U.S. Air Force to
+as 2026. Australia will support NASA’s Artemis mission by
+provide lunaspatial intelligence (LUNINT). Saber will work
+providing a lunar rover that will be able to collect surface
+toward creating a 3D dashboard that displays noteworthy
+samples and return them to an ISRU system, which will
+attempt to extract oxygen from these samples.77 objects (including satellites) in cislunar orbit. This product
+will add to the limited amount of cislunar situational
+Although Australia recently established a space division awareness that exists today. If successful, Saber’s CEO
+within the Royal Australian Air Force, there are no publicly hopes that the other Five Eyes nations (Canada, New
+announced plans for military missions to cislunar space. 78 Zealand, the United Kingdom, and the United States)
+will be interested in similar capabilities.82
+Commercial
+Several commercial Australian cislunar missions are also
+in progress. Announced in , Seven Sisters
+is an Australia-based nongovernmental effort to reach the
+China
+Moon. A total of 10 entities (including two universities) are
+collaborating to send Australia’s first nanosatellites into Like their Russian counterparts, Chinese lunar or cislunar
+cislunar orbit in 2023 to search for accessible water. This programs are coordinated by the government at one
+effort is in collaboration with NASA’s Artemis program, in point or another—either through direct investment or
+which the Australian government is a partner.79 A stated indirect ownership of pseudo-commercial companies.
+
+Kaitlyn
+Johnson
+Also anticipated to launch in 2024, the Chang’e-7 mis-
+Government - Civil
+sion consists of a cislunar telecommunications relay, a
+China’s Lunar Exploration Program has conducted several
+lunar orbiter, a lunar lander, a rover, and a flying probe.87
+successful civil lunar missions to date. The stated overall
+After releasing the lander package (including the rover
+scientific goals include to study the water and chemical
+and probe), the orbiter will continue to make scientific
+composition of the Moon, assess the age of the South
+observations and study from cislunar space. After a soft
+Pole Aitken basin, evaluate the early impact history of the
+landing on the lunar surface near the south pole, the
+solar system, perform ISRU tests, and conduct bioscientific
+rover will deploy to perform in situ experiments, while
+experiments, among others. Some of these scientific goals
+the flying probe will carry an instrument to detect and
+are well underway due to the previous Chang’e missions;
+study water molecules and hydrogen isotopes.88 Due to
+however, this section will focus on ongoing or planned
+the absence of an atmosphere, the probe will have to be 011
+cislunar and lunar missions.
+powered by rockets instead of a rotary wing mechanism
+Unlike the other countries in this assessment, China is such as NASA’s Mars helicopter, Ingenuity.
+currently operating a robotic lunar rover on the Moon.
+With an expected 2027 launch, the details around Chang’e-8
+Chang’e-4 is a lunar lander that conducted the first ever
+are still solidifying.89 A 2020 paper details that Chang’e-8
+soft landing on the far side of the Moon on January 3,
+will include a lunar lander, a rover, and another flying
+2019. The Chang’e-4 spacecraft operated in LLO before
+probe to carry out exploration and verification necessary
+landing on the lunar surface. The lunar lander released
+for the future lunar station. This mission will conduct an
+from the spacecraft, Yutu-2, has traversed the lunar
+ISRU experiment to include “separation and extraction of
+surface for over two years, exceeding expectations for
+rare gasses from lunar soil.”90 These experiments are likely
+its operational life.83
+to be the foundation of a sustainable Chinese presence
+To support the Chang’e-4 mission, China launched two on the Moon and will support the future lunar station.
+communications relay satellites into cislunar orbit around
+International Lunar Research Station
+the L2 point in . These satellites were designed
+China has long been planning for a permanent lunar
+to support communications from Earth around to the far
+research station, but headlines were made in 
+side of the Moon—a new challenge for humanity, as no
+when China and Russia signed an MOU to cooperate on
+other country had ever attempted sustained operations
+a joint lunar research station. The document is a vague
+on the far side.84
+outline of what the partnership may develop into; how-
+Launched in , Chang’e-5 is China’s first ever, it does outline some goals and principles that will
+lunar sample return mission. The mission was highly underpin the international effort—specifically, that the
+successful and returned 1.731 kilograms of material to International Lunar Research Station (ILRS) will have “the
+the Earth’s surface just under a month later. Chang’e-5 capability of long-term autonomous operation, built on
+included an orbiter and, critically, a lunar lander with the lunar surface and/or on the lunar orbit that will carry
+the ability to reascend and rendezvous with the orbiter out multidisciplinary and multiobjective scientific research
+in order to return lunar samples to Earth. The lander activities, such as the lunar exploration and utilization,
+included capabilities to drill and scoop materials into lunar-based observation, basic scientific experiment, and
+a secure capsule, which was later jettisoned from the technical verification.”91 In a meeting with the ESA director
+orbiter and made a hard landing on the Earth’s surface.85 general, the CNSA administrator stated that China and
+Russia were in agreement to be open to international
+Chang’e-6 was originally designed as a backup mission,
+cooperation from all nations on ILRS. France has already
+prepared in case Chang’e-5 failed. However, with the
+expressed interest in the project.92
+success of Chang’e-5, the sixth mission will proceed with
+a more challenging sample return mission from the lunar An initial version of ILRS is expected to be operational
+south pole on the far side of the Moon. It is intended to in the early 2030s, with the capability to host long-term
+launch in 2024. Notably, the Chang’e-6 mission will be autonomous robotic missions and short-term crewed
+equipped with several international payloads, including missions. By the late 2030s to early 2040s, ILRS will evolve
+those from France and Italy. Russia and Sweden have also into a more permanent lunar base that will be able to
+been identified as potential contributors.86 sustain long-term crewed missions.93
+
+China is well underway to developing the necessary ca- ISRO is also a key partner with Japan on a joint Lunar
+pabilities to establish ILRS, including a new human-rated Polar Exploration (LUPEX) mission, which will launch a
+launch vehicle that will be ready by 2030. This same vehi- lunar lander and rover to the Moon’s south pole around
+cle will also be able to launch more mass to space than 2024.101 For more information, see the Japan section.
+any prior Chinese launch vehicle—something that may
+be critical to efficiently building the lunar base.94 There
+is also a human-rated lunar lander under development,
+but there are minimal publicly available details on this
+Japan
+project. At a 2020 conference, a presentation indicated
+that China will also construct a lunar orbiter and crewed In partnership with ISRO, the Japan Aerospace Exploration
+rover for future lunar exploration.95 Agency (JAXA) is developing the LUPEX mission, which
+includes a lunar lander and unpressurized rover that will
+Government - Military
+explore the south pole area of the Moon. The mission is
+There is a scarcity of public information about China’s expected to launch no earlier than 2024. In ,
+military ambitions in cislunar space and on the Moon. the JAXA president said that this mission will hopefully
+However, in mid-2016, Lieutenant General Zhang Yulin, the lead to further human exploration of the Moon, and that
+deputy chief of the armament development department the LUPEX is the first step toward developing a pressur-
+within China’s leading national defense organization—the ized lunar rover for crewed missions.102 Furthermore,
+Central Military Commission—reported that Chinese this mission with ISRO is the foundation for future space
+ambitions included military capabilities in cislunar space. cooperation between the two nations, to include “oppor-
+Zhang also described the benefits of using cislunar space tunities for cooperation in space situational awareness
+and the Moon for research and exploration missions.96 and [a] professional exchange programme.”103 Notable
+for this cislunar space assessment, the LUPEX mission
+will not have a communication relay satellite but will
+directly communicate with ground stations on Earth.104
+India
+Two cubesats, both designed by JAXA and the Univer-
+Lunar exploration is a clear goal of the Indian Space Research sity of Tokyo, will be launched into cislunar space on
+Organisation (ISRO). The Chandrayaan-2 mission an SLS flight in 2022. The EQUULEUS cubesat “plans to
+included both a lunar lander and an orbiter. Unfortunately, demonstrate low-energy trajectory control techniques
+due to a software glitch, the Vikram lander suffered a hard within the Earth-Moon region at EML2 (Earth-Moon L2
+landing on the lunar surface, which destroyed the lander Lagrange point), using a new water propulsion system with
+and rover.97 The rover mission was intended to survey low thrust and little propellant.”105 EQUULEUS will also
+the area near the Moon’s south pole in search of data on monitor radiation in near-Earth space by imaging Earth’s
+ice below the surface. The orbiter is intended to have a
+seven-year operational life and is currently in operation
+in cislunar space.98 Chandrayaan-3, a new lunar mission
+planned for , includes a lander and rover
+with the same scientific instruments as the failed Chan-
+drayaan-2 mission. Originally intended for launch in 2021,
+
+the mission was delayed due to the Covid-19 pandemic.
+Chandrayaan-3 will target the same launch site as the
+Chandrayaan-2 mission.99
+China has long
+India is also looking to send humans into space, and
+if the mission succeeds as planned, India will become been planning for
+the fourth country with a national capability to do so.
+India’s long-term goals appear to include a sustained a permanent lunar
+human presence in LEO, with the potential for further
+human exploration past LEO, likely to include cislunar research station.
+space and the Moon.100
+Indo-Pacific
+
+Kaitlyn
+Johnson
+plasmasphere. This data should support further research ispace-designed rover.116 Future planned missions include
+on protecting humans from radiation during extended rovers designed to survey for water and will acquire and
+space travel.106 The second cubesat, OMOTENASHI (Out- sell data for future lunar missions. In the long term, ispace
+standing Moon Exploration Technologies Demonstrated intends to develop an “industrial platform that enables
+by Nano Semi-Hard Impactor), will be the smallest lunar stable lunar development by utilizing the water resources”
+lander to date. OMOTENASHI also breaks lunar lander identified beneath the Moon’s surface.117
+tradition by heading straight to the lunar surface after
+In , JAXA signed an agreement with Toyota
+deploying from the SLS, instead of performing an orbital
+to develop a pressurized rover for the Moon. Currently,
+pass prior to landing. This small and relatively inexpensive
+the project is working on developing a prototype and
+satellite could open possibilities for more lunar missions
+simulating different scenarios to confirm power and heat
+from smaller or emerging space nations.107 013
+dissipation effects on the lunar surface. Dubbed the LUNAR
+JAXA is also developing the Smart Lander for Investigating CRUISER, this is the first step toward a semipermanent or
+Moon (SLIM) lunar lander mission, which will attempt permanent human presence on the Moon, and JAXA is
+pinpoint landing and obstacle detection capabilities beginning discussions with other industries to eventually
+on the lunar surface. This technology will allow future bring this vision to life. The expected launch date of the
+missions to choose a landing site during the mission, LUNAR CRUISER is the latter half of the 2020s.118 The LUNAR
+instead of having a site prechosen based on easy access CRUISER effort is separate from the LUPEX mission, but
+or lack of obstacles. According to JAXA, “By achieving this, there are certainly similarities between the programs.
+it will become possible to land on planets even more
+resource scarce than the moon.”108 The SLIM mission’s
+secondary focus is to lighten the weight of the payload
+and ensure small-scale technology for future missions.109
+South Korea
+This mission is expected to launch in 2022.110 The SLIM
+payload provides a similar capability as the Pilot camera The first lunar mission of the Korea Aerospace Research
+system that ESA is developing for Russian lunar missions. Institute (KARI), the Korea Pathfinder Lunar Orbiter (KPLO),
+is expected to launch in and will reach LLO
+In support of the Lunar Gateway, JAXA intends to provide
+in mid-December. KPLO is planned to orbit the Moon for
+habitation technology and logistics resupply missions.111 at least one year.119 The orbiter will carry several South
+The logistics resupply missions will be carried out through Korean instruments and one U.S. instrument. These
+the H-II Transfer Vehicle (HTV)-X program, which is currently instruments include two cameras to image the lunar
+under development to support International Space Station surface, a gamma-ray spectrometer, a magnetometer, and
+(ISS) resupply missions. The first anticipated launch of NASA’s ShadowCam, which will search for ice deposits
+the new HTV-X launch vehicle is in 2022.112 and is based off of the LRO.120 Beyond developing national
+lunar capabilities, KPLO will utilize NASA’s Deep Space
+A long-term lunar roadmap presented by Japan at a
+Network, through Delay/Disruption Tolerant Networking.121
+2019 session of the United Nations’ Committee on the
+Peaceful Uses of Outer Space outlines future crewed KARI will continue to focus on the Moon as a national
+landers, rovers, fuel cells, and eventually a lunar base.113 goal over the next decade. On March 25, 2021, South
+The president of JAXA also noted in that “in Korean president Moon Jae-in stated that “by 2030, we
+future, JAXA might begin the development of a hydrogen will achieve our dream of landing on the Moon by using
+fuel station to ensure a sustainable human presence our own launch vehicle.”122
+on the Moon.”114 JAXA’s Space Exploration Innovation
+Hub Center was established in 2015 to collaborate with
+Japanese industry to support future space missions.115
+Thailand
+Commercial
+A Japanese commercial company, ispace, will deposit the In , Anek Laothamatas, Thailand’s minister
+Emirati Rashid rover on the Moon in 2022 on a SpaceX of higher education, science, research, and innovation,
+Falcon 9 rocket via their HAKUTO-R lunar lander. A sec- announced an ambitious plan to go to the Moon by 2027.123
+ond HAKUTO-R lander will launch in 2023, carrying an A month later government officials held a Facebook Live
+
+conference releasing details on the mission, including that
+there will be a series of developments to establish the Thai
+Space Consortium (TSC). TSC-Pathfinder development is
+underway, with launch scheduled no earlier than 2022.
+TSC-1 will include an optical instrument to observe the
+Moon from LEO no earlier than 2025. TSC-2 is the true
+“moonshot,” set to travel to cislunar space in 2027. TSC-3
+through -5 are also planned, but no further details have
+been released.124 Thailand is also currently moving to
+approve a Space Activities Bill, which will establish a new
+organization focused on space policy and regulations.125
+
+Indo-Pacific
+
+AMERICAS
+
+Americas
+The robots will “browse randomly and independently in
+Canada
+the natural satellite until finding each other in a swarm
+The Canadian Space Agency (CSA) created the Lunar that will be connected electrically and will form a solar
+Exploration Accelerator Program (LEAP), which provides panel.”131 Data will then be communicated back to Earth
+funding to Canadian companies to develop technology for further study.132
+for cislunar orbit or on the lunar surface. LEAP is part of
+a broader national effort to foster innovation in science
+and technology. Along with space, this includes artificial
+intelligence, machine learning, health, and robotics. LEAP’s
+United States of America
+funding “support[s] the commercialization of innovative
+ideas from Canadian industry, including small and me- The United States is also experiencing a resurgence of
+dium-sized businesses, in order to help them become interest in the Moon. The government, primarily through
+an integral part of the growing new-space economy.”126 NASA and the Department of Defense, is planning lunar
+The total budget is $150 million over five years. The pro- and cislunar missions. This is incentivizing the growing
+gram describes several areas for industry and academic commercial space sector within the United States to focus
+contribution, including: on the Moon as well. Notably, the recent National Space
+Priorities Framework released by the Biden administration
+1. “science instrument(s) or technology destined
+in included the goal to “advance a robust
+for the Moon or beyond selected by a partner
+cislunar ecosystem” as a key priority.133
+space agency”;
+2. “contributions to support the development of a Government – Civil
+proto-flight model, and its adaptation, delivery,
+NASA has a long history of robotic and human exploration
+integration, and launch”;
+on the Moon. In 2020, NASA confirmed the presence of
+3. “science initiatives targeting the Moon or beyond”; water on the lunar surface near the Moon’s south pole.134
+4. “mission concepts and technologies to position Today, NASA has one ongoing mission in cislunar space,
+Canada for future lunar and deep-space explora- the Lunar Reconnaissance Orbiter (LRO). Launched in 2009,
+tion missions”; LRO is still operating in lunar orbit and has contributed
+to some groundbreaking discoveries, such as that the
+5. “technology development for the lunar supply
+Moon is slowly drifting farther away from the Earth.135
+chain”; and
+6. a “micro-rover technology demonstrator.”127 Artemis
+NASA’s Artemis program is the next evolution of the
+Thus far, 14 contracts have been awarded to companies
+agency’s human spaceflight and large-scale exploration.136
+and universities in Canada.128 Currently, there are two open
+Through Artemis, NASA will send humans back to the
+funding opportunities.129 CSA has also agreed to support
+Moon, including the first woman and the first person of
+the U.S.-led Lunar Gateway through the production of a
+color. The plan is to establish sustainable cislunar and
+smart robotic system known as Canadarm3, based on
+lunar infrastructure to enable future exploration through
+the Canadian-built robotic arms used for decades on
+testing and demonstration of new technologies. NASA
+the Space Shuttle and the ISS.
+intends to utilize cislunar and lunar activities to prove
+technologies and methods that will one day support a
+human exploration mission to Mars. The Artemis program
+will also support the next generation of space technologies,
+Mexico allowing more companies and countries to invest and
+develop capabilities for the Moon and deep-space travel.
+Mexico will be launching its first national lunar mission
+on the Peregrine lunar lander built by the U.S. company A key piece of the Artemis and Lunar Gateway missions
+Astrobotic. As previously noted, the Peregrine lander will be Orion, a human-rated spacecraft for deep-space
+was delayed in production, causing a delay of launch missions, including to the Moon. Orion will sit atop SLS
+until 2022.130 Developed by the National Autonomous and send U.S. astronauts back to the Moon. It is being
+University of Mexico (UNAM), nine microbots will land on built by Lockheed Martin and Airbus Defense and Space.
+the Moon and measure the radioactivity of regolith dust. NASA expects to spend $9.3 billion on Orion through the
+
+Kaitlyn
+Johnson
+Orion Capsule
+Source: NASA.
+resources on the Moon, Mars, and
+asteroids.”139 The Artemis Accords’
+stance on space mining and resourc-
+ing has been publicly contested by
+China, Russia, and other nations
+who have a stricter interpretation
+of the Outer Space Treaty.140
+
+Lunar Gateway
+There are several core mission el-
+ements designed to support the
+Artemis program. The first critical
+first (robotic) test, anticipated in March or .
+piece of infrastructure is the Lunar Gateway, an orbiting
+The second Artemis mission and first human mission is
+space station that will utilize a near-rectilinear halo orbit
+expected in , but a human landing on the Moon
+(NRHO) and will serve as a logistics and transportation hub
+is not feasible until 2025 at the earliest. NASA must first
+between Earth and the Moon. The NRHO is well suited for
+successfully complete these first test missions, including
+conducting missions to the lunar polar regions. The Lunar
+at least one uncrewed landing on the Moon.137
+Gateway will also serve future deep-space human travel,
+2022 | Artemis 1: Uncrewed Test Flight in Cislunar Space including missions to Mars. The Power and Propulsion
+Element (PPE) and Habitation and Logistics Outpost
+2024 | Artemis 2: Crewed Test Flight in Cislunar Space
+(HALO) will be the first two modules launched, as they
+2025 | Artemis 3: Crewed Lunar Landing will directly support the missions to the Moon’s surface.141
+2026 | Artemis 4: Gateway Assembly mission While the PPE is being built by Maxar Technologies in
+the United States, HALO is being supported by ESA, as
+2027+ | Artemis 5: Possible Crewed Lunar Landing with
+well as a U.S. company, Northrop Grumman. SpaceX was
+Mid-Way Stop at Gateway 138
+selected by NASA to launch these two modules in 2024
+To support the Artemis program and enable greater in- on a Falcon Heavy rocket.142
+ternational participation, NASA established the Artemis
+As part of the next stage of the Lunar Gateway, NASA has
+Accords, a set of principles the United States intends to use
+established the Commercial Lunar Payload Services (CLPS)
+to support, govern, and guide future lunar missions. Fifteen
+initiative. NASA has selected 14 U.S. commercial space
+countries have signed onto the Artemis Accords so far,
+companies to carry out lunar supply missions, including
+including most countries that have pledged to participate
+integration of payloads, mission operations, launch, and
+in the Artemis program. As of , these countries
+landing on the Moon. Along with NASA payloads, the
+include Australia, Brazil, Canada,
+Israel, Italy, Japan, Luxembourg,
+Mexico, New Zealand, Poland, the
+Republic of Korea, Ukraine, the United
+Arab Emirates, the United Kingdom,
+and the United States. Notably, the
+accords promise to lend reasonable
+emergency assistance—in the case
+of astronauts being stranded—and
+allow nations to “extract and utilize
+Lunar Gateway with Approaching
+Orion Capsule
+Source: NASA/Alberto Bertolin.
+
+companies are encouraged to include other commercial On the same flight, the Lunar InfraRed Imaging cubesat
+payloads during a supply mission. The CLPS project will conduct a lunar flyby and other technology tests to
+has already contracted for several missions, including collect data in support of future lunar missions.154
+18 payloads to be delivered to the Moon in 2022. The
+Two lunar missions were selected through NASA’s small
+Polar Resources Ice Mining Experiment-1 (PRIME-1), for
+spacecraft program: Small, Innovative Missions for Planetary
+example, will be NASA’s first ISRU mission on the Moon.143
+Exploration (SIMPLEx). LunaH-Map, the first mission, is a
+More payloads will follow in 2023, including almost 20 cubesat designed to orbit the Moon and evaluate how
+science and technology instruments and the Volatiles much water is in the permanently shadowed craters on
+Investigating Polar Exploration Rover (VIPER).144 VIPER is the lunar surface. LunaH-Map is designed and built by
+a mobile robotic rover that will explore the South Pole of Arizona State University and will launch on SLS in early
+the Moon to evaluate for future lunar activities and search 2022.155 The second mission is the Lunar Trailblazer. Led
+for water deposits.145 Astrobotic, a U.S. commercial space by the California Institute of Technology, Lunar Trailblazer
+company, was selected through the CLPS program to will also detect and map areas of water on the Moon’s
+deliver VIPER to the Moon on their Griffin lunar lander. surface.156 Launch is scheduled for .157
+Astrobotic recently announced that SpaceX’s Falcon Heavy
+Lunar Base Camp
+will launch the lander and rover to the Moon in 2023.146
+The anticipated lunar base camp, designed for long
+All these instruments, experiments, and tests will support expeditions on the surface, is the next big step after the
+the Lunar Gateway’s first crewed mission, which will in- first Artemis missions and the Lunar Gateway. The Base
+clude a human-rated lunar lander so that the crew can Camp will include an unpressurized (open-top) rover, a
+venture to the lunar surface from the orbiting spacecraft. human-rated pressurized rover, a habitation module,
+The Human Landing System program, part of NASA’s Next power systems, and ISRU systems.158 The Base Camp will
+Space Technologies for Exploration Partnerships (Next- be located at the lunar south pole in order to have access
+STEP) private-public partnership model, chose SpaceX to potential water and mineral deposits.159
+to develop the lander under a $2.89 billion contract.147 To
+support Artemis, new spacesuits called the Exploration Government – Military
+Extravehicular Mobility Unit are also being developed.
+Unlike many other countries, the United States has been
+The first trip is expected to last about one week.148
+clear about the military advantages of reaching the Moon
+and cislunar space.160 The U.S. Space Force and NASA
+NASA will be returning to the Moon with the CAPSTONE
+signed an MOU in to cement continued
+mission. CAPSTONE is a 55-pound cubesat designed to
+partnership and the “furtherance of space exploration,
+test spacecraft-to-spacecraft navigation technology in
+scientific discovery, and security.”161 Since its founding,
+cislunar space. This mission is critical to establishing
+NASA has coordinated with other government agencies,
+the Lunar Gateway, NASA’s next long-term orbiting space
+including the Department of Defense, on science and
+station.149 CAPSTONE will be launched on the Electron
+technologies that have military value. Similarly, national
+space launch vehicle by the U.S.-New Zealand company
+security agencies share relevant discoveries or technologies
+Rocket Lab in .150
+with NASA. There are several relevant cooperative areas
+Several other modules for the Lunar Gateway are under outlined in the MOU: “deep space survey tracking technol-
+consideration and development. The current goal is a ogies to support extended SDA (space domain awareness)
+
+finished assembly by 2028 that will be approximately and NEO (near-Earth orbit)
+one-sixth the size of the ISS.151 detection beyond geosyn-
+July 13, 2020(cid:1)
+chronous orbit”; “capabilities
+Water and Ice
+and practices enabling safe,
+Another NextSTEP program is the Lunar IceCube nano-
+sustained near-Earth and
+satellite that will evaluate ice deposits on the Moon, (cid:17)(cid:35)(cid:42)(cid:47)(cid:42)(cid:1)(cid:29)(cid:52)(cid:1143)(cid:1)(cid:15)(cid:28)(cid:47)(cid:36)(cid:42)(cid:41)(cid:28)(cid:39)(cid:1)(cid:2)(cid:32)(cid:45)(cid:42)(cid:41)(cid:28)(cid:48)(cid:47)(cid:36)(cid:30)(cid:46)(cid:1)(cid:28)(cid:41)(cid:31)(cid:1)(cid:20)(cid:43)(cid:28)(cid:30)(cid:32)(cid:1)(cid:2)(cid:31)(cid:40)(cid:36)(cid:41)(cid:36)(cid:46)(cid:47)(cid:45)(cid:28)(cid:47)(cid:36)(cid:42)(cid:41)(cid:1)
+cislunar operations”; “ride Eyes on the Prize
+The Strategic Implications of Cislunar Space and the Moon
+mapping them and providing further data for future BY(cid:1)(cid:20)(cid:43)(cid:32)(cid:41)(cid:30)(cid:32)(cid:45)(cid:1)(cid:12)(cid:28)(cid:43)(cid:39)(cid:28)(cid:41)(cid:1)
+m l b a o u is a n s r c i d o h t n h i s n e . T A e h a rt e r e l s y m p 2 i a s 0 c - 2 e 1 2 c l . a r 1 a 5 u 2 ft n L w c u h i n l l a a a n r c d F c l o w a m s il h l p m l a ig n a h y p t t t w h h e i e l l f l i u a rs n ls t a o A r r b s te o e m u o t i n h s F s M re o t o a r r a o d m t n E e o a y g r n e i e c d s i i n c o m f i n o s p r l t o u m h r n e t a a a t P r n i o r s c i n p z e e a o o c n b f e y t t , h h e e (cid:20)(cid:14)v(cid:42)(cid:46)(cid:39)(cid:33) (cid:21)(cid:43)(cid:31)(cid:40)(cid:42)(cid:28)(cid:46)(cid:39)(cid:47) (cid:48) (cid:32) (cid:42) (cid:35) (cid:47) (cid:48) e (cid:31) (cid:35) (cid:33) (cid:33) (cid:45)(cid:32) (cid:21) (cid:49) (cid:28) (cid:16) (cid:41) (cid:36) (cid:1) (cid:45) (cid:47) (cid:32) (cid:32) n (cid:30) (cid:30) (cid:45) (cid:49) (cid:46) (cid:32) (cid:19) (cid:32) (cid:1) (cid:32) (cid:34)(cid:28) (cid:1) (cid:41) (cid:36)(cid:46) (cid:30) (cid:16) (cid:46) (cid:36)t (cid:28) (cid:1) (cid:22) (cid:49) (cid:41) (cid:45) (cid:2) (cid:49)(cid:36) (cid:14)(cid:47) (cid:45) u (cid:32) (cid:36) (cid:28) (cid:41) (cid:41) (cid:28) (cid:32) (cid:15) (cid:36) (cid:42) (cid:1) (cid:36) (cid:1) (cid:41) (cid:21) (cid:46) (cid:28) r (cid:34) (cid:49) (cid:47) (cid:39) (cid:42) (cid:34) (cid:34) (cid:30) (cid:46) (cid:36) (cid:41) e (cid:36) (cid:36) (cid:46) (cid:1)(cid:6) (cid:36) (cid:41) (cid:32) (cid:53) (cid:36) (cid:42) (cid:47) (cid:1) (cid:32) (cid:42) (cid:1) (cid:32) (cid:32) (cid:33) (cid:33) s (cid:46) (cid:46) (cid:34) (cid:32) (cid:28) (cid:8) (cid:1142) (cid:31) (cid:48) (cid:45) (cid:40) (cid:41) (cid:31) (cid:41) (cid:50) (cid:1) (cid:1141) (cid:1) (cid:45) (cid:46) (cid:31) p (cid:42) (cid:34) (cid:47) (cid:1) (cid:1) (cid:10) (cid:39) (cid:42) (cid:28) (cid:20) (cid:1) (cid:1) (cid:30) (cid:36) (cid:30) (cid:39)(cid:47) (cid:4) (cid:35) (cid:32)(cid:32) (cid:45) (cid:1) (cid:40) r(cid:42) (cid:52) (cid:39) (cid:20) (cid:36)(cid:48) (cid:48) (cid:42) (cid:42) (cid:36) o (cid:31) (cid:1) (cid:41) (cid:28) (cid:46) (cid:1) (cid:32) (cid:41) (cid:1) (cid:46) (cid:10) (cid:47) (cid:41) (cid:30) (cid:1)(cid:45) (cid:1) (cid:50)l (cid:39) (cid:46) (cid:46) (cid:1)(cid:47) (cid:15) (cid:47)(cid:41) (cid:32) (cid:28) (cid:1162)i (cid:32) (cid:48) (cid:28)(cid:30) (cid:31) (cid:46) (cid:35) f (cid:1) (cid:32) (cid:30) (cid:36) (cid:30) (cid:47) (cid:47)(cid:47) (cid:28) e (cid:21) (cid:46)(cid:32) (cid:41) (cid:1142) (cid:41) (cid:1) (cid:41) (cid:32) (cid:32) (cid:35) (cid:35)(cid:36) (cid:1) (cid:48) (cid:33) (cid:1) (cid:30) r (cid:33) (cid:46) (cid:28) (cid:6) (cid:28) (cid:40) (cid:34) (cid:42) (cid:46) (cid:1) (cid:31) (cid:28) (cid:36)(cid:45) a (cid:45) (cid:46)(cid:31) (cid:35)(cid:41) (cid:30) (cid:45) (cid:19) (cid:32) (cid:1) (cid:1) (cid:36) (cid:45)(cid:41) (cid:1)(cid:31) (cid:33) t(cid:28) (cid:1) (cid:28) (cid:36) (cid:47) (cid:1) (cid:1142) (cid:28) (cid:31) (cid:1)(cid:31) (cid:32) (cid:48) e (cid:47) (cid:6) (cid:33)(cid:1) (cid:40) (cid:52) (cid:34) (cid:46) (cid:36) (cid:28) (cid:45) (cid:33) (cid:35)(cid:1) (cid:1) (cid:1) (cid:31) (cid:42) . (cid:39) (cid:40) (cid:20) (cid:1) (cid:36) (cid:1) (cid:38)(cid:33) (cid:36) (cid:33) (cid:1) (cid:41) (cid:36) (cid:39) (cid:30) (cid:32) (cid:41) (cid:32) (cid:36) (cid:48) B (cid:40) (cid:1) (cid:40)(cid:41) (cid:28) (cid:32) (cid:21) (cid:46) (cid:50) (cid:31)(cid:48) (cid:32)(cid:1)(cid:50) (cid:34) (cid:41) e (cid:14) (cid:48) (cid:49) (cid:46) (cid:45) (cid:1) (cid:36) (cid:28) (cid:1) (cid:46) (cid:39) (cid:10) (cid:36) (cid:1) (cid:46) (cid:36) (cid:46) t (cid:31) (cid:32) (cid:46) (cid:41) (cid:47) (cid:45) (cid:1) (cid:47) (cid:15) (cid:42) (cid:46)(cid:42)(cid:41) (cid:36) w (cid:1)(cid:46)(cid:52) (cid:32) (cid:47) (cid:35) (cid:46) (cid:42) (cid:28) (cid:41) (cid:30) (cid:28) (cid:41) (cid:45) (cid:42) (cid:1) (cid:36) (cid:28) (cid:1) (cid:46) (cid:47) (cid:4) (cid:1) e (cid:40) (cid:42) (cid:35) (cid:33) (cid:42) (cid:46) (cid:28) (cid:34)(cid:47) (cid:40) (cid:46) (cid:41)(cid:47) (cid:42) (cid:1) e (cid:1) (cid:35) (cid:47) (cid:10) (cid:41) (cid:1) (cid:47)(cid:33) (cid:32) (cid:36) (cid:1)(cid:40) (cid:30) (cid:32) (cid:1141) (cid:20) (cid:48) (cid:32) (cid:1) (cid:47) (cid:42) (cid:32) n (cid:32) (cid:32) (cid:28) (cid:1) (cid:46) (cid:1) (cid:42) (cid:28) (cid:21)(cid:47) (cid:41) (cid:30) (cid:13) (cid:45) (cid:34) (cid:41) (cid:28) (cid:1) (cid:41) (cid:1) (cid:30) (cid:42) (cid:46) (cid:43)t(cid:30) (cid:2) (cid:1) (cid:35) (cid:35) (cid:47) (cid:22) (cid:36) (cid:14) (cid:46) (cid:52) (cid:35) h (cid:47) (cid:32) (cid:30) (cid:1) (cid:32) (cid:28) (cid:28) (cid:43) (cid:36) (cid:41) (cid:30) (cid:1) (cid:1)(cid:1) (cid:36) (cid:15) (cid:35)(cid:46) e (cid:36) (cid:1141) (cid:41) (cid:28)(cid:29) (cid:46) (cid:39) (cid:29) (cid:32) (cid:42)(cid:42) (cid:41) (cid:1) (cid:42) (cid:1) (cid:1) (cid:10) (cid:1) (cid:28) (cid:47) (cid:45) (cid:47) (cid:46) (cid:32) (cid:2) (cid:28)M (cid:49) (cid:36) (cid:47) (cid:40)(cid:39) (cid:1) (cid:39) (cid:52) (cid:1) (cid:46) (cid:39) (cid:47) (cid:49) (cid:39) (cid:52) (cid:46) (cid:42)(cid:47) (cid:30) (cid:36) (cid:41) (cid:19)(cid:36) (cid:42) (cid:35) (cid:1) (cid:43) o (cid:41)(cid:42) (cid:47) (cid:1) (cid:32)(cid:40) (cid:28)(cid:42) (cid:43) (cid:34) (cid:43) (cid:31) (cid:36)(cid:1) (cid:1) (cid:32) (cid:32) o (cid:34)(cid:1) (cid:1) (cid:20) (cid:43) (cid:41) (cid:32) (cid:40) (cid:36) (cid:32) (cid:47) (cid:40) (cid:45) (cid:1) (cid:29) (cid:30) (cid:1) (cid:46) (cid:1) (cid:43)n (cid:35) (cid:46)(cid:17) (cid:45) (cid:32) (cid:1089) (cid:31) (cid:47) (cid:46) (cid:1) (cid:28) (cid:42) (cid:42) (cid:32) (cid:1) (cid:36) (cid:42) (cid:28) (cid:42)’ (cid:32) (cid:46) (cid:1088) (cid:48) (cid:1) (cid:2)(cid:28) (cid:41) s (cid:29) (cid:39) (cid:39) (cid:1) (cid:34) (cid:47) (cid:41) (cid:33) (cid:46) (cid:1) (cid:47) (cid:1) (cid:30) (cid:43) (cid:36) (cid:41) (cid:4) (cid:14) (cid:34) (cid:28) (cid:36)(cid:1) (cid:32) v (cid:30) (cid:32) (cid:45) (cid:47) (cid:49) (cid:28) (cid:34)(cid:30) (cid:45) (cid:31) (cid:1) (cid:41) (cid:6) (cid:28) (cid:1) (cid:1) a (cid:52)(cid:41) (cid:41) (cid:42) (cid:28) (cid:30) (cid:32) (cid:36) (cid:34)(cid:49) (cid:32) (cid:1) (cid:40) (cid:40) (cid:31) (cid:42) (cid:1) s(cid:30) (cid:47) (cid:32) (cid:28) (cid:46) (cid:39) (cid:28) (cid:42) (cid:2) (cid:32) (cid:1)(cid:48)(cid:49) t(cid:36) (cid:1) (cid:41) (cid:42) (cid:46) (cid:41) (cid:47)(cid:39) (cid:28) (cid:31)(cid:46)(cid:41) (cid:32) (cid:15) (cid:1141) (cid:28) (cid:48) (cid:32) r (cid:36) (cid:1) (cid:1) (cid:31) (cid:40) (cid:42) (cid:47) (cid:39) (cid:42) (cid:1)(cid:42) (cid:1) (cid:1) (cid:1) e (cid:39) (cid:5) (cid:47) (cid:1) (cid:47) (cid:1143) (cid:28) (cid:32) (cid:48) (cid:1142) (cid:48) (cid:28) (cid:30) (cid:1) (cid:41) (cid:41) (cid:42) (cid:28) s (cid:1) (cid:40) (cid:45) (cid:1) (cid:45) (cid:1) (cid:47) (cid:36) (cid:46) (cid:30) (cid:32) e (cid:21) (cid:1) (cid:45) (cid:32) (cid:46) (cid:1)(cid:32) (cid:52) (cid:35) (cid:39) (cid:1) (cid:28) (cid:34) (cid:1) r (cid:48) (cid:1142) (cid:32) (cid:28) (cid:1) (cid:9) (cid:1141) (cid:47) (cid:32) (cid:1) v (cid:1) (cid:41) (cid:32) (cid:28) (cid:28) (cid:45) (cid:1) (cid:41) (cid:1) (cid:1) (cid:6) e(cid:30) (cid:47) (cid:1)(cid:46) (cid:39) (cid:28) (cid:29) (cid:1) (cid:46) (cid:1) s(cid:36) (cid:1) (cid:28) (cid:45) (cid:1) (cid:32) (cid:1) (cid:39) (cid:1) (cid:1) T(cid:46)(cid:46)i(cid:42)(cid:2)(cid:50)(cid:36)(cid:31) Ma(cid:30) m (cid:46) (cid:32)(cid:32) (cid:28)n h (cid:33)(cid:46) (cid:32)(cid:1)(cid:36) o (cid:1) (cid:48) (cid:45)(cid:47) (cid:41) (cid:1)(cid:47) (cid:47) d (cid:32) e p (cid:47) (cid:47)(cid:49) s (cid:35) SSI (cid:35) (cid:41) (cid:35) (cid:1) (cid:43) n (cid:39) o t (cid:29) (cid:32)M pe e (cid:32) (cid:1) (cid:32) (cid:36) t (cid:40)(cid:32) (cid:1) r (cid:44) c (cid:1) i (cid:32) e (cid:46) c e (cid:1) (cid:1) (cid:28) m o t (cid:1) (cid:14) (cid:46) un (cid:43) (cid:14) o(cid:1) (cid:48) r a (cid:36) (cid:46) (cid:48) (cid:42) o nr (cid:41) c (cid:28) (cid:28) n (cid:32) p (cid:1) n i (cid:42) (cid:47) (cid:28) a e (cid:39) n t (cid:36) (cid:30) (cid:45) (cid:39) (cid:28) (cid:36)oo t y (cid:40)(cid:42) r t (cid:1) (cid:52) (cid:39) (cid:46) ’ (cid:32) (cid:47) i (cid:45) (cid:36) s mr i PK (cid:1) (cid:1) (cid:41) o (cid:32) (cid:53) (cid:1)n (cid:43)(cid:1) (cid:28) t (cid:28) (cid:46) (cid:32) s ar (cid:32) n (cid:46) a (cid:1) i (cid:41)s (cid:39)(cid:42) (cid:36)(cid:52) o c (cid:51) c p a (cid:1) (cid:47) (cid:31) (cid:46) n i (cid:34) (cid:46) j (cid:31) (cid:46) (cid:29)i (cid:43) g (cid:1) l le (cid:1) e vt (cid:28)(cid:47) a (cid:45) (cid:36) (cid:47) (cid:1) S (cid:32) h (cid:39) c l (cid:47) (cid:32) (cid:47) (cid:28) a(cid:42) n (cid:1) (cid:42) n y (cid:36) tt (cid:30) (cid:35)(cid:31) t(cid:40) (cid:49)(cid:42) l u (cid:1) t (cid:45) s a (cid:32) (cid:32) w uf (cid:32)(cid:1)i (cid:36) (cid:28)(cid:41) d (cid:33) o f (cid:47) t (cid:39) (cid:41) (cid:1142) e i(cid:1)(cid:42) a i (cid:32) (cid:47) (cid:1) i (cid:52) (cid:42) (cid:32) n r t c (cid:28) e (cid:28). (cid:36) (cid:45) sh (cid:46) (cid:1) (cid:31)(cid:42) (cid:43)t s (cid:28) t (cid:41) (cid:1) P(cid:29) v (cid:47) ae (cid:47) o h (cid:41)(cid:1) (cid:43) (cid:41) i (cid:36)(cid:31) (cid:35) (cid:47) r a (cid:39) n (cid:28) C i r (cid:32) (cid:42) i (cid:1) t(cid:42) (cid:31) s (cid:1) (cid:32)l (cid:45) e m (cid:39)(cid:47)h eW u (cid:1) (cid:1)(cid:32) (cid:45) (cid:1)(cid:1) (cid:41) (cid:1) s (cid:35) (cid:35) a (cid:29) n (cid:39) (cid:47) e(cid:47) e (cid:46) e a (cid:42) a (cid:32) (cid:32) (cid:32) (cid:48) (cid:42) n t (cid:42) (cid:32) a r es E (cid:50) s(cid:30) (cid:50) (cid:1) (cid:41) (cid:46) a (cid:31) i (cid:32) h (cid:28) rr t a (cid:35) l (cid:47) c l (cid:36) (cid:1) (cid:1142) e y i (cid:52)(cid:51) (cid:45) f (cid:46) y (cid:1) (cid:47)r n (cid:1) h (cid:41) o (cid:39)(cid:30) (cid:43) (cid:36) , (cid:1) m (cid:52) (cid:35) t (cid:28) s (cid:45) g (cid:46) (cid:42) r (cid:35) i h t (cid:1) (cid:42) (cid:32) i (cid:36)(cid:29) n (cid:47) (cid:36) t h S s s (cid:32) (cid:39) (cid:1141) (cid:47)’(cid:32) o (cid:28) (cid:50) t (cid:42) (cid:1)(cid:42) s t (cid:1) e (cid:39) e i f n (cid:43) (cid:41)(cid:30) r (cid:31) (cid:34) s (cid:45) r (cid:32) g ra, (cid:35) M (cid:30) (cid:45) (cid:28) o n (cid:36) (cid:52) (cid:45) t D e t (cid:32) (cid:41) (cid:32)(cid:28) (cid:47) (cid:33) h m(cid:1) e o f o (cid:31) . (cid:46) (cid:48) (cid:42)(cid:34) (cid:1)(cid:29) o Cg (cid:42) eo (cid:32)l (cid:32) (cid:39) (cid:1)(cid:45) ri. (cid:39) o (cid:33) b (cid:1) (cid:33) c (cid:41) (cid:36) n (cid:32) M (cid:32) (cid:47) (cid:45) t (cid:1) (cid:32) g o (cid:39) (cid:52) (cid:42) h (cid:47) (cid:1) a ’ (cid:40) (cid:36) (cid:46) (cid:33) os (cid:46)y (cid:43) (cid:33) t e (cid:40)(cid:45) n (cid:1) (cid:32) h (cid:1) o , (cid:31) (cid:42) (cid:32) r(cid:32) (cid:47) d A (cid:1) e t(cid:42) (cid:1) n (cid:42) (cid:31) (cid:32) (cid:40) (cid:46) (cid:1) i e (cid:45) h s t (cid:1) (cid:1) (cid:28)(cid:31) (cid:41) ’ (cid:1) r (cid:34) (cid:42) s(cid:30) e so (cid:1) o (cid:31)(cid:6) (cid:36) (cid:1) (cid:28) (cid:45) (cid:33) (cid:6) (cid:30) a u s s h (cid:1) (cid:36) (cid:36)(cid:28) (cid:36) p (cid:28) (cid:28) (cid:47) t (cid:28) b r (cid:41)i (cid:45) (cid:36) rc a s (cid:47) (cid:45) (cid:47) i(cid:30) (cid:47) (cid:1) a (cid:32) l (cid:36) (cid:47)t e c (cid:35) (cid:28)i (cid:42) (cid:35) t o (cid:31) e t s (cid:1) e (cid:39) (cid:41) y (cid:1141) r (cid:1) (cid:1) (cid:1088) (cid:47) g (cid:47) y (cid:1142) (cid:1) t(cid:42) (cid:42)(cid:1) i (cid:36) o c (cid:47) (cid:1) (cid:1)(cid:1)
+pole. Its mission includes using lasers to look for ice.153 Spencer Kaplan. (cid:1)(cid:1) (cid:2)(cid:6)(cid:19)(cid:16)(cid:20)(cid:17)(cid:2)(cid:4)(cid:6)(cid:1141)(cid:4)(cid:20)(cid:10)(cid:20)(cid:1141)(cid:16)(cid:19)(cid:8)(cid:1)(cid:1)(cid:1182)(cid:1)(cid:1)(cid:1088)(cid:1)
+Americas
+
+Kaitlyn
+Johnson
+organize, and develop LUNINT. The first phase of the
+The United States
+project was to develop a LUNINT dashboard, or virtual
+simulation of notable objects and their orbital details
+has been clear
+within cislunar space. This dashboard will later be in-
+tegrated into mission control software suites that allow
+about the military
+the U.S. military and allies to visualize and understand
+the space environment, enabling decisionmaking and
+advantages of
+planning for current or future capabilities.167 In , Rhea Space Activity was awarded a contract exten-
+reaching the Moon
+sion for the project.168
+
+and cislunar space. The Air Force Research Laboratory (AFRL) released A
+Primer on Cislunar Space in , which is directed
+at military space professionals as they develop opera-
+tional concepts for the space domain. The paper also
+explains the challenges with the detection and tracking
+of spacecraft and how methods used in near-Earth orbits
+such as LEO, including traditional two-line elements
+(TLEs) used to describe an object’s trajectory, are useless
+in cislunar space given the introduction of a third body,
+the Moon. The report introduces cislunar space concepts
+and potential operations, including the unique physical
+shares and hosted payloads to and beyond Earth orbit”;
+dynamics of the cislunar and lunar regions and different
+“interoperable spacecraft communications networks for
+capabilities cislunar spacecraft will require in comparison
+Earth orbit and beyond”; and others.162
+to spacecraft in near-Earth orbits.169 AFRL is pursuing an
+Other Space Force personnel have written publicly about experiment to develop and launch space-based sensors
+U.S. military operations in cislunar and lunar space, arguing in cislunar space in order to demonstrate foundational
+that the Space Force should leverage its military expertise SDA capabilities. This program is known as the Cislunar
+to support and develop future civil space activities.163 Highway Patrol System.170 In a joint project with the De-
+The Outer Space Treaty forbids many military activities fense Advanced Research Projects Agency (DARPA), AFRL
+on celestial bodies, including establishing military bases is working on the Defense Deep Space Sentinel (D2S2), a
+or conducting military maneuvers.164 However, some be- cislunar satellite designed to be highly mobile and carry
+lieve there still may be room to provide military support a 20-centimeter camera to provide space domain and
+to civilian missions and remain in line with the United lunar surface awareness. The D2S2 satellite is expected
+States’ international obligations though the treaty.165 to launch in late 2022.171
+Spacepower, published in 2020, is the first doctrine pub- DARPA also has two separate relevant ongoing initiatives
+related to the Moon and cislunar space. Announced
+lished by the U.S. Space Force and declares that while
+in , DARPA will pursue technologies for
+today economic and military space activities are confined
+in situ manufacturing to produce large space or lunar
+to the near-Earth, future technologies and capabilities
+structures. This program is called the Novel Orbital and
+will “expand the reach of vital National space interests
+Moon Manufacturing, Materials, and Mass-Efficient Design
+to the cislunar regime and beyond.”166 The document
+program and is in the early stages of development.172 In
+also uses the far side of the Moon as an example for
+situ manufacturing is critical to overcoming the mass
+how some parts of space can only be observed through
+and volume limits of launch from the Earth’s surface. If
+orbiting spacecraft, and that there is desire to ensure full
+structures or components could be developed in space
+domain awareness.
+or on the Moon, the ability to live and work in space will
+Several ongoing projects funded or led by the Department be more quickly achievable. The current program is split
+of Defense, including within the Space Force, focus on into three 18-month phases and will likely be completed
+cislunar space or the Moon. Of note is the U.S. Air Force in the mid to late 2020s.173 The second DARPA effort is
+contract with Rhea Space Activity in to collect, the Demonstration Rocket for Agile Cislunar Operations
+
+program. This program intends to demonstrate nuclear craft will take Japanese billionaire Yusaku Maezawa, who
+thermal propulsion by 2025. Nuclear propulsion enables has purchased all seats on this first flight for himself and
+greater maneuver capabilities and provides operators eight other artists, around the Moon on a trip that will
+with the ability to better monitor spacecraft in cislunar last six to seven days.181
+space or near the Moon.174 In , DARPA selected
+Blue Origin, Lockheed Martin, and General Atomics for
+the first phase of the project.175
+Commercial
+Separately from NASA or Department of Defense funding,
+several U.S. commercial space companies are working
+on cislunar or lunar missions.
+United Launch Alliance has laid out its Cislunar 1000
+roadmap, which intends to eventually sustain 1,000
+people in Earth-Moon space. This self-sustaining plan
+relies on ISRU, among other critical technologies.176 It is
+focused on developing a wide-reaching cislunar economy
+with other commercial companies, including Bigelow
+Aerospace, Astrobotic, and others.177 Cislunar 1000 fits
+in well with the Lunar Gateway and NASA’s plans for a
+sustainable future cislunar presence.
+Astrobotic describes itself as a “Moon company” and has
+built its business case on lowering the barriers to access
+the Moon for science, exploration, and even to send
+keepsakes. Along with the Griffin lunar lander that will
+take NASA’s VIPER to the Moon in 2023, Astrobotic has
+several planned lunar missions. The first is Astrobotic’s
+Peregrine Mission One lunar lander that will carry a suite
+of scientific instruments and experiments from NASA and
+several international companies. Peregrine is expected
+to launch in 2022 and would make Astrobotic the first
+commercial company to reach the lunar surface. In 2023,
+Astrobotic plans to launch a mid-sized lunar rover, called
+Moon Ranger, to the lunar South Pole. This is also part of
+NASA’s CLPS program. Moon Ranger will map the lunar
+surface, and that data will be used to build 3D maps in
+support of future lunar exploration missions.178
+Also sponsored by NASA’s CLPS program, Intuitive Ma-
+
+chines is competing with Astrobotic to be the first com-
+mercial lander on the Moon, and its lander will head to
+the South Pole to drill for ice. The Nova-C lander will
+“hop” around the lunar surface and access craters that
+have yet to be explored by robotic rovers.179 Its launch
+date slipped from mid-2021 to early 2022 due to licensing
+and launch issues.180
+SpaceX’s first cislunar space tourism mission—tentatively
+scheduled for 2023—will fly through cislunar space, orbit
+the Moon, and return to Earth. SpaceX’s Starship space-
+Americas
+
+MIDDLE EAST & AFRICA
+
+Middle
+East
+and
+Africa
+and wide, and 28 inches tall, it will weigh approximately
+Israel
+22 pounds (10 kilograms) with its payload.”188 The lunar
+Cislunar and lunar landing efforts in Israel are largely mission is scheduled to launch in 2022 on a SpaceX Falcon
+led by an Israeli commercial company, SpaceIL. SpaceIL 9 rocket. The rover will be deposited at “an equatorial
+is responsible for the first ever nongovernmental lunar locale on the Moon’s near side” by the HAKUTO-R lander,
+landing attempt. In 2019, the Beresheet 1 lunar lander designed and operated by ispace.189
+successfully reached lunar orbit but was unable to land
+Plans are already underway for a second rover to be
+and instead crashed onto the Moon. SpaceIL is working on
+launched in 2024 or 2025. Furthermore, the United Arab
+the Beresheet 2 program to attempt once again to reach
+Emirates is evaluating how to expand its lunar program
+the lunar surface, but this time the mission will include
+in other ways, to potentially include an orbiter, human
+two lunar landers and an orbiter.182 The two landers will
+exploration, and a lunar base fit for 1,000 people by 2040.190
+be smaller than the original Beresheet 1 lander, and the
+orbiter will be in operation for a couple of years. SpaceIL
+is looking for international partners to help financially
+support the program. According to the New York Times, the
+United Arab Emirates was one entity of seven interested
+in the program.183 Beresheet 2 is currently scheduled to
+launch in 2024.184
+Another Israeli company, Helios, is betting on long-term
+sustainability on the Moon by building in situ resourc-
+ing and mining equipment. For their first test of Lunar
+Extractor-1, Helios will be ridesharing on Japanese
+company ispace’s second mission to the lunar surface
+in 2023. Helios has also confirmed that Lunar Extractor-2
+will be flown on another ispace mission to the Moon in
+mid-2024.185
+Turkey
+In , Turkey’s President Recep Tayyip Erdo-
+gan announced an ambitious plan for the Turkish Space
+Agency. This 10-year plan includes a lunar mission by 2028
+that will consist of a rover deposited on the lunar surface
+by a Turkish national space launch vehicle. A 2023 test of
+the launch vehicle and lunar lander will support the 2028
+mission. There are few additional details.186
+United Arab Emirates
+In , Vice President Sheikh Mohammed
+bin Rashid announced the Emirates Lunar Mission. It will
+include a lunar rover, called Rashid, that will be equipped
+with two imagers (microscopic and thermal) and a probe
+that will “measure the electron density at the lunar surface,”
+among other instruments.187 Rashid is slated to be the
+smallest rover yet: coming in at around “20 inches long
+
+TRENDS ACROSS PLANNED MISSIONS
+
+Trends
+across
+Planned
+Missions
+There is a flurry of activity planned for cislunar orbit tation missions make up the second-most common
+or to pass through cislunar space on the way to the type of mission, which is key for achieving sustainable
+Moon’s surface. Nations and companies alike see long-term cislunar and lunar projects, such as the Lunar
+potential for new science, technology, and commerce. The Gateway or lunar bases. The transportation category
+“big three” space nations—China, Russia, and the United includes lunar landers, satellite busses for cislunar
+States—certainly have ambitious plans for cislunar space payloads, and launch vehicles or spacecraft specifically
+and the Moon. ESA also has a plethora of ongoing research designed for lunar or cislunar missions. Rovers follow
+and development projects dedicated to cislunar or lunar as the third-most popular type of mission, with 15 lunar
+missions. Because ESA is funded by several nations and rovers planned to launch in the next decade. These
+able to leverage the collective wealth and expertise of its missions often include a secondary mission dedicated
+members, it is no surprise that many European nations to science and data collection.
+view ESA as the best way to achieve national civil space
+Surprisingly, there is a lack of situational awareness and
+goals. Independently, there are many missions planned,
+communications missions planned. With so many lunar
+including several highly capable programs from India,
+landers, rovers, and cislunar missions in development,
+Japan, and the United Arab Emirates. The United Arab
+nations will likely need more robust infrastructure for
+Emirates, in particular, has an ambitious plan to have
+understanding the environment of cislunar space, as
+1,000 people live and work on the Moon by 2040. There
+well as the ability to consistently communicate with
+are also many new endeavors from nontraditional space
+assets in orbit around or on the Moon. Currently, China
+nations, such as Mexico, Thailand, and Turkey. is operating the only communications relay satellite on
+the far side of the Moon, which supports China’s ongoing
+After a survey of the 106 cislunar and lunar activities
+Chang’e lunar missions. The U.S.-led Lunar Gateway will
+from 19 nations and one multilateral governmental
+also provide significant communications capabilities in
+organization (ESA), it is clear that the current missions
+cislunar space. However, it is unclear if national efforts
+planned are to be the first of many, and therefore focus
+such as these will allow commercial missions or other
+on gathering more information and data to support future
+nations to access communications capabilities.
+missions. However, the data presented does not wholly
+capture the amount of cislunar and lunar missions and There is a longstanding history of allowing commercial
+technologies currently planned. Data labeling was often access to government-operated space infrastructure in
+based off the prioritization of one of several capabilities near-Earth orbits, such as GPS for navigation and position-
+of a mission. For example, a lunar lander mission may ing. Creating commercial access to the communications,
+also have a rover onboard or a secondary payload to navigation, and space domain awareness (SDA) capabilities
+gather regolith or drill for ice. necessary for cislunar space might be the next evolution of
+Science-gathering missions are the most common, with Figure 2: Cislunar and Space Missions
+12 dedicated to the search for water and ice. Transpor- Source: Author’s own research and analysis.
+
+10 12
+
+4 5 5
+
+S
+DA
+Technology
+Test
+ISR
+U Habitation
+Co
+m
+munications Science Logistics Rover Transportation ISR
+PRIMARY OBJECTIVE
+
+Kaitlyn
+Johnson
+COUNTRY TYPE NAME DATE
+Russia Government Luna 25 2022
+India Government Chandrayaan-3 2022
+United States Government CLPS 2022
+United States Government Lunar Icecube 2022
+United States Commercial LunaH-Map 2022
+
+United States Commercial Nova-C 2022
+United States Government ShadowCam 2022
+Australia Commercial Seven Sisters 2023
+United States Government VIPER 2023
+China Government Chang’e-7 2024
+ESA Government European Prospect Drill 2025
+United States Commercial Lunar Trailblazer 2025
+Russia Government Luna 27/Luna Resurs 2026
+government-supported space infrastructure. SDA is critical Table 2: Lunar and Cislunar Missions Focused on Water and Ice
+in near-Earth orbits, and the cislunar and low-lunar orbits Source: Author’s own research and analysis.
+require unique infrastructure and a new framework for
+understanding and evaluating where objects are located bodies should begin to consider ways to protect the
+in space. Currently, for near-Earth orbits, satellites are cislunar domain and the Moon, as well as coordinating
+given positions based on their relative position to Earth. activities to avoid accidents. Near-Earth orbits are facing
+This current Earth-based structure will be less effective in difficult challenges with the sustainability of the domain
+cislunar orbits, so a new internationally recognized data and the growing amount of debris in valuable orbits.
+schema should be determined.191 Serious conversations in multinational forums, such as
+the United Nations’ Committee on the Peaceful Uses of
+Commercial companies are leading several lunar and
+Outer Space, should address and establish best practices
+cislunar missions, working to capitalize on the demand
+and rules for operating in cislunar space sooner rather
+signal from interested governments. NASA, CSA, ESA,
+than later. Without this, the unsustainable pattern of
+and others are contracting with industry or purchasing
+behavior experienced in LEO, MEO, and GEO could be
+their launch vehicles, lunar landers, or rovers to deliver
+replicated in cislunar orbit.
+national capability to cislunar space or the Moon. Of the
+106 missions surveyed, 24 are led by commercial indus-
+Similarly, a clear, technically informed definition of cis-
+try. Notably, some countries are not pursuing a national
+lunar space should be determined and accepted by the
+lunar or cislunar capability, such as Israel and Ukraine,
+international community. Since cislunar capabilities
+and commercial companies are leading the way for those
+are nascent, the lack of definition is not a major issue at
+nations to claim access to the Moon.
+present. However, in the future, if cislunar space is highly
+Overall, trends indicate more focus and investment in utilized by commercial and national capabilities alike, a
+cislunar and lunar space activities by a wide range of commonly accepted definition of what is and is not con-
+governments and private companies. With little inter- sidered cislunar space will allow the space community
+national law and regulation governing cislunar space to establish and maintain best practices or rules of the
+or the Moon, international conversations in governing road for operating in this regime.
+
+China, Russia, and the United States are leading the that cislunar space and the Moon are perhaps once
+way in cislunar and lunar development and in creating again the finish line. This is a mischaracterization of the
+a sustainable presence. Many of the nations surveyed current plans and missions dedicated to this space. No
+in this assessment are conducting cislunar and lunar missions are directly countering one another, and there
+research and development in coordination with major is no evidence that mission timelines have shifted or
+civil space program efforts from one of these three leading changed in order to “beat” another nation to the Moon.
+space powers. ESA, for example, is working with all three This assessment finds that the cislunar and lunar missions
+nations to further space exploration and technology. As of other nations are led by national civil space agencies
+cislunar and lunar plans further develop, most of the or by entrepreneurial new space companies, and many
+larger missions with greater infrastructure needs (e.g., of these efforts are tied to ongoing cislunar missions by
+communications, SSA, and navigation and timing) will China, Russia, or the United States.
+be in partnership with at least one of the larger multina-
+International partnerships are critical to the future of cis-
+tional efforts led by China, Russia, or the United States.
+lunar and lunar missions and, as seen in this assessment,
+Notably, China and Russia recently announced a search for
+often preferred. China, Russia, and the United States are all
+partners for a joint lunar base.192 After close collaboration
+spearheading lunar or cislunar programs that involve several
+on other cislunar and lunar missions, a Russian-Chinese
+international partners. The United States, in particular, is
+partnership with ESA is not difficult to foresee. As cislu-
+prioritizing leadership of an international coalition for a
+nar and lunar missions become more complex and last
+more robust and sustainable lunar architecture through
+for longer durations, future missions will likely build on
+the Artemis Accords and Artemis program. Cooperation
+ongoing efforts and partnerships.
+on the Lunar Gateway and the multiple internationally
+While China, Russia, and the United States may be look- sponsored payloads or projects that will join NASA-led
+ing at cislunar space and the Moon for national security missions also showcase this priority. By working with
+gains, other nations have not stated or announced any allies and partners to set best practices and international
+similar plans or ideas. There is also a growing rhetoric standards, the United States will be able to influence and
+in U.S. media that a new space race is beginning and set favorable precedents for operating in cislunar space
+and on the Moon for decades to come.
+However, international partnership amongst the “big
+three” global space powers is unlikely. Historical prec-
+edent proves that space cooperation can transcend
+global conflict, as was the case during the Cold War with
+partnership between the Soviet Union and the United
+States. Years of disagreement and refusal to compromise
+within multi-lateral fora, like the United Nations, does
+A clear, technically not indicate a willingness to partner on space missions.
+Furthermore, policies like the Wolf Amendment restrict
+informed definition NASA from cooperating with Chinese space programs
+and organizations.193 Despite the great potential for
+of cislunar interstellar global cooperation, the geopolitical tension,
+
+technological competition, and unwillingness to trust
+space should be and compromise, will deter any substantial near-future
+partnerships between China, Russia, and the United States.
+determined and
+International partnerships, and partnerships between
+accepted by the companies and governments, are leading this renewed
+pursuit to the Moon and into cislunar space. There appear
+international to be three separating lines of effort, with some cross-pol-
+lution: the United States with allies and partners; China;
+community. and Russia. Organizations like ESA work with all three
+efforts, and the beginnings of a larger alliance between
+Trends
+across
+Planned
+Missions
+
+Kaitlyn
+Johnson
+China and Russia may emerge with the collaboration
+on a sustainable lunar presence. Policymakers should
+be aware that the first to set expectations or behaviors
+on the Moon or in cislunar space does not necessarily
+indicate these will become the rules, standards, or norms.
+Instead, policymakers worldwide should focus on con-
+sensual rules, standards, and norms from all space and
+emerging space nations, rather than risk a dichotomy of
+international governance in space.
+
+No missions are
+directly countering
+one another, and
+there is no evidence
+that mission
+timelines have
+shifted or changed
+in order to “beat”
+another nation
+to the Moon.
+
+Fly
+Me
+to
+the
+Moon
+About the Author
+Kaitlyn Johnson is deputy director and fellow of the Aerospace Security
+Project at the Center for Strategic and International Studies. Ms. Johnson
+supports the team’s strategic planning and research agenda. Her research
+specializes in topics such as space security, military space systems, and com-
+mercial and civil space policy. Ms. Johnson has written on national security
+space reorganization, threats against space assets, the commercialization of
+space, escalation and deterrence dynamics, and defense acquisition trends.
+She is also a cohost of the CSIS podcast Tech Unmanned, which features
+guests with both policy expertise and technical expertise in order to break
+through the national security jargon and technology hand-waving to get to
+the core of the technical realities of these emerging capabilities, benefits to
+development, and the barriers to success. Ms. Johnson holds an MA from
+American University in U.S. foreign policy and national security studies, with
+a concentration in defense and space security, and a BS from the Georgia
+Institute of Technology in international affairs.
+
+Kaitlyn
+Johnson
+Endnotes
+Introduction
+1 Spencer Kaplan, Eyes on the Prize: The Strategic Implications of Cislunar Space and the
+Moon (Washington, DC: Aerospace Security Project, ), 
+org/eyes-on-the-prize/.
+2 Stephe Kostes, “The Future on Hold: America’s Need to Redefine Its Space Paradigm,”
+Space Review, September 8, 2020, 
+3 Kaplan, Eyes on the Prize.
+
+Defining Cislunar
+4 Matthew L. Lohmeier, The Better Mind of Space (Montgomery, AL: Air Command
+and Staff College, ), Wright Flyer Papers no. 79, 23, 
+airuniversity.af.edu/Portals/10/AUPress/Papers/WF_0079_LOHMEIER_THE_BET-
+TER_MIND_OF_SPACE.PDF; and Marianne R. Bobskil and Mark L. Lupisella, “The Role of
+Cis-Lunar Space in Future Global Space Exploration” (paper presented at Global Space
+Exploration Conference, Washington, DC, May 22–24, 2012), 
+citations/20120009459.
+5 Keith W. Crane et al., Assessment of the Utility of a Government Strategic Investment
+Fund for Space (Washington, DC: Institute for Defense Analyses, ), 9, https://
+
+ment-strategic-investment-fund-for-space/d-10616.ashx. Cislunar space can be defined
+as the volume of the sphere formed by rotating the Moon’s orbit around Earth (i.e., any
+part of space between the Earth and the Moon). Some volumes within that sphere, such
+as LEO, are distinguished by other names. Practically, cislunar space is a useful label
+for the volume between GEO and the Moon’s orbit, including the Earth-Moon Lagrange
+points (L4 and L5).
+6 Kaplan, Eyes on the Prize; and Claudio Maccone, The Lunar Farside Radio Lab Study of
+the IAA (Tourino, Italy: ResearchGate, August 1, 2018), 2, figure 1, 
+gate.net/figure/Locations-of-the-five-Earth-Moon-Lagrangianpoints-namely-where-the-
+Earth-and-Moon_fig1_228781180.
+7 Oliver Montenbruck and Eberhard Gill, Satellite Orbits: Models, Methods, and Applica-
+tions (Berlin, Germany: Springer Science & Business Media, 2000), 55, figure 3.1, https://
+books.google.com/books?id=hABRnDlDkyQC&pg=PA55#v=onepage&q&f=false; and
+C. Channing Chow et al., “Cislunar Periodic Orbit Families and Expected Observational
+Features” (paper presented at Advanced Maui Optical and Space Surveillance Tech-
+nologies Conference, Maui, Hawaii, September 12–18, 2020), 
+TechnicalPapers/2020/Astrodynamics/Chow.pdf.
+Europe and Russia
+8 “Luna,” European Space Agency (ESA), 
+man_and_Robotic_Exploration/Exploration/Luna; and “Luna 25,” NASA, 
+gsfc.nasa.gov/nmc/spacecraft/display.action?id=LUNA-25.
+9 “Luna-26 Orbiter,” Luna-26 Orbiter, 
+10 “Luna,” ESA.
+11 “Introducing space 4.0,” ESA, November 15, 2017, 
+dia/Videos/2017/10/Introducing_space_4.0.
+12 Jan Woerner, “Moon Village: A Vision for Global Cooperation and Space 4.0,” ESA, http://
+
+13 Ibid.
+
+14 Andrew Jones, “ESA, CNSA Heads Discuss Future Space Plans,” SpaceNews, April 7,
+2021, 
+15 Andrew Jones, “China Sets Sights on Moon’s South Pole, with ESA Collaboration Talks
+Ongoing,” SpaceNews, May 6, 2018, 
+moons-south-pole-with-esa-collaboration-talks-ongoing/.
+16 “Lunar Satellites,” ESA, 
+grated_Applications/Lunar_satellites.
+17 Hannah Somerville, “One Giant Leap: ESA Wants Satellites Around the Moon to
+Make Manned Missions Easier,” Euronews, August 20, 2021, 
+com/2021/05/21/esa-wants-satellites-around-the-moon-to-create-lunar-telecoms-and-
+navigation-system.
+18 Ibid.
+19 “European Service Module,” ESA, 
+and_Robotic_Exploration/Orion/European_Service_Module.
+20 Airbus, “Fly Me to the Moon: Airbus Wins ESA Contract for Three More European Service
+Modules for NASA’s Orion Spacecraft,” Press release, February 2, 2021, 
+airbus.com/newsroom/press-releases/en/2021/01/fly-me-to-the-moon-airbus-wins-
+esa-contract-for-three-more-european-service-modules-for-nasas-orion-spacecraft.
+html.
+21 “Orion ESM,” Airbus, 
+html.
+22 Airbus, “To the Moon! Airbus Delivers Second European Service Module for NASA’s
+Orion Spacecraft,” Press release, October 6, 2021, 
+press-releases/en/2021/10/to-the-moon-airbus-delivers-second-european-ser-
+vice-module-for-nasas-orion-spacecraft.html.
+23 Airbus, “Airbus Selected for ESA’s Moon Lander Study,” Press release, October 14, 2020,
+
+esas-moon-lander-study.html; and Thales Group, “Thales Alenia Space to Provide the
+Study for European Space Agency’s Cis-Lunar Transfer Vehicle - CLTV ,” Press release,
+January 29, 2021, 
+thales-alenia-space-provide-study-european-space-agencys-cis-lunar.
+24 Airbus, “Airbus studies ‘Moon Cruiser’ Concept for ESA’s Cis-Lunar Transfer Vehicle,”
+Press release, January 28, 2021, 
+en/2021/01/airbus-studies-moon-cruiser-concept-for-esas-cislunar-transfer-vehicle.
+html; and Markus Payer, “Airbus Develops Moon Cruiser for ESA for 2027,” SpaceWatch.
+Global, January 29, 2021, 
+cruiser-for-esa-for-2027/.
+25 Markus Payer, “ESA Asks Airbus to Develop Large Logistic Moon Lander,” SpaceWatch.
+Global, October 15, 2020, 
+velop-large-logistic-moon-lander/; and “Get Your Ticket to the Moon: Europe’s First
+Ever Lunar Lander,” ESA, May 29, 2020, 030
+man_and_Robotic_Exploration/Get_your_ticket_to_the_Moon_Europe_s_lunar_land-
+er_for_science_and_more.
+26 Thales Group, “Thales Alenia Space to Provide the Study.”
+27 Andrew Parsonson, “German-Led Team Proposes Spherical Probe to Explore Lunar
+Caves,” Rocket Rundown, March 28, 2021, 
+team-proposes-spherical-probe-to-explore-lunar-caves/.
+28 Thales Group, “Thales Alenia Space on its Way to Reach the Moon,” Press release,
+October 14, 2020, 
+thales-alenia-space-its-way-reach-moon.
+Fly
+Me
+to
+the
+Moon
+
+Kaitlyn
+Johnson
+29 “Thales Alenia Space: At the Heart of Lunar Industrial Challenges,” Thales Group,
+January 7, 2021, 
+nia-space-heart-lunar-industrial-challenges.
+30 CNES, Press Relations Office, “State Visit of President Macron to China—In 2023,
+Chang’e-6 Will Deploy the French DORN Instrument on the Moon to Study the Lunar Exo-
+sphere,” Press release, November 6, 2019, 
+macron-china-2023-change-6-will-deploy-french-dorn-instrument-moon-study-lunar.
+31 “DORN, the French Instrument of the Chang’e 6 Lunar Mission,” Laboratoire Na-
+tional Henri Becquerel, 
+ment-of-the-change-6-lunar-mission/; and “China Aims to Launch Chang’e-6
+Lunar Probe Around 2024,” Xinhua, April 24, 2021, 
+glish/2021-04/24/c_139903600.htm. 031
+32 The author could find no public statements or indications of such plans.
+33 The author could find no public statements or indications of such plans.
+34 “First Measurements of Radiation Levels on the Moon,” Kiel University, September 25,
+2020, For more
+on the Chang’e-4 mission, see .
+35 “Plus Ultra,” Plus Ultra Space, 
+36 Plus Ultra Space, “First Lunar Constellation Satellite to Travel to the Moon in 2023,”
+Press release, October 28, 2021, 
+rocket-factory-augsburg-sign-agreement-for-launch-to-moon-in-2023.
+37 Gunter D. Krebs, “ArgoMoon,” Gunter’s Space Page, 
+sdat/argomoon.htm. Orion is SLS’s crewed spacecraft, which is critical for the Artemis
+program.
+38 Kim Henry, “Getting to Know You, Rocket Edition: Interim Cryogenic Propulsion Stage,”
+NASA, October 30, 2014, 
+stage_141030.html.
+39 Valerio Di Tana, Carlo Fiori, Simone Simonetti, and S. Pirrotta, “ArgoMoon, a Multipur-
+pose CubeSat Platform for Missions in Moon Vicinity and Orbit” (paper presented at Eu-
+ropean Planetary Science Congress, Berlin Germany, September 16–21, 2018), https://
+meetingorganizer.copernicus.org/EPSC2018/EPSC2018-1181.pdf.
+40 “ArgoMoon,” ESA Earth Observation Portal, 
+tal/satellite-missions/content/-/article/argomo-2.
+41 Krebs, “ArgoMoon.”
+42 Jeff Foust, “NASA Signs Agreement with Italy to Cooperate on Artemis,” SpaceNews,
+September 25, 2020, 
+erate-on-artemis/.
+43 Thales Group, “Thales Alenia Space on its Way.”
+44 “Halo: First Component of Gateway Cislunar Space Station Takes Shape,” Thales Group,
+February 15, 2021, 
+component-gateway-cislunar-space-station-takes-shape.
+45 Andrew Parsonson, “Thales Alenia Space Given €296 Million Contract to Build European
+Gateway Module,” SpaceNews, January 8, 2021, 
+space-given-e296-million-contract-to-build-european-gateway-module/.
+46 “Thales Alenia Space: At the Heart,” Thales Group.
+47 Parsonson, “Thales Alenia Space Given €296 Million.”
+48 “SpaceResources.LU Initiative,” Luxembourg Space Agency, 
+public.lu/en/space-resources/the-initiative.html.
+
+49 “Frequently Asked Questions,” Luxembourg Space Agency, 
+lu/en/space-resources/faq.html.
+50 Senjuti Mallick and Rajeswari Pillai Rajagopalan, “If Space is ‘the Province of Mankind’,
+Who Owns its Resources?: An Examination of the Potential of Space Mining and its Legal
+Implications,” Observer Research Foundation, ORF Occasional Paper no. 182, , 
+owns-its-resources-47561/.
+51 Clive Cookson, “Luxembourg Space Programme to Work with NASA on Moon Mining,”
+Financial Times, February 16, 2021, 
+bce4-66f01e16ade4.
+52 Anatoly Zak, “Luna-26 Orbiter,” RussionSpaceWeb.com, 
+com/luna_glob_orbiter.html.
+53 TASS “Luna 25,” NASA; and “Launch of Luna-25 Moon Mission May Be Postponed by
+Another Year, Scientist Says,” Press release, October 10, 2019, 
+ence/1082394.
+54 Zak, “Luna-26 Orbiter”; and “Luna,” ESA.
+55 Jamie Carter, “A Soviet-Era ‘Moon Digger’ Program Is Being Revived to Hunt for Water at
+the Moon’s South Pole,” Forbes, July 26, 2019, 
+tereurope/2019/07/26/what-is-luna-27-a-soviet-era-moon-digger-revived-to-hunt-for-
+water-at-the-moons-south-pole/.
+56 Anatoly Zak, “Luna-Resurs (Luna-27) Lander,” RussionSpaceWeb.com, 
+russianspaceweb.com/luna_resurs_lander.html; and “Luna,” ESA.
+57 Igor Mitrofanov, Lev Zelenyi, and Vladislav Tretyakov, “Luna-28 Mission for Polar Sam-
+ples Return, As the Key Element of the Initial Stage of Russian Lunar Program” (paper
+presented at the 22nd EGU General Assembly, online, May 4–8, 2020), 
+gorganizer.copernicus.org/EGU2020/EGU2020-8739.html?pdf; and TASS, “Launch of
+Luna-25,”.
+58 TASS, “Russia’s Sample Mission to Moon Scheduled for 2026–2027,” Press release,
+October 8, 2019, 
+59 Ibid.
+60 TASS, “Russia’s Oryol New Spacecraft to Make Crewed Flight Around Moon in 2029,”
+Press release, January 28, 2020, 
+61 TASS, “Russian Tech Firm Experimentally Confirms Future Oryol Spacecraft’s Engine
+Characteristics,” Press release, April 12, 2021, 
+62 TASS, “Russia’s Oryol New Spacecraft.”
+63 TASS, “Roscosmos, NASA Look at Possible Docking of Russian Orel Spacecraft to U.S.
+Lunar Gateway,” Press release, October 26, 2021, 
+64 TASS, “Russia to Send More Spacecraft to New National Orbital Station Than to ISS,”
+Press release, November 29, 2021, 032
+65 “Russia Announces Plans to Establish Moon Colony by 2040,” Moscow Times, November
+29, 2018, 
+establish-moon-colony-by-2040-a63557.
+66 “China and Russia Sign a Memorandum of Understanding Regarding Cooperation for
+the Construction of the International Lunar Research Station,” China National Space
+Administration, March 9, 2021, 
+c6811380/content.html.
+67 “First Ukrainian Mission to Moon to Be Carried Out in 2022,” Ukrinform, August 30, 2021,
+
+be-carried-out-in-2022.html.
+Fly
+Me
+to
+the
+Moon
+
+Kaitlyn
+Johnson
+68 The author could find no public statements or indications of such plans. Furthermore,
+Brexit does not affect the United Kingdom’s participation in ESA, as ESA is not an EU
+entity.
+69 “ULA Vulcan Rocket Debut Slips To 2022,” Aviation Week Network, June 18, 2021,
+
+70 “The Walking Rover,” Spacebit, 
+71 Tom Fish, “Moon Mission: British Firm to Make Two Moon Missions in 2021 with Walking
+Lunar Base Rover,” Express, December 10, 2020, 
+ence/1370797/moon-mission-uk-walking-moon-rover-launch-2021-brilliantly-british-
+evg.
+
+72 “Lunar Pathfinder,” SSTL, 
+build/2021/lunar-pathfinder; and “Lunar Pathfinder,” Earth Observation ESA, https://
+directory.eoportal.org/web/eoportal/satellite-missions/l/lunar-pathfinder.
+73 Ibid.; and “Lunar Pathfinder,” SSTL.
+74 “Moon Probe Initial Explorer (MoonPIE),” TCT Aerospace, 
+com/moonpie.
+Indo-Pacific
+75 Australian Space Agency, “Australia and the First Moon Landing,” Australian Govern-
+ment, Department of Industry, Science, Energy, and Resources, July 18, 2019, https://
+
+76 Australian Space Agency, “Moon to Mars: Opportunities for Australian Businesses,” Aus-
+tralian Government, Department of Industry, Science, Energy, and Resources, https://
+
+lian-businesses.
+77 “NASA, Australia Sign Agreement to Add Rover to Future Moon Mission,” NASA, October
+12, 2021, 
+to-future-moon-mission.
+78 The author could find no public statements or indications of such plans.
+79 “Australia’s Mission of Discovery for Earth, the Moon, and Mars,” Seven Sisters, https://
+
+80 “Seven Sisters—Australia’s First Lunar Exploration Mission,” Space Industry Association
+of Australia, December 17, 2020, 
+tralias-first-lunar-exploration-mission/.
+81 “Australian Industry Rallies to Develop a Bold Unifying Space Mission,” Lunar Ascent,
+Press release, December 6, 2020, 
+and Lunar Ascent, “Space Machines Company to Build Australian Spacecraft in Sydney
+as First Customer Signs On for Lunar Ascent Rideshare to the Moon,” Press release,
+December 23, 2020, 
+82 Rachel S. Cohen, “Emerging Lunar Intelligence Field to Shape Space Ops,” Air Force
+Magazine, April 21, 2020, 
+field-to-shape-space-ops/.
+83 “Chang’e-4 Far Side Moon-Landing Mission of China,” ESA Earth Observation Portal,
+
+84 “Chang’e-4 and Yutu-2, China’s Mission to the Moon’s Far Side,” Planetary Society,
+
+85 “Chang’e 5,” NASA, 
+tion?id=2020-087A.
+
+86 Andrew Jones, “China’s Chang’e 6 Mission Will Collect Lunar Samples from the Far Side
+of the Moon by 2024,” Space.com, July 8, 2021, 
+6-moon-sample-return-preparations; and “China Aims to Launch Chang’e-6,” Xinhua.
+87 Lin Xu, Zhaoyu Pei, Yongliao Zou, and Chi Wang, “China’s Lunar and Deep Space Explo-
+ration Program for the Next Decade (2020-2030),” Chinese Journal of Space Science 40,
+no. 5 (): 615–617, doi:10.11728/cjss2020.05.615.
+88 “Chang’e 7,” NASA, 
+tion?id=CHANG-E-7.
+89 “Future Chinese Lunar Missions,” NASA, 
+cnsa_moon_future.html.
+90 Xu, Pei, Zou, and Wang, “China’s Lunar and Deep Space Exploration Program.”
+91 “China and Russia sign a Memorandum of Understanding,” China National Space
+Administration.
+92 Nitin J. Ticku, “France May Join Russia, China In Lunar Space Station Project – Roscos-
+mos,” EurAsian Times, June 9, 2021, 
+china-in-lunar-space-station-project-roscosmos/.
+93 Andrew Jones, “China Is Aiming to Attract Partners for an International Lunar Research
+Station,” SpaceNews, August 21, 2020, 
+tract-partners-for-an-international-lunar-research-station/.
+94 Andrew Jones, “China Displays Crewed Moon Landing Mission Elements,” SpaceNews,
+September 30, 2021, 
+ing-mission-elements/.
+95 Andrew Jones, “China Outlines Architecture for Future Crewed Moon Landings,” Spa-
+ceNews, October 30, 2020, 
+ture-crewed-moon-landings/.
+96 “Exploiting Earth-Moon Space: China’s Ambition After Space Station,” China Daily, March
+8, 2016, 
+97 Kenneth Chang, “A Billion Pixels and the Search for India’s Crashed Moon Lander,” New
+York Times, December 6, 2019, 
+moon-mission-vikram-found.html.
+98 Indian Space Research Organization, “Chandrayaan 2,” Government of India, Depart-
+ment of Space, 
+99 Andrew Jones, “India Revises Gaganyaan Human Spaceflight Plan, Delays Chan-
+drayaan-3,” SpaceNews, February 23, 2021, 
+ganyaan-human-spaceflight-plan-delays-chandrayaan-3/.
+100 Ibid.
+101 India Today Web Desk, “ISRO, Japanese Agency Review Cooperation on 2024 Joint
+Lunar Mission,” India Today, March 13, 2021, 
+isro-jaxa-2024-joint-lunar-polar-satellite-mission-1778755-2021-03-13. 034
+102 Deyana Goh, “Japan’s Plans for the Moon,” SpaceTech Asia, October 13, 2020, https://
+
+103 India Today Web Desk, “ISRO, Japanese Agency Review Cooperation.”
+104 Takeshi Hoshino et al., “Progress of Lunar Polar Exploration Mission” (paper presented
+at 71st International Astronautical Congress, online, October 12–14, 2020), 2, https://
+iafastro.directory/iac/paper/id/55917/abstract-pdf/IAC-20,A3,2B,9,x55917.brief.pdf.
+105 “EQUULEUS and OMOTENASHI,” ESA Earth Observation Portal, 
+tal.org/web/eoportal/satellite-missions/e/equuleus.
+106 Ibid.
+Fly
+Me
+to
+the
+Moon
+
+Kaitlyn
+Johnson
+107 Gunter D. Krebs, “OMOTENASHI,” Gunter’s Space Page, 
+doc_sdat/omotenashi.htm; and Onur Çelik et al., “Overview of Japanese Lunar CubeSats
+OMOTENASHI & EQUULEUS” (presentation at the UN/South Africa Symposium on Basic
+Space Technology, Stellenbosch, South Africa, December 11–15, 2017), 
+unoosa.org/documents/pdf/psa/activities/2017/SouthAfrica/slides/Presentation21.pdf.
+108 “Smart Lander for Investigating Moon (SLIM),” JAXA, 
+sions/spacecraft/developing/slim.html.
+109 Ibid.
+110 Gunter D. Krebs, “SLIM,” Gunter’s Space Page, 
+slim.htm.
+
+111 Hiroshi Sasaki, “JAXA’s Lunar Exploration Activities” (presentation at the 62nd Session of
+the Committee on the Peaceful Uses of Outer Space, Vienna, Austria, June 12–21, 2019),
+ and
+“HTV-X Mission,” JAXA, 
+112 Gunter D. Krebs, “HTV-X 1, 2, 3 (Kotonotori 1, 2, 3),” Gunter’s Space Page, 
+skyrocket.de/doc_sdat/htv-x.htm.
+113 Sasaki, “JAXA’s Lunar Exploration Activities.”
+114 Goh, “Japan’s Plans for the Moon.”
+115 “Space Exploration Innovation Hub Center,” JAXA, 
+english/.
+116 Mike Wall, “Japanese ispace Lander to Carry UAE Moon Rover to Lunar Surface in
+2022,” Space.com, April 14, 2021, 
+lander-2022; and “What is HAKUTO-R?,” ispace, 
+about/.
+117 “Project,” ispace, 
+118 Toyota, “JAXA and Toyota Announce ‘LUNAR CRUISER’ As Nickname for Manned
+Pressurized Rover,” Press release, August 28, 2020, 
+corporate/33208872.html.
+119 Samantha Mathewson, “NASA Selects 9 Scientists to Join 2022 Korea Pathfinder Lunar
+Orbiter Mission,” Space.com, April 5, 2021, 
+rea-pathfinder-lunar-orbiter.
+120 Gunter D. Krebs, “KPLO,” Gunter’s Space Page, accessed January 17, 2022, https://
+space.skyrocket.de/doc_sdat/kplo.htm.
+121 “Delay/Disruption Tolerant Networking Overview,” NASA, November 19, 2020, https://
+
+networking_overview; and Gwanghyeok Ju, “Korean Pathfinder Lunar Orbiter (KPLO)
+Status Update” (presentation at The 2017 Annual Meeting of the Lunar Exploration
+Analysis Group, Columbia, Maryland, October 10–12, 2017), 11, 
+edu/meetings/leag2017/presentations/tuesday/ju.pdf.
+122 “Remarks by President Moon Jae-in at Space Strategy Presentation for Korea Following
+Nuri Thrust Engine Combustion Test,” Republic of Korea Government, March 25, 2021,
+
+123 Thana Boonlert, “For All Mankind: Proposed Law Will Accelerate Thailand’s Space
+Programme, Paving the Way for the Kingdom to Explore Outside Earth’s Atmosphere,”
+Bangkok Post, August 4, 2021, 
+style/2159731/for-all-mankind.
+124 Nattanon Dungsunenarn, “Thailand Announces Its first multi-billion Lunar and Deep
+Space mission,” Spaceth.co, January 20, 2021, 
+its-first-multi-billion-lunar-and-deep-space-mission/.
+
+125 Boonlert, “For All Mankind: Proposed Law Will Accelerate Thailand’s Space Programme.”
+Americas
+126 “About the Lunar Exploration Accelerator Program,” Government of Canada, https://
+
+127 Ibid.
+128 “Contracts Awarded under LEAP,” Government of Canada, 
+eng/funding-programs/programs/leap/contracts-awarded.asp.
+129 “Opportunities at the Canadian Space Agency,” Government of Canada, 
+asc-csa.gc.ca/eng/funding-programs/funding-opportunities/default.asp?filter=lunar.
+130 “ULA Vulcan Rocket Debut Slips To 2022,” Aviation Week Network.
+131 “COLMENA, the Mexican Mission That Will Take Robots to the Moon,” Yucatan Times,
+August 29, 2019, 
+mission-that-will-take-robots-to-the-moon/.
+132 Ibid.; and “UNAM to Send 9 Microrobots to the Moon in 2021,” El Universal, August 28,
+2019, 
+133 The White House, United States Space Priorities Framework (Washington, DC: De-
+cember 2021), 5, 
+ed-States-Space-Priorities-Framework-_-December-1-2021.pdf.
+134 NASA, Public Communications Office, “NASA’s SOFIA Discovers Water on Sunlit Surface
+of Moon,” Press release, October 26, 2020, 
+sofia-discovers-water-on-sunlit-surface-of-moon.
+135 “Laser Beams Reflected Between Earth and Moon Boost Science,” NASA, August 10,
+2020, 
+earth-and-moon-boost-science.
+136 “Artemis,” NASA, 
+137 NASA, Public Communications Office, “NASA Outlines Challenges, Progress for Artemis
+Moon Missions,” Press release, November 9, 2021, 
+nasa-outlines-challenges-progress-for-artemis-moon-missions; Meghan Bartels,
+“NASA’s Artemis 1 moon mission slips to spring 2022 after engine issue,” Space.com, De-
+cember 20, 2021, 
+issue; and Loren Grush (@lorengrush), “NASA is about to give an update on its Artemis
+program—everyone’s on the lookout for timeline changes ahead,” Twitter post, Novem-
+ber 9, 2021, 3:00 p.m., 
+138 Jeff Foust, “NASA foresees gap in lunar landings after Artemis 3,” SpaceNews, January
+20, 2022, 
+139 NASA, The Artemis Accords: Principles for Cooperation in the Civil Exploration and Use
+of the Moon, Mars, Comets, and Asteroids for Peaceful Purposes (Washington, DC:
+), 
+
+cords-signed-13Oct2020.pdf.
+140 Guoyu Wang, “NASA’s Artemis Accords: The Path to a United Space Law or a Divided
+One?,” Space Review, August 24, 2020, 
+and “Russia Compares Trump’s Space Mining Order to Colonialism,” Moscow
+Times, April 7, 2020, 
+pares-trumps-space-mining-order-to-colonialism-a69901.
+141 NASA, NASA’s Lunar Exploration Program Overview (Washington, DC: ), 14,
+
+142 “Gateway,” NASA, 
+Fly
+Me
+to
+the
+Moon
+
+Kaitlyn
+Johnson
+143 “Commercial Lunar Payload Services Overview,” NASA, 
+tent/commercial-lunar-payload-services-overview; and “Polar Resources Ice Mining
+Experiment-1 (PRIME-1),” NASA, October 16, 2020, 
+spacetech/game_changing_development/projects/PRIME-1.
+144 Ibid.
+145 “VIPER,” NASA, 
+146 Jeff Foust, “Astrobotic Selects Falcon Heavy to Launch NASA’s VIPER Lunar Rov-
+er,” SpaceNews, April 13, 2021, 
+con-heavy-to-launch-nasas-viper-lunar-rover/.
+147 NASA, Public Communications Office, “As Artemis Moves Forward, NASA Picks SpaceX
+
+to Land Next Americans on Moon,” Press release, April 16, 2021, 
+press-release/as-artemis-moves-forward-nasa-picks-spacex-to-land-next-americans-
+on-moon; and “More About the Human Landing System Program,” NASA, 
+nasa.gov/content/more-about-the-human-landing-system-program.
+148 NASA, NASA’s Lunar Exploration Program Overview, 10.
+149 “CAPSTONE’s CubeSat Prepares for Lunar Flight,” NASA, August 6, 2021, 
+nasa.gov/feature/ames/capstone-s-cubesat-prepares-for-lunar-flight; and Jeff Foust,
+“CAPSTONE Launch Delayed to ,” SpaceNews, October 13, 2021, 
+cenews.com/capstone-launch-delayed-to-march-2022/.
+150 “Mission to the Moon,” Rocket Lab, 
+151 Matt Williams, “NASA Has Decided to Start Building the Lunar Gateway Using the Falcon
+Heavy,” Universe Today, February 14, 2021, 
+nasa-has-decided-to-start-building-the-lunar-gateway-using-the-falcon-heavy/.
+152 “Lunar Ice Cube,” NASA, 
+action?id=L-ICECUBE; and Miriam Kramer, “Debut Flight of NASA’s Next Big Rocket
+Delayed Until 2022,” Axios, October 22, 2021, 
+tem-launch-2022-0a7f223a-1b7f-4460-87e6-ae7eb1486557.html.
+153 “Lunar Flashlight,” ESA Earth Observation Portal, 
+eoportal/satellite-missions/l/lunar-flashlight.
+154 “Lunar InfraRed Imaging (LunIR),” NASA, 
+display.action?id=LUNIR.
+155 “LunaH-Map,” NASA, 
+NAH-MAP; and “LunaH-Map Spacecraft,” Arizona State University, 
+asu.edu/.
+156 “SIMPLEx Small Satellite Concept Finalists Target Moon, Mars and Beyond,” NASA, June
+19, 2019, 
+mars-and-beyond.
+157 “Getting to the Moon,” Caltech, 
+158 NASA, NASA’s Lunar Exploration Program Overview, 10.
+159 cmwarner, “Lunar Living: NASA’s Artemis Base Camp Concept,” NASA (blog), Octo-
+ber 28, 2020, 
+mis-base-camp-concept/.
+160 Kaplan, Eyes on the Prize; and Brien Flewelling, “Securing Cislunar Space: A Vision for
+U.S. Leadership,” SpaceNews, November 9, 2020, 
+ing-cislunar-space-a-vision-for-u-s-leadership/.
+161 “Memorandum of Understanding between the National Aeronautics and Space Ad-
+ministration, and the United States Space Force,” NASA, , 
+nasa.gov/sites/default/files/atoms/files/nasa_ussf_mou_21_sep_20.pdf.
+
+162 Ibid.
+163 David Buehler et al., “Posturing Space Forces for Operations Beyond GEO,” Space
+Force Journal, January 31, 2021, 
+es-for-operations-beyond-geo/.
+164 “Treaty on Principles Governing the Activities of States in the Exploration and Use of
+Outer Space, including the Moon and Other Celestial Bodies (1967),” United Nations
+Office of Outer Space Affairs, Article IV, 
+spacelaw/treaties/outerspacetreaty.html.
+165 Ibid.
+166 United States Space Force, Space Capstone Publication, Spacepower: Doctrine for Space
+Forces (Washington, DC: United States Space Force, ), 14, 
+force.mil/Portals/1/Space%20Capstone%20Publication_10%20Aug%202020.pdf.
+167 Melissa Maday, “Rhea Space Activity Advances US Ability to Gather Intelligence in Cis-
+lunar Space,” SpaceWatch.Global, April 10, 2020, 
+rhea-space-activity-advances-us-ability-to-gather-intelligence-in-cislunar-space; and
+Aditya Jadhav, “USAF Awards Rhea Space Activity with LUNINT Contract,” Janes, April
+24, 2020, 
+activity-with-lunint-contract.
+168 Sandra Erwin, “Rhea Space Activity to Develop Cislunar Space ‘Dashboard’ for U.S. Air
+Force,” SpaceNews, October 20, 2021, 
+develop-cislunar-space-dashboard-for-u-s-air-force/.
+169 M. J. Holzinger, C. C. Chow, and P. Garretson, A Primer on Cislunar Space (Wright-Patter-
+son AFB, Ohio: Air Force Research Laboratory, ), 
+tals/90/Documents/RV/A%20Primer%20on%20Cislunar%20Space_Dist%20A_PA2021-
+1271.pdf.
+170 Theresa Hitchens, “AFRL Satellite To Track Up To The Moon; Space Force-NASA Tout
+Cooperation,” Breaking Defense, September 21, 2020, 
+com/2020/09/afrl-satellite-to-track-up-to-the-moon-space-force-nasa-tout-coopera-
+tion/.
+171 Theresa Hitchens, “Space Force, AFRL to Demo Mobile Lunar Spy Sat,” Breaking De-
+fense, November 30, 2020, 
+demo-mobile-lunar-spy-sat/.
+172 DARPA, “Orbital Construction: DARPA Pursues Plan for Robust Manufacturing in Space,”
+Press release, February 5, 2021, 
+173 Ibid.
+174 Theresa Hitchens, “DARPA Nuke Sat To Target Cislunar Monitoring Mission,” Breaking
+Defense, April 19, 2021, 
+get-cislunar-monitoring-mission/; and DARPA, “DARPA Selects Performers for Phase 1 of
+Demonstration Rocket for Agile Cislunar Operations (DRACO) Program,” Press release,
+April 12, 2021, 
+
+175 Elizabeth Howell, “US Military Picks 3 Companies to Test Nuclear Propulsion in Cislunar
+Space,” Space.com, April 20, 2021, 
+ar-propulsion-cislunar-space.
+176 Chris Bergin, “ULA Laying the Foundations for an Econosphere in CisLunar Space,”
+NASASpaceFlight.com, March 22, 2018, 
+ula-laying-foundations-econosphere-cislunar-space/.
+177 U.S. Congress, Senate, “Testimony of Salvatore T. ‘Tory’ Bruno President and Chief
+Executive Officer United Launch Alliance, LLC,” Before the Subcommittee on Space,
+Science, and Competitiveness Committee on Commerce, Science, and Transportation,
+115th Cong., 2nd sess., July 25, 2018, 
+default-document-library/ula-bruno-mars-testimony-final.pdf.
+Fly
+Me
+to
+the
+Moon
+
+Kaitlyn
+Johnson
+178 “We’re the Moon Company,” Astrobotic, 
+manifest/.
+179 “Intuitive Machines,” Intuitive Machines, 
+180 Jeff Foust, “Lunar Exploration as a Service: From Landers to Spacesuits, NASA Is Renting
+Rather Than Owning,” SpaceNews, July 5, 2021, 
+tion-as-a-service-from-landers-to-spacesuits-nasa-is-renting-rather-than-owning/.
+181 “dearMoon,” dearMoon, and “The Moon,” SpaceX, https://
+
+Middle East and Africa
+
+182 “About SpaceIL,” SpaceIL, and “Beresheet2,” SpaceIL,
+
+183 Kenneth Chang, “Can Israelis Put Two Landers on the Moon at Once?,” New York
+Times, December 9, 2020, 
+el-moon-beresheet-2.html.
+184 Elizabeth Howell, “Israel Will Aim for the Moon Again in 2024 with Beresheet 2
+mission,” Space.com, December 12, 2020, 
+es-beresheet-2-moon-mission-2024.
+185 Jerusalem Post Staff, “Israeli and Japanese Companies Join Forces in Lunar Industry,”
+Jerusalem Post, July 20, 2021, 
+nese-companies-join-forces-in-lunar-industry-674367.
+186 Suzan Fraser, “Turkey Unveils Space Program Including 2023 Moon Mission,” Asso-
+ciated Press, February 9, 2021, 
+dogan-moon-spacex-europe-a763414e402eb70e78ae2c2a89134f33; Markus Payer,
+“Turkey Wants to Go to the Moon in 2023 and 2028,” SpaceWatch.Global, February 11,
+2021, 
+and-2028/; and Tereza Pultarova, “Turkey Aims to Send Rocket to Moon in Three Years,
+Land Lunar Rover by 2030,” Space.com, June 18, 2021, 
+moon-rover-rocket-plans.
+187 Sarwat Nasir, “UAE Reveals Long-Term Moon Exploration Plan at Global Space Confer-
+ence,” The National, June 17, 2021, 
+uae-reveals-long-term-moon-exploration-plan-at-global-space-conference-1.1242597;
+and Jeff Foust, “UAE to Develop Small Lunar Rover,” SpaceNews, October 6, 2020,
+
+188 Ana De Oliva, “The UAE’s Tiny Lunar Rover Will Face Big Challenges on the Moon,” CNN,
+April 1, 2021, 
+spc-intl-scn/index.html.
+189 Wall, “Japanese ispace Lander to Carry UAE Moon Rover.”
+190 Nasir, “UAE Reveals Long-Term Moon Exploration Plan.”
+Trends across Planned Missions
+191 Jesse Greaves and Daniel Scheeres, “Maneuver Detection for Cislunar Vehicles Using
+Optical Measurements” (paper presented at Advanced Maui Optical and Space Surveil-
+lance Technologies Conference, Maui, Hawaii, September 12–18, 2020), 
+tech.com/TechnicalPapers/2020/Cislunar-SSA/Greaves.pdf.
+192 TASS, “Russia, China Send Invitations to Partners to Joint Lunar Research Station Proj-
+ect,” Press release, May 27, 2021, 
+193 Makena Young, Bad Idea: The Wolf Amendment (Limiting Collaboration with China in
+Space), CSIS, Defense360, December 4, 2019, 
+wolf-amendment-limiting-collaboration-with-china-in-space/.
+
+COVER PHOTO NASA
+1616 Rhode Island Avenue NW
+Washington, DC 20036
+202 887 0200 |

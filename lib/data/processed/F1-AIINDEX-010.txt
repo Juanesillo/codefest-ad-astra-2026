@@ -1,0 +1,1626 @@
+Artificial Intelligence
+Index Report 2025
+CHAPTER 6:
+Policy and Governance
+
+Artificial Intelligence
+Index Report 2025
+Chapter 6: Policy and Governance
+Overview 3
+Chapter Highlights 4
+6.1 Major Global AI Policy News in 2024 5
+6.2 AI and Policymaking 14
+Global Legislative Records on AI 14
+Overview 14
+By Geographic Area 15
+Highlight: A Closer Look at
+Global AI Legislation 16
+US Legislative Records 17
+Federal Level 17
+State Level 18
+Highlight: A Closer Look at
+State-Level AI Legislation 20
+Highlight: Anti-deepfake
+Policymaking 21
+Global AI Mentions 23
+Overview 23
+US Committee Mentions 26
+US Regulations 27
+Overview 27
+By Agency 27
+Highlight: A Closer Look at
+US Federal Regulations 29
+6.3 Public Investment in AI 30
+Total AI Public Investments 31
+Spending Across Agencies and Sectors 38
+Highlight: AI Grant Spending in the US 40
+Appendix 42
+ACCESS THE PUBLIC DATA
+
+AArrttiifificciiaall IInntteelllliiggeennccee
+IInnddeexx RReeppoorrtt 22002255
+CHAPTER 6:
+Policy and Governance
+Overview
+AI’s advancing capabilities have captured policymakers’ attention, leading to an
+increase in AI-related policies worldwide. In recent years, nations and political bodies,
+including the United States and the European Union, have introduced significant
+regulations. More recently, many governments have announced major investments in
+AI infrastructure. This wave of policymaking reflects a growing recognition of the
+need to both regulate AI and harness its transformative potential.
+This chapter explores global AI governance, starting with a timeline of key AI
+policymaking events in 2024. It then examines global and U.S. legislative efforts,
+analyzes AI-related mentions in legislative discussions, and reviews how U.S. regulatory
+agencies have approached AI. The chapter concludes with an analysis of public
+investment in AI in the U.S., with most data sourced independently by the AI Index.
+Chapter 6 Preview 3
+
+AArrttiifificciiaall IInntteelllliiggeennccee
+IInnddeexx RReeppoorrtt 22002255
+CHAPTER 6:
+Policy and Governance
+Chapter Highlights
+1. U.S. states are leading the way on AI legislation amid slow progress at the federal level. In 2016, only one
+state-level AI-related law was passed, increasing to 49 by 2023. In the past year alone, that number more than doubled to 131.
+While proposed AI bills at the federal level have also increased, the number passed remains low.
+2. Governments across the world invest in AI infrastructure. Canada announced a $2.4 billion AI infrastructure
+package, while China launched a $47.5 billion fund to boost semiconductor production. France committed €109 billion to AI
+infrastructure, India pledged $1.25 billion, and Saudi Arabia’s Project Transcendence represents a $100 billion AI investment
+initiative.
+3. Across the world, mentions of AI in legislative proceedings keep rising. Across 75 major countries, AI
+mentions in legislative proceedings increased by 21.3% in 2024, rising to 1,889 from 1,557 in 2023. Since 2016, the total number
+of AI mentions has grown more than ninefold.
+4. AI safety institutes expand and coordinate across the globe. In 2024, countries worldwide launched international
+AI safety institutes. The first emerged in in the U.S. and the U.K. following the inaugural AI Safety Summit.
+At the AI Seoul Summit in , additional institutes were pledged in Japan, France, Germany, Italy, Singapore, South
+Korea, Australia, Canada, and the European Union.
+5. The number of U.S. AI-related federal regulations skyrockets. In 2024, 59 AI-related regulations were
+introduced—more than double the 25 recorded in 2023. These regulations came from 42 unique agencies, twice the 21
+agencies that issued them in 2023.
+6. U.S. states expand deepfake regulations. Before 2024, only five states—California, Michigan, Washington, Texas,
+and Minnesota—had enacted laws regulating deepfakes in elections. In 2024, 15 more states, including Oregon, New Mexico,
+and New York, introduced similar measures. Additionally, by 2024, 24 states had passed regulations targeting deepfakes.
+Chapter 6 Preview 4
+
+Artificial Intelligence
+Index Report 2025
+Chapter 6: Policy and Governance
+6.1 Major Global AI Policy News in 2024
+This chapter begins with an overview of
+some of the most significant AI-related
+policy events in 2024, as selected by the
+AI Index Steering Committee.
+6.1 Major Global AI Policy News in 2024
+Singapore plans to invest $1B in AI over 5 years
+Feb. 21, 2024
+In his budget speech on February 16, Deputy Prime Minister and
+Finance Minister Lawrence Wong announced that the government
+will allocate over $1 billion over the next five years to support AI
+computation, talent development, and industry growth.
+Source: The Straits Times, 2024
+Figure 6.1.1
+Mar. 11, 2024 Abu Dhabi launches $100B AI investment firm
+In , Abu Dhabi established MGX Fund Management
+Limited, a state-owned investment firm specializing in AI
+technologies, with a target of managing $100 billion in assets. This
+initiative aligns with the UAE’s strategic objective to position itself as
+a global leader in AI innovation and technology.
+Source: Bloomberg, 2024
+Figure 6.1.2
+Mar. 13, 2024 Artificial Intelligence Act is passed by European Parliament
+The landmark EU AI Act, the first of its kind, was passed by the
+European Parliament three months after a provisional agreement on
+the bill was reached. The legislation introduces sweeping provisions
+around AI systems, including transparency and reporting obligations,
+risk-based regulations, and bans on certain applications including
+social scoring, human manipulation, and biometric categorization
+that uses “sensitive characteristics.” Most of the Act’s provisions will Source: Time, 2023
+Figure 6.1.3
+come into effect in 2026 after a two-year implementation period.
+The Act is significant for its restrictive nature, building on the already
+stringent EU privacy regulations. It takes a unique approach to
+regulating generative AI, differing from other proposed legislation,
+and has been met with resistance from the industry.
+Chapter 6 Preview 5
+
+Artificial Intelligence
+Index Report 2025
+Chapter 6: Policy and Governance
+6.1 Major Global AI Policy News in 2024
+India drops plan to require government approval for
+Mar. 15, 2024
+launch of new AI models
+Less than a month after issuing an advisory requiring tech firms to
+obtain government approval before launching new AI models, India
+releases revised guidelines for companies’ self-regulation, following
+backlash from entrepreneurs and investors. Under the new guidelines,
+firms must inform users if their models are undertested or unreliable.
+India’s IT Ministry retained its emphasis that AI models should not Source: TechCrunch, 2024
+Figure 6.1.4
+undermine electoral integrity or promote bias and discrimination.
+India launches IndiaAI Mission with $1.25B investment
+Mar. 17, 2024
+In , India launched the IndiaAI Mission to strengthen its
+AI ecosystem. The $1.25 billion initiative aims to build 10,000-plus
+GPUs via public-private partnerships, develop a national nonpersonal
+data platform, and support homegrown AI models and deep-tech
+startups. It also prioritizes ethical AI governance and expanding AI
+labs beyond major cities to democratize access.
+Source: Nature, 2024
+Figure 6.1.5
+French government fines Google 250 million euros over
+Mar. 20, 2024
+use of copyrighted information
+France’s competition watchdog, the Autorité de la Concurrence,
+took a harsh stance toward negligent model training when it fined
+Google 250 million euros for using French news content to train
+Bard, now Gemini, the company’s AI-powered chatbot—without
+notifying media companies. The government cited the offense as a
+breach of EU intellectual property rules, and claimed it prevented Source: NBC News, 2024
+Figure 6.1.6
+publishers and press agencies from negotiating fair prices. Google
+accepted the settlement and proposed a series of measures to
+mitigate scraping issues.
+Chapter 6 Preview 6
+
+Artificial Intelligence
+Index Report 2025
+Chapter 6: Policy and Governance
+6.1 Major Global AI Policy News in 2024
+U.N. General Assembly adopts resolution promoting
+Mar. 21, 2024
+“safe, secure, and trustworthy” AI
+Backed by more than 120 member states, the U.N. General assembly
+adopted a “historic” U.S.-led resolution (although not officially
+legally binding) on the promotion of “safe, secure, and trustworthy”
+artificial intelligence systems. The assembly called on stakeholders
+to ensure that artificial intelligence systems be used in compliance
+with human rights laws, recognizing the role these systems may Source: UN News, 2024
+Figure 6.1.7
+play in accelerating progress toward reaching the U.N.’s Sustainable
+Development Goals. The resolution was supported by more than 120
+states, including China, and endorsed without a vote by all 193 U.N.
+member states.
+Canada pledges CA$2.4B investment to ensure country’s
+Apr. 7, 2024
+AI advantage
+The Canadian Federal Budget for 2024 featured a CA$2.4 billion
+package of measures to “secure Canada’s AI advantage” in the
+midst of an intensifying global race for AI development and
+adoption. Funding would be directed toward a range of initiatives,
+including increasing capabilities and infrastructure for researchers
+and developers, boosting AI startups, helping small and medium Source: Center for International
+Governance Innovation, 2024
+businesses increase productivity through AI, supporting workers Figure 6.1.8
+impacted by AI, and creating a new Canadian AI Safety Institute.
+U.K. AI Safety Institute launches open-source tool for
+May 11, 2024
+assessing AI model safety
+The agency released a toolset, called Inspect, designed to assess AI
+models’ capabilities in a range of areas, including core knowledge,
+ability to reason, and autonomous capabilities. The Institute
+claimed it was the first time an AI safety testing platform had been
+spearheaded by a government-backed body, and made available for
+public use under an open-source license in order to benefit industry, Source: TechCrunch, 2024
+Figure 6.1.9
+research organizations, and academia.
+Chapter 6 Preview 7
+
+Artificial Intelligence
+Index Report 2025
+Chapter 6: Policy and Governance
+6.1 Major Global AI Policy News in 2024
+U.K. and South Korea cohost AI safety summit in Seoul
+May 21, 2024
+At the AI Seoul Summit, attending countries shared the safety
+measures they adopted in line with the Bletchley Declaration,
+which was signed the year prior at the U.K. AI Safety Summit. The
+declaration emphasizes the ethical and responsible development of
+AI. Building on the progress made at the U.K. summit, countries have
+since launched or announced plans for AI safety institutes. In Seoul,
+Source: Center for Strategic and
+these nations took another step forward by signing a letter of intent
+International Studies, 2024
+to establish a collaborative network of institutes, highlighting the Figure 6.1.10
+importance of global cooperation in advancing AI safety.
+China creates country’s largest-ever state-backed
+May 27, 2024
+investment fund to back its semiconductor industry
+China launched a fund worth $47.5 billion to boost semiconductor
+production. The launch marks the third phase of China’s “Big Fund,”
+which has supported the industry’s development since 2014,
+including crucial investments into the country’s two largest chip
+foundries. The move comes amid rising U.S. export controls on
+critical technologies like semiconductors that underpin hardware Source: Reuters, 2024
+Figure 6.1.11
+components like GPUs used to train AI systems.
+European Commission establishes AI Office
+May 28, 2024
+Over three years after the EU AI Act was proposed, the European
+Commission unveils its cornerstone. The AI Office will play a key role
+in implementing the Act, enforcing standards for general-purpose
+AI models, coordinating the development of codes of practice, and
+applying sanctions for offenses under the Act. With over 140 staff
+members, the body consists of five units dedicated to different AI-
+related goals, including promoting societal good through AI and Source: Center for Strategic and
+International Studies, 2024
+pursuing excellence in AI and robotics.
+Figure 6.1.12
+Chapter 6 Preview 8
+
+Artificial Intelligence
+Index Report 2025
+Chapter 6: Policy and Governance
+6.1 Major Global AI Policy News in 2024
+U.S. NIST unveils framework to help organizations
+Jun. 26, 2024
+identify and mitigate GenAI risks
+The National Institute of Standards and Technology (NIST) launches
+a voluntary framework to help organizations identify unique
+risks posed by generative AI and recommends a series of actions
+for mitigating those risks. The framework extends the NIST AI
+Risk Management Framework released in 2023. Recommended
+actions include determining AI risk tolerance and respective risk Source: FedScoop, 2024
+Figure 6.1.13
+management needs, establishing clear responsibilities for managing
+AI risks, and involving nondeveloper experts in regular assessment
+and updates. The framework followed the release of a NIST
+document on adversarial machine learning outlining a taxonomy of
+attack types, the effects of such attacks, and mitigation strategies.
+U.S. State Department releases AI Risk Management
+Jul. 25, 2024
+Profile for Human Rights
+The U.S. State Department designed the Risk Management Profile for
+Artificial Intelligence and Human Rights as a guide for governments,
+businesses, and civil society to align AI risk management with
+human rights protections. Built on the NIST AI Risk Management
+Framework, the Profile outlines four key functions—govern, map,
+measure, and manage—to assess and mitigate AI risks, from bias to
+misuse for surveillance. By bridging AI governance and human rights,
+it provides a globally applicable tool for responsible AI development Source: U.S. Department of State, 2024
+Figure 6.1.14
+and deployment.
+U.K. withdraws £1.3B promised for technology and
+Aug, 2, 2024
+AI infrastructure
+The U.K.’s Labour government canceled £1.3 billion in funding
+promised for technology and AI projects, explaining that the
+commitments made by the previous government had been
+“underfunded.” Announced in 2023, the projects included £500
+million for the AI Research Resource, which funds computing power,
+and £800 million for the creation of the University of Edinburgh’s Source: BBC, 2024
+Figure 6.1.15
+exascale supercomputer.
+Chapter 6 Preview 9
+
+Artificial Intelligence
+Index Report 2025
+Chapter 6: Policy and Governance
+6.1 Major Global AI Policy News in 2024
+U.S. White House launches task force on AI data center
+Sep. 13, 2024
+infrastructure
+A White House meeting brought together federal officials and
+technology executives to discuss securing power sources for robust
+data center infrastructure critical to AI models. Executives from
+OpenAI, Anthropic, Amazon Web Services, Nvidia, and Alphabet
+were present. A White House press release emphasized that
+advancing AI development in the U.S. is vital for national security Source: FedScoop, 2024
+Figure 6.1.16
+and ensuring AI systems are safe, secure, and trustworthy. The
+newly formed AI data center infrastructure task force will identify
+opportunities and work with agencies to prioritize the development
+of AI data centers.
+California governor signs three bills on AI and elections
+Sep. 17, 2024
+communications
+Ahead of the 2024 San Francisco mayoral election, Governor Gavin
+Newsom announced the signing of three bills into law aimed at
+combating deepfake election content. AB 2655, AB 2839, and AB
+2355 require large online platforms to remove or label digitally
+Source: The Wall Street Journal, 2024
+altered election content during specified periods, expand the time Figure 6.1.17
+frame for prohibiting the distribution of deceptive AI-generated
+election content, and mandate that electoral ads using AI-generated
+or altered content include appropriate disclosures, respectively.
+United Nations adopts Global Digital Compact to ensure
+Sep. 22, 2024
+an inclusive and secure digital future
+During the Summit of the Future, U.N. member states adopted the
+Global Digital Compact, aiming to establish an inclusive, open,
+sustainable, fair, safe, and secure digital future for all. The Compact
+emphasizes objectives such as closing digital divides, expanding
+benefits from the digital economy, fostering a digital space that
+respects human rights, advancing equitable data governance, and
+Source: United Nations, 2024
+enhancing international governance of artificial intelligence. Guided Figure 6.1.18
+by principles anchored in international law and human rights,
+the Compact seeks to harness digital technologies to accelerate
+progress toward the Sustainable Development Goals.
+Chapter 6 Preview 10
+
+Artificial Intelligence
+Index Report 2025
+Chapter 6: Policy and Governance
+6.1 Major Global AI Policy News in 2024
+California governor vetoes expansive AI legislation
+Sep. 29, 2024
+Governor Gavin Newsom vetoed California’s AI safety bill, which
+would have set a national precedent for AI regulation, given the
+state’s role as home to many leading AI companies. The bill sought
+to mandate safety testing for frontier AI models before their public
+release and would have allowed the state attorney general to sue
+companies over AI-related harm. Supporters argued it was a nec-
+Source: Financial Times, 2024
+essary step to ensure AI safety and accountability, while critics con-
+Figure 6.1.19
+tended it was overly restrictive and could stifle AI development, es-
+pecially of the open-weight AI ecosystem. Given California’s status
+as the world’s fifth-largest economy, the bill’s impact could have
+extended beyond state borders, akin to the Brussels effect, shaping
+AI governance nationally and internationally. Newsom defended his
+veto, arguing the bill imposed excessive standards.
+U.S. judge blocks new California AI law over
+Oct. 2, 2024
+Kamala Harris deepfake
+A federal judge in California issued a temporary injunction on one
+of the state’s new AI laws just two weeks after it was signed. In his
+ruling, Judge Mendez cited the law’s vague definition of “harmful”
+depictions as a potential threat to constitutionally protected speech.
+The law had been used to prosecute an X user after he had posted a
+deepfake featuring Kamala Harris.
+Source: Los Angeles Times, 2024
+Figure 6.1.20
+Saudi Arabia announces “Project Transcendence”
+Nov. 8, 2024
+In , Saudi Arabia announced Project Transcendence,
+a $100 billion AI initiative aimed at establishing the kingdom as a
+global tech hub. Spearheaded by the Public Investment Fund, the
+project includes a partnership with Alphabet, Google’s parent
+company, involving an investment between $5 billion and $10
+Source: Telecom Review, 2024
+billion to develop Arabic-language AI models. This initiative aligns Figure 6.1.21
+with Saudi Arabia’s Vision 2030, which focuses on diversifying the
+region’s economy beyond oil and becoming a meaningful hub of AI.
+Chapter 6 Preview 11
+
+Artificial Intelligence
+Index Report 2025
+Chapter 6: Policy and Governance
+6.1 Major Global AI Policy News in 2024
+European Commission AI Office releases first draft of
+Nov. 14, 2024
+Code of Practice for General-Purpose AI
+The European AI Office issued the first of four drafts for the General-
+Purpose AI Code of Practice. This code was developed by four
+working groups of independent experts, focusing on transparency
+and copyright, risk identification and assessment, risk mitigation,
+and internal governance. Once finalized, the code will complement
+Source: European Union, 2024
+the AI Act, allowing AI model providers to demonstrate compliance
+Figure 6.1.22
+until a finalized standard is published.
+U.S. launches international AI safety network with
+Nov. 25, 2024
+global partners
+In , the U.S. Department of Commerce and the
+U.S. Department of State cohosted the inaugural meeting of the
+International Network of AI Safety Institutes in San Francisco. This
+initiative aims to improve global coordination on safe AI innovation,
+focusing on managing synthetic content risks, testing foundation
+models, and conducting risk assessments for advanced AI systems.
+Source: AP, 2024
+The United States serves as the inaugural chair, with initial members Figure 6.1.23
+including Australia, Canada, the European Union, France, Japan,
+Kenya, the Republic of Korea, Singapore, and the United Kingdom.
+The network has secured over $11 million in global research funding
+commitments to support its efforts.
+U.S. increases export controls of semiconductor
+Dec. 2, 2024
+manufacturing equipment and software to China
+The U.S. Department of Commerce’s Bureau of Industry and Security
+further limited China’s ability to produce advanced semiconductors
+by announcing new export controls. These measures include
+restrictions on 24 types of semiconductor manufacturing
+equipment, three types of software tools, and additional limitations. Source: CNBC, 2024
+Figure 6.1.24
+The secretary of commerce emphasized the importance of these
+measures in safeguarding U.S. national security.
+Chapter 6 Preview 12
+
+Artificial Intelligence
+Index Report 2025
+Chapter 6: Policy and Governance
+6.1 Major Global AI Policy News in 2024
+U.N. Security Council debates uses of AI in conflicts and
+Dec. 19, 2024
+calls for global framework
+On Dec. 19, 2024, the United Nations Security Council convened to
+address the challenges posed by AI in military contexts. Secretary-
+General António Guterres emphasized that AI’s rapid evolution is
+outpacing current governance frameworks, potentially undermining
+human control over weapons systems. He called for “international
+Source: Berkeley Political Review, 2016
+guardrails” to ensure AI’s safe and inclusive use. These discussions
+Figure 6.1.25
+continue amid reports of widespread autonomous drone and robot
+use in the ongoing war in Ukraine.
+Chapter 6 Preview 13
+
+Artificial Intelligence
+Index Report 2025
+Chapter 6: Policy and Governance
+6.2 AI and Policymaking
+6.2 AI and Policymaking
+Global Legislative Records on AI
+Overview
+The AI Index analyzed legislation containing the term AI-related laws enacted since 2016. The total number of
+“artificial intelligence” in 114 countries from 2016 to 2024.1 AI-related laws passed rose from 30 in 2023 to 40 in 2024,
+Of these, 39 countries have enacted at least one AI-related making 2024 the second-highest year on record after 2022.
+law (Figure 6.2.1).2 In total, the countries have passed 204 Since 2016, the number of AI-related laws passed has grown
+AI-related laws. Figure 6.2.2 illustrates the annual count of from just one to 40.
+Number of AI-related bills passed into law by country, 2016–24
+Source: AI Index, 2025 | Chart: 2025 AI Index report
+
+1–5
+6–10
+11–15
+16–30
+No available data
+Figure 6.2.1
+1 The analysis may undercount the number of actual laws passed, given that large bills that are proposed can include multiple sections related to AI. For example, the National Defense
+Authorization Act is introduced as a single omnibus bill but includes a collection of smaller bills that were originally proposed individually and later consolidated into one single comprehensive bill.
+2 The AI Index monitored AI-related laws passed in Hong Kong and Macao, despite these not being officially recognized countries. Thus, the Index covers a total of 116 geographic areas.
+Laws passed by Hong Kong and Macao were counted in the overall tally of AI-related laws. This year, the Index decreased its country sample compared to previous years, due to issues
+accessing the legislative databases of certain nations. As a result, there is a difference between the number of AI-related laws reported this year and those in prior reports.
+Chapter 6 Preview 14
+
+Artificial Intelligence
+Index Report 2025
+Chapter 6: Policy and Governance
+6.2 AI and Policymaking
+
+2016 2017 2018 2019 2020 2021 2022 2023 2024
+Chapter 6 Preview 15
+dessap
+sllib
+detaler-IA
+fo
+rebmuN
+Number of AI-related bills passed into law in 116 select geographic areas, 2016–24
+Source: AI Index, 2025 | Chart: 2025 AI Index report
+
+Figure 6.2.2
+By Geographic Area
+Figure 6.2.3 highlights the number of AI-related laws enacted each. Figure 6.2.4 displays the total number of AI-related
+in 2024 across the top 15 geographic areas. Russia led with laws passed since 2016, with the United States leading at 27,
+seven laws, followed by Belgium and Portugal with five followed by Portugal and Russia, each with 20.3
+Number of AI-related bills passed into law in select Number of AI-related bills passed into law in select
+geographic areas, 2024 geographic areas, 2016–24 (sum)
+Source: AI Index, 2025 | Chart: 2025 AI Index report Source: AI Index, 2025 | Chart: 2025 AI Index report
+Russia 7 United States 27
+Belgium 5 Portugal 20
+Portugal 5 Russia 20
+United States 4 Belgium 18
+Hong Kong 2 South Korea 13
+Latvia 2 Spain 11
+South Korea 2 Italy 10
+United Kingdom 2 United Kingdom 10
+Australia 1 France 9
+Austria 1 Austria 7
+Bahamas 1 Philippines 6
+Barbados 1 China 4
+China 1 Germany 4
+France 1 Japan 4
+Germany 1 Andorra 3
+0 1 2 3 4 5 6 7 0 2 4 6 8 10 12 14 16 18 20 22 24 26 28
+Number of AI-related bills passed Number of AI-related bills passed
+Figure 6.2.3 Figure 6.2.4
+3 For concision, Figure 6.2.3 and Figure 6.2.4 display data for the top 15 geographic areas by count. Complete country-level totals will be available in the summer 2025 update of the Global AI
+Vibrancy Tool. For immediate access, please contact the AI Index team.
+
+Artificial Intelligence
+Index Report 2025
+Chapter 6: Policy and Governance
+6.2 AI and Policymaking
+Highlight:
+A Closer Look at Global AI Legislation
+The following subsection delves into some of the AI-related legislation passed into law during 2024. Figure 6.2.5 samples
+five countries’ laws covering a range of AI-related issues.
+Country Bill name Description
+Austria Federal law amending the This act establishes a Service Center for Artificial Intelligence
+KommAustria Act and the to support, advise, and coordinate AI governance in the media,
+Telecommunications Act 2021 telecommunications, and postal sectors. It mandates an AI advisory
+board to monitor AI developments, advise the government, and
+help shape national AI policy. The Service Center must maintain
+an information portal on AI projects, particularly publicly funded
+ones. It also provides guidance on AI regulation, cybersecurity, and
+compliance. To fund these activities, €700,000 is allocated annually,
+with future adjustments based on inflation.
+Belgium Royal decree establishing an This act creates a federal AI steering committee to advise the
+orientation committee on artificial government on AI-related policies and serve as the primary point
+intelligence of contact for AI governance. The committee, composed of
+representatives from ministries and public institutions, meets regularly
+to provide recommendations and coordinate AI policy across Belgium.
+France LAW No. 2021-1382 of October This law establishes the Regulatory Authority for Audiovisual and
+25, 2021, relating to the regulation Digital Communication (ARCOM) by merging the Higher Audiovisual
+and protection of access to cultural Council (CSA) and the High Authority for the Distribution of Works
+works in the digital age4 and the Protection of Rights on the Internet (HADOPI). It strengthens
+measures against online piracy and enhances the regulation of digital
+platforms to safeguard access to cultural content in the digital space.
+The law also references artificial intelligence as a tool ARCOM can
+use to monitor and regulate digital platforms, particularly for detecting
+copyright infringements and combating online piracy.
+Latvia Amendments to the Pre-election This act regulates the use of AI in political advertising, requiring clear
+Campaigning Law disclosure for AI-generated content in paid campaign materials. It also
+bans the use of automated systems with fake or anonymous social
+media profiles for election campaigns.
+Russia On Amendments to the Federal This act establishes a framework for processing and sharing
+Law “On Personal Data” and the anonymized personal data to support AI development in government
+Federal Law “On Conducting an operations. It regulates AI-driven decision making, sets security
+Experiment to Establish Special standards for biometric data, and restricts foreign access to sensitive
+Regulations for Creating Necessary AI-related datasets.
+Conditions for the Development
+and Implementation of Artificial
+Intelligence Technologies in the
+Constituent Entity of the Russian
+Federation – the Federal City of
+Moscow,” and on Amendments to
+Articles 6 and 10 of the Federal Law
+“On Personal Data”
+Figure 6.2.5
+4 Law No. 2024-449, passed in 2024, amends Law No. 2021-1382—originally enacted in 2021 and updated in 2024 to include AI—by broadening its scope to cover artificial intelligence and
+authorizing ARCOM to utilize AI.
+Chapter 6 Preview 16
+
+Artificial Intelligence
+Index Report 2025
+US Legislative Records
+Federal Level
+Figure 6.2.6 illustrates the total number of passed versus has almost tripled. Still, of all AI-related bills being proposed,
+proposed AI-related bills in the U.S. Congress and relatively few are passed. The significant increase in U.S.
+demonstrates a significant increase in proposed legislation.5 In AI-related legislative activity likely reflects policymakers’
+the last year, the count of proposed AI-related bills continued response to the increasing public awareness and capabilities
+to rise, increasing from 171 in 2023 to 221 in 2024. Since of AI technologies, particularly generative AI.6
+2022, the number of proposed U.S. federal AI-related bills
+
+2016 2017 2018 2019 2020 2021 2022 2023 2024
+Chapter 6 Preview 17
+sllib
+detaler-IA
+fo
+rebmuN
+Chapter 6: Policy and Governance
+6.2 AI and Policymaking
+Number of congressional AI-related proposed bills and passed laws in the United States, 2016–24
+Source: AI Index, 2025 | Chart: 2025 AI Index report
+221, Proposed
+4, Passed
+Figure 6.2.6
+5 A bill is passed when it successfully clears both chambers of Congress: the House and the Senate.
+6 This section covers only congressional bills. However, U.S. AI policymaking extends beyond Congress to other bodies, including the Executive Branch—such as President Donald Trump’s
+Stargate announcement—and rules coming from regulatory agencies like the FTC.
+
+Artificial Intelligence
+Index Report 2025
+Chapter 6: Policy and Governance
+6.2 AI and Policymaking
+State Level Number of AI-related bills passed into law in select
+US states, 2024
+The AI Index also tracks data on the enactment of AI-
+Source: AI Index, 2025 | Chart: 2025 AI Index report
+related legislation at the state level. Figure 6.2.7 highlights California 22
+the number of AI-related laws enacted by U.S. states in Utah 12
+2024. According to the AI Index tracking methodology, Maryland 8
+Virginia 6
+California leads with 22 laws, followed by Utah with 12 and
+Illinois 5
+Maryland with eight. Figure 6.2.8 displays the total amount
+New Hampshire 5
+of legislation passed by states from 2016 to 2024. California New York 5
+again tops the ranking with 42 bills, followed by Maryland Alabama 4
+(17), Virginia (17), and Utah (17). Arizona 4
+Colorado 4
+Florida 4
+Massachusetts 4
+Mississippi 4
+Tennessee 4
+Idaho 3
+0 2 4 6 8 10 12 14 16 18 20 22
+Number of AI-related bills passed
+Figure 6.2.7
+Number of state-level AI-related bills passed into law in the
+United States by state, 2016 24 (sum)
+Source: AI Index, 2025 | Chart: 2025 AI Index report
+AK ME
+0 1
+VT NH MA
+7 6 11
+WA MT ND SD MN WI MI NY CT RI
+11 0 3 1 4 2 7 8 3 0
+OR ID WY NE IA IL IN OH PA NJ
+2 4 1 1 4 11 4 2 3 3
+CA NV UT CO KS MO KY WV MD DE
+42 2 17 7 0 0 2 4 17 1
+AZ NM OK AR TN VA NC
+5 3 0 0 4 17 6
+TX LA MS AL GA SC
+5 4 6 7 3 1
+HI FL
+4 9
+Figure 6.2.8
+Chapter 6 Preview 18
+
+Artificial Intelligence
+Index Report 2025
+Since 2016, the number of state-level AI-related laws has rapidly increased. Only one such bill was passed in 2016, rising to 49
+by 2023. In the past year alone, that number more than doubled to 131 (Figure 6.2.9).
+
+2016 2017 2018 2019 2020 2021 2022 2023 2024
+Chapter 6 Preview 19
+dessap
+sllib
+detaler-IA
+fo
+rebmuN
+Chapter 6: Policy and Governance
+6.2 AI and Policymaking
+Number of AI-related bills passed into law by all US states, 2016–24
+Source: AI Index, 2025 | Chart: 2025 AI Index report
+
+Figure 6.2.9
+
+Artificial Intelligence
+Index Report 2025
+Chapter 6: Policy and Governance
+6.2 AI and Policymaking
+Highlight:
+A Closer Look at State-Level AI Legislation
+The following subsection highlights some of the AI-related legislation passed into law at the state level during 2024.
+The Index profiles legislation from states like California and New York, major hubs for AI companies, alongside states
+like Alabama and Colorado, which play a smaller role in the industry. This approach highlights the diverse concerns
+shaping AI legislation at the state level (Figure 6.2.10).
+State Bill name Description
+Alabama Relating to elections; to provide This bill prohibits the distribution of AI-generated deceptive media
+that distribution of materially within 90 days of an election if intended to mislead voters or harm a
+deceptive media is a crime candidate, with penalties ranging from a misdemeanor to a felony for
+repeat offenses. Exceptions apply for media with clear disclaimers,
+news reporting, and satire, while violations can result in misdemeanor
+or felony charges, and affected parties may seek legal action.
+California California AI Transparency Act This act requires large AI providers to offer free AI detection
+tools and ensure AI-generated content includes clear, permanent
+disclosures. Violations result in a $5,000 fine per instance, with
+enforcement by the attorney general or local authorities.
+Colorado Consumer Protections for This bill establishes consumer protections for interactions with
+Artificial Intelligence7 high-risk AI systems, requiring developers and deployers to prevent
+algorithmic discrimination. AI systems must provide transparency,
+allow consumers to correct or appeal AI-driven decisions, and
+undergo regular impact assessments.
+Massachusetts An Act to Provide for the Future This act allocates $1.26 billion to modernize information technology,
+Information Technology Needs of cybersecurity, and broadband infrastructure across Massachusetts.
+Massachusetts It includes $25 million to integrate AI and machine learning into
+state government operations, enhancing automation, efficiency, and
+cybersecurity.
+New York An Act to Amend the General This act requires social media companies to publicly disclose
+Business Law, in Relation to their terms of service for each platform they own or operate in a
+Requiring Disclosure of Certain clear and accessible manner. It also mandates submitting terms of
+Social Media Terms of Service service reports to the attorney general and imposes penalties for
+noncompliance.
+Figure 6.2.10
+7 This bill is colloquially known as the “Colorado AI Act.”
+Chapter 6 Preview 20
+
+Artificial Intelligence
+Index Report 2025
+Chapter 6: Policy and Governance
+6.2 AI and Policymaking
+Highlight:
+Anti-deepfake Policymaking
+States in the U.S. have been particularly active in passing when states enacted laws to regulate AI deepfakes
+legislation to combat deepfakes. A deepfake is AI- in elections. Before 2024, five states—California,
+generated synthetic media that manipulates or replaces Washington, Texas, Michigan, and Minnesota—had
+a person’s likeness in video, audio, or images, often passed such laws. In 2024, 12 more states, including
+creating realistic but deceptive content. Deepfakes Oregon, New Mexico, and New York, introduced similar
+can be used to manipulate election outcomes, as regulations.
+discussed in Chapter 3 of this year’s AI Index, or to
+generate explicit images. The nonprofit Public Citizen State-level regulations against intimate deepfakes
+maintains a database tracking AI deepfake regulations, are far more widespread than those against election
+covering both election-related misuse and intimate misuse. A total of 25 states have enacted laws covering
+image misuse. Figure 6.2.11 illustrates the number of all individuals, while five states have passed regulations
+state-level laws passed in the United States over time, that apply only to minors (Figure 6.2.13). Wyoming and
+encompassing anti-deepfake regulations related to Ohio are the only states yet to implement any form of
+elections and intimate images.8 Figure 6.2.12 highlights intimate deepfake regulation.
+
+2019 2020 2021 2022 2023 2024
+Figure 6.2.11
+Chapter 6 Preview 21
+detcane
+swal
+level-etats
+fo
+rebmuN
+Number of state-level laws enacted on AI-generated deepfakes in intimate imagery and elections in the
+United States, 2019–24
+Source: Public Citizen, 2025 | Chart: 2025 AI Index report
+36, Intimate imagery
+20, Elections
+8 In some cases, the AI Index could not verify the enactment dates of certain state-level AI-related anti-deepfake laws tracked by Public Citizen. Figure 6.2.11 includes only those bills with
+confirmed passage dates.
+
+Artificial Intelligence
+Index Report 2025
+Chapter 6: Policy and Governance
+6.2 AI and Policymaking
+Highlight:
+Anti-deepfake Policymaking (cont’d)
+State-level laws regulating AI-generated deepfakes in elections
+in the US by state and status as of 2024
+Source: Public Citizen, 2025 | Chart: 2025 AI Index report
+AK ME
+VT NH MA
+WA MT ND SD MN WI MI NY CT RI
+OR ID WY NE IA IL IN OH PA NJ
+CA NV UT CO KS MO KY WV MD DE
+AZ NM OK AR TN VA NC
+TX LA MS AL GA SC
+HI FL
+Enacted pre-2024
+Enacted in 2024
+Legislation pending
+No legislation enacted
+Figure 6.2.12
+State-level laws regulating AI-generated deepfakes in intimate imagery
+in the US by state and status as of 2024
+Source: Public Citizen, 2025 | Chart: 2025 AI Index report
+AK ME
+VT NH MA
+WA MT ND SD MN WI MI NY CT RI
+OR ID WY NE IA IL IN OH PA NJ
+CA NV UT CO KS MO KY WV MD DE
+AZ NM OK AR TN VA NC
+TX LA MS AL GA SC
+HI FL Enacted (covers everyone)
+Enacted (covers minors only)
+Legislation pending (covers everyone)
+Legislation pending (covers minors only)
+No legislation enacted
+Figure 6.2.13
+Chapter 6 Preview 22
+
+Artificial Intelligence
+Index Report 2025
+1,800
+1,600
+1,400
+1,200
+1,000
+
+2016 2017 2018 2019 2020 2021 2022 2023 2024
+Chapter 6 Preview 23
+snoitnem
+fo
+rebmuN
+Chapter 6: Policy and Governance
+6.2 AI and Policymaking
+Global AI Mentions
+Another barometer of legislative interest is the number Overview
+of mentions of artificial intelligence in governmental and Figure 6.2.14 shows the total number of legislative sessions
+parliamentary proceedings. The AI Index conducted worldwide that have mentioned AI since 2016. In the past
+an analysis of the minutes or proceedings of legislative year, AI mentions rose by 21.3%, increasing from 1,557 in
+sessions in 73 countries that contain the keyword “artificial 2023 to 1,889. Since 2016, the total number of AI mentions
+intelligence” from 2016 to 2024.9 has grown more than ninefold.
+Number of mentions of AI in legislative proceedings in 75 select geographic areas, 2016–24
+Source: AI Index, 2025 | Chart: 2025 AI Index report
+1,889
+Figure 6.2.14
+9 The full list of analyzed countries is available in the Appendix. The AI Index research team aimed to review governmental and parliamentary proceedings worldwide, but publicly accessible
+databases were not available for all countries. This year, the Index slightly adjusted its tracking methodology, resulting in minor differences from previous totals. More specifically, mentions
+are counted by session, so multiple mentions of AI in the same legislative session count as one mention. The full methodology is detailed in the Appendix. Additionally, the AI Index tracked
+mentions in Macao and Hong Kong. While not officially countries, their mentions were included in the tally presented in Figure 6.2.14. In total, the Index tracked AI mentions across 75
+geographic areas.
+
+Artificial Intelligence
+Index Report 2025
+Chapter 6: Policy and Governance
+6.2 AI and Policymaking
+In 2024, Spain led in AI mentions within its legislative proceedings (314), followed by Ireland (145) and Australia (123) (Figure
+6.2.15). Of the 75 geographic areas analyzed, 57 referenced AI in at least one legislative proceeding in 2024.
+Number of mentions of AI in legislative proceedings by country, 2024
+Source: AI Index, 2025 | Chart: 2025 AI Index report
+
+1–55
+56–120
+121–250
+251–315
+No available data Figure 6.2.15
+When legislative mentions are aggregated from 2016 to 2024, a somewhat similar trend emerges (Figure 6.2.16). Spain is first
+with 1,200 mentions, followed by the United Kingdom (710) and Ireland (659).
+Number of mentions of AI in legislative proceedings by country, 2016–24 (sum)
+Source: AI Index, 2025 | Chart: 2025 AI Index report
+
+1–220
+221–440
+441–660
+661–890
+891–1,200
+Figure 6.2.16
+No available data
+Chapter 6 Preview 24
+
+Artificial Intelligence
+Index Report 2025
+25 United States
+Portugal
+20 Russia
+Belgium
+
+Spain
+South Korea Italy United Kingdom
+10 France
+Philippines
+
+Hong Kong Japan
+Brazil Canada Australia
+India
+0 Iceland
+0 100 200 300 400 500 600 700 800 900 1,000 1,100 1,200
+Number of AI mentions
+Chapter 6 Preview 25
+wal
+otni
+dessap
+sllib
+detaler-IA
+fo
+rebmuN
+Chapter 6: Policy and Governance
+6.2 AI and Policymaking
+Drawing on data from select countries, Figure 6.2.17 compares discussion of AI correlates with more AI legislation—although
+AI mentions in parliamentary discussions with the number some countries, such as Belgium, Portugal, and Russia,
+of AI-related bills passed. In general, greater parliamentary deviate from this trend.
+Mentions of AI in legislative proceedings vs. AI-related bills passed into law in select countries, 2016–24
+Source: AI Index, 2025 | Table: 2025 AI Index report
+China
+Germany
+Barbados
+Liechtenstein
+Andorra
+Latvia Slovenia
+Panama
+Figure 6.2.17
+
+Artificial Intelligence
+Index Report 2025
+
+107th 108th 109th 110th 111th 112th 113th 114th 115th 116th 117th 118th
+(2001–02) (2003–04) (2005–06) (2007–08) (2009–10) (2011–12) (2013–14) (2015–16) (2017–18) (2019–20) (2021–22) (2023–24)
+Chapter 6 Preview 26
+snoitnem
+fo
+rebmuN
+Chapter 6: Policy and Governance
+6.2 AI and Policymaking
+US Committee Mentions
+Mentions of artificial intelligence in committee reports by Figure 6.2.18 tracks AI mentions in U.S. committee reports
+House and Senate committees serve as another indicator by legislative session from 2001 to 2024. The 118th session
+of legislative interest in AI in the United States. Typically, recorded the highest count to date, with 136 mentions—up
+these committees focus on legislative and policy issues, 83.8% from the 117th session.
+investigations, and internal matters.
+Mentions of AI in US committee reports by legislative session, 2001–24
+Source: AI Index, 2025 | Chart: 2025 AI Index report
+
+Figure 6.2.18
+
+Artificial Intelligence
+Index Report 2025
+
+2016 2017 2018 2019 2020 2021 2022 2023 2024
+Chapter 6 Preview 27
+snoitaluger
+detaler-IA
+fo
+rebmuN
+Chapter 6: Policy and Governance
+6.2 AI and Policymaking
+US Regulations
+The advent of AI has garnered significant attention from This section examines AI-related regulations enacted by
+regulatory agencies—federal bodies tasked with regulating American regulatory agencies between 2016 and 2024. It
+sectors of the economy and steering the enforcement of provides an analysis of the total number of regulations, as
+laws. This section examines AI regulations within the United well as their topics, scope, regulatory intent, and originating
+States. Unlike legislation, which establishes legal frameworks agencies. To compile this data, the AI Index performed a
+within nations, regulations are detailed directives crafted keyword search for “artificial intelligence” on the Federal
+by executive authorities to enforce legislation. In the Register, a comprehensive repository of government
+United States, prominent regulatory agencies include documents from nearly all branches of the American
+the Environmental Protection Agency (EPA), Food and government, encompassing more than 436 agencies.
+Drug Administration (FDA), and Federal Communications
+Commission (FCC). Since the specifics of legislation often Overview
+manifest through regulatory actions, understanding the AI The number of AI-related regulations has risen sharply over
+regulatory landscape is essential to developing a deeper the past six years, with a particularly noticeable increase in
+understanding of AI policymaking. the last year (Figure 6.2.19). In 2024, 59 AI-related regulations
+were introduced—more than double the 25 recorded in 2023.
+Number of AI-related regulations in the United States, 2016–24
+Source: AI Index, 2025 | Chart: 2025 AI Index report
+
+Figure 6.2.19
+By Agency
+Figure 6.2.20 looks at the number of AI-related regulations Medicare and Medicaid Services (7) and the Commerce
+in the United States that have been released by different Department (7). AI regulations came from a record 42 unique
+American regulatory agencies since 2016.10 In 2024, the departments, up from 21 in 2023 and 17 in 2022. This trend
+Department of Health and Human Services issued the most reflects a growing interest in AI across a wider range of U.S.
+AI-related regulations (14), followed by the Centers for regulators.
+10 Regulations can originate from multiple agencies, so the totals in Figure 6.2.20 do not fully align with those in Figure 6.2.19. Figure 6.2.20 refers to departments as agencies, consistent with
+the terminology used by the Federal Register, the source of the data.
+
+Artificial Intelligence
+Index Report 2025
+Chapter 6: Policy and Governance
+6.2 AI and Policymaking
+Figure 6.2.20
+Chapter 6 Preview 28
+
+Artificial Intelligence
+Index Report 2025
+Chapter 6: Policy and Governance
+6.2 AI and Policymaking
+Highlight:
+A Closer Look at US Federal Regulations
+The following section highlights some of the AI-related regulations passed as rules and executive orders at the federal
+level during 2024 (Figure 6.2.21).
+Agency Regulation Description
+Executive Office of Preventing Access to Americans’ This executive order identifies AI use by countries of concern as a
+the President Bulk Sensitive Personal Data significant national security threat. It specifically warns of foreign
+and United States Government– adversaries exploiting bulk sensitive personal and U.S. government–
+Related Data by Countries of related data to refine AI algorithms for espionage, cyber
+Concern operations, and influencing campaigns. To counter this risk, the
+order implements measures to safeguard sensitive data, including
+restrictions or bans on data transactions with these countries and
+strengthened network infrastructure security.
+Industry and Foreign-Produced Direct Product This rule amends the U.S. Export Administration Regulations to
+Security Bureau Rule Additions, and Refinements tighten controls on semiconductor manufacturing equipment and
+to Control for Advanced supercomputer exports, particularly to China. It introduces additional
+Computing and Semiconductor restrictions on semiconductor production, revises existing measures,
+Manufacturing Items and implements “Red Flags” to identify risks of unauthorized exports.
+These changes aim to counter China’s efforts to circumvent previous
+restrictions and limit its ability to develop advanced computing and
+AI systems that could threaten U.S. national security.
+Consumer Financial Consumer Financial Protection This rule mandates that employers cannot base employment
+Protection Bureau Circular 2024–06: Background decisions on background dossiers, algorithmic scores, or third-party
+Dossiers and Algorithmic Scores reports without complying with the Fair Credit Reporting Act. It
+for Hiring, Promotion, and Other reinforces key obligations, particularly for AI-driven systems, such as
+Employment Decisions obtaining a worker’s consent before procuring a consumer report. By
+doing so, the rule sets clear limits on the use of algorithmic scoring in
+hiring and employment decisions.
+Federal Election Fraudulent Misrepresentation of This interpretive rule offers supplemental guidance on the Federal
+Commission Campaign Authority Election Campaign Act (FECA) in response to the rise of AI-
+generated content. It reaffirms that FECA is “technology neutral” and
+focuses on whether a person or entity engages in election-related
+misrepresentation rather than specifically addressing AI misuse.
+Office of Provisions Pertaining to U.S. This final rule implements Executive Order 14105, mandating that
+Investment Security, Investments in Certain National U.S. persons notify the Treasury Department of transactions with
+Department of the Security Technologies and entities in countries of concern involved in sensitive technologies
+Treasury Products in Countries of Concern that threaten national security. It also prohibits certain transactions
+with these entities. Issued in 2023, the order targets U.S. investments
+in high-risk technologies, including AI, semiconductors, and
+quantum computing, recognizing them as critical sectors where such
+investments could heighten security threats from adversarial nations.
+Figure 6.2.21
+Chapter 6 Preview 29
+
+Artificial Intelligence
+Index Report 2025
+Chapter 6: Policy and Governance
+6.3 Public Investment in AI
+6.3 Public Investment in AI11
+As AI continues to drive innovation in critical sectors such as The AI Index cautions against making direct country-to-
+healthcare, transportation, and defense, public funding has country comparisons based on the public spending data
+become essential for nations to realize their AI strategies. presented in this section. While this analysis includes
+Understanding how much governments invest in AI research data on government contracts from a range of countries,
+and development (R&D) is important for understanding it only covers grant-level spending for the United States.
+the broader AI geopolitical landscape, yet tracking these This asymmetry stems from the complexity and difficulty
+investments presents significant challenges. While national of collecting comparable grant data from other countries
+budgets may outline AI-related spending, these allocations and regions, such as the European Union and China.
+do not always translate directly into expenditures. Moreover, However, as the U.S. case demonstrates, a significant share
+AI investments are often embedded within broader of government spending on AI occurs through grants. In
+scientific or technological initiatives. As a result, pinpointing 2023 alone, the AI Index estimates that the U.S. government
+AI-specific funding can be difficult. awarded approximately $830 million in AI-related public
+tenders, compared to $4.5 billion in AI-related grants. Given
+To address this, the AI Index leveraged natural language the current limitations in cross-national data availability and
+processing (NLP) techniques to analyze public tenders and consistency, comparative analysis of public AI spending
+contracts and to identify AI-related government spending in across countries remains premature. This analysis is
+countries across the world.12 Examining tenders provides a intended as an initial step toward more comprehensive
+more direct measure of investment trends and offers insight global coverage. The AI Index is committed to expanding
+into how governments allocate resources over time. Because this work and welcomes collaboration from researchers,
+the AI Index only analyzed countries for which public contract institutions, and governments interested in improving the
+and tenders data was publicly available, some countries scope and quality of this data.
+could not be analyzed.13 This section also presents an analysis
+of total AI grant spending in the United States.
+11 The analysis in this section was led by Lapo Santarlasci.
+12 The full methodology behind this analytical approach is detailed in the Appendix. Due to reporting lags that may result in incomplete data for 2024, the most up-to-date analysis is available
+for the end of 2023.
+13 Some major government AI contract-granting regions, such as the EU (at the aggregate level) and China, were excluded from this analysis due to data limitations. The AI Index is committed
+to expanding its scope to include these and other regions in future editions.
+Chapter 6 Preview 30
+
+Artificial Intelligence
+Index Report 2025
+Chapter 6: Policy and Governance
+6.3 Public Investment in AI
+Total AI Public Investments
+Figure 6.3.1 summarizes key figures on the number of AI- contracts (Figure 6.3.1 and Figure 6.3.2). In Europe, the
+related contracts and their value at the country level.14 From United Kingdom, Germany, and France stand out with the
+2013 to 2023, the United States was the leading nation, highest total contract values awarded, accounting for 56% of
+with about $5.2 billion distributed across 2,678 unique AI European public investments in AI.
+Public spending on AI-related contracts in select countries, 2013–23 (sum)
+Source: AI Index, 2025 | Chart: 2025 AI Index report
+United States 5,233.10
+United Kingdom 568.48
+Germany 278.07
+France 190.10
+Spain 99.71
+Belgium 83.54
+Denmark 74.40
+Finland 71.25
+Poland 55.92
+Greece 50.02
+Romania 46.37
+Italy 44.30
+Czech Republic 40.71
+Hungary 36.56
+Ireland 29.42
+0 500 1,000 1,500 2,000 2,500 3,000 3,500 4,000 4,500 5,000 5,500
+Public spending on AI-related contracts (in millions of US dollars)
+Figure 6.3.1
+14 The results and figures presented are subject to missing values ratios of the specific sample of matched tenders: 0.16% for NAICS code, and 26.8% for U.S. dollar values. It is important to
+note that the sample does not include Northern Ireland tenders, as their offices do not offer an API service or bulk download option for large-scale data collection.
+Chapter 6 Preview 31
+
+Artificial Intelligence
+Index Report 2025
+Chapter 6: Policy and Governance
+6.3 Public Investment in AI
+Number of AI-related contracts in select countries, 2013–23 (sum)
+Source: AI Index, 2025 | Chart: 2025 AI Index report
+United States 2,678
+United Kingdom 555
+Germany 409
+France 139
+Poland 136
+Spain 121
+Czech Republic 75
+Finland 69
+Bulgaria 49
+Romania 48
+Hungary 40
+Italy 38
+Denmark 32
+Belgium 29
+Greece 28
+0 200 400 600 800 1,000 1,200 1,400 1,600 1,800 2,000 2,200 2,400 2,600
+Number of AI-related contracts Figure 6.3.2
+Median value of public AI-related contracts in select countries, 2013–23
+Source: AI Index, 2025 | Chart: 2025 AI Index report
+Switzerland 3.05
+Turkey 2.81
+Ireland 1.42
+Luxembourg 1.15
+Denmark 1.07
+Italy 1.03
+Belgium 1.01
+Austria 0.92
+Finland 0.67
+Malta 0.65
+Norway 0.63
+Portugal 0.60
+Estonia 0.57
+Latvia 0.56
+Greece 0.55
+0.00 0.50 1.00 1.50 2.00 2.50 3.00
+Median value of public AI-related contracts (in millions of US dollars)
+Figure 6.3.3
+Chapter 6 Preview 32
+
+Artificial Intelligence
+Index Report 2025
+Chapter 6: Policy and Governance
+6.3 Public Investment in AI
+Which governments spent the most on AI per capita over the past decade? The United States leads with $1.58 million per 100,000
+inhabitants, followed by Finland ($1.3 million) and Denmark ($1.3 million) (Figure 6.3.4).
+Public spending on AI-related contracts per 100,000 inhabitants in select countries, 2013–23 (sum)
+Source: AI Index, 2025 | Chart: 2025 AI Index report
+United States 1.58
+Finland 1.29
+Denmark 1.27
+United Kingdom 0.84
+Belgium 0.72
+Luxembourg 0.60
+Ireland 0.56
+Greece 0.48
+Norway 0.47
+Czech Republic 0.38
+Hungary 0.38
+Lithuania 0.38
+Germany 0.33
+Slovenia 0.33
+Austria 0.32
+0.00 0.30 0.60 0.90 1.20 1.50
+Public spending on AI-related contracts per 100,000 inhabitants (in millions of US dollars)
+Figure 6.3.4
+Chapter 6 Preview 33
+
+Artificial Intelligence
+Index Report 2025
+Chapter 6: Policy and Governance
+6.3 Public Investment in AI
+Figure 6.3.5 illustrates public investment in AI in 2023. The ranked lower—such as Romania, Greece, Hungary, and
+U.S. led with $831.0 million, followed by the United Kingdom at Poland—broke into the top 10. This shift suggests a more
+$262.6 million. While Germany, Spain, and the U.K. remained balanced distribution of AI-related funding across Europe.
+among Europe’s top investors, countries that historically
+Public spending on AI-related contracts in select countries, 2023
+Source: AI Index, 2025 | Chart: 2025 AI Index report
+United States 830.98
+United Kingdom 262.59
+Spain 49.59
+Germany 49.55
+Greece 36.89
+Romania 31.13
+Ireland 26.08
+Poland 22.98
+France 18.44
+Hungary 16.84
+Italy 10.48
+Austria 10.14
+Belgium 8.35
+Czech Republic 5.78
+Sweden 4.77
+0 50 100 150 200 250 300 350 400 450 500 550 600 650 700 750 800 850
+Public spending on AI-related contracts (in millions of US dollars)
+Figure 6.3.5
+Chapter 6 Preview 34
+
+Artificial Intelligence
+Index Report 2025
+Chapter 6: Policy and Governance
+6.3 Public Investment in AI
+Figure 6.3.6 illustrates the trends in public AI investment increases in investment, with a 400% year-over-year increase
+over time across two significant regions of AI investment, the in 2017, followed by another major spike of 200% year-over-
+United States and Europe. Both regions have seen substantial year in 2019—a year that also saw a peak in the number of
+growth in AI-related spending over the past decade. Notably, national AI strategies released globally. This sustained upward
+Europe’s total AI investment in 2023 was approximately 67 trend illustrates how government interest and commitment
+times higher than in 2013, compared to a fifteenfold increase to AI is growing in monetary terms.
+in the United States. Europe experienced particularly sharp
+
+2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+Chapter 6 Preview 35
+)srallod
+SU
+fo
+snoillim
+ni(
+stcartnoc
+detaler-IA
+no
+gnidneps
+cilbuP
+Public spending on AI-related contracts in the United States and Europe, 2013–23
+Source: AI Index, 2025 | Chart: 2025 AI Index report
+830.98, United States
+581.38, Europe
+Figure 6.3.6
+
+Artificial Intelligence
+Index Report 2025
+Figure 6.3.7 charts the investment gap between Europe and indicating that European nations are closing the gap in total
+the U.S. over time. The disparity in AI investment widened AI-related public spending.
+until 2020 but has narrowed over the past three years,
+
+2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+Chapter 6 Preview 36
+)srallod
+SU
+fo
+snoillim
+ni(
+stcartnoc
+detaler-IA
+no
+gnidneps
+cilbuP
+Chapter 6: Policy and Governance
+6.3 Public Investment in AI
+Di erence in public spending on AI-related contracts between the United States and Europe, 2013–23
+Source: AI Index, 2025 | Chart: 2025 AI Index report
+249.60
+Figure 6.3.7
+
+Artificial Intelligence
+Index Report 2025
+Figure 6.3.8 documents public investment trends from 2013 public investment in both 2021 and 2023. These investments
+to 2023 across the top five European countries—Belgium, followed the proposition of a national AI strategy by the AI
+France, Germany, Spain, and the U.K. The data reveals a Council—an independent expert committee established
+steady increase in investment, marked by periodic peaks. in 2019 to advise the government and provide high-level
+Germany experienced substantial growth, particularly in leadership of the AI ecosystem. Meanwhile, Belgium, France,
+2019, following the launch of its national AI strategy in and Spain exhibited more modest but consistent growth.
+. The U.K. saw sharp increases in AI-related
+
+2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+Chapter 6 Preview 37
+)srallod
+SU
+fo
+snoillim
+ni(
+stcartnoc
+detaler-IA
+no
+gnidneps
+cilbuP
+Chapter 6: Policy and Governance
+6.3 Public Investment in AI
+Public spending on AI-related contracts in top 5 European countries, 2013–23
+Source: AI Index, 2025 | Chart: 2025 AI Index report
+262.77, United Kingdom
+49.59, Spain
+49.55, Germany
+18.44, France
+8.35, Belgium
+Figure 6.3.8
+
+Artificial Intelligence
+Index Report 2025
+Spending Across Agencies and Sectors
+The distribution of public tender investments in AI reflects Department of Veterans Affairs (6.8%) and the Department of
+stark contrasts between the U.S. and Europe, driven by the Treasury (5.3%).
+differing strategic priorities and institutional structures. As
+shown in Figure 6.3.9, the U.S. has allocated the majority of AI While the Department of Veterans Affairs may seem like an
+contracts since 2013 to the Department of Defense. This fact outlier, it has made significant investments in recent years—
+is unsurprising given the central role the American defense in areas that include the use of AI for diagnosis, robotic
+sector has played in American technological innovation. In prostheses, and mental health.
+2023, the Department of Defense (75.0%) was followed by the
+80%
+70%
+60%
+50%
+40%
+30%
+20%
+10%
+0%
+2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+Chapter 6 Preview 38
+)latot
+fo
+%(
+stcartnoc
+detaler-IA
+no
+gnidneps
+cilbuP
+Chapter 6: Policy and Governance
+6.3 Public Investment in AI
+Public spending on AI-related contracts (% of total) in the United States by funding agency, 2013–23
+Source: AI Index, 2025 | Chart: 2025 AI Index report
+75.04%, Department of Defense
+6.83%, Department of Veterans A airs
+5.34%, Department of the Treasury
+3.98%, Department of Health and Human Services
+2.30%, Department of Homeland Security
+2.08%, Department of Commerce
+1.57%, Other
+0.97%, Department of Justice
+0.80%, Department of Transportation
+0.69%, National Aeronautics and Space Administration
+0.32%, General Services Administration
+0.05%, Department of Education
+0.03%, Department of State
+Figure 6.3.9
+
+Artificial Intelligence
+Index Report 2025
+In Europe, AI investment through public tenders follows public services, education, and health—collectively account
+a markedly different pattern. Given the lack of aggregated for around 84% of total public AI investments in 2023. In the
+data comparable to that of the U.S., the AI Index categorized same year, defense accounted for only 0.84% of all European
+European funding entities by their central activity. As shown AI-related public tenders. This stands in stark contrast to the
+in Figure 6.3.10, there is a more balanced distribution of U.S., where defense overwhelmingly dominates AI funding.
+investments in Europe. The top funding areas—general
+80%
+70%
+60%
+50%
+40%
+30%
+20%
+10%
+0%
+2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+Chapter 6 Preview 39
+)latot
+fo
+%(
+stcartnoc
+detaler-IA
+no
+gnidneps
+cilbuP
+Chapter 6: Policy and Governance
+6.3 Public Investment in AI
+Public spending on AI-related contracts (% of total) in Europe by funding agency activity, 2013–23
+Source: AI Index, 2025 | Chart: 2025 AI Index report
+64.05%, General public services
+12.26%, Education
+7.58%, Other
+7.43%, Health
+5.35%, Government
+1.63%, Local authority
+0.87%, Economic and �nancial a�airs
+0.84%, Defense
+Figure 6.3.10
+
+Artificial Intelligence
+Index Report 2025
+Highlight:
+AI Grant Spending in the US
+US AI-related grants, 2013–23
+Public grants also represent a key avenue through which
+Source: AI Index, 2025 | Table: 2025 AI Index report
+governments allocate resources to AI-related projects
+Grant statistics Value
+and initiatives. Public institutions can directly invest in
+Number of grants 18,399
+AI-related projects such as enhancing X-ray angiography
+Total (in millions $) 19,748.44
+interpretation, building AI-driven unmanned aircraft
+Median (in thousands $) 247.53
+systems for automated soil monitoring, or developing tools
+Average (in thousands $) 1,073.34
+for interpretable machine learning. Research grants can Total per 100,000 inhabitants (in thousands $) 5,967.69
+be disbursed to organizations like the National Science
+Foundation or the Department of Health and Human
+Services (which includes NIH) to conduct AI-focused
+research. In this section, the AI Index examined data on
+grants in the U.S. allocated to AI-specific endeavors.
+As in the previous section, the AI Index employed NLP
+methodologies to identify AI-related grants.15
+Figure 6.3.11 displays aggregate data on AI-related grant
+spending in the U.S. from 2013 to 2023. In that period, a
+total of roughly $19.7 billion was allocated by the U.S.
+government for AI-related grants.
+4.49
+4.50
+4.00
+3.50
+3.00
+2.50
+2.00
+1.50
+1.00
+0.50
+0.00
+2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+15 The full methodology behind this approach can be found in the Appendix.
+Chapter 6 Preview 40
+)srallod
+SU
+fo
+snoillib
+ni(
+stnarg
+detaler-IA
+no
+gnidneps
+cilbuP
+Chapter 6: Policy and Governance
+6.3 Public Investment in AI
+Figure 6.3.11
+Figure 6.3.12 illustrates the steady rise in AI-related grant
+funding over time. Between 2013 and 2023, total AI grant
+funding in the U.S. grew nearly nineteenfold, from $230
+million to $4.5 billion. From 2014 to 2020, investments saw
+an average annual growth rate of 40%. This rapid expansion
+coincided with major advancements in AI technologies—
+such as deep learning, natural language processing, and
+computer vision—which likely fueled demand for public-
+sector AI applications and drove increased funding for
+related projects.
+Public spending on AI-related grants in the United States, 2013–23
+Source: AI Index, 2025 | Chart: 2025 AI Index report
+Figure 6.3.12
+
+Artificial Intelligence
+Index Report 2025
+Highlight:
+AI Grant Spending in the US (cont’d)
+Department of Health and
+43.57%
+Human Services
+National Science Foundation 27.91%
+Others 16.06%
+Department of Commerce 5.38%
+Department of Defense 2.62%
+Department of Agriculture 1.87%
+Department of Energy 1.47%
+National Aeronautics and
+1.12%
+Space Administration
+0% 5% 10% 15% 20% 25% 30% 35% 40% 45%
+Public spending on AI-related grants (% of total)
+Chapter 6 Preview 41
+ycnega
+gnidnuF
+Chapter 6: Policy and Governance
+6.3 Public Investment in AI
+Figure 6.3.13 illustrates the distribution of AI contract the Department of Health and Human Services (43.6%),
+values by funding agencies in the U.S. from 2013 to 2023. followed by the National Science Foundation (27.9%) and
+The greatest share of AI-related grants was allocated to the Department of Commerce (5.4%).
+Public spending on AI-related grants (% of total) by funding agency, 2013–23
+Source: AI Index, 2025 | Chart: 2025 AI Index report
+Figure 6.3.13
+
+Artificial Intelligence
+Index Report 2025
+Chapter 6: Policy and Governance
+Appendix
+Appendix
+Acknowledgments Global Legislation Records on AI
+The AI Index would like to acknowledge Julia Betts Lotufo For AI-related bills passed into laws, the AI Index performed
+and Alexandra Rome for their efforts in collecting information searches for the keyword “artificial intelligence,” in respective
+on significant AI policy events. The AI Index would also like to languages and in the full text of bills, on the websites of
+acknowledge Lapo Santarlasci for leading the analysis of AI congresses or parliaments in 116 geographic areas. Note that
+public spending and U.S. grant-related AI spending. only laws passed by state-level legislative bodies and signed into
+law (e.g., by presidents or received royal assent) from 2016 to
+Global AI Mentions
+2024 are included. Laws that were approved but then repealed
+For mentions of AI in AI-related legislative proceedings are not included in the analysis. For laws where AI-related
+around the world, the AI Index performed searches for the provisions were added or amended after initial enactment,
+keyword “artificial intelligence,” in respective languages, on the AI Index uses the year of inclusion rather than the original
+the websites of congresses or parliaments in 75 geographic passage year, when relevant. Future AI Index reports hope to
+areas, usually under sections named “minutes,” “hansard,” etc. include analysis on other types of legal documents, such as
+Mentions were counted by session, so multiple mentions of regulations and standards, adopted by state- or supranational-
+“artificial intelligence” in the same legislative session counted level legislative bodies, government agencies, etc.
+as one mention. The AI Index team surveyed the following
+databases: The AI Index team surveyed databases for the following
+geographic areas:
+Andorra, Armenia, Australia, Azerbaijan, Barbados, Belgium,
+Bermuda, Brazil, Canada, Cayman Islands, China,1 Czech Algeria, Andorra, Antigua and Barbuda, Argentina, Armenia,
+Republic, Denmark, Dominican Republic, Ecuador, El Australia, Austria, Azerbaijan, The Bahamas, Bahrain,
+Salvador, Estonia, Fiji, Finland, France, Germany, Gibraltar, Bangladesh, Barbados, Belarus, Belgium, Belize, Bermuda,
+Greece, Hong Kong, Iceland, India, Ireland, Isle of Man, Bhutan, Bolivia, Brazil, Brunei, Bulgaria, Cameroon, Canada,
+Italy, Japan, Kenya, Kosovo, Latvia, Lesotho, Liechtenstein, Chile, China, Croatia, Cuba, Curacao, Cyprus, Czech
+Luxembourg, Macao SAR, China, Madagascar, Malaysia, Republic, Denmark, Estonia, Faroe Islands, Fiji, Finland, France,
+Maldives, Malta, Mauritius, Mexico, Moldova, Netherlands, Germany, Gibraltar, Greece, Greenland, Grenada, Guam,
+New Zealand, Northern Mariana Islands, Norway, Pakistan, Guatemala, Guyana, Hong Kong, Hungary, Iceland, India, Iraq,
+Panama, Papua New Guinea, Philippines, Poland, Portugal, Ireland, Isle of Man, Israel, Italy, Jamaica, Japan, Kazakhstan,
+Romania, Russia, San Marino, Seychelles, Sierra Leone, Kenya, Kiribati, Republic of Korea, Kosovo, Kyrgyz Republic,
+Singapore, Slovenia, South Africa, South Korea, Spain, Sri Latvia, Liechtenstein, Lithuania, Luxembourg, Macao SAR
+Lanka, Sweden, Switzerland, Tanzania, Trinidad and Tobago, China, Malawi, Malaysia, Malta, Mauritius, Mexico, Monaco,
+Ukraine, United Kingdom, United States, Uruguay, Zambia, Montenegro, Morocco, Mozambique, Nauru, Netherlands,
+Zimbabwe New Zealand, Northern Marina Islands, Norway, Panama,
+Philippines, Poland, Portugal, Romania, Russia, Samoa,
+Saudi Arabia, Serbia, Seychelles, Sierra Leone, Singapore,
+1 The National People’s Congress is held once per year and does not provide full legislative proceedings. Hence, the counts included in the analysis searched mentions of “artificial
+intelligence” in the only public document released from the congressional meetings, the Report on the Work of the Government, delivered by the premier.
+Chapter 6 Preview 42
+
+Artificial Intelligence
+Index Report 2025
+Chapter 6: Policy and Governance
+Appendix
+Slovak Republic, Slovenia, South Africa, Spain, St. Kitts and US Committee Mentions
+Nevis, Suriname, Sweden, Switzerland, Tajikistan, Tanzania,
+To research trends on the United States’ committee mentions
+Togo, Tongo, Turkey, Tuvalu, Uganda, Ukraine, United Arab
+of AI, the following search was conducted:
+Emirates, United Kingdom, United States, Uruguay, Vietnam,
+Website: Congress.gov
+Yemen, Zambia, Zimbabwe
+Keyword: artificial intelligence
+US State-Level AI Legislation Filters: Committee Reports
+For AI-related bills passed into law, the AI Index performed Public Investment in AI
+searches for the keyword “artificial intelligence” in the full
+The AI Index analyzed government AI spending across
+text of bills on the websites of all 50 U.S. states. Bills are only
+European countries and the United States, focusing on regions
+counted as passed into law if the keyword appears in the final
+where data is more accessible. It is important to note that
+version of the bill, not just the introduced version. Note that
+this analysis may not fully represent all countries or regions,
+only laws passed from 2015 to 2024 are included. The count
+as the availability and quality of data can vary significantly.
+for proposed laws includes both laws that were proposed
+Additionally, while this analysis includes data on government
+that were passed and laws that were proposed that have
+contracts from various countries, it only covers grant-level
+not been passed yet, or are now inactive. The AI Index team
+spending for the United States. This discrepancy is the result
+surveyed the following databases:
+of challenges in collecting comparable grant data from other
+countries and regions, such as the European Union and China.
+Alabama, Alaska, Arizona, Arkansas, California, Colorado,
+Nevertheless, the U.S. case illustrates that a substantial
+Connecticut, Delaware, Florida, Georgia, Hawaii, Idaho,
+portion of government spending on AI occurs through grants.
+Illinois, Indiana, Iowa, Kansas, Kentucky, Louisiana, Maine,
+Coverage will expand in future iterations of the AI Index as
+Maryland, Massachusetts, Michigan, Minnesota, Mississippi,
+more data becomes available, but discrepancies and gaps
+Missouri, Montana, Nebraska, Nevada, New Hampshire, New
+in the existing data may affect the comprehensiveness and
+Jersey, New Mexico, New York, North Carolina, North Dakota,
+accuracy of the findings.
+Ohio, Oklahoma, Oregon, Pennsylvania, Rhode Island, South
+Carolina, South Dakota, Tennessee, Texas, Utah, Vermont,
+Data Sources
+Virginia, Washington, West Virginia, Wisconsin, Wyoming
+For European countries, the AI Index collected public tender
+data from Tenders Electronic Daily (TED) (Publications Office
+For a more thorough review, the AI Index also included AI-
+of the European Union, 2024)—the online supplement to
+related state laws listed on the Multistate AI state legislation
+the official journal of the EU dedicated to European public
+tracker, even if they did not specifically reference “artificial
+procurement. While contracts are available in various formats,
+intelligence” as a keyword.
+the most detailed data comes from bulk XML downloads,
+US AI Regulation which include comprehensive information on tendering
+procedures, issuing entities, awarded contractors, lot values,
+This section examines AI-related regulations enacted by
+descriptions, award dates, and common procurement
+U.S. regulatory agencies from 2016 to 2024, analyzing the
+vocabulary (CPV) codes. TED publication is governed by
+total number of regulations and their originating agencies.
+EU law thresholds: Tenders above specific monetary values,
+To compile this data, the AI Index conducted a keyword
+deemed of cross-border interest, must be published on
+search for “artificial intelligence” on the Federal Register, a
+TED. However, some countries also report below-threshold
+comprehensive repository of government documents drawn
+procurements, leading to variations in coverage across
+from over 436 agencies and nearly every branch of the U.S.
+countries.
+government.
+Chapter 6 Preview 43
+
+Artificial Intelligence
+Index Report 2025
+Chapter 6: Policy and Governance
+Appendix
+For the United Kingdom, data sources include TED, Find a For ease of comparison, all monetary amounts were converted
+Tender, Contracts Finder, and Contracts Finder Archive. to U.S. dollars and adjusted for price level differences using
+Data from Scotland and Wales were accessed via the APIs the purchasing power parities (PPP) index.
+of their procurement websites, while Northern Ireland does
+not offer this service, necessitating its exclusion from the Classification
+analysis and potentially leading to an underestimation of Classifying AI-related contracts and grants was achieved
+public investments in AI for the U.K. Due to API limitations using full-text search with regular expressions. An
+restricting historical data access, the AI Index utilized the AI dictionary was compiled by generating AI-related
+Open Contracting Partnership’s data registry via Kingfisher expressions and incorporating “core” expressions from the
+Collect to obtain comprehensive data for Scotland and Wales. Yamashita et al. (2021) vocabulary. Additionally, a Word2Vec
+model expanded the dictionary with cosine-similar terms
+Data for the United States was sourced from the publicly for each baseline expression that were manually reviewed
+accessible USAspending platform, an official repository and included in the final vocabulary. This process provided
+that facilitates bulk downloads of information related to keywords and co-occurrence patterns crucial for identifying
+contract award notices and grant data. While this dataset AI content.
+encompasses a longer time frame than the TED dataset, it
+is important to note that data quality can vary. Additionally, The classification followed a multistep approach. Initially,
+a study by the U.S. Government Accountability Office (GAO, regular expression (regex) matching identified AI terms
+2023) found that 49 agencies, including 25 in the executive within contract and grant awards. These documents were
+branch, did not report data to USAspending, accounting for then categorized as either “non AI-related” or “AI-related.” To
+over $5 billion in net outlays for fiscal year 2022. validate AI-related matches, BERTopic model and pretrained
+DeBERTA transformer were employed to assess probability
+Data Processing scores for specific AI-related topics. Awards with relevance
+Processing TED data posed significant challenges due to scores below 20% underwent manual review, while those
+inconsistent storage of contract descriptions, which varied with higher scores were confirmed as AI-related. To ensure
+by XML tag names based on release time and procurement additional accuracy, all high-value tenders were also manually
+type. Some files contained aggregated descriptions while reviewed.
+others detailed each awarded contract lot. To capture
+comprehensive information, the main descriptions of each
+competition call were combined with partial descriptions
+when available.
+The linguistic diversity in data from different countries
+required translation of all texts into English using the deep-
+translator tool and the Google Translator engine. Post-
+translation, tender texts were processed using natural
+language processing (NLP) techniques. These included
+the removal of stop words and special characters, part-of-
+speech (POS) tagging to retain key grammatical categories,
+lowercase conversion, lemmatization, and replacement of
+numerical measures with a <NUM> tag.
+Chapter 6 Preview 44

@@ -1,0 +1,2608 @@
+A REPORT OF
+THE CSIS
+AEROSPACE
+SECURITY
+PROJECT
+S P A C E
+T H R E A T
+A S S E S S M E N T
+2 0 2 5
+Authors
+CLAYTON SWOPE
+KARI A. BINGEN
+MAKENA YOUNG
+KENDRA LAFAVE
+
+S P A C E
+T H R E A T
+A S S E S S M E N T
+2 0 2 5
+Authors
+CLAYTON SWOPE
+KARI A. BINGEN
+MAKENA YOUNG
+KENDRA LAFAVE
+A REPORT OF THE
+CSIS AEROSPACE SECURITY PROJECT
+
+ABOUT CSIS
+The Center for Strategic and International Studies (CSIS) is a bipartisan, nonprofit policy
+research organization dedicated to advancing practical ideas to address the world’s
+greatest challenges.
+Thomas J. Pritzker was named chairman of the CSIS Board of Trustees in 2015, succeeding
+former U.S. senator Sam Nunn (D-GA). Founded in 1962, CSIS is led by John J. Hamre, who
+has served as president and chief executive officer since 2000.
+CSIS’s purpose is to define the future of national security. We are guided by a distinct set
+of values—nonpartisanship, independent thought, innovative thinking, cross-disciplinary
+scholarship, integrity and professionalism, and talent development. CSIS’s values work
+in concert toward the goal of making real-world impact.
+CSIS scholars bring their policy expertise, judgment, and robust networks to their re-
+search, analysis, and recommendations. We organize conferences, publish, lecture, and
+make media appearances that aim to increase the knowledge, awareness, and salience
+of policy issues with relevant stakeholders and the interested public.
+CSIS has impact when our research helps to inform the decisionmaking of key policy-
+makers and the thinking of key influencers. We work toward a vision of a safer and more
+prosperous world.
+CSIS does not take specific policy positions; accordingly, all views expressed herein
+should be understood to be solely those of the author(s).
+© 2025 by the Center for Strategic and International Studies.
+All rights reserved.
+ABOUT ASP
+The Aerospace Security Project (ASP) is a trusted resource for policymakers, offering
+insightful thoughts and in-depth analyses on policy issues, operational concepts, tech-
+nology trends, and economic drivers in the space and air domains. Our mission is to
+educate and inform policymakers and the public, conduct independent research and
+analysis, and convene experts with broad perspectives to advance creative and practical
+solutions that address the security challenges facing the United States and our allies
+and partners. ASP also fosters the next generation of scholars in national security space
+and air power policy through fellowship and internship opportunities.
+Part of the Defense and Security Department at CSIS, Aerospace Security is led by Senior
+Fellow Kari A. Bingen and includes a distinguished group of expert affiliates spanning
+national security, civilian, commercial, and international aerospace issues.
+Center for Strategic & International Studies
+1616 Rhode Island Avenue, NW
+Washington, DC 20036
+202-887-0200 | 
+II SPACE THREAT ASSESSMENT 2025
+
+ACKNOWLEDGMENTS
+This report is made possible by general support to CSIS. No direct sponsorship contributed
+to this report.
+ASP would like to thank Dane Brumm, Jenny Christen, Hilary Cohen, Jim Cooper, Karen
+Cox, Hector Falcon, Benoit Figuet, Alyson Fredette-Graves, John Gass, Max Geissbuhler,
+Greg Gillinger, Bob Hall, Jason Lapadula, Mairead Levison, Kate Maliga, Darren McKnight,
+Erin Miller, Raphael Monstein, Nate Notargiacomo, Madeline Reto, Audrey Schaffer, Jade
+Stanton, Mallory Stewart, and Martin Strohmeier for contributing their time, energies, and
+resources to help produce this year’s report. Thanks also to the operators of several private
+social media accounts for their prompt and thorough coverage of space safety events
+during the past year, including Jim Shell, COMSPOC, HEO, Integrity ISR, LeoLabs, LSAS
+Tec, s2a systems, and Slingshot Aerospace, which greatly benefited the report’s authors.
+Additionally, the authors would like to thank the CSIS publications team, Hunter Hallman,
+Phillip Meylan, Kelsey Hartman, and Madison Bruno, CSIS designers Sabina Huang and
+Lauren Bailey, and our external copyeditor, Katherine Stark. This annual report would not
+be possible without their thorough, responsive, and diligent work.
+Special thanks also to ASP interns Ioannis Nikas, Anna Kelly, and Mia Thiagarajan for
+their work on the report, assisting with research and analysis of datasets. Finally, thanks
+to Victoria Samson and Laetitia Cesari for their partnership and willingness to continue
+collaboration with ASP on tracking and assessing global counterspace threats.
+III
+
+CONTENTS
+1 INTRODUCTION
+3 COUNTERSPACE WEAPONS
+6 CHINA
+10 RUSSIA
+15 OTHERS
+15 Iran
+16 North Korea
+16 India
+16 Israel
+16 Europe
+17 FEATURED ANALYSIS
+17 GPS Jamming and Spoofing
+22 The Drip-Drip of Cyber Attacks
+24 RPOs: Benevolent or Cruel Intentions
+27 Points of Instability: Unintentional Space Debris Generation
+29 The Coming Collision of Commercial and Counterspace
+30 WHAT TO WATCH
+34 CONCLUSION
+36 ABOUT THE AUTHORS
+37 ENDNOTES
+IV SPACE THREAT ASSESSMENT 2025
+
+INTRODUCTION
+ELCOME TO THE 2025 SPACE THREAT ASSESSMENT by the
+W
+Aerospace Security Project at the Center for Strategic and
+International Studies (CSIS). This resource for policymakers
+and the public leverages open-source information to assess key
+developments in foreign counterspace weapons. Drawing on eight years of
+collected data and analyses, this series describes trends in the development,
+testing, and use of counterspace weapons and enables readers to develop a
+deeper understanding of threats to U.S. national security interests in space.
+Since the publication of the 2024 Space Threat Assessment, there have been
+few headline-grabbing counterspace developments. No nation was known
+to have tested or used kinetic anti-satellite missiles, commonly called direct
+ascent anti-satellite (DA ASAT) weapons. There was no public indication that
+any nation tested or used counterspace weapons such as laser dazzlers or
+directed energy weapons. While Russia’s pursuit of a nuclear anti-satellite
+capability topped the news last year, no information has publicly surfaced
+revealing how close Russia might be to launching this system, though the
+United States and its international partners remain concerned that Russia
+could decide to deploy such a weapon.1
+But a closer look reveals that the past year, from the perspective of counter-
+space developments, has been anything but uneventful. Rather than entirely
+new developments, the past year mostly witnessed a continuation of the
+worrisome trends discussed in prior reports, notably widespread jamming
+and spoofing of GPS signals in and around conflict zones, including near and
+in Russia and throughout the Middle East.2 Chinese and Russian satellites in
+both low Earth orbit (LEO) and geostationary Earth orbit (GEO) continue to
+display more and more advanced maneuvering capabilities, demonstrating
+operator proficiency and tactics, techniques, and procedures that can be
+used for space warfighting and alarming U.S. and allied officials.3 Finally,
+U.S. companies providing a commercial space service to government users,
+particularly defense and military ones, remain squarely in the crosshairs of
+nation states, with Russia in particular vocal about its intention to consider
+commercial assets used by the U.S. military as legitimate targets.4
+This past year also saw the growth of commercial and military dual-use
+technologies that could be modified to serve a counterspace purpose. Com-
+panies working on in-space servicing and debris removal reached important
+milestones, demonstrating their ability to conduct rendezvous, proximity, and
+docking operations, techniques that could be used by anti-satellite weapons.
+The behaviors of commercial satellites pursuing in-space servicing, inspection,
+debris removal, and other business use cases could easily be confused for
+counterspace operations, creating risks of misunderstandings and possibly
+unintended escalations in a crisis.
+Though this report has not historically covered U.S. counterspace capabilities,
+it would be difficult to assess the global counterspace landscape without noting
+the evolving U.S. posture toward counterspace weapons and operations. In
+response to China’s rapid buildup of military space capabilities in all orbital
+regimes, U.S. Space Force senior leaders have repeatedly emphasized over
+the last year that the United States is prepared to conduct offensive and de-
+fensive space operations and intends to field more counterspace capabilities.5
+This report also does not typically address unintentional debris creation in
+1 SPACE THREAT ASSESSMENT 2025
+
+orbit, but this year the assessment includes a discussion on the latent risks
+to space operations posed by accidental debris-causing events.
+Finally, a common thread throughout this year’s report is how space fits into
+the future of warfare. The normalization of space as a military operational
+domain and its integral role in joint operations mean that space is fair game
+during conflict. Warfighting will happen in, through, and from space, mean-
+ing that a future peer-on-peer conflict may very well bring disruption and
+destruction to space on the same scale that it would bring to other places
+closer to Earth. Counterspace threats should be viewed within the broader
+context of efforts by adversaries to degrade the ability of the United States
+and its allies to fight and win a war and disrupt the economy and day-to-day
+life on Earth, not merely as efforts to degrade a space capability. Overall,
+space is likely becoming a more dangerous place and woven ever more into
+both peacetime and wartime activities.
+
+COUNTERSPACE WEAPONS
+COUNTERSPACE
+WEAPONS
+HIS CHAPTER PROVIDES AN OVERVIEW of different types of coun-
+T
+terspace weapons and a useful taxonomy to classify and differentiate
+them. Counterspace weapons vary significantly in the technical
+methods they use to create effects against space systems, in how
+they are deployed, and in the level of technology and resources needed for
+their development and fielding. For the purposes of this report, counterspace
+weapons are organized into four main categories: kinetic, non-kinetic, and
+electronic weapons and cyber operations.
+Kinetic weapons are defined here as those using physical, material means
+such as bombs, bullets, missiles, and other munitions. All kinetic weapons are
+Illustration considered as meant to destroy or damage. This category includes weapons
+A ballistic missile can be used as that target spacecraft, such as DA ASAT missiles outfitted with conventional
+a kinetic counterspace weapon. warheads, and projectile attacks launched from one on-orbit satellite to
+another. It also includes weapons that target terrestrial space infrastructure,
+such as ground stations, launch sites, rocket and satellite factories, and space
+monitoring infrastructure. Orbital grappling satellites are another form of
+kinetic weapon. Such a grappler physically handles a target spacecraft to do
+it harm or attaches itself to a spacecraft and maneuvers it to another location.
+Non-kinetic weapons are defined as those that use radiated energy to destroy,
+damage, or interfere with space systems. This energy can be directed, such as
+with laser or microwave energy, or distributed through nuclear detonations
+or electromagnetic pulse (EMP) events. High-powered lasers and dazzlers
+and high-powered microwave ASAT systems are included in this category.
+3 SPACE THREAT ASSESSMENT 2025
+
+COUNTERSPACE WEAPONS
+Table 1
+COUNTERSPACE WEAPONS OF CHINA, RUSSIA, IRAN, AND NORTH
+KOREA AS OF 
+Cyber
+Kinetic Weapons Non-Kinetic Weapons Electronic Weapons
+Operations
+Terrestrial
+Direct-Ascent Nuclear Directed
+Infrastructure Orbital ASAT Jamming Spoofing
+ASAT Detonation Energy
+Attack
+China Yes Yes Maybe Yes Yes Yes Yes Yes
+Russia Yes Yes Probably Yes Yes Yes Yes Yes
+Iran Yes No No No No Yes Yes Yes
+North
+Yes No No Yes No Yes Yes Yes
+Korea
+csis aerospace security project research and analysis
+Dazzlers are intended to temporarily blind The final category, cyber operations, in- to target space systems and verify attack
+an optical satellite, although they may also cludes any offensive activity in cyberspace success.2 In order to attack a satellite on-or-
+unintentionally damage targeted satellites. that targets space systems, including ground bit, an aggressor would need to know its
+Nuclear detonations in the upper atmos- infrastructure, satellite terminals, space- precise location and where it is moving.
+phere or space are included in this category ports, and spacecraft. Cyber operations can The aggressor will also want accurate battle
+because these attacks primarily damage destroy or permanently disable a targeted damage assessments. For example, if a sat-
+electronics through the resulting EMP and system, although they can also be used to ellite is targeted through a cyberattack that
+lingering radiation that gets trapped by temporarily disrupt it or to conduct espio- allows the attacker to disable its controls,
+Earth’s magnetic field. Other nonnuclear nage, including gaining access to proprietary SSA or intelligence insights will be necessary
+weapons that create EMP events in space or sensitive technical information on a target to determine if the attack was successful
+would also be included in this category. network. A network exploitation can be a by monitoring the satellite’s movements
+beachhead for any of these purposes, as a and network activity. Although this report
+Electronic weapons use the electromagnetic
+cyber operation’s intent is often ambiguous.1 tracks counterspace weapons trends, it is
+spectrum to deny or interfere with a target’s
+important to acknowledge the critical data
+ability to use space services and capabilities. Many of these counterspace capabilities
+needed to develop and employ many of
+These weapons cannot destroy; they only depend on robust space situational aware-
+these weapons against their targets.
+ness (SSA) and intelligence information from
+impart temporary effects for as long as the
+both terrestrial and space-based platforms
+electronic system engages its target. This
+category includes jamming and spoofing of
+global navigation satellite system (GNSS)
+and satellite communications (SATCOM)
+signals. Spoofing, sometimes also called
+signal hijacking, is a form of electronic
+attack where an attacker tricks a receiver
+into believing a fake signal produced by
+the attacker is the real signal it is trying to
+receive. Also included in this category are
+any electronic attacks to jam space-based
+radar and the reception of radio frequency
+(RF) signals by the user of a satellite service Illustration
+on Earth, the satellite itself, or the ground Uplink jamming is a form of
+station of a space system. electronic counterspace attack. Transmitter Truck-Mounted Jammer Receiver Receiver Truck-Mounted Jammer Receiver
+DOWNLINK JAMMER
+4 SPACE THREAT ASSESSMENT 2025
+
+Table 2
+TYPES OF COUNTERSPACE WEAPONS
+Cyber
+Kinetic Weapons Non-kinetic Weapons Electronic Weapons
+Operations
+Terrestrial
+Direct-Ascent Nuclear Directed
+Infrastructure Orbital ASAT Jamming Spoofing
+ASAT Detonations Energy
+Attack
+Ground- Ground- Ground- Ground-
+to-Ground; to-Ground; to-Ground; to-Ground;
+Origin to Ground-to- Ground-to-
+Space-to-Space Ground-to- Ground-to- Ground-to- Ground-to- N/A
+Destination Ground Space
+Space; Space- Space; Space- Space; Space- Space; Space-
+to-Space to-Space to-Space to-Space
+Varies, Varies,
+Permanence of
+Permanent Permanent Permanent Permanent dependent on Not Permanent Not Permanent dependent on
+Attack
+mode of attack mode of attack
+Widespread, Limited to Limited and Limited and Limited and Limited to
+Widespread,
+Scale of Attack if node sup- Widespread, Regional, Regional, Regional, Widespread,
+if orbital debris Widespread
+Effects ports multiple dependent on dependent on dependent on dependent on dependent on
+creation
+satellites mode of attack mode of attack mode of attack mode of attack mode of attack
+Variable Can be attrib- Modest attribu- Modest attribu-
+Limited or
+Attributability of attribution, Launch site can uted by track- Launch site can Limited attri- tion depending tion depending
+uncertain attri-
+Attack depending on be attributed ing previously be attributed bution on mode of on mode of
+bution
+mode of attack known orbit attack attack
+Requires Space
+No Yes Yes No No No No No
+Launch Capability
+Requires Space
+Domain Aware- No Yes Yes No Yes No No No
+ness
+csis aerospace security project research and analysis
+Illustration A laser is an exam-
+ple of a non-kinetic counter-
+space weapon.
+
+CHINA
+CHINA
+EIJING’S ACTIONS OVER THE LAST YEAR point to an ever-increasing
+B
+emphasis by the People’s Republic of China (PRC) on the military use
+of space. Since the publication of the last threat report, continuing
+past trends, China demonstrated dual-use, highly maneuverable
+satellites in orbit and the tendency to maneuver and use fuel seemingly
+without regret. These activities point to growing operator proficiency and
+maturing space tactics, techniques, and procedures. Beijing also reorganized
+its armed forces, creating a specific force oriented around space operations.
+Though China has continued its aggressive cyber operations, few seem to
+specifically target space systems. Additionally, PRC officials and academics
+are more willing to publicly criticize U.S. behaviors in space, pointing to
+examples of where they claim the United States engages in the same space
+activities for which it criticizes China.1
+Over the last year, the most concerning development to U.S. observers should
+be the launch and operation of increasingly advanced Chinese satellites.
+China continues to launch and operate highly maneuverable satellites,
+demonstrating an advanced level of technological and operational acumen
+that, if not already deployed for such purposes, could enable a formidable
+on-orbit counterspace arsenal. Through the use of these satellites, Chinese
+operators are gaining experience in developing tactics and procedures that
+can be used for space warfighting, to include both defensive and offensive
+advanced space operations. Additionally, China is dramatically increasing its
+space launch capability, with several commercial providers coming online in
+the next few years.2 Each year, the PRC is launching more and more satellites,
+making characterization of those satellites more challenging year after year.3
+6 SPACE THREAT ASSESSMENT 2025
+
+Continuing trends described in prior editions the sophistication and frequency of Chinese
+of Space Threat Assessment, U.S. experts satellite maneuvers, was provided by SSA
+and military officials expressed concerns companies sharing their observations on
+in about unusual and po- social media platforms. Integrity ISR, a
+tentially threatening behaviors of Chinese space and intelligence, surveillance, and
+satellites in GEO.4 According to an expert at CHINA reconnaissance (ISR) training company,
+ExoAnalytic, these behaviors demonstrate and LSAS Tec, a company providing support
+China’s proficiency in conducting sophisti- CONTINUES services for space operations, released a
+cated satellite maneuvering and willingness video on YouTube documenting several TJS-
+to expend fuel to conduct rapid maneuvers.5 TO LAUNCH 10 maneuvers in that eventually
+To emphasize these points, the expert also brought the satellite to within 25 kilometers
+AND OPERATE
+noted that the Chinese satellite TJS-2 was (km) of another Chinese satellite in GEO,
+tracked during the last year maneuvering TJS-3, on May 16, 2024.7
+HIGHLY
+at 44 mete rs per second, which is unusually In , China launched SJ-25,
+high and uses significantly more fuel than MANEUVERABLE which official sources claim will be used
+the more standard range of 0.5–1 meters per for testing satellite fuel replenishment
+second for repositioning satellites in GEO.6 SATELLITES, and life extension service technologies.8
+The expert further described how another After launch, according to analysis from
+satellite, TJS-4, maneuvered to position itself [WHICH] COULD COMSPOC and Integrity ISR, SJ-25 entered
+between a U.S. space surveillance satellite a coplanar orbit with SJ-21, a satellite which
+ENABLE A
+and the Sun, creating a disadvantageous in 2022 attached to and moved a defunct
+geometry for imaging the Chinese satellite. Beidou satellite from its position in GEO
+FORMIDABLE
+to a graveyard orbit, suggesting SJ-25
+The following three Chinese satellite pro-
+may intend to refuel SJ-21.9 Additionally,
+grams usually feature prominently in each ON-ORBIT
+in , suspected Chinese GEO
+edition of Space Threat Assessment, and
+this year is no exception. There is often little COUNTERSPACE inspector satellite TJS-3 moved to within
+one degree latitude of SJ-21, possibly
+public information about these spacecraft
+ARSENAL. suggesting a supporting role for TJS-3 in
+capabilities or specific missions, outside of
+an upcoming refueling attempt.1011
+official Chinese government statements,
+which are almost certainly designed to con- On two occasions in the last year, Integrity
+ceal the true purposes of military satellites. ISR published an analysis on the behaviors
+Most public information about the activities of SY-12-01 and SY-12-02, a pair of satellites
+of Chinese satellites in GEO, documenting launched in whose purpose
+Table 3
+CHINESE SATELLITE SERIES THAT OFTEN EXHIBIT RPOS
+English Satellites Entered
+Program Orbit Purpose
+Translation11 into Operation*
+suspected military early
+“communication
+Tongxin Jishu Shiyan (TJS) 17 GEO warning and signals
+technology test”
+intelligence missions
+LEO, GEO, Sun-
+“best practice” or “put Synchronous Orbit (SSO), various experimental
+Shijian (SJ) 43
+into practice” and Highly Elliptical Orbit missions
+(HEO)
+“experiment,” “pilot,” or various experimental
+Shiyan (SY) 45 LEO, GEO, SSO, and HEO
+“trial” missions
+*includes operational, decayed, and failed missions
+csis aerospace security project research and analysis, current as of april 18, 2025
+
+CHINA
+is described by Chinese media as “spatial
+environment exploration and related tech-
+nical tests.”12 At the time of publication for
+last year’s Space Threat Assessment, these
+satellites had been drifting in opposite
+directions across the entire GEO belt. They
+continued to drift this year. According to
+the Integrity ISR assessments, in Novem-
+ber 2024, SY-12-02 reached its turnaround
+point of 17.3 degrees east (over central Eu-
+rope) and began a new eastward journey.13
+In , SY-12-01 reached its
+turnaround point of 178.9 degrees east
+(over the Pacific Ocean) and began a new
+westward journey.14
+In addition to its progress in GEO, over
+Test satellite Shijian-25 is sent into maneuvers over several months in late 2024
+the last year China has demonstrated the
+space on January 7, 2025. by LDPE-3A, a U.S. satellite characterized
+ability to execute increasingly complicated
+as a “freight train” for experiments to GEO,
+spacecraft maneuvering in LEO. In May photo by du xinxin/getty images
+that placed it about 25 km from and with
+2024, the Shenlong space plane released,
+favorable lighting conditions for viewing
+maneuvered with, and possibly captured
+Chinese satellite SJ-23, which in this case
+an object before returning to Earth in Sep-
+tember 2024, after having been in orbit for also monitoring and assessing U.S. space- did not maneuver in response.23 China is
+over 260 days, according to analysis by based SSA capabilities and is more willing to likely increasingly willing to publicly discuss
+Slingshot Aerospace.15 The space plane had publicize the results of its assessments.20 The observed GSSAP behaviors to influence
+previously released six other space objects CASI report details the increasing number of international opinions, probably aiming
+soon after it launched in .16 Chinese academic publications that analyze to portray the United States as having a
+In , three satellites believed to the patterns of life of U.S. Geosynchronous double standard—engaging in the same
+be technology demonstrators—SY-24C-01, Space Situational Awareness Program (GS- activities for which it criticizes China as
+SY-24C-02, and SY-24C-03—conducted cork- SAP) satellites, including publicly naming being unsafe and unprofessional.
+screw maneuvers around SJ-6-05B, believed the satellites most visited by GSSAP. China There is little public information on new
+to be another technology demonstrator likely obtains data on close approaches Chinese cyber or electronic warfare activi-
+with potential signals collection capabili- from its own sensors, the Russian-led Inter- ties since the last Space Threat Assessment.
+ty, as described in an analysis by Integrity national Scientific Optical Network (ISON), During the last year, experts expressed
+ISR.17 Additionally, in March and , and publicly available information from U.S. concerns about the impacts of Chinese-at-
+SY-24C-03 and SJ-6-05A conducted rendez- and European SSA databases.21 The PRC’s tributed Salt Typhoon cyber operations on
+vous and proximity operations (RPO), with SSA capabilities rely on domestic ground- space infrastructure.24 More detailed infor-
+each satellite maneuvering and the closest based infrastructure, foreign datasets, and mation was officially released on another
+approach distance less than 1 km—essen- at least 10 spacecraft.22 PRC state-sponsored cyber group targeting
+tially face-to-face for satellites traveling From an operational standpoint, China’s satellite services and other sectors, Volt Ty-
+at around 17,000 mph—on April 22, 2024, attention to the patterns of life of U.S. space- phoon, including descriptions of the actor’s
+according to analysis by s2a solutions, a craft has likely influenced how Chinese satel- techniques and recommended remedies.25
+Swiss company.18 In , a senior
+lites respond when approached by suspect- Additionally, public threat reporting from
+Space Force official characterized these
+ed U.S. space surveillance satellites. Notable indicated that an unknown
+behaviors as “dogfighting” in space.19
+examples of such behavior in GEO include cyber threat actor tied to Chinese-speaking
+While continuing to advance its abilities how SY-12-01 and SY-12-02 responded to groups has focused on supply chains for
+to conduct sophisticated maneuvering in the approach of USA 270 in late 2023 and defense-related industries, with a particular
+both LEO and GEO, according to a study TJS-4 behaviors described by ExoAnalytic focus on drone manufacturers, in Taiwan.26
+released by the China Aerospace Studies and noted earlier in this section. Integrity ISR It would be reasonable to assume these
+Institute (CASI) in , China is and LSAS Tec published information about Chinese-speaking groups were affiliated in
+8 SPACE THREAT ASSESSMENT 2025
+
+some way with China. It has been mostly that emerges from these articles is that
+quiet on the electronic warfare front, as China’s counterspace capabilities will be
+there were only sporadic reports of Chinese CHINA IS LIKELY less effective against a U.S. satellite con-
+jamming or spoofing of GPS or other satellite stellation composed of a mix of proliferated
+signals over the last year.27 Though there INCREASINGLY constellations.”33
+is not much cyber or jamming news this
+In early 2025 it was reported that Chinese
+WILLING TO
+past year, based on findings presented in
+scientists have run artificial intelligence-cre-
+prior editions of Space Threat Assessment,
+PUBLICLY ated simulations of targeted attacks on
+China undoubtedly maintains advanced
+Starlink satellites to disrupt services.34 A
+cyber and electronic warfare capabilities
+DISCUSS Nanjing University of Aeronautics and As-
+that can affect space systems.28
+tronautics team published a study that
+A reorganization of China’s armed forces OBSERVED alleges 99 Chinese satellites could disrupt
+during the last year points to a focus on 1,400 Starlink satellites within a 12-hour pe-
+GSSAP
+warfighting in space, as well as in cyberspace riod, targeting not individual satellites, but
+and the information operations domain, large sections of the Starlink constellation.35
+BEHAVIORS
+that cuts across and supports the service Inspired by how whales hunt in teams and
+branches. Specifically, in , China direct large swaths of fish into their mouths
+TO INFLUENCE
+announced the reorganization of the Peo- in open water, the study describes Chinese
+ple’s Liberation Army (PLA) into four servic- satellites “hunting” Starlink satellites by
+INTERNATIONAL
+es—the PLA Ground Force, Navy, Air Force, using directed-energy weapons, such as
+and Rocket Force—and four cross-cutting OPINIONS. lasers and microwaves. Notably, Nanjing
+arms—the PLA Aerospace Force, Cyberspace University has been called one of the “seven
+Force, Information Support Force, and Joint sons” of China’s national defense, founded
+Logistics Support Force.29 Though the Joint by the Chinese Ministry of National Defense
+Logistics Support Force has existed since and sanctioned by the United States and
+same wide range of both fixed and mobile
+2016, the Aerospace Force, Cyberspace Taiwan for its involvement in developing
+electronic warfare systems that can inter-
+Force, and Information Support Force are military technologies.36
+fere with satellite communications links,
+new organizations, created by dividing up
+GNSS signals, and synthetic aperture radar
+the responsibilities of the now defunct Stra-
+(SAR) intelligence-gathering satellites, as
+tegic Support Force, which had previously
+described in the 2024 report.
+handled space-based intelligence, recon-
+naissance, electronic countermeasures, Over the past year, it has also become clear
+signals intelligence, information warfare, that Beijing assesses a military threat posed
+and communications. The Aerospace Force by LEO systems like Starlink. Researchers at
+is responsible for managing all PLA space- East China Normal University and the PLA-af-
+based capabilities, including counterspace filiated National University of Defense Tech-
+weapons, and PLA space launch facilities. nology have written about the military and
+strategic implications of Starlink satellites,
+Throughout the last year, Chinese scien-
+arguing that SpaceX’s relationship with the
+tists published several research papers on
+military technologies, including high-pow- U.S. government may have lasting security
+ered microwave and laser technologies, implications. Three articles, published in
+that—though not described as counterspace Chinese journals focused on intelligence
+weapons in the papers—could be applied and international security studies, outline
+to counterspace weapons developments.30 concerns of broad deployment of Starlink
+However, there is no new publicly available satellites by the United States and Starlink’s
+information on specific military programs ability to transmit data that may be used
+aimed at developing or testing these tech- for new combat styles, citing the impact
+nologies. As noted in Space Threat Assess- Starlink had on the battlefield in Ukraine.32
+ment 2024, the PRC has already fielded Importantly, these assessments overstate
+ground-based laser weapons capable of the capabilities of Starlink and assume the
+blinding or damaging satellites and con- satellites have been integrated into U.S.
+ducted research on mobile high-powered Department of Defense (DOD) architectures
+microwave weapons for general military and intelligence missions. Further, as one
+applications.31 China also maintains the U.S. scholar observes, a “clear PRC concern
+
+RUSSIA
+RUSSIA
+HROUGHOUT THE PAST YEAR, Russia has engaged in several
+T
+provocative counterspace activities, in addition to allegedly work-
+ing on a nuclear space-based anti-satellite weapon, according to
+revelations that first surfaced in .1 In , the
+United States accused Russia of launching a counterspace weapon, assess-
+ing it had “characteristics resembling previously deployed counterspace
+payloads” in 2019 and 2022.2 Not long after launch, the Russian satellite,
+designated Cosmos 2576, proceeded to enter into a coplanar orbit with a
+U.S. government satellite, USA 314, maneuvers the U.S. government justifi-
+ably viewed with concern, as such actions could signal the positioning of a
+counterspace weapon.3
+As of late , Cosmos 2576 was no longer operating in a syn-
+chronized orbit with USA 314, having begun maneuvers to raise its orbit
+in mid-, possibly coinciding with the thaw in U.S.-Russian
+relations.4 In , Russia launched Cosmos 2581, Cosmos 2582,
+and Cosmos 2583, acknowledged by Moscow as belonging to the Ministry
+of Defense, but little else is publicly known about their mission.5 Since then,
+Cosmos 2581 and Cosmos 2582 have moved in formation, coming as close as
+100 meters apart on March 5, 2025—by any measure, a very close approach
+for two satellites.6 Though Cosmos 2583 has yet to maneuver since reaching
+orbit, it did pass as close as 0.5 km to Cosmos 2581 and Cosmos 2582 on
+March 7, 2025.7 Additionally, as it has done since its launch in ,
+Cosmos 2558—a satellite that the U.S. Space Force asserts is also a counter-
+space weapon—remained in a coplanar orbit with USA 326.8
+10 SPACE THREAT ASSESSMENT 2025
+
+Meanwhile, Russia’s Luch (Olymp) sat- through radiation effects or the resulting EMP.15 weapon with a nuclear payload. Howev-
+ellites have continued to prowl the GEO The United States not only publicly condemned er, it was disclosed that Moscow’s efforts
+belt. Since the publication of the last the development of this new weapon but also have been years in the making, with a
+Space Threat Assessment, Luch (Olymp) sought to apply international pressure through senior U.S. official shedding light on
+2 has spent time near Eutelsat Konnect, the United Nations. To date, Russian officials the intended orbital regime for such a
+RASCOM-QAF 1, Astra 4A (originally Sirius continue to deny accusations that Russia is even counterspace weapon and connecting a
+4), Thor 7, SES 5, Intelsat 3-F7, Thor 6, pursuing such a weapon. “scientific” satellite currently in-orbit “in
+and Intelsat 10-02, according to data from a region not used by any other spacecraft
+Slingshot Aerospace.9 These satellites . . . of higher radiation than normal low-
+provide communications and broad- er-Earth orbits” to the effort.17 Satellite
+cast services to a wide range of areas, trackers deduced that the satellite is
+AS OF LATE
+including Africa, Europe, the Middle likely Cosmos-2553, a satellite launched
+East, and South America. Some ana- , in into a 2,000 km orbit
+lysts assess that Luch (Olymp) 2 may that the Russian ministry of defense
+have come as close as 5 km to Thor 7 COSMOS 2576 stated was a “technological spacecraft
+in and less than 1 km from . . . equipped with newly developed
+Intelsat 10-02 in .10 Believed WAS NO LONGER onboard instruments and systems for
+to be a signals collection satellite, it testing them under the influence of ra-
+is not surprising that Luch (Olymp) 2 OPERATING IN A diation and heavy charged particles.”18
+loitered near satellites providing data While reports claim this satellite car-
+SYNCHRONIZED
+and broadcast services over Europe, ries a “dummy warhead,” U.S. officials
+consistent with past Luch behavior.11 ORBIT WITH USA stress that, should a nuclear weapon be
+Prior to the arrival of Luch (Olymp) 2 detonated at a 2,000 km altitude, the
+near Astra 4A in (providing 314. effects would be “indiscriminate” and
+internet services across Europe), Astra 4A render LEO unusable “for some period
+signals were jammed—likely by ground- of time,” perhaps a year.19 The only other
+based Russian jammers—interfering satellites in orbits near Cosmos-2553
+with Ukrainian broadcasts.12 Though are one nonoperational Russian satellite
+On March 14, 2024, the United States and Japan
+unlikely mere coincidence, the specific and 10 nonoperational U.S. satellites.
+introduced a draft resolution to reaffirm states’
+relationship between the two events is According to one expert, if the satellite
+obligations under Article IV of the OST, calling on
+not clear. Since 2023, Luch (Olymp) 1 is testing new technologies, it may
+nations not to develop nuclear weapons specif-
+had been parked near Intelsat 37e at 342 have been placed in such a remote
+ically designed to be placed in orbit around the
+degrees East latitude, though in March orbit because there would be less
+Earth. The draft resolution underwent a series
+2025 it moved slightly lower than the risk of affecting other satellites and it
+of negotiations and redrafts leading to a vote on
+geostationary belt, starting an eastward would be difficult to monitor.20 Based
+April 24, 2024. While 65 member states cospon-
+drift of about half a degree per day.13 upon persistent radar monitoring by
+sored the draft resolution, Russia cast a veto, and
+LeoLabs of Cosmos-2553, there is high
+Though revelations that Moscow is
+the draft resolution failed to be adopted. China
+confidence it has been tumbling since
+developing a space-based nuclear an-
+abstained from the vote. The United States and
+mid-.21 This observation
+ti-satellite weapon were covered in last
+Japan released a joint statement expressing their
+strongly suggests the satellite is no
+year’s assessment, this issue continued
+disappointment and continued commitment
+longer operational.
+to develop throughout last year and
+to ensuring countries cannot deploy nuclear
+remained a significant counterspace In addition to its counterspace efforts in
+weapons in space. Soon after, Russia and China
+headline in 2024. Not long after the space, Russia engages in jamming and
+circulated their own resolution calling on broad
+first reports surfaced in , spoofing GPS signals on Earth. Russian
+international prohibitions on space weapons. As
+U.S. officials publicly addressed their efforts to interfere with GPS signals
+it has done when Russia and China raised such
+concerns that Russia was developing a stretch from the Baltic and Nordic na-
+language in the past, the United States opposed
+“troubling” anti-satellite counterspace tions, through Ukraine and Russia itself,
+this resolution, previously calling the Russian
+weapon with alleged nuclear capa- to countries in the Black Sea region.22
+and Chinese proposal fundamentally flawed and
+bilities.14 A breach of the 1967 Outer Though efforts to jam and spoof GPS
+noting that it lacks a verification mechanism and
+Space Treaty (OST), which prohibits in Ukraine, including around Crimea
+does not address ground-based ASAT weapons.16
+signatory nations from stationing nu- in the Black Sea, have been ongoing
+clear weapons in space, such a weapon Piecing together statements from U.S. officials since the start of the war, those efforts
+would disable or destroy hundreds—if and other publicly available sources, it appears mushroomed to include many other
+not thousands—of satellites in LEO that Russia has not yet launched an anti-satellite regions in mid-2024.23
+
+RUSSIA
+Figure 1
+TIMELINE OF RUSSIAN NUCLEAR ASAT THREAT AND RESULTING
+DEVELOPMENTS
+FEBRUARY 14, 2024
+U.S. House Permanent Select Committee on Intelligence Chairman Michael Turner issues a
+cryptic statement “concerning a serious national security threat” that press reports later
+reveal as a potential Russian nuclear anti-satellite weapon designed to target satellites
+orbiting the Earth.
+FEBRUARY 15, 2024
+During a press conference, a White House spokesperson, John Kirby, confirmed that Russia
+has obtained a "troubling" new ASAT weapon, an accusation that Russia denied as a
+"malicious fabrication.”
+FEBRUARY 20, 2024
+Russian President Vladimir Putin comments on the topic of nuclear weapons in space
+during a working meeting in Moscow with Russian Defense Minister Sergei Shoigu, “Our
+position is clear and transparent: We have always been categorially against, and are now
+against, the placement of nuclear weapons in space. . . . On the contrary, we call for
+compliance with all agreements that exist in this area and proposed to strengthen this joint
+work many times over.”
+MARCH 14, 2024
+The United States and Japan circulate a draft resolution to the UN Security Council that
+would affirm the goal of preventing an arms race in space and reiterate the Outer Space
+Treaty’s prohibition on placement in Earth orbit of objects carrying nuclear weapons or any
+other kinds of weapon of mass destruction.
+APRIL 24, 2024
+The UN Security Council votes—13 votes in favor, 1 against (Russia), and 1 abstention
+(China)—on the draft resolution which fails to be adopted due to Russia's veto. Russia and
+China had proposed an amendment to the draft resolution calling for a ban on placing any
+weapons in space. The amendment was not adopted because it failed to get the minimum
+level of support in the UN Security Council needed to add an amendment.
+12 SPACE THREAT ASSESSMENT 2025
+
+NORMALIZATION OF DEVIANCE
+MAY 1, 2024
+U.S. Assistant Secretary of Defense for Space Policy John Plumb testifies before the U.S.
+House Armed Services Committee that Russia is developing a nuclear ASAT weapon
+intended to “fly in space” that, while “not an imminent threat,” could render LEO unusable
+“for some period of time,” perhaps a year, if detonated.
+MAY 3, 2024
+U.S. Assistant Secretary of State for Arms Control, Deterrence, and Stability Mallory Stewart
+discusses concerns that Moscow is “considering the incorporation of nuclear weapons into
+its counterspace programs.” She further says that the United States had been aware of this
+effort for years and gave clues about the intended orbital regime and a connected
+“scientific” satellite currently in-orbit “in a region not used by any other spacecraft . . . of
+higher radiation than normal lower-Earth orbits.”
+MAY 20, 2024
+The UN Security Council votes on a Russian-led draft resolution, containing similar
+language as the U.S.-Japan–led resolution vetoed by Russia on April 24, 2024, with the
+addition of the previous Russia-China–led amendment and text calling for negotiations on
+a legally binding agreement for the prevention of an arms race in outer space. The UN
+Security Council does not adopt the resolution—seven votes in favor, seven votes against,
+and one abstention (Switzerland).
+JUNE 20, 2024
+Chairman Turner deliveres remarks at CSIS warning of the threat posed by a Russian
+nuclear ASAT weapon.
+MARCH 26, 2025
+In his written testimony to the House Armed Services Committee, Subcommittee on
+Strategic Forces, the Commander of U.S. Space Command General Stephen N. Whiting
+describes Russia’s placement of a nuclear weapon in space as “most concerning,” noting its
+ability to potentially disrupt the use of space.
+the house permanent select committee on intelligence, the white house, bbc news, the house armed services committee, csis,
+and the senate armed services committee
+
+Russia has on at least one occasion during the
+last year employed electronic warfare activities
+RUSSIAN outside of Ukraine that affected more than GPS
+and television signals. In , when flying
+EFFORTS TO
+near Kaliningrad, a UK military aircraft returning a
+senior official to the United Kingdom from a visit
+INTERFERE WITH
+to Poland experienced GPS and communications
+interference for about 30 minutes.30 It remains
+GPS SIGNALS
+unclear whether the official’s flight was the specific
+target of the jamming attack, with UK officials
+STRETCH FROM
+publicly noting that it is not uncommon for aircraft
+THE BALTIC to experience GPS interference near Kaliningrad.
+Russia also continues to pursue capabilities de-
+AND NORDIC signed to defeat Starlink, having announced in
+ the development of a new moni-
+NATIONS . . . TO toring system called Kalinka that can identify and
+locate Starlink terminals.31
+COUNTRIES IN
+As it has done in prior years, Russia threatened
+THE BLACK SEA the private sector for supporting the U.S. national
+security mission in space. In , a spokes-
+REGION. person for Russia’s Ministry of Foreign Affairs said
+that Russia is “aware of Washington’s efforts to
+attract the private sector to serve its military space
+ambitions,” and that such systems “become a
+legitimate target for retaliatory measures, in-
+GPS interference in the Nordic and Baltic re-
+cluding military ones.”32 Russia also complained
+gions is not new. For example, in the fall of
+during the UN General Assembly in 
+2018, Norway accused the Russian military
+that the United States and its allies use civilian
+of jamming GPS signals in the Kola Peninsula
+and commercial space infrastructure for military
+during NATO’s largest military exercise since the
+purposes, arguing that such activities jeopardize
+Cold War.24 However, the past two years have
+the peaceful use of space.33
+seen a surge in reports of GPS interference in
+these regions, as noted by the Finnish trans-
+port and communications agency Traficom,
+which saw roughly 2,000 reports filed in 2024
+compared to 239 reports in 2023.25 While it
+is difficult to point to a clear explanation for
+Russia’s interest in jamming and spoofing GPS
+signals across these regions, the growth of GPS
+interference in Russia itself is a response to
+Ukrainian attacks on Russia using GPS-guided
+drones and missiles as point defense.26
+Russia has also tried to interfere with Ukrainian
+television broadcasts from satellites, including
+attempting to jam signals from one of the Amos
+satellites in .27 Additionally, tele-
+vision signal jamming and hijacking affected
+Ukrainian broadcasts on Eutelsat’s Hotbird
+in March and .28 In response to in-
+creased jamming over the last year, a number
+of European countries lodged complaints with
+the International Telecommunication Union
+in , which then condemned Russian
+interference with GPS and television signals.29
+
+OTHERS
+OTHERS
+IRAN
+Since the beginning of last year, Iran has continued to increase its proficiency
+in space launch, successfully launching satellites in , , and from Iranian launch sites.1 The 
+launch placed three satellites into orbit. Iran claimed one of those three sat-
+ellites was a space tug, called Saman-1, that could reposition other satellites
+in orbit, a capability with obvious counterspace uses.2 In ,
+Russia launched two Iranian remote sensing satellites, called Kowsar and
+Hodhod, which Iran claims are the first two satellites operated by its private
+sector.3 Russia has launched other Iranian satellites before, including Iran’s
+first satellite, Khayyam, in .4
+Iran has pursued cyberattacks against aerospace and satellite infrastructure,
+among other targets, over the last year.5 Microsoft and Palo Alto Networks
+published reports in March and , respectively, that provided more
+details on the Peach Sandstorm incidents.6 Both reports assessed that this
+cyber campaign was directed by the Iranian Islamic Revolutionary Guard
+Corps as part of ongoing efforts to gather intelligence and conduct social
+engineering attacks. According to Microsoft, this same Iranian cyber threat
+actor has conducted prior attacks targeting the aerospace, construction,
+defense, education, energy, financial services, healthcare, government, sat-
+ellite, and communications sectors in multiple countries.7 In ,
+Mandiant reported on malicious cyber activity, aimed at espionage, linked
+to Iran’s Islamic Revolutionary Guard Corps that targeted the aerospace and
+defense sectors in the Middle East and possibly Turkey, India, and Albania.8
+15 SPACE THREAT ASSESSMENT 2025
+
+OTHERS
+NORTH KOREA
+North Korea’s only space launch attempt in
+2024 ended in failure when a rocket carrying
+the country’s second reconnaissance satellite
+exploded after liftoff in .9 North
+Korea continues to operate its Mallygyong-1
+satellite, which was launched in , and executed maneuvers to raise the
+satellite’s altitude in February and .10
+It was reported that North Korea successfully
+tested a new ballistic missile in 
+South Korean news broadcast shows North Korea’s launch of its Malligyong-1 satellite in
+and new intermediate-range hypersonic .
+missile in , which followed a
+jung yeon-je/getty images
+prior test in .11 Though none of
+these developments specifically relate to
+counterspace weapons, they demonstrate
+increasing North Korean proficiency with proximity operations and docking activities.15 not appear that Israel intends to use these
+space, missile, and rocket technologies. Though not publicly associated with a military weapons for a counterspace purpose, Israel
+program, such capabilities have clear counter- effectively maintains a latent anti-satellite
+During the past year, South Korea repeatedly
+space uses. As of , India may capability, particularly when paired with its
+raised concerns about North Korean efforts to
+be in talks with Russia to acquire a ballistic satellite detection and tracking knowledge.
+jam GPS signals around the Korean Peninsula
+missile early warning and space surveillance Israel likely conducted an exoatmospheric
+and near the border between North and South
+radar with a 6,000-km range for placement missile intercept in when it
+Korea. Without providing more specific infor-
+in southern India.16 Such a system may be shot down a Houthi ballistic missile.
+mation, in , then–U.S. Secretary
+intended for monitoring missile launches
+of State Antony Blinken warned that Russia
+from Pakistan, though it could also play a role
+was close to sharing “advanced space and
+EUROPE
+satellite technology” with North Korea.12 in monitoring satellites and space objects.
+In , the FBI and other partners is-
+Only two countries in Europe made coun-
+sued a joint cybersecurity advisory warning
+ISRAEL
+terspace news over the last year—France
+of North Korean cyber espionage activities
+and Germany—with both countries publicly
+targeting defense, aerospace, nuclear, and
+describing new counterspace initiatives.
+engineering entities around the globe with Though Israel has not featured prominently
+These would involve deploying satellites
+the goal of advancing North Korea’s mili- in past editions of Space Threat Assessment,
+capable of performing inspection and space
+tary and nuclear capabilities.13 Mandiant it is hard to ignore this year due to its efforts
+domain awareness (SDA) missions, as well as
+identified a cyber threat group in June to interfere with GPS in the eastern part of
+roles protecting other satellites from attack,
+2024 with probable ties to North Korea that the Mediterranean Sea, Syria, Lebanon,
+possibly using lasers or other non-kinetic
+conducted phishing attacks pretending to parts of Egypt, and Israel itself. No doubt
+weapons. The new French program, called
+be from an energy company and aerospace aiming to protect itself from missile and
+Toutatis, would include two LEO satellites:
+industry entity while targeting other entities drone threats launched by Iran, Hamas, Hez-
+Lisa-1, performing an SDA mission, and
+in those sectors.14 bollah, and the Houthis, Israel conducted
+Splinter LEO, a highly maneuverable sat-
+markedly more widespread, persistent GPS
+ellite capable of tracking hostile satellites
+jamming and spoofing, specifically around
+and potentially positioning itself between
+INDIA , when it was expecting Iranian
+a hostile satellite and the target satellite.18
+retaliation to an Israeli strike in Syria that
+Germany plans to launch the German In-
+killed two senior Iranian officials.17
+In , the Indian Space Research spector Satellite for Multiple Operations.19
+Organisation’s Space Docking Experiment Israel continues to develop and refine di- The satellite, publicly revealed in 2024,
+(SpaDeX) mission successfully demonstrat- rected-energy weapons, such as Iron Beam, would be equipped with robotic arms and
+ed India’s ability to conduct rendezvous and for use in missile defense. While it does be capable of inspecting other satellites.
+16 SPACE THREAT ASSESSMENT 2025
+
+FEATURED ANALYSIS
+FEATURED ANALYSIS
+GPS JAMMING
+AND SPOOFING
+AST YEAR’S SPACE THREAT ASSESSMENT NOTED that GPS jamming
+L
+and spoofing were becoming ubiquitous across parts of the world,
+particularly in areas of active military conflict. This past year saw a
+continuation and growth of that same trend. Many regions of the
+world, from the Arctic through Eastern Europe, to the Middle East and parts
+of South Asia, have been affected by GPS jamming and spoofing nearly every
+day since the publication of last year’s report.
+Though difficult to measure, the societal and economic impacts of such long-
+term disruptions to GPS service are significant, and no doubt compounded
+by ongoing conflict and political strife affecting many of these same areas.
+Qualitatively, however, GPS interference disrupts the lives and work of millions
+of people and in some cases (such as civil and commercial aviation) poses
+significant risks to public safety. Several UN agencies have also emphasized
+the harms of jamming and spoofing, noting that interference with satellite
+navigation signals is a threat to air and maritime safety and security.1
+17 SPACE THREAT ASSESSMENT 2025
+
+But GPS jamming and spoofing have pro- Figure 2
+duced—at least in part—the desired military
+NORMAL GPS RECEPTION VS GPS JAMMING
+effect, as munitions and drones that rely on
+GPS to find their targets have been made AND SPOOFING
+significantly less effective in GPS-denied
+environments.2 That said, there is no sign
+No GPS interference GPS interference
+that GPS interference is an air defense magic User receives signal from GPS satellites Jamming or spoofing signal overpowers
+bullet. It is the many layers of modern inte- GPS signal
+grated air defense systems, including jam-
+ming and spoofing, that have demonstrated
+effectiveness at blunting, for example, air
+threats to Israel and Russian drone and
+missile attacks on Ukraine. Likewise, the
+United States and European countries are
+implementing technical measures and oper-
+ational techniques to mitigate such effects
+on their weapon systems.3 Employing such
+GNSS jamming and spoofing systems to pro-
+tect military and other critical infrastructure
+from attack—whether in Israel, Ukraine,
+or Russia—demonstrates the increasing
+gps spoofing workgroup, GPS SPOOFING
+tactical battlefield utility of counterspace
+weapons, and it is a trend that is expected
+to continue.
+The most complete public picture of GPS ming worldwide were logged in the Aviation It is instead likely an example of Russian
+interference around the globe at any point Safety Reporting System. On the whole, use of hybrid warfare directed at NATO’s
+in time comes from maritime automatic these reports describe localized, ephemeral newest members, as the rise in spoofing
+identification system (AIS) and Automatic events.5 For example, in 2015, one of these responds to the timing of their ascension
+Dependent Surveillance-Broadcast (ADS-B) incidents involved intermittent GPS interfer- to the alliance in spring of 2024.10
+aircraft transponder signals. Aircraft pilots ence near a regional airport in Philadelphia
+Today, Russian efforts to spoof GPS signals
+and drone operators have also been able that Federal Communications Commission
+extend from the Black Sea to the Arctic, with
+to report instances of GPS jamming and agents attributed to a jammer being used
+impacts to several NATO members, and
+spoofing through the Federal Aviation Ad- by a driver to disable the tracking feature
+include many major cities and regions in
+ministration’s (FAA) Aviation Safety Report- on his truck.6 Several other reports in 2014
+Russia itself. Additionally, the start of Israel’s
+ing System and through a dedicated portal and 2015 related to GPS disruptions near war in Gaza in coincided with
+for reporting GPS anomalies.4 a Mexico City airport that could have been a massive increase in GPS spoofing incidents
+The International Air Transport Association caused by jamming.7 in the eastern Mediterranean Sea and Middle
+also operates databases containing informa- Until 2017, when several ships reported East. At the time of this report’s publication,
+tion about instances of GPS interference: the GPS spoofing in the Black Sea, documented over twenty countries experienced endemic
+Incident Data eXchange, a tool for reporting incidents of spoofing were still rare and GPS interference over all or parts of their
+flight security and safety concerns, and the mostly corresponded to transient events, territories. That interference can include
+Flight Data eXchange, a global flight data such as the protection of traveling high-level both GPS jamming and spoofing, as jam-
+repository. NOTAMs (originally called Notices government officials in Russia.8 As recently ming a real GPS signal can make spoofing
+to Airmen), issued by national aviation au- more effective.
+as the start of Russia’s invasion of Ukraine
+thorities to warn pilots about possible GPS
+in , widespread reports of Specifically, a jamming signal is broadcast at
+interference, can also provide clues about
+GPS spoofing were mainly confined to the sufficient strength to overpower legitimate
+the location and timing of GPS anomalies.
+Middle East.9 But Ukrainian drone attacks GPS signals, alongside a spoofing signal
+Until the last five years, though not en- into Russia provoked an increase in spoofing slightly more powerful than the jamming
+tirely uncommon, GPS jamming did not by Russian forces not just in Ukraine, but one, leading a GPS receiver to lock onto the
+have a widespread or persistent impact on also across western Russia. Russian spoof- spoofed signal. A spoofing signal is meant
+global aviation. Although other instances ing of GPS in the Baltic Region is harder to appear like a legitimate GPS signal, but
+undoubtedly went unreported, between to explain as a Russian force-protection the spoofing signal transmits incorrect
+2013 and 2017, only 90 reports of GPS jam- measure due to its distance from Ukraine. positional information. Though criminals,
+
+FEATURED ANALYSIS
+Figure 3
+TIMELINE OF NOTABLE GPS SPOOFING AND JAMMING ATTACKS
+FEBRUARY 26, 2024
+▪ The Norwegian Communication Authority reports an increase in spoofing and jamming
+incidents after the onset of the Russia-Ukraine war.
+
+▪ California-based GPS developer oneNav conducts a field study, confirming “widespread
+Russian GPS jamming from Finland to Turkey.” The company reports it has tested new
+technology designed to counter interference attacks in northern Israel.
+▪ GPS jamming incidents increase in Lebanon, sparking protests in Beirut “over the threat
+to civil aviation.”
+
+▪ Pilots flying over the Baltic Sea, the Black Sea, and the eastern Mediterranean report an
+increase in GPS disturbances, likely caused by Russian jammers.
+▪ Due to cases of GPS interference, Finnish airline Finnair cancels daily flights to Tartu,
+Estonia, from April 29 to May 31, 2024.
+MAY 29–JUNE 2, 2024
+▪ Approximately 500 planes and hundreds of ships experience GPS issues due to North
+Korean interference.
+
+▪ A United Airlines flight from New Delhi to New York suffers a GPS spoofing attack
+originating in the Black Sea region. The attack compromises navigation systems for the
+rest of the flight.
+▪ The number of flights affected by spoofing increases from “a few dozen in February to
+over 1,100 in .”
+
+▪ Approximately 1,000 flights per day report suffering from interference when flying over
+northern Israel and Ukraine.
+▪ Finland’s Coast Guard reports GNSS and GPS disturbances in the Baltic Sea, stating that
+“tankers were spoofing their location data to cover up visits to Russia.”
+19 SPACE THREAT ASSESSMENT 2025
+
+OCTOBER 4, 2024
+▪ South Korea reports 578 total instances of GPS interference between January and
+August.
+NOVEMBER 8–9, 2024
+▪ North Korean GPS interference impacts an unspecified number of flights and vessels for
+two days in a row, according to South Korean military officials.
+
+▪ An increasing number of spoofing incidents are reported in Jordan, impacting roughly
+244 flights.
+JANUARY 17, 2025
+▪ A Ryanair flight from London to Vilnius is diverted to Warsaw, Poland, due to GPS
+spoofing attacks near NATO’s eastern border.
+
+▪ Pakistani airports report GPS signal interference, which impacts aircraft flying into and
+around the Karachi, Lahore, and Islamabad airports.
+FEBRUARY 26, 2025
+▪ The International Air Transport Association releases its 2024 Annual Safety Report,
+citing Türkiye, Iraq, and Egypt as GNSS interference hotspots and noting a 500%
+increase in GPS spoofing incidents between 2023 and 2024.
+
+▪ Airlines report 465 instances of GPS interference and spoofing around Amritsar and
+Jammu between and .
+▪ Business aircraft crews report increased incidents of “GPS jamming and spoofing
+interference during international trips, especially in the Middle East.”
+MARCH 26, 2025
+▪ UN agencies issue a joint statement expressing “grave concern” about the rise of RNSS
+jamming and spoofing attacks.
+itu, NEWSWEEK, BREAKING DEFENSE, gps world, reuters, and the national business aviation associaton
+
+FEATURED ANALYSIS
+Figure 4
+LOCATIONS OF SIGNIFICANT GPS INTERFERENCE EVENTS BETWEEN
+ AND 
+Countries with significant GPS
+interference events
+csis aerospace security project research and analysis, zhaw/skai data services using opensky network, and gpsjam.org
+terrorists, and other nonstate actors may able to Israel as part of its efforts to combat Ukraine continued to launch drone attacks
+still find it easier to acquire and use GPS threats from Hamas, Hezbollah, and Iran. The on Russia, executing one of its largest drone
+jammers, nation states that have access greatest spike in spoofing incidents over the strikes on Moscow in .14 Up until
+to powerful long-range electronic warfare last year, in mid-, followed Israel’s early 2025, Ukraine had maintained a steady
+capabilities have clearly found that spoofing airstrike on April 1, 2024, targeting senior cadence of drone attacks on targets in Rus-
+can be more effective than jamming alone Iranian commanders in Syria, while Israel sia, likely prompting Russia to continue
+because GPS receivers often do not realize awaited possible Iranian retaliation, which GPS jamming and spoofing as part of an
+they are being spoofed but easily recognize ultimately came on April 13, 2024.12 integrated air defense campaign to defeat
+when a GPS signal is blocked. drones.15 In , Ukraine destroyed
+Also, around , the Black Sea region
+an abandoned offshore gas platform in the
+According to publicly available data, esti- and Russia experienced a surge in the num-
+Black Sea that Russia had been using for GPS
+mates for the number of worldwide commer- ber of flights daily reporting GPS spoofing,
+spoofing operations, though it is not clear
+cial flights experiencing spoofing increased with these activities plausibly attributed to
+how the rig’s destruction impacted Russia’s
+from 500 or fewer per day between January Russian efforts to defend against missiles
+spoofing capabilities.16
+and mid- to a peak of nearly and drones launched from Ukraine. This
+3,000 flights in , before leveling off time frame coincides with a drone attack Outside of the Middle East, Russia, and
+at between 1,000 and 1,500 affected flights deep into Russia from Ukraine, a major drone Baltic and Black Sea regions, several other
+per day for the following several months.11 attack on a Russian airbase, and stepped-up regions experienced significant GPS inter-
+Most of these spoofing incidents occurred drone attacks on other important targets ference from to ,
+in the Middle East and were likely attribut- inside Russia.13 Over the next several months, when this report was published.17 These
+21 SPACE THREAT ASSESSMENT 2025
+
+Figure 5 a challenge. The presence of a persistent
+cyber threat actor on a network may be
+DAILY NUMBER OF AFFECTED FLIGHTS PER
+discovered without revealing the hackers’
+SPOOFED-TO AREA aims, leaving questions about the actual
+target of the attack. For the authors of this
+report, this ambiguity makes it difficult
+Middle East Russia Black Sea Kaliningrad Asia
+to determine which cyberattacks qualify
+Number of Flights
+as attacks on space systems and related
+2000 Most of the spoofing that occurred infrastructure and, thus, deserve atten-
+in the Middle East is likely
+tion in this report. For example, a threat
+attributable to Israel as part of its
+efforts to combat threats from actor might be detected on the servers
+Hamas, Hezbollah, and Iran.
+of an academic research institute with an
+
+aerospace engineering department. Was
+this attacker targeting space systems (i.e.,
+worth mentioning in a report on counter-
+1000 space threats)?
+Additionally, because some cyberattacks are
+only made public by the attackers with no
+500 confirmation from the victim organization, it
+can be difficult to understand the full impact
+of hacks or even know for certain whether
+an attack took place. Frequently, hackers
+Jan 2024 Mar 2024 Jul 2024 Sep 2024 Nov 2024 Dec 2024 publicly post screenshots or other evidence
+of a successful cyber exploit, to demonstrate
+zhaw/skai data services, using opensky network
+data theft, to claim credit for the hack, or in
+the case of ransomware attacks, to pressure
+victims to comply with financial demands.24
+But hackers, particularly ones motivated by
+areas include the region between Lahore, aviation agency, admonished North Korea
+geopolitical or ideological aims, could also
+Pakistan, and New Delhi, India, particularly for repeatedly jamming GPS signals near
+theoretically claim credit for attacks that
+along the countries’ shared border, and its border with South Korea in May and
+Myanmar. In Myanmar, GPS interference , GPS interference was still being never took place or exaggerate the scope
+is a response by Myanmar’s military to the reported around the Korean Peninsula as of of their exploits for propaganda purposes.
+rise in drone attacks carried out by armed .22 In spite of complaints
+groups affiliated with the opposition party about its efforts to disrupt GPS, Israel
+in the country’s ongoing civil war.18 Some continues to spoof signals throughout
+GPS spoofing was observed near the bor- the region, with the eastern Mediter- IT CAN BE
+der between North Korea and South Korea ranean region widely affected during
+throughout 2024, peaking around June.19 the past year.23 DIFFICULT TO
+There were also some reports of sporadic
+spoofing in Beijing in .20 UNDERSTAND
+To date, there are no indications that dip- THE DRIP-DRIP OF
+THE FULL IMPACT
+lomatic pressure or condemnation has
+CYBERATTACKS
+discouraged any nation state from deploying
+OF HACKS OR
+GPS jamming and spoofing systems in and
+around conflict zones or within their own Continuing trends noted in past re- EVEN KNOW
+national territories. Neither broad warnings ports, there has been no shortage over
+from the International Telecommunication the last year of cyberattacks targeting FOR CERTAIN
+Union, the UN agency charged with facilitat- government, critical infrastructure,
+ing international coordination on spectrum and other sectors, including space. WHETHER AN
+use, nor directed complaints from affected But developing a way to accurately
+ATTACK TOOK
+countries have altered Russia’s behaviors.21 tally and characterize certain key
+Even though the International Civil Avia- aspects of cyberattacks, such as at-
+PLACE.
+tion Organization, the United Nations’ civil tacker motivations and objectives, is
+SPACE THREAT ASSESSMENT 2025 22
+
+FEATURED ANALYSIS
+Table 4
+REPORTED CYBER INCIDENTS IN 2024 IMPACTING THE SPACE SECTOR
+Attack Description Source of Attack Disclosure Affected Sectors
+Unknown threat actors stole credentials of employees
+Energy, finance, government, health, space,
+of 30 companies across various industries worldwide Incident disclosed by IT-security company.
+and telecommunications
+beginning in early .
+Unknown threat actors compromised the company
+Incident disclosed by victim. Space and critical manufacturing
+network of Maxar Space Systems on October 4, 2024.
+Chinese-speaking threat cluster TIDRONE has targeted
+Taiwanese military and satellite industries with malware Incident disclosed by IT-security company. Defense, space, and telecommunications
+toolsets CXCLNT and CLNTEND since .
+Iran-linked Peach Sandstorm used malware to backdoor
+Australian, UAE, and U.S. organizations between April and Incident disclosed by IT-security company. Energy, government, and space
+.
+Pro-Ukrainian hacktivists BO Team targeted Russian State
+Research Center on Space Hydrometeorology, “Planeta,” Incident disclosed by government authorities. Research and space
+in .
+“european repository of cyber incidents (ERCI),” german institute for international and security affairs, accessed march 24,
+2025, 
+poc.
+Beyond the challenges in understanding worldwide cyberattacks, there were about That there were only five reported cyber
+hacker goals, positively identifying the 720 reported incidents across all sectors in incidents affecting the space sector in 2024
+physical location of hacker groups can be 2024, with roughly 57 percent of incidents according to the ERCI dataset may leave
+difficult. For example, experts do not yet targeting critical infrastructure.26 Of that some readers of this report scratching their
+know who is behind the IntelBroker hack- total number, the database lists five attacks heads, as there is a widespread perception
+er group, which has targeted aerospace as specifically targeting the space sector in that space systems face constant cyber
+related entities in the last year, with some 2024, approximately the same number of threats. In , the head of the Space
+indications it may be a lone-wolf actor attacks that targeted the space sector in Information Sharing and Analysis Center
+from Serbia, and others that it might be 2023, according to ERCI. (Space ISAC)—a nonprofit organization set
+affiliated with Iran.25 This lack of clarity on up in 2019 to improve threat sharing and
+The cyberattack documented by ERCI tar-
+mitigation for space systems and comprised
+affiliation and physical location of a hacker
+geting Maxar Space Systems in October
+of over 100 members across the public and
+group complicates attribution, making it
+2024 provides few insights into the motives
+private sectors within the United States and
+hard for the United States and other victims
+or aim of the attackers.27 At the time of dis-
+internationally—said that the organization
+of attacks to calibrate their response to
+covery, hackers had only gained access to
+records over 100 instances of cyberattacks
+hacks. It also makes it difficult to predict
+employee data on Maxar’s networks. There
+targeting “infrastructure related to space
+where such hackers may strike next and who
+is no public indication of whether personal systems” each week.28 Though on the sur-
+should be particularly on guard for attacks
+information was the goal of the hack or
+face these numbers are clearly at odds with
+from mysterious groups like IntelBroker.
+whether gaining this limited access was the rather low number of cyber incidents
+For all these reasons, the authors of this the first step in a broader effort to breach targeting the space sector according to the
+report have found it hard to count year-by- operational or other systems specific to ERCI figures, the Space ISAC figures include
+year the number of cyberattacks targeting Maxar’s satellites or space systems. The attempted intrusions and hack claims made
+space systems. Though their numbers differ, hackers may very well have been targeting by attackers and not only, as the ERCI records
+some organizations try to keep tallies of Maxar because it is a space company, but report, successful attacks publicly acknowl-
+cyberattacks by the type of entity and sector it is equally plausible that Maxar’s servers edged by hack victims. Additionally, the
+targeted, among other criteria. According to were just one IP address on a long list of Space ISAC statistic speaks to the number
+the European Repository of Cyber Incidents unrelated entities, ones for which they of attacks targeting infrastructure related
+(ERCI), a free database containing reports of merely found an exploitable vulnerability. to space systems, which seems to include
+23 SPACE THREAT ASSESSMENT 2025
+
+Table 5
+CYBERATTACKS IN 2024 IMPACTING THE SPACE SECTOR
+Hacker Affiliation Threat Actor Name(s) Probable Threat Actor Motivation
+Stormous, SpaceBears, NoName057(16) , LockBit, Phoenix, and
+Russia Data theft
+others
+China TIDRONE, BianLian Data theft
+Iran Peach Sandstorm, UNC1549 Data theft
+North Korea Andariel (Onyx Sleet) , UNC2970 Data theft
+Anonymous Bangladesh (BD), SN BLACKMETA, IntelBroker, Data theft, financial gain (ransomware), politically motivated
+Other or unknown
+Sapphire Werewolf , and others disruptions
+data provided by the space isac
+more types of networks than are included RPOS: BENEVOLENT reasons—or, at least, reasons that do not
+in the term “space sector” used by ERCI. involve the use of a weapon—to move closer
+OR CRUEL
+to another active satellite. A spacecraft may
+In yet another attempt to tally cyberat-
+INTENTIONS even have a non-hostile reason to conduct
+tacks targeting space systems, ETH Zurich,
+RPO and docking operations near a nonco-
+a Swiss university, published a report in
+operative space object, such as a defunct
+ that documented over 120 Though space has never been a static envi-
+satellite or piece of space debris—this is the
+publicly known cyber operations, between ronment—relative to the center of the Earth,
+business case for companies like Astroscale
+ and , target- the orbital speed of GEO satellites is 7,000
+and Clearspace. But a U.S. observer noting
+ing the space sector in the context of the miles per hour and LEO satellites around
+war in Ukraine.29 The report identified 12 17,500 miles per hour—most spacecraft a Chinese or Russian satellite shadowing or
+moving closer to one of its own satellites
+pro-Ukrainian and 19 pro-Russian cyber have generally tended to stay away from
+would reasonably view that behavior as
+threat actors who made claims to have other space vehicles to avoid potential col-
+threatening. Chinese or Russian observers
+targeted space systems. Of the attacks as- lisions. However, government-owned and
+sessed in the report, the vast majority—65 commercial satellites are becoming more probably have the same reaction when a
+percent—were distributed denial of ser- maneuverable and flying closer togeth- GSSAP satellite approaches their spacecraft.
+vice attacks, with 11 percent identified as er, conducting rendezvous and proximity The issue is that the United States and its
+network intrusions and 9 percent listed as operations, or RPOs, and docking with allies rightly do not take Russian or Chinese
+leak operations. A further nine categories other spacecraft on an increasingly regular statements about the purposes of maneu-
+of hack types were specified in the report, basis. In 2024, there was strong private vering spacecraft at face value and find
+including credential theft, data breach, sector interest in developing satellites to little assurances from Russian or Chinese
+malware, software cracking, and data breach perform maintenance, repair, assembly, assertions of peaceful intentions in space.
+extortion, among others. manufacturing, and inspection missions. But analyzing behaviors alone does little
+One final observation is that, though the Government agencies continue to work to clarify what their spacecraft are actually
+available data points to attempted and on systems that use orbital maneuvering, doing. Knowledge about a satellite’s capa-
+successful cyberattacks targeting systems RPO, and docking capabilities, such as bilities and context—for example, that it has
+associated with the space sector, there are space planes, crewed spacecraft, and sci- a grabber arm or device capable of latching
+no public reports in the last year that these entific missions.31 Additionally, no matter a onto another satellite or that it “birthed” a
+cyberattacks have specifically targeted satellite’s specific function, it may need to smaller object in proximity to a U.S. govern-
+spacecraft or satellites in space. Referenc- maneuver to avoid collision with another ment satellite—can help more fully assess
+satellite or a piece of space debris.
+es to satellite hacking usually relate to the purpose of a satellite exhibiting RPO
+attacks on ground infrastructure, the user Given the variety of use cases for maneu- behaviors. Some of these satellites display-
+terminal only, or the companies and insti- vering one spacecraft around another, it can ing RPO behaviors are probably designed
+tutions involved in satellite development be difficult to characterize a spacecraft’s as counterspace weapons, meaning they
+and operations.30 This does not mean that purpose using only data about its behaviors have capabilities intended to blind, jam,
+cyber threat actors have not compromised in space. Some spacecraft exhibiting RPO damage, or destroy other satellites. Other
+satellites in space, only that there is no behaviors may be counterspace weapons or satellites are possibly performing a space
+open-source indication of such efforts in testing technologies for use on such weap- surveillance mission or are testing on-orbit
+the last year. ons. Other spacecraft may have peaceful satellite servicing technologies.
+
+FEATURED ANALYSIS
+Coincidentally, the U.S. government and arguably, the same satellite could perform counterspace weapons could expose U.S.
+U.S. companies are fielding more space both roles. Though the United States should satellites doing those missions to increased
+systems aimed at some of these purposes. view attempts to surveil its satellites by Russian and Chinese counterspace risks.
+Broadly speaking, the U.S. Space Command Russia and China with concern, it would In addition, grouping satellites with coun-
+(USSPACECOM) is increasingly focused undoubtedly respond with considerably terspace weapons into the same category
+on using satellites that are designed for more restraint to a surveillance satellite as surveillance satellites will make it more
+frequent orbital maneuvering.32 The Space approaching one of its own satellites than a difficult for spacecraft operators to identify
+Force operates GSSAP, whose purpose is to counterspace weapon exhibiting the same and calibrate responses to real threats that
+collect SSA data.33 The Space Force is also behaviors. Greater transparency and aware- could damage, degrade, or destroy their
+investigating a next-generation constellation ness about specific satellite capabilities space systems. Grouping both types of
+of scout satellites in GEO.34 U.S. company is a possible way to delineate between a space systems together also increases the
+True Anomaly is planning to operate its own weapon and surveillance capability. But risk of misunderstanding and miscalculation
+satellites carrying out inspection operations, a lack of trust between the United States between geopolitical competitors in space.
+having launched its first and second mis- and its allies on one side and Russia and
+At the same time, satellites conducting
+sions in 2024.35 Another company, HEO, is China on the other would impede efforts to
+RPOs can still pose a security threat and
+using sensors on satellites to collect data increase transparency, since both sides likely
+safety hazard to others. For example, the
+about other space objects in LEO, though mistrust each other’s ability to be truthful
+revelation in that PRC satellites
+HEO’s approach is to use naturally occurring about the purpose of their satellites. The had practiced “dogfighting” maneuvers in
+flybys rather than active maneuvering to U.S. Space Force is building up its space in- space should be concerning. The authors
+obtain data.36 Beyond near Earth, the Air telligence collection, analysis, and targeting could imagine scenarios where adversary
+Force Research Laboratory is developing to enable a deeper understanding of foreign satellites maneuver against a target (like a
+two satellites designed to obtain SSA data capabilities and to support commanders’ U.S. government satellite) as to force it to
+from cislunar space.37 operational needs.40 Meanwhile, research- move, expend fuel, and degrade its mission.
+ers from LeoLabs, the University of Bern,
+There are no indications that any of the For these reasons, the authors of this report
+and Maxar are developing characterization
+aforementioned U.S. satellites are weapons, assert that satellites designed solely for
+methods that combine radar measurements,
+though their maneuvering signatures and obtaining SSA data or performing space
+information from ground-based optical
+behaviors may mirror those of on-orbit surveillance roles should not be considered
+telescopes, and non-Earth imagery data to
+counterspace weapons. The perception counterspace weapons but, understandably,
+provide new insights that can be used for
+that satellites like these are weapons could satellites conducting RPOs without a clear
+assessing a spacecraft’s purpose.41
+increase the risk of miscalculation, a risk understanding of capability and intent may
+compounded as more and more satellites Such a distinction between surveillance as- still be viewed as threats depending on the
+are launched with missions that include sets and weapons aids the United States and circumstances. As in other domains, the
+orbital maneuvering. But some maneuver- its allies in calling out unsafe, irresponsible, United States, Russia, China, and other
+able satellites, including those operated by and escalatory behaviors, especially when countries should eye warily but expect their
+U.S. allies and some planned by the United adversaries target surveillance assets as they adversaries and geopolitical competitors
+States itself, are intended as counterspace have done in other domains. For example, in to conduct surveillance and intelligence
+weapons. France, for example, publicly 2019, Iran shot down an unarmed, unmanned collection against their space assets. Sur-
+stated in 2024 that it plans on building LEO U.S. Global Hawk surveillance aircraft oper- veillance activities in space should not
+satellites that can actively defend against ating over international waters, and both provoke the same reaction as deployment
+attacks in space, having already announced China and Russia continue to harass U.S. and use of actual counterspace weapons.
+plans for a similar GEO capability, called and allied airborne ISR assets operating in Creating a public expectation that inspec-
+YODA, in 2021.38 The Trump administration’s international airspace over the South China tor or surveillance satellites are a hostile
+ executive order on “The Iron Sea and Black Sea, respectively.42 threat to be treated as weapons puts U.S.
+Dome for America” (now Golden Dome) companies with business plans around
+There is further danger in this lack of distinc-
+includes direction to develop and deploy doing those very same things more into
+tion and transparency. Given that the U.S.
+space-based interceptors to defend the U.S. the crosshairs of U.S. adversaries than they
+government and private sector, as well as
+homeland against advanced missile attacks.39 would likely already be.
+allied nations and geopolitical competitors,
+Based on satellite behaviors alone, there operate satellites with space surveillance There is no doubt that satellites conducting
+is hardly a way to distinguish between a and SSA missions, considering maneuvera- surveillance on other satellites to under-
+surveillance tool and a weapon, though ble surveillance satellites as threats akin to stand their purpose and capabilities serve
+25 SPACE THREAT ASSESSMENT 2025
+
+Table 6
+CHINESE AND RUSSIAN SATELLITES EXHIBITING UNUSUAL BEHAVIORS
+BETWEEN AND 
+Satellite Country Timeline Description
+Tracked maneuvering at 44 meters per second, which is
+TJS-2 China 2024 unusually high and uses significantly more fuel than the more
+standard range of 0.5 to 1 meters per second
+Maneuvered to position itself between a U.S. space
+surveillance satellite and the Sun, creating shadows
+TJS-4 China 2024
+that potentially blocked the U.S. satellite from properly
+photographing TJS-4
+TJS-10 came within 25 kilometers of another Chinese satellite
+TJS-10 China May 16, 2024
+in GEO, TJS-3, on May 16, 2024
+Entered a coplanar orbit with SJ-21, a satellite which in 2022
+attached to and moved a defunct Beidou satellite from its
+SJ-25 China 
+position in GEO to a graveyard orbit, suggesting SJ-25 may
+intend to refuel SJ-21
+Moved to within one degree latitude of SJ-21, possibly
+TJS-3 China suggesting a supporting role for TJS-3 in an upcoming
+refueling attempt
+After travelling westward, it reached 17.3 degrees East
+SY-12-02 China (over central Europe) and changed direction to begin a new
+eastward journey
+After travelling eastward, it reached 178.9 degrees East (over
+SY-12-01 China the Pacific Ocean) and changed direction to begin a new
+westward journey
+SY-24C-01, SY-24c-02, and SY-24C-03–conducted corkscrew
+maneuvers around SJ-6-05B, believed to be another
+SY-24C-01/02/03 China 
+technology demonstrator with potential signals collection
+capability
+SY-24C-03 and SJ-6-05A conducted rendezvous and proximity
+SY-24C-03 and SJ-6-05A China operations, with each satellite maneuvering and the closest
+approach distance less than one kilometer
+Entered into a coplanar orbit with a U.S. government satellite,
+Cosmos 2576 Russia 
+USA 314
+Cosmos 2581 Russia
+Cosmos 2581 and Cosmos 2582 have moved in formation,
+March 5, 2025
+coming as close as 100 meters apart
+Cosmos 2582 Russia
+Passed as close as 0.5 kilometers to Cosmos 2581 and Cosmos
+Cosmos 2583 Russia March 7, 2025
+2582, but has yet to maneuver since reaching orbit
+May have come as close as 5 kilometers from Thor 7, a
+Luch (Olymp) 2 Russia 
+European communications satellite
+May have come less than 1 kilometers from Intelsat 1002, an
+Luch (Olymp) 2 Russia 
+international communications satellite
+csis aerospace security project research and analysis
+
+FEATURED ANALYSIS
+a military and intelligence purpose. But they can also
+help to prevent misunderstandings, ensuring that deci-
+sionmakers can better discriminate between satellites DEBRIS-PRODUCING
+that are weapons (i.e., threats) and ones that are not.
+EVENTS THAT
+They also can play an important role in space safety
+for both government and commercial space operators,
+GENERATE NO
+helping to build a comprehensive picture of what is
+happening in the space environment and understand
+PUBLIC ALARMS . . .
+which satellites are truly counterspace weapons threats.
+CREATE EVEN MORE
+POINTS OF INSTABILITY: RISKS.
+UNINTENTIONAL SPACE
+DEBRIS GENERATION
+debris-generating incident is caused by a spacecraft
+Several debris-fragment-generating events in space associated with the U.S. government, Russia’s Vimpel
+have taken place since the publication of the last space object catalog is sometimes updated to reflect
+Space Threat Assessment, though there is no indi- new debris fragments quicker than Space-Track.44
+cation that any of these were intentional or caused During the last year, USSPACECOM only publicly an-
+by counterspace weapons. Previous editions of this nounced five debris-causing breakup events, yet this
+threat assessment have not specifically addressed section describes eight such events.45 Furthermore, for
+accidental debris-causing incidents; however, this each event acknowledged by USSPACECOM, this report
+report will discuss them, as they have the potential highlights the differences between the official Space-
+to create geopolitical complications and instability. Track numbers of cataloged debris fragments, as well as
+Catalogued and tracked debris fragments pose risks the timeliness of their cataloging, and other space-ob-
+to space safety and, should debris produced by a sat- ject-tracking options. One reason for the discrepancies
+ellite of one nation cause harm to satellites operated may relate to the Space-Track fidelity standards, which
+by other nations, can lead to increased international relate to how well an object is understood before it is or
+tensions. Debris-producing events that generate no is not cataloged. But no matter the cause, delays and
+public alarms, uncatalogued debris fragments, and inconsistencies in adding debris fragments resulting
+inadequately characterized debris clouds create even from spacecraft breakups and energetic events to Space-
+more risks, adding an unnecessary and avoidable Track create avoidable space safety risks and may affect
+element of surprise to the calculus. the credibility of the United States in the eyes of other
+international partners during discussions on norms
+For inexplicable reasons, certain debris-causing inci-
+of behaviors and rules of the road for space activities.
+dents are widely covered in the media, while others go
+entirely under the radar, without widespread public Resurs-P1 (Russia): Russia’s Resurs-P1 broke up
+coverage. Though USSPACECOM often makes public on June 26, 2024. Launched in 2013, Resurs-P1 was
+announcements of debris-generating events, it did a commercial remote sensing satellite in LEO that
+not issue statements for all events in the last year. operated until 2021, when it was deactivated upon
+However, commercial SSA entities often make public its replacement by Resurs-DK1. USSPACECOM noted
+announcements of such events, as will the Office of that the breakup generated over 100 trackable debris
+Space Commerce once its Traffic Coordination System fragments, while LeoLabs stated that it was tracking
+for Space (TraCSS) is operational.43 Additionally, it about 180 pieces of debris immediately after the event.46
+can sometimes take weeks if not months before the Though not confirmed, experts speculate the breakup
+Space Force enters new debris fragments into Space- was caused by improper or incomplete passivation
+Track. In many cases, private sector SSA organizations efforts upon the retirement of the satellite in 2021. As
+announce they are tracking far more pieces of debris of early , 18 pieces of debris were included
+than are either announced by USSPACECOM or logged in Space-Track. Due to the low altitude of the breakup,
+by Space Force in Space-Track. Especially when the all other fragments have likely already decayed and
+27 SPACE THREAT ASSESSMENT 2025
+
+burned up in the atmosphere. 2004, three other DMSP and two NOAA
+satellites using a similar design have all
+Upper Stage, Long March 6A (China):
+experienced similar malfunctions attributed
+Most likely caused by residual propellant,
+to battery explosions. In early ,
+the upper stage of a Long March 6A broke
+Space-Track started listing debris from this
+up in LEO, creating several hundred pieces
+satellite, with 19 fragments cataloged by
+of trackable debris—according to LeoLabs,
+March 10, 2025.
+potentially as many as 900 debris frag-
+ments—on August 6, 2024.47 By early March Blue Ring Pathfinder/Upper Stage, New
+2025, over 650 fragments were logged in Glenn (United States): Though not publicly
+Space-Track. This rocket had been launched reported by USSPACECOM, Blue Origin’s New
+by China on that same day carrying satellites Glenn upper stage, to which the Blue Ring
+for the Qianfan (“Thousand Sails”) LEO Pathfinder mission is attached, probably
+broadband satellite constellation. This was experienced a debris-generating event
+not the first time that the upper stage of a upon passivation in HEO on January 16,
+Long March 6A rocket broke up in orbit.48 2025.54 Though originally thought to be
+ice and other effluent, which should have
+Centaur Upper Stage, Atlas V (United
+naturally dissipated, the debris fragments
+States): On September 6, 2024, the Cen-
+are probably a combination of thermal con-
+taur upper stage of an Atlas V rocket broke
+up in a geotransfer orbit. The upper stage trol materials and other unknown objects.55
+had been passivated after launching a U.S. As of early , over 50 pieces
+government weather satellite in March of debris remained in orbit, with about 67
+2018. As of early , Space-Track logged in Russia’s space object catalog. As of
+contained no debris fragments associated , there are no debris fragments
+with this breakup, though an outside expert associated with this event in Space-Track.
+identified over 950 debris fragments by that Garpun 11L (Cosmos 2473) (Russia): On
+time.49 This is the fourth breakup of a Cen- May 28, 2024, a nonoperational Russian
+taur upper stage, with two other breakups military communications satellite in GEO,
+in 2018 and another in 2019. The cause of Garpun 11L (Cosmos 2473), experienced
+all four breakups is not known. some kind of energetic event that raised
+Intelsat IS-33e (United States): Intelsat the satellite 5 km and produced at least one
+IS-33e broke up on October 19, 2024, due new space object, identified in Russia’s space
+to unknown reasons. Prior to the breakup, object catalog.56 Launched in September
+the satellite had been a telecommunications 2011, Garpun 11L has not been operational
+satellite in GEO, launched in 2016 with a since experiencing an on-orbit malfunction
+planned service life of 15 years. Immedi- in . USSPACECOM did not make
+ately following the breakup, USSPACECOM any public announcements about this event
+announced that it was tracking around 20 and there is no indication of debris from this
+pieces of debris.50 The number of debris event in Space-Track as of .
+fragments eventually reached at least 500,
+Fregat RB/Cluster 2 Upper Stage, Soyuz-U
+according to ExoAnalytic.51 Space-Track,
+(Russia): An experimental Russian up-
+however, only listed 18 pieces of debris
+per stage, called Fregat RB/Cluster 2, of a
+associated with this breakup event by early
+Soyuz-U rocket launched in ,
+.
+experienced an energetic event on April
+Defense Meteorological Satellite Program 8, 2024, resulting in a 3-km change in the
+(DMSP) F-14 (United States): Probably object altitude and some kind of residual
+Photos of Resurs-P1 before and
+due to a battery explosion, a defunct DMSP propellant outgassing.57 Though USSPACE-
+after the June 26, 2024, breakup
+F-14 weather satellite in LEO generated event (top to bottom). COM has not provided a public notification
+a number of fragments on December 19, of this event or listed any resulting debris
+HEO
+2024.52 Space-Track did not list any debris fragments in Space-Track, the Russian space
+associated with this event by the end of object catalog lists more than 300 pieces
+, but both LeoLabs and of debris generated by this event.58 There
+Slingshot Aerospace were tracking debris is no indication of debris from this event
+fragments resulting from this event.53 Since in Space-Track as of .
+
+FEATURED ANALYSIS
+THE COMING commercial services such as imagery and space technology. Commercial companies
+broadband communications were widely are developing on-orbit servicing capabil-
+COLLISION OF
+distributed in the early days and weeks of ities that are designed to extend an assets’
+COMMERCIAL AND the conflict and largely continue today. life on orbit. But with capabilities like robotic
+arms and grapplers, these technologies
+COUNTERSPACE Governments around the globe have seen the
+have the potential for nefarious use. For
+impact that a space industrial base has on
+example, Japanese company Astroscale is
+programs and economic bolstering, so com-
+Over the last decade, space has become partnering with BAE Systems to test in-orbit
+mercial companies are being encouraged in
+increasingly commercial, and the past ap- servicing technology, in a contract funded
+most spacefaring nations to innovate along-
+proach of sectioning space off into different by the European Space Agency to service a
+side or outside of government priorities. The
+military, civil, and commercial segments test satellite. The Astroscale satellite would
+U.S. Department of Defense and Space Force
+has become much more difficult. While do this servicing by conducting proximity
+have each released commercial integration
+space has traditionally been dominated operations to get close to the test satellite,
+strategies, and other nations around the
+by government activity and specialized then using a robotic arm to take a part off of
+globe are investing heavily in a commercial
+defense contractors, the last decade has the test satellite and replace it with a new
+space sector, hoping to integrate innovative
+witnessed the growth of a diverse com- part.63 European space company Airbus,
+technologies into all facets of government
+mercial space sector. Today, commercial through its Surrey Satellite Technology
+capabilities. Multilateral organizations are
+companies act independently, with goals Limited subsidiary, demonstrated a debris
+also noting the importance of commercial
+and actions to implement separate from removal concept releasing a net and pen-
+capabilities, and NATO will reportedly publish
+government strategies or contracts. cil-sized harpoon to capture space debris.64
+a commercial space strategy in 2025.59
+While the objective of these test missions is
+In the rapidly advancing domain of space
+The rise of satellite companies offering
+civil in nature, similar technologies could be
+exploration and satellite technology, com-
+critical services to governments, business-
+used in the future for harming or disabling
+mercial space companies have become
+es, and individuals means that these pri-
+an adversary satellite.
+integral players, providing services ranging
+vate sector players are now directly in the
+from satellite communication and Earth The development of dual-use technologies,
+crosshairs of geopolitical competitors and
+observation to space tourism and lunar with both commercial and potential counter-
+adversaries. As noted earlier in the report,
+exploration. As these companies expand space applications, underscores the delicate
+in 2024, a Russian official indicated Russia
+their activities in LEO and beyond, they face balance between actors in the space domain
+would consider companies supporting U.S.
+an increasing risk of being caught in the today. In an arena traditionally dominated
+“military space ambitions” as legitimate
+crossfire of geopolitical tensions and the targets for retaliation.”60 by government agencies, private enterprises
+growing arms race in space. The impact of are now not only shaping the future of space
+Beyond current capabilities such as com-
+commercial space capabilities has been well exploration but also becoming entangled
+munications or Earth imaging, commercial
+documented in the war in Ukraine, where in geopolitical and security concerns. As
+companies around the globe are testing
+these companies expand their capabilities
+technologies that could have counterspace
+and develop technologies that could have
+applications. French company Dark plans
+both peaceful and defensive applications,
+to “forge the space armory” by building
+the lines between civilian, commercial, and
+THE IMPACT OF advanced defense systems to place on
+military activities in space are becoming
+orbit to protect other satellites from being
+increasingly blurred.
+COMMERCIAL
+targeted.61 Further, the Dark website states
+that space has already become a battlefield.
+SPACE
+The company is developing a platform
+called Interceptor, launched from a plane
+CAPABILITIES
+that would travel to LEO to move or deorbit
+HAS BEEN WELL satellites or pieces of debris. The company’s
+CEO has described Dark as aiming to be the
+DOCUMENTED “S.W.A.T. team of space,” and the Interceptor
+capability as ready to operate on call, akin
+IN THE WAR IN to air defense missiles.62
+Other technology developments are not as
+UKRAINE.
+blunt, but could be considered a counter-
+29 SPACE THREAT ASSESSMENT 2025
+
+WHAT TO WATCH
+WHAT
+TO WATCH
+DISTINGUISHING BETWEEN PEACETIME
+NORMS AND WARTIME ACTIONS
+Senior administration and Pentagon officials have repeatedly made clear
+that the U.S. military intends to be a responsible, good neighbor in space.1 To
+meet that goal, the secretary of defense published a memo in 2021 outlining
+DOD tenets of responsible behavior in space.2 Those tenets specify that DOD
+will operate in, from, to, and through space with due regard to others and in
+a professional manner; limit the generation of long-lived debris; avoid the
+creation of harmful interference; maintain safe separation and safe trajec-
+tory; and communicate and make notifications to enhance the safety and
+stability of the domain.
+30 SPACE THREAT ASSESSMENT 2025
+
+In , USSPACECOM proposed China nor Russia have agreed to these re- dissimilar from the use of GPS jammers and
+eight specific behaviors, which map to the strictions—for responsible behaviors that spoofers for force protection in Ukraine,
+five tenets, for DOD space operations, which do not directly correlate to the expectations Russia, and Israel described earlier—draw-
+USSPACECOM notes complement broader placed on combatants by the laws of war. ing a distinction between offensive and
+U.S. efforts to establish space norms and defensive space and emphasizing the U.S.
+Rather than self-imposed tenets, applica-
+best practices.3 Additionally, the United intention to use space for deterrence and
+ble to one side and not the other, a better
+States has tried to discourage the testing approach to space operations, particularly not aggression.9
+of destructive DA ASAT weapons, which
+U.S. operations vis-à-vis China and Russia, In the next year, the United States may
+have the potential to generate space debris.
+could be one modeled on the 1971 agree- want to consider publicly revealing more,
+In , the United States declared
+ment between the United States and Soviet though not all, of its counterspace capabil-
+a moratorium on its testing of DA ASAT
+Union on incidents on and over the high ities—as France and Germany are already
+weapons. And in , along
+seas.7 The goal of this agreement was not
+doing—because acknowledging some U.S.
+with several other nations, it introduced a
+to cover wartime actions, but to prevent
+UN resolution calling nations not to conduct counterspace weapons, beyond just jam-
+peacetime incidents from becoming more
+destructive DA ASAT testing. The resolution mers, can be used to deter hostile action
+serious. The lessons from this approach for
+was supported by over 150 countries.4 in space or other domains.10 Additionally,
+space operations are twofold. First, it could
+talking more publicly about counterspace
+The tenets and eight behaviors are clearly
+help establish norms of behavior for space
+weapons means the U.S. military can more
+applicable to day-to-day space operations
+that could improve overall space safety for
+easily partner with space companies already
+and establish sensible norms for peacetime
+military, civilian, and commercial operators.
+working on commercial technologies, such
+space activities, which apply to military
+Second, it could help reduce the risk of mis-
+as servicing, debris removal, hyperson-
+space operations just the same as civilian
+understanding between the United States,
+ics, and atmospheric reentry, that could
+and commercial ones. The moratorium
+China, and Russia for space activities such
+on debris-generating destructive DA ASAT be transformed into new military space
+as RPOs and other on-orbit behaviors.
+testing is a de facto peacetime restriction, capabilities. For classified projects, the
+as the preponderance of weapons test- This model also implicitly acknowledges military also cannot tap into innovative
+ing would surely happen prior to a war that wartime actions are entirely different space startups, as these companies often
+or conflict. What is less clear is how these from peacetime behaviors, with guardrails do not have the right security clearances
+placed around wartime behaviors estab-
+rules apply to wartime actions, though they to even know what the government wants
+lished by the law of armed conflict, which
+have probably influenced the apparent to buy, let alone bid on the work.
+is domain agnostic. Given the frequency of
+U.S. emphasis on low-debris-causing and
+non-kinetic counterspace weapons, and how both Chinese and Russian RPOs and U.S.
+efforts oriented around space sustainability emphasis on space norms, a concerted U.S.-
+and safety, like the tenets, relate to the law led effort over the next year to establish a
+of armed conflict.5 space equivalent to the 1972 U.S.-Soviet THE UNITED
+agreement on incidents on and over the
+The general aims of the universal laws of war,
+high seas would be beneficial both to U.S. STATES MAY
+including international humanitarian law,
+interests and to the overall chances of suc-
+are to protect those not fighting and those no
+cess for the growth of the space economy. WANT TO
+longer able to fight, which includes avoiding
+harm to civilians or things that are essential
+CONSIDER
+to their survival.6 Though certainly open to
+MAKING MORE
+interpretation, the operation of satellites PUBLICLY
+in space is undeniably less essential than, COUNTERSPACE
+and several steps removed from, the pro- REVEALING
+WEAPONS PUBLIC
+vision of things like food, water, medicine,
+and clothing to noncombatants. Except for MORE, THOUGH
+humans on the International Space Station Historically, U.S. officials have shared little
+NOT ALL, OF ITS
+or China’s Tiangong station, operations in publicly about U.S. counterspace capabili-
+space are unlikely to directly harm civilians. ties and operations. To date, the only pub-
+COUNTERSPACE
+Operations on land, sea, and air are far licly acknowledged counterspace weapons
+more likely than those in space to harm operated by the Space Force are the Counter CAPABILITIES.
+people or cause disruptions to the delivery Communications System and the Remote
+of the essentials of life. Yet the United States Modular Terminal, both electronic warfare
+assigns the space domain a special set of capabilities.8 The United States has empha-
+tenets—though one-sided, since neither sized these are defensive capabilities—not
+
+DEVELOPMENT non-kinetic weapons, such as jammers and March 24, 2025, according to Space-Track.13
+lasers, or kinetic weapons, such as projec- The glaring exception is China’s test of a DA
+OF BODYGUARD
+tiles or grappling capabilities, to disable ASAT in 2007. Because of the altitude of that
+SATELLITES attacking satellites. There is no reason to
+test, around 800 km, nearly 70 percent of
+delay efforts to develop such capabilities
+resulting debris remains in orbit.14
+and no reason to make such efforts secret.
+As noted in this report, China has demon-
+Though not directly related to the opera-
+strated it can operate highly maneuverable
+tion of large constellations, one trend to
+satellites in both LEO and GEO and track
+GENERATION OF watch is China’s tendency to date of leaving
+and synchronize orbits with U.S. govern-
+the upper stages of Long March 6A and 8
+ment satellites. China also remains the DEBRIS FRAGMENTS
+rockets used to launch its LEO broadband
+only country to conduct a noncooperative
+constellations at altitudes near 800 km. At
+capture of one satellite by another in GEO,
+Though experts frequently warn of increased
+when SJ-21 moved a defunct Beidou satellite that altitude, the rocket bodies could remain
+risks of collisions and creation of space de-
+into a graveyard orbit in 2022. These capa- in orbit for more than 100 years, creating
+bris resulting from the deployment of large
+bilities should be seen as ominous signs of increased collision risks and the potential
+satellite constellations, most debris-generat-
+the potential for China to develop, if it has for debris-generating collisions or other
+ing incidents over the past year have nothing
+not already done so, sophisticated on-orbit to do with operating satellite constellations. events.15 With plans to launch thousands
+counterspace weapons against which U.S.
+Of the eight debris-causing events described of satellites for these constellations, unless
+satellites have limited, if any, defenses.
+earlier in this report, only one involves China takes a different tack in the future,
+To date, France is the only country that an active satellite (e.g., Intelsat IS-33e). the risks from these rocket bodies will grow.
+has consistently talked about building Further, while concern has focused on the
+The fact is that most space debris fragmen-
+and deploying on-orbit satellite systems risk of collisions in congested LEO orbits,
+tation events result from breakups involving
+designed to guard, defend, and protect only one related to LEO constellations, and
+old satellites and incidents involving spent
+high-value satellites. However, in , even that connection is tangential because
+the European Commission announced that the event relates to the launch vehicle, the rocket bodies. These objects are ticking time
+the European Defense Fund included €6.5 Long March 6A upper stage, and not the bombs, which have a tendency to regularly
+million ($7 million) for an “Autonomous satellites themselves. Additionally, most and spectacularly go off, creating the vast
+SSA Bodyguard Onboard Satellite” that of these events were caused by defunct majority of debris-generating incidents
+would perform SSA and threat detection, spacecraft that were at least 10 years old, since the publication of last year’s threat
+but also “counteract [threats] with a robot or rocket bodies. assessment. But so far, little is being done
+or laser.”11 It remains to be seen how the Just as the operation of large satellite by the United States or other countries,
+public acknowledgment of such initiatives constellations to date has not caused a including China and Russia, to address
+will influence counterspace weapons trends, commensurate rise in space debris, neither
+these main causes of increasing space de-
+though one likely response from countries has testing or use of kinetic counterspace
+bris. Though most breakup events are not
+like China and Russia would be to develop weapons. Most debris from the U.S. mili-
+caused by nefarious acts, debris-generating
+new counterspace systems. This cat-and- tary’s shoot down of a defunct U.S. satel-
+breakups pose just as much risk to the space
+mouse game between offensive and de- lite in 2008, called Operation Burnt Frost,
+fense space capabilities will likely make deorbited within days.12 Additionally, the environment as the counterspace weapons
+space operations more expensive for both Russian ASAT test in 2021 created around regularly chronicled in this report, and
+government and commercial operators, as 1,800 catalogued debris fragments, yet only debris-generating breakups will continue
+space operators will likely want to invest around 9 tracked pieces remained in orbit by to do so in the future.
+in systems and methods that protect their
+space assets. It will also raise questions
+about what commercial operators are legally
+allowed to do to protect their satellites,
+MOST DEBRIS-GENERATING
+similar to the issues raised in cyberspace
+about whether cyberattack victims can
+INCIDENTS OVER THE PAST
+“hack back” against their attackers.
+YEAR HAVE NOTHING TO DO
+Looking to the future, the United States
+and its allies, beyond just France, will want
+WITH OPERATING SATELLITE
+new on-orbit technologies—like bodyguard
+satellites—to protect against on-orbit coun-
+CONSTELLATIONS.
+terspace threats. Such systems could employ
+
+WHAT TO WATCH
+COUNTERING catastrophic potential. At the same time, as launch withing minutes of a rocket leaving
+countries like China utilize pLEO constella- the launch pad, challenging an adversary’s
+PROLIFERATED
+tions to close their own “space-enabled kill ability to reconstitute satellite systems dam-
+SATELLITE chains,” the United States will also seek ways aged in a conflict. Taking a step further, SBIs
+to erode their capabilities.19 The distinction may very well open the door to a broader
+CONSTELLATIONS
+for Washington will be to do so in ways that conversation among policymakers on how
+do not lay waste to orbits for all who use to unlock the full military potential of the
+The alarming news of 2024—that Russia is them to advance commerce, science, and space domain for warfighting, including
+pursuing a space-based nuclear anti-satellite security in contrast to Moscow’s approach capabilities that operate “in, from, and
+weapon—brought the first signs of active and even those hinted by Beijing. through” space.23
+development, including on-orbit testing,
+of a counterspace weapon believed to be
+designed to counter proliferated LEO (pLEO) SPACE AND MISSILE
+constellations en masse.16
+DEFENSE NEXUS
+Governments and commercial operators
+alike have embraced pLEO constellations:
+from first-mover Starlink, to the U.S. govern- While this report does not describe U.S.
+ment through its investment in hundreds of counterspace weapons, it is impossible to
+satellites for ISR and missile detection and ignore the counterspace implications of the
+tracking, to China and its ISR and SATCOM “Golden Dome” missile defense initiative
+system expansion. These architectures offer announced by the White House in January
+clear advantages: enhanced persistence, 2025. Specific details remain scarce, but the
+higher technology refresh rates, lower per executive order points to the centrality of
+unit costs, and greater resilience. Russian space for missile defense—encompassing
+efforts to interfere with Starlink in Ukraine space-based sensors for missile detection and
+have been largely stymied by the sheer tracking, data relay networks, and renewed
+number of satellites still able to connect interest in space-based interceptors (SBIs).20
+with ground terminals and SpaceX’s ability Historical analyses suggest that thousands
+to rapidly update its systems. of SBIs in low Earth orbit would be neces-
+However, no advantage is permanent and, sary to intercept ballistic missiles in their
+as previous editions of this report have cau- boost phase, before countermeasures or
+tioned, adversaries will seek new methods maneuverable reentry vehicles are released.21
+to erode it. Both this report and previous These SBIs are certain to become high val-
+ones have drawn attention to PLA-affiliat- ue counterspace targets. Russian officials
+ed research into attack simulations that have already accused the United States of
+could wipe out planes of LEO satellites, undermining “Russian and Chinese strategic
+cyber penetrations of satellite networks deterrence capabilities” with its Golden
+and infrastructure that could impact sat- Dome plans.22 Adversaries may well gravitate
+ellite command and control, and high-al- to nuclear ASATs or other wide area-effects
+titude nuclear detonation (HAND) effects weapons to neutralize such orbiting systems
+on satellites.17 Further, Moscow is signaling at scale.
+new redlines with threats that commercial
+Furthermore, though intended as a missile
+satellites, like Starlink, supporting military
+defense system, SBIs also have utility as
+operations are legitimate targets.18
+counterspace weapons. An SBI equipped
+The authors fully expect to see more coun- with a kinetic payload, laser, or microwave
+ter-pLEO threats in the years to come, a device could be used as a bodyguard sat-
+reminder that proliferation is but one means ellite or to degrade an adversary’s space
+of enhancing resilience. The United States systems. It also could be used to entirely
+must figure out how to deter and defend cut off access to space, as it could be ca-
+against such attacks and minimize their pable of destroying any attempted space
+33 SPACE THREAT ASSESSMENT 2025
+
+CONCLUSION
+CONCLUSION
+HAT THIS REPORT CHRONICLES NO NEW SPECTACULAR COUN-
+T
+“The years teach TERSPACE DEVELOPMENTS does not mean nothing interesting
+much which or noteworthy happened. To understand the events, and the
+significance, of this past year, one must look at the trends over a
+the days never
+wider time horizon. Doing so reveals patterns that illuminate the direction of
+know.”
+U.S. adversaries, as well as of the United States and its allies in space. China
+— RALPH WALDO and Russia, as well as, to a lesser degree, Iran and North Korea, are actively
+EMERSON FROM ESSAYS: working to test new technologies and concepts of operations in space that
+SECOND SERIES, 1844 have clear applicability and use for counterspace weapons capabilities.
+Meanwhile, building on trends noted in past years, jamming and spoofing
+GPS signals has become ubiquitous in certain regions of the world, and cyber
+operations targeting space systems continue to take place and are uncovered
+on a regular basis.
+34 SPACE THREAT ASSESSMENT 2025
+
+To date, the United States has not publicly revealed its
+own counterspace-specific capabilities beyond two elec-
+tronic warfare capabilities. Of its allies, only France has
+routinely acknowledged its intent to develop on-orbit
+counterspace capabilities that could perform defensive
+and offensive missions. From what is publicly known,
+the United States and its allies appear to be developing
+a much narrower range of counterspace weapons than
+their potential adversaries. This imbalance is possibly
+attributed to the commonly held assumption that the
+use of kinetic counterspace weapons in conflict is
+incompatible with maintaining a usable space envi-
+ronment for military space operations and somehow
+in conflict with the law of war. But the United States is
+reevaluating these assumptions, talking about kinetic
+counterspace weapons and space-based missile inter-
+ceptors as part of the Golden Dome initiative.1
+Ultimately, Russia and particularly China are demon-
+strating sophisticated counterspace capabilities in
+orbit, as well as deploying cyber and electronic warfare
+capabilities targeting space systems. Iran is growing
+more capable in space, deploying more satellites and
+having greater success with indigenous space launch
+capabilities. The United States has, to date, constrained
+its counterspace emphasis to non-kinetic capabilities
+and publicly expressed no interest in developing bod-
+yguard satellites or other systems to defend against
+attacking satellites in space. But the United States is
+shedding those restraints.2 Additionally, the secrecy
+that surrounds U.S. counterspace capabilities has to
+date limited its usefulness for deterrence purposes. In
+this complicated and increasingly threatening space
+environment, to retain its edge in space, the United
+States will need all the counterspace tools it can get its
+hands on, including bodyguard-style satellites. It should
+also be more public about the U.S. arsenal, ensuring
+that these systems can be used to the maximum extent
+for deterrence as well as warfighting.
+
+ABOUT THE AUTHORS
+CLAYTON SWOPE is the deputy director of the Aerospace Security Project and a senior fellow in
+the Defense and Security Department at the Center for Strategic and International Studies (CSIS).
+Before joining CSIS, Swope led national security and cybersecurity public policy for Amazon’s Project
+Kuiper, an initiative to increase global broadband access through a constellation of satellites in low
+Earth orbit. While at Amazon, he also worked on cloud policy issues. Prior to his time at Amazon,
+Swope served as a senior adviser on national security, space, foreign affairs, and technology policy
+issues for a member of the U.S. House of Representatives. He also worked for more than 14 years
+at the Central Intelligence Agency, serving largely in the Directorate of Science and Technology. He
+holds a Bachelor of Science in mechanical engineering from the University of Notre Dame.
+KARI A. BINGEN is the director of the Aerospace Security Project and a senior fellow in the the De-
+fense and Security Department at CSIS. Before joining, she was the Chief Strategy Officer at HawkEye
+360, an innovative space technology company. She previously served as the deputy undersecretary
+of defense for intelligence and security, overseeing the nation’s defense intelligence and security
+enterprises. Prior, Kari was the policy director on the House Armed Services Committee and staff
+lead for its Strategic Forces Subcommittee, advising members of Congress on defense policy, pro-
+gram, and budget matters. Prior to government service, she worked in the national security space
+sector, supporting U.S. defense and intelligence community organizations. In addition to her work
+at CSIS, Kari is an adjunct assistant professor at Georgetown University. She is a member of the
+U.S. National Intelligence University’s Board of Visitors, a member of the U.S. Strategic Command
+Strategic Advisory Group, and serves on a number of corporate and nonprofit advisory boards. She
+holds a degree in aeronautics and astronautics from the Massachusetts Institute of Technology.
+MAKENA YOUNG is a fellow with the Aerospace Security Project at CSIS. Her research interests in-
+clude international collaboration, space security, and orbital debris. Prior to joining CSIS, Ms. Young
+worked for the Federal Aviation Administration as an aerospace engineer, focusing on automatic
+dependent surveillance-broadcast certification and integration in small aircraft. She holds a BS in
+aeronautical and astronautical engineering from Purdue University with minors in international
+relations and environmental engineering.
+KENDRA LAFAVE is a program coordinator and research assistant with the Aerospace Security Pro-
+ject at CSIS. She previously served as a program coordinator with the Hess Center for New Frontiers
+at CSIS. Prior to her time at CSIS, Kendra worked at the U.S. Civilian Research and Development
+Foundation (CRDF) Global and interned with the U.S. Department of State’s Office of Peacekeeping
+Operations. Kendra graduated summa cum laude with a BA in international affairs from James
+Madison University. She is currently pursuing an MA in international science and technology policy
+from George Washington University, concentrating in space policy.
+
+ENDNOTES
+INTRODUCTION
+1 Dan De Luce, “Pentagon official warns Russian anti-satellite nuclear weapon could be devastating,”
+NBC News, May 1, 2024, 
+ti-satellite-nuclear-weapon-devastat-rcna150314.
+2 Matt Burgess, “The Dangerous Rise of GPS Attacks,” Wired, April 30, 2024, 
+story/the-dangerous-rise-of-gps-attacks/.
+3 Zachary Cohen and Oren Liebermann, “Pentagon is closely monitoring Russia and China test military
+capabilities in space,” CNN, March 16, 2025, 
+gon-monitoring-russia-china-space/index.html.
+4 Dmitry Antonov, Felix Light, and Guy Faulconbridge, “Russia warns United States: use of SpaceX for
+spying makes its satellites a target,” Reuters, March 20, 2024, 
+warns-united-states-use-spacex-spying-makes-its-satellites-target-2024-03-20/.
+5 Secretary of the Air Force Public Affairs, “Saltzman outlines Space Force priorities, what’s necessary
+to achieve them,” U.S. Space Force, March 13, 2025, 
+play/Article/4093782/saltzman-outlines-space-force-priorities-whats-necessary-to-achieve-them/;
+and “A Conversation with Secretary of the Air Force Frank Kendall on The Department of the
+Air Force in 2050,” CSIS, January 13, 2025, 
+tary-air-force-frank-kendall-department-air-force-2050.
+COUNTERSPACE WEAPONS
+1 Antonia Chayes, “Rethinking Warfare: The Ambiguity of Cyber Attacks,” Harvard Law School, Har-
+vard National Security Journal, no. 6 (): 474–519, 
+loads/2015/06/Chayes.pdf.
+2 Space situational awareness (SSA) generally refers to the “knowledge and characterization of space
+objects and their operational environment” as defined in U.S. Space Policy Directive-3, National
+Space Traffic Management Policy, The White House, June 18, 2018, 
+chives.gov/presidential-actions/space-policy-directive-3-national-space-traffic-management-policy/.
+CHINA
+1 Kristin Burke, “China Can Track GSSAP,” China Aerospace Studies Institute, September 9, 2024,
+
+2 Andrew Jones, “China to debut new Long March and commercial rockets in 2025,” SpaceNews,
+January 2, 2025, 
+in-2025/.
+3 Andrew Jones, “China nears record launch year with Ceres-1 and SAR satellite missions,” SpaceNews,
+December 19, 2024, 
+satellite-missions/.
+4 Theresa Hitchens, “China’s space moves: Highly mobile satellites stalking GEO spook Space Force,”
+Breaking Defense, December 10, 2024, 
+highly-mobile-satellites-stalking-geo-spook-space-force/.
+5 Guy Norris, “Concerns Grow Over Chinese Space Maneuvering Capability,” Aviation Week, August 21,
+2024, 
+Greg Hadley, “China’s Orbital Maneuvers Have Space Force Leaders Seeking Better Options,” Air and
+Space Forces Magazine, December 11, 2024, 
+maneuver/; and “Integrity Flash: Analysis of Developments in the Space Domain, Issue 104,” Integrity
+ISR, September 1, 2024, 
+pdf.
+6 “Integrity Flash: Analysis of Developments in the Space Domain, Issue 104,” Integrity ISR.
+37 SPACE THREAT ASSESSMENT 2025
+
+7 “TJS-3 and TJS-10: Space Events ,” LSAS Tec, YouTube video, June 17, 2024, 
+youtube.com/watch?v=mTVacnXslpE.
+8 Andrew Jones, “China Launches Shijian-25 Satellite to Test On-Orbit Refueling and Mission Extension
+Technologies,” SpaceNews, January 6, 2025, 
+lite-to-test-on-orbit-refueling-and-mission-extension-technologies/.
+9 Greg Gillinger (@Integrity ISR), “Fill ‘Er Up? Shijian-25 Launched, Co-Planar with Shijian-21: Integrity
+Flash-Lite 8,” LinkedIn, January 16, 2025, 
+launched-co-planar-shijian-21-integrity-yxw8e/.
+10 “Integrity Flash: Analysis of Developments in the Space Domain, Issue 113,” Integrity ISR, January 19,
+2025, 
+11 A report published in by the China Aerospace Studies Institute draws a distinction be-
+tween the purpose of the SY and SJ programs, assessing that the SJ program aims to operationalize
+systems that have already been integrated and tested, while the SY program’s goal is to integrate new
+technologies into one satellite system, see Kristin Burke, “Initial Analysis of Two Chinese Satellite
+Series: Shi Jian and Shi Yan,” China Aerospace Studies Institute, March 28, 2022, 
+versity.af.edu/CASI/Display/Article/2975081/initial-analysis-of-two-chinese-satellite-series-shi-jian-
+and-shi-yan/.
+12 China Aerospace News, “ [Just Now! Chang-7A Hainan Take-Off],” Weibo.cn,
+刚才！长七A海南起飞
+December 23, 2021, Translated by Microsoft Translator, 
+13 “Integrity Flash: Analysis of Developments in the Space Domain, Issue 111,” Integrity ISR, December 8,
+2024, 
+14 “Integrity Flash: Analysis of Developments in the Space Domain, Issue 105,” Integrity ISR, September
+15, 2024, 
+pdf.
+15 Slingshot Aerospace, “The Slingshot Global Sensor Network is tracking a new object in low Earth orbit
+(LEO),” LinkedIn, May 29, 2024, 
+global-sensor-network-is-tracking-activity-7201624236233289729-Z3rF; and Andrew Jones, “Chi--
+na’s Secretive Reusable Spaceplane Lands after 267 Days in Orbit,” SpaceNews, September 6, 2024,
+
+16 Andrew Jones, “China Launches Mystery Reusable Spaceplane for Third Time,” SpaceNews, December
+14, 2023, 
+17 “Integrity Flash: Developments and Analysis in the Space Domain, Issue 113” Integrity ISR; and Justin
+Davenport, “Long March 4B with Shijian-6 Group 5 satellites launches successfully from Jiuquan,”
+NASA Spaceflight, December 9, 2021, 
+an-6/.
+18 s2a systems (@s2a_systems), “For one of our clients (thanks for permission to share the information)
+we are currently taking a closer look at SHIYAN 24C 03 (2023-206C/58652) and SHIJIAN 6 05A (2021-
+122A/49961),” X, April 20, 2024, 1:38 a.m., 
+19 Simone McCarthy, “China is practicing ‘dogfighting’ with satellites as it ramps up space capa-
+bilities: US Space Force,” CNN, March 21, 2025, 
+na-space-force-dogfighting-satellites-intl-hnk/index.html.
+20 Kristin Burke, “China’s Different Approach to Space Situational Awareness,” China Aerospace Studies
+Institute, December 2, 2024, 
+nas-different-approach-to-space-situational-awareness/.
+21 Ibid.
+22 Ibid.
+23 LSAS Tec (@LSAS-Tec), “Check out the intriguing interactions between USA LDPE-3A and China’s SJ-
+23 satellites in GEO during late 2024,” LinkedIn, , 
+tec_spaceanalysis-geo-satelliteinteraction-activity-7292584494052564994-9oBK; and “Next Space
+Force payload arrives in Florida ahead of launch,” media release, U.S. Space Systems
+Command, November 14, 2022, 
+RELEASES/Next%20Space%20Force%20payload%20arrives%20in%20Florida%20ahead%20of%20
+January%202023%20launch.pdf?ver=a9Bcr8my-xTYIYzVnCuMEw%3D%3D.
+
+24 Joel Francis, “Briefing 29: Implications of the Ongoing Salt Typhoon Campaign on Telecommunica-
+tions and Space,” Constellations, January 15, 2025, 
+articles/implications-of-the-ongoing-salt-typhoon-campaign-on-telecommunications-and-space.
+25 Cybersecurity and Infrastructure Security Agency et al., “Joint Cybersecurity Advisory: PRC
+State-Sponsored Actors Compromise and Maintain Persistent Access to U.S. Critical Infrastructure,”
+U.S. Department of Defense, February 7, 2024, 
+1/-1/0/CSA-PRC-COMPROMISE-US-CRITICAL-INFRASTRUCTURE.PDF; and Josh Hanrahan, “VOLTZITE
+Espionage Operations Targeting U.S. Critical Systems,” Dragos, Inc. , 
+dragos.com/hubfs/116-Datasheets/Dragos_IntelBrief_VOLTZITE_FINAL.pdf?hsLang=en.
+26 Pierre Lee and Vickie Su, “TIDRONE Targets Military and Satellite Industries in Taiwan,” Trend
+Micro, September 6, 2024, 
+tary-and-satellite-industries-in-taiwan.html.
+27 GPS Spoofing WorkGroup, GPS Spoofing: Final Report of the GPS Spoofing WorkGroup (OPSGROUP,
+), 
+28 Defense Intelligence Agency, Challenges to Security in Space: Space Reliance in an Era of Competition
+and Expansion (Washington, DC: Defense Intelligence Agency, 2022), 
+Documents/News/Military_Power_Publications/Challenges_Security_Space_2022.pdf.
+29 Andrew Jones, “China reorganizes its military, impacts likely for space operations,” SpaceNews, April
+23, 2024, 
+and “The Ministry of National Defense held a special press conference on the establishment of the
+Information Support Force,” Xinhua Daily Telegraph, April 20, 2024, 
+04/20/c_1310771952.htm.
+30 Stephen Chen, “China’s energy weapon fires thousands of intense pulses in tests and survives:
+study,” South China Morning Post, January 14, 2025, 
+article/3294077/chinas-energy-weapon-fires-thousands-nuclear-blasts-tests-and-survives-study;
+and Stephen Chen, “China could attack Starlink-like satellites with submarine laser weapon: naval
+study,” South China Morning Post, January 14, 2025, 
+cle/3294077/chinas-energy-weapon-fires-thousands-nuclear-blasts-tests-and-survives-study/.
+31 Clayton Swope et al., Space Threat Assessment 2024 (Washington, DC: CSIS, ), 
+csis.org/analysis/space-threat-assessment-2024; and “Space Threat Fact Sheet,” Headquarters Space
+Force Intelligence, February 21, 2025, 
+space-force-intelligence-space-threat-fact-sheet/.
+32 Du Yanyun and Zhang Huang, “Starlink Militarization and Its Impact on Global Strategic Stability,”
+Interpret: China, CSIS, original work published in Journal of International Security Studies, September
+19, 2023, 
+tegic-stability/; Yan Jiajie and Yu Nanping, “The U.S. Starlink Project and Its Implications from the
+Perspective of International and National Security,” Interpret: China, CSIS, original work published in
+Journal of International Security Studies, September 14, 2024, 
+the-u-s-starlink-project-and-its-implications-from-the-perspective-of-international-and-national-se-
+curity/; and Wang Peiwen, Zhang Huang, and Zhang Kaiyue, “Starlink Militarization: Challenges and
+Responses to Space Intelligence and Information Security,” Interpret: China, CSIS, original work pub-
+lished in Journal of Intelligence, January 29, 2024, 
+tarization-challenges-and-responses-to-space-intelligence-and-information-security/.
+33 Brian Weeden, Cassandra Steer, and Fiona Cunningham, “Chinese Assessments of Starlink and
+U.S.-China Space Relations,” CSIS, Interpret: China, December 2, 2024, 
+nese-assessments-of-starlink-and-u-s-china-space-relations/.
+34 “Is China Planning to Target Starlink Satellites Amid Taiwan Tensions?,” Economic Times, January 14,
+2025, 
+link-satellites-amid-taiwan-tensions/articleshow/117245640.cms.
+35 “Chinese scientists simulate ‘hunting’ Starlink satellites in orbit,” South China Morning Post, January
+12, 2025, 
+late-hunting-starlink-satellites-orbit.
+36 “Foreign Universities Sanctioned by the U.S. Government,” Caltech Offices of Research Compliance
+and Security, last updated January 16, 2024, 
+39 SPACE THREAT ASSESSMENT 2025
+
+port-compliance/restricted-party-screening/foreign-universities-sanctioned-by-the-us-government;
+and Rachel Lin and Jonathan Chin, “Seven Chinese universities sanctioned,” Taipei Times, March 1,
+2025, 
+RUSSIA
+1 House Intelligence Committee (@HouseIntel), “Statement from Chairman @RepMikeTurner:”, X, Feb-
+ruary 14, 2024, 11:35 a.m., Jacob Parkinson
+et al., “GOP warning of ‘national security threat’ is about Russia wanting nuclear weapon in space:
+Sources,” ABC News, February 14, 2024, 
+lawmakers-house-chairman-warns/story?id=107232293; and Michael Williams and Kevin Liptak,
+“White House confirms US has intelligence on Russian anti-satellite capability,” CNN, February 15,
+2024, 
+2 “Pentagon Press Secretary Air Force Maj. Gen. Pat Ryder Holds a Press Briefing,” U.S. Department of
+Defense, May 21, 2024, 
+gon-press-secretary-air-force-maj-gen-pat-ryder-holds-a-press-briefing/.
+3 Slingshot Aerospace (@Slingshot-Aerospace), “The Slingshot Global Sensor Network is keeping a
+close watch on Cosmos 2576,” LinkedIn, , 
+space_the-slingshot-global-sensor-network-is-keeping-activity-7199421691846942723-R5Kq/; and
+Bill Chappell, “What to know about the ‘space weapon’ the U.S. says Russia recently launched,” NPR,
+May 30, 2024, 
+weapon-cosmos-2576.
+4 Jim Shell (@jim-shell-4539438), “Russian satellite ‘COSMOS 2576’ (59773/2024-092A)- declared
+by US as a ‘likely counterspace weapon’ is on the move,” LinkedIn, , https://
+
+ty-7297837323893841920-a85_/.
+5 Russian Strategic Nuclear Forces (blog), accessed March 5, 2025, 
+6 “The Integrity Flash: Analysis of Developments in the Space Domain, Issue 116,” Integrity ISR, March 9,
+2025, 
+7 “COSMOS2581 82 83 LoweRes,” Integrity ISR, YouTube video, March 7, 2025, 
+com/watch?v=vhMDVW4eRUE.
+8 Brett Tingley, “Pentagon space chief condemns ‘irresponsible’ launch of Russian inspector satellite,”
+Space.com, August 18, 2022, 
+sponsible-behavior/.
+9 Sandra Erwin, “Russian spy satellite reportedly continues suspicious maneuvers,” SpaceNews, https://
+spacenews.com/russian-spy-satellite-reportedly-continues-suspicious-maneuvers/.
+10 “Integrity Flash: Analysis of Developments in the Space Domain: Issue 115,” Integrity ISR, February 24,
+2025, 
+“Satellite fleet: THOR 7,” Space Norway, accessed April 15, 2024, 
+ture/satellite-fleet/thor-7/; and “Intelsat 10-02 at 359° E,” Intelsat, accessed April 15, 2024, https://
+
+11 Kari A. Bingen, Kaitlyn Johnson, and Makena Young, Space Threat Assessment 2023 (Washington, DC:
+CSIS, ), 
+12 “1+1 media’s response to the enemy’s attempts to jam Ukraine’s satellite broadcasting,” 1+1 Media,
+March 28, 2025, 
+putnikove-movlennia-ukrayini; “The Final Frontier Flash: Developments and Analysis in the Space
+Domain,” Integrity ISR, April 7, 2024, 
+2024-Final-Frontier-Flash.pdf; and “Sirius 4,” NASA Space Science Data Coordinated Archive, accessed
+April 15, 2025, 
+13 “Integrity Flash: Analysis of Developments in the Space Domain, Issue 118,” Integrity ISR, April 8, 2025,
+
+14 Aamer Madhani and Zeke Miller, “Russia has obtained a ‘troubling’ emerging anti-satellite weapon,
+the White House says,” AP News, February 15, 2024, 
+lite-weapon-threat-technology-2880f9c55122dcafe87188bc92dd6cde.
+
+15 Unshin Lee Harpley, “DOD Official Confirms Russia Is Developing an ‘Indiscriminate’ Space Nuke,’” Air
+and Space Forces Magazine, May 2, 2024, 
+discriminate-space-nuke/.
+16 Jeff Foust, “U.S. Dismisses Space Weapons Treaty Proposal As ‘Fundamentally Flawed,’” SpaceNews,
+September 11, 2014, 
+al-as-fundamentally-flawed/.
+17 “The Nuclear Option: Deciphering Russia’s New Space Threat,” CSIS, May 3, 2024, 
+org/analysis/nuclear-option-deciphering-russias-new-space-threat.
+18 “Cosmos-2553 – the first Neitron radar satellite,” Russian strategic nuclear forces (blog), February
+5, 2022, and Pavel
+Podvig (@russianforces), “I think we can tell which satellite is responsible for the ‘Russian nuclear
+something in space’ scare. It’s Cosmos-2553. Let’s start with Mallory Stewart’s statement earlier today
+at CSIS 1/,” X, May 3, 2024, 6:28 p.m., 
+russianforces/status/1786523272072331561.
+19 W.J. Hennigan, “The Warning,” New York Times, December 5, 2024, 
+tive/2024/12/05/opinion/nuclear-weapons-space.html; General Stephen N. Whiting, Commander, U.S.
+Space Command, Fiscal Year 2026 Priorities and Posture of United States Space Command, Testimony
+before the U.S. Senate Armed Services Committee, 119th Cong., 1st sess. (March 26, 2025), https://
+ and
+Dr. John Plumb, U.S. Assistant Secretary of Defense for Space Policy, FY25 Budget Request for National
+Security Space Programs, Testimony before the U.S. House Armed Services Committee, 118th Cong.,
+2nd sess. (May 1, 2024), 
+20 Theresa Hitchens, “Is Russia’s Cosmos 2553 satellite a test for a future orbital nuclear weapon?,”
+Breaking Defense, May 22, 2024, 
+lite-a-test-for-a-future-orbital-nuclear-weapon/.
+21 According to information provided to the report authors by LeoLabs on April 15, 2025.
+22 Shaun Waterman, “Russian Jamming Is Wreaking Havoc on GPS in Eastern Europe. But Is It Hybrid
+Warfare?,” Air and Space Forces Magazine, July 10, 2024, 
+gps-jamming-nato-ukraine/.
+23 GPS Spoofing WorkGroup, GPS Spoofing.
+24 Ryan Browne, “Russia jammed GPS during major NATO military exercise with US troops,” CNN, No-
+vember 14, 2018, 
+25 AFP, “Finland Developing Device to Counter Alleged Russian Satellite Jamming,” The Defense Post,
+April 16, 2025, 
+26 “Russia Expands GPS Signal Jamming to 15 Regions,” Moscow Times, May 5, 2023, 
+themoscowtimes.com/2023/05/05/russia-expands-gps-signal-jamming-to-15-regions-a81049.
+27 “Attempts to Jam Suspilnes’s Satellite Signal from Russian Territory Recorded,” The Institute of Mass
+Information, August 25, 2024, 
+nal-from-russian-territory-recorded-i47341.
+28 “Satellite broadcasting of FREEDOM TV channel was attacked,” FREEDOM, April 18, 2024, 
+ua/en/satellite-broadcasting-of-freedom-tv-channel-was-attacked/; and “Cyber attack on TV channel
+BabyTV: Toddlers suddenly exposed to Russian propaganda,” NL Times, April 6, 2024, 
+nl/2024/04/06/cyber-attack-tv-channel-babytv-toddlers-suddenly-exposed-russian-propaganda.
+29 Emma Farge, “UN body condemns Russian satellite interference in Europe,” Reuters, July 1, 2024,
+
+rope-2024-07-01/.
+30 Mabel Banfield-Nwachi, “Russia suspected of jamming GPS signal on aircraft carrying Grant Shapps,”
+The Guardian, March 14, 2024, 
+of-jamming-gps-signal-on-aircraft-carrying-grant-shapps.
+31 Maria Mamaeva,” В РФ создали систему мониторинга «Калинка» для пеленгования сигналов
+Starlink,” Komsomolskaya Pravda, December 14, 2024, 
+32 Guy Faulconbridge and Dmitry Antonov, “Russia responds icily to U.S. hint on arms control talks with
+Moscow and Beijing,” Reuters, March 20, 2024, 
+41 SPACE THREAT ASSESSMENT 2025
+
+talks-with-us-possible-only-part-broader-debate-2024-03-20/.
+33 “Statement by the Representative of the Delegation of the Russian Federation at the Thematic Dis-
+cussion on ‘Outer Space (Disarmament Aspects)’ in the First Committee of the 79th session of the UN
+General Assembly, New York, October 29, 2024,” Ministry of Foreign Affairs of the Russian Federation,
+October 30, 2024, 
+OTHERS
+1 Brett Tingley, “Iran launches 3 satellites on Simorgh rocket’s 1st successful orbital launch,” Space.
+com, January 29, 2024, 
+uary-2024; Nasser Karimi and Jon Gambrell, “Iran says it successfully launched a satellite in its
+program criticized by West over missile fears,” Associated Press, September 14, 2024, 
+com/article/iran-satellite-chamran-space-52022a743be4e3ffca5df9d30de7b04c; and Brett Tingley,
+“Iran launches military satellite, sending nation’s largest-ever payload to orbit: reports,” Space.com,
+December 6, 2024, 
+es-military-satellite-sending-nations-largest-ever-payload-to-orbit-reports.
+2 “‘Shorten The Timeline’: Iran Touts Sending Heaviest Payload to Space as Nuclear Watchdogs Send
+Enrichment Warnings,” Foundation for Defense of Democracies, Flash Brief, December 6, 2024,
+
+to-space-as-nuclear-watchdogs-send-enrichment-warnings/.
+3 “Iran’s Kowsar, Hodhod satellites successfully launched,” Islamic Republic News Agency, November 5,
+2024, 
+4 Anatoly Zak, “Soyuz launches Russian-built satellite for Iran,” Russian Space Web, last updated July 8,
+2024, 
+5 Lily Hay Newman, “Notorious Iranian Hackers Have Been Targeting the Space Industry With a New
+Backdoor,” Wired, August 28, 2024, 
+door/.
+6 Tom Fakterman, Daniel Frank, and Jerome Tujague, “Curious Serpens’ FalseFont Backdoor: Tech-
+nical Analysis, Detection and Prevention,” Unit42, March 21, 2024, 
+com/curious-serpens-falsefont-backdoor/; and Microsoft Threat Intelligence, “Peach Sandstorm
+deploys new custom Tickler malware in long-running intelligence gathering operations,” Microsoft,
+August 28, 2024, 
+ploys-new-custom-tickler-malware-in-long-running-intelligence-gathering-operations/.
+7 Microsoft Threat Intelligence, “Peach Sandstorm password spray campaigns enable intelligence
+collection at high-value targets,” Microsoft, September 14, 2023, 
+security/blog/2023/09/14/peach-sandstorm-password-spray-campaigns-enable-intelligence-collec-
+tion-at-high-value-targets/.
+8 Ofir Rozmann, Chen Evgi, and Jonathan Leathery, “When Cats Fly: Suspected Iranian Threat Actor
+UNC1549 Targets Israeli and Middle East Aerospace and Defense Sectors,” Mandiant, February 27,
+2024, 
+gets-israel-middle-east/.
+9 Associated Press, “North Korean rocket carrying its 2nd spy satellite explodes shortly after launch,”
+NBC News, May 27, 2024, 
+ing-2nd-spy-satellite-explodes-shortly-launch-rcna154231.
+10 “The Final Frontier Flash: Developments and Analysis in the Space Domain, Issue 100,” Integrity ISR,
+June 30, 2024, 
+tier-Flash.pdf.
+11 Helen Regan, Gawon Bae, Brad Lendon, and Yumi Asada, “North Korea says it conducted new
+ICBM test, days ahead of US election,” CNN, October 31, 2024, 
+asia/north-korea-icbm-test-intl-hnk/index.html; and Kim Tong-Hyung, “North Korea says it tested
+hypersonic intermediate range missile designed to strike remote Pacific targets,” PBS, January 7,
+2025, 
+ate-range-missile-designed-to-strike-remote-pacific-targets.
+12 Helen Regan, Alex Stambaugh, Gawon Bae, and Mariya Knight, “Blinken warns Russia is close to
+
+sharing advanced satellite technology with North Korea,” CNN, January 6, 2025, 
+com/2025/01/06/asia/blinken-russia-satellite-technology-north-korea-intl-hnk/index.html.
+13 “North Korea Cyber Group Conducts Global Espionage Campaign to Advance Regime’s Military and
+Nuclear Programs,” National Cyber Security Centre, July 25, 2024, 
+ncsc-partners-vigilant-dprk-sponsored-cyber-campaign.
+14 Marco Galli et al., “An Offer You Can Refuse: UNC2970 Backdoor Deployment Using Trojanized PDF
+Reader,” Mandiant, September 17, 2024, 
+unc2970-backdoor-trojanized-pdf-reader.
+15 “SpaDeX Mission,” Indian Space Research Organization, December 21, 2024, 
+mission_SpaDeX.html; and Geeta Pandey, “India successfully conducts historic space-docking test,”
+BBC News, January 16, 2025, 
+16 Abhinandan Mishra, “India may acquire advanced Russian radar system,” Sunday Guardian, December
+8, 2024, 
+17 GPS Spoofing WorkGroup, GPS Spoofing.
+18 Rudy Ruitenberg, “France plans low-orbit demonstrator that can target other satellites,” Defense
+News, September 17, 2024, 
+low-orbit-demonstrator-that-can-target-other-satellites/.
+19 Mathieu Gitton (@mathieu-gitton), “France Intensifies Its Space Defense Strategy: New Challenges
+and Opportunities,” LinkedIn, October 8, 2024, 
+space-defense-strategy-new-mathieu-gitton-bxsce/.
+GPS JAMMING AND SPOOFING
+1 “UN agencies warn of satellite navigation jamming and spoofing,” International Telecommunication
+Union, March 26, 2025, 
+tion-jamming-and-spoofing/.
+2 Isabelle Khurshudyan and Alex Horton, “Russian jamming leaves some high-tech U.S. weap-
+ons ineffective in Ukraine,” Washington Post, May 24, 2024, 
+world/2024/05/24/russia-jamming-us-weapons-ukraine/.
+3 Linus Höller, “US, allies rush to refit their big guns with GPS protections,” Defense News, March 13,
+2025, 
+guns-with-gps-protections/.
+4 “Report a GPS Anomaly,” Federal Aviation Administration, accessed March 19, 2025, 
+gov/air_traffic/nas/gps_reports.
+5 Guy Buesnel and Mark Holbrow, “GNSS Threats, Attacks and Simulations,” PNT Advisory Board, , 
+6 Gleason Arliss, “What are the consequences of GPS interference?,” Perfect Jammer, September 7,
+2022, 
+7 Woodrow Bellamy III, “Are GPS Jamming Incidents a Growing Problem for Aviation?,” Avionics Interna-
+tional, January 31, 2017, 
+growing-problem-for-aviation/.
+8 Matt Burgess, “When a tanker vanishes, all the evidence points to Russia,” Wired, September 21, 2017,
+
+9 “2023 – The year of GPS jamming and spoofing,” Resilient Navigation and Timing Foundation, Janu-
+ary 27, 2024, 
+10 GPS Spoofing WorkGroup, GPS Spoofing.
+11 Ibid.
+12 Hande Atay Alam et al., “Iran accuses Israel of killing Iranian military commanders and others in
+airstrike on consulate in Syria,” CNN, April 1, 2024, 
+iran-syrian-consulate-attack-intl/index.html.
+13 Laura Gozzi, “Ukraine war: Deepest Ukraine drone attack into Russian territory injures 12,” BBC News,
+April 2, 2024, Anna Chernova, Victoria Butenko,
+43 SPACE THREAT ASSESSMENT 2025
+
+and Sophie Tanno, “Ukraine claims major drone strike on Russian airfield, killing servicemen and
+destroying aircraft,” CNN, April 5, 2024, 
+strikes-rostov-region-russia-intl/index.html; and Olga Voitovych and Lauren Said-Moorhouse, “Rusg-
+sian oil refineries and military airfield targeted in drone attack, as thermal energy plants are damaged
+in Ukraine,” CNN, April 27, 2024, 
+ery-drone-attack-intl/index.html.
+14 Guy Faulconbridge and Lidia Kelly, “Ukraine attacks Moscow in one of largest ever drone strikes on
+Russian capital,” Reuters, August 21, 2024, 
+drone-attack-moscow-other-regions-russian-officials-say-2024-08-21/.
+15 Maria Varenikova, “Ukraine Sends Volley of Drones at Russia, Hitting Oil Refinery,” New York Times,
+January 24, 2025, 
+html.
+16 Pavel Polityuk and Alex Richardson, “Ukraine says it hit an offshore gas platform used by Russian
+forces,” Reuters, August 10, 2024, 
+shore-gas-platform-used-by-russian-forces-2024-08-10/.
+17 GPS Spoofing WorkGroup, GPS Spoofing.
+18 Sribala Subramanian, “GPS Jamming in Myanmar,” The Diplomat, October 18, 2024, 
+mat.com/2024/10/gps-jamming-in-myanmar/.
+19 Travis Turgeon, “Global GPS Jamming Hotspots: ,” GNSS Jamming, July 1, 2024, https://
+ and John Feng, “North Korean Elecg-
+tronic Warfare Surges Under Kim: South,” Newsweek, October 4, 2024, 
+north-korea-gps-jamming-electronic-warfare-against-south-korea-surges-1963814.
+20 GPS Spoofing WorkGroup, GPS Spoofing.
+21 “ITU issues warning on interference with radio navigation satellite service,” International Telecom-
+munication Union, August 23, 2022, 
+ence-rnss/; and Stine Jacobsen and Anne Kauranen, “Estonia says Russia violates international rules
+with GPS interference,” Reuters, April 30, 2024, 
+olates-international-083726782.html.
+22 Kim Seung-yeon, “U.N. aviation agency voices grave concern over N. Korea’s GPS signal jamming,”
+Yonhap News Agency, June 24, 2024, 
+23 Agnes Helou, “Lebanon files complaint with UN over alleged Israeli GPS jamming,” Breaking Defense,
+July 17, 2024, 
+israeli-gps-jamming/.
+24 Ionut Arghire, “Check Point Responds to Hacking Claims,” Security Week, April 1, 2025, 
+securityweek.com/check-point-responds-to-hacking-claims/.
+25 Yonatan Keller, “State actor or cybercrime? The story of IntelBroker, the most under-rated threat
+actor,” Zafran, April 25, 2024, and Waqas,
+“IntelBroker Claims Space-Eyes Breach, Targeting US National Security Data,” HackRead, April 16,
+2024, 
+26 “European Repository of Cyber Incidents (EuRepoC),” German Institute for International and Secu-
+rity Affairs, accessed March 24, 2025, 
+swp-projects/european-repository-on-cyber-incidents-eurepoc.
+27 Bill Toulas, “US Space Tech Giant Maxar Discloses Employee Data Breach,” BleepingComputer,
+November 18, 2024, 
+discloses-employee-data-breach.
+28 Sandra Erwin, “Space Industry Group Warns of Escalating Cyber Threats, Outmatched Defenses,”
+SpaceNews, June 18, 2024, 
+ber-threats-outmatched-defenses/; and Space ISAC Newsroom, accessed April 17, 2025, https://
+spaceisac.org/newsroom/#.
+29 Clemence Poirer, “Hacking the Cosmos: Cyber operations against the space sector. A case study from
+the war in Ukraine,” Center for Security Studies, , 
+news/2024/10/hacking-the-cosmos-cyber-operations-against-the-space-sector-a-case-study-from-
+the-war-in-ukraine.html.
+
+30 Austin Kaiser, “Satellite Hacking,” Black Hills Information Security, October 3, 2024, 
+blackhillsinfosec.com/satellite-hacking/.
+31 Dale Arney et al., “In-Space Servicing, Assembly, and Manufacturing (ISAM) State of Play - 2024 Edi-
+tion,” NASA Technical Reports Server, October 31, 2024, 
+32 “Space Symposium 40: Whiting stressed U.S. must prepare for conflict to ensure peace,” U.S.
+Space Command, April 8, 2025, 
+cle/4149678/space-symposium-40-whiting-stressed-us-must-prepare-for-conflict-to-ensure-peace/;
+and Achala Dennison, “Why Orbital Maneuvering Is Top Of Mind At U.S. Space Command,” Space
+Systems CyberSecurity, October 7, 2024, 
+tionweek-com-space-launch-vehicles-propulsion-why-orbital-maneuvering-top-mind-us-space-com-
+mand/.
+33 “Geosynchronous Space Situational Awareness Program,” United States Space Force, last updated
+, 
+nous-space-situational-awareness-program/.
+34 Garrett Reim, “SSC Researching Constellation Of Next-Generation GEO Satellite Scouts,” Avia-
+tion Week Network, March 11, 2024, 
+tion-next-generation-geo-satellite-scouts.
+35 Sandra Erwin, “True Anomaly Achieves Milestone with Jackal Satellite Deployment,” SpaceNews,
+December 26, 2024, 
+lite-deployment/; and “Mission X Continues: Announcing Successful Launch and Control of Jackal,”
+True Anomaly, December 21, 2024, 
+36 “Identification and Characterisation of Space Objects Through Non-Earth Imaging,” HEO,
+
+jects-through-non-earth-imaging.
+37 Tom Temin, “Air Force Research Lab Creates a New Approach to Situational Awareness in Space,” Fed-
+eral News Network, January 26, 2024, 
+research-lab-creates-a-new-approach-to-situational-awareness-in-space/.
+38 Debra Werner, “French Armament Agency Responds to Space Threats,” SpaceNews, September
+17, 2024, Rudy
+Ruitenberg, “France Plans Low-Orbit Demonstrator That Can Target Other Satellites,” Defense News,
+September 17, 2024, 
+orbit-demonstrator-that-can-target-other-satellites/; and Nicolas Cailleaud, “Espace: Tout Savoir Sur
+Yoda, CET Engin de Guerre Protecteur de Satellites,” CNEWS, April 29, 2021, 
+ence/2021-04-29/espace-tout-savoir-sur-yoda-cet-engin-de-guerre-protecteur-de-satellites-1076052.
+39 “The Iron Dome for America,” The White House, January 27, 2025, 
+dential-actions/2025/01/the-iron-dome-for-america/.
+40 “Implementing Competitive Endurance: Space Intelligence,” CSIS, October 10, 2023, 
+org/analysis/implementing-competitive-endurance-space-intelligence.
+41 Darren McKnight et al., “Rocket Body Tumbling Assessment Through Radar, Optical Telescope, and
+Imaging,” 75th International Astronautical Congress (IAC), October 14–18, 2024, 
+unibe.ch/publist/data/2024/artproc/SF_IAC2024.pdf.
+42 Jim Garamone, “Iran Shoots Down U.S. Global Hawk Operating in International Airspace,” DOD
+News, June 20, 2019, 
+iran-shoots-down-us-global-hawk-operating-in-international-airspace/; U.S. Air Forces Europe -
+Air Forces Africa,“Russian aircraft collides into US unmanned system in international waters,” U.S.
+European Command, March 14, 2023, 
+craft-collides-into-us-unmanned-system-in-international-waters; Jim Garamone, “Defense Leaders
+See Increase in Risky Chinese Intercepts,” DOD News, June 8, 2023, 
+News-Stories/Article/Article/3421766/defense-leaders-see-increase-in-risky-chinese-intercepts/; and
+John Feng, “U.S. and China Spar Over Military Aircraft Intercept Over South China Sea,” Newsweek,
+January 2, 2023, 
+tion-army-navy-south-china-sea-1770666.
+43 Per discussions in with an individual close to TraCSS implementation efforts.
+44 Jim Shell (@jim-shell-4539438), “OUCH! Russia slams the US over the lack of cataloging debris asso-
+45 SPACE THREAT ASSESSMENT 2025
+
+ciated with recent US space object breakups!” LinkedIn, , 
+posts/jim-shell-4539438_ouch-russia-slams-the-us-over-the-lack-activity-7298535252027748354-
+yeAD.
+45 The eight incidents selected were based on information discoverable from SSA experts and compa-
+nies on social media, cited below.
+46 U.S. Space Command, “Break-up of Russian-owned space object,” press release, June 27, 2024,
+
+up-of-russian-owned-space-object/; and Reuters, “Astronauts take cover as defunct Russian satellite
+splits into nearly 200 pieces,” The Guardian, June 27, 2024, 
+article/2024/jun/27/russian-satellite-debris-international-space-station.
+47 LeoLabs (@LeoLabs_Space), “We’re actively monitoring and analyzing the breakup event in #LEO
+involving a Chinese rocket body, CZ-6A. Our radar data indicates this event occurred on 6 August at
+~20:10 UTC at ~810 km. It resulted in at least 700 debris fragments and potentially more than 900,” X,
+August 8, 2024, 6:28 p.m. ET, 
+48 Ibid.
+49 Jim Shell (@jim-shell-4539438), “YASDE! (Yet Another Space Debris Event),” LinkedIn, , 
+mainnormsofbehavior-activity-7237837766460342272-ySgV.
+50 S4S_SDA, “S4S has confirmed the breakup of Intelsat 33E (#41748, 2016-053B) ~0430 UTC. Currently
+tracking around 20 associated pieces - analysis ongoing,” X, October 19, 2024, 9:56 p.m. ET, 
+com/S4S_SDA/status/1847819183272472884.
+51 Jason Rainbow, “ExoAnalytic observes 500 pieces of debris from Intelsat 33e breakup,” SpaceNews,
+October 28, 2024, 
+sat-33e-breakup/.
+52 Jeff Foust, “Retired military weather satellite breaks up,” SpaceNews, December 20, 2024, https://
+spacenews.com/retired-military-weather-satellite-breaks-up.
+53 Slingshot Aerospace, “Slingshot Orbital Alert,” X, December 19, 2024, 4:15 p.m. ET, 
+sling_shot_aero/status/1869853991296741726.
+54 Jim Shell (@jim-shell-4539438), “YASDE! (Yet Another Space Debris Event),” LinkedIn, ,
+
+wareness-activity-7291070798121836545-b8WA.
+55 Ibid.
+56 Jim Shell (@jim-shell-4539438), “YASDE! (Yet Another Space Debris Event),” LinkedIn, ,
+
+AS.
+57 “Fregat RB/Cluster 2,” NASA, March 26, 2025, 
+action?id=2000-015A; and Jim Shell (@jim-shell-4539438), “A LOT of #SpaceDebris with LITTLE
+awareness,” LinkedIn, , 
+bris-spacesustainability-activity-7241669796587565056-_wYm.
+58 Jim Shell, “A LOT of #SpaceDebris with LITTLE awareness,” LinkedIn, .
+59 “NATO explores ways to better protect commercial partners in space,” NATO, October 4, 2024, https://
+
+60 “Russia warns United States: use of SpaceX for spying makes its satellites a target,” Reuters, March 20,
+2024, 
+lites-target-2024-03-20/.
+61 Clyde Laheyne, “Forging the space armory,” Dark, January 28, 2025, 
+mission-forging-the-space-armory.
+62 Aria Alamalhodaei, “Dark is building a rocket-powered boxing glove to push debris out of orbit,” Tech-
+Crunch, April 17, 2024, 
+boxing-glove-to-push-debris-out-of-orbit/.
+63 Tereza Pultarova, “Astroscale, BAE Systems Team On ISAM Demo by 2030,” Payload, March 5, 2025,
+
+64 “RemoveDEBRIS,” Airbus, accessed April 17, 2025, 
+space/earth-observation/removedebris.
+WHAT TO WATCH
+1 “White Paper on Competitive Endurance: A Proposed Theory of Success for the U.S. Space Force,”
+United States Space Force, January 11, 2024, 
+White_Paper_Summary_of_Competitive_Endurance.pdf.
+2 “Tenets of Responsible Behavior in Space,” Secretary of Defense, July 7, 2021, 
+mil/Newsroom/Publications/Pub-Display/Article/3318236/tenets-of-responsible-behavior-in-space/.
+3 “USSPACECOM Releases Specific Behaviors,” U.S. Space Command, March 3, 2023, 
+spacecom.mil/Newsroom/News/Article-Display/Article/3318606/usspacecom-releases-specific-be-
+haviors/.
+4 Sandra Erwin, “U.S. declares ban on anti-satellite missile tests, calls for other nations to join,” Space-
+News, April 18, 2022, 
+for-other-nations-to-join/; and Jeff Foust, “United Nations General Assembly approves ASAT test ban
+resolution,” SpaceNews, December 13, 2022, 
+bly-approves-asat-test-ban-resolution/.
+5 Eric Lipton, “Departing Air Force Secretary Will Leave Space Weaponry as a Legacy,” New York Times,
+December 29, 2024, 
+and Theresa Hitchens, “‘Space fires’ to enable ‘space superiority’ are top SPACECOM priorities for
+FY27,” Breaking Defense, August 6, 2024, 
+ble-space-superiority-are-top-spacecom-priorities-for-fy27/.
+6 “Rules of war (in a nutshell),” International Committee of the Red Cross, August 22, 2014, https://
+
+7 “Agreement Between the Government of The United States of America and the Government of The
+Union of Soviet Socialist Republics on the Prevention of Incidents On and Over the High Seas,” U.S.
+Department of State, entered into force May 25, 1972, 
+8 Space and Missile Systems Center Public Affairs, “Counter Communications System Block 10.2
+achieves IOC, ready for the warfighter,” United States Space Force, March 13, 2020, 
+spaceforce.mil/News/Article/2113447/counter-communications-system-block-102-achieves-ioc-
+ready-for-the-warfighter/; and “STARCOM tests RMT system for Space Rapid Capabilities Office,” Space
+Training and Readiness Command (STARCOM), April 18, 2024, 
+News/Article-Display/Article/3747374/starcom-tests-rmt-system-for-space-rapid-capabilities-office/.
+9 Theresa Hitchens, “Space Force’s FY24 budget includes ‘offensive’ options for space. What does that
+mean?” Breaking Defense, March 13, 2023, 
+budget-includes-offensive-options-for-space-what-does-that-mean/; and “Remarks by Deputy Secren-
+tary of Defense Kathleen H. Hicks at the U.S. Space Command (USSPACECOM) Change of Command
+Ceremony (As Delivered),” U.S. Department of Defense, January 10, 2024, 
+News/Speeches/Speech/Article/3641746/remarks-by-deputy-secretary-of-defense-kathleen-h-hicks-
+at-the-us-space-command/.
+10 Britianie Teston, “Innovative Testing and Skilled Personnel Drive Space RCO’s Newest Success,”
+Kirtland Air Force Base, October 7, 2024, 
+cle/3928036/innovative-testing-and-skilled-personnel-drive-space-rcos-newest-success/; and Chris/-
+topher Stone, “Space-to-ground capabilities are the answer to deterring invasion of Taiwan,” Space
+Review, January 30, 2023, 
+11 European Defense Fund factsheet, “Bodyguard,” European Commission, May 16, 2024, 
+fence-industry-space.ec.europa.eu/document/download/dfcec3d7-df67-4fc4-a7ea-0e5362ce204c_
+en?filename=EDF-2023-RA-SPACE-PSA%20BODYGUARD.pdf.
+12 Angela Webb, “Joint Effort Made Satellite Success Possible,” U.S. Strategic Command, February
+25, 2008, 
+fort-made-satellite-success-possible/.
+13 Jeff Foust, “Majority of tracked Russian ASAT debris has deorbited,” SpaceNews, September 29, 2022,
+47 SPACE THREAT ASSESSMENT 2025
+
+ and Space-Track
+Catalogue, accessed on March 24, 2025, 
+14 Space-Track.org, Accessed on April 2, 2025.
+15 Andrew Jones, “China’s megaconstellation launches could litter orbit for more than a century,
+analysts warn,” SpaceNews, April 7, 2025, 
+es-could-litter-orbit-for-more-than-a-century-analysts-warn/.
+16 While this development would mark the first reported space-based nuclear ASAT capability believed
+to target pLEO constellations, high-altitude nuclear detonations (HANDs) in space are not new. In
+fact, any actor with a nuclear warhead and medium-range ballistic missile possesses such a latent
+capability. Both the United States and Soviet Union conducted HAND tests in the 1950s and 1960s, in-
+cluding the 1962 U.S. Starfish Prime test notable for the damage and destruction it caused to orbiting
+satellites at the time through prompt and delayed, or accumulating, radiation. An orbiting nuclear
+ASAT would present a challenging warning problem and—depending on the altitude, placement, and
+magnitude of the detonation—would create catastrophic devastation in low Earth orbit for months to
+years.
+17 Kari A. Bingen, Kaitlyn Johnson, and Makena Young, Space Threat Assessment 2023 (Washington, DC:
+CSIS, ), 
+18 “Russia warns United States: use of SpaceX for spying makes its satellites a target,” Reuters, March 20,
+2024, 
+lites-target-2024-03-20/; and “Russia warns West: We can target your commercial satellites,” Reuters,
+October 27, 2022, 
+targets-2022-10-27/.
+19 General Stephen N. Whiting, Commander, U.S. Space Command, Fiscal Year 2026 Priorities and Pos-
+ture of United States Space Command, Testimony before the U.S. Senate Armed Services Committee,
+119th Cong., 1st sess. (March 26, 2025), 
+timony_of_general_stephen_nwhiting.pdf.
+20 “The Iron Dome for America,” The White House, January 27, 2025, 
+dential-actions/2025/01/the-iron-dome-for-america/.
+21 D. K. Barton et al, “Report of the American Physical Society Study Group on Boost-Phase Intercept
+Systems for National Missile Defense: Scientific and Technical Issues,” Rev. Mod. Phys. 76, S1 (2004),
+
+22 Jon Jackson, “Russia Rebukes Donald Trump’s Plan for American Iron Dome,” Newsweek, January 31,
+2025, 
+23 “Space Force announces new mission statement,” Secretary of the Air Force Public Affairs, September
+6, 2023, 
+new-mission-statement/.
+CONCLUSION
+1 Greg Hadley, “‘Whatever it Takes’: Saltzman Says ‘Space Superiority’ Is USSF’s Mission,” Air and Space
+Forces Magazine, March 3, 2025, 
+tion-offensive-space/.
+2 “Space Symposium 40: Whiting stressed U.S. must prepare for conflict to ensure peace.”
+
+1616 Rhode Island Avenue NW
+Washington, DC 20036
+202 887 0200 |
