@@ -17,3 +17,5 @@ torch
 sentence-transformers
 faiss-cpu
 gdown
+networkx
+spacy
