@@ -1,0 +1,3407 @@
+A Report of the CSIS Aerospace Security Project
+FOREWORD | Doug Loverro AUTHORS | Todd Harrison, Kaitlyn Johnson, Makena Young
+DDEEFFEENNSSEE
+AAGGAAIINNSSTT
+TTHHEE DDAARRKK
+AARRTTSS IINN
+SSPPAACCEE
+Protecting Space Systems from Counterspace Weapons
+
+DDEEFFEENNSSEE AAGGAAIINNSSTT
+TTHHEE DDAARRKK AARRTTSS
+IINN SSPPAACCEE
+Protecting Space Systems from Counterspace Weapons
+FOREWORD | Doug Loverro
+AUTHORS | Todd Harrison, Kaitlyn Johnson, Makena Young
+A Report of the CSIS Aerospace Security Project
+Lanham · Boulder · New York · London
+
+ABOUT CSIS
+The Center for Strategic and International Studies (CSIS) is a bipartisan, nonprofit
+policy research organization dedicated to advancing practical ideas to address the
+world’s greatest challenges.
+Thomas J. Pritzker was named chairman of the CSIS Board of Trustees in 2015, suc-
+ceeding former U.S. senator Sam Nunn (D-GA). Founded in 1962, CSIS is led by John
+J. Hamre, who has served as president and chief executive officer since 2000.
+CSIS’s purpose is to define the future of national security. We are guided by a dis-
+tinct set of values—nonpartisanship, independent thought, innovative thinking,
+cross-disciplinary scholarship, integrity and professionalism, and talent develop-
+ment. CSIS’s values work in concert toward the goal of making real-world impact.
+CSIS scholars bring their policy expertise, judgment, and robust networks to their
+research, analysis, and recommendations. We organize conferences, publish, lec-
+ture, and make media appearances that aim to increase the knowledge, awareness,
+and salience of policy issues with relevant stakeholders and the interested public.
+CSIS has impact when our research helps to inform the decisionmaking of key poli-
+cymakers and the thinking of key influencers. We work toward a vision of a safer and
+more prosperous world.
+CSIS does not take specific policy positions; accordingly, all views expressed herein
+should be understood to be solely those of the author(s).
+© 2021 by the Center for Strategic and International Studies. All rights reserved.
+ISBN: 978-1-5381-4031-4 (pb); 978-1-5381-4032-1 (ebook)
+Center for Strategic & International Studies
+1616 Rhode Island Avenue, NW
+Washington, DC 20036
+202-887-0200 | 
+Rowman & Littlefield
+4501 Forbes Boulevard
+Lanham, MD 20706
+301-459-3366 | 
+
+ACKNOWLEDGMENTS
+The team would like to extend our thanks to several key individuals who made
+this report possible. First, to Doug Loverro for his expertise, support with building
+the workshop scenarios, and writing of the foreword for this report. Second, to
+Emily Tiemeyer for her outstanding work on our Harry Potter-inspired layout,
+graphics, and charts. Third, to Jeeah Lee and Phillip Meylan for their expert eyes
+and copyedits. We would also like to thank our friend and colleague, Thomas Rob-
+erts, for his insight, contributions, and edits. Finally, the team would like to thank
+the space and national security experts who participated in the workshops that
+informed this study, which are discussed in Chapter 5 of this report.
+This study was made possible by the generous support of the Smith Richardson
+Foundation and general support to CSIS.
+The Aerospace Security Project would also like to recognize J.K. Rowling’s Harry
+Potter series, which has greatly inspired our overall design concept, including the
+incorporation of its iconography and quotes.
+While this report borrows the story and imagery of Harry Potter, we do not share
+the author’s discriminatory views. The Aerospace Security Project team and CSIS
+support equality and representation for all, including the trans community, and
+we strive to create an environment where people of all backgrounds are heard
+and included. With the Harry Potter theme, we want to reaffirm some of the values
+the characters and stories taught us: friendship, courage, selflessness, and being
+true to oneself.
+ACKNOWLEDGMENTS
+
+TABLE OF CONTENTS
+Foreword .........................................................................................................................................vi
+CHAPTER 1: Space Is No Sanctuary ............................................................................................1
+The State of Space Today ......................................................................................................2
+Militarization versus Weaponization of Space ...................................................................2
+Space Organizations ..............................................................................................................4
+The Need for Space Defenses ...............................................................................................5
+Report Organization and Methodology .................................................................................5
+CHAPTER 2: The Dark Arts in Space ............................................................................................7
+Kinetic Physical ......................................................................................................................7
+Non-Kinetic Physical ..............................................................................................................8
+Electronic .................................................................................................................................8
+Cyber .........................................................................................................................................9
+CHAPTER 3: Space Defenses Defined .........................................................................................10
+Defensive Counterspace Operations ...................................................................................10
+Passive Defenses ...................................................................................................................11
+Architectural Defenses .................................................................................................................11
+Technical Defenses .......................................................................................................................13
+Operational Defenses ....................................................................................................................16
+Active Defenses ......................................................................................................................18
+Space-Based Defenses .................................................................................................................18
+Terrestrial-Based Defenses ..........................................................................................................20
+CHAPTER 4: Space Defenses Applied .........................................................................................22
+Objectives of the Attacker in Space ....................................................................................22
+Objectives of the Defender in Space....................................................................................24
+Matching Defenses to Threats .............................................................................................25
+CHAPTER 5: Scenarios for Defensive Counterspace Operations ............................................27
+Scenario 1: Russian Incursion into the Baltics ..................................................................27
+Scenario 2: Possible Hijacked Satellite...............................................................................30
+Scenario 3: Escalating Tensions in the South China Sea .................................................31
+Scenario 4: Commercial Space System Protection ...........................................................34
+Key Takeaways ........................................................................................................................35
+CHAPTER 6: Conclusions and Recommendations .....................................................................37
+About the Authors ..........................................................................................................................40
+TABLE OF CONTENTS
+
+both a crucial advantage of U.S. mili- fare. The “art of war” did not change,
+“All armies prefer
+tary strength and a critical chink in the but its application needed to be amend-
+high ground to low, United States’ military armor. The re- ed. So too for space—the philosophical
+emergence of antisatellite activities underpinnings are the same as they
+and sunny places to
+around the world, and more specifical- were 2,500 years ago—but applying
+dark . . . With regard ly in Russia and China, was not due to those concepts to space conflict re-
+sudden technological change but rath- quires the ability to see beyond the
+to precipitous
+er to the rising recognition of the grand concepts and into operational
+heights, if you are
+changing strategic calculus of “what is strategies and capabilities. That work
+beforehand with your strong” and “what is weak.” More wor- has begun, but much more is required.
+risome, the “weakness” of U.S. space
+adversary, you should Into that fray comes this volume from
+forces is not limited to what happens in
+the folks at CSIS. Outlining the develop-
+occupy the raised the heavens—losses there create new
+ment and possible types of the weap-
+vulnerabilities on the ground, which
+and sunny spots, and
+ons of space conflict and some of the
+then develop new nexuses of “what is
+there wait for him to early existing strategic ideas that have
+weak” to attack.
+been posited for how space conflict will
+come up.”
+The ideas in The Art of War are thought evolve, they then put those ideas to the
+to be the compilation of generations of test. Through a series of thought exer-
+SUN TZU, THE ART OF WAR
+military learning from the experience cises, marked by far more realistic sce-
+of battle and that Sun Tzu, who may or narios than are often used in such en-
+may not have actually existed, com- deavors, they seek to enlighten that
+FOREWORD piled them into his eponymous text. He which can only truly be learned in con-
+had the advantage of those genera- flict. The results are simultaneously in-
+It is hard to imagine that Sun Tzu ever tions of land conflict and the lessons formative and surprising. Conventional
+from wars won and lost. Clausewitz wisdom about secrecy and the use of
+conceived of as “precipitous” a
+“height” or as “sunny” a “spot” as and Mahan were similarly able to draw in-space kinetic force to repel attacks
+upon centuries of battle-tested plans gives way to more nuanced uses of in-
+Earth orbit. But it is fascinating to won-
+and experiences to derive their own formational methods (domain aware-
+der, if he had, would it have changed his
+theories of land and sea strategy and to ness), diplomatic approaches (norms of
+perception of how battles would be
+use those lessons to advance the state- behavior), cyber intrusion, and the need
+fought and how wars could be won. Mil-
+of-the-art of doctrine, weapons, and for greater, more thoughtful, and uni-
+itary theorists (and science fiction
+employment of armed force. Unfortu- versally known resilience methods as
+screenwriters) have often resorted to
+nately, we have no experience in space superior ways in which to resist attacks.
+pronouncements taken from Sun Tzu to
+warfare to rely upon—no grand lessons Also of note is that, while the predomi-
+explain the basis of their decisions or to
+of how force was applied nor even use- nance of discussion around space at-
+justify the boldness of their approach.
+ful exercises to extend into actual com- tack seems to focus on what would be
+But perhaps the true import of Sun Tzu’s
+bat. The slate is blank. traditionally termed Phase 2 and 3 hos-
+words is to operational commanders on
+tilities, the tools that might require
+how to best disposition forces and, Certainly, the philosophical elements of
+more thought are those that can be em-
+more critically, how to identify the route war captured by Sun Tzu, Clausewitz,
+ployed below the level and before the
+to victory. If that is true, then clearly Mahan, and many others translate from
+start of all-out conflict, in the more am-
+Russian and Chinese space strategists domain to domain, but often that trans-
+biguous and less acute situations that
+learned from a different Sun Tzu ad- lation is fuzzy and subject to strategic are likely to be the rule rather than the
+monishment: “So in war, the way is to surprise, especially when technology exception in space conflict.1
+outpaces the application of derived
+avoid what is strong and to strike at
+concepts. The creation of the Maginot It is clear we are in the very early stages
+what is weak.”
+Line can be traced back to the writings of developing the correct application of
+CLICK TO Since the turn of the century, the dou- of Sun Tzu on the superiority of the de- Sun Tzu’s tenets to space combat. And
+FLY BACK TO
+THE CONTENTS
+ble-edged sword that space represents fense but was made technologically ir- since such conflict is unlikely to be a
+for U.S. forces has been apparent—it is relevant by the introduction of air war- common occurrence in the foreseeable
+FOREWORD vi HARRISON, JOHNSON, YOUNG
+
+future, thought pieces and exercises
+such as undertaken here will have an
+outsized role in that development. Ad-
+ditionally, the rate of technological
+change in this area is accelerating, and
+as mentioned earlier, that can turn
+well-understood operational concepts
+on their head if the underlying lessons
+are lost in the process of focusing on
+specific implementations.
+In the interwar years between World “Harry wandered over to the
+War I and World War II, forward-thinking Restricted Section . . .
+naval officers theorized and war-gamed Unfortunately, you needed a
+the use of carrier-based and subma-
+specially signed note from one of
+rine-based naval power in exercises
+the teachers to look in any of the
+called “Fleet Problems” despite the
+restricted books, and he knew
+dominant notion of the superiority of
+he’d never get one. These were
+the battleship. Those “problems,” prac-
+ticed and played out under the title of the books containing powerful
+War Plan Orange, became the furnace in Dark Magic never taught at
+which operational experience could be Hogwarts, and only read by older
+forged—put crucially to the test after
+students studying advanced
+. Space needs the same
+Defense Against the Dark Arts.”
+forward-looking, innovative approach
+to examining strategic concepts—its HARRY POTTER AND THE SORCERER’S STONE
+own set of furnaces to forge its future
+strategy—before it has its own “space
+Pearl Harbor.” This study is one of the
+first—it won’t be the last.
+Douglas L. Loverro, Colonel USAF (Ret)
+Former Deputy Assistant Secretary of
+Defense for Space Policy
+CLICK TO
+FLY BACK TO
+THE CONTENTS
+FOREWORD vii HARRISON, JOHNSON, YOUNG
+
+DDEEFFEENNSSEE AAGGAAIINNSSTT TTHHEE CCHHAAPPTTEERR 11 DDAARRKKSS AARRTTSS IINN SSPPAACCEE
+SPACE IS NO
+SANCTUARY
+The United States is increasingly ning of the space age, when early satel- that an attack on these space systems
+dependent on space systems for lites began to provide nascent military would be regarded as a prelude to a
+economic and military security. capabilities, nations started develop- nuclear attack. The foundation of de-
+The expansion of government and ing ways to deny others the military terrence in space was nuclear deter-
+commercial space capabilities has benefits of space. In 1959, just two rence on Earth.4
+opened markets and made possible years after the launch of Sputnik, the
+What is different today is that the abili-
+whole new industries within the United United States tested the first anti-satel-
+ty of the United States to deter attacks
+States and around the world. Ride-shar- lite (ASAT) weapon—a Bold Orion mis-
+in space is in doubt. National security
+ing apps such as Uber and Lyft, the ul- sile launched from a B-47 bomber.2 The
+space systems are not just used to sup-
+tra-efficient supply chains of business- Soviets soon followed, beginning tests
+port nuclear forces, and the U.S. mili-
+es, and the grocery delivery services of a space-based co-orbital ASAT weap-
+tary is increasingly dependent on
+many depended on during the Covid-19 on system in 1963 and declaring the
+space systems across the full spectrum
+pandemic would not be possible with- system fully operational by 1973.3
+of military operations. Counterterror-
+out the U.S. military-operated Global Space was never really a sanctuary.
+ism operations in the Middle East use
+Positioning System (GPS). Moreover,
+Although space was a contested do- drones enabled by GPS and satellite
+the global economy depends not just
+main from nearly the beginning, none communications (SATCOM) systems to
+on the weather, communications, navi-
+of the kinetic ASAT weapons developed track and strike high-value targets.
+gation, timing, and remote sensing
+by the United States and the Soviet Space-based imagery, signals intelli-
+data from space systems but also on
+Union were ever used in conflict. While gence, and other surveillance systems
+the global reach and power projection
+the threat of attack was ever present provide real-time global monitoring of
+capabilities of U.S. and allied militaries
+during the Cold War, a stable deter- adversary forces that otherwise would
+that protect the global commons and
+the free flow of global commerce. rence posture developed between the not be possible. And nuclear forces
+two superpowers because both U.S. stand watch day and night using many
+Space, however, is not a sanctuary. and Soviet national security space sys- of the same satellites to quickly detect
+While this pronouncement has become tems were primarily used to support missile launches and ensure the na-
+CLICK TO somewhat cliché among policy ana- nuclear forces. Multiple agreements tional command authority remains
+FLY BACK TO
+THE CONTENTS lysts, the history behind this statement and treaties between the two nations connected before, during, and after a
+is often overlooked. Since the begin- formalized a mutual understanding nuclear attack.
+SPACE IS NO SANCTUARY 1 HARRISON, JOHNSON, YOUNG
+
+Space provides an nation states, such as space-based radar
+“Indifference
+and neglect economic and mili- TTHHEE SSTTAATTEE and radio frequency (RF) monitoring.
+tary advantage to the SpaceX, for example, has disrupted the
+often do much
+United States that is launch market with its partially reusable
+more damage
+not easily replicated OOFF SSPPAACCEE Falcon 9 rocket and is now attempting to
+than outright by other nations or by disrupt the communications market with
+dislike.” capabilities in other its Starlink constellation of satellites. The
+domains. In the three TTOODDAAYY Starlink constellation alone now has more
+ALBUS DUMBLEDORE,
+HARRY POTTER AND THE decades since the operational satellites in orbit than China.7
+ORDER OF THE PHOENIX end of the Cold War,
+These disruptions throw into sharp relief
+adversaries have tak-
+the increasingly disordered environment
+en note of these advantages. Rather The current space environment is sig-
+space has become. In many cases, nation-
+than fight the U.S. military symmetri- nificantly different than it was during
+al laws and regulatory frameworks do not
+cally, they have invested heavily in the Cold War. Space systems can no
+fully account for some of the new com-
+counterspace weapons designed to longer hide behind the cloak of nuclear
+mercial space missions being pursued.
+degrade, disrupt, and destroy U.S. and deterrence, and the defenses needed for
+And with few legally binding or enforce-
+allied space systems. These counter- space systems must account for how the
+able international treaties governing
+space weapons can hold satellites at
+space environment is changing. Space is
+space, some nations and private entities
+risk in a crisis and, in conflict, could
+more diverse, disruptive, disordered, and
+are pushing the limits on what others may
+greatly increase the risks to U.S. forces
+dangerous than in the past. Space is more
+see as acceptable behavior in space.
+and interests around the world. As
+diverse because it is no longer dominated
+Space is also becoming increasingly dan-
+Chief of Space Operations General
+by the United States and Soviet Union. gerous as more nations develop and pro-
+John Raymond has made clear, “space
+While 93 percent of all space launches liferate counterspace capabilities. Recent
+is a vital national interest and freedom
+during the Cold War were by the two su- reports by CSIS, the Secure World Foun-
+of action must be preserved. No one
+perpowers, the majority of launches to- dation, and the Defense Intelligence
+wants a conflict in space and deter-
+day are by other nations. Moreover, Agency provide an aggregation of publicly
+rence is a top priority . . . however, if
+roughly 90 percent of satellites launched available information on the develop-
+deterrence fails, we must be prepared
+in 2020 were commercial rather than gov- ment, testing, and use of counterspace
+to fight and win.”5
+ernment.6 Space is more disruptive be- weapons by other nations.8 These reports
+With the growing U.S. dependence on cause many private companies are pursu- show that while Russia and China contin-
+space and the proliferation of coun- ing new space missions, such as on-orbit ue to develop and test a wide range of
+terspace capabilities, the natural servicing of satellites and in-space mining counterspace weapons, even some
+question for strategists and policy- and manufacturing. Other private firms friendly countries, such as India and
+makers is how can space assets be are venturing into space missions that France, are developing their own counter-
+protected against such threats? This previously were the exclusive domain of space capabilities in response.
+report provides an overview of the
+range of protections that can be used
+to defend space systems from differ-
+MMIILLIITTAARRIIZZAATTIIOONN VVEERRSSUUSS
+ent forms of attack and the impact
+these defenses can have on deter-
+rence and escalation dynamics. For
+WWEEAAPPOONNIIZZAATTIIOONN OOFF SSPPAACCEE
+space to remain a source of economic
+and military advantage, the United
+The increased development and prolifera-
+States must be able to defend its criti-
+“Always use the proper name for
+tion of counterspace weapons has led to a
+cal space infrastructure and have inte-
+things. Fear of a name increases
+greater focus on space policy issues, specif-
+grated space strategy, doctrine, and
+fear of the thing itself.”
+CLICK TO operational concepts for how to use ically the militarization and weaponization of
+FLY BACK TO
+THE CONTENTS these defenses across the full spec- space. The term “militarization of space” is gen- ALBUS DUMBLEDORE, HARRY POTTER AND THE
+SORCERER’S STONE
+trum of conflict. erally used to denote the passive use of space
+SPACE IS NO SANCTUARY 2 HARRISON, JOHNSON, YOUNG
+
+systems to support military planning and
+TABLE 1: FRAMEWORK FOR TYPES OF SPACE WEAPONS
+operations on Earth. Space has been
+used for military purposes since the be- KINETIC NON-KINETIC
+ginning of the space age, and it remains
+one of the main uses of space today. Mili-
+taries around the world use space sys-
+tems for intelligence, surveillance, and
+reconnaissance (ISR); communications;
+position, navigation, and timing (PNT);
+and other functions to allow terrestrial
+forces to operate more effectively and ef-
+ficiently. Space is already militarized and
+will remain militarized for the foresee-
+able future.
+The weaponization of space, in contrast,
+is generally defined as going a step be-
+yond the mere passive use of space for
+military purposes. In Space as a Strate-
+gic Asset, Dr. Joan Johnson-Freese notes
+that “force application is the overt wea-
+ponization of space, as compared with
+the de facto weaponization that has oc-
+curred under the guise of space con-
+trol.”9 In 2004, U.S. Air Force doctrine
+defined space force application as
+“those forces that deliver kinetic effects
+to, from, or through space,” though this
+definition was removed from the De-
+partment of Defense’s (DoD) dictionary
+in 2018.10 The U.S. military defines space
+control to include both offensive and
+defensive operations that “ensure free-
+dom of action in space for the US and its
+allies and, when directed, to deny an
+adversary freedom of action in space.”11
+A variety of other nations and interna-
+tional organizations have attempted
+to define what constitutes a space
+weapon, without much success in
+reaching a broad consensus. It is use-
+ful, however, to have a framework for
+understanding the types of systems
+that could potentially be considered
+space weapons. A prior CSIS report
+proposed such a framework for weap-
+ons that are either based in space or
+CLICK TO are designed to have effects in space.12
+FLY BACK TO
+THE CONTENTS
+This framework, shown in
+Table 1, includes six cate-
+SPACE IS NO SANCTUARY 3 HARRISON, JOHNSON, YOUNG
+ECAPS-OT-HTRAE
+EXAMPLE EXAMPLES
+Direct-Ascent ASAT Uplink Jammer, Laser Dazzler/Blinder,
+Cyberattack
+HOW DO THEY WORK?
+A missile fires a warhead or projectile into HOW DO THEY WORK?
+space to directly strike or detonate near Non-kinetic counterspace weapons can be
+a target satellite. The warhead can be stationed on ground, maritime, or airborne
+conventional or nuclear. platforms and used to affect the operation of
+satellites or the sensors they carry, without
+WHAT ARE THE EFFECTS?
+making physical contact.
+A kinetic Earth-to-space weapon produces
+space debris that can affect the safe operation WHAT ARE THE EFFECTS?
+of other satellites in affected orbits. Nuclear Non-kinetic weapons disrupt or degrade the
+detonations in space increase the radiation ability of satellites to function properly. They
+exposure of other satellites and can significantly can have temporary or permanent effects, but
+shorten their lifespan. they do not generally produce orbital debris or
+other collateral damage.
+HAVE THEY BEEN DEMONSTRATED?
+Earth-to-space kinetic weapons have been HAVE THEY BEEN DEMONSTRATED?
+tested by the United States, Russia, China, and Multiple nations have demonstrated these
+India. The United States and Soviet Union tested capabilities, including Russia, China, Iran, and
+nuclear weapons in space in the 1960s. others.
+ECAPS-OT-ECAPS
+EXAMPLES EXAMPLES
+Co-orbital ASAT, Space-Based Missile Defense Co-orbital Crosslink Jammer,
+Interceptors Co-orbital High-Powered Microwave
+HOW DO THEY WORK? HOW DO THEY WORK?
+A satellite is placed into orbit and maneuvers A satellite is placed into orbit and uses
+to intercept its target by striking it directly or non-kinetic means (such as a high-powered
+detonating a conventional or nuclear warhead in microwave or jammer) to disrupt the operation
+its vicinity. of another satellite.
+WHAT ARE THEIR EFFECTS? WHAT ARE THEIR EFFECTS?
+A kinetic space-to-space weapon would produce They can degrade, disrupt, or destroy a target
+space debris that can affect the safe operation satellite without making physical contact,
+of other satellites in similar orbits. A nuclear producing orbital debris or otherwise affecting
+detonation in space would increase the radiation other satellites. The effects can be temporary
+exposure of other satellites and significantly or permanent depending on the form of attack
+shorten their lifespan. used and the protections on the target
+satellite. HAVE THEY BEEN DEMONSTRATED?
+The Soviet Union tested co-orbital kinetic ASAT HAVE THEY BEEN DEMONSTRATED?
+weapons repeatedly during the Cold War. No open-source examples could be found of
+such a system being demonstrated, although
+such tests could look like remote proximity
+operations to outside observers.
+HTRAE-OT-ECAPS
+EXAMPLE EXAMPLES
+Space-Based Global Strike (e.g., “Rods from God”) Space-Based Downlink Jammer,
+Space-Based High-Powered Laser
+HOW DO THEY WORK?
+Weapons are placed in orbit and, when HOW DO THEY WORK?
+commanded, deorbit and reenter the atmosphere A satellite equipped with a non-kinetic weapon
+to strike a target on the Earth. Damage can be could target forces on Earth, such as a laser
+inflicted using the kinetic energy of the weapon used to intercept missiles or aircraft in-flight
+itself, or a warhead can be deployed from the or a jammer used to interfere with radars or
+reentry vehicle (either conventional or nuclear). satellite ground stations.
+WHAT ARE THEIR EFFECTS? WHAT ARE THEIR EFFECTS?
+The effects depend greatly on the type of When used, the effects would be localized
+warhead used (conventional or nuclear) but to the target area, but such a system could
+would be like terrestrial-based ballistic missiles theoretically strike anywhere without warning.
+in terms of their ability to hit targets anywhere
+HAVE THEY BEEN DEMONSTRATED?
+on Earth with little warning. While the U.S. military has contemplated
+HAVE THEY BEEN DEMONSTRATED? space-based lasers for boost-phase missile
+While the idea of using space-based weapons defense, there are no open-source examples of
+for prompt global strike has been contemplated such a system being tested.
+by the U.S. military, there are no open-source
+examples of such a system being tested.
+
+gories of potential space weapons organized by the domain in which they origi- The Russian Aerospace Forces are a
+nate and have effects (Earth-to-space, space-to-space, and space-to-Earth) and military branch within the Russian
+the means by which these effects are achieved (kinetic and non-kinetic). As not- Armed Forces focused on the air and
+ed in the table, other nations have already developed and tested three of the six space domains. A sub-branch within
+the Russian Aerospace Forces is the
+categories of space weapons in the framework. Thus, by nearly any definition,
+Russian Space Force, which is tasked
+space has already been weaponized.
+with all military operations in the
+space domain, “including launching
+military satellites, maintaining space-
+SSPPAACCEE OORRGGAANNIIZZAATTIIOONNSS based assets, monitoring space ob-
+jects, and identifying potential attacks
+against the Russian homeland from
+The organization of national security space capabilities by nations provides
+space.”18 Russian ASAT capabilities are
+insight into how they view this domain from a security perspective. For ex-
+scattered throughout the military, to
+ample, the United States has long maintained a division between military
+include housing direct-ascent ASAT
+space missions conducted by DoD and national intelligence space missions con-
+programs within the Russian missile
+ducted mainly by the National Reconnaissance Office (NRO). Within the U.S. mili-
+forces and space-based co-orbital
+tary, the organization of space forces recently changed with the re-establishment
+ASAT systems within the Russian
+of United States Space Command (USSPACECOM) as a separate unified combatant Space Force.19
+command and the creation of the United States Space Force as a new military
+service. Like the other military services, the U.S. Space Force is responsible for France has the world’s third-oldest
+organizing, training, and equipping space forces for the U.S. military.13 And like space program and a long history in
+the other combatant commands, USSPACECOM is charged with using these space space exploration. France’s national
+forces to carry out joint space missions and operations and support operations in space agency, Centre National
+other domains.14 This reorganization is itself a reflection of how the United States d’Études Spatiales (CNES), manages
+has changed its perception of the space domain and the threats posed by other all national civil space programs, and
+nations in space. France is a key member in the Europe-
+an Space Agency (ESA). While CNES
+Like the United States, countries such as China, Russia, France, Japan, and India focuses on civil space programs, the
+have changed the way they organize their national security space capabilities. French military contains separate
+China’s national security space organizations are part of the People’s Liberation space organizations for national secu-
+Army (PLA). Two divisions within the PLA focus on space and counterspace capa- rity. France recently renamed the
+bilities: the Strategic Support Force (SSF) and the PLA Rocket Force (PLARF). Cre- French Air Force to the French Air and
+ated in 2015, the SSF is responsible for developing and employing China’s military Space Force and announced plans to
+space systems as well as its cyber and electronic warfare systems. As one PLA offi- create a Space Command within this
+cer noted, the SSF combines into one organization cyber forces for network attack newly renamed organization. France’s
+and defense; space forces responsible for communications, reconnaissance, and recent Space Defense Strategy, re-
+navigation satellites; and electronic warfare units used for countering adversary leased in 2019, calls for “renewed
+radar and communications. This indicates that the PLA views the space domain as analysis of the space environment and
+primarily an information domain and a key element of the PLA’s information war- its threats, risks and opportunities”
+fare forces.15 and notes that threats in the space do-
+main “force our country to revisit its
+The primary space focus of China’s SSF appears to be the development, launch,
+model in order to remain a leading
+and operation of China’s space-based command and control, PNT, and ISR capa-
+space power.”20
+bilities. The SSF also appears to be leading the development and deployment of
+many Chinese counterspace capabilities, but it is unclear if all counterspace capa- While Japan does not yet have signifi-
+bilities have been transferred to this organization. It is possible that Chinese di- cant military space capabilities, it is be-
+rect-ascent ASAT weapons remain under the control of the PLA Rocket Force, ginning to organize itself for military
+CLICK TO which is also responsible for its missile programs.16 However, reports in 2019 indi- space operations. In 2019, Japan creat-
+FLY BACK TO
+THE CONTENTS
+cated that the SSF began training with direct-ascent ASAT missiles capable of tar- ed its Space Domain Mission Unit, a mil-
+geting satellites in low Earth orbit (LEO).17 itary organization dedicated to protect-
+SPACE IS NO SANCTUARY 4 HARRISON, JOHNSON, YOUNG
+
+ing Japanese space assets. The Space In , shortly after conducting its
+Domain Mission Unit will coordinate first successful ASAT test, India estab- RREEPPOORRTT OORRGGAANNIIZZAATTIIOONN
+with Japan’s civil space agency, the Ja- lished its Defence Space Agency (DSA).
+AANNDD MMEETTHHOODDOOLLOOGGYY
+pan Aerospace Exploration Agency India’s existing national security-fo-
+(JAXA), and its U.S. counterparts in cused space organizations—including
+This report builds on pri-
+“I solemnly
+USSPACECOM and the U.S. Space Force. the Defence Imagery Processing and
+or work of the CSIS
+The Space Domain Mission Unit plans to Analysis Centre and the Defence Satel- swear that
+Aerospace Security
+be fully operational by 2022. Beyond lite Control Centre—will become a part I am up to
+Project and expands into
+space technology development and of the DSA. The DSA’s objective is to co- several new areas. Chapter 2 no good.”
+planning, the unit will be responsible ordinate among the space assets of the
+provides a summary of the
+GEORGE
+for operating the satellite ground sta- Indian Air Force, Army, and Navy. Addi-
+threats to space systems and WEASLEY, HARRY
+tions that are critical for Japan’s self-de- tionally, the DSA will be responsible for a taxonomy for discussing POTTER AND THE
+PRISONER OF
+fense missions. Reports also indicate developing national security space as-
+different types of counter-
+AZKABAN
+that the Japanese government is con- sets and defending Indian space infra-
+space weapons. Chapter 3
+sidering investing in some combination structure through a new sub-organiza-
+catalogs the range of active and pas-
+of passive and active defenses to pro- tion entitled the Defense Space
+sive defenses that are theoretically
+tect its space assets.21 Research Organization.22
+possible and discusses the advantages
+and limitations of each. Chapter 4 ana-
+lyzes how the defensive capabilities
+described in Chapter 3 can be applied
+TTHHEE NNEEEEDD FFOORR SSPPAACCEE DDEEFFEENNSSEESS
+to the different types of counterspace
+weapons discussed in Chapter 2. Chap-
+The recent reorganization and elevation of national security space capabili-
+ter 5 explores a range of plausible sce-
+ties by each of the world’s major space powers is an indication of the increas-
+narios in which defenses may be need-
+ing importance these nations place on the use of space for military purposes.
+ed, concepts for employing different
+In many ways, the 2007 Chinese anti-satellite test served as a wake-up call for
+types of defenses, and how defensive
+policymakers by highlighting the vulnerabilities of space systems. But since that
+actions in space may be perceived by
+time, improvements in the defenses of U.S. space systems to the types of counter-
+others. The final chapter summarizes
+space weapons adversary nations are developing and operationally deploying
+conclusions drawn from the analysis,
+has been slow and uneven. While U.S. space capabilities remain far ahead of other
+actionable recommendations for poli-
+nations, some adversaries, namely China and Russia, are arguably making ad-
+cymakers, and additional research top-
+vances in counterspace weapons faster than the United States is making advances
+ics to be explored in future work.
+in protections against these threats.
+Part of the methodology behind this
+Since the 2007 Chinese ASAT test, a variety of studies, exercises, and events have
+study is the use of workshops with
+highlighted the vulnerabilities of space systems, the far-reaching effects of “a day
+space and policy experts to test space
+without space,” and the fact that space is a contested warfighting domain. Howev-
+crisis scenarios and operational con-
+er, the lack of public discourse about how to defend against space threats has led
+cepts for space defenses. The CSIS study
+some to conclude that space is not defendable and should not be relied upon by
+team developed several candidate sce-
+the military, with one scholar writing that, “space is an inherently vulnerable and
+narios, which are documented in Chap-
+offense-dominant domain . . . There simply aren’t many good options for space
+ter 5, and presented them to a group of
+hardening/defenses.” This scholar goes on to conclude that “the reality is that sat-
+experts during two separate half-day
+ellites are vulnerable to attack—through both kinetic and non-kinetic means from
+online workshops in .
+lasers, electronic warfare, and cyber—and there is no good way to fix this.”23
+The workshop participants were asked
+to explore the range of defensive space
+The fact that space is contested does not mean that space is undefendable. Rath-
+capabilities they would consider using
+er, it means that the United States will have to fight to protect its ability to operate
+given the situation described in each of
+in this domain, just as it does in the air, land, and maritime domains. What is
+CLICK TO the scenarios. The findings from these
+FLY BACK TO needed are strategy, doctrine, operational concepts, and technical capabilities
+THE CONTENTS
+workshops were used to refine the sce-
+that focus on protecting space systems, the services they provide, and the space
+narios themselves as well as the frame-
+environment itself.
+SPACE IS NO SANCTUARY 5 HARRISON, JOHNSON, YOUNG
+
+work of defenses in Chapter 3 and the
+concepts for employing defenses in
+Chapter 4.
+The ultimate objective of this study is to
+facilitate debate among policymakers,
+technical experts, and the overall na-
+tional security community on how best
+to defend space assets. This debate is
+especially important at this junction be-
+cause the U.S. military is in the process
+of modernizing many of its key satellite
+constellations. The decisions made now
+about what types of space architectures
+to field and which defenses to incorpo-
+rate will have repercussions for the life
+of these architectures. This report is in-
+tended to serve as a reference guide for
+understanding different forms of space
+defenses and how these defenses can
+be employed. While there is no easy or
+one-size-fits-all solution to defending
+U.S. space assets, the goal is to give de-
+cisionmakers the tools and information
+they need in an easily accessible format
+to have an informed policy debate
+about this complex and nuanced issue.
+CLICK TO
+FLY BACK TO
+THE CONTENTS
+SPACE IS NO SANCTUARY 6 HARRISON, JOHNSON, YOUNG
+
+DDEEFFEENNSSEE AAGGAAIINNSSTT TTHHEE CCHHAAPPTTEERR 22 DDAARRKKSS AARRTTSS IINN SSPPAACCEE
+THE DARK “The Dark Arts are many, varied,
+ever-changing and eternal.
+Fighting them is like fighting a
+many-headed monster, which,
+each time a neck is severed,
+ARTS IN sprouts a head even fiercer and
+cleverer than before. You are
+fighting that which is unfixed,
+mutating, indestructible.”
+SEVERUS SNAPE, HARRY POTTER AND THE HALF-
+BLOOD PRINCE
+SPACE
+attack are direct-ascent ASAT weap-
+ons, co-orbital ASAT weapons, and
+ground station attacks. Direct-ascent
+ASAT weapons are launched on a
+sub-orbital trajectory to strike a satel-
+lite in orbit, while co-orbital ASAT
+weapons are first placed into orbit
+and then later maneuvered into their
+intended target. Attacks on ground
+A prerequisite to understanding stations are targeted at the terrestrial
+space defenses is understanding sites responsible for command and
+what they are intended to de- control of satellites or the relay of sat-
+fend against. This chapter provides an ellite mission data to users.
+overview and taxonomy for counter-
+Kinetic physical attacks tend to cause
+space weapons. The high stakes at
+irreversible damage to the systems af-
+play in the space domain have incen-
+fected and demonstrate a strong show
+tivized nations to build arsenals of
+of force that would likely be attribut-
+counterspace weapons to disrupt, de-
+able and publicly visible. A successful
+grade, or destroy space systems.
+kinetic physical attack in space will
+Counterspace weapons vary signifi-
+produce orbital debris, which can in-
+cantly in the types of effects they cre-
+discriminately affect other satellites in
+ate, how they are deployed, how easy
+similar orbits. These types of attacks
+they are to detect and attribute, and
+are one of the only counterspace ac-
+the level of technology and resources tions that carries the potential for the
+needed to develop and field them. Kinetic physical counterspace loss of human life if targeted at crewed
+They can be categorized into four weapons attempt to strike direct- ground stations or at satellites in or-
+CLICK TO broad groups of capabilities: kinetic ly or detonate a warhead near a bits where humans are present, such
+FLY BACK TO
+THE CONTENTS physical, non-kinetic physical, elec- satellite or ground station. The three as the International Space Station in
+tronic, and cyber. main types of kinetic physical forms of LEO. To date, no country has conduct-
+THE DARK ARTS IN SPACE 7 HARRISON, JOHNSON, YOUNG
+
+ed a kinetic physical attack against the atmosphere), and advanced point- known damage.27 For its part, Russia
+another country’s satellite, but four ing control to steer the laser beam has continued to develop its non-kinet-
+countries—the United States, Russia, precisely—technology that is costly ic ASAT capabilities in recent years, in-
+China, and India—have successfully and requires a high degree of sophisti- cluding by conducting research on na-
+tested kinetic physical counterspace cation. An HPM weapon can be used to no-sized aerosol obscurants that can
+disrupt a satellite’s electronics, cor-
+weapons. be used in space to block RF or optical
+rupt data stored in memory, cause
+transmissions and placing satellite las-
+processors to restart, and, at higher
+ing systems on aircraft and ground ve-
+power levels, cause permanent dam-
+hicles.28
+age to electrical circuits and proces-
+sors. A laser can be effective against a
+sensor on a satellite if it is within the
+field of view of the sensor, making it
+possible to attribute the attack to its
+approximate geographical origin. HPM
+attacks can be more difficult to attri-
+bute because the attack can come
+from a variety of angles, including
+from other satellites passing by in or-
+bit. For both laser and HPM weapons,
+the attacker may have limited ability
+to know if the attack was successful
+because it is not likely to produce visi-
+ble indicators.25
+Non-kinetic physical counter-
+space weapons have physical ef- The use of a nuclear weapon in space
+fects on satellites or ground sys- would have large-scale, indiscrimi-
+Electronic counterspace weapons
+tems without making physical contact. nate effects that would be attributable
+target the electromagnetic spec-
+Lasers can be used to temporarily daz- and publicly visible. A nuclear detona-
+trum through which space sys-
+zle or permanently blind the sensors tion in space would immediately af-
+tems transmit and receive data. Jam-
+on satellites, and higher-powered la- fect satellites within range of its elec-
+ming devices interfere with the
+sers can cause components to over- tromagnetic pulse, and it would also
+communications to or from satellites
+heat. High-powered microwave (HPM) create a high radiation environment
+by generating noise in the same radio
+weapons can disrupt a satellite’s elec- that would accelerate the degradation
+frequency band. An uplink jammer in-
+tronics or cause permanent damage of satellite components over the long
+terferes with the signal going from
+to electrical circuits and processors in term for unshielded satellites in the
+Earth to a satellite, such as the com-
+a satellite. A nuclear device detonated affected orbital regime. The detona-
+mand-and-control uplink. Downlink
+in space can create a high radiation tion of nuclear weapons in space is
+jammers target the signal from a satel-
+environment that has indiscriminate banned under the Partial Test Ban
+lite as it propagates down to users on
+effects on satellites in all affected or- Treaty of 1963, which has more than
+the Earth. Spoofing is a form of elec-
+bits. These attacks operate at the 100 signatories, although China and
+tronic attack where the attacker tricks
+speed of light and, in some cases, can North Korea are not included.26
+a receiver into believing a fake signal,
+be less visible to third-party observers
+Among U.S. competitors, China and produced by the attacker, is the real
+and more difficult to attribute.24
+Russia appear to have the most devel- signal it is trying to receive. A spoofer
+Satellites can be targeted with lasers oped non-kinetic physical ASAT capa- can be used to inject false information
+and HPM weapons from ground- or bilities. For example, China has been into a data stream or, in extremis, to is-
+ship-based sites, airborne platforms, working on a satellite lasing system sue false commands to a satellite to
+CLICK TO or other satellites. A satellite lasing since at least 2006 when it illuminated disrupt its operations. User terminals
+FLY BACK TO
+THE CONTENTS system requires high beam quality, a U.S. government satellite flying over with omnidirectional antennas, such
+adaptive optics (if being used through Chinese territory without causing any as many GPS receivers and satellite
+THE DARK ARTS IN SPACE 8 HARRISON, JOHNSON, YOUNG
+
+phones, have a wider field of view and issuing commands that would damage
+thus are susceptible to downlink jam- its electronics and sensors. Accurate
+ming and spoofing from a wider range and timely attribution of a cyberattack
+of angles on the ground.29 can be difficult because attackers can
+use a variety of methods to conceal their
+Electronic forms of attack can be diffi-
+identity, such as using hijacked servers
+cult to detect or distinguish from acci-
+to launch an attack.
+dental interference, making attribution
+and awareness more difficult. Both China has been implicated or suspected
+jamming and spoofing are reversible in several cyberattacks against U.S. sat-
+forms of attack because once they are ellites. In and again in July
+turned off, communications can return 2008, China is suspected of attacking a
+to normal. Through a type of spoofing remote sensing satellite operated by the
+called “meaconing,” even encrypted U.S. Geological Survey called Landsat-7,
+military GPS signals can be spoofed. causing more than 12 minutes of inter-
+Meaconing does not require cracking ference with ground station control
+the GPS encryption because it merely each time.33 In June and ,
+While electronic forms of attack
+rebroadcasts a time-delayed copy of hackers also believed to be from China
+attempt to interfere with the
+the original signal without decrypting attacked NASA’s Earth observation sat-
+transmission of RF signals, cy-
+it or altering the data.30 The technology ellite, Terra, and this time they “achieved
+berattacks target the data itself and the
+needed to jam and spoof many types of all steps required to command the sat-
+systems that use, transmit, and control
+satellite signals is commercially avail- ellite but did not issue commands.”34
+the flow of data. Cyberattacks on satel-
+able and inexpensive, making them And in , Chinese hack-
+lites can be used to monitor data traffic
+relatively easy to proliferate among ers attacked the National Oceanograph-
+patterns, intercept data, or insert false
+state and non-state actors. ic and Atmospheric Administration’s
+or corrupted data in a system. These
+(NOAA) satellite information and weath-
+While Russia and China have advanced attacks can target ground stations, er systems, forcing NOAA to take down
+electronic counterspace capabilities, end-user equipment, or the satellites the system and stop transmitting satel-
+nations such as Iran and North Korea themselves. While cyberattacks require lite images to the National Weather Ser-
+are also developing and using jam- a high degree of understanding of the vice for two days.35
+ming and spoofing systems. North Ko- systems being targeted, they do not
+rea likely acquired much of its elec- necessarily require significant resourc-
+tronic counterspace systems from es to conduct. The barrier to entry is
+Russia, and it appears to be gaining relatively low, and cyberattacks can be
+operational experience using these contracted out to private groups or in-
+dividuals. Even if a state or non-state
+systems in peacetime. For example, it
+actor lacks internal cyber capabilities,
+frequently uses GPS jamming to inter-
+it may still pose a cyber threat.
+fere with U.S.-South Korean military
+exercises and disrupt air and maritime
+A cyberattack on space systems can re-
+traffic along the border with South Ko-
+sult in the loss of data or services being
+rea.31 Likewise, the U.S. Department of
+provided by a satellite, which could
+Transportation issued a warning in
+have widespread systemic effects if
+2019 about Iranian GPS jamming and
+used against a system such as GPS. Cy-
+communications spoofing in the Strait
+berattacks could have permanent ef-
+of Hormuz. Iran is believed to have
+fects if, for example, an adversary seizes
+placed GPS jammers on an island near
+control of a satellite through its com-
+the entrance to the strait to interfere
+mand-and-control system. An attacker
+with civilian aircraft and ships so that
+could shut down all communications
+CLICK TO they might mistakenly navigate into
+FLY BACK TO and permanently damage the satellite
+THE CONTENTS
+Iranian waters or airspace and could
+by expending its propellant supply or
+be seized.32
+THE DARK ARTS IN SPACE 9 HARRISON, JOHNSON, YOUNG
+
+DDEEFFEENNSSEE AAGGAAIINNSSTT TTHHEE CCHHAAPPTTEERR 33 DDAARRKKSS AARRTTSS IINN SSPPAACCEE
+SPACE “Your defences must therefore be
+as flexible and inventive as the
+arts you seek to undo.”
+SEVERUS SNAPE, HARRY POTTER AND THE HALF-
+BLOOD PRINCE
+military systems that the United States
+DEFENSES or its allies rely upon. In contrast, the
+objective of offensive counterspace op-
+erations is to prevent an adversary’s
+use of space capabilities and counter-
+space weapons to threaten friendly
+forces or support its own forces on
+DEFINED
+Earth.38 These operations can include
+reversible or irreversible attacks
+against an adversary’s satellites,
+ground control systems, communica-
+tion links, or the space services provid-
+ed by third parties.
+In general, defensive counterspace
+terrestrial forces, the focus now includes
+operations aim to protect friendly
+DDEEFFEENNSSIIVVEE the equally demanding and more com-
+space systems, while offensive coun-
+plex task of assuring and defending our
+terspace operations aim to disrupt,
+space capabilities against the aggres-
+CCOOUUNNTTEERRSSPPAACCEE degrade, or destroy adversary space
+sive space activities of others.36 systems. A gray area that can be inter-
+OOPPEERRAATTIIOONNSS preted as either defensive or offen-
+While the inclusion of defensive space
+sive, depending on one’s perspective,
+operations in joint doctrine is an im-
+is when one nation’s counterspace ca-
+Given the wide range of threats and portant start, much work remains to be
+pabilities are used to attack an adver-
+the proliferation of counterspace done to develop the operational con-
+sary’s counterspace capabilities.
+capabilities outlined in the previ- cepts and technical capabilities neces-
+French minister of armed forces Flor-
+ous chapter, the United States and oth-
+sary to make defensive counterspace
+ence Parly provided an example of
+ers are necessarily placing a greater fo-
+operations credible and effective. Ex-
+this in a speech announcing the na-
+cus on the ability to identify threats and
+isting space doctrine and planning
+tion’s new Space Defense Strategy in
+defend space systems from attack. In
+guidance state that the objective of de-
+2019: “If our satellites are threatened,
+2018, the Joint Chiefs of Staff published
+fensive counterspace operations is to we will consider dazzling those of our
+an update to its space operations doc-
+protect friendly space systems from opponents. We reserve the time and
+trine, the first update since 2013, which
+“attack, interference, and unintention- means of the response: this may in-
+noted that:
+al hazards” and that these operations volve the use of high-power lasers de-
+CLICK TO Whereas earlier space operations inte- can occur “before, during, or after an ployed from our satellites or from our
+FLY BACK TO
+THE CONTENTS gration efforts focused primarily on pro- attack.”37 Friendly space systems can patrol nano-satellites.” She went on to
+viding capability from space to support include civil, commercial, and foreign make the case that this use of coun-
+SPACE DEFENSES DEFINED 10 HARRISON, JOHNSON, YOUNG
+
+terspace operations is not offensive, and the strengths and weaknesses of possible, examples are used to high-
+noting that “active defence is not an each. Importantly, many of the defens- light existing space systems that em-
+offensive strategy, what it is about is es discussed can be used in parallel ploy these defenses, although in
+self-defence. It is, when a hostile act with one another to enhance overall some cases examples may not exist or
+has been detected, characterized and protection of space systems. Where may not be publicly disclosed.
+attributed, able to respond in an ap-
+propriate and proportionate manner,
+in accordance with the principles of
+international law.”39 Moreover, U.S. PPAASSSSIIVVEE DDEEFFEENNSSEESS
+military joint doctrine on space opera-
+tions states that “active measures to
+deceive, degrade, or destroy targeting Passive counterspace defenses are measures that can be used to minimize the
+systems are examples of defensive op- effectiveness of attacks on friendly space systems by making them harder to
+erations.”40 But to neutral third-party target or better capable of withstanding attacks. The passive defenses dis-
+observers that do not have access to cussed in this section are divided into three rough categories—architectural, techni-
+the same intelligence as the nations in cal, and operational—although it should be noted that some passive defenses could
+conflict, a defensive counterspace at- arguably belong in more than one category. Architectural defenses are those that
+tack may be indistinguishable from an rely primarily on satellite constellation and ground station architectures that are
+offensive counterspace attack. This is more difficult for an adversary to attack. Technical defenses rely primarily on tech-
+especially true in a pre-conflict envi- nologies that can be incorporated into satellites, ground stations, and user equip-
+ronment where one nation may feel ment that makes the system more difficult to attack. Operational defenses rely pri-
+compelled to act preemptively or be- marily on changes in the way satellites are operated to make them more difficult to
+fore evidence of an attack has been target, more resistant to attacks, or easier to restore after an attack.
+disclosed.
+ARCHITECTURAL DEFENSES
+Due to the unique physics of this oper-
+ating environment and that space re- Disaggregated Constellations
+mains an asymmetric advantage for
+Disaggregation is the separation of distinct missions onto different platforms or
+the United States, actions that are like-
+payloads, effectively breaking up multi-mission satellites into separate mission-spe-
+ly to result in orbital debris or trigger
+cific satellites that operate in parallel.41 For example, the U.S. Space Force currently
+an adversary response that would re-
+plans to separate the strategic and tactical protected SATCOM missions into two
+sult in orbital debris can dispropor-
+separate next-generation systems. The Evolved Strategic SATCOM (ESS) system will
+tionately and adversely affect the Unit-
+support strategic users for missions such as nuclear command and control, whereas
+ed States, its allies and partners, and
+the Protected Tactical Service (PTS) system will support tactical SATCOM users that
+their collective long-term economic
+need a high level of jam resistance.42 This could reduce the potential for uninten-
+and security interests in space. The
+United States and its allies and part- tional escalation by forcing an adversary to be explicit about the capabilities it is
+ners therefore have an incentive to targeting in an attack.43
+avoid using kinetic defensive counter-
+In a conventional conflict, if an adversary targets a dual-use (strategic and tactical)
+space capabilities that are likely to pro-
+aggregated space system such as the current Advanced EHF system, it may not be
+duce orbital debris if possible.
+clear whether the strategic or tactical missions (or both) are the intended target.
+This chapter provides an overview of This could lead to miscalculations and unintentional escalation. If the strategic and
+options available to protect space sys- tactical payloads are disaggregated into separate space systems, an adversary
+tems from attacks, including each of could target the tactical system only and leave the strategic system unharmed if it
+the four categories of counterspace does not want to risk nuclear escalation. However, an adversary may not be able to
+weapons discussed in the previous distinguish between satellites that are intended for different missions, and even if
+chapter. While the following is not an such differences are disclosed, an adversary may not trust this distinction and at-
+CLICK TO exhaustive list of defensive capabili- tack both anyway. Moreover, disaggregation of strategic and tactical missions may
+FLY BACK TO
+THE CONTENTS
+ties, it is intended to provide an over- make attacking the tactical system in a conventional conflict more attractive if the
+view of the range of options available risk of strategic escalation is reduced.
+SPACE DEFENSES DEFINED 11 HARRISON, JOHNSON, YOUNG
+
+Disaggregation can reduce space sys- complex because they do not have to to achieve the same effects as targeting
+tem complexity and potentially speed provide an entire capability on one plat- a smaller number of satellites in a
+acquisition timelines by decoupling re- form. They can also use hosted pay- less-proliferated architecture.
+quirements.44 However, disaggregated loads on other types of satellites, which
+systems can cost more in total because can have the benefit of further compli- Diversified Architectures
+separate space systems must be devel- cating targeting for an adversary by
+In a diversified architecture, multiple sys-
+oped and launched, resulting in some forcing it to attack multiple satellites,
+tems contribute to the same mission us-
+redundancies in development, testing, potentially from multiple countries and
+ing platforms and payloads that may be
+production, and launch costs. commercial firms, rather than a single
+operating in different orbits or in different
+nation’s military satellite. However,
+domains.52 For example, wideband com-
+Distributed Constellations hosted payloads can also result in more
+munications to fixed and mobile users can
+aggregated architectures since the host
+A distributed system uses “a number of
+be provided by the military’s WGS system,
+satellite may be supporting multiple
+nodes, working together, to perform the
+commercial SATCOM systems, airborne
+payloads and missions.
+same mission or functions as a single
+communication nodes, or terrestrial net-
+node.”45 In a distributed constellation,
+Proliferated Constellations works. The Chinese BeiDou system for po-
+the end user is not dependent on any sin-
+sitioning, navigation, and timing uses a
+gle satellite but rather uses multiple sat- Proliferated satellite con-
+diverse set of orbits, with satellites in geo-
+ellites to derive a capabili- stellations deploy a larger
+stationary orbit (GEO), highly inclined
+“We are only ty. A distributed number of the same types of
+GEO, and medium Earth orbit (MEO).53 Di-
+as strong as constellation can compli- satellites to similar orbits to
+versification reduces the incentive for an
+we are cate an adversary’s coun- perform the same missions.
+adversary to attack any one of these sys-
+united, as terspace planning by pre- While distribution relies on placing
+tems because the impact on the overall
+senting a larger number of more satellites or payloads on orbit that
+weak as we
+mission will be muted since systems in
+targets that must be suc- work together to provide a complete ca-
+are divided.” other orbits or domains can be used to
+cessfully attacked to pability, proliferation is simply building
+ALBUS DUMBLEDORE, achieve the same effects as more systems (or maintaining more compensate for losses. Moreover, attack-
+HARRY POTTER AND targeting just one or two on-orbit spares) to increase the constel- ing space systems in diversified orbits
+THE GOBLET OF FIRE
+satellites in a less-distribut- lation size and overall capacity.48 Prolif- may require different capabilities for each
+ed architecture.46 GPS is an example of a eration can be an expensive option if orbital regime, and the collateral damage
+the systems being proliferated are indi- from such attacks, such as orbital debris,
+distributed constellation because the
+vidually expensive, although highly pro- could have a much broader impact politi-
+functioning of the system is not depen-
+dent on any single satellite or ground sta- liferated systems may reduce unit costs cally and economically.
+in production from the learning curve
+tion; a user can use any four satellites
+effect and economies of scale.49 The Redundant, Mobile, or
+within view to get a time and position fix.
+SpaceX’s Starlink constellation is a com- U.S. military’s Wideband Global SAT- Hardened Ground Stations
+COM (WGS) system is an example of a
+mercial example of a distributed archi-
+Ground stations used for command
+proliferated system, with a constella-
+tecture because it uses more than 1,000
+and control of a satellite or for the op-
+tion that has grown from three “gapfill-
+satellites circling in LEO to provide con-
+eration of the payloads on a satellite
+er” satellites initially to a planned con-
+tinuous coverage over large parts of the
+are also at risk of attack. Having redun-
+stellation of 11 satellites.50 The Space
+Earth, with users of the system automat-
+dant or rapidly deployable mobile
+Development Agency is planning to
+ically being transferred between satel-
+ground stations provides a measure of
+develop highly proliferated constella-
+lites as they pass in and out of range. Dis-
+protection in the event of attack or nat-
+tions for data transport, missile warn-
+tributed constellations tend to degrade
+ing, missile tracking, and alternative ural disaster, making the space system
+gracefully as satellites are removed from
+position, navigation, and timing that less dependent on any single ground
+the system, gradually reducing the accu-
+would use hundreds of satellites in station or location.54 Ground stations
+racy, coverage, and time availability of
+LEO.51 Proliferated systems can provide can also be hardened to withstand ki-
+the service.47
+CLICK TO a greater degree of protection because netic and non-kinetic attacks on the
+FLY BACK TO
+THE CONTENTS
+Distributed constellations can use dedi- they increase the number of satellites facilities themselves and the local in-
+cated satellites that are smaller and less an adversary must successfully attack frastructure on which they depend.
+SPACE DEFENSES DEFINED 12 HARRISON, JOHNSON, YOUNG
+
+Government
+Space-Based
+Tracking
+Space Object
+U.S. Space Force
+Space Surveillance
+Network (multiple
+distributed sites)
+Missile
+Warning Radars
+Joint Space
+International
+Operations
+Partner Data
+Commercial Center
+Optical Tracking
+Commercial
+RF Tracking
+Orbit Outlook
+Example Space Domain Awareness (SDA) Network.
+through technical means,” and operated. More-
+TECHNICAL DEFENSES “The truth . . .
+and the military needs capa- over, if one’s SDA capa-
+it is a beautiful
+Exquisite Space Domain bilities that allow it to “make bilities can be commu-
+and terrible
+Awareness a more confident call in a nicated publicly and some of
+thing, and
+faster manner.”56 the data can be released
+The credibility and effectiveness of should therefore
+when necessary, the mere ex-
+many other types of defenses are en- Improved SDA can cut
+be treated with istence of these capabilities
+abled or enhanced by the ability to through the “fog of war” by
+great caution.” can be a deterrent in some
+quickly detect, characterize, and attri- providing an information and
+situations by providing great-
+bute attacks against space systems. decisionmaking advantage ALBUS DUMBLEDORE,
+er attribution and public visi-
+HARRY POTTER AND THE
+Space domain awareness (SDA) in- over adversaries. For exam-
+SORCERER’S STONE bility into adversary space
+cludes identifying and tracking space ple, being able to track, iden-
+activities.
+objects, predicting where objects will be tify, and characterize objects in space is
+in the future, monitoring the space envi- critical to identifying that an attack is in SDA systems include terrestrial-based
+ronment and space weather, and char- progress and mounting an effective de- optical, infrared, and radar systems as
+acterizing the capabilities of space ob- fense against threats such as co-orbital well as space-based sensors, such as
+jects and how they are being used.55 kinetic ASAT weapons and space-based the U.S. military’s Geosynchronous
+Exquisite SDA—information that is more electronic attack. Artificial intelligence Space Situational Awareness Program
+timely, precise, and comprehensive (AI) can further enhance SDA capabili- (GSSAP) inspector satellites.57 Many na-
+than what is publicly available—can ties by tracking patterns of life in space tions have SDA systems with various
+help distinguish between accidental to better identify abnormal or nefarious levels of capability, and an increasing
+and intentional actions in space. As U.S. behaviors that human analysts may number of private companies (and ama-
+Space Force Major General Leah Lauder- miss. AI can also potentially be used to teur space trackers) are developing
+CLICK TO back noted in public comments, “it’s better understand satellite capabilities, their own space surveillance systems,
+FLY BACK TO
+THE CONTENTS
+difficult trying to characterize what hap- including covert capabilities, based on making the space environment more
+pens thousands of miles away, all how these satellites are maneuvered transparent to all users.58
+SPACE DEFENSES DEFINED 13 HARRISON, JOHNSON, YOUNG
+
+Radio frequency mapping of the Galapagos Islands in 2020.
+hawkeye360
+the cause was “almost always self-jam- liberate attacks from HPM and
+Space-Based Radio
+ming.”59 Commercial firms can play a electromagnetic pulse weapons. The
+Frequency Mapping
+role in RF mapping and determining the effects can include data corruption on
+Space-based RF mapping is the ability
+sources of interference. For example, memory chips, processor resets, and
+to monitor and analyze the RF environ-
+the private firm HawkEye360 is launch-
+short circuits that permanently dam-
+ment that affects space systems both in
+ing a constellation of satellites that can
+age components. One of the first in-
+space and on Earth. Similar to exquisite
+detect and geolocate RF transmis-
+stances of an on-orbit failure due to
+SDA, space-based RF mapping provides
+sions.60 A key aspect of RF mapping is
+these effects was the Telstar-1 satellite
+space operators with a more complete
+timeliness—the faster a threat can be
+in 1962, which succumbed to the inten-
+picture of the space environment, the
+detected, identified, and characterized,
+sified radiation environment in space
+ability to quickly distinguish between
+the more valuable this information be-
+intentional and unintentional interfer- created by a U.S. high-altitude nuclear
+comes as an enabler for other defensive
+ence, and the ability to detect and geo- test.61 Surrounding the electronics and
+capabilities. And like exquisite SDA data,
+locate electronic attacks. RF mapping cables within a satellite with shielding
+the ability to release information pub-
+can allow operators to better character- and adding surge protection devices
+licly or privately on the sources, loca-
+ize jamming and spoofing attacks from tions, and nature of jamming incidents throughout the RF and electrical sys-
+Earth or from other satellites so that can act as a deterrent to adversaries tem can protect against the effects of
+other defenses can be more effectively
+that would prefer to operate covertly or radiation, high-powered microwave at-
+employed.
+in a more ambiguous or less attribut- tacks, and electromagnetic pulse
+able manner. weapons. However, these protections
+Without timely data, it can be difficult to
+add weight and complexity to satel-
+distinguish between accidental and in-
+Electromagnetic Shielding
+tentional RF interference. For example, lites, and the effectiveness of shielding
+CLICK TO the U.S. military experienced an aver- Satellite components can be vulnera- depends on precise manufacturing
+FLY BACK TO
+THE CONTENTS age of 23 satellite communications jam- ble to the effects of background radia- processes that must be carefully and
+ming incidents per month in 2015, and tion in the space environment and de- laboriously tested and validated.
+SPACE DEFENSES DEFINED 14 HARRISON, JOHNSON, YOUNG
+
+data packet than the error correction
+Filtering and Shuttering
+algorithm can accommodate, the data
+Filters and shutters can be
+packet becomes corrupted. Interleaving
+used on remote sensing satellites to pro- reduces this risk by shuffling the order
+tect sensors from laser dazzling and of the data before it is transmitted and
+blinding. Filters can protect sensors by then reassembling it in proper order
+only allowing light of certain wave- when it is received but before the error
+correction algorithm is applied. This re-
+duces the chance that a burst of inter-
+ference will create multiple errors with-
+in a single data packet.65
+While these techniques can make com-
+munications more difficult to jam, they
+do not make them completely jam-
+proof. For example, a high-powered
+wideband jammer can interfere with
+signals across a larger portion of the
+Shuttering against lasing attack.
+spectrum used for frequency hopping,
+which increases the odds that some of
+lengths to reach the sensors. Filters are it difficult for a jammer to match the fre- the frequencies in the hopping pattern
+not very effective against lasers operat- quency of transmission. By spreading will be jammed, especially if the jam-
+ing at the same wavelengths of light the the signal across a larger piece of spec- mer is near the receiver. Interleaving
+sensors are designed to detect because a trum, the signal also has “processing also adds latency in communications
+filter that blocks these wavelengths gain” that allows it to effectively boost because it takes longer for the shuffled
+would also block the sensor from its in- the signal-to-noise ratio and better with- data to be reassembled into the original
+tended mission. A shutter acts by quickly stand jamming.64 The power level of a data packets on the receiving end.
+blocking or diverting all light to a sensor spread spectrum signal can also be low-
+Antenna Nulling and
+once an anomaly is detected or a thresh- er, making it harder for an adversary to
+old is reached, which can limit damage detect or intercept without knowing the Adaptive Filtering
+but also temporarily interrupts the col- precise hopping pattern.
+Satellites can be designed
+lection of data.62 Filters and shutters add
+with antennas that “null”
+Interleaving is the process of dividing
+weight and complexity to satellite de-
+or minimize signals from a particular
+and mixing the bits of data being trans-
+signs and may require a detailed under-
+geographic region on the surface of the
+mitted in a noncontiguous manner. Be-
+standing of the technical capabilities of Earth or locations in space where jam-
+cause RF interference tends to occur in
+adversary counterspace weapons. ming is detected.66 Nulling is useful
+bursts, errors often occur in ad-
+when jamming is from a limited number
+Jam-Resistant Waveforms jacent bits of data in transmis-
+of detectable locations, but one of the
+sion. If more bit errors occur in a
+The way data is encoded for transmis- downsides is that it can also block trans-
+sion on a radio wave (i.e., the waveform)
+ORIGINAL MESSAGE:
+is a key factor in how difficult that trans-
+A A A A B B B B C C C C D DD D E E E E F F F F G GG G
+mission is to jam or spoof. Different types
+of waveforms can be used to improve the INTERLEAVED MESSAGE:
+resistance of communications systems
+A B C D E F G A B CD E F G A B C D E F G A B C D E F G
+to jamming and spoofing, such as using
+INTERLEAVED MESSAGE WITH BURST ERROR:
+frequency hopping spread spectrum
+(FHSS) and interleaving.63 FHSS involves A B C D E F G A B CD E F G A B C D E F G A B C D E F G
+CLICK TO rapidly changing the transmission fre-
+FLY BACK TO RECIEVED MESSAGE AFTER DEINTERLEAVING:
+THE CONTENTS
+quency using a pseudorandom pattern.
+A B C D E F G A B CD E F G A B C D E F G A B C D E F G
+This protects against jamming by making
+SPACE DEFENSES DEFINED 15 HARRISON, JOHNSON, YOUNG
+
+missions from friendly users that fall A risk with encryption is that the encryp- orbit; and the weather and other poten-
+within the nulled area. If a jammer is tion keys could be compromised through tial range safety hazards that can delay
+sufficiently close to friendly forces, the the loss of sensitive hardware or soft- launch plans. Air-launched systems can
+nulling antenna may not be able to ware. The systems therefore need to be help broaden the range of launch win-
+block the jammer without also blocking capable of being rapidly and securely re- dows available and potentially fly
+legitimate users. keyed. An additional risk is that a previ- around weather or other range obstruc-
+ously unknown flaw in the encryption tions, but the time required to integrate
+Adaptive filtering, in contrast, is used to
+algorithm could be exploited by an ad- a satellite with a launch vehicle and pre-
+block specific frequency bands regard-
+versary. Quantum computing, for exam- pare the vehicle for launch are likely to
+less of where these transmissions origi-
+ple, could pose a risk to many existing remain limiting factors. Moreover, satel-
+nate. Adaptive filtering is useful when
+encryption methods because the higher lites and ground station components
+jamming is consistently within a particu-
+processing speed of these systems could procured for rapid deployment will be-
+lar range of frequencies because these
+allow for a brute-force attack that cracks come technologically obsolete over
+frequencies can be filtered out of the sig-
+the encryption key, leading researchers time and will need to be replaced peri-
+nal received on the satellite while trans-
+to push for the development of quan- odically even if they are never used.
+missions can continue around them.
+tum-proof encryption.67
+However, a wideband jammer could in-
+Reconstitution
+terfere with a large enough portion of the
+OPERATIONAL
+Reconstitution can be used to quickly
+spectrum being used that filtering out
+DEFENSES replace existing space capabilities by
+the jammed frequencies would degrade
+launching more satellites or bringing
+overall system performance.
+Rapid Deployment
+online more ground stations “to restore
+Encryption and Air-Gapped Rapid deployment is a form of protec- functionality to an acceptable level for a
+Systems tion that involves the speedy launch of particular mission, operation, or contin-
+a new or expanded space capability gency after severe degradation.”68 Re-
+While the encryption of
+when needed. Keeping a capability on placement satellites either of a different
+data transmissions for the
+the ground until needed can protect design or copies of the operational sat-
+command and control of
+the system from pre-emptive attack ellites on orbit can be built in advance
+national security space sys-
+and limit an adversary’s knowledge of and stored on the ground in a clean
+tems is standard practice, this is not
+the system and ability to factor it into room or other controlled environment
+always the case for commercial opera-
+strategic planning. Such a system to be ready for launch when needed.
+tors and international partners. The RF
+would need to be developed, tested, Similarly, mobile ground stations can be
+transmissions to and from satellites
+and procured well in advance of need deployed or existing ground stations
+are inherently exposed and need
+so that the satellites and necessary can be brought online or repurposed to
+strong encryption as well as some of
+ground systems are ready for launch replace sites that have been damaged
+the jam resistance techniques dis-
+and initial operations. Space operators or destroyed. These actions would al-
+cussed previously. The ground systems
+would also need sufficient training and low the military to reconstitute space
+used to process and disseminate data
+simulations to understand how to op- capabilities that have been degraded or
+on other networks can also be a vector
+erate the system and take advantage of destroyed, and it is one of the approach-
+for cyberattacks. Air-gapped systems
+the capabilities it provides. es to space defense specifically
+that are physically separated from the
+“Time will mentioned in the 2018 National
+public internet can make attempts to The speed at which a new satel-
+not slow Defense Strategy.69
+infiltrate a system much more difficult lite can be launched is limited
+down when
+for an adversary without insider help. by several factors, including the Many of the limitations for how
+something
+However, it is not always possible to availability of a suitable launch quickly a satellite can be
+completely air-gap some space sys- vehicle; the time required to in- unpleasant launched discussed in the rapid
+tems because the data they produce tegrate the satellite with the lies ahead.” deployment option would ap-
+may be intended for public consump- launch vehicle; the time needed ply to reconstitution as well,
+HARRY POTTER,
+CLICK TO tion, such as data from weather satel- to prepare the vehicle for namely the availability and in-
+FLY BACK TO HARRY POTTER
+THE CONTENTS
+lites or satellites that are intended for launch; the availability of a AND THE GOBLET tegration with a suitable launch
+OF FIRE
+commercial use. launch window to the desired vehicle and the weather, range,
+SPACE DEFENSES DEFINED 16 HARRISON, JOHNSON, YOUNG
+
+and launch window constraints of the head so that it cannot easily find a satel- reflected radar, optical, and infrared en-
+launch. However, speed may not be a lite once it has maneuvered. ergy to make themselves more difficult
+major factor in reconstitution because to detect and track. For example, aca-
+Maneuvering a satellite quickly comes
+an adversary could attack the replace- demic research has shown that routine
+at the price of disrupting its current op-
+ment satellites or ground stations as spacecraft maneuvers can be optimized
+erations and using propellant reserves
+long as it retains its counterspace capa- to avoid detection by known sensors.73
+to maneuver out of position and then
+bilities. This could force the military to Adding stealthy characteristics to satel-
+back into a useful orbit. The amount of
+delay launching reconstitution satel- lites requires design trade-offs in terms
+propellant required for a maneuver in-
+lites until it is confident that an adver- of size, weight, and power, and it impos-
+creases significantly with the mass of
+sary’s counterspace capabilities have es some operational limitations on how
+the satellite and the speed of maneuver
+been sufficiently degraded, which may the satellite can be used. And like stealthy
+required. Maneuver can only be done a
+not be until near the end of major com- platforms in other domains, no satellite
+limited number of times, depending on
+bat operations. Reconstitution systems can be perfectly stealthy all of the time,
+the propellant available, and could ulti-
+would need to be tested and refreshed in all parts of the spectrum, and from all
+mately reduce the useful lifetime of the
+periodically as they age and become angles. It can also be difficult to know if a
+satellite if the propellant needed for
+technologically obsolete regardless of satellite has been discovered if others are
+routine station keeping is expended
+whether they are launched. using passive sensors to track the satel-
+prematurely.71 Guided ASAT warheads
+lite, such as optical telescopes.
+have a significant maneuver advantage
+Maneuver
+because they are smaller, can accelerate Deception and Decoys
+Satellite maneuver is an operational
+faster using less propellant, and can af-
+tactic that can be used by satellites fit- Deception can be used to con-
+ford to expend all their propellant since
+ted with chemical thrusters to avoid ki- ceal or mislead others on the
+they are by definition expendable.72
+netic and some directed energy ASAT “location, capability, opera-
+weapons. For unguided projectiles, a Stealth tional status, mission type, and/or ro-
+satellite can be commanded to move bustness” of a satellite.74 Public mes-
+Space systems can be oper-
+out of their trajectory to avoid impact. If saging, such as launch announcements,
+ated and designed in ways
+the threat is a guided projectile, like can limit information or actively spread
+that make them difficult to
+most direct-ascent ASAT and co-orbital disinformation about the capabilities of
+ASAT weapons, maneuver becomes detect and track. Similar to platforms in a satellite, and satellites can be operat-
+more difficult and is only likely to be ef- other domains, stealthy satellites can ed in ways that conceal some of their
+fective if the satellite can move beyond use a smaller size, radar-absorbing coat- capabilities. Another form of deception
+the view of the onboard sensors on the ings, radar-deflecting shapes, radar jam- could be changing the capabilities or
+guided warhead.70 Maneuver also de- ming and spoofing, unexpected or opti- payloads on satellites while in orbit.
+mized maneuvers, and careful control of Satellites with swappable payload mod-
+pends on having near-real-time and
+ules could have on-orbit servicing vehi-
+continuous tracking data for incoming
+cles that periodically move payloads
+warheads. Thus, maneuver is best em-
+from one satellite to another, further
+ployed in combination with oth-
+complicating the targeting calculus for
+er active defenses that target the
+an adversary because they may not be
+sensors guiding an ASAT war-
+sure which type of payload is currently
+on which satellite.
+ASAT Warhead
+Satellites can also use tactical decoys
+to confuse the sensors on ASAT weap-
+ons and SDA systems. A satellite decoy
+can consist of an inflatable device de-
+signed to mimic the size and radar sig-
+CLICK TO nature of a satellite, and multiple de-
+FLY BACK TO
+THE CONTENTS
+coys can be stored on the satellite for
+Satellite maneuvers out a warhead’s field of view.
+deployment when needed. Electro-
+17 HARRISON, JOHNSON, YOUNG
+SPACE DEFENSES DEFINED
+
+magnetic decoys can also be used in including the use of inflatable tanks quirements to satellites, com-
+space that mimic the RF signature of a during the Cold War to make armored peting for resources with their
+satellite, similar to aircraft that use air- units appear larger to an adversary.76 mission payloads. An off-
+borne decoys, such as the ADM-160 Decoys can be more effective when board jamming and spoofing
+Miniature Air-launched Decoy (MALD).75 used in combination with other defens- system could be placed on
+dedicated protective satellites that orbit
+Decoys have been an important com- es, such as stealth, maneuver, and
+near a satellite, roam among satellites
+ponent of operations in other domains, electronic attack.
+as needed, or position themselves stra-
+tegically to protect multiple satellites at
+once. A challenge for off-board systems
+AACCTTIIVVEE DDEEFFEENNSSEESS
+is that they may not be within the field
+of view of the sensors on an incoming
+ASAT warhead when and where they are
+While passive defenses seek to protect space systems from threats needed. For both onboard and off-
+by making them harder to target or better capable of withstand- board systems, their effective operation
+ing attacks, active defenses target the threats themselves. As U.S. depends to a certain extent on an accu-
+Space Force doctrine notes, active defenses are intended to “destroy, nul- rate characterization and understand-
+lify, or reduce the effectiveness of threats holding friendly space capabili- ing of the technical capabilities of the
+ties at risk. Although this may entail reactive operations after an adversary has initiat- radar and communication systems on
+ed an attack, active defense also includes proactive efforts to seize the initiative once threats before an attack commences.
+an attack is imminent.”77 Active defenses can be divided into two broad categories
+Laser Dazzling or Blinding
+based on where these defensive systems are based. Space-based defenses include
+onboard systems that are integrated into the satellites they protect and off-board sys- Laser systems can be used
+tems that are hosted on separate satellites. Off-board defenses can be used to provide to dazzle or blind the opti-
+“zone defense” of multiple satellites or to act as defensive patrols that roam within cal or infrared sensors on
+orbital regimes in response to threats. Terrestrial defenses are cross-domain systems an incoming ASAT weapon
+based on Earth that target counterspace systems and the systems that support them in the terminal phase of
+either on Earth or in space.78 flight. This is similar to the laser infra-
+SPACE-BASED DEFENSES
+Jamming and Spoofing
+A jammer or spoofer can be used to disrupt sensors on an incoming kinetic ASAT
+weapon so that it cannot steer itself effectively in the terminal phase of flight. When
+used in conjunction with maneuver, this
+could allow a satellite to effectively
+“dodge” a kinetic attack. Similar systems
+could also be used to de-
+ceive SDA sensors by altering
+the reflected radar signal to change the
+location, velocity, and number of satel-
+lites detected, much like digital radio fre-
+quency memory (DRFM) jammers used
+on many military aircraft today. A space-
+based jammer can also be used to dis-
+rupt an adversary’s ability to communi-
+cate with an ASAT weapon.
+CLICK TO
+FLY BACK TO Bodyguard satellites jam the sensors on an incoming warhead while the target satellite ma-
+THE CONTENTS
+An onboard jamming and spoofing sys-
+neuvers to safety.
+tem would add weight and power re-
+SPACE DEFENSES DEFINED 18 HARRISON, JOHNSON, YOUNG
+
+red countermeasures used on aircraft back to using a shoot-back system, par- against a salvo attack grows much faster
+to defeat heat-seeking missiles.79 ticularly kinetic shoot-back, is that if it than the number of missiles in the sal-
+Blinding an ASAT weapon’s guidance successfully strikes an incoming ASAT vo, meaning that the attacker has a
+system and then maneuvering to a new warhead, it could leave orbital debris cost-imposing advantage at scale.82
+position (if necessary) could allow a that affects the safe operation of other
+satellite to effectively “dodge” a kinetic satellites in similar orbits. Physical Seizure
+attack. It could also be used to dazzle
+A space vehicle capable
+A shoot-back system can either be locat-
+or blind the optical sensors on inspec-
+of docking with, manipu-
+ed on the satellite it is intended to de-
+tor satellites to prevent them from im-
+lating, or maneuvering
+fend or on a protective satellite in a sim-
+aging a satellite that wants to keep its
+other satellites or pieces
+ilar orbit. An off-board shoot-back
+capabilities concealed or to frustrate
+of debris can be used to thwart space-
+system could potentially protect many
+adversary SDA efforts.
+based attacks or mitigate the effects af-
+satellites in a distributed “zone defense”
+ter an attack has occurred. Such a sys-
+Onboard laser systems would add approach. A variation on this would be a
+tem could be used to physically seize a
+weight and power requirements to sat- co-orbital ASAT weapon that, instead of
+threatening satellite that is being used
+ellites, which would compete for re- firing a projectile or directed energy
+to attack or endanger other satellites or
+sources with mission payloads. An off- weapon, uses the satellite itself as a
+to capture a satellite that has been dis-
+board lasing system could be installed warhead to strike a threat. An off-board
+abled or hijacked for nefarious purpos-
+on dedicated protective satellites, pro- shoot-back or co-orbital system would
+es. Such a system could also be used to
+vided these satellites are maneuvered be similar in some ways to a space-
+collect and dispose of harmful orbital
+within the field of view of the sensors of
+based missile interceptor constellation,
+debris resulting from an attack. A key
+an incoming ASAT weapon when and
+and one constellation could in theory be
+limitation of a physical seizure system is
+where they are needed. Like space-
+used for both missile defense and space
+that each satellite would be time- and
+based jamming and spoofing defenses,
+defense. A potential weakness in this
+propellant-limited depending on the or-
+the effective operation of a space-based
+approach is that an adversary could
+bit in which it is stored. A system stored
+laser defense system depends on an ac-
+launch a salvo of ASAT weapons or de-
+in GEO, for example, would not be well
+curate characterization and under-
+coys to saturate defenses in a local area,
+positioned to capture an object in LEO
+standing of the technical capabilities of
+creating a hole in the protective layer
+because of the amount of propellant re-
+threats, such as the wavelengths of light
+that could then be exploited by other
+to which adversary sensors are sensi-
+ASAT weapons.81 The constellation size
+tive. France has publicly indicated that
+for an interceptor system to defend
+it intends to field a self-defense laser
+system to dazzle adversary satellites if
+one of its satellites is threatened.80
+Shoot-Back
+Satellites can be equipped with systems
+that either fire a physical projectile at an
+incoming ASAT weapon or use a
+high-powered laser or microwave sys-
+tem to have physically destructive ef-
+fects, such as overheating or causing
+short circuits, on an incoming ASAT
+weapon. The number of shots would be
+limited by the number of physical pro-
+jectiles that could be stored on the sat-
+ellite or the power capacity of the satel-
+CLICK TO lite to generate the large amounts of
+FLY BACK TO Bodyguard satellites fire projectiles at an incoming warhead while the target satellite ma-
+THE CONTENTS
+energy needed for successive high-pow-
+neuvers to safety.
+ered laser or microwave bursts. A draw-
+SPACE DEFENSES DEFINED 19 HARRISON, JOHNSON, YOUNG
+
+quired to maneuver into position. Phys- advanced capabilities, such as a ro- adversary space or counterspace sys-
+ical seizure satellites may need to be botic arm, harpoon, deployable net, tems. As with other types of cyberat-
+stored on Earth and deployed once they or other device. Several countries and tacks, attribution can be difficult to de-
+are needed to a specific orbit to counter private companies are currently de- termine with certainty, the effectiveness
+a specific threat. veloping and testing active debris re- of cyber weapons may not be known
+moval systems that could, in theory, until they are used, and the weaknesses
+While several commercial companies
+be adapted for military uses.84 a cyber weapon exploits may become
+are developing capabilities for on-or-
+known and mitigated once it is used.
+bit servicing, a distinguishing feature
+TERRESTRIAL-BASED
+of a military defensive capability is the
+Jamming and Spoofing
+ability to conduct remote proximity DEFENSES
+Terrestrial systems can also be used to
+and docking operations with an unco-
+Cyberattacks jam or spoof uplink communications to
+operative or uncontrolled space ob-
+counterspace weapons in space. If the
+ject. For example, the Northrop Grum- Many forms of counterspace weapons
+system is dependent on ground com-
+man Mission Extension Vehicle (MEV) rely on terrestrial systems for command
+mands for its operations, this could
+on-orbit serving satellites can attach and control or for targeting information
+prevent an adversary from sending
+themselves to a cooperative host sat- derived from SDA networks. These ter-
+commands to the weapon. However,
+ellite. They use their propulsion sys- restrial systems and the data networks
+for jamming or spoofing of the uplink
+tems to maneuver the host satellite to that connect them can be targeted us-
+to be effective, the jammer or spoofer
+a new orbit and take over station ing cyberattacks to degrade adversary
+needs to be within the field of view of
+keeping—maintaining position in a space battle management systems. Cy-
+the antenna on the space system that
+desired orbit—for the remainder of berattacks on ground control systems
+receives the uplink. This form of de-
+the satellite’s life.83 Docking with an can include denial of service attacks;
+fense may not be effective if the adver-
+uncooperative satellite—either with- infiltration of systems for intelligence,
+sary counterspace system can carry
+out the operator’s consent or where data corruption, and sabotage; or sei-
+out its mission autonomously or if it
+control has been lost—is more diffi- zure of command and control. These
+has alternative means of communica-
+cult because the satellite could make attacks can be used to achieve effects
+tions, such as using other satellites as
+unexpected movements, may be tum- such as disrupting communications be-
+communications relays.
+bling out of control, or may react to tween counterspace forces and higher
+the docking in unexpected ways if its echelons of command; preventing com-
+Direct-Ascent ASAT
+automatic control system remains en- mands from being sent to ASAT weap-
+gaged. Docking with a satellite under ons in space; covertly degrading or cor- Direct-ascent ASAT weapons can be
+these conditions may require more rupting SDA data; and taking control of used in a defensive counterspace role
+MICROSAT-R
+ASAT
+at highest
+altitiude
+INDIA
+BAY OF BENGAL
+CLICK TO
+FLY BACK TO
+THE CONTENTS
+Indian direct-ascent ASAT test in .
+SPACE DEFENSES DEFINED 20 HARRISON, JOHNSON, YOUNG
+
+to neutralize threatening objects in
+space. For example, if a satellite begins
+maneuvering in a dangerous or erratic
+manner or begins interfering with criti-
+cal military space systems, a direct-as-
+cent ASAT weapon could be used to
+physically destroy the threatening sat-
+ellite before, during, or after an attack.
+However, this would cre-
+ate orbital debris which
+itself could pose a threat
+to other space systems.
+Moreover, this could be
+viewed by others as an of-
+fensive and escalatory act
+if the information justifying this action
+is not publicly available and credible.
+Air-, Sea-, and Land-Based Kinetic
+Attacks
+Kinetic attacks can be launched against
+adversary space and counterspace in-
+frastructure in other domains to pre-
+vent attacks in space and to disable the
+terrestrial sites from which counter-
+space attacks are controlled. Targets
+for terrestrial kinetic attacks could in-
+clude command and control facilities,
+missile and rocket launch sites, jam-
+ming and spoofing sites, and SDA facil-
+ities. It could also include attacks
+against key supporting infrastructure
+that space ground segment facilities
+depend upon, such as power systems,
+communications lines, and the indus-
+trial base that supports space and
+counterspace operations.
+CLICK TO
+FLY BACK TO
+THE CONTENTS
+SPACE DEFENSES DEFINED 21 HARRISON, JOHNSON, YOUNG
+
+DDEEFFEENNSSEE AAGGAAIINNSSTT TTHHEE CCHHAAPPTTEERR 44 DDAARRKKSS AARRTTSS IINN SSPPAACCEE
+SPACE actions and capabilities that are suitable
+for a particular situation. While the first
+two questions of if and which are mainly
+questions of strategy, the question of
+how is more a matter of technology and
+tactics. How to apply space defenses
+against counterspace weapons depends
+on many factors, including the type of
+counterspace weapons being used and
+DEFENSES
+the objectives of both the attacker and
+the defender—what they hope to achieve
+or deny the other side.
+This chapter explores a range of objec-
+tives the attacker and defender each may
+APPLIED
+have in a conflict that begins or extends
+into space and the suitability of different
+types of space defenses in pursuing or
+foiling these objectives. The focus in this
+discussion is on the space objectives in a
+conflict, which are a subset of the overall
+objectives each side may have. Impor-
+tantly, both the attacker and defender
+Three fundamental questions arise dependencies are more critical than oth-
+may have multiple objectives in space,
+when determining how to apply ers. Space defenses could be extended to
+and these objectives may evolve over the
+space defenses in a conflict. The first non-U.S. government systems to help
+course of a conflict. As objectives change,
+question is if defenses should be em- reassure allies and commercial firms in a
+the desirability of different types of space
+ployed at all. Using defenses can expose crisis and deter threats. However, it could
+defenses will also shift. This chapter clos-
+capabilities, tactics, and thresholds for also lead to the United States being
+es with a summary table showing the po-
+employment that an adversary can use to drawn in to intervene in a situation that it
+tential application of the types of space
+its advantage in further engagements. In otherwise might want to avoid.
+defense capabilities discussed in Chap-
+cases of minor threats or attacks that are
+A third key question is how space sys- ter 3 to the types of counterspace threats
+reversible and have low consequences,
+tems should be defended in terms of the discussed in Chapter 2.
+the best response may be no response.
+On the other hand, a lack of response may
+set precedent, lead to unfavorable norms
+for what is acceptable behavior, and con-
+OOBBJJEECCTTIIVVEESS OOFF TTHHEE AATTTTAACCKKEERR IINN SSPPAACCEE
+strain future decisions about whether a
+response is warranted.
+For the foreseeable future, conflict in space will ultimately be
+A second question is which systems about achieving economic and political effects on the ground—
+should be defended and the relative pri- just as it is in the air and maritime domains.85 But nations may
+orities among them. The U.S. military de- make the decision to begin or extend a conflict into space for many reasons. For
+CLICK TO pends on many commercial and allied the purposes of this discussion, the attacker is the actor that initiates the part of a
+FLY BACK TO
+THE CONTENTS
+space systems as well as U.S. govern- conflict that extends to space. The objectives of an attacker in initiating conflict in
+ment space systems, and some of these space can include, but are not limited to: inflicting economic harm, signaling re-
+SPACE DEFENSES APPLIED 22 HARRISON, JOHNSON, YOUNG
+
+solve, disrupting sensor-to-shooter kill the forces and time required, and it with limited terrestrial infrastructure.
+chains, disabling adversary defenses in could be riskier in terms of personnel For these reasons, as nations seek to
+other domains, and permanently shift- losses, platform losses, and collateral project power over longer distances,
+ing the balance of power in space. damage if its space capabilities are de- they may become increasingly reliant
+While many other objectives are possi- graded. For signaling and deterrence, on space-based remote sensing and
+ble and an attacker can have multiple an attacker may prefer to use forms of communications to close the sen-
+objectives simultaneously, these five attack that are reversible and have low sor-to-shooter kill chain. If the intent of
+represent a broad range of objectives potential for collateral damage in the attacker is to disrupt an adversary’s
+that are possible and serve to illustrate space, such as electronic attacks, to kill chains, it may prefer methods of at-
+how different forms of attack may be give the other side an incentive and tack, such as kinetic physical counter-
+preferred depending on the attacker’s ability to deescalate. The method of at- space weapons, where it can reliably
+objectives. tack would also need to be attributable determine if the attack was effective
+because if the opponent does not know and whether the effects will be sus-
+Attacks in space can be used to inflict
+who is attacking its space systems, it tained throughout the conflict.
+economic harm or to disrupt com-
+may not be deterred or understand
+merce for strategic purposes by inter- Attacks in space can also be used as a
+what the attack is intended to signal.
+fering with the space systems that penetration aid for offensive strikes in
+commerce depends upon, such as GPS, During or at the outset of a conflict, a other domains. For example, attacks
+weather satellites, and commercial sat- against an opponent’s missile warning
+nation may use attacks in space to dis-
+ellite communications systems. For ex- or missile tracking satellites could be
+rupt the sensor-to-shooter kill chain of
+ample, an attacker could use jamming used to degrade its missile defense ca-
+its opponent, making it more difficult
+of the civilian GPS signals to disrupt fi- pabilities and improve the odds that a
+for an opponent to conduct offensive
+nancial transactions, transportation missile attack succeeds.87 For this type
+operations in other domains. The sen-
+systems, and the many other commer- of objective, the attacker may prefer to
+sor-to-shooter kill chain is the battle
+cial activities that depend on GPS navi- use kinetic physical attacks or cyberat-
+network that transports intelligence,
+gation and timing services. While ter- tacks so that it can quickly determine if
+targeting, and battle damage assess-
+restrial and airborne jammers can only its efforts were effective at disabling its
+ment information from sensors in vari-
+affect the local region in which they opponent’s defenses before it launch-
+ous domains to nodes in the network
+operate, a space-based GPS jammer es offensive attacks in other domains.
+that can process and analyze this infor-
+could affect much broader areas far be-
+mation. This data is then used to make
+In a more extreme scenario, an attack-
+yond an attacker’s terrestrial reach. If
+decisions and communicate those de-
+er’s objectives may include perma-
+the intent is to inflict broad economic
+cisions to platforms and personnel that
+nently altering the balance of power in
+harm, the attacker may prefer to use
+can direct fires accordingly.86 Modern
+space in its favor. This objective differs
+forms of attack where attribution is
+battle networks are increasingly com- from the others previously described
+more difficult to limit diplomatic back-
+plex, and many nodes and communica- because the intent of the attacks is to
+lash, such as cyberattacks against
+tion links in the kill chain can run have permanent disabling effects on
+space systems.
+through or be dependent on space— the opponent’s space systems that ex-
+A nation may also want to use attacks even if the sensor and shooter reside tend well beyond the current conflict.
+in space—or the threat of attacks—to on the same platform. For example, the For example, this objective may in-
+signal resolve and to deter an oppo- MQ-9 Reaper, a type of drone used ex- clude significantly degrading an oppo-
+nent in a crisis. A limited and reversible tensively in the Iraq and Afghanistan nent’s space capabilities so that it can
+attack in space or an ASAT test could be wars, uses GPS for navigation, satellite no longer support existing satellites or
+used by an attacker to demonstrate communications for sending back vid- launch new satellites. It could include
+that it is willing and able to extend con- eo and other intelligence collected in cyberattacks that cause permanent
+flict into space. An attacker’s ability to real time, and control links through damage to satellites, large-scale kinet-
+hold critical space systems at risk could satellites so that operators can issue ic physical attacks, or a nuclear deto-
+affect the calculus of an opponent commands to the platform. Space is nation in space. The latter two exam-
+CLICK TO about whether to intervene in a con- ideal for supporting kill chains that ples could leave some orbital regimes
+FLY BACK TO
+THE CONTENTS
+flict on Earth. Intervention by an oppo- must extend over long distances, unusable for all nations—a “clear the
+nent could be more costly in terms of across multiple regions, or into regions skies” approach.
+SPACE DEFENSES APPLIED 23 HARRISON, JOHNSON, YOUNG
+
+fender may prefer space capabilities
+that degrade gracefully, such as distrib-
+OOBBJJEECCTTIIVVEESS OOFF TTHHEE
+uted and diversified architectures, and
+many types of passive technical defens-
+es that make systems more resistant to
+DDEEFFEENNDDEERR IINN SSPPAACCEE
+attacks. The defender may want a re-
+constitution capability to replace sys-
+tems during a conflict even if the re-
+The way one defends against an attack in space depends in part on
+placements may also be lost. It may also
+what the defender is trying to achieve or prevent. As in the case of
+be desirable to have a rapid deployment
+an attacker, a defender’s main concern in a conflict that begins or
+capability to bring new capabilities on-
+extends into space will likely remain rooted on the ground for the foreseeable fu-
+line during the conflict that an adver-
+ture. But a nation may have a variety of objectives when it comes to how it chooses
+sary may not be expecting, to further
+to defend its space capabilities. For the purposes of this discussion, the defender is
+complicate its targeting calculus and
+defined as the actor that is the target of a potential attack in space. The objectives
+supplement systems that are being de-
+of a defender can include but are not limited to: deterring conflict in space, buying
+graded.
+time for operations in other domains to succeed, defeating an attack and restoring
+the status quo in space, and permanently degrading an adversary’s space and coun- The defender’s objective could also be
+terspace capabilities. Many other variations or combinations of these objectives are to defeat an attack and quickly restore
+possible, but these four represent a broad range of objectives that elucidate how space capabilities to full operations. For
+different types of defenses may be preferred depending on what a defender hopes example, a defender could attempt to
+to accomplish. seize the initiative once an attack ex-
+tends into space by quickly degrading
+One of the main objectives in building space defenses can be deterrence. An oppo-
+the counterspace capabilities of the at-
+nent may be deterred from extending a conflict into space if space systems are less
+tacker to limit or halt any further at-
+vulnerable and the opponent believes it is not likely to achieve its objectives through
+tacks, potentially using offensive ac-
+counterspace attacks. Improved defenses for some space systems could incentivize
+tions for defensive purposes. In addition
+an opponent to attack less protected systems in space or in other domains. An op-
+to the defensive capabilities previously
+ponent is likely to be deterred when the expected costs of a successful attack exceed
+discussed that are preferred to buy time
+the expected benefits. Space defenses can both raise the expected costs and reduce
+in a conflict, a space counterattack
+the expected benefits of beginning or extending conflict into space. But for space
+could also require a mix of active de-
+defenses to act as a deterrent, an opponent must believe that such defenses exist
+fenses, such as non-kinetic space-based
+and that they are effective—even if the opponent does not fully understand what
+shoot-back systems and terrestrial ki-
+they are or how effective they may be. Defenses that rely on secrecy and that cannot
+netic attacks, to target an adversary’s
+be revealed without compromising their operation, such as stealth or the rapid de-
+counterspace weapons directly. Return-
+ployment of previously undisclosed capabilities, are not likely to contribute effec- ing space systems to full operations
+tively to deterrence. Some architectural defenses, such as distributed or proliferat- may also require a reconstitution capa-
+ed constellations, raise the costs of attacking because many more satellites must be bility to replace systems that experi-
+targeted, increasing the time and number of weapons required and the risks of col- enced permanent damage, but recon-
+lateral damage and escalation. Diversified systems, many types of technical defens- stitution operations would likely not
+es, demonstrated ability to reconstitute, and some active defenses can reduce an begin until the attacker’s counterspace
+attacker’s expected benefits for different forms of attack by making their counter- capabilities are neutralized. Kinetic
+space weapons less effective. space-based shoot-back systems may
+not be desirable because orbital debris
+Another objective for space defenses can be to buy time for operations in other do-
+could make a return to the status quo in
+mains to be effective in determining the outcome of a conflict. For this objective, the
+space more difficult if not impossible.
+defender will want to focus on limiting disruptions and degradation in space ser-
+vices (i.e., space domain mission assurance) as long as possible and may be willing A more ambitious objective for a de-
+CLICK TO to accept some losses if they occur gradually.88 The defender could use this time to fender is to permanently shift the bal-
+FLY BACK TO
+THE CONTENTS
+mount offensive attacks in other domains, which could themselves be dependent ance of power in space, ensuring that
+on space capabilities. If the objective is to buy time and weather an attack, the de- when a conflict subsides the aggressor
+SPACE DEFENSES APPLIED 24 HARRISON, JOHNSON, YOUNG
+
+is no longer a threat. To do this, a de- threat on Earth or in space. For this ob-
+fender would need to defeat an attack jective, the defender will likely place
+once it has begun and then work to roll more emphasis on active defenses,
+back and possibly eliminate the coun- technical defenses (e.g., exquisite SDA)
+terspace capabilities of the attacker. that enable these defenses, and defens-
+This objective may also include degrad- es that have permanent disabling ef-
+ing the space capabilities of the attacker fects on an adversary’s counterspace
+if these space capabilities could pose a capabilities.
+MMAATTCCHHIINNGG DDEEFFEENNSSEESS TTOO TTHHRREEAATTSS
+The best defense to use against an attack in space depends not just on the ob-
+jectives of the attacker and defender but also on the specific types of weapons
+being used. Jam-resistant waveforms, for example, can help protect against
+electronic forms of attack but are of no value when defending against a direct-as-
+cent ASAT weapon. Similarly, active defenses such as an on-orbit shoot-back system
+can be effective against kinetic physical forms of attack but would not be useful
+against an airborne lasing system.
+Another complicating factor in space, which arises in the cyber domain and in the
+use of remotely piloted aircraft, is that proportionality, including when certain de-
+fensive measures are warranted, can be difficult to ascertain when human lives are
+not directly at risk. Proportionality is highly dependent on the context of a situation,
+and that context can be difficult to understand in a timely manner in a remote envi-
+ronment such as space. At present, all military space systems are remotely operated
+and an attack on a satellite does not risk the direct loss of human life, with few ex-
+ceptions. But some of the defensive options available, particularly kinetic attacks
+on terrestrial counterspace facilities, could put humans lives at risk. It is difficult to
+weigh proportionality when the risks for one side involve loss of property or critical
+infrastructure and the risks for the other side involve loss of life.
+It can also be difficult to discern the intent of an attack in space from the effects
+created. For example, a defender may not be able to tell if a lasing event that blind-
+ed an imagery satellite was only intended to temporarily dazzle its sensors. And it
+may not be clear if an attack against a satellite used for both nuclear and conven-
+tional missions is a prelude to nuclear escalation. Policymakers therefore need a
+range of defensive options available to provide decision space as a crisis evolves
+rather than singular or formulaic solutions.
+The following table is a crosswalk between the different types of defenses discussed
+in Chapter 3 and the different categories of threats presented in Chapter 2. It pro-
+vides a brief description of the desired effects from each type of defensive capability
+(if it is used successfully) and indicates the categories of threats for which it is poten-
+tially applicable. Importantly, a particular type of defense may only be applicable to
+a subset of the threats possible within a given category. For example, filtering and
+shuttering would help protect an imagery satellite against laser dazzling and
+blinding, but it would not protect against other types of non-kinetic physical threats,
+CLICK TO such as high-powered microwave weapons.
+FLY BACK TO
+THE CONTENTS
+SPACE DEFENSES APPLIED 25 HARRISON, JOHNSON, YOUNG
+
+Kinetic Physical = / Non-Kinetic Physical = / Electronic = / Cyber =
+TABLE 2: APPLICATION OF SPACE DEFENSES TO TYPES OF COUNTERSPACE WEAPONS
+POTENTIALLY
+TYPES OF DEFENSES DESIRED EFFECTS
+APPLICABLE TO:
+CLICK TO
+FLY BACK TO
+THE CONTENTS
+SPACE DEFENSES APPLIED 26 HARRISON, JOHNSON, YOUNG
+SESNEFED
+EVISSAP
+LARUTCETIHCRA
+Disaggregated
+Dissuades attacks against certain space missions by separating them from other space missions.
+Constellations
+Increases the number of satellites that must be successfully attacked to achieve the same effects and
+Distributed Constellations
+makes the system less dependent on any one satellite.
+Increases the number of satellites that must be successfully attacked to achieve the same effects and
+Proliferated Constellations
+provides extra capacity in case systems are degraded.
+Reduces the incentive to attack space systems because missions are supported by systems in other orbital
+Diversified Architectures
+regimes/domains that can be used to compensate.
+Redundant, Mobile, or
+Makes space systems less vulnerable to attacks on any single ground site.
+Hardened Ground Stations
+LACINHCET
+Exquisite Space Domain Improves the effectiveness of other defenses and potentially dissuades an adversary from attacking through
+Awareness attribution and the potential for public disclosure.
+Space-Based Radio Improves ability to detect, attribute, and respond to electronic and high-powered microwave attacks, poten-
+Frequency Mapping tially dissuades an adversary from attacking through attribution and the potential for public disclosure.
+Electromagnetic Shielding Hardens satellites against high-powered microwave and electromagnetic pulse weapons.
+Filtering and Shuttering Protects against high-powered lasers that can blind or dazzle the sensors on satellites.
+Jam-Resistant Waveforms Improves the resistance of radio frequency signals to jamming and spoofing.
+Antenna Nulling and
+Allows satellites to block jamming, spoofing, and other interference.
+Adaptive Filtering
+Encryption and Air-Gapped
+Makes satellites and ground systems more resistant to cyberattacks and some forms of electronic spoofing.
+Systems
+LANOITAREPO
+Protects a space system from pre-emptive attack by waiting to launch it until it is needed, limits an adver-
+Rapid Deployment
+sary’s knowledge and strategic planning.
+Reconstitution Reduces the amount of time a system may be offline after an irreversible attack.
+Maneuver Enables satellites to move out of the trajectory and sensor range of direct-ascent or co-orbital ASAT weapons.
+Stealth Makes satellites difficult to detect and track for kinetic and non-kinetic forms of attack.
+Deception and Decoys Conceals the location, capabilities, or status of satellites.
+SESNEFED
+EVITCA
+DESAB-ECAPS
+Disrupts the radar on an incoming ASAT weapon or on adversary SDA systems to prevent accurate targeting
+Jamming and Spoofing
+of space systems, can also disrupt downlink communications from adversary space systems.
+Blinds the optical or infrared sensors on an incoming ASAT weapon or on SDA systems to prevent accurate
+Laser Dazzling/Blinding
+targeting of space systems.
+Shoot-Back Fires a projectile or directed energy weapon to physically disable an incoming ASAT weapon.
+Physical Seizure Physically grabs a threatening space object to disable or move it.
+DESAB-LAIRTSERRET
+Cyberattacks Targets the terrestrial systems and SDA networks that support counterspace weapons.
+Jamming and Spoofing Disrupts adversary command and control of counterspace weapons.
+Direct-Ascent ASAT Physically destroys a threatening space object.
+Air, Sea, and Physically damages or destroys counterspace systems and support infrastructure on Earth.
+Land Kinetic Attacks
+
+DDEEFFEENNSSEE AAGGAAIINNSSTT TTHHEE CCHHAAPPTTEERR 55 DDAARRKKSS AARRTTSS IINN SSPPAACCEE
+SCENARIOS FOR DEFENSIVE
+COUNTERSPACE
+OPERATIONS
+The effectiveness of defenses in de- calate or deescalate the conflict given and nations involved are largely fictional
+terring or defeating attacks in the scenario presented. and only intended to represent plausible
+space depends on the context of scenarios in which conflict could begin or
+The workshops were used to refine the
+the situation and the operational con- extend to space.
+description and framework of space de-
+cepts used to employ them. To test the
+fenses in Chapter 3, the concepts for em-
+space defenses posited and gain further
+ploying defenses in Chapter 4, and the
+insight into how they could be applied
+in crisis situations, the study team de-
+scenarios themselves. The sections be- SSCCEENNAARRIIOO 11
+low provide a description of the scenari-
+veloped four hypothetical scenarios.
+os, the questions asked of the partici-
+The scenarios range from outright ag-
+RRUUSSSSIIAANN IINNCCUURRSSIIOONN
+pants, and some of the key findings from
+gression in space to the perhaps more
+the expert discussions that followed
+likely yet uncertain scenarios with low IINNTTOO TTHHEE BBAALLTTIICCSS
+each scenario. The scenarios are inten-
+attribution or reversible effects.
+tionally openended and designed to pro-
+PART A:
+The scenarios were presented to a voke discussion about how best to re-
+group of space and national security ex- spond and whether certain defensive ESCALATING TENSIONS
+perts in a series of workshops to under- capabilities would be useful as part of a
+Amid renewed concerns about the
+stand how policymakers might use response. They are set in the near future
+North Atlantic Treaty Organiza-
+space defenses in different situations. to allow for some changes in the world,
+tion (NATO) moving to create per-
+The workshops were conducted on a but not so far in the future as to allow
+manent bases for the Enhanced For-
+not-for-attribution basis. During the great leaps in technology. Scenarios 1
+ward Presence (EFP) forces in the
+workshops, participants were present- and 3 are divided into two parts, where
+Baltics, Russian president Vladimir Pu-
+ed with questions at the end of each the second part builds on the informa-
+scenario or part of a scenario to assess tion provided in the first part. Otherwise, tin decides he must push back against
+their interpretation of the events posit- the four scenarios are assumed to occur further NATO consolidation. Unlike in
+CLICK TO ed and possible actions to defend independent of one another. While the the case of Crimea, Putin recognizes
+FLY BACK TO
+THE CONTENTS
+against perceived attacks. Participants scenarios are designed to be realistic, the that the Baltic states are part of NATO
+were also asked to assess options to es- specific events, locations, capabilities, and that all NATO states have a treaty
+SCENARIOS FOR DEFENSIVE COUNTERSPACE OPERATIONS 27 HARRISON, JOHNSON, YOUNG
+
+obligation to defend them.
+Yet Putin has been clear
+about what is at stake if his efforts at
+the “protection of Russian citizens” are
+actively opposed by the West.
+LATVIA
+Russian cyber forces have engineered a
+massive Facebook, Twitter, and Insta-
+gram social media push to create an ac-
+LITHUANIA
+tive image of Russian citizens being per-
+secuted and tortured in the southern
+and eastern Baltics. Russian diplomats KALININGRAD
+warn the Baltic states that these actions
+must stop, or they will be forced to act.
+Russian and Belarusian “citizen mili-
+POLAND
+tias” have begun to move into Baltic
+towns in southern Lithuania and east-
+ern Latvia. In response, Lithuania has =Areas of active Russian/Belarusian citizen militias
+blocked Russian access to Kaliningrad,
+something that is normally allowed un-
+Map depicting hypothetical Lithuanian blockade by Russia and adversary citizen militias.
+der Facilitated Transit Document (FTD)
+provisions.
+After claiming the Lithuanian blockade AEHF 5 and in a position where it inter- Questions for Participants:
+is an act of aggression, Russia begins a mittently physically blocks the AEHF
+cyberattack on the Lithuanian terrestri- crosslink to other satellites. This sig- • Is the Russian SATCOM jamming or
+al telecommunications networks, effec- nificantly degrades the ability of AEHF 5 the positioning of the AM7 satellite to
+tively bringing them down. Russia also to perform its missions because of the block AEHF crosslinks in this scenar-
+jams all satellite communications (SAT- time it takes for the network ring io an act of aggression, a use of force,
+COM) into the country, including all mil- among satellites to be reestablished or an armed attack?
+itary and NATO communications other
+each time it is disrupted. The impact to
+• What are your diplomatic and informa-
+than the protected Advanced Extremely
+nuclear command and control is not
+tional options (public and private), and
+High Frequency (AEHF) SATCOM. The
+publicly disclosed. U.S. DoD and intelli-
+what are the pros and cons of each?
+United States and NATO grow more
+gence analysts conclude this was an
+alarmed, and leaders call a formal meet-
+intentional act, but the Russians claim • What are the pros and cons of differ-
+ing of the North Atlantic Council.
+they had no control of the satellite. ent responses in space?
+As these discussions begin, the Russian ◊ Maneuver the AEHF 5 satellite un-
+To respond, U.S. controllers could repo-
+Federal Communications Agency
+der the guise of using an “abun-
+sition AEHF 5 away from the Russian sat-
+(Rossvyaz) announces the movement
+dance of caution” to protect
+ellite so that the crosslinks to other sat-
+of one of its civilian communications
+against a possible in-space colli-
+ellites are no longer blocked, but leaders
+satellites in GEO, Ekspress AM7, from its
+sion, though this will break the
+are concerned that this would affirm for
+slot at 40°E to a new slot at 53°E, re-
+nuclear command and control
+the Russians (and others) that the nu-
+placing Ekspress AM6.89 During transit,
+link for several additional days.
+clear command and control network is
+Rossvyaz announces that it has lost
+control of the satellite, which is now being disrupted. U.S. leadership is con- ◊ Coordinate with the AM7 satellite
+continuing its eastward drift directly cerned that the Russian action is an im- manufacturer to surreptitiously
+into the path of the United States’ AEHF plicit warning that the United States has gain control of the satellite in a
+CLICK TO 5 satellite at 54°E. Rossvyaz is finally much to lose in space and in other do- collaboration between USSPACE-
+FLY BACK TO
+THE CONTENTS
+able to stop the satellite’s drift, but by mains if it actively opposes Russia’s COM and U.S. Cyber Command
+that time it is dangerously close to moves in the Baltics. (USCYBERCOM).
+SCENARIOS FOR DEFENSIVE COUNTERSPACE OPERATIONS 28 HARRISON, JOHNSON, YOUNG
+
+◊ Inform Russia that its satellite is inactive MEO satellites. The United GPS accuracy will be affected for
+now a hazard to navigation and States protests to the United Nations, many weeks.
+that, if it cannot regain control, but Russia claims it must have been
+◊ Try to jam the communication up-
+the United States will hire a com- an internal propellant tank explosion
+link to the Russian mines.
+mercial on-orbit servicing vehicle on the old GPS satellite. The Russians
+◊ Rapidly purchase and launch a
+to relocate the satellite to a grave- point out that no object was reported
+series of active debris removal
+yard orbit. near the old GPS satellite in the offi-
+satellites from a commercial
+cially published U.S. satellite catalog.
+◊ Jam Russian SATCOM across the
+company and use them to re-
+The Russian spacecraft had been re-
+region, and request support from
+move the space mines.
+cently spotted by the U.S. Space Force,
+USCYBERCOM to attack Russian
+but it had not yet been identified and ◊ Destroy a Russian GLONASS satel-
+local terrestrial networks.
+thus was not catalogued. lite with a kinetic attack.
+◊ Other options?
+◊ Issue a demarche to Russia de-
+USSPACECOM begins an intensive SDA
+• What additional capabilities do you claring that the loss of any addi-
+clearing exercise for all GPS satellites
+wish you had? tional GPS satellites will be viewed
+and finds what are believed to be Rus-
+as an armed attack that will force
+◊ Ability to maneuver while main- sian space mines located near many
+the United States to respond in
+taining cross links. other active GPS satellites, meaning
+other domains.
+they were either previously missed or
+◊ Pre-developed cyber capability
+were positioned in the last several ◊ Other options?
+for uncooperative commanding of
+weeks. USSPACECOM cannot be sure
+a wide variety of commercial geo-
+• What additional capabilities do you
+how many GPS satellites are threat-
+synchronous satellites.
+wish you had?
+ened because the mines are small and
+◊ On-orbit availability of DoD-owned
+come in and out of view periodically. ◊ Enhanced SDA observational and
+servicing and seizure satellites.
+U.S. leaders want to strongly oppose analytical capabilities that could
+◊ Satellites with onboard self-de- Russian actions but require assurance have warned of Russian mines po-
+fense capabilities (kinetic or from USSPACECOM that the GPS con- sitioning in MEO well before they
+non-kinetic). stellation can be kept safe to avoid the were in place.
+potential economic impact of a GPS
+◊ Internationally acknowledged ◊ Ability to maneuver while main-
+degradation.
+right to remove hazards to naviga- taining PNT services.
+tion in space.
+◊ Larger reserves of propellant for
+Questions for Participants:
+◊ Other capabilities? additional maneuver capability
+• Is the Russian detonation of a mine on the GPS satellites.
+PART B:
+and destruction of a decommis-
+◊ More robust GPS receivers that
+CONTINUED ESCALATION sioned GPS satellite in this scenario can use other signals to blunt the
+an act of aggression, a use of force, or
+impact of GPS losses.
+The standoff in the Baltics has contin-
+an armed attack? Would the answer
+ued for months while Russia has ◊ A U.S. ground-based navigation
+be different if it was an operational
+amassed active-duty troops along the system capability as a GPS back-
+GPS satellite?
+Lithuanian border. Putin warns the up located in the continental
+United States of dire consequences if • What are your diplomatic and infor- United States.
+it or NATO interferes in the Baltics. A mational options (public and pri-
+◊ GPS satellites with onboard
+previously undetected Russian space vate), and what are the pros and cons
+self-defense capabilities (kinetic
+mine maneuvers next to an older de- of each?
+or non-kinetic).
+commissioned GPS satellite and deto-
+• What are the pros and cons of differ- ◊ More on-orbit spares for GPS (cur-
+nates, destroying the satellite and
+ent responses in space? rent GPS constellation is ~30 satel-
+generating debris in MEO. Only the
+lites, but only 24 are needed to
+CLICK TO United States and Russia can detect ◊ Begin a coordinated maneuver of
+FLY BACK TO
+THE CONTENTS function properly).
+what happened, since no other na- all GPS satellites away from the
+tions or private firms actively monitor space mines but recognize that ◊ Others?
+SCENARIOS FOR DEFENSIVE COUNTERSPACE OPERATIONS 29 HARRISON, JOHNSON, YOUNG
+
+FINDINGS
+This scenario reinforced how essential
+SDA data is for understanding attacks
+SBIRS GEO-1 SupremeSAT-2
+in the space domain. Experts recom-
+mended expanding SDA capabilities by
+tapping into commercial or internation-
+al partner capabilities and fielding ad-
+ditional space-based SDA systems. SupremeSAT-2 moving toward SBIRS GEO-1 over the Laccadive Sea just south of Sri Lanka in
+They lamented that the United States’ scenario.
+SDA capabilities significantly hampered
+decisionmaking in this scenario, noting
+ing with hazards in space would have often cause interference with
+that a better understanding of the
+helped facilitate a better understand- nearby satellites as they drift by.
+space environment would have allowed
+ing of Russian actions. Some partici- The Chinese blame the failures,
+for more options and better flexibility
+pants commented that communicat- without evidence, on a U.S. cyber intru-
+in decisions. With both space challeng-
+ing in advance clear thresholds for sion in its industrial base.
+es presented in this scenario—the
+escalation and a range of defensive
+blocking of AEHF satellite crosslinks in In early April, China is set to begin its an-
+actions that would be triggered could
+GEO and the space mines next to GPS nual strategic forces exercise that in-
+have prevented certain actions, such
+satellites in MEO—participants noted cludes the launch of multiple missiles
+as the space mine attack. Experts as-
+that improved attribution capabilities and other strategic military systems
+sessed that the starting point should
+would have allowed decisionmakers to over the course of a three-week period.
+be to establish international norms
+better assess the intent and credibility Just before the exercise starts, Sri Lanka
+and rules of the road for acceptable
+of perceived Russian threats. announces it has lost control of Su-
+behavior in space. Established norms
+premeSat-2, which is from the same Chi-
+Participants also emphasized that could act as tripwires that, if crossed,
+nese manufacturers as the two other
+clearer norms and processes for deal- would signal malicious intent.
+failed satellites.
+SupremeSAT-2 is rapidly drifting to the
+west out of control. The U.S. Combined
+SSCCEENNAARRIIOO 22
+Space Operations Center (CSpOC) cal-
+culates that it will pass close to SBIRS
+GEO-1, a U.S. military missile warning
+satellite, although the likelihood of col-
+PPOOSSSSIIBBLLEE HHIIJJAACCKKEEDD SSAATTEELLLLIITTEE lision is very low. However, the
+high-powered Ka band payload on-
+board SupremeSat-2 will begin to inter-
+The United States and its allies are increasingly concerned that more nations,
+fere with the SBIRS communications
+especially those in Asia, are turning to China as their supplier of choice for
+payload as it drifts closer. The likely con-
+space systems. In many cases, the Chinese have provided a complete turn-key
+sequence is that SBIRS GEO-1 will be un-
+system along with financing that is extremely attractive to less affluent nations. As a
+able to conduct its mission reliably for
+result, some 10 percent of all GEO satellites in operation are now Chinese made. In
+up to a week as SupremeSAT-2 passes.
+line with these trends, Sri Lanka recently replaced its first satellite, SupremeSAT-1,
+This week happens to fall near the peak
+with the Chinese-built SupremeSAT-2, a very high-powered C, Ku, and Ka- band
+of the planned Chinese military exercise
+communication satellite located at 87.5°E longitude.
+in the region covered by SBIRS GEO-1.
+In the last six months, two different Chinese-built satellites experienced uncon- The annual Chinese strategic forces ex-
+trolled commanding events. Despite their best efforts, the satellite operators have ercise involves the launch of multiple
+CLICK TO not been able to regain control of these satellites. Both were communication satel- missiles and other strategic military sys-
+FLY BACK TO
+THE CONTENTS
+lites launched in the last five years, and both are now drifting relatively harmlessly tems the SBIRS satellite would normally
+around the GEO belt. The communications payloads on the satellites are active and observe.
+SCENARIOS FOR DEFENSIVE COUNTERSPACE OPERATIONS 30 HARRISON, JOHNSON, YOUNG
+
+USSTRATCOM requests support from MEO or LEO overlays. could have made communication easier
+USSPACECOM to help mitigate the criti- between the involved nations and the
+◊ Additional on-orbit spares for mis-
+cal loss of missile warning and technical sile warning. United Nations.
+intelligence capabilities during the Chi-
+◊ Satellites with onboard self-defense The potential effects this scenario posed
+nese exercise. These capabilities are
+capabilities (kinetic or non-kinetic).
+needed to monitor Chinese activities to on such a critical U.S. national security
+ensure it is not threatening one of its ◊ Pre-developed cyber capability for system caused great concern. Partici-
+neighbors and provide valuable intelli- uncooperative commanding of a pants called for more SBIRS satellites
+gence on Chinese military capabilities. wide variety of commercial geosyn- on-orbit as backups and better cross-
+chronous satellites. links between satellites so that the one
+Questions for Participants: ◊ Satellites that have onboard capa- affected could be taken offline until the
+bilities to more easily attribute and situation resolved itself. Participants also
+• Is the movement and interference
+respond to hostile acts. noted that if the United States had a pro-
+caused by SupremeSAT-2 in this sce-
+liferated LEO constellation for missile
+◊ Others?
+nario an act of aggression, a use of
+warning, the loss of one satellite would
+force, or an armed attack?
+FINDINGS matter much less and the mission could
+• What are your diplomatic and informa- Like Scenario 1, many participants want- continue somewhat unaffected.
+tional options (public and private), and ed better information about the satellite
+The workshop participants also re-
+what are the pros and cons of each? anomaly through exquisite SDA. Specifi-
+marked that an on-orbit servicing satel-
+cally, participants wanted more on-orbit
+• What are some response options along lite would have been greatly helpful in
+SDA capabilities so that an inspector sat-
+with their pros and cons? this scenario. If the United States had an
+ellite could maneuver nearby and take a
+◊ Maneuver the SBIRS satellite into an closer look to verify Chinese and Sri on-orbit servicing capability in GEO at
+eastward drift to minimize the over- Lankan statements on the condition of the time, it could have offered Sri Lanka
+lap time between the two systems the satellite. Also like Scenario 1, partici- assistance in maneuvering its satellite to
+and limit the outage. pants noted the advantage of having a less-disruptive orbit until the problem
+◊ Request that the Chinese assist Sri pre-established norms of behavior that could be addressed.
+Lanka in regaining control of its
+satellite.
+SSCCEENNAARRIIOO 33
+◊ Maneuver two other SBIRS satel-
+lites into new positions to “pinch”
+the hole between them to recover
+coverage of most of the area that
+will be affected. EESSCCAALLAATTIINNGG TTEENNSSIIOONNSS IINN
+◊ Do nothing so as not to admit that
+the interference has harmed missile
+TTHHEE SSOOUUTTHH CCHHIINNAA SSEEAA
+warning capabilities.
+◊ Other options?
+PART A: ECONOMIC COERCION
+• What additional capabilities do you
+wish you had? Just years after China declared its BeiDou navigation system fully operational, Bei-
+Dou has now been adopted by dozens of neighboring Asian nations as their pre-
+◊ Laser crosslinks or other backup
+ferred navigation system, due in no small part to Chinese Belt and Road Initiative
+communications channels for mis-
+incentives. After years of high-profile U.S. sanctions on Chinese technology companies
+sile warning capabilities to provide
+and the repeated refusal of the U.S. Federal Communications Commission (FCC) to ap-
+diverse communications options.
+prove BeiDou use in the United States, the Chinese have reached a breaking point.
+CLICK TO ◊ More distributed and proliferated
+FLY BACK TO
+THE CONTENTS
+missile warning capabilities such as China declares that GPS navigation products are tools of the U.S. military and can no
+commercially hosted payloads and longer be used within Chinese territory, including its disputed maritime and air space
+SCENARIOS FOR DEFENSIVE COUNTERSPACE OPERATIONS 31 HARRISON, JOHNSON, YOUNG
+
+claims in the South China Sea. China Pacific (RIMPAC) exercise among U.S. and ◊ Begin emergency deployment of
+convinces many of its Belt and Road cli- partner nations in the region, and both M-Code receivers to the most criti-
+ents to follow suit and restrict the use of civilian and military air and maritime us- cal U.S. and allied ships, whether
+GPS in their territory as well. Further- ers begin to feel the impacts immediate- commercial or military, to restore
+more, China states that this mandate will ly. The U.S. Intelligence Community, us- freedom of navigation in the area.
+be enforced by selective intermittent ing government and commercial assets,
+◊ Direct the National Reconnaissance
+jamming of U.S. GPS frequencies and sig- begins to map the locations of the jam-
+Office (NRO) and National Geospa-
+nals “at the times and places of our mers. Several images of jamming loca-
+tial-Intelligence Agency (NGA) to
+choosing.” International air and mari- tions appear in published think tank re-
+prioritize radar imaging in the In-
+time carriers not currently using BeiDou ports that expose what the Chinese are
+do-PACOM region and develop a
+are given six months to transition.
+doing. Fearing that the United States
+means to responsively locate mo-
+may try to target the jammers under the
+China and its client states in the region
+bile lasers to alert commercial and
+cover of the ongoing exercise, the Chi-
+begin to locate GPS jammers around
+government satellite imagers where
+nese announce that any U.S. satellites
+their borders and on natural and artifi-
+they should not point.
+collecting intelligence over Chinese terri-
+cial islands in the South China Sea. The
+tory will face possible engagement by ◊ Blind Chinese imagery satellites
+Chinese jammers are burst mode jam-
+mobile ground-based lasers “intended over U.S. territory.
+mers, which routinely emit bursts of
+to prevent illegal spying.” As Chinese sat-
+noise into both the L1 and L2 bands to ◊ Jam BeiDou signals in the South
+ellite blinding activities begin, several
+prevent GPS receivers from maintaining China Sea.
+U.S. commercial imagery satellite opera-
+a continuous lock on the signals within
+◊ Other options?
+a large zone. tors report permanent damage to their
+systems. Some U.S. classified satellite
+• What additional capabilities do you
+The countries involved and their dis- imagery systems temporarily cease oper-
+wish you had?
+tributed island geography effectively
+ation in the region for fear of damage.
+create a no-GPS-usage zone for anyone ◊ Multi-GNSS receivers to allow U.S.
+using the GPS civilian signal (C/A Code) Questions for Participants: forces to use BeiDou and other sys-
+within broad parts of the South China tems when GPS is not available.
+Sea. Traditional P(Y) code and Selec- • Are the GPS jamming and laser
+◊ Greater fielding of anti-jam anten-
+tive Availability Anti-spoofing Module blinding attacks in this scenario acts
+nae on U.S. platforms.
+(SAASM) receivers are also impacted of aggression, uses of force, or armed
+for military users who have not upgrad- attacks? ◊ Capability for greater anti-jam pow-
+ed to M-code receivers.90 er in the GPS system.
+• What are your diplomatic and informa-
+◊ Ability to field long-endurance,
+The United States and its allies protest tional options (public and private), and
+high-altitude aircraft or blimps to
+the Chinese action to the International what are the pros and cons of each?
+provide backup signals in affected
+Telecommunication Union (ITU), but the
+ITU notes that the question of landing • What are the pros and cons of differ- regions.
+ent responses in space?
+rights for GPS signals has never been tak- ◊ Laser protection technologies that
+en up or requested by the United States. ◊ Jam all satellite communications could be shared with U.S. commer-
+Therefore, the GPS signal is not protect- between Chinese island outposts cial imagery providers and mandat-
+ed, and sovereign nations can refuse to and the mainland and enlist the ed as a condition of U.S. govern-
+allow the GPS signals to be received and Navy to sever undersea cables to ment imagery contracts.
+used within their territory, just as the the islands as well.
+◊ Ability to transparently task allied
+United States has barred non-GPS GNSS
+◊ Use maximum flex power capabili-
+signals from being used in its territory.91 satellite imagery systems as easily
+ties within the GPS system to boost
+The ITU does not address the issue of as U.S. government and commer-
+C/A and P(Y) signals by robbing
+Chinese sovereignty over disputed is- cial assets.
+power from the M-code signal, rec-
+lands in the South China Sea.
+◊ Ability to rapidly reconstitute imag-
+CLICK TO ognizing that there will be an im-
+FLY BACK TO
+THE CONTENTS ery satellites if they are blinded.
+The first Chinese jamming campaign oc- pact to those who have upgraded
+curs on the eve of the biennial Rim of the to M-code receivers. ◊ Others?
+SCENARIOS FOR DEFENSIVE COUNTERSPACE OPERATIONS 32 HARRISON, JOHNSON, YOUNG
+
+previously unknown objects that seem U.S. GEO satellites for rapid execu-
+PART B:
+to have originated from the Earth- tion once possible crossing points
+ESCALATING TENSIONS Moon L2 Lagrange point (where a Chi- for the reentering lunar satellites
+nese lunar relay satellite had been po- are determined.
+ON THE ROAD TO
+sitioned since 2018) now accelerating
+◊ Identify and jam the communica-
+ARMED CONFLICT
+toward the Earth. The final trajectory
+tion links to the reentering Chi-
+The United States responds to the Chi- and timing are uncertain, but it is clear nese lunar satellites.
+nese actions in multiple domains, in- they will cross the GEO belt within two
+cluding sanctions on shipping, SAT- days. The National Space Defense Cen- • What additional capabilities do you
+COM jamming, and cyberattacks on ter calculates that many GEO objects wish you had?
+Chinese outposts in the South China could be at risk, but it cannot yet tell ◊ Greater access to tactically pro-
+Sea. The Chinese respond by similarly which ones. tected AEHF satellite communica-
+jamming U.S. SATCOM capabilities, tions for all U.S. forces.
+Questions for Participants:
+both commercial and military, from the
+◊ Extensive LEO communication ca-
+mainland. The U.S. military’s Mobile
+• Was the U.S. response posited at the pabilities which cannot be easily
+User Objective System (MUOS) ul-
+beginning of Part B proportional to jammed over the horizon, espe-
+tra-high frequency service is down, as
+the actions that occurred in Part A, cially for small tactical users con-
+is the commercial Ku band, normally
+and was it allowable under the Law strained to MUOS.
+used to support drone operations.
+Jamming of the Wideband Global SAT- of Armed Conflict? ◊ Proliferated constellations in diver-
+COM (WGS) system severely limits its sified orbits to complicate Chinese
+• Are the Chinese SATCOM jamming
+capacity. U.S. and allied naval forces in jamming and other forms of attack.
+and the movement of its lunar assets
+the South China Sea that do not have in this scenario acts of aggression, ◊ More extensive deep space sur-
+AEHF radios installed are now without uses of force, or armed attacks? veillance to track and catalog ob-
+reliable or robust communication ser-
+jects beyond GEO.
+vices, severely constraining their oper- • What are your diplomatic and infor-
+◊ Existing Civil Reserve Air Fleet
+ations. U.S. commercial shipping is es- mational options (public and pri-
+(CRAF)-like arrangements with
+sentially sailing blind without vate), and what are the pros and cons
+U.S. commercial SATCOM provid-
+communication or GPS, which causes of each?
+ers to rapidly shore up communi-
+trade in the region to grind to a halt.
+• What are the pros and cons of differ- cation capabilities in a crisis.
+The United States begins to maneuver ent responses in space? ◊ Others?
+two WGS satellites into better positions
+◊ Free up bandwidth on AEHF for
+to restore some SATCOM capacity in FINDINGS
+more tactical use by naval forces
+the region and works with the CSpOC
+(at the expense of strategic AEHF While participants did not consider
+to quietly arrange alternative commu-
+users). GPS jamming alone an act of war,
+nication systems using non-U.S. com-
+many considered it a clear use of force
+mercial or allied military satellites. The ◊ Provide guarantees to U.S. and al-
+and a potential act of aggression as it
+United States also initiates a campaign lied commercial SATCOM provid-
+was used in the scenario. Some noted
+of Geosynchronous Space Situational ers that they will be reimbursed
+that jamming and spoofing are two of
+Awareness Program (GSSAP) close in- for loss of satellite lifetime and
+the most frequently used counter-
+spections on Chinese GEO assets to sig- revenues if they can more quickly
+space weapons and that, to protect
+nal U.S. resolve. The Chinese begin to reposition their satellites and free
+against it, the United States should ac-
+intercept and board U.S. commercial up bandwidth for use in the area.
+celerate the fielding of M-code GPS re-
+ships, which the Chinese assert have
+◊ Request support from USCYBER-
+ceivers to make them harder to jam.
+sailed into Chinese-claimed waters
+COM to disable both mainland
+Experts also noted that multi-GNSS
+and are violating its prohibition on the
+Chinese jammers and space sur-
+receivers, or the ability to use other
+use of GPS.
+veillance sites to prevent accurate
+CLICK TO PNT signals from constellations such
+FLY BACK TO
+THE CONTENTS tracking of U.S. GEO satellites.
+As tensions further escalate, U.S. space as Galileo, BeiDou, and GLONASS,
+surveillance systems detect several ◊ Prepare maneuver plans for all would have been useful in this situa-
+SCENARIOS FOR DEFENSIVE COUNTERSPACE OPERATIONS 33 HARRISON, JOHNSON, YOUNG
+
+tion because it would have made Chi- blinding Chinese imagery satellites, us- sian sword), are responsible for space-
+na’s GPS jamming ineffective. ing the Navy to forcibly restore free- based jamming of the broadcasts.
+dom of navigation in the South China
+Some participants considered using Months later, the two Shamshir satel-
+Sea, and retaliating with economic
+active defensive operations in this sce- lites undergo a high-impulse maneuver,
+sanctions against China for the disrup-
+nario, including jamming of BeiDou putting them into a westward drift in
+tion of commercial shipping.
+within the region. Several felt that es- GEO toward the United States. The jam-
+calating to widespread BeiDou jam- Participants emphasized the need for ming of Radio Farda ceases, but U.S. in-
+ming operations beyond the region reconstitution capabilities to replace telligence does not see an immediate
+could be sufficient to deter further Chi- lost or degraded ISR capabilities threat to any DoD or IC assets because it
+nese action. However, a global BeiDou quickly, including more imagery judges that these satellites are limited
+jamming operation would require sup- satellites, pseudo-satellites, or other to civilian SATCOM frequencies.
+port from allies and partners as well as high-altitude ISR systems. They also
+U.S. military and commercial sensors lat-
+a robust PNT jamming capability. Oth- noted the need for more extensive
+er determine that the two Shamshir sat-
+er proportional responses suggested deep space surveillance to track and
+ellites are nearing the orbital slot cur-
+by participants included dazzling or catalog objects beyond GEO.
+rently occupied by three U.S. DirecTV
+satellites located at 99.2°W longitude.92
+As the two Shamshir satellites come
+within close proximity to the first DirecTV
+SSCCEENNAARRIIOO 44
+satellite, it begins to experience signifi-
+cant interference. Over the course of the
+next few days, DirecTV loses all contact
+with the satellite. Telemetry streams in-
+CCOOMMMMEERRCCIIAALL SSPPAACCEE dicate that the front-end low noise am-
+plifier on the receiver side was highly sat-
+urated (overloaded) as one of the
+Shamshir satellites approached, and it
+SSYYSSTTEEMM PPRROOTTEECCTTIIOONN
+eventually burned out the amplifier.
+Within a week, all three DirecTV satel-
+Hostilities between the United States and Iran have once again been flaring lites in this orbital slot are non-opera-
+up over Iran’s nuclear program. New, more onerous sanctions are taking tional. DirecTV maintains robust on-or-
+their toll on the Iranian economy, and Iran has promised strong retaliation. bit spares, with a second set of 3
+Iran is now a player in the space domain as well, and it succeeds in launching two satellites at 102.8°W, but the loss of
+small satellites into GEO with the help of Russia and China. Iran claims these sat- their fleet at 99.2°W significantly im-
+ellites are for experimental purposes. A close inspection by U.S. GSSAP inspector pacts DirecTV customers. As the Sham-
+satellites reveals two large, high- shir satellites begin a second drift to-
+Field of View ly directional antenna dishes on ward the 102.8°W orbital slot, Iran
+100° W
+the satellites, which seem more informs the United States that it will
+consistent with a co-orbital jam- continue to attack U.S. commercial
+ming capability. broadcast satellites unless the U.S.
+sanctions are lifted. The Super Bowl is
+In recent months U.S.
+Uplink next week, and the loss of these last
+Footprint broadcasts of Radio
+three satellites will impact millions of
+Shamshir-1 Farda, the Iranian branch of Ra-
+North American customers.
+dio Free Europe, has suffered
+country-wide outages in Iran. Current intelligence indicates that the
+USSPACECOM and the U.S. Intel- satellites are being controlled from a
+CLICK TO ligence Community suspect that high-powered base station in Venezue-
+FLY BACK TO
+THE CONTENTS
+the Iranian satellites, nicknamed la. The United States judges that it could
+“Shamshir” (after a type of Per- likely jam the uplink, but this would re-
+SCENARIOS FOR DEFENSIVE COUNTERSPACE OPERATIONS 34 HARRISON, JOHNSON, YOUNG
+
+quire jammers positioned very close to • What additional capabilities do you A common thread throughout all the
+Venezuela. Aruba, part of the Kingdom wish you had? scenarios was the need for better SDA.
+of the Netherlands, is the most likely po- Accurate, timely, and comprehensive
+◊ More practical exercises and train-
+tential basing option. The United States SDA is fundamental to providing deci-
+ing with civilian and commercial
+refuses to comply with Iran’s demands sionmakers with the information they
+satellite operators to understand
+to lift the sanctions and instead directs need to properly assess options. While
+how to react more quickly in these
+the military to develop options to stop ground-based SDA is integral, many ex-
+types of scenarios.
+the Iranian satellites from carrying out perts suggested further investments in
+◊ Airborne or shipborne jamming
+further attacks. space-based SDA systems. These
+systems to allow more responsive
+space-based systems could include
+uplink jamming options.
+Questions for Participants: on-orbit radars and inspector satellites
+◊ On-orbit defensive satellites in su- that can maneuver to provide more in-
+• Is the interference and damage persynchronous orbit to rapidly formation during a crisis. It was also
+caused by the Shamshir satellites in reach any longitude in GEO. clear that without SDA for cislunar and
+this scenario a hostile act, an act of
+◊ Ground-based or co-orbital ASAT lunar space, U.S. decisionmakers
+aggression, a use of force, or an
+weapons capable of disabling sat- would be at a great disadvantage if ad-
+armed attack?
+ellites in GEO using HPM weapons. versary space operations extended be-
+yond the typical Earth orbits.
+• What are your diplomatic and informa- ◊ Others?
+tional options (public and private), and
+Norms, rules of the road, and well-com-
+what are the pros and cons of each? FINDINGS
+municated thresholds also emerged in
+Since this aggressive action against a the discussions for each scenario. Par-
+• What are some response options
+along with their pros and cons? commercial company in space was rel- ticipants agreed that without widely ac-
+atively unprecedented, participants cepted norms of behavior in space, the
+◊ Request the Kingdom of the Neth-
+discussed proportionality and how United States is in murky waters. While
+erlands to allow the United States
+deeply the U.S. military should be in- norms will likely be disregarded once a
+to position a jammer on the island
+volved in such a situation. Economic conflict begins, they are useful in pro-
+of Aruba to jam the Shamshir up-
+sanctions and other non-space re- viding indications and warnings and
+link but recognize that it might
+sponses were considered first, before
+shaping the environment prior to con-
+take weeks to receive permission.
+moving to actions affecting the space
+flict. Participants also noted that norms
+◊ Base a jammer on a U.S. Navy ship domain. Again, it was emphasized by in other domains, such as approaching
+in international waters off the experts that if established norms of be- the perimeter of a military base or a
+coast of Venezuela to jam Iranian havior were in place, these actions may speedboat approaching a warship at
+uplinks to its satellites. have been deterred or Iran would have sea, often do not translate well into the
+more international pressure to rectify
+◊ Request assistance from USCY- space domain. For example, it is widely
+its actions.
+BERCOM to disable the ground understood that using deadly force to
+station in Venezuela. stop someone from breaching or at-
+KEY TAKEAWAYS
+tempting to breach the perimeter of a
+◊ Request assistance from USSO-
+Throughout the workshops, several dif- military base is an appropriate and jus-
+COM to deploy a team to physical-
+ferent operational concepts were con- tifiable use of military force. But it is not
+ly sabotage the ground station in
+sidered and discussed among experts widely accepted that similar capabili-
+Venezuela.
+on how best to protect U.S. assets from ties in space, such as a kinetic shoot-
+◊ Assist DirectTV in tracking the
+counterspace attacks. It was widely back system, can be used to stop anoth-
+Shamshir satellites, and provide
+agreed that no single defensive concept er nation’s satellite from closely
+maneuver and antenna pointing
+would be sufficient to protect against all approaching a military satellite. While
+options that would prevent dam-
+counterspace attacks. Therefore, the close approaches occur in the air do-
+age but would also take the Di-
+U.S. government needs multiple con- main, such as aircraft from one nation
+recTV satellites out of service
+CLICK TO cepts of operation and defensive capa- flying dangerously close to U.S. aircraft
+FLY BACK TO
+THE CONTENTS while the actions are underway.
+bilities to provide a wide range of op- operating in international airspace, a
+◊ Other options? tions to decisionmakers in a crisis. key difference is that in the air domain
+SCENARIOS FOR DEFENSIVE COUNTERSPACE OPERATIONS 35 HARRISON, JOHNSON, YOUNG
+
+both sides eventually must go back to tems. Investing in cyber capabilities
+their respective bases. In space, a close and the flexibility of such counterspace
+approach—including one that interferes attacks or defensive options would al-
+with a satellite’s mission capabilities— low decisionmakers to have more at-
+can be maintained continuously for tractive defensive options.
+months or years.
+In space, all objects are constantly in
+motion, and therefore linear rules of
+engagement, such as maintaining safe-
+ty perimeters around critical assets,
+are not practical. A simple keep-out
+distance around satellites is not suffi-
+cient because the threat another space
+object poses depends on more than
+just distance. Defenders must be con-
+cerned about the change in velocity
+(delta V) needed for one satellite to in-
+tersect another, the ability of other sat-
+ellites to maneuver, recent maneuvers,
+and the capabilities of an approaching
+satellite. Moreover, all of this is compli-
+cated by imperfect, delayed, and inter-
+mittent information on what is hap-
+pening in the space domain.
+It was commonly agreed in the work-
+shops that a proportional response to
+an attack in space may not be an action
+in the space domain. This may cause or
+aggravate tensions between USSPACE-
+COM, USSTRATCOM, and other regional
+combatant commands, depending on
+which countries are involved in the
+conflict. A key takeaway from the work-
+shops was that it is important to use
+such scenarios within DoD and among
+allies to practice and determine how
+the chain of command and responsibil-
+ities for being the supported and sup-
+porting command might shift during a
+conflict.
+Experts also agreed that more informa-
+tion on or better options for cyberat-
+tacks on and against space systems is
+essential. Cyberattacks were often
+viewed as a possible convenient and
+CLICK TO proportional response, especially if the
+FLY BACK TO
+THE CONTENTS
+cyberattacks could be directed against
+the perpetrating adversary space sys-
+SCENARIOS FOR DEFENSIVE COUNTERSPACE OPERATIONS 36 HARRISON, JOHNSON, YOUNG
+
+DDEEFFEENNSSEE AAGGAAIINNSSTT TTHHEE CCHHAAPPTTEERR 66 DDAARRKKSS AARRTTSS IINN SSPPAACCEE
+CONCLUSIONS AND
+RECOMMENDATIONS
+The United States maintains a of modernizing many of its key between satellites intended for different
+“Numbing
+distinct strategic advantage satellite constellations. The deci- missions or may not trust this distinc-
+the pain
+in space. While China and sions made over the coming tion. Disaggregation of strategic and tac-
+for a
+Russia have significant space ca- months and years about what tical missions may also make attacking a
+while will
+pabilities of their own, the main types of space architectures to tactical system more attractive because
+make it
+security challenge they pose in field and which defenses to incor- it reduces the risk of strategic escalation.
+space is the wide array of counter- worse porate will have repercussions for
+Technical types of passive defenses,
+space weapons they continue to when you the life of these systems. As this
+such as electromagnetic shielding,
+develop, test, and proliferate. Rus- finally report demonstrates, a wide
+jam-resistant waveforms, and antenna
+sia and China are arguably making feel it.” range of active and passive de-
+nulling, can make systems more diffi-
+advances in counterspace weap- fenses are available to protect
+cult to attack and can limit the degra-
+ALBUS
+ons faster than the United States is space systems and the ground in-
+DUMBLEDORE, dation in capabilities that occurs
+improving its defenses against HARRY POTTER frastructure they depend upon
+during an attack. The main downside
+AND THE
+these threats. While the public dis- from different types of threats.
+GOBLET OF for technical defenses is that they can
+course about the threats to space FIRE add cost, weight, and complexity to
+Space defenses can be organized
+systems—not just from Russia and
+systems. Space domain awareness,
+into three categories of passive defenses
+China but also from lesser powers such
+particularly from space-based systems,
+(architectural, technical, and operation-
+as North Korea and Iran—has become
+stands out as particularly important
+al) and two categories of active defenses
+more prominent in recent years, the lack
+because it is helpful across a wide vari-
+(space-based and terrestrial-based).
+of a concurrent discussion about how to
+ety of scenarios and is a key enabler
+Among the architectural passive defens-
+defend space systems against these
+that makes many other types of space
+es explored in this study, one of the key
+threats has left some to incorrectly con- defenses more effective. The need to
+takeaways is that distributed, diversified,
+clude that space is not defendable. improve space domain awareness ca-
+and proliferated constellations can all be
+pabilities was a consistent theme
+Given the myriad of defensive options used in various combinations to compli-
+throughout the workshops conducted
+available, the question facing policy- cate the targeting calculus of an adver-
+as part of this study.
+makers is not whether space is defend- sary and reduce the benefits of attacking
+able but rather which defenses the mili- any single satellite. Disaggregating space Operational passive defenses, such as
+tary should be investing in and how missions to separate platforms may re- satellite maneuver, stealth, deception,
+CLICK TO they should be employed. This conver- duce the risks of miscalculation and in- and decoys, can be used to make satel-
+FLY BACK TO
+THE CONTENTS
+sation is especially important now be- advertent escalation in a conflict, but an lites difficult to find, track, and target.
+cause the U.S. military is in the process adversary may not be able to distinguish Rapid deployment can be used to
+CONCLUSIONS AND RECOMMENDATIONS 37 HARRISON, JOHNSON, YOUNG
+
+launch new capabilities an adversary tainty about whether such attacks A broad conclusion from this study is
+may not be expecting once a conflict be- would be feasible and effective in a cri- that the character of space warfare is
+gins, and reconstitution can be used to sis. Terrestrial-based kinetic forms of evolving. This evolution is being driven
+replace systems that are damaged or attack to disable an adversary’s coun- by how the major military powers view
+destroyed. However, maneuver is not terspace weapons, such as a direct-as- and use the space domain—particular-
+likely to be a successful defense on its cent ASAT attack in space or firing cruise ly whether it is primarily an informa-
+own because ASAT warheads have an missiles at counterspace ground sites, tion domain or a physical domain. The
+inherent maneuver advantage over tended to be viewed as more escalatory information domain school of thought
+large satellites, and reconstitution ca- options that would likely be reserved emphasizes the use of space for remote
+pabilities may not be useful in a conflict until armed conflict was already under- sensing and communications. It is an
+until an adversary’s counterspace capa- way on the ground. The United States enabler for forces in the other domains
+bilities are neutralized. and its allies and partners have a strong and a key component of battle net-
+incentive to avoid using kinetic attacks works and the sensor-to-shooter kill
+Space-based active defenses protect
+in space that are likely to produce orbit- chain. This school of thought has dom-
+space systems by disrupting or destroy-
+al debris, even if such defenses may be inated the planning for conflict that
+ing an adversary’s counterspace weap-
+warranted. could begin or extend into space for
+ons, effectively raising the costs of at-
+nearly six decades.
+tacking space systems. Non-kinetic
+The workshops and hypothetical scenar-
+active defenses can be deployed in In contrast, the physical domain school
+ios for conflict in space also highlighted
+space to jam or spoof adversary radars of thought places relatively more em-
+many ambiguities that exist in space. As
+systems, to blind optical or infrared sen- phasis on the physical components of
+a physically distant and inhospitable en-
+sors, or to create physically damaging operations in space, including space
+vironment, it can be difficult to monitor
+effects on ASAT weapons using directed launch, the application of force in space
+and understand adversary capabilities
+energy systems. A kinetic shoot-back or from space, and the use of space for
+and intentions in the space domain, sim-
+system can use projectiles, guided war- transportation, logistics, and other
+ilar to the difficulties encountered in un-
+heads, or small satellites to physically physical support functions. While some
+dersea operations. Dual-use space sys-
+impact a threat in space. These kinetic of these more physically focused mili-
+tems that can be used for both peaceful
+and non-kinetic systems can be de- tary space missions are still in their in-
+and military purposes and the lack of
+ployed on the satellites they protect or fancy, they are likely to become increas-
+widely accepted norms of behavior in
+on separate guardian satellites that or- ingly prominent in the coming years due
+space further compound this problem of
+bit nearby or roam among satellites, to reductions in the cost of launch and
+understanding actions and intents.
+creating a zone defense. The workshops the proliferation of counterspace weap-
+These factors combine to make it diffi-
+and scenarios highlighted the value of ons and space defenses.
+cult to determine proportionality of a re-
+having a satellite that can physically
+sponse, including whether certain defen-
+The challenge for space strategists is to
+seize objects in space to move or dis-
+sive actions are warranted. Thresholds anticipate how this gradual shift from
+able them. This could be particularly
+for triggering defensive actions or offen- space being more focused on informa-
+useful in situations where there is ambi-
+sive escalation may appear fluid or con- tion operations to physical
+guity about a threatening object’s real
+fusing to an opponent because these operations will proceed. The “You sort
+status and capabilities or where deci-
+thresholds can be non-linear and highly evolution in the character of of start
+sionmakers may want to mitigate the
+risk of orbital debris. context dependent. This study also space conflict and how quick- thinking
+found that there is significant overlap be- ly that evolution proceeds
+anything’s
+Terrestrial-based active defenses can be tween the capabilities needed for defen- directly impacts the types of
+possible if
+used to target counterspace weapons in sive and offensive counterspace opera- space defenses and opera-
+you’ve got
+space and the ground systems that con- tions, particularly for active forms of tional concepts the military
+enough
+trol and operate these weapons. Cyber- space defense. For example, an adver- should be developing today.
+attacks and jamming or spoofing of sary could view a space-based shoot- With the evolving character nerve.”
+command uplinks to counterspace back system, whether kinetic or non-ki- of space warfare in mind, this
+GINNY WEASLEY,
+CLICK TO weapons proved to be attractive op- netic, as no different than an offensive study recommends the fol- HARRY POTTER
+FLY BACK TO
+THE CONTENTS tions in the workshop scenarios, al- space-based ASAT system or a space- lowing priorities, actions, AND THE
+HALF-BLOOD
+though participants noted the uncer- based missile interceptor system. and additional analysis.
+PRINCE
+CONCLUSIONS AND RECOMMENDATIONS 38 HARRISON, JOHNSON, YOUNG
+
+These recommendations are made • A better understanding is needed of
+“We must choose
+without regard for what may already ex- the operational, political, and strate-
+between what is easy
+ist or be in development. gic risks involved in the use of stealth,
+and what is right.”
+maneuver, rapid deployment, and
+• A priority should be placed on in- reconstitution before committing ALBUS DUMBLEDORE, HARRY
+vestments in improved space do- significant resources to these passive POTTER AND THE GOBLET OF FIRE
+main awareness capabilities, to in- defenses.
+clude more space-based sensors,
+• Further analysis and gaming are
+better integration with commercial
+needed to explore gray zone compe-
+and friendly foreign government
+tition in space and when it is advan-
+systems, and the use of artificial in-
+tageous (or not) to do nothing in re-
+telligence to analyze data and form
+sponse to an attack or threat of
+a better understanding of capabili-
+attack.
+ties and intentions.
+If space is to remain a source of eco-
+• Additional effort should be placed on
+nomic and strategic advantage, the
+developing improved indications
+United States must prioritize and expe-
+and warnings for space that give de-
+dite its efforts to improve space defens-
+cisionmakers more time and infor-
+es. Robust space defenses make con-
+mation to tailor potential defensive
+flict in space less likely. Many of the
+responses to the specific circum-
+architectures and technologies already
+stances of a conflict.
+exist to make space systems more de-
+fendable and resilient. Senior leaders
+• New space architectures are needed
+in DoD and Congress need to make
+that use a combination of distribu-
+top-level decisions about which types
+tion, proliferation, and diversification
+of defenses to pursue and then provide
+of orbits. These new architectures do
+sustained investments to fund these
+not necessarily need to replace legacy
+capabilities to fruition.
+architectures but rather can be used
+to supplement and diversify capabili-
+ties that already exist.
+• Non-kinetic active defenses, such as
+onboard jamming and lasing systems,
+are needed to thwart kinetic attacks
+against high-value satellites. A physical
+seizure capability should also be ex-
+plored that could double as an inspec-
+tor and on-orbit servicing satellite.
+• New options should be considered
+to improve DoD’s integration with
+commercial space operators and
+better leverage existing space sys-
+tems for national security purposes.
+For example, DoD could create a
+program like the Civil Reserve Air
+Fleet (CRAF) with commercial space
+operators and use that program to
+CLICK TO incentivize investments in better
+FLY BACK TO
+THE CONTENTS
+passive defenses for commercial
+space systems.
+CONCLUSIONS AND RECOMMENDATIONS 39 HARRISON, JOHNSON, YOUNG
+
+ABOUT THE AUTHORS
+Todd Harrison is the director of Defense Budget Analysis and director of the
+Aerospace Security Project at CSIS. As a senior fellow in the International Security
+Program, he leads the Center’s efforts to provide in-depth, nonpartisan research
+and analysis of defense funding, space security, and air power issues. He has au-
+thored publications on trends in the defense budget, military space systems, threats
+to space systems, civil space exploration, defense acquisitions, military compensa-
+tion and readiness, and military force structure, among other topics. He teaches
+classes on military space systems and the defense budget at the Johns Hopkins
+“Mischief Managed”
+School of Advanced International Studies.
+HARRY POTTER, HARRY POTTER AND
+Mr. Harrison joined CSIS from the Center for Strategic and Budgetary Assessments, THE PRISONER OF AZKABAN
+where he was a senior fellow for defense budget studies. He previously worked at
+Booz Allen Hamilton, where he consulted for the U.S. Air Force on satellite commu-
+nications systems and supported a variety of other clients evaluating the perfor-
+mance of acquisition programs. Prior to Booz Allen, he worked for AeroAstro Inc.
+developing advanced space technologies and as a management consultant at Dia-
+mond Cluster International. Mr. Harrison served as a captain in the U.S. Air Force
+Reserves. He is a graduate of the Massachusetts Institute of Technology with both a
+BS and an MS in aeronautics and astronautics. Mr. Harrison is a proud member of
+Gryffindor House.
+Kaitlyn Johnson is deputy director and fellow of the Aerospace Security Proj-
+ect at the Center for Strategic and International Studies. Ms. Johnson manages
+the team’s strategic planning and research agenda. Her research specializes in
+topics such as space security, military space systems, commercial space policy,
+and U.S. air dominance. Previously, Ms. Johnson has written on national security
+space reorganization, threats against space assets, the commercialization of
+space, escalation and deterrence dynamics, and defense acquisition trends. Ms.
+Johnson holds an MA from American University in U.S. foreign policy and national
+security studies, with a concentration in defense and space security, and a BS
+from the Georgia Institute of Technology in international affairs. Ms. Johnson is a
+proud member of Slytherin House.
+Makena Young is a research associate with the Aerospace Security Project at the
+Center for Strategic and International Studies (CSIS). Her research interests include
+international collaboration, space security, and orbital debris. Prior to joining CSIS,
+Ms. Young worked for the Federal Aviation Administration as an aerospace engineer,
+focusing on automatic dependent surveillance-broadcast certification and integra-
+tion in small aircraft. She holds a BS in aeronautical and astronautical engineering
+from Purdue University with minors in international relations and environmental
+engineering. Ms. Young is a proud member of Hufflepuff house.
+CLICK TO
+FLY BACK TO
+THE CONTENTS
+ABOUT THE AUTHORS 40 HARRISON, JOHNSON, YOUNG
+
+ENDNOTES
+1 Traditional U.S. strategy notionally demarks six phases of operational action: Phase 0
+– Shape, Phase I – Deter, Phase II – Seize the Initiative, Phase III – Dominate, Phase IV
+– Stabilize, and Phase V – Enable Civil Authority.
+2 Robert Bowman, Star Wars: A Defense Insider’s Case Against the Strategic Defense
+Initiative (Los Angeles, CA: Teachers Publications, 1986), 14.
+3 Laura Grego, “A History of Anti-Satellite Programs,” Union of Concerned Scientists,
+, 3, 
+files/2019-09/a-history-of-ASAT-programs_lo-res.pdf.
+4 See Caroline Dorminey and Eric Gomez, eds., America’s Nuclear Crossroads (Washing-
+ton, DC: Cato Institute, 2019), 30, 
+americas-nuclear-crossroads-full.pdf.
+5 “Advance Policy Questions for General John W. ‘Jay’ Raymond,” Senate Committee on
+Armed Services, 116th Cong., 1st sess., 2019, 6, 
+gov/imo/media/doc/Raymond_APQs_06-04-19.pdf.
+6 “2020 year in review,” Bryce Space and Technologies, October 31, 2020, https://
+brycetech.com/reports/report-documents/Bryce_2020_Year_In_Review.png.
+7 Starlink passed the 1,000 satellites launched mark in early 2021, China had 363
+satellites operational as of . See: Jeff Foust, “SpaceX surpasses 1,000-satel-
+lite mark in latest Starlink launch,” SpaceNews, January 20, 2021, 
+com/spacex-surpasses-1000-satellite-mark-in-latest-starlink-launch/; and China Power
+Team, “How is China Advancing its Space Launch Capabilities?” China Power, Novem-
+ber 5, 2019, Updated August 25, 2020, Accessed January 25, 2021, 
+csis.org/china-space-launch/.
+8 See: Todd Harrison et al., Space Threat Assessment 2020 (Washington, DC: CSIS, ), 
+Assessment20_WEB_FINAL-min.pdf; Victoria Samson and Brian Weeden, Global
+Counterspace Capabilities (Washington, DC: Secure World Foundation, ),
+ and
+U.S. Defense Intelligence Agency, Challenges to Security in Space (Washington, D.C.,
+), 
+Power%20Publications/Space_Threat_V14_020119_sm.pdf.
+9 Joan Johnson-Freese, Space as a Strategic Asset (New York: Columbia University Press,
+2007), 106.
+10 Todd Harrison, International Perspectives on Space Weapons (Washington, DC: CSIS, May
+27, 2020), 
+11 U.S. Joint Chiefs of Staff, Joint Publication 3-14: Space Operations (Washington, DC:
+), I-2, 
+pdf?ver=qmkgYPyKBvsIZyrnswSMCg%3d%3d.
+12 Harrison, International Perspectives on Space Weapons.
+13 “USSF Mission,” U.S. Space Force, n.d., 
+Space-Force/Mission/.
+14 “Mission,” U.S. Space Command, n.d., 
+15 Kevin L. Pollpeter, Michael S. Chase, and Eric Heginbotham, The Creation of the PLA
+Strategic Support Force and Its Implications for Chinese Military Space Operations (Santa
+Monica, CA: RAND, 2017), 16, 
+16 Ibid., 14.
+17 Harrison et, al., Space Threat Assessment 2020, 11.
+CLICK TO
+FLY BACK TO
+THE CONTENTS 18 Ibid., 25.
+19 There is not one perfect source for determining where Russian counterspace
+ENDNOTES 41 HARRISON, JOHNSON, YOUNG
+
+weapons are housed. Recent suspiciously maneuvering LEO satellites were launched
+and operated by the Russian Aerospace Forces. However, the the Peresvet ground-
+based laser, which would ostensibly be operated by the Aerospace Forces, has been
+tracked to Strategic Missile Forces bases. See: “Russia Launches Kosmos 2542
+Military Satellite Abroad Soyuz-2 Rocket,” Defpost, November 27, 2019, https://
+defpost.com/russia-launches-kosmos-2542-military-satellite-abroad-soyuz-2-rock-
+et/; and Bart Hendrix, “Peresvet: a Russian mobile laser system to dazzle enemy
+satellites,” The Space Review, June 15, 2020, 
+article/3967/1.
+20 “Defense Space Strategy Summary,” French Ministry of Defense, , https://
+
+strate%CC%81gie%20spatiale%20de%20de%CC%81fense.pdf.
+21 Harrison et al., Space Threat Assessment, 51.
+22 Vivek Raghuvanshi, “India to launch a defense-based space research agency,” Defense
+News, June 12, 2019, 
+launch-a-defense-based-space-research-agency/.
+23 Paul Scharre, “The US Military Should Not Be Doubling Down on Space,” Defense One,
+August 1, 2018, 
+be-doubling-down-space/150194/?oref=d-river.
+24 Harrison et al., Space Threat Assessment, 3–4.
+25 Ibid., 3–4.
+26 “Treaty Banning Nuclear Weapon Tests in the Atmosphere, in Outer Space, and Under
+Water,” Department of State, 
+27 Andrea Shalal-Esa, “China Jamming Test Sparks U.S. Satellite Concerns,” Reuters, Octo-
+ber 5, 2006, as quoted in Yousaf Butt, “Effects of Chinese Laser Ranging on Imaging
+Satellites,” Science & Global Security 17, no. 1 (2009): 20–35, 
+curity.org/archive/sgs17butt.pdf.
+28 Harrison et al., Space Threat Assessment, 24–25.
+29 Brian Garino and Jane Gibson, “Space System Threats,” in AU-18 Space Primer
+(Maxwell Air Force Base, AL: Air University Press, ), 277, 
+au.af.mil/au-18-2009/au-18_chap21.pdf.
+30 Richard B. Langley et al., “Innovation: GNSS Spoofing Detection,” GPS World, June 1,
+2013, -spoofing-detection-correlating-carri-
+er-phase-with-ra pid-antenna-motion/.
+31 Harrison et al., Space Threat Assessment, 38–39.
+32 Tzvi Joffre, “U.S. warns of GPS interference, communications spoofing in Persian Gulf,”
+Jerusalem Post, August 8, 2019, 
+us-warns-of-gps-interference-communications-spoofing-in-persian-gulf-597998.
+33 Sui-Lee Wee, “China Denies It Is behind Hacking of U.S. Satellites,” Reuters, October 31,
+2011, us-china-us-hacking/china-denies-it-is-behind-
+hacking-of-u-s-satellites-idUSTRE79U1YI20111031.
+34 U.S.-China Economic and Security Review Commission, 2015 Report to Congress
+(Washington, DC: 2015), 296, 
+ports/2015%20Annual%20Report%20to%20Congress.PDF.
+35 Office of the Inspector General, Cybersecurity Management and Oversight at the Jet
+Propulsion Laboratory (Washington, DC: NASA, 2019), 8–9, 
+IG-19-022.pdf.
+36 U.S. Joint Chiefs of Staff, Joint Publication 3-14: Space Operations, I-2.
+37 U.S. Air Force, Annex 3-14 Counterspace Operations (Maxwell Air Force Base, AL: August
+FL C Y L B IC A K C K TO T O 2018), 10, 
+THE CONTENTS
+Counterspace-Ops.pdf; and John W. Raymond, Chief of Space Operations’ Planning
+Guidance (Washington, DC: ), 36, 
+ENDNOTES 42 HARRISON, JOHNSON, YOUNG
+
+Nov/09/2002531998/-1/-1/0/CSO%20PLANNING%20GUIDANCE.PDF.
+38 U.S. Air Force, Annex 3-14 Counterspace Operations, 9.
+39 Florence Parly, “Presentation of the Defense Space Strategy,” SatelliteObservation.net,
+July 25, 2019, English translation from: 
+frances-new-space-defense-strategy/.
+40 U.S. Joint Chiefs of Staff, Joint Publication 3-14: Space Operations, I-8.
+41 Tom Risen, “Disaggregation,” Aerospace America, April 17, 2017, 
+erica.aiaa.org/features/disaggregation/.
+42 Department of the Air Force, Department of Defense Fiscal Year (FY) 2021 Budget
+Estimates: Air Force: Research, Development, Test & Evaluation, Space Force (Washing-
+ton, DC: Department of Defense, ), 75–90, 
+Portals/84/documents/FY21/RDTE_/FY21%20Space%20Force%20Research%20
+Development%20Test%20and%20Evaluation.pdf?ver=2020-02-11-083608-887.
+43 Dorminey and Gomez, eds., America’s Nuclear Crossroads, 29-36.
+44 Ellen Pawlikowski, Doug Loverro, and Tom Cristler, “Disruptive Challenges, New Opportu-
+nities, and New Strategies,” Strategic Studies Quarterly, Spring 2012, 
+airuniversity.af.edu/Portals/10/SSQ/documents/Volume-06_Issue-1/Pawlikowski.pdf.
+45 Office of the Assistant Secretary of Defense for Homeland Defense & Global Security,
+Space Domain Mission Assurance: A Resilience Taxonomy (Washington, DC: Department
+of Defense, ), 6–7, 
+Policy/ResilienceTaxonomyWhitePaperFinal.pdf?ver=2016-12-27-131828-623.
+46 Risen, “Disaggregation.”
+47 U.S. Joint Chiefs of Staff, Joint Publication 3-14: Space Operations, I-8.
+48 Ibid., I-9.
+49 Winfred B. Hirschmann, “Profit from the Learning Curve,” Harvard Business Review,
+, 
+50 Sandra Erwin, “Boeing to deliver WGS-11 communications satellite to U.S. Air Force by
+2024,” Space News, December 26, 2019, 
+11-communications-satellite-to-u-s-air-force-by-2024/.
+51 Department of Defense, Department of Defense Fiscal Year (FY) 2021 Budget Estimates:
+Space Development Agency: Research, Development, Test & Evaluation, Defense-Wide,
+Vol. 5 (Washington, DC: ), 1, 
+tals/45/Documents/defbudget/fy2021/budget_justification/pdfs/03_RDT_and_E/
+SDA_PB2021.pdf.
+52 Office of the Assistant Secretary of Defense for Homeland Defense & Global Security,
+Space Domain Mission Assurance, 7.
+53 “Beidou Global Navigation Satellite System,” Information and Analysis Center for
+Position, Navigation, and Timing, n.d., 
+54 David Wright, Laura Grego, and Lisbeth Gronlund, The Physics of Space Security
+(Cambridge, MA: American Academy of Arts and Sciences, 2005), 114, 133, https://
+aerospace.csis.org/wp-content/uploads/2019/06/physics-space-security.pdf.
+55 Sandra Erwin, “Air Force: SSA is no more; it’s ‘Space Domain Awareness’,” Space News,
+November 14, 2019, 
+main-awareness/.
+56 Sandra Erwin, “Space Force needs sensors to distinguish weapons from benign
+objects,” Space News, January 6, 2021, 
+sors-to-distinguish-weapons-from-benign-objects/.
+57 “Geosynchronous Space Situational Awareness Program,” Air Force Space Command,
+CLICK TO June 22, 2017, 
+FLY BACK TO
+THE CONTENTS geosynchronous-space-situational-awareness-program-gssap/.
+58 Mark Dickinson, “A Space Data Association Focus: The current state of Space Situation-
+ENDNOTES 43 HARRISON, JOHNSON, YOUNG
+
+al Awareness (SSA),” Sat Magazine, , 
+php?number=1895054050.
+59 Sydney J. Freeberg, Jr., “US Jammed Own Satellites 261 Times; What If Enemy Did?,”
+Breaking Defense, December 2, 2015, 
+jammed-own-satellites-261-times-in-2015-what-if-an-enemy-tried/.
+60 “Technology,” HawkEye360, 
+61 David S. F. Portree, “Starfish and Apollo (1962),” Wired, March 21, 2012, 
+wired.com/2012/03/starfishandapollo-1962/.
+62 Wright, Grego, and Gronlund, The Physics of Space Security, 128.
+63 Ibid., 118.
+64 Mosa Ali Abu-Rgheff, Introduction to CDMA Wireless Communications (Cambridge, MA:
+Academic Press, 2007), p 167-169.
+65 Todd Harrison, The Future of MILSATCOM (Washington, DC: CSBA, 2013), 25–26, https://
+csbaonline.org/uploads/documents/Future-of-MILSATCOM-web.pdf.
+66 William C. Cummings, “An adaptive nulling antenna for military satellite communica-
+tions,” Lincoln Laboratory Journal 5, no. 2 (1992), 174, 
+viewdoc/download;jsessionid=A294DF289CCE0FA300F262BD361D77C2?-
+doi=10.1.1.230.8496&rep=rep1&type=pdf .
+67 Patrick Howell O’Neill, “The quest for quantum-proof encryption just made a leap
+forward,” MIT Technology Review, August 3, 2020, 
+com/2020/08/03/1005891/search-for-quantum-proof-encryption-computing-nist/.
+68 U.S. Joint Chiefs of Staff, Joint Publication 3-14: Space Operations, I-8.
+69 James Mattis, Summary of the National Defense Strategy of the United States of America
+(Washington, DC: Department of Defense, 2018), 6, 
+Documents/pubs/2018-National-Defense-Strategy-Summary.pdf.
+70 Wright, Grego, and Gronlund, The Physics of Space Security, 46.
+71 Rebecca Reesman and James R. Wilson, The Physics of Space War: How Orbital
+Dynamics Constrain Space-to-Space Engagements (El Segundo, CA: Aerospace Corpora-
+tion, ), 11–14, 
+man_PhysicsWarSpace_20201001.pdf.
+72 U.S. Congress, Office of Technology Assessment, Anti-Satellite Weapons, Countermea-
+sures, and Arms Control (Washington, DC: U.S. Government Printing Office, ), 81, 
+ASAT-Weapons-and-Countermeasures-1985.pdf.
+73 Jason A. Reiter, David B. Spencer, and Richard Linares, Spacecraft Stealth Through
+Orbit-Perturbing Maneuvers Using Reinforcement Learning (Reston, VA: American
+Institute of Aeronautics and Astronautics, ), 
+doi/10.2514/6.2020-0461.
+74 U.S. Joint Chiefs of Staff, Joint Publication 3-14: Space Operations, I-9.
+75 “MALD Decoy,” Raytheon, n.d., 
+capabilities/products/mald-decoy.
+76 Walker Mills, “A Tool for Deception: The Urgent Need for Em Decoys,” War Room, U.S.
+Army War College, February 27, 2020, 
+tactical-decoys/.
+77 U.S. Space Force, Spacepower: Doctrine for Space Forces (Washington, DC: ),
+36, 
+Aug%202020.pdf.
+78 For more on cross-domain deterrence, see: King Mallory, “New Challenges in Cross-Do-
+CLICK TO main Deterrence,” RAND, 2018, 
+FLY BACK TO
+THE CONTENTS perspectives/PE200/PE259/RAND_PE259.pdf.
+79 “Northrop Grumman to install LAIRCM laser missile defense systems aboard U.S. large
+ENDNOTES 44 HARRISON, JOHNSON, YOUNG
+
+military aircraft,” Military and Aerospace Electronics, May 6, 2020, 
+aerospace.com/sensors/article/14175295/laser-missile-defense-large-aircraft.
+80 Florence Parly, “Presentation of the Defense Space Strategy.”
+81 Thomas G. Roberts, “What Can 24 Satellites Do for U.S. Missile Defense?,” CSIS, CSIS
+Brief, , 
+publication/181018_Roberts_24SatellitesMissileDefense.pdf?9qnhsjRijr4PmHWE3N-
+sA0hshW2KlBJp6.
+82 Thomas G. Roberts, “Bad Idea: Space-Based Missile Interceptors,” CSIS Defense360,
+December 19, 2017, 
+roberts/.
+83 Caleb Henry, “Northrop Grumman’s MEV-1 servicer docks with Intelsat satellite,” Space
+News, February 26, 2020, 
+docks-with-intelsat-satellite/.
+84 Tereza Pultarova, “Watch a Satellite Fire a Harpoon in Space in Wild Debris-Catching
+Test,” Space.com, February 18, 2019, 
+movedebris-satellite-video.html.
+85 This is likely to remain the case until there is substantial economic activity and human
+presence in space that is somewhat independent of Earth. For example, large-scale
+mining of in-space resources and the use of those resources to support other activities
+in space, such as human colonies on other celestial bodies, could give nations a reason
+to protect or attack space lines of commerce to achieve economic and political
+objectives in space rather than on Earth. Human history has shown that wherever
+commerce goes, conflict is likely to follow.
+86 See Christian Brose, The Kill Chain: Defending America in the Future of High-Tech
+Warfare.
+87 Kaitlyn Johnson, “A Balance of Instability: Effects of Direct-Ascent Anti-Satellite Weapons
+Ban on Nuclear Stability,” Defense360, CSIS, October 21, 2020, 9–10, 
+csis.org/wp-content/uploads/2020/10/2Kaitlyn_A-Balance-of-Instability.pdf.
+88 For a more complete discussion of Space Domain Mission Assurance, see: Office of the
+Assistant Secretary of Defense for Homeland Defense & Global Security, Space Domain
+Mission Assurance.
+89 The AM7 is a European built EUROSTAR Bus by Airbus with a Thales Alenia Payload, see
+
+90 Due to continued delays in fielding M-Code GPS receivers, many U.S. forces and nearly
+all allied forces are still reliant on P(Y) or SASSM receivers.
+91 Dee Ann Divis, “FCC Raises Questions about U.S. Access to Non-GPS GNSS,” Inside
+GNSS, January 16, 2015, 
+to-non-gps-gnss/.
+92 Multiple satellites may be located at the same orbital mode if their frequency plans are
+coordinated. DirecTV has maintained three satellites in this location since 2014.
+CLICK TO
+FLY BACK TO
+THE CONTENTS
+ENDNOTES 45 HARRISON, JOHNSON, YOUNG
+
+1616 Rhode Island Avenue, NW
+Washington, DC 20036
+202-887-0200 | 
+Lanham · Boulder · New York · London
+4501 Forbes Boulevard
+Lanham, MD 20706
+301-459-3366 |

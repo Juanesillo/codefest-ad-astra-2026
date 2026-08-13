@@ -1,0 +1,820 @@
+458 IEEETRANSACTIONSONTECHNOLOGYANDSOCIETY,VOL.6,NO.4,DECEMBER2025
+AI Ethics and Governance in the Job Market:
+Trends, Skills, and Sectoral Demand
+Lucas Wiese , Graduate Student Member, IEEE, Sonali Subbu Rathinam , Matthias Oschinski ,
+Bryan DeWitt , and Daniel S. Schiff , Member, IEEE
+Abstract—DemandforanAI-literateworkforcehassurged,in AI4K12 and AI4ALL, Finland’s Elements of AI, and China’s
+largeparttocounteragrowingskillsgap.Meanwhile,expertisein AI+X program aim to cultivate a literate workforce through
+ethical and governance dimensions of AI is increasingly deemed primary, secondary, and tertiary education, certificates, and
+crucial to handle various organizational, regulatory, and social retraininginitiatives [1],[2],[3],[4],[5].Initiatives areaimed
+concerns. However, the focus of AI literacy efforts to date has
+not only at future AI developers with advanced graduate
+beenprimarilytechnical.Thispaperhelpsclosethisgapbypro-
+education,butalsoatworkerswhomayinteractwithorutilize
+viding the first large-scale analysis of AI ethics and governance
+AI, and at members of the general public of the general
+skillssoughtbyemployersinthelabormarket.Drawingonmore
+thanfourmillionjobpostingsforAI-relatedprofessionsoverthe public [6]. Government policies like the U.S. National AI
+years 2018-2023, we provide an empirically-grounded character- Initiative Act [7] and other efforts addressing AI adoption
+ization of AI ethics and governance competencies and perform and literacy are now providing funding in the billions of
+associateddescriptiveanalyses.WefindthatprofessionalswithAI dollars, as an extension of prior STEM-focused workforce
+ethics and governance competencies are requested by employers development strategies. These calls to invest in and develop
+to hold diverse skill sets, covering technical, managerial, and
+anAIworkforcesignalaconcerninggapregardingthecurrent
+regulatory domains, though the two professions remain distinct.
+workforce’scapacityandthedesiredskillsneededtomaintain
+Moreover, the demand for expertise in these domains has grown
+an innovative yet inclusive AI workforce. Extending from a
+rapidly,bothinabsolutetermsandasaproportionofAI-related
+job postings. More than 100,000 professionals with expertise in decades-long concern about STEM skills competitiveness [8],
+AI ethics and governance are now requested annually, with the this mismatch is broadly described as the AI skills gap.
+concentration highest in the financial and information sectors. As defined by Wu and Lin [9, p. 1], “this gap refers to the
+These findings can help individuals, employers, and institutions disparity between the growing demand for AI expertise and
+of higher education better design job requirements, educational the available talent pool—spanning both individual workforce
+programs, and individual learning pathways, closing the career
+capabilities and national technological capacities.” Thus, the
+competency gap in AI ethics and governance.
+AIskillsgaphasbothdomesticandglobalinvocations,serving
+IndexTerms—AIliteracy,AIethics,AIgovernance,workforce as a hidden catalyst that exacerbates economic disparity and
+development, labor market, career competencies. social inequality. On this logic, those who hold the skills,
+resources, and knowledge to shape and use AI will continue
+to innovate, rendering it less feasible for other communities
+I. INTRODUCTION
+and countries to catch up, causing the gap to expand at an
+THE DEMAND for artificial intelligence (AI)-literate unprecedented rate compared to previous technologies.
+workers has grown substantially in recent years, with An underlying skillsmismatch in the labor market has long
+significant efforts by policymakers, industry, and scholars been recognized [10], [11], especially in STEM. However,
+to cultivate a workforce capable of realizing AI’s role in the skills mismatch in AI is particularly unique; the large
+innovation and provision of goods and services. Calls to investment in AI is hypothesized to play a heightened role
+prepare workers emanate from local to international scales, in inducing labor disruption and displacement. Thus, it may
+with initiatives led by government, educational institutions, be that AI advancement both silos AI jobs and disrupts
+and the private sector. For example, U.S. initiatives like others. The scale of change, the requirements for upskilling
+or reskilling, and the pace of change raise the stakes of the
+Received 14 ; revised 24 and 30 ; skills gap from concerning to potentially economically and
+accepted 30 . Date of publication 20 ; date of current socially existential [12], [13], [14], [15]. Heightened power
+version 22 . This work was supported in part by the
+concentration, withdrawn economic development ladders, and
+U.S. National Science Foundation under Award 2134667. (Lucas Wiese,
+SonaliSubbuRathinam,MatthiasOschinski,andDanielS.Schiffareco-first uncertainty about even the feasibility of keeping up with the
+authors.)(Correspondingauthor:DanielS.Schiff.) paceofinnovationthreatentoexacerbatethedistancebetween
+Lucas Wiese is with the Department of Computer and Information the haves and have-nots.
+Technology, Purdue University, West Lafayette, IN 47907 USA (e-mail:
+lwiese@purdue.edu).
+Sonali Subbu Rathinam and Matthias Oschinski are with the Center for
+Security and Emerging Technology, Georgetown University, Washington, A. Beyond Technical AI: The Need for Socio-Ethical and
+DC 20001 USA (e-mail: ss4608@georgetown.edu; matthias.oschinski@ Governance Competencies
+georgetown.edu).
+BryanDeWittiswiththeDepartmentofCurriculumandInstruction,Purdue To mitigate the AI skills gap, stakeholders have thus
+University,WestLafayette,IN47907USA(e-mail:bdewitt@purdue.edu). proposed a wide array of strategies: increased international
+Daniel S. Schiff is with the Department of Political Science, Purdue
+collaboration,socialdialogue,equity-promoting policyframe-
+University,WestLafayette,IN47907USA(e-mail:dschiff@purdue.edu).
+DigitalObjectIdentifier10.1109/TTS.2025.3567143 works,andthepotentialofeducationalreformandinstitutional
+2637-6415(cid:2)c 2025IEEE.Allrightsreserved,includingrightsfortextanddatamining,andtrainingofartificialintelligence
+andsimilartechnologies. Personaluseispermitted,butrepublication/redistributionrequiresIEEEpermission.
+See
+Authorized licensed use limited to: Georgetown University. Downloaded on January 21,2026 at 00:39:29 UTC from IEEE Xplore. Restrictions apply.
+
+WIESEetal.:AIETHICSANDGOVERNANCEINTHEJOBMARKET:TRENDS,SKILLS,ANDSECTORALDEMAND 459
+promotion of AI education in preparing workers across dis- private and public sector organizations [35], [36]. That is, a
+ciplines [16], [17], [18], [19]. Yet, a critical element of this consistent feature of AI policy and innovation is the need for
+effortistherecognitionthattheAIskillsgapisnotmanifested professionalpractitionerswhocandesignandmaintainframe-
+just through the (uneven) distribution of technical expertise. works for responsible AI within and across organizations,
+Instead,desiredskillsinAIliteracyalsoconsistofthecapacity ranging from hospitals to schools to manufacturing floors.
+to navigate complex socio-ethical issues, advanced critical Thus, while efforts to build the technical AI workforce,
+thinking and creative reasoning, and interpersonal and inter- emphasizing skills in computer science, software engineer-
+disciplinary collaboration skills, as well as more traditional ing, and data science remain dominant [6], this paper
+technical expertise [20], [21], [22], [23]. Associated AI ethics highlights the need to understand and prepare the work-
+and AI governance skills gaps are the focus of this paper. force with respect to competence in AI governance and AI
+Importantly, the aims of AI literacy—or competency— ethics. A growing number of initiatives do exist, including
+initiatives alsogo beyond depositing necessary jobskillsfora undergraduate and graduate courses [37], graduate degree
+givenworkplace[21], [22].Theyincludetrainingstudentsand programs [38], professional certifications [39], and train-
+future professionals to be independent agents capable of their ings offered by industry and civil society groups. Another
+ownlearningandpersonalandprofessionalgrowth[24], [25]. body of research discusses the prospects for teaching AI
+Insights from ethics education, professional ethics, AI liter- ethics and governance to future practitioners [40], [41], [42],
+acy, and business ethics are all pertinent. For instance, [20] aligned with a growing body of scholarship that addresses
+recommendsthatAIliteracyeffortsaddresshowprofessionals the practice of AI ethics within organizations and associated
+understand the socio-legal-technical impacts of their work, challenges [35], [43], [44]. Further, a portion of research has
+practice collaboration with each other, and engage in self- sought to specifically understand the competencies for AI
+reflection over professional practices. Sidra and Mason [25] ethics practitioners, a necessary step and literature to which
+similarly highlight the unique metacognitive skills required this study directly contributes [45], [46], [47].
+for effective human-AI collaboration, corresponding with
+accounts of day-to-day problems for AI ethicists [26], [27].
+B. Addressing Foundational Knowledge Gaps in AI Ethics
+AI ethics and governance professionals also do not solve
+and Governance Workforce Development
+problems in a detached, clean environment; moral decision-
+making is subject to cognitive biases and heuristics and beset Despite growing recognition of the importance of AI
+by organizational pressures [28], and these dimensions of ethics and governance competencies, major gaps remain in
+“what it means to be an AI ethicist” are among many of scholars’ and decision-makers’ understanding of how these
+importance to consider for AI deployment in organizational fields are developing. Key uncertainties include: 1) the scale
+contexts. and distribution of demand for AI ethics and governance
+Moreover, while these skill sets and competencies are skills across sectors; 2) the degree of alignment or mismatch
+indeed essential for the technical design and development of between employer needs and available talent; and 3) the
+AI systems, they are equally essential for their responsible design of effective educational programs, career pathways,
+adoption,implementation,monitoring,andgovernance,forall and instructional strategies to prepare future practitioners. For
+professionals, including executive leadership [29]. Achieving instance,towhatextentareskillsinrelatedfields,likeprivacy,
+these goals is likely to require the efforts of (at least) tens of compliance, or risk management transferable to these new
+thousands of individuals over many years, and across societal AI ethics and governance roles? Further, should organizations
+sectors. For instance, to help manage AI’s implications for or educators concentrate AI ethics and governance skills
+safety, ethics, and human rights, recent years have seen land- within dedicated specialist roles, or should these skills be
+markgovernanceeffortsliketheEuropeanUnionAIAct[30], fostered across all technical and AI-engaged professionals?
+or the U.S. NIST AI Risk Management Framework [31] This paper takes an initial step toward addressing these foun-
+which include proposals for independent auditing, conformity dational questions by conceptualizing these issues, analyzing
+assessment,safetytesting,organizationalgovernance,andrisk large-scale labor market data, and offering empirical insights
+management. into the emerging composition of AI ethics and governance
+Recent policy and initiatives emanating globally, such as professions.
+from the since-revoked 2023 U.S. Executive Order on Safe, In short, calls for safe, trustworthy, and responsible AI
+Secure, and Trustworthy AI [32] include: requirements for governance will require attention comparable to that afforded
+publicsectoragenciestorecruitchiefAIofficersandadvisory to training future scientists and technical AI practitioners.
+councils; the public posting of AI inventories and evalu- Yet we have very little empirical understanding of these
+ation results; the development of responsible AI maturity professionals, their roles, and which skills are demanded of
+models for private organizations; and consortia of interested them or truly needed of them. This paper aims to help close
+professionals who participate in organizations, such as the thesegapsbyfocusingonthecompositionofskillsdemanded
+Ethical AI Governance Group and Responsible AI Institute, by AI ethics and governance jobs. Through our analysis, it is
+potentially receiving certification in AI ethics or governance important to note that our findings are drawn from empirical
+skills [33], [34]. Meanwhile, urged along by these consortia evidence from job postings, but there remains a larger gap
+and public policy, an industry has emerged to address respon- between the deeper realities of these jobs and the market’s
+sible AI, trustworthy or ethical AI, and AI governance within preliminary conception of them. This may further reflect a
+Authorized licensed use limited to: Georgetown University. Downloaded on January 21,2026 at 00:39:29 UTC from IEEE Xplore. Restrictions apply.
+
+460 IEEETRANSACTIONSONTECHNOLOGYANDSOCIETY,VOL.6,NO.4,DECEMBER2025
+limitedunderstandingorevennormativelyundesirableneglect thesethreeactors(whilenotcomprehensive)iscriticaltoclose
+of key skills and roles surrounding ethics. This paper is a first the gap in the availability and empowerment of AI ethics and
+step in connecting prior work [26], [27], [46] on AI ethics to AI governance professionals.
+thesesystem-leveltrendsandassociatedunresolvedquestions. The interactions between these three actors are additionally
+Specifically,weexamineskillsrelatedtoeitherAIethicsor nfluencedbyeffortsfromgovernmentandregulatoryagencies,
+AI governance in job posting data from 2018-2023 compiled at both national and local levels. As depicted in Fig. 1, these
+by Lightcast.1 In this descriptive analysis, we consider the governmentandregulatorybodiesarefoundationaltoshaping,
+following three research questions (RQ): informing, and encouraging the competencies and capabilities
+1) RQ1: What core competencies characterize AI ethics that the labor market demands. For instance, government
+and governance roles as reflected in the labor market? agencies are motivated to advance national priorities, such
+Specifically, what skill subcategories—including techni- as economic growth and national security, and build public
+cal, managerial, regulatory, and socio-ethical—are most trust in AI to help sustain a fair and competitive market.
+desired for professionals in AI ethics and governance- Government agencies also strategically engage in agenda-
+aligned job postings? setting for AI regulations and policy. This may include
+2) RQ2: How has the demand for professionals with AI establishing standards and guidelines for AI development as
+ethicsandgovernancecompetencieschangedfrom2018 well as funding and investing in STEM education initiatives
+to 2023? or AI research at large. In total, individual learners, higher
+3) RQ3: How does the demand for professionals with AI educational institutions, and employers are influenced by the
+ethicsandgovernancecompetenciesvaryacrossindustry strategic actions emerging from the public sector. Finally,
+sectors? these dynamics are likely affected by other actors as well not
+Next, we present our conceptual framework that outlines depictedhere,likemedia,civilsociety,andthegeneralpublic.
+the assumptions guiding our research and findings on the AI TheframeworkpresentedinFig. 1representsanoperational
+(ethics and governance) skills gap. This framework situates understanding of the role of these three actors in addressing
+the role of individual learners, employing organizations, and the aforementioned AI skills gap [16]. It builds on the exist-
+higher education institutions as amongst key stakeholders in ing Competency-Capability Chasm (CCC) as developed by
+addressing the skills gap. Following, we present our methods Ward et al. [48], [49], which represents the distance between
+which describe our use of job posting data to determine the capabilities taught from higher education institutions and
+competenciesandtheanalyticalstrategiesappliedtothesedata the competencies sought in the job market. That is, the CCC
+to investigate job postings for AI ethics and AI governance “exists between what is taught and what is sought” [49,
+roles from 2018 to 2023. Our results section highlights key p. 898]. We expand this understanding to the AI context
+findings across our three research questions, from under- by situating individuals, employers, and institutions within
+standing core competencies to trends over time and sectors. the chasm to conceptualize responsible actors, institutions,
+Finally,wediscusstheimplicationsofourfindingsasthefirst and mechanisms that might be activated to address the AI
+comprehensive analysis on the demand of AI ethics and AI skills gap.
+governance using real-time job posting data. As our results For each actor, we present examples of key motivations
+empirically operationalize AI ethics and AI governance as potentially driving their behavior in this ecosystem as well
+concrete professional domains, and draw distinctions between as strategic actions they might take. For instance, individual
+them, our study has practical implications for educational learners may be motivated both by the interest in secur-
+design, policy development, and professional organizations ing career opportunities in AI ethics or governance roles,
+who are defining these fields moving forward. as well as promoting their job security in an uncertain
+labor market generally. Meanwhile, institutions of higher
+II. CONCEPTUALFRAMEWORK education are motivated by ensuring their graduates are
+prepared for these roles, as well as supporting organiza-
+We approach our investigation under the assumption that
+tional goals like student recruitment and stable funding.
+(1)individuallearners,(2)employers,and(3)higher-education
+Employers may likewise be motivated by the need to comply
+institutions have a shared responsibility to effectively con-
+with regulations and promote trust of consumers or the
+tribute to a skilled AI ethics and AI governance workforce.
+public.
+As a corollary, none of these actors alone can be solely
+These motivations suggest ways in which the actors’ deci-
+responsible for driving an AI-literate workforce: the uncer-
+sions and actions are entangled. For instance, universities that
+taintiessurroundingtheseskills,regulatoryandsocioeconomic
+remain unaware of needs in industry may fail to promote the
+developments, and the change of pace of AI technology make
+relevant skills needed in their programs. Meanwhile, employ-
+planning especially difficult. Under these conditions, it is
+ers that present a narrow vision of AI ethics and governance
+unrealistic to expect an individual to fully navigate these
+roles may lead to the creation of educational programs that
+dynamic conditions, to expect employers to be fully equipped
+areunattractiveforuniversitiesandstudents,andtoconditions
+or incentivized to upskill their employees, or to expect
+which are deemed untrustworthy by the public. Along these
+higher-education institutions to become prescient workforce
+lines, Fig. 1 presents examples of suggested strategic actions
+development factories. Understanding the interaction between
+thatcanhelpsupportallthreeactors’sharedinterests.Inturn,
+1Lightcast is a labor market analysis company that collects job postings this conceptualization affords scholars the ability to map the
+frommultiplesources,andprovidesinsightintothelabormarket. findings of the present study onto the broader literature, and
+Authorized licensed use limited to: Georgetown University. Downloaded on January 21,2026 at 00:39:29 UTC from IEEE Xplore. Restrictions apply.
+
+WIESEetal.:AIETHICSANDGOVERNANCEINTHEJOBMARKET:TRENDS,SKILLS,ANDSECTORALDEMAND 461
+Fig. 1. Adapted Competency-Capability Chasm from [49] to account for individuals, employers, higher education institutions, and the public sector. The
+frameworkrepresentshowsharedcommitmentbetweenindividuals,employers,andhighereducationinstitutionsisnecessarytoclosethecapability-competency
+chasmforAIethicsandgovernance.
+helps futureresearchers and practitioners identifypathways to For instance, appropriate learning paths must not only
+close the gap further. account for the sought-after skills articulated as important
+in the labor market; they should also account for learners’
+motivations,needs,andexpectations[52].Moreover,learners’
+A. The Nature of Instructional Design and Aligning motivations are themselves often inextricably linked with the
+Individuals, Employers, and Institutions job market—they want the education that will afford them
+For this vision to be realized, it is important to understand theflexibility,opportunity,impact,andcompensationthatthey
+the traditional approach universities take with instructional desire [53], [54]. Consequently, this framework’s successful
+design, including when developing new educational programs application depends on recognizing what each stakeholder
+or degrees. This includes how institutions respond to individ- brings to the table dynamically, rather than working from
+ual learners and draw ideas from employer needs (or not). fixed assumptions. Importantly, this does not assume that
+Instructionaldesignersinparticularmustapplytheirexpertise, employers’ articulation of what the job market does or should
+experience, and understand the context to solve complex require is the ground truth. Rather, employers may also have
+problems in educational design, which are often novel [50]. gapsintheirknowledgeandunderstanding,andmaybeoverly
+That is, designing for AI ethics and AI governance education focused on short-term goals or attached to prior ways of
+requiressynthesizingtherequirementsandconstraintsforeach thinking. As argued in [48], [49], the CCC is a space where
+actor in this model. stakeholders should constantly assess, reassess, and realign
+However, conventional approaches, while valuable, have workforce development and educational efforts.
+focused primarily on the start of a learner’s journey (what When addressing the CCC, a few strategic options may
+skills or competencies they bring when beginning a program) be prudent. First, individual learners must do the necessary
+and typically design forward from there to scaffold their reflectionandarticulatetheirdesires,trajectories,andinterests.
+learning[51].Unfortunately,thisstrategyoftenfailstoaccount This is no doubt informed by both the evolving demands
+for how the learning journey will culminate into professional of the labor market and the messaging from higher edu-
+applications down the road; that is whether the articulated cation institutions that construct curricula and opportunities
+learning goals are reasonable, useful, and sufficient. This for students. Second, employers must maintain a culture and
+problem is not easily solved by backwards design approaches atmosphere of continuous learning, growth, and professional
+either. Instead, we argue that it requires we argue it requires development [55]. With this, they can maintain an adaptive
+deeper synthesis and collaboration. workforce that responds to the fast paced AI landscape,
+Authorized licensed use limited to: Georgetown University. Downloaded on January 21,2026 at 00:39:29 UTC from IEEE Xplore. Restrictions apply.
+
+462 IEEETRANSACTIONSONTECHNOLOGYANDSOCIETY,VOL.6,NO.4,DECEMBER2025
+without outsourcing employee learning entirely to individuals understanding applies to AI governance professionals as well.
+or educational institutions [56], a growing approach which AI governance professionals are needed to understand techni-
+risks increased employee turnover and skill stagnation. cal components of the AI development lifecycle and integrate
+Helpfully, employers can leverage programs like (in the legal,regulatory,andcomplianceframeworksseamlessly,min-
+U.S.) the Section 127 Educational Assistance Program for up imizing the likelihood of harm while maximizing the capacity
+to $5,250 in annual expenses per employee for professional and innovation of AI systems. And while many of these
+development [57]. Third, higher education institutions must dimensions are discussed in policy and educational discourse,
+evolve beyond traditional instructional design practices and and present in general AI literacy frameworks, it remains
+foster foundational capabilities, respond to evolving market- unclearexactlywhichsetsofskillsareimportantorprioritized
+alignedcompetencies,andrespectindividuals’experiencesand for AI ethics and governance professionals.
+motivations. This might include innovative approaches like As such, we next detail the methods we used to conduct
+non-credit-to-creditorearned-admissionpathwaysthatprovide a large-scale job posting analysis to study the sought-after
+flexible degree trajectories [58], [59], [60]. Yet, universities skills for these types of professionals. We emphasize again
+are also in a position to help identify and shape the skill that the current state of demands from employers do not
+demands and future roles of students, not merely react to the fully capture the ground truth about these professions or their
+market, especially in dynamic settings like AI, or in arguably future. However, they provide important signals about how
+underdeveloped settings like ethics. AI ethics and governance skills and professions are emerging;
+These shared commitments, as we propose in Fig. 1, can what skills are imagined to be important; to what extent these
+thus assist with more robustly closing the AI skills gap. Next, professionals are unique compared to professionals in related
+we will examine the context surrounding AI ethics and AI roles; and to what extent AI ethics and governance skills and
+governance skills in particular. roles are concentrated or distributed.
+B. Specifying the AI Ethics and AI Governance Domains
+III. METHODS
+A. Rationale and Data Collection
+DesigninganddevelopingAIsystemscomeswithaplethora
+of social and ethical considerations to protect human life To ascertain skill requirements in AI ethics and AI gov-
+and promote societal welfare. As such, ethical principles ernance occupations, we leveraged real-time labor market
+and practices help to guide responsible AI, and governance informationfromLightcast,particularlytheirjobpostingdata.
+mechanisms must exist to connect and align AI systems with Lightcast collects job posting data by scraping over 65,000
+humanvalues[61], [62].Acrosssettingsanddisciplines,there websites globally, including company career pages, national
+are practices that professionals can implement at each stage and local job boards, and data from job aggregators [65]. The
+of the AI development lifecycle, policies that organizations use of job posting data, and Lightcast data in particular, is
+can enforce, and national and local regulations that can guide increasingly common in labor market studies [66], [67], [68]
+the AI industry and AI systems at large [25], [63]. While a and has been used for purposes such as analyzing skills
+full review of relevant AI ethics and AI governance strategies demand [69], [70], assessing emerging job markets [71], [72]
+is outside the scope of this paper, it suffices to say that and measuring the effects of technological change [73], [74].
+accomplishing these widely demanded goals of safe and Closely related to the current context, these data have been
+responsible AI requires unique socio-technical skill sets that used to assess trends in digital literacy [75] and competencies
+are important to target. in the green economy [76]. These data have also proven
+Responsible AI practitioners may range from technical valuableforanalyzingtheevolutionofAI-relatedjobpostings
+researchers, computer scientists, and engineers, to policy and skill requirements [77], [78].
+experts and managerial professionals. Across these occu- Fig. 2 illustrates our methodological approach. In the first
+pations, [64] present a helpful taxonomy of different step, we followed [79] in using keywords that designate
+skills thought necessary across technical and non-technical an occupation as AI-related. The initial dataset included
+professionalsincluding:technicalresearchcapacities,interdis- U.S. job postings with associated metadata such as company
+ciplinary communication, analytical systems thinking, policy names, skills, industry taxonomies [80], and occupational
+integration strategies, and business or human resources taxonomies [81]. Lightcast removes duplicates and we only
+expertise [64]. Extending the complexity of this unique, includedjobpostingsthatcontainskillsmappedtoLightcast’s
+multidisciplinarydomain[26]arguesthatanAIethicistshould publicly-available skills taxonomy.
+possess a unique capacity to “apply and communicate ethical We used a total of 72 AI (skills) keywords to extract
+principles in the context of artificial intelligence within a the primary AI-related dataset, all available in Lightcast’s
+corporate structure” which may require special skills like formal typology of terms [82]. To come up with our list of
+bravery [26, p. 4]. Moreover, the AI ethicist must be able AI keywords that we crosswalked with Lightcast’s available
+to hold conflicting personal and professional identities; as terms, we drew on prior taxonomic research from [78] and
+identified by [27], the motivations of an AI ethicist may be augmented this list by examining other AI-related keywords
+in conflict with those of their employing institution—whether articulated in the Lightcast skills taxonomy. We iterated this
+because of financial, social, or philosophical differences. list over several rounds as outlined as best practice for textual
+While more explicit research has been done on the pro- analysis in [83], [84] and depicted in Fig. 2. This process
+fessional capacities of the AI ethicist, we argue that this involved examining a subset of identified job postings and
+Authorized licensed use limited to: Georgetown University. Downloaded on January 21,2026 at 00:39:29 UTC from IEEE Xplore. Restrictions apply.
+
+WIESEetal.:AIETHICSANDGOVERNANCEINTHEJOBMARKET:TRENDS,SKILLS,ANDSECTORALDEMAND 463
+Fig.2. DeterminingAIethicsandAIgovernanceoccupations.
+TABLEI
+Next, we conducted a second stage of iterative data col-
+EXAMPLECATEGORIESOFAI-RELATEDSKILLSKEYWORDS
+lection to pinpoint job postings specifically associated with
+AI ethics and AI governance, respectively, using a refined set
+of 30 ethics and 58 governance keywords. This process was
+similarly informed by literature and expert sources but was
+also augmented by large language model support. To begin,
+we used OpenAI’s GPT-4 large language model to brainstorm
+keywords, consistent with the strategy used by [79]. For
+example, terms associated with AI ethics included: fairness,
+accountability, transparency, privacy, bias, mitigation, and
+ethical decision-making. For AI governance, terms included:
+policy development, compliance, risk management, standards
+development, oversight, and stakeholder engagement. Next,
+we expanded this keyword set based on additional keywords
+from previous studies on AI ethics and AI governance con-
+cepts [85], [86], [87]. After expert review and several rounds
+of iteration, similar to the process employed for the superset
+adjusting keywords iteratively to ensure greater completeness ofAIjobpostings,weidentifiedfinalsetsof(skills)keywords
+and accuracy of coverage. for AI ethics and governance jobs.
+Due to contractual limitations with our data provider, The results provided us with an AI ethics (job posting)
+we cannot share the proprietary set of final keywords for dataset of n=388,107, an AI governance (job posting) dataset
+the AI, ethics, and governance datasets. However, Table I of n=367,439, and a dataset of job postings which contain
+presents examples of overarching categories synthesized from both AI ethics and AI governance terms of n=114,913. See
+the 72 skills keywords which were used to identify the Fig. 3 for a Venn diagram of these datasets and their overlap.
+initial AI-related job postings. Finally, note that all keywords We describe these individuals as AI ethics or governance
+must definitionally be part of the formal Lightcast typology professionals, though this should be understood to include
+to enable extraction based on those keywords. The result- individuals with a variety of roles and both greater or lesser
+ing dataset comprises 4,457,851 job postings for the years degrees of focus on AI ethics and governance. For instance,
+spanning 2018 to 2023, covering the demand for AI-related a data scientist or risk management professional might devote
+occupations. much, or only some, of their job to AI ethics or governance.
+Authorized licensed use limited to: Georgetown University. Downloaded on January 21,2026 at 00:39:29 UTC from IEEE Xplore. Restrictions apply.
+
+464 IEEETRANSACTIONSONTECHNOLOGYANDSOCIETY,VOL.6,NO.4,DECEMBER2025
+To answer RQ2, regarding the evolution of demand from
+2018 to 2023, we conducted a trend analysis by examining
+how the frequency of job postings changed over this time
+period. Specifically, we analyzed the amount of AI, AI ethics,
+and AI governance job postings by year, which allows us to
+glean insight into growth patterns, relative frequencies, and
+changing employer priorities over time.
+To answer RQ3, regarding how these skills vary across
+economic sectors, we calculated the prevalence of AI ethics
+and AI governance job postings for each year from 2018 to
+2023 as a percentage of all job postings (not just AI-related)
+in those industries. The results offer a sectoral perspective on
+the demand for these competencies.
+Fig.3. FrequencyofAIethicsandAIgovernancejobpostings.
+IV. RESULTS
+However, importantly, all individuals are ostensibly working
+A. RQ1: Core Competencies of AI Ethics and AI
+in AI-related roles, and the jobs they apply to require skills
+Governance Professionals
+like ‘privacy law’ or ‘fairness.’ So, while most of these
+professionals would not have job titles like “AI Governance As a first step, we determined the core competencies
+Lead” or “AI Ethics Manager,” they are working at the required of AI ethics and AI governance professionals by
+intersection of AI and ethics or governance, at least to some identifying skills with the largest location quotients (LQ).
+degree. Using Lightcast’s built-in skill subcategories attached to a set
+of 39M online job postings from2023, we calculated the LQs
+for all skill subcategories by comparing how frequently each
+B. Analysis skill subcategory appeared in AI ethics or AI governance job
+postings relative to how frequently it appeared across all job
+Our analysis procedure was designed to address each of
+postings, as described in (1) and (2). In this context, a LQ
+our RQs. To answer RQ1, regarding the core competencies
+greaterthan1indicatesthatagivenskillismoreconcentrated
+requiredofAIethicsandAIgovernance-alignedprofessionals,
+within a specific domain (i.e., AI ethics or AI governance
+we conducted a skill analysis using location quotients (LQ)
+occupations) relative to its prevalence across the full set of
+andajobtitlefrequencyanalysis.Assuch,first,wecalculated
+job postings. This suggests that the skill is disproportionately
+the LQ for ethics- and governance-related skills across job
+important for that domain and can be considered a core
+postings.
+competency. For instance, if a skill appears in 4% of AI
+The LQ is typically used to compare the concentration of a
+ethics job postings but only 1% of job postings overall,
+specific industry or occupation in a region to its concentration
+its LQ would be 4.0, indicating strong overrepresentation in
+in a broader geography as a measure of specialization [88].
+that domain. Here, all skills are aggregated into higher-level
+In this context, it measures the relative representation (or
+Lightcast-providedskillsubcategoriestosimplifyanalysisand
+importance) of a given skill in AI ethics or governance job
+interpretation.
+postings compared to that skill’s overall representation (or
+importance) in the entire job posting dataset. For instance, kAIEthics
+the entire job posting dataset for 2023 has approximately nAIEthics =LQ (1)
+Pk
+39 million job postings. Skills with an LQ greater than 1 are N
+considered highly represented in the 388,107 AI ethics job kAIGovernance
+postings or 367,439 AI governance job postings, respectively, nAIGovernance =LQ (2)
+Pk
+meaning these skills are especially likely to be particular N
+emphases of AI ethics or governance jobs rather than just where
+generally important skills (i.e., they are core competencies). LQ = location quotient
+Note that, for ease of interpretation, we aggregated individual k = number of job postings for skill subcategory
+skills to a pre-defined set of higher-level skill subcategories, n = number of job postings for domain
+discussed in more detail later. P = number of total postings for subcategory k
+Next,weidentifiedthemostfrequentjobsorjobtitlesasso- N = total number of job postings
+ciated with AI ethics and AI governance skills by calculating Table II presents skill subcategories that are most sought
+theshareoftotalAIethicsorAIgovernance postingsin2023 after in AI ethics job postings, relative to all job postings. For
+as a percentage of all job postings, analyzed per job title. instance, the Lightcast-provided subcategory ‘Regulation and
+Here, we drew on a standardized set of job titles provided by Legal Compliance’ encompasses ‘Data Ethics,’ ‘Knowledge
+Lightcast because of the diversity of informal job titles used of Data Privacy Laws,’ and ‘Ethical Standards and Conduct.’
+inthemarketplace.Thisanalysiseffectivelyhighlightsthetop Importantly, note that the core competencies demanded of
+types of occupations—or roles—that employers are targeting these professionals need not be limited to (obviously) ethics-
+when they ask candidates to have AI ethics or AI governance or governance-focused skills; more general skills are cer-
+skills when applying for a position. tainly also relevant. The diverse range of skill subcategories
+Authorized licensed use limited to: Georgetown University. Downloaded on January 21,2026 at 00:39:29 UTC from IEEE Xplore. Restrictions apply.
+
+WIESEetal.:AIETHICSANDGOVERNANCEINTHEJOBMARKET:TRENDS,SKILLS,ANDSECTORALDEMAND 465
+TABLEII TABLEIV
+TOPSKILLSUBCATEGORIESINAIETHICSJOBPOSTINGS TOPSOCCODESWITHAIETHICSJOBPOSTINGS
+TABLEV
+TOPSOCCODESWITHAIGOVERNANCEJOBPOSTINGS
+TABLEIII
+TOPSKILLSUBCATEGORIESINAIGOVERNANCEJOBPOSTINGS
+This concentration is followed by postings for Computer and
+Information Systems Managers, Data Scientists, and Database
+Architects, each with similar shares in AI ethics postings.
+BeyondtheprevalenceofAIethicsskillsincomputing-related
+roles, we found that over 2% of job postings for Financial
+Specialists were related to AI ethics. This is suggestive of the
+importance of AI ethics professionals in this specific sector,
+one which is highly regulated.
+Similarly, for AI governance job postings, Table V show-
+identified suggests that desired AI ethics competencies cut cases the top five SOC codes with AI governance job
+across multiple disciplines, with prominent skills in domains postings. As seen, job postings for Financial Specialists had
+like technology, strategy, research, management, policy, and the highest share of AI governance skills requested. Then,
+regulation. a similar share of Financial Risk Specialist, Computer and
+In contrast, in AI governance job postings, we see less Information Systems Manager, Statistician, and Data Scientist
+science, research, and technical skills required and more job postings reflected a desire for AI governance-competent
+project management-related skills. Table III showcases the professionals. Currently, these concentrations suggest close
+most sought-after skill subcategories for AI governance job alignment between the financial sector and AI governance
+postings. Here, we see desired business-specific skills like skills, and between computer professionals and AI ethics
+analysis, communication, leadership, operations, and manage- skills. Importantly, however, these top five example occupa-
+ment as well as field-specific skills such as regulatory, legal, tions only reflect a fraction of the tens of thousands of total
+and data-related skills. job postings calling for AI ethics and governance skills, as
+Overall, while the skill compositions that the job mar- seen in Fig. 4.
+ket is seeking for professionals in AI ethics- and AI Overall, the findings suggest that ethical and governance-
+governance-aligned roles differ, both are interdisciplinary and related skills are becoming core requirements for established
+multifunctional in nature. occupations, such as data scientists, machine learning engi-
+To elaborate on this understanding, we next looked at neers,andfinancialspecialists.Concurrently,however,wealso
+the specific occupations and job titles which seek AI ethics observe the emergence of new, dedicated roles in these areas.
+and governance skills most. Table IV showcases the top five For example, McKinsey & Company describe the growing
+standard occupational classification (SOC) codes where AI trend of organizations hiring dedicated AI governance and AI
+ethics job postings are common, subset to 2023, as a portion ethics specialists to complement their AI workforce strategy,
+of all job postings. The SOC codes come from a frequently along with transforming expectations for data science and
+usedtaxonomy,linkedtotheLightcastdataset,whichenabled machinelearningroles[89].Alongtheselines,aconsortiumof
+us to view the concentration of AI ethics job postings by leadingglobalcorporationsidentifiesAIethicsandresponsible
+(standardized) occupation. AI skills as the overall most critical new skill domain for
+As shown, job postings for Computer and Information informationandcommunicationtechnologyjobs[90],increas-
+Research Scientists in 2023 most frequently cited AI ethics- ingly relevant to 100% of jobs analyzed in their study.
+related skills in their requirements, with nearly 5% of all Together, these developments offer an initial map of the
+postings for this occupation including a focus on AI ethics. diverse literacies that may become increasingly important for
+Authorized licensed use limited to: Georgetown University. Downloaded on January 21,2026 at 00:39:29 UTC from IEEE Xplore. Restrictions apply.
+
+466 IEEETRANSACTIONSONTECHNOLOGYANDSOCIETY,VOL.6,NO.4,DECEMBER2025
+Fig.4. FrequencyofAI,AIethics,andAIgovernancejobpostingsovertime,from2018to2023.
+TABLEVI
+jobseekers and institutions of higher education seeking to
+INDUSTRIESWITHHIGHESTSHAREOFAIETHICSJOBPOSTINGS
+prepare the future AI workforce.
+B. RQ2: Evolution of AI Ethics and AI Governance Skills
+The demand for skilled AI, AI ethics, and AI governance
+jobs has grown from 2018 to 2022, with a noticeable dip
+in job postings in 2023, potentially related to broader labor
+markettrends(i.e.,sweepinglayoffsinthetechnologysector).
+InFig. 4,wepresentabargraphthatdepictsthetotalnumber
+ofeachtypeofjobposting,whichprovidesarelativesenseof
+C. RQ3: Skills Across Sectors
+theprevalenceofAIethicsandAIgovernancerolesversusAI
+roles more generally. Note the definition of skills associated Lastly,toaddressourthirdRQ,weanalyzedthedistribution
+with each type of role remains consistent across these years ofAIethicsandAIgovernancejobpostingsacrossindustries,
+in our analysis. focusing on the top four industries. We used the standard
+As seen, job postings in AI nearly doubled from 2018 to North American Industrial Classification System (NAICS)
+2022. Then, in 2023, numbers returned almost to 2018 levels codes to label industries and to subset our analyses. Presented
+(albeit, with a higher proportion of AI ethics and governance in Table VI and Table VII, we see that the “Finance and
+jobs). The 2024 AI Index Report [91] finds a similar dip in Insurance” industry has the highest demand for AI ethics
+AI labor demand in 2023, as the authors found that “every and AI governance skills, followed closely by jobs in the
+AI-related skill cluster tracked by Lightcast had a decrease in “Information” sector.
+marketshare,withtheexceptionofgenerativeAI,whichgrew ForbothAIethicsandAIgovernanceskills,thepercentage
+by more than a factor of 10” [91, p. 224]. Notwithstanding shareoutofalljobpostingsineachindustrysteadilyincreased
+2023’s decline, AI ethics and AI governance job postings do from 2018 to 2022, but again, in 2023 seemed to stagnate. As
+not seem as affected by this dip, and it will be interesting an example of the significance of the change: the prevalence
+to observe whether this trend continues. Instead, the relative oftheseskillshasgrownfromaboutaquarterofapercentage
+demandforprofessionalswiththeseskillsisbroadlyincreasing, point to a one-half of a percentage point, roughly doubling
+bothasanabsolutenumbercomparedtoearlieryears,andasa over only a five-year period.
+proportion of AI-related jobs. For instance, while only around Future research will be necessary to evaluate the stability
+6% of AI job postings featured ethics and governance skills of these patterns, especially in light of other economic shocks
+in 2018, around 10% did only five years later. and cycles. Nevertheless, we see that the same industries are
+Authorized licensed use limited to: Georgetown University. Downloaded on January 21,2026 at 00:39:29 UTC from IEEE Xplore. Restrictions apply.
+
+WIESEetal.:AIETHICSANDGOVERNANCEINTHEJOBMARKET:TRENDS,SKILLS,ANDSECTORALDEMAND 467
+TABLEVII
+Finally, we find the greatest demand for AI ethics or
+INDUSTRIESWITHHIGHESTSHAREOFAIGOVERNANCEJOBPOSTINGS
+AI governance-skilled professionals within the financial and
+information sectors, though the demands for these profession-
+als are broader and extend to many sectors beyond the four
+wehighlightinouranalysis.Asoftheearly2020s,morethan
+100,000 job postings annually in the AI industry in the U.S.
+require AI ethics or AI governance skills.
+The study provides the first comprehensive analysis of
+demand for AI ethics and AI governance-aligned roles using
+comprehensive job posting data, drawing on empirical evi-
+dence of how organizations conceive of these professional
+domains. It also contributes by demonstrating the growth of
+represented, and in the same order: Finance and Insurance,
+these fields as distinct professional domains, and by artic-
+Information, Manufacturing, and Professional, Scientific, and
+ulating the specific competencies (not limited to ethics or
+Technical Services. These sectors are amongst the leaders in
+governance skills construed narrowly) requested for individu-
+seeking AI ethics and AI governance skills, though again,
+als in job postings.
+tens of thousands of positions are requested in other sectors,
+However, while our study reviews the market’s hiring
+ranging from healthcare to education to public administration.
+demands with respect to AI ethics and governance roles,
+these should be carefully interpreted and not conflated with
+the complex realities and deeper normative challenges that
+V. DISCUSSIONANDCONCLUSION
+demandtheworkofAIethicistsandgovernanceprofessionals
+As demands for AI literacy in the general public and in the first place. As [27] highlights, the AI ethicist may be
+demands for an AI-skilled workforce have grown, an ecosys- required to work in industries that have potentially opposing
+tem has emerged to better understand and prepare for these interests, objectives, and epistemological perspectives. For
+changes. While there has been ample focus on technical AI instance, an AI ethicist may have to critically evaluate their
+literacy, AI ethics and AI governance skills are increasingly organization and recommend actions that conflict with the
+deemed critical to address a wide range of social, regulatory, economic interests of a firm, or, they may have to apply or
+and organizational needs. Meanwhile, employers and higher evaluate practices using approaches not already formalized,
+education institutions are only beginning to make sense of the understood, or valued within a firm. For instance, we might
+skills required for these roles, and stakeholders broadly have expect ethicists to have particular skills in normative ethics,
+only a modest knowledge of the scale of labor demand. systemsthinking,sociotechnicalthinking,sociology,andmuch
+Adapting ideas from the Competency-Capability Chasm, more, including even atypical skills like ‘bravery’ [26] which
+this paper aims to provide insight to employers, educational are unlikely to show up in job postings.
+institutions, and individuals pursuing these professional goals, On the one hand, it is understandable that job postings
+along with scholars and policymakers. Drawing on more than and skills taxonomies might not list all skills down to a
+four million job postings related to AI over the years 2018- maximallevelofdetail,whichmaybedifficultandunrealistic,
+2023, we adduce an empirically-grounded characterization of especially given the novelty of some of these job roles. In
+AI ethics and AI governance as professional domains, as line with the Competency-Capability Chasm, it may be up to
+articulated by job postings—that is, from the perspective of educational institutions to articulate all the micro skills that
+employers. This definition encompasses both core specialists feed into “AI ethics” or “AI governance,” allowing employers
+in these fields, as well as other adjacent professionals for to rely on this careful planning and associated training. On
+whom these skills are important. For example, occupations as the other hand, this gap could suggest that broader work
+diverse as statisticians to financial risk specialists now require is needed. This could include better elucidating the deeper
+these AI ethics or AI governance skills. sets of skills required, educating employers on the need for
+Moreover, we find that professionals with AI ethics or AI certainunfamiliarskillsandroles,andevenadvancingsocietal,
+governance competencies—whether in technical, regulatory, normative,orregulatoryeffortstopromoteassociatedactivities
+or business domains—require largely distinct yet overlapping or conceptions of those activities. In short, while the job
+skill sets. Relatedly, while we find some overlap between market’s current demands constitute an important signal, they
+AI ethics and AI governance job postings, the majority (as do not constitute a complete answer to how AI ethics and AI
+depicted inFig. 2) belong toone domain alone. Next,we find governance skills, needs, and job roles will or should evolve.
+clear evidence of growing demand for both AI ethics and AI While more work is needed, our paper helps identify how
+governance roles since 2018, in absolute numbers and as a the market thinks about these professionals, and helps surface
+percentage of all AI job postings. There is modest evidence gaps between industry, educational institutions, and broader
+of a shift in relative demand as well; while AI governance normativegoals.Asastartingpoint,weencourageeducational
+skills were initially more prominent, AI ethics skills have programstonotonlyconsiderthedesiredqualificationsofpro-
+slightly surpassed them in importance as of 2021. Either way, fessionals from job posting data like those evaluated here, but
+the overall growth trend suggests increasing organizational also consider the ethnographic reports and other taxonomic,
+recognition of these roles’ and skills’ importance. qualitative, and conceptual work discussing AI ethics and AI
+Authorized licensed use limited to: Georgetown University. Downloaded on January 21,2026 at 00:39:29 UTC from IEEE Xplore. Restrictions apply.
+
+468 IEEETRANSACTIONSONTECHNOLOGYANDSOCIETY,VOL.6,NO.4,DECEMBER2025
+governanceinindustry.Educationaldecision-makersalsohave Purdue University and the Center for Security and Emerging
+an important role in being future-oriented: they should think Technology(CSET)atGeorgetownUniversityforsupportand
+about how skills and roles will evolve—or should evolve—in feedback, especially Veronica Jade Kinoshita.
+five or ten years.
+These findings offer actionable guidance for educational REFERENCES
+programs, professional certifications, and other community-
+[1] A. Klein. “Bipartisan bill in congress seeks to help schools teach
+servinginitiativesaimedateducationandcareerdevelopment. AI literacy.” Education Week. Accessed: Dec. 21, 2023. https:
+The identified skills, and associated overlaps, may be useful //
+help-schools-teach-ai-literacy/2023/12
+for helping guide competency-based educational programs as
+[2] “How we’re improving AI literacy in young people.” Google.
+wellashelpingemployersefficientlystructureAIethicsandAI 2024. 
+governance job descriptions and job functions. And critically, young-people/
+[3] N.DeCarioandO.Etzioni(AllenInst.AI,Seattle,WA,USA).America
+forindividuals,understandingrequiredcompetenciesandlabor
+NeedsAILiteracyNow.Dec.2021.
+market demand can help guide their career pathways, whether ai-literacy-now/72515409
+individuals are new to the labor market or transitioning. [4] T. Roos (Univ. Helsinki, Helsinki, Finland). Elements of AI Has
+Introduced One Million People to the Basics of Artificial Intelligence.
+Our research is limited by several factors. Data sharing
+2023. [Online]. Available: 
+agreements limit the full set of details we are able to present intelligence/elements-ai-has-introduced-one-million-people-basics-
+here. Further, while our methodology for defining AI, ethics, artificial-intelligence
+[5] C.Wei.“NanjingUniversitypioneersAIeducationsystem.”Accessed:
+and governance roles are based on the literature, iterative
+Mar. 20, 2024. [Online]. Available: 
+research design, and the available taxonomies, it necessarily 202403/20/WS65fa3a4ea31082fc043bda45.html
+involved subjective decisions along the way and remains a [6] D. Schiff, “Education for AI, not AI for education: The role
+of education and ethics in national AI policy strategies,” Int.
+snapshot of an evolving process. Significantly more research
+J. Artif. Intell. Educ., vol.32, no.3, pp.527–563, Sep. 2022,
+is needed, including longitudinal studies of labor market doi:10.1007/s40593-021-00270-2.
+demandandsupply,improveddefinitionsofrequisiteskillsand [7] M. Heinrich. “Artificial intelligence initiative act.” 2019. [Online].
+Available: 
+competencies,studiesofcareertrajectories,andevaluationsof
+
+educational programs’ effectiveness in supporting individuals. [8] National Commission on Excellence in Education, “A nation
+Next, our research speaks most directly to the U.S. context, at risk: The imperative for educational reform,” Elem. School
+J., vol.84, no.2, pp.113–130, 1983. [Online]. Available:
+where the data are drawn from. Other regions may have dif-
+
+ferenttrendswithrespecttoAI,AIethics,andAIgovernance: [9] N. Wu, “‘Restrict foreigners, not robots’: Partisan responses to
+for instance, the European Union might have greater need automation threat,” Econ. Polit., vol.35, no.2, pp.505–528, 2023,
+doi:10.1111/ecpo.12225.
+for these competencies and professionals given its heightened
+[10] M. J. Handel, “Skills mismatch in the labor mar-
+regulatory focus, whereas low-income countries with modest ket,” Annu. Rev. Sociol., vol.29, no. 1, pp.135–165, 2003,
+AI industries might have less of a focus. Questions about the doi:10.1146/annurev.soc.29.010202.100030.
+[11] J.HandelsmanandM.Smith.“STEMforall.”TheWhiteHouseBlog.
+definition and composition of these skills and roles, including
+2016. [Online]. Available: 
+nuances like focuses on risk management versus ethics, are 2016/02/11/stem-all
+worthy of future study. Finally, an important limitation of our [12] The New Frontier: Artificial Intelligence at Work. All Party Parliam.
+GroupAI(APPGAI)Secr.,London,U.K.,Nov.2021.
+analysis is that it does not fully differentiate between core
+[13] D.M.WestandJ.R.Allen.“Howartificialintelligenceistransforming
+AI ethics and AI governance professionals and professionals theworld.”Brookings.[Online].Available:
+in more peripheral roles. Future work should systematically research/how-artificial-intelligence-is-transforming-the-world/
+[14] D.GehlhausandS.Mutis(CenterSecur.Emerg.Technol.,Washington,
+analyze associated differences, including how responsibili-
+DC,USA).TheU.S.AIWorkforce.Jan.2021.[Online].Available:https:
+ties, skill compositions, and organizational positioning vary //live-cset-georgetown.pantheonsite.io/research/the-u-s-ai-workforce/
+between core and peripheral roles. [15] S. Bankins, A. C. Ocampo, M. Marrone, S. L. D. Restubog, and
+S.E.Woo,“Amultilevelreviewofartificialintelligenceinorganizations:
+Along these lines, we hope this analysis encourages future
+Implications for organizational behavior research and practice,” J.
+investigationsintoopportunitiesforgrowthaswellaspotential Organ.Behav.,vol.5,no.2,pp.159–182,2024,doi:10.1002/job.2735.
+misalignment between the skills articulated by employers in [16] Y. Wu and C. Lin, “The hidden multiplier: Unraveling the true cost
+of the global ai skills gap,” IEEE Technol. Soc. Mag., vol.43, no.4,
+job postings and the complex realities faced by AI ethics
+pp.15–23,Dec.2024,doi:10.1109/MTS.2024.3505618.
+and AI governance professionals. Our findings suggest that [17] J.Southworthetal.,“DevelopingamodelforAIacrossthecurriculum:
+these roles are diverse in nature and growing in prevalence Transforming the higher education landscape via innovation in AI
+literacy,”Comput.Educ.,Artif.Intell.,vol.4,Jan.2023,Art.no.100127,
+and importance. Looking ahead, additional research will be
+doi:10.1016/j.caeai.2023.100127.
+essentialtosupportconcertedeffortsbyeducators,employers, [18] X. Fan, “Artificial intelligence’s impact on employment: Challenges,
+regulators, and practitioners to better align training with potential consumers, and policy responses through automation and
+workforce rehabilitating,” Lecture Notes Educ. Psychol. Public Media,
+societal goals and professional practices, ultimately enabling
+vol.73,pp.50–55,Nov.2024,doi:10.54254/2753-7048/73/20241040.
+more effective AI ethics and AI governance work. [19] P. Cardon, C. Fleischmann, M. Logemann, J. Heidewald, J. Aritz,
+and S. Swartz, “Competencies needed by business professionals in
+the AI age: Character and communication lead the way,” Bus.
+Prof. Commun. Quart., vol. 87, no. 2, pp.223–246, Nov. 2023,
+ACKNOWLEDGMENT
+doi:10.1177/23294906231208166.
+The authors are grateful to Lightcast for their willing- [20] T. K. F. Chiu, Z. Ahmad, M. Ismailov, and I. T. Sanusi, “What
+are artificial intelligence literacy and competency? A comprehensive
+ness to share data with the research team. Thank you
+framework to support them,” Comput. Educ. Open, vol.6, Jun. 2024,
+to the Governance and Responsible AI Lab (GRAIL) at Art.no.100171,doi:10.1016/j.caeo.2024.100171.
+Authorized licensed use limited to: Georgetown University. Downloaded on January 21,2026 at 00:39:29 UTC from IEEE Xplore. Restrictions apply.
+
+WIESEetal.:AIETHICSANDGOVERNANCEINTHEJOBMARKET:TRENDS,SKILLS,ANDSECTORALDEMAND 469
+[21] D. Long and B. Magerko, “What is AI literacy? Competencies and [43] G.Auld,A.Casovan,A.Clarke,andB.Faveri,“GoverningAIthrough
+design considerations,” in Proc. CHI Conf. Human Factors Comput. ethicalstandards:Learningfromtheexperiencesofotherprivategover-
+Syst.,Apr.2020,pp.1–16,doi:10.1145/3313831.3376727. nanceinitiatives,”J.Eur.PublicPolicy,vol.29,no.11,pp.1822–1844,
+[22] A. Bewersdorff, M. Hornberger, C. Nerdel, and D. S. Schiff, Aug.2022,doi:10.1080/13501763.2022.2099449.
+“AI advocates and cautious critics: How AI attitudes, AI [44] (CSIRO,Canberra,ACT,Australia).CatalogueofRAIMaturityModels.
+interest, use of AI, and AI literacy build university students’ Accessed:Oct.2,2025.[Online].Available:
+AI self-efficacy,” Comput. Educ., Artif. Intell., vol.8, Jun. 2025, science/projects/responsible-ai-pattern-catalogue/rai-maturity-model/
+Art.no.100340,doi:10.1016/j.caeai.2024.100340. [45] B. Walsh, B. Dalton, S. Forsyth, and T. Yeh, “Literacy and STEM
+teachersadaptAIethicscurriculum,”inProc.AAAIConf.Artif.Intell.,
+[23] M. Hornberger, A. Bewersdorff, and C. Nerdel, “What do university
+vol.37,Jun.2023,pp.16048–16055,doi:10.1609/aaai.v37i13.26906.
+studentsknowaboutartificialintelligence?Developmentandvalidation
+[46] M. Z. Cocchiaro, J. Morley, C. Novelli, E. Panai, A. Tartaro, and
+of an AI literacy test,” Comput. Educ., Artif. Intell., vol.5, Jan. 2023,
+L.Floridi,“WhoisanAIethicist?Anempiricalstudyofexpertise,skills,
+Artno.100165,doi:10.1016/j.caeai.2023.100165.
+and profiles to build a competency framework,” AI Ethics, pp.1–13,
+[24] G. Biesta, “Good education in an age of measurement: On
+Feb.2025,doi:10.1007/s43681-024-00643-y.
+the need to reconnect with the question of purpose in educa-
+[47] T. Turja, T. Särkikoski, P. Koistinen, and H. Melin, “Basic human
+tion,”Educ.Assess.Eval.Account.,vol.21,no.1,pp.33–46,Feb.2009,
+needsandrobotization:Howtomakedeploymentofrobotsworthwhile
+doi:10.1007/s11092-008-9064-9.
+for everyone?” Technol. Soc., vol.68, Feb. 2022, Art. no. 101917,
+[25] S.SidraandC.Mason,“ReconceptualizingAIliteracy:Theimportance doi:10.1016/j.techsoc.2022.101917.
+of metacognitive thinking in an artificial intelligence (AI)-enabled [48] R.Wardetal.,“Towardsa21stcenturypersonalisedlearningskillstax-
+workforce,” in Proc. IEEE Conf. Artif. Intell. (CAI), Jun. 2024, onomy,”inProc.IEEEGlobalEng.Educ.Conf.(EDUCON),Apr.2021,
+pp.1181–1186,doi:10.1109/CAI59869.2024.00211. pp.344–354,doi:10.1109/EDUCON46332.2021.9453883.
+[26] O. Gambelin, “Brave: What it means to be an AI ethicist,” AI Ethics, [49] R. Ward, S. Grant, M. W. Larsen, and K. Giovacchini, “The universal
+vol.1,no.1,pp.87–91,Feb.2021,doi:10.1007/s43681-020-00020-5. micro-credentialframework:Theroleofbadges,micro-credentials,skills
+[27] D.Burema,“Thechallengesofbeinganin-houseAIethicistandhow profiling, and design patterns in developing interdisciplinary learning
+to overcome them,” J. Responsib. Innov., vol.12, no.1, Dec. 2025, and assessment paths for computing education,” IEEE Trans. Educ.,
+Art.no.2445322,doi:10.1080/23299460.2024.2445322. vol.67,no.6,pp.897–906,Dec.2024,doi:10.1109/TE.2024.3486016.
+[28] G. Gigerenzer, “Moral satisficing: Rethinking moral behavior as [50] P.A.Ertmeretal.,“Howinstructionaldesignexpertsuseknowledgeand
+bounded rationality,” Topics Cogn. Sci., vol.2, no.3, pp.528–554, experience to solve ill-structured problems,” Perform. Improv. Quart.,
+2010,doi:10.1111/j.1756-8765.2010.01094.x. vol.21,no.1,pp.17–42,2008,doi:10.1002/piq.20013.
+[51] W.DickandL.Carey,TheSystematicDesignofInstruction.Glenview,
+[29] M. Pinski, T. Hofmann, and A. Benlian, “AI literacy for the top
+IL,USA:Scott,ForesmanCo.,1978.
+management:AnupperechelonsperspectiveoncorporateAIorientation
+[52] J.FulgencioandT.I.Asino,“Conductingalearneranalysis,”inDesign
+and implementation ability,” Electron. Markets, vol.34, no.1, p.24,
+forLearning:Principles,Processes,andPraxis.London,U.K.:EdTech
+Apr.2024,doi:10.1007/s12525-024-00707-1.
+Books,2021.[Online].Available:
+[30] (Eur.Comm.,Brussels,Belgium).ArtificialIntelligenceAct:Regulation [53] Eduventures Research Staff, What We Learned in 2024: The Top 5
+(EU)2024/1689.2024.[Online].Available: Takeaways From Our Analysts, Encoura, Austin, TX, USA. Accessed:
+2024/1689/oj/eng Feb.10,2025.
+[31] “AI risk management framework: AI RMF (1.0),” U.S. Dept. Comm., [54] “Voiceoftheonlinelearner.”Risepoint.2024.[Online].Available:https:
+Nat.Inst.Stand.Technol.,Gaithersburg,MD,USA,Rep.NISTAI100- //risepoint.com/wp-content/uploads/2024/09/VOL-2024.pdf
+1,2023,doi:10.6028/NIST.AI.100-1. [55] M.J.Ahsan,“Cultivatingacultureoflearning:Theroleofleadership
+[32] ExecutiveOrderontheSafe,Secure,andTrustworthyDevelopmentand in fostering lifelong development,” Learn. Organ., vol. 32, no. 4,
+UseofArtificialIntelligence,WhiteHouse,OfficeSci.Technol.Policy, pp.282–306,Aug.2024,doi:10.1108/TLO-03-2024-0099.
+Washington,DC,USA,Oct.2023. [56] A.Muduli,“Workforceagility:Areviewofliterature,”IUPJ.Manag.
+[33] “Responsible AI institute.” Responsible AI. Accessed: Oct. 2, 2025. Res.,vol.12,no.3,pp.1–12,2013.
+[Online].Available: [57] (IRS, Washington, DC, USA). Frequently Asked Questions About
+Educational Assistance Programs Internal Revenue Service. 2024.
+[34] “Ethical AI governance group.” EAIGG. Accessed: Oct. 2, 2025.
+[Online]. Available: 
+[Online].Available:
+questions-about-educational-assistance-programs
+[35] S. Kelley, “Employee perceptions of the effective adoption of [58] (ASU, Tempe, AZ, USA). ASU Earned Admission. Accessed: Oct. 2,
+AI principles,” J. Bus. Ethics, vol. 178, pp.871–893, Feb. 2022,
+2025.[Online].Available:
+doi:10.1007/s10551-022-05051-y. [59] (UtahStateUniv.,Logan,UT,USA).USUEarnedAdmission.Accessed:
+[36] D. S. Schiff, S. Kelley, and J. Camacho Ibáñez, “The emergence of Oct. 2, 2025. [Online]. Available: 
+artificial intelligence ethics auditing,” Big Data Soc., vol.11, no.4, apply/earned-admission
+2025,Art.no.20539517241299732,doi:10.1177/20539517241299732. [60] Purdue Graduate Council, Non-Credit to Credit Policy and Guidelines
+[37] L. Tuovinen and A. Rohunen, “Teaching AI ethics to engineering for Graduate Degrees at Purdue University, Purdue Univ., West
+students:reflectionsonsyllabusdesignandteachingmethods,”inProc. Lafayette,IN,USA,2018.
+CEURWorkshop,2021,pp.19–33. [61] Y.-C. Chen and M. Ahn, “Governing AI systems for public values:
+[38] E. Castillo. “Purdue launches online master of artificial intelligence Designprinciplesandaprocessframework,”inTheOxfordHandbookof
+degree.” BestColleges. Accessed: Mar. 6, 2024. [Online]. Available: AIGovernance,J.B.Bullocketal.,Eds.,Oxford,U.K.:OxfordUniv.,
+ 2024,doi:10.1093/oxfordhb/9780197579329.013.31.
+intelligence-degree/ [62] M. Sadek, E. Kallina, T. Bohné, C. Mougenot, R. A. Calvo, and
+[39] (IEEE Stand. Assoc., Piscataway, NJ, USA). IEEE CertifAIEdTM. S. Cave, “Challenges of responsible AI in practice: scoping review
+and recommended actions,” AI Soc., vol. 40, pp.199–215, Feb. 2024,
+Accessed: Dec. 2, 2025. [Online]. Available: 
+doi:10.1007/s00146-024-01880-9.
+products-programs/icap/ieee-certifaied/
+[63] Q. Lu, L. Zhu, X. Xu, and J. Whittle, “Responsible-AI-by-design: A
+[40] V. Bogina, A. Hartman, T. Kuflik, and A. Shulner-Tal, “Educating
+pattern collection for designing responsible AI systems,” Sep. 2022,
+softwareandAIstakeholdersaboutalgorithmicfairness,accountability,
+arXiv:2203.00905.
+transparencyandethics,”Int.J.Artif.Intell.Educ.,vol.32,pp.808–833,
+[64] S. Rismani and A. Moon, “What does it mean to be a responsible
+Apr.2021,doi:10.1007/s40593-021-00248-0.
+AI practitioner: An ontology of roles and skills,” in Proc.
+[41] J.BorensteinandA.Howard,“EmergingchallengesinAIandtheneed AAAI/ACM Conf. AI, Ethics, Soc., Aug. 2023, pp.584–595.
+forAIethicseducation,”AIEthics,vol.1,no.1,pp.61–65,Feb.2021, doi:10.1145/3600211.3604702.
+doi:10.1007/s43681-020-00002-7. [65] “Job posting analytics (JPA) methodology lightcast knowledge base.”
+[42] (Univ. Pittsburgh, Pittsburgh, PA, USA). DINS and CS Faculty Get Lightcast. Accessed: Apr. 2, 2025. [Online]. Available: 
+Grant from Google to Enhance Ethical Competence in Curriculum. lightcast.io/en/articles/6957446-job-posting-analytics-jpa-methodology
+Accessed: Dec. 2, 2025. [Online]. Available: [66] H. Choi and I. Marinescu, “Data for labor market concentration using
+pitt.edu/news/dins-and-cs-faculty-get-grant-google-enhance-ethical- lightcast (formerly burning glass technologies),” Data Brief, vol.55,
+competence-curriculum Aug.2024,Art.no.110647,doi:10.1016/j.dib.2024.110647.
+Authorized licensed use limited to: Georgetown University. Downloaded on January 21,2026 at 00:39:29 UTC from IEEE Xplore. Restrictions apply.
+
+470 IEEETRANSACTIONSONTECHNOLOGYANDSOCIETY,VOL.6,NO.4,DECEMBER2025
+[67] B.HershbeinandL.B.Kahn,DoRecessionsAccelerateRoutine-Biased [79] T.Eloundou,S.Manning,P.Mishkin,andD.Rock,“GPTsareGPTs:
+Technological Change? Evidence from Vacancy Postings, Nat. Bureau An early look at the labor market impact potential of large language
+Econ.Res.,Cambridge,MA,USA,2017. models,”Aug.2023,arXiv:2303.10130.
+[68] D. J. Deming and K. L. Noray (Nat. Bureau Econ. Res., Cambridge, [80] Economic Census: NAICS Codes & Understanding Industry
+MA, USA). STEM Careers and the Changing Skill Requirements of ClassificationSystems,UnitedStatesCensusBureau,Washington,DC,
+Work.2018.[Online].Available: USA.Accessed:Apr.20,2025.
+[69] J. Fuller, S. Hansen, T. Ramdas, and R. Sadun, “The demand for [81] StandardOccupationalClassification(SOC)System,U.S.BureauLabor
+executiveskills:Centerforeconomicperformance,”Nat.BureauEcon. Stat., Washington, DC, USA, 2018. [Online]. Available: 
+Res.,Cambridge,MA,USA,WorkingPapers,2021. bls.gov/soc
+[70] S. Hemelt, B. Hershbein, S. Martin, and K. Stange, College Majors [82] “Job postings data.” Lightcast. Accessed: Apr. 2, 2025. [Online].
+and Skills- Evidence from the Universe of Online Job Ads.pdf, Nat. Available:
+Bureau Econ. Res., Cambridge, MA, USA, 2021. [Online]. Available: [83] J.FeredayandE.Muir-Cochrane,“Demonstratingrigorusingthematic
+ analysis: A hybrid approach of inductive and deductive coding and
+[71] W. Markow, Hughes, and A. Bundy, The New Foundational Skills of theme development,” Int. J. Qual. Methods, vol.5, no.1, pp.80–92,
+theDigitalEconomy:DevelopingtheProfessionalsoftheFuture,Bus.- Mar.2006,doi:10.1177/160940690600500107.
+HigherEduc.Forum,Washington,DC,USA,2018, [84] G.C.Banks,H.M.Woznyj,R.S.Wesslen,andR.L.Ross,“Areview
+[72] L. Jose Gonzalez-Gomez, S. Margarita Hernandez-Munoz, A. Borja, of best practice recommendations for text analysis in R (and a user-
+J. Daniel Azofeifa, J. Noguez, and P. Caratozzolo, “Analyzing natural friendlyapp),”J.Bus.Psychol.,vol.33,no.4,pp.445–459,Aug.2018,
+language processing techniques to extract meaningful information doi:10.1007/s10869-017-9528-3.
+on skills acquisition from textual content,” IEEE Access, vol.12, [85] M.Prates,P.Avelar,andL.C.Lamb,“Onquantifyingandunderstanding
+pp.139742–139757,2024,doi:10.1109/ACCESS.2024.3465409. the role of ethics in AI research: A historical account of flagship
+[73] D. Acemoglu, D. Autor, J. Hazell, and P. Restrepo, “Artificial intel- conferencesandjournals,”Sep.2018,arXiv:1809.08328.
+ligence and jobs: Evidence from online vacancies,” J. Labor Econ., [86] J.Fjeld,N.Achten,H.Hilligoss,A.Nagy,andM.Srikumar,“Principled
+vol.40,no.S1,pp.S293–S340,Apr.2022,doi:10.1086/718327. artificial intelligence: Mapping consensus in ethical and rights-based
+[74] P. Bastos, K. Stapleton, D. Taglioni, and H. Y. Wei, “Firm networks approachestoprinciplesforAI.”SSRN.2020.[Online].Available:http:
+andglobaltechnologydiffusion,”WorldBankGroup,Washington,DC, //dx.doi.org/10.2139/ssrn.3518482
+USA,WorkingPaper,2024. [87] D. S. Schiff, “Framing contestation and public influence on
+[75] A.Bergson-Shilcock,R.Taylor,andN.Hodge,ClosingtheDigitalSkill policymakers: Evidence from U.S. artificial intelligence policy dis-
+Divide- The Payoff for Workers, Business, and the Economy, Federal course,” Policy Soc., vol. 4, no. 3, Apr. 2024, Art. no. puae007.
+ReserveBankAtlanta,Atlanta,GA,USA,2023. doi:10.1093/polsoc/puae007.
+[76] C. Larsen et al., Eds., “The green transition in labour markets across [88] A.M.Isserman,“Thelocationquotientapproachtoestimatingregional
+europe: an analysis of job postings data,” in Pathways of Greening economic impacts,” J. Amer. Inst. Planners, vol.43, no.1, pp.33–41,
+Labour Markets: Opportunities and Challenges for Regional and Jan.1977,doi:10.1080/01944367708977758.
+Local Labour Market Observation in Europe and Beyond. Baden- [89] A.Singla,A.Sukharevsky,L.Yee,M.Chui,andB.Hall,TheStateof
+Baden, Germany: Nomos Verlagsgesellschaft mbH Co. KG, 2023, AI:HowOrganizationsAreRewiringToCaptureValue,McKinseyCo.,
+doi:10.5771/9783957104236. NewYork,NY,USA,Mar.2025.
+[77] E. Beckett. “Demand for AI skills continues climbing.” Lightcast. [90] TheTransformationalOpportunityofAIonICTJobs:AI-EnabledICT
+Accessed: Apr. 2, 2025. [Online]. Available: WorkforceConsortium,Cisco,SanJose,CA,USA,2024.
+resources/blog/demand-for-ai-skills-continues-climbing [91] N.Maslej etal., TheAIIndex2024AnnualReport:AIIndexSteering
+[78] D.GehlhausandS.Mutis,TheU.S.AIWorkforce,CenterSecur.Emerg. Committee, Institute for Human-Centered AI, Stanford University,
+Technol.,Washington,DC,USA,Jan.2021. Stanford,CA,USA,Apr.2024.
+Authorized licensed use limited to: Georgetown University. Downloaded on January 21,2026 at 00:39:29 UTC from IEEE Xplore. Restrictions apply.

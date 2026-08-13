@@ -1,0 +1,1167 @@
+EU Non-Proliferation and Disarmament Consortium
+non-proliferation and disarmament papers
+Promoting the European network of independent
+No. 100 
+non-proliferation and disarmament think tanks
+CYBER (DIS)ARMAMENT IN PRACTICE:
+THE EU’S ROLE IN GOVERNING
+SOFTWARE VULNERABILITIES IN A
+FRAGMENTED INTERNATIONAL ORDER
+eugenio benincasa
+I. INTRODUCTION
+SUMMARY
+Cyber conflict presents a profound challenge to
+Cyber conflict poses fundamental challenges to traditional
+traditional concepts of disarmament. In contrast
+approaches to disarmament. Cyber capabilities are not
+to con ventional weapons, cyber capabilities are
+discrete weapons, but assemblages of technical and human
+not discrete, state-owned objects that can be
+components, among which software vulnerabilities often
+counted, restricted or dismantled. They consist of
+serve as critical enablers of access and exploitation. This
+evolving combin ations of software, expertise, and paper argues that one of the most plausible ways of
+organizational and operational practices that are pursuing cyber ‘disarmament’ in practice lies in the
+largely dual-use and deeply embedded in civilian governance of software vulnerabilities, particularly
+digital infrastructures. As a result, cyber capabilities through mechanisms for vulnerability disclosure. In this
+resist treatment as coherent objects of disarmament in context, vulnerability disclosure refers to processes
+the classical arms control sense. through which newly discovered software flaws are
+reported, assessed and either remediated or managed by
+This structural mismatch has shifted cyber
+vendors, governments and security researchers.
+dis armament debates away from elimination and
+Vulnerability disclosure does not eliminate cyber
+towards governance. Rather than asking how
+capabilities, but it shapes incentives, constrains windows
+cyber capabilities can be abolished, policymakers
+of exploitation and reduces systemic risk while preserving
+have focused on iden tifying specific points within
+legitimate security and innovation interests.
+the cyber ecosystem where risks can be mitigated
+The paper proceeds in several steps. It first examines the
+without undermining legitimate security, economic or structure of the global vulnerability ecosystem and the
+innovation interests. These include technical tooling, conditions that influence whether vulnerabilities are
+operational infra structure, organizational practices disclosed, retained or circulated. It then explains why
+and norms governing use, with software vulnerabilities international arms control and cyber norm processes have
+occupying a particularly critical position. Therefore, struggled to meaningfully engage cyber capabilities,
+in this paper the term ‘cyber disarmament’ is not used including software vulnerabilities. Against this backdrop,
+the analysis shows how vulnerability governance is
+in the narrow sense of eliminating capabilities, but as
+displaced towards domestic institutional arrangements
+a broader analytical lens that encompasses efforts to
+that operate upstream of cyber operations. It turns to
+constrain, manage and reduce the risks associated with
+Europe as a case study, highlighting partial European
+cyber capabilities in practice, including those typically
+Union-level harmonization alongside persistent national
+associated with arms control.
+fragmentation, and concludes with recommendations for
+The paper argues that one of the most concrete sites
+strengthening Europe’s vulnerability governance
+where cyber disarmament can be pursued in practice
+framework.
+is the governance of software vulnerabilities. Vulner-
+abilities are flaws or weaknesses in software, hardware ABOUT THE AUTHOR
+or computer systems that attackers can exploit to gain
+Eugenio Benincasa is a Senior Cyber Defense Researcher at
+unauthorized access, disrupt operations or cause other
+the Center for Security Studies, ETH Zürich.
+
+2 eu non-proliferation and disarmament consortium
+adverse effects. They are not ‘weapons’ in themselves, ities. Section IV shows how vulnerability governance is
+but they enable many offensive cyber operations by structured within domestic institutional arrangements
+providing access, persistence and escalation pathways that shape disclosure, retention and circulation
+across digital systems. At the same time, the accumu- decisions upstream of cyber operations. Section V maps
+lation and strategic retention of vulnerabilities generate the European Union (EU) landscape, highlighting
+systemic insecurity, exposing civilian infrastructure fragmen tation across legal and institutional approaches
+to exploitation by a wide range of actors, while making and the challenges this poses for coherent vulnerability
+them especially valuable for routine intelligence governance. Finally, section VI derives policy
+collection and espionage. Their value depends on recommendations for strengthening vulnerability
+secrecy and timing, while their mitigation depends on governance in Europe.
+the controlled circulation of information to those able
+to remediate them. As such, vulnerabilities sit at the
+II. THE EMERGENCE OF A GLOBAL
+intersection of offence and defence, public and private
+VULNERABILITY ECOSYSTEM
+actors, and secrecy and transparency.
+Efforts to ‘disarm’ from vulnerabilities do not take In its early stages, vulnerability discovery was largely
+the form of prohibition or limitation, but of disclosure: an informal activity carried out by technically skilled
+decisions about when, how and to whom information individuals, often motivated by curiosity, reputation or
+about software flaws is revealed, including whether community norms.1 Over time, however, vulnerabilities
+they are shared with vendors for patching (i.e. develop- became embedded in structured economic and stra-
+ing and deploying fixes to remove the flaw) or retained tegic relationships, as markets for their sale emerged,
+by governments for operational use. Vulnerability governments began acquiring them for intelligence and
+disclosure does not eliminate cyber capabilities, nor military purposes, and intermediaries professionalized
+does it resolve all dimensions of cyber conflict. Even in their trade. Today, knowledge of software flaws func-
+a world with universal vulnerability disclosure, cyber tions as a form of capital: it can be accumulated, traded,
+operations would remain possible through social engin- withheld or leveraged for competitive advantage.2 As
+eering, misconfigurations, supply chain compromises this ecosystem matured, states increasingly moved
+and other non-vulnerability-based vectors. Instead, beyond their roles as regulators or targets of cyber
+vulnerability disclosure functions as a mechanism that operations to become active participants—discovering,
+shapes the incentives of states, vendors and researchers acquiring and retaining vulnerabilities for intelligence
+towards remediation, and reduces systemic exposure collection and cyber operations, while simultaneously
+to exploitation. From a systemic perspective, disclosure shaping demand and exploiting opacity alongside
+is generally treated as a public good mechanism: it private firms and intermediaries.3
+enables remediation and limits the accumulation To make sense of how this ecosystem operates, this
+of hidden risk across interconnected systems. In paper draws on five interrelated structural conditions:
+this sense, vulnerability governance represents a
+1. Talent: the availability of specialized expertise for
+particularly concrete and policy-relevant site where
+discovering and exploiting vulnerabilities.
+cyber disarmament is pursued in practice (often
+2. Incentives: the rewards and motivations
+unilaterally, through domestic policy choices, rather
+influencing whether vulnerabilities are disclosed or
+than through negotiated multilateral agreements).
+retained.
+This paper examines vulnerability governance as a
+critical—although not exhaustive—component of cyber
+disarmament. Section II traces the emergence of a
+global vulnerability ecosystem and identifies the struc-
+1 Benincasa, E., From Vegas to Chengdu: Hacking Contests, Bug
+tural conditions that shape how vulnerabilities are
+Bounties, and China’s Offensive Cyber Ecosystem (Center for Security
+discovered, valued and circulated. Section III explores Studies (CSS), ETH Zürich: Zürich, ); and Perlroth, N., This
+why international arms control and disarmament Is How They Tell Me the World Ends: The Cyberweapons Arms Race
+(Bloomsbury Publishing: New York, 2021).
+frameworks struggle to engage meaningfully with 2 Böhme, R., ‘A comparison of market approaches to software
+cyber capabilities, including software vulnerabilities, vulnerability disclosure’, Dresden University of Technology, Institute
+reflecting deeper mismatches between traditional arms for System Architecture, 2006; and Smeets, M., No Shortcuts: Why States
+Struggle to Develop a Military Cyber-force (Hurst: London, 2022).
+control assumptions and the nature of cyber capabil-
+3 Perlroth (note 1).
+
+cyber (dis)armament in practice 3
+3. Circulation: the mechanisms and pathways Competitive formats such as capture-the-flag contests
+through which vulnerability knowledge moves and global hacking competitions have institutionalized
+between actors. skill development and created visible pathways from
+4. Exclusivity: the degree to which vulnerability amateur experimentation into professional security
+knowledge is restricted to a limited set of actors. research.7
+5. Transparency: the openness of information sharing At the same time, advanced vulnerability discovery
+and the visibility of ecosystem processes that condition talent remains unevenly distributed. Certain
+how the other four conditions operate.4 regions, institutions and organizations concentrate
+disproportionate shares of high-end expertise, making
+Together, these conditions explain how the
+human capital a strategically salient resource.8 Because
+eco system operates and why certain outcomes—par-
+vulnerability discovery depends primarily on skills
+ticularly limited disclosure and persistent secrecy—
+rather than physical infrastructure, it is difficult to
+remain prevalent.
+constrain, regulate or geographically localize.
+Talent: Human capital as the core input
+Incentives: Disclosure versus retention
+The persistence of vulnerabilities is not accidental but
+Incentives ultimately determine whether
+structural. Modern digital systems are extraordinarily
+vulnerabilities are disclosed, sold or retained. As noted
+complex, often built from millions of lines of code,
+in the discussion of talent, independent researchers
+layered dependencies and legacy components, making
+play a central role in this process, as they often identify
+the elimination of flaws effectively impossible.5
+vulnerabilities that vendors and public authorities
+However, the prevalence of vulnerabilities is not
+lack the capacity, visibility or incentives to discover
+solely a function of technical complexity. The scale
+themselves. For much of the ecosystem’s history,
+and persistence of software insecurity are also shaped
+vendors offered little or no recognition or compensation
+by resource constraints across both private and
+for responsible reporting. Researchers therefore faced a
+public sectors, as well as commercial and regulatory
+clear choice: disclose vulnerabilities without reward or
+environments that often reward speed, feature
+seek buyers willing to pay for secrecy.9 In many cases,
+expansion and low cost over security, resilience and
+particularly for high-impact vulnerabilities, the latter
+long-term maintenance. Reliance on third-party
+option proved more attractive.
+and open-source components further diffuses
+In these segments of the market, secrecy itself
+responsibility across supply chains, while weak
+became the primary source of value. For state actors,
+liability and limited accountability have historically
+retaining exclusive access to vulnerabilities could
+reduced pressure on vendors to invest in more secure
+enable long-term intelligence collection, covert
+development practices.6 Even well-designed systems
+surveillance or disruptive operations. The decision to
+can generate unforeseen vulnerabilities through
+retain rather than disclose typically reflects strategic
+complex interactions between components.
+calculations—the perceived intelligence or operational
+These conditions ensure a continuous demand for
+value of continued secrecy—rather than financial
+individuals capable of identifying vulnerabilities before
+considerations. Conversely, when states do choose
+others do. Over time, the pool of such expertise has
+to disclose, this may serve aims such as signalling
+expanded significantly. Informal hacker communities
+responsible behaviour or supporting broader stability
+have been complemented by university cybersecurity
+in the digital ecosystem.10 As a result, vulnerabilities
+programmes, professional training pipelines, corporate
+research teams and government laboratories.
+7 Benincasa (note 1).
+4 The five conditions were identified and developed as part of a 8 Benincasa, E., Before Vegas: The ‘Red Hackers’ Who Shaped China’s
+forthcoming publication by Dunn et al. (2026). Cyber Ecosystem (Center for Security Studies (CSS), ETH Zürich:
+5 Anderson, R., Security Engineering: A Guide to Building Dependable Zürich, ).
+Distributed Systems, 3 edn (Wiley: London Dec. 2020); and Perrow, C., 9 Perlroth (note 1).
+Normal Accidents: Living With High-risk Technologies, 2nd edn (Prince- 10 Ablon, L. and Bogart, A., Zero Days, Thousands of Nights: The
+ton University Press: Princeton, NJ, 1999). Life and Times of Zero-Day Vulnerabilities and Their Exploits, RAND
+6 Black Duck, ‘Synopsis’, 2026 Open Source Security and Risk Analysis Research Report RR-1751 (RAND Corporation: Santa Monica, CA,
+(OSSRA) Report, 10th edn. 9 Mar. 2017).
+
+4 eu non-proliferation and disarmament consortium
+with the greatest potential impact were frequently the ments designed to reduce uncertainty.14 While these
+least likely to be reported. mechanisms lowered some transaction costs, they also
+The expansion of bug bounty programmes and consolidated high-value vulnerabilities within narrow
+coordinated disclosure frameworks altered this circles. Intermediaries often reinforced secrecy by
+incentive structure for independent researchers and channelling discoveries toward state agencies or select
+security firms to some extent. By offering financial private clients with limited incentives to disclose them
+rewards, reputational benefits and legal clarity, these publicly.
+initiatives created legitimate pathways for monetizing Alongside these opaque markets, a disclosure-
+vulner ability research. Some governments further oriented model developed through bug bounty
+supplemented monetary incentives with non-financial programmes and coordinated vulnerability disclosure
+rewards, such as professional recognition or access to (CVD) services, which facilitate responsible
+elite research environments.11 reporting and remediation of vulnerabilities between
+Nevertheless, several structural challenges persist. researchers and vendors. These mechanisms
+Vulnerability knowledge is time-sensitive, creating formalized responsible reporting by defining payment
+pressure to act quickly before value erodes through structures, disclosure timelines and mediation
+independent discovery. Transactions are shaped procedures between researchers and vendors. They
+by information asymmetries, as buyers and sellers reduced, though by no means eliminated, the legal,
+struggle to assess credibility without revealing procedural and reputational uncertainty that had
+too much. Pricing remains opaque, and enforcing previously deterred researchers from engaging with
+exclusivity is difficult, particularly in informal or vendors directly, creating legitimate alternatives to
+covert markets.12 Ethical ambiguity also persists—once illicit markets. Governments also adopted similar
+a vulnerability is transferred, its subsequent use is approaches, such as establishing national vulnerability
+often beyond the discoverer’s control. This loss of disclosure programmes and streamlined reporting
+control can discourage disclosure to opaque buyers, but mechanisms, both to strengthen defensive postures
+it can equally deter researchers from engaging with and to integrate external talent into national security
+any intermediary—including legitimate ones—thereby ecosystems. Despite these developments, vulnerability
+reinforcing retention. circulation remains highly fragmented. Formal
+disclosure channels coexist with brokered sales and
+Circulation: Pathways, intermediaries and quiet retention strategies, often within the activities
+fragmentation of the same individuals. A single researcher may
+responsibly disclose some vulnerabilities, sell others
+In the ecosystem’s early years, vulnerability circulation privately and withhold still others entirely. Circulation
+relied on informal and often precarious channels. decisions depend on incentives, legal risk, trust and
+Underground forums, personal trust networks, closed perceived strategic value rather than on any single
+mailing lists and private exchanges facilitated trans- governing norm.
+actions, but with high levels of risk. Buyers struggled
+to verify authenticity without exposing themselves Exclusivity: The strategic value of limited knowledge
+to fraud, while sellers faced the challenge of demon-
+strating value without sacrificing exclusivity.13 With In the vulnerability ecosystem, value is determined
+limited enforceable norms or contracts, deception and not only by the technical characteristics of a flaw, but
+reselling were common. by who knows about it and when. Exclusivity—the
+As demand increased, intermediaries emerged to restriction of vulnerability knowledge to a small set
+professionalize these exchanges. Vulnerability brokers of actors—is therefore central.15 Where information
+and exploit acquisition platforms introduced pricing itself is the commodity, scarcity increases value. A
+conventions, buyer vetting and contractual arrange- vulnerability known only to a handful of actors offers
+far greater operational and bargaining power than one
+that is widely disclosed.
+11 Benincasa (note 1). 14 Kannan, K. and Telang, R., ‘Market for software vulnerabilities?
+12 Böhme (note 2); and Smeets (note 2). Think again’, Management Science, vol. 51, no. 5 (2005).
+13 Böhme (note 2). 15 Kannan and Telang (note 14).
+
+cyber (dis)armament in practice 5
+Many vulnerabilities are publicly catalogued to remain exploitable.19 In this sense, transparency serves
+support tracking and remediation, notably through the a collective security function.
+Common Vulnerabilities and Exposures (CVE) system. At the same time, transparency exists in constant
+While hundreds of thousands of vulnerabilities are tension with exclusivity. Disclosure enables patching
+documented, only a small fraction is ever observed to but simultaneously destroys the operational and
+be exploited in practice. This gap underscores a key economic value of a vulnerability.20 This tension
+point: operational relevance is driven less by technical produces two competing logics. A defensive logic
+severity than by control over information.16 prioritizes remediation—and the visibility needed to
+The distinction between patched vulnerabilities enable it—to reduce harm, while an offensive logic
+(N-days) and unpatched, undisclosed vulnerabilities treats vulnerability knowledge as a strategic resource
+(zero-days) illustrates this dynamic.17 Zero-days are whose value depends on secrecy.
+especially valuable because no remediation exists For many years, the extent of state participation in
+at the time of discovery, increasing the likelihood offensive vulnerability practices remained opaque.
+of successful exploitation. Their value, however, is Public understanding shifted following major
+inherently temporary and depends on continued disclosures in the early 2010s, which revealed extensive
+secrecy. Once disclosed or independently discovered, retention and use of undisclosed vulnerabilities by
+their strategic utility rapidly declines. intelligence agencies.21 These revelations crystallized
+Historically, norms of responsible disclosure sought what is often described as the ‘retain or disclose’
+to limit exclusivity by encouraging researchers to dilemma: whether to preserve vulnerabilities for
+notify vendors privately before public release. While strategic use or disclose them to enable remediation.22
+these norms aimed to balance user protection with This dilemma highlights a structural feature of the
+researcher recognition, alternative logics gradually ecosystem. States can retain vulnerabilities while
+gained prominence. Governments, private brokers and avoiding public accountability for retention decisions,
+illicit buyers increasingly treated exclusivity as an asset exploiting gaps in transparency to preserve operational
+to be preserved rather than reduced. In these contexts, flexibility. As more actors acquire comparable
+withholding information maximizes both economic capabilities, transparency mechanisms themselves
+returns and strategic leverage.18 increasingly become objects of strategic contestation
+Exclusivity thus functions as a central hinge in rather than neutral tools of governance.
+the ecosystem. It links talent to incentives, shapes These structural features help explain why software
+circulation pathways and constrains the effectiveness vulnerabilities are unusually difficult objects of
+of transparency mechanisms. security governance. Unlike many other components
+of cyber capability, they are latent flaws embedded in
+Transparency: Visibility, secrecy and strategic widely used digital systems and can simultaneously
+ambiguity function as operational opportunities for some actors
+and systemic risks for others. They are discovered
+Transparency mechanisms shape which vulnerabilities through human skill rather than industrial processes,
+become visible, how remediation is tracked and derive value from exclusivity rather than accumulation,
+whether actors can be held accountable. Public circulate through fragmented pathways that cut across
+databases, vendor advisories and coordinated public and private actors, and are inherently transient.
+disclosure processes aim to reduce systemic risk by Their value degrades over time as independent
+shortening the period during which vulnerabilities discovery, software updates or system changes can
+19 Cavusoglu, H., Cavusoglu, H. and Raghunathan, S., ‘Emerging
+16 VulnCheck, ‘State of exploitation—A peek into the last decade of issues in responsible vulnerability disclosure’, Proceedings of the 18th
+vulnerability exploitation’, 5 ; and Cyentia Institute et al., ‘A Bled eConference, 6–8 .
+visual exploration of exploitation in the wild: The inaugural study of 20 Smeets, M., ‘The strategic promise of offensive cyber operations’,
+EPSS data and performance’, . Strategic Studies Quarterly, vol. 12, no. 3 (2018).
+17 N-days are known vulnerabilities for which a patch or update 21 Greenwald, G., No Place to Hide: Edward Snowden, the NSA, and the
+already exists; zero-days are vulnerabilities that are not yet known to US Surveillance State (Metropolitan Books: New York, 2014).
+the affected vendor or defenders, meaning there have been zero days to 22 Leal, M. M. and Musgrave, P., ‘Backwards from zero: How the US
+develop and deploy a patch. public evaluates the use of zero-day vulnerabilities in cybersecurity’,
+18 Perlroth (note 1). Contemporary Security Policy, vol. 44, no. 3 (2023).
+
+6 eu non-proliferation and disarmament consortium
+render them obsolete regardless of the holder’s intent, discovered, retained and disclosed. Calls to regulate
+which is arguably the most important difference to or limit offensive cyber capabilities have circulated
+conventional arms. Their strategic utility depends less for more than two decades, from early warnings of
+on visible deployment than on secrecy, uncertainty a ‘Cyber 9/11’ to periodic editorials advocating cold
+and the management of information asymmetries over war-style limits on offensive cyber capabilities.23 Yet
+time. As a result, the vulnerabilities with the greatest international debates in cyber-focused multilateral
+operational significance are often those least visible forums have largely failed to engage with these
+to external observers and least amenable to collective proposals, and where they have, they have struggled to
+oversight. make meaningful progress. This omission is not simply
+These characteristics have direct implications for an oversight or a lack of political will. It reflects deeper
+efforts to reduce risks associated with cyber operations. structural mismatches between traditional arms
+Vulnerabilities are not discrete weapons or platforms, control frameworks and the nature of cyber capabilities
+but forms of knowledge whose value is perishable more broadly.24
+and whose control depends on practices of discovery, Arms control regimes were developed to regulate
+retention and disclosure across heterogeneous actors. capabilities that are observable, attributable and
+Governing such an ecosystem therefore requires comparatively stable over time. They presuppose
+interventions at the level of incentives, information identifiable objects of control, clear distinctions
+flows and institutional interfaces, not merely at the between possession and use, clear distinctions
+level of observable use. between military and civilian application, and
+These dynamics imply that vulnerabilities are governance mechanisms anchored in state authority,
+currently governed through two partially overlapping monitoring and verification. Cyber capabilities—such
+layers. The first is market-facing and encompasses as the vulnerabilities that enable them—fit poorly
+vendor obligations, CVD and disclosure pathways, within these assumptions.25 They are intangible,
+including independent researchers and private security rapidly depreciating, structurally dual-use and often
+actors that shape remediation. The second is state- embedded in private or transnational ecosystems
+facing and concerns how governments decide whether beyond direct state control. Their strategic value
+to disclose or retain vulnerabilities discovered through depends less on accumulation than on selective
+public sector activity, or to ‘disarm’ from them. A non-disclosure, and less on use than on the credible
+broader governance gap also exists around commercial possibility of use under conditions of uncertainty.26
+vulnerability and exploit brokers, although addressing Vulnerabilities make these tensions particularly
+that intermediary market lies beyond the scope of this visible. Although they are only one component of
+paper. Rather, this paper focuses on the disclosure– broader cyber capabilities, they sit at the intersection
+retention nexus at the core of vulnerability governance. of offence and defence, public and private actors, and
+These structural features explain why disclosure secrecy and transparency. As a result, they expose the
+is the core governance problem and why multilateral limits of arms control logics more clearly than many
+‘cyber disarmament’ debates have struggled to engage other elements. Understanding why arms control
+vulnerabilities in concrete terms. Section III shows frameworks struggle to engage cyber capabilities in
+how arms control assumptions collide with the general is thus a necessary step towards explaining
+socio-technical nature of cyber capabilities, leaving why vulnerability governance is largely dealt with
+vulnerability governance largely outside the field of within domestic institutional arrangements.
+view.
+III. THE LIMITS OF ARMS CONTROL 23 Clarke, R. A. and Knake, R. K., Cyber War: The Next Threat to
+FRAMEWORKS IN GOVERNING CYBER National Security and What to Do About It (Ecco: New York, 2010); and
+Editorial Board, ‘Arms control for a cyberage’, New York Times, 26 Feb.
+CAPABILITIES
+2015.
+24 Libicki, M. C., Cyberdeterrence and Cyberwar (RAND Corporation:
+If software vulnerabilities constitute a critical
+Santa Monica, CA, 10 Sep. 2009).
+enabling input to contemporary cyber operations, 25 Perkovich, G. and Levite, A. E. (eds), Understanding Cyber
+then any credible approach to arms control must, Conflict: 14 Analogies, Carnegie Endowment for International Peace
+(Georgetown University Press: Washington, DC, 2017).
+at least implicitly, engage how vulnerabilities are
+26 Smeets (note 2).
+
+cyber (dis)armament in practice 7
+Challenges in establishing cyber norms includes control over information content deemed
+threatening to social or political stability, advancing a
+The United Nations has been the primary international
+sovereignty-centred model of internet governance.30
+forum for negotiating norms governing state behaviour
+These differences complicate agreement on what
+in cyberspace. Since 2004, a series of UN groups of
+constitutes offensive or defensive cyber activity and
+governmental experts (GGE)—most recently titled
+limit states’ willingness to endorse norms that might
+the GGE on Advancing Responsible State Behavior in
+constrain their freedom of action. At the same time,
+Cyberspace in the Context of International Security—
+however, nothing prevents individual states from
+have examined how information and communications
+proactively implementing the GGE norms.31
+technology (ICT) developments affect national security
+These tensions culminated in the failure to reach
+and military affairs. They have been given a mandate to
+an agreement at the fifth GGE in 2017, after China
+recommend norms, rules and principles for responsible
+and Russia rejected references to self-defence,
+state behaviour, to examine the applicability of inter-
+countermeasures and international humanitarian law
+national law to cyberspace and to propose confidence-
+(IHL), arguing that such language could legitimize
+building measures and capacity-building initiatives.27
+the militarization of cyberspace. In response, parallel
+Following the 2007 cyber operations against Estonia
+initiatives emerged. Technology companies proposed
+and the 2008 conflict in Georgia, cyberspace gained
+voluntary frameworks such as the Digital Geneva
+recognition as a core security domain rather than a
+Convention and the Charter of Trust, while states
+peripheral technical issue.28 In 2013 the GGE formally
+launched the open-ended working group (OEWG) in
+affirmed that international law applies to cyberspace,
+2018 to broaden participation beyond the limited GGE
+and in 2015 agreed on a set of 11 voluntary, non-binding
+format.32
+norms of responsible state behaviour—later endorsed
+The OEWG process proved more inclusive and
+by all UN member states through a UN General
+led to a consensus report in 2021 that reflected
+Assembly resolution—alongside confidence-building
+greater convergence on the applicability of IHL in
+measures aimed at enhancing stability and security.29
+cyberspace.33 The latest OEWG mandate for the period
+Among these norms was a general commitment to
+2021–25 established a permanent mechanism intended
+responsible vulnerability handling. However, this com-
+to provide continuity and inclusiveness in discussions
+mitment remained high level and aspirational. It did
+on responsible state behaviour in cyberspace, which
+not specify disclosure timelines, clarify responsibilities
+will begin its work in 2026. Nevertheless, neither
+between states and private actors or address the
+process advanced concrete mechanisms for governing
+ten sion between vulnerability disclosure and state
+vulnerability discovery, retention or disclosure.
+retention for intelligence or military purposes. As a
+Parallel initiatives outside the UN, such as the Pall
+result, vulnerabilities were acknowledged rhetorically
+Mall Process launched by the United Kingdom and
+but left largely ungoverned in operational terms.
+France in 2023, have focused on principles governing
+More broadly, the implementation of cyber
+the development, acquisition and use of cyber
+norms remains incipient, while the application of
+intrusion capabilities, including explicit attention to
+international law in cyberspace—although more
+vulnerabilities and exploit marketplaces. While the Pall
+advanced—remains contested, due to divergent
+Mall Process remains normative and non-binding, it
+conceptions of cybersecurity itself. Western states
+seeks to arrive at more concrete results than previous
+tend to frame cybersecurity around the protection
+efforts, including a code of practice for industry
+of networks and information systems and defend the
+free flow of information as integral to the internet’s
+architecture. By contrast, other states, including China 30 Lieberthal, K. and Singer, P. W., Cybersecurity and US–China
+and Russia, adopt a broader conception that explicitly Relations, John L. Thornton China Center at Brookings (Brookings:
+Washington, DC, Feb. 2012).
+31 Paulus, A., ‘Why Germany should practice the cyber norms it
+27 United Nations, General Assembly, Report of the Group of preaches: The case of vulnerabilities equities’, Heinrich-Böll-Stiftung,
+Governmental Experts on Developments in the Field of Information and 2022.
+Telecommunications in the Context of International Security, A/70/174, 32 Paulus, A., ‘The global cyber norms debate’, Building Bridges in
+22 . Cyber Diplomacy: How Brazil Shaped Global Cyber Norms (Springer:
+28 Markoff, J., ‘Before the gunfire, cyberattacks’, New York Times, Cham, 2024).
+12 Aug. 2008. 33 Gavrilović, D., ‘What’s new with cybersecurity negotiations? The
+29 United Nations, General Assembly (note 27). 2021 UN GGE report’, 6 .
+
+8 eu non-proliferation and disarmament consortium
+that is expected to address vulnerability handling all other components of the assemblage—people,
+alongside other issues, and a code of practice for tools, infrastructure and organization—not only
+states that includes several references to vulnerability vulnerabilities.
+management.34 The people component encompasses a wide range
+Despite two decades of multilateral dialogue, clear of expertise, including vulnerability researchers,
+and enforceable rules governing offensive cyber developers, operators, linguists, planners and legal
+operations remain elusive. The difficulty lies not only advisers. The exploits component includes the code,
+in political disagreement, but in the mismatch between techniques and delivery mechanisms used to leverage
+arms control assumptions and the nature of cyber vulnerabilities, which may range from patched and
+capabilities themselves, particularly those rooted in unpatched N-days to zero-days, the latter offering
+software vulnerabilities. particular operational advantage because they remain
+unknown to vendors. Tools may be custom-built for
+Cyber capabilities as assemblages stealth or repurposed from publicly available resources.
+Infrastructure includes target databases and cyber
+A central reason why arms control frameworks ranges, while organization refers to the institutional
+struggle to engage software vulnerabilities lies not arrangements—including rules, norms and standard
+merely in how offensive cyber capabilities are defined, operating procedures—that integrate intelligence,
+but in how they exist in practice. Offensive cyber military and political objectives. This dispersion of
+capabilities are not unitary objects, but assemblages capability across human, technical and organizational
+of distinct and interdependent components, including components further complicates any attempt to isolate
+software vulnerabilities.35 vulnerabilities as governable ‘weapons’ within arms
+Cyber operations depend on the interaction of control frameworks.
+‘information technology, skills, and organizations’, Even recent initiatives such as the Pall Mall Process
+rather than on discrete technical artefacts alone.36 avoid defining cyber intrusion capabilities as unitary
+Cyber capability can be further disaggregated using objects. Instead, they disaggregate components such
+the PETIO framework into people, exploits, tools, as vulnerabilities and exploit development, implicitly
+infrastructure and organization, underscoring that acknowledging the difficulty of treating them as arms
+offensive cyber capability emerges from the interaction control objects. This component-based and deeply
+of multiple, often inseparable elements rather than entangled nature of offensive cyber capabilities has
+from discrete weapons.37 Within this framework, direct consequences for arms control practice. Rather
+software vulnerabilities are best understood as than governing discrete, observable objects, arms
+an important, albeit not necessary, enabling input control would need to engage with capabilities that
+located primarily within the exploits component, emerge from the interaction of people, knowledge,
+but they do not, on their own, amount to an offensive tools, infrastructure and organizational processes.
+cyber capability. Vulnerabilities acquire strategic The implications of this assemblage structure are
+significance only when combined with skilled not merely conceptual, they directly constrain
+operators, tailored tooling, operational infrastructure the feasibility of applying traditional arms control
+and organizational capacity capable of discovering, mechanisms to cyberspace.
+weaponizing, deploying and sustaining their use.
+From an arms control perspective, this disaggregation The practical limits of cyber arms control
+matters because it renders vulnerabilities legible
+only as one transient input among many, rather Because offensive cyber capabilities exist as
+than as a discrete object of regulation. Equally, any assemblages rather than discrete weapons, the core
+meaningful disarmament effort would need to address mechanisms on which traditional arms control relies
+encounter persistent operational obstacles. Four
+challenges are particularly salient, alongside the
+34 Paulus, A., ‘Tackling the proliferation of cyber intrusion
+broader absence of a dedicated international legal
+capabilities’, Lawfare, 4 .
+35 Slayton, R., ‘What is the cyber offense–defense balance?’, framework for governing cyber capabilities.
+International Security, vol. 41, no. 3 (2017); and Smeets (note 2). First, assessing relative strength. Arms control
+36 Slayton (note 35).
+typically relies on the ability to assess relative
+37 Smeets (note 2).
+
+cyber (dis)armament in practice 9
+capabilities. Because cyber capabilities take the form United States–NATO and the Soviet Union–Warsaw
+of assemblages rather than discrete weapons, such Pact . . . there is little basis for hope’.40
+as nuclear warheads or conventional munitions, The structural features of the vulnerability eco-
+they cannot be counted. In some cases, certain system identified above (see section II) help explain
+components—such as exploit code and tooling—can be why these limitations are particularly acute in the
+duplicated and shared at negligible cost through code case of software vulnerabilities. Vulnerabilities are
+reuse and digital transfer. produced through dispersed human expertise rather
+Second, verification of compliance. Verification than industrial processes, making them difficult to
+would require unprecedented access to national localize or constrain. Incentives within the ecosystem
+networks, blurring the line between compliance frequently favour selective retention over disclosure,
+monitoring and espionage. In an assemblage-based especially where exclusivity enhances strategic or
+capability, such access would expose not only economic value. Circulation occurs through frag-
+deployed tools but also underlying exploit knowledge, mented path ways that cut across public and private
+organizational processes and defensive weaknesses. actors, while transparency mechanisms remain
+Third, enforcement. Enforcing compliance is partial, uneven and contested. These characteristics
+equally problematic. Attribution remains contested, undermine the core assumptions on which arms
+both technically and politically. Even when technical control rest: observability, attribution and the existence
+attribution is possible, identifying responsible human of stable objects of regulation.
+actors is far more difficult—given that assemblage- In this sense, vulnerabilities do not merely fall
+based capabilities distribute responsibility across outside existing arms control frameworks, they
+individuals, teams, contractors and institutions—and actively expose their limits. The very properties that
+the critical step of assigning political responsibility make vulner abilities valuable for cyber operations—
+to a state remains contested.38 Delays in detecting secrecy, perishable knowledge and asymmetric
+intrusions further weaken deterrence, as the deterrent information—also render them poor candidates for
+effect of a response is likely to be diluted by the simple multilateral restraint. While international forums may
+passage of time.39 acknowledge vulnerabilities as sources of systemic
+Finally, political willingness. Even if these technical risk, they lack the institutional levers to govern how
+obstacles could be partially mitigated, meaningful vulnerabilities are discovered, retained or disclosed in
+arms control would require states to accept constraints practice.
+on activities that are central to routine intelligence Rather than being governed through international
+collection and cyberespionage. Because the same prohibition or limitation, vulnerabilities are managed
+software vulnerabilities that enable disruptive cyber through domestic institutional arrangements. States
+operations also underpin persistent access and intervene upstream of use by shaping disclosure
+intelligence gathering, states have strong incentives to incentives, structuring relationships with private
+preserve secrecy and operational flexibility rather than researchers and firms, and establishing internal
+commit to binding limitations. processes to adjudicate whether vulnerabilities
+Such constraints make the emergence of a discovered or acquired by government actors should be
+comprehensive cyber arms control agreement disclosed or retained.
+improbable. While future developments, such as To understand how vulnerability governance oper-
+improved attribution mechanisms, may alter this ates in practice, it is therefore necessary to move from
+assessment, no rapid transformation in global cyber international debates toward domestic environments in
+governance should be expected any time soon. As one which disclosure decisions are actually made.
+cybersecurity expert cautions, ‘a good deal depends
+on what one means by arms control. If the model were
+IV. VULNERABILITY GOVERNANCE AS
+to be something like the treaties signed between the
+DOMESTIC INSTITUTIONAL PRACTICE
+Vulnerability governance is best understood as a set of
+38 Egloff, F. J., ‘Contested public attributions of cyber incidents and domestic institutional arrangements that shape how
+the role of academia’, Contemporary Security Policy, vol. 41, no. 1 (2020).
+39 Borghard, E. and Lonergan, S., ‘Cyber operations as imperfect tools
+of escalation’, Strategic Studies Quarterly, vol. 12, no. 3 (2018). 40 Libicki (note 24).
+
+10 eu non-proliferation and disarmament consortium
+software flaws are discovered, retained and disclosed transition from private knowledge to public
+in practice. National legal systems, administrative remediation. Even where disclosure remains formally
+processes and structured relationships between public voluntary, institutional signals such as procurement
+authorities and private actors play a decisive role in expectations, enforcement discretion and public
+regulating vulnerability-related activity, intervening recognition play a central role in shaping researcher
+at the level of knowledge production, circulation and behaviour.
+control. The second layer is state-facing. It concerns how
+In practice, states manage cyber risk not by governments handle vulnerabilities discovered or
+prohibiting capabilities as such, but by structuring the acquired through public sector activity, including
+conditions under which vulnerabilities are identified, intelligence collection, law enforcement operations,
+reported, shared or withheld among researchers, firms procurement and cooperation with private contractors.
+and government agencies. Governance takes the form Here, vulnerabilities are treated not only as security
+of rules, norms and procedures that determine who risks to be mitigated, but also as potential strategic
+may discover vulnerabilities, how they may report assets. Decisions about disclosure or retention involve
+them and under what conditions information about balancing competing equities: the defensive benefits of
+software flaws may circulate.41 patching and reducing systemic exposure versus the
+Across jurisdictions, domestic vulnerability govern- intelligence or operational value of continued secrecy.44
+ance typically operates along two partially overlapping Unlike market-facing disclosure, state-facing
+layers. The first layer is market-facing. It encompasses vulnerability governance is typically opaque. Internal
+coordinated vulnerability disclosure (CVD) practices, decision processes, oversight arrangements and
+vendor vulnerability management obligations, report- outcome data are rarely public, even in democratic
+ing pipelines, and the legal and procedural treatment systems. Yet these decisions have systemic effects.
+of independent security researchers.42 As a baseline Retained vulnerabilities increase exposure across
+condition, vulnerability discovery itself operates in a shared digital infrastructures, while disclosure
+legally constrained space: across jurisdictions, actively decisions shape vendor patching timelines and global
+probing information systems for flaws without the risk distribution. As a result, state-facing governance
+system owner’s authorization is generally treated plays a central role in determining how long high-
+as unauthorized access, even when undertaken for impact vulnerabilities remain exploitable in the wild.
+defensive or research purposes. These arrangements Crucially, these two layers are interdependent.
+therefore play a decisive role in determining whether Market-facing disclosure ecosystems shape the pool of
+vulnerability discovery feeds into remediation vulnerabilities available to states, while state incentives
+processes or is diverted into opaque markets. Where influence the broader disclosure environment.
+disclosure channels are predictable, legally protected Where states prioritize early access and control over
+and operationally responsive, vulnerabilities are more vulnerability information, market-facing disclosure
+likely to be reported responsibly and patched. Where may be constrained or redirected. Where states signal
+disclosure is legally risky, poorly coordinated or slow, a presumption toward disclosure and remediation,
+incentives shift toward private sale, quiet retention or private reporting channels tend to strengthen.
+non-disclosure.43 Vulnerability governance thus emerges from the
+Market-facing governance is therefore not merely interaction between public authority and private
+technical. It performs an allocative function within discovery rather than from either domain alone.
+the vulnerability ecosystem by shaping which actors Because these arrangements are embedded in
+are rewarded for disclosure, which bear legal or domestic legal and institutional contexts, vulnerability
+reputational risk and how quickly vulnerabilities governance varies significantly across jurisdictions.
+Differences in criminal law, administrative capacity,
+regulatory philosophy and national security priorities
+41 European Union Agency for Cybersecurity (ENISA), Coordinated produce distinct governance outcomes even where
+Vulnerability Disclosure Policies in the EU (ENISA: Heraklion, Apr.
+formal norms appear similar. Vulnerability governance
+2022).
+42 Householder, A. et al., Coordinated Vulnerability Disclosure is therefore best understood not as a global regime,
+Guide for Researchers and Developers, Software Engineering Institute
+(Carnegie Mellon University: Pittsburgh, PA, Aug. 2017).
+43 Ablon and Bogart (note 10). 44 Ablon and Bogart (note 10).
+
+cyber (dis)armament in practice 11
+but as a set of nationally specific institutional of products with digital elements. The CSA structures
+configurations operating within a shared technical ENISA’s mandate and the EU cybersecurity
+ecosystem. certification regime.
+Where authority over vulnerability governance is Yet harmonization remains limited in certain
+concentrated within a single state, these arrangements respects. While the CRA establishes significant
+can be internally coordinated. Where authority obligations for manufacturers of products with digital
+is distributed across multiple levels, governance elements, including mandatory notification of actively
+outcomes depend on how competencies are divided and exploited vulnerabilities to ENISA and national
+aligned. This distinction has particularly important computer security incident response teams (CSIRTs)—
+implications for the EU, where authority over which handle incident monitoring and response—these
+cybersecurity is divided rather than centralized. instruments do not harmonize substantive criminal
+law, establish EU-wide safe harbour protections for
+independent researchers, or regulate how member
+V. MULTI-LEVEL AND FRAGMENTED
+states handle vulnerabilities discovered or acquired
+VULNERABILITY GOVERNANCE IN THE EU
+by government actors. The result is a multi-layered
+The European Union offers a particularly instructive vulnerability governance ecosystem in which
+case for examining how vulnerability governance harmonization advances in product regulation and
+operates in practice. As a multi-level polity, it information infrastructure, while fragmentation
+illustrates both the possibilities and the limits of persists in relation to researcher liability and state
+harmonizing governance across jurisdictions that vulnerability practices.
+retain independent authority over criminal law and
+intelligence activities. The analysis that follows applies Building an EU-level vulnerability governance
+the two-layer framework developed above—market- architecture
+facing and state-facing governance—to trace where
+EU-level harmonization has advanced and where At EU level, vulnerability governance operates through
+fragmentation persists. the interaction of product regulation and institutional
+EU-level legislation increasingly regulates product coordination mechanisms. These instruments
+security, manufacturer obligations and institutional structure how vulnerabilities are reported, shared and
+coordination across the single market, while decisions remediated across the single market.
+affecting independent vulnerability researchers The CRA is a directly applicable regulation
+and state-held vulnerabilities remain largely within establishing uniform cybersecurity requirements
+national competence.45 Recent measures, including for hardware and software products with digital
+the NIS2 directive on cybersecurity (Directive (EU) elements placed on the EU market. Its core objective
+2022/2555), the Cyber Resilience Act (CRA; Regulation is to ensure that products are designed, developed and
+(EU) 2024/2847) and the evolving Cybersecurity maintained with security in mind throughout their
+Act (CSA; Regulation (EU) 2019/881) framework, lifecycle. Central to this framework are mandatory
+have strengthened EU-level coordination, reporting vulnerability management and reporting obligations
+obligations and product security requirements. imposed on manufacturers. From 11 ,
+NIS2 designates national vulnerability disclosure manufacturers are required to report actively exploited
+coordinators and mandates the establishment of the vulnerabilities and severe security incidents to a
+EU Agency for Cybersecurity’s (ENISA) European national CSIRT and to ENISA via a single reporting
+Vulnerability Database—a centralized platform for platform. Reporting must follow tight timelines: an
+collecting, organizing and sharing information on early warning within 24 hours of becoming aware of
+disclosed software and hardware vulnerabilities to exploitation, a detailed report within 72 hours and a
+support coordinated response and mitigation across final report within 14 days of a fix becoming available.46
+the EU. The CRA imposes lifecycle vulnerability
+management and reporting duties on manufacturers
+46 Regulation (EU) 2024/2847 of the European Parliament and of the
+45 Christou, G., Cybersecurity in the European Union: Resilience and Council of 23 on horizontal cybersecurity requirements
+Adaptability in Governance Policy (Palgrave Macmillan: London, 2022); for products with digital elements and amending Regulations (EU)
+and ENISA (note 41). no. 168/2013 and (EU) no. 2019/1020 and Directive (EU) 2020/1828
+
+12 eu non-proliferation and disarmament consortium
+While the CRA concentrates on lifecycle security adequate safeguards.48 Experts have similarly
+and reporting duties for manufacturers, NIS2 requires cautioned that mandatory reporting of exploited
+member states to designate national vulnerability vulnerabilities to public bodies could, under certain
+disclosure coordinators and empowers national conditions, increase the risk of information leakage or
+CSIRTs to facilitate coordinated disclosure processes secondary exploitation, particularly where reporting
+between researchers and vendors. NIS2 also mandates channels are insufficiently secured or sensitive
+the establishment of ENISA’s European Vulnerability information is broadly shared.
+Database, intended to centralize vulnerability Collectively, NIS2, the CRA and the evolving CSA
+information at EU level. amount to a gradual centralization of vulnerability
+The CRA’s reporting architecture, combined with the governance at EU level in relation to products,
+launch of ENISA’s European Vulnerability Database in manufacturers and institutional coordination.
+2025, creates an EU-level information infrastructure Yet this harmonization remains functionally
+for vulnerability coordination and situational asymmetric. It standardizes reporting obligations
+awareness.47 Together, these mechanisms standardize and information flows but leaves unregulated two
+how exploited vulnerabilities are identified, reported politically sensitive domains: the criminal law status of
+and remediated, while facilitating rapid information independent researchers and the handling of state-held
+sharing among member states. From a systemic vulnerabilities.
+perspective, this framework reduces fragmentation in
+vendor practices, raises baseline security expectations National approaches to independent vulnerability
+and strengthens the EU’s capacity for early warning research in the EU
+and coordinated response to large-scale exploitation.
+It also limits the circulation of insecure products In contrast to the increasing harmonization of
+within the single market by embedding vulnerability vendor obligations, the legal position of independent
+management requirements into product regulation. vulnerability researchers remains fragmented across
+A key complementary development is the proposed the EU. These are individuals or teams who identify
+reform of the Cybersecurity Act, unveiled by the and test software flaws without a formal employment
+European Commission in . The original relationship or contractual mandate from the affected
+CSA established ENISA’s permanent mandate and the vendor or system owner. Where good-faith security
+EU cybersecurity certification framework. The new research is not clearly protected in legislation, legality
+proposal seeks to introduce risk-based limitations that defaults to national criminal law frameworks. As a
+could restrict certain high-risk suppliers from parts of result, researcher liability remains primarily a matter
+the single market. While not directly a vulnerability of member state competence, and statutory safe
+disclosure instrument, the CSA framework interacts harbour protections are absent in many jurisdictions.
+with the CRA by shaping trust and certification This produces a structural asymmetry within the
+requirements that may influence how vulnerabilities European vulnerability ecosystem. Manufacturers
+are assessed and managed across certified products. are subject to mandatory disclosure and reporting
+At the same time, this EU-level architecture does obligations, and national CSIRTs must facilitate
+not resolve all structural tensions in the vulnerability vulnerability coordination under NIS2. Independent
+ecosystem. In particular, the CRA’s requirement for researchers, by contrast, often operate under general
+rapid reporting of unresolved vulnerabilities to public computer misuse provisions rather than research-
+authorities has raised concerns among industry and specific legal protections.
+civil society actors. In an open letter, senior figures Part of this uncertainty is rooted in the legal
+from more than 50 organizations, including Google, architecture established by the 2001 Convention on
+Trend Micro and the Electronic Frontier Foundation, Cybercrime (Budapest Convention) and reproduced
+warned that this approach could create a real-time through its incorporation into national criminal
+repository of unmitigated vulnerabilities accessible law across EU member states. Article 2 criminalizes
+to multiple public authorities, potentially without intentional unauthorized access carried out ‘without
+(Cyber Resilience Act), Official Journal of the European Union, 20 Nov.
+2024. 48 Electronic Frontier Foundation (EFF) et al., ‘Open Letter on the
+47 ENISA (note 41). Cyber Resilience Act and Vulnerability Reporting’, 3 Oct. 2023.
+
+cyber (dis)armament in practice 13
+right’.49 Although the Budapest Convention allows procedures.52 Article 269c exempts acts such as
+states to require additional elements, such as breach of unauthorized access or system interference from
+security measures or dishonest intent, these limitations punishment when conducted exclusively for the
+are optional and depend on national implementation. purpose of securing ICT systems, provided the
+The framework therefore leaves the boundary between researcher promptly notifies the system administrator
+malicious intrusion and legitimate vulnerability and no public or private interests are harmed. France
+research insufficiently defined.50 embeds vulnerability disclosure in statutory law and
+Directive 2013/40/EU on attacks against information provides a formal legal pathway for researchers who
+systems largely mirrors the Budapest Convention’s report vulnerabilities in good faith and through the
+structure but introduces interpretive nuance. national cybersecurity agency (ANSSI).53 Lithuania
+Paragraph 17 clarifies that criminal liability does not adopted a similarly formalized model in 2021 through
+arise where acts lack criminal intent, including in cases amendments to its Cybersecurity Law, specifying in
+of mandated security testing.51 Nevertheless, it does detail what constitutes lawful vulnerability research
+not establish an explicit safe harbour for independent and imposing procedural obligations such as strict
+researchers. Protection continues to depend on reporting timelines and behavioural constraints.54
+domestic legislative choices and prosecutorial practice. While these frameworks appear to offer relatively
+The EU thus leaves responsibility for managing this high levels of legal certainty, their practical
+tension largely to member states, without imposing implementation warrants closer scrutiny. In the Polish
+an obligation to introduce researcher-specific safe case, key concepts such as ‘exclusivity of purpose’,
+harbour protections. As a result, national approaches ‘immediate notification’ and ‘no harm’ remain open
+vary not only in the degree of legal protection to interpretation, potentially limiting legal certainty
+afforded to independent researchers, but also in the in practice.55 Belgium offers a further example of this
+availability and credibility of the disclosure pathways model, but one that also illustrates its practical limits.
+through which they are expected to operate. Because In 2023, it introduced a formal criminal law exclusion
+vulnerability governance depends on both legal and for ethical hacking through its CVD framework
+procedural arrangements, member state approaches administered by the Centre for Cybersecurity Belgium
+are best understood as combinations of the two. These (CCB).56 Although the framework was intended
+can be grouped into three broad policy models, as to provide legal certainty for researchers who
+outlined below. complied with a defined set of procedures, including
+a requirement that disclosure and publication be
+Policies with explicit legal provisions
+subject to prior authorization by the CCB, in practice
+A small number of states have CVD policies with it has struggled to do so. Critics have argued that some
+explicit legal provisions to protect security researchers reported vulnerabilities were never addressed and that
+to different extents. Poland provides a particularly researchers continued to face the threat of criminal
+notable case. A conditional exemption from criminal action.57 In practice, limited institutional capacity to
+liability was codified in the Criminal Code in 2017 assess reports and authorize disclosure may undermine
+(Article 269c), and in 2023, CSIRT NASK—the
+national computer security incident response team
+responsible for coordinating vulnerability reporting
+52 CERT Polska/CSIRT NASK, ‘Coordinated Vulnerability
+and response—together with CERT Polska (CERT.
+Disclosure (CVD) Policy’, accessed 2 Apr. 2026.
+PL), its operational incident-handling unit, launched 53 French Government, ‘Loi n° 2016-1321 du 7 octobre 2016 pour une
+a national CVD service to operationalize disclosure République numérique. Journal officiel de la République française’ [Law
+no. 2016-1321 of 7 for a digital republic, Official Journal of
+the French Republic], 8 Oct. 2016; and ENISA (note 41).
+54 Lithuanian Government, ‘Lietuvos Respublikos kibernetinio
+saugumo įstatymas’ [Republic of Lithuania Cybersecurity Law], as
+49 Council of Europe, Convention on Cybercrime (Budapest amended 28 ; and ENISA (note 41).
+Convention), European Treaty Series no. 185, 23 Nov. 2001. 55 Rampášek, M. et al., ‘Hunting for vulnerabilities: Call for European
+50 ENISA (note 41). protection of security researchers’, Journal of Cybersecurity, vol. 12, no. 1
+51 Directive 2013/40/EU of the European Parliament and of the (2026).
+Council of 12 on attacks against information systems and 56 Centre for Cybersecurity Belgium, ‘Coordinated vulnerability
+replacing Council Framework Decision 2005/222/JHA, Official Journal disclosure (CVD)’, accessed 2 Apr. 2026.
+of the European Union, L218/8, 14 Aug. 2013. 57 De Vaere, P., ‘Belgian CVD is deeply broken’, 8 .
+
+14 eu non-proliferation and disarmament consortium
+the regime’s effectiveness and delay timely public vulnerability reporting, as no explicit safe harbour
+disclosure.58 protections exist. In Romania, the National Cyber
+Security Directorate (DNSC) operates a national CVD
+Policies without safe harbour protections
+programme and serves as the designated coordinator.
+Some member states have CVD policies that do Its vulnerability reporting guidelines include
+not establish statutory safe harbour protections prescriptive behavioural constraints. Researchers are
+for independent researchers. The Netherlands is expected to limit their actions to demonstrating the
+emblematic of this model. Dutch CVD practice has existence of a vulnerability so as not to exceed legally
+developed largely through non-binding guidelines and permissible conduct, and to cease further testing once
+institutional mediation rather than explicit legislation. a flaw enabling system access has been identified rather
+National bodies such as the National Cyber Security than using it to identify additional vulnerabilities.62
+Centre (NCSC) and the Digital Trust Center (DTC) act These frameworks may improve procedural clarity
+as intermediaries when disclosure to vendors fails, but and coordination, but they do not establish explicit
+legal protection for researchers rests on prosecutorial legal protections for independent vulnerability
+discretion and compliance with policy guidance rather researchers. How such assurances translate into
+than codified immunity. This has enabled a flexible legal certainty or prosecutorial outcomes in practice
+and participatory disclosure ecosystem, but one that remains unclear. The German case illustrates these
+remains legally uncertain and dependent on trust- limits particularly well. While the BSI’s policy signals
+based arrangements.59 institutional restraint towards good-faith disclosure,
+Germany follows a similar approach. Since 2022, it operates at the level of administrative guidance and
+the Federal Office for Information Security (BSI) has does not modify underlying criminal law. Researchers
+increasingly functioned as Germany’s principal public nevertheless remain subject to Section 202c of the
+coordination point for vulnerability disclosure.60 Criminal Code at the time of writing, whose broad
+Through its CVD policy, the BSI specifies expected formulation can generate ambiguity around the legality
+researcher behaviour and indicates that it will not of certain forms of security research. Two years after
+seek criminal enforcement where researchers comply the adoption of the BSI framework, this gap continues
+with the policy’s principles, except in cases involving to attract criticism from researchers and industry
+recognizable criminal intent. Spain operates a actors, who argue that reliance on policy-based
+fragmented system without a unified national CVD assurances rather than statutory carve-outs continues
+policy, although the two main CSIRTs (the National to discourage responsible disclosure and leaves legal
+Cryptologic Center, CCN-CERT, and the National risk unresolved.63
+Cybersecurity Institute, INCIBE-CERT) maintain
+Policies that are underdeveloped
+their own disclosure procedures. Coordination is split
+between CCN-CERT for the public sector and INCIBE- In several member states, national CVD frameworks
+CERT for private companies and citizens.61 While remain underdeveloped, partial or still in progress,
+INCIBE-CERT outlines ‘actions not allowed in the leaving the status and protection of independent
+search for vulnerabilities’, Spanish law does not clearly vulnerability researchers largely unaddressed. At
+exempt good-faith unauthorized access undertaken for the time of writing, these appear to include Italy,
+vulnerability research. This likely contributes to legal Ireland, Sweden and Croatia, where comprehensive
+uncertainty for researchers and may discourage open statutory safe-harbour protections for independent
+vulnerability research remain absent and national-
+level policy frameworks for acceptable researcher
+58 Van der Horst, M., Jansen, R. and Scherpenisse, W., ‘Coordinated
+conduct or engagement appear limited, incomplete
+Vulnerability Disclosure en notificatie in het licht van NIS2’
+or still in development. While some have designated
+[Coordinated vulnerability disclosure and notification in light of NIS2],
+27 Sep. 2025. national coordinators or have introduced institutional
+59 Van der Horst, Jansen and Scherpenisse (note 58).
+60 German Federal Office for Information Security (BSI), ‘Leitlinie
+des BSI zum Coordinated Vulnerability Disclosure (CVD)-Prozess’ [BSI 62 Romanian National Cyber Security Directorate (DNSC),
+guideline on the coordinated vulnerability disclosure (CVD) process], ‘Coordinated vulnerability disclosure (CVD)’, accessed 2 Apr. 2026.
+1 Dec. 2022. 63 Cybersecurity Advisors Network, ‘Open letter—support for
+61 Spanish National Cybersecurity Institute (INCIBE), ‘Vulnerability responsible cybersecurity vulnerability disclosure in Germany’, 28 Feb.
+disclosure policy’, INCIBE-CERT, accessed 2 Apr. 2026. 2026.
+
+cyber (dis)armament in practice 15
+disclosure processes, often in the context of NIS2 In practice, most EU member states have not
+transposition, vulnerability disclosure in practice articulated explicit government vulnerability
+remains shaped by ad hoc arrangements, sectoral disclosure decision frameworks. The Netherlands
+initiatives or private disclosure channels. This can stands out as an exception in the European context. In
+leave researchers exposed to varying degrees of legal 2018, the Dutch government publicly acknowledged
+and procedural uncertainty. the existence of a government vulnerability disclosure
+decision framework, often referred to as the Dutch
+Government vulnerability disclosure practices Vulnerability Disclosure Process or ‘melden, tenzij’
+across member states (disclose, unless). This framework articulates a
+presumption in favour of disclosure, subject to
+EU-level measures do not meaningfully address narrowly defined exceptions where retention is deemed
+government vulnerability disclosure practices, necessary for national security or law enforcement
+understood as the internal processes through which purposes.66 While details of individual decisions
+states decide whether vulnerabilities discovered remain classified, the Dutch model stands out for its
+or acquired by government actors are disclosed for relatively high level of public articulation compared to
+patching or retained for intelligence, law enforcement other EU member states and for explicitly recognizing
+or national security purposes. These decisions remain the trade-off between offensive utility and systemic
+almost entirely within the competence of member security risk. This process operates entirely at the
+states. Unlike the Vulnerabilities Equities Process national level and is not embedded in EU law or subject
+(VEP) of the USA—an interagency mechanism to EU-level oversight.
+through which the US government assesses whether The UK, while no longer an EU member state,
+vulnerabilities discovered or acquired by state actors provides a useful comparator given its close integration
+should be disclosed for patching or retained for with European cybersecurity and intelligence
+intelligence or operational use—the EU has no common communities. The UK has publicly acknowledged the
+framework guiding how offensive and defensive existence of a government vulnerability disclosure
+equities should be balanced, nor does EU law impose framework, commonly referred to as the Equities
+transparency or procedural requirements for state-held Process, overseen by the National Cyber Security
+vulnerabilities.64 Centre (NCSC) in coordination with intelligence and
+This absence reflects structural limits rather than law enforcement agencies.67 Like the USA’s VEP, the
+oversight. The EU lacks authority over national UK’s process is designed to weigh the security benefits
+intelligence and security services, making EU-level of disclosure against the operational value of retention.
+implementation of a government disclosure decision However, public information about the criteria,
+process impractical. As one of the developers of the institutional dynamics and outcomes of the process
+VEP has noted, EU institutions such as the European remains limited. The UK’s case, like that of the USA,
+Parliament and the European Commission have no nonetheless illustrates that formalized government
+mandate over member state intelligence agencies, vulnerability disclosure mechanisms can coexist
+rendering the transplantation of a US-style VEP with advanced offensive cyber capabilities, even if
+model ‘challenging’.65 In European policy debates, transparency remains constrained.
+analysts have expressed similar views and argued
+that government vulnerability disclosure decisions
+VI. RECOMMENDATIONS FOR STRENGTHENING
+are better handled at the national level, given member
+VULNERABILITY GOVERNANCE IN EUROPE
+states’ direct control over their security institutions
+and fuller visibility into their operational landscapes. If vulnerability governance is one of the most
+realistic levers for reducing systemic cyber risk in
+a fragmented international order, Europe should
+64 White House, ‘Vulnerabilities Equities Policy and Process prioritize completing and stabilizing the institutional
+for the United States Government’, 15 Nov. 2017; and Herpig, S. and
+environment in which vulnerability discovery and
+Schwartz, A., ‘The future of vulnerabilities equities processes around
+the world’, Lawfare, 4 Jan. 2019.
+65 Waterman, S., ‘EU needs one set of vulnerability disclosure rules, 66 Dutch Government, ‘Responsible disclosure’, accessed 2 Apr. 2026.
+says expert task force’, Cyberscoop, 13 Mar. 2018; and Herpig and 67 Levy, I., ‘Equities process’, National Cyber Security Centre, 5 Mar.
+Schwartz (note 64). 2025.
+
+16 eu non-proliferation and disarmament consortium
+disclosure actually take place. The analysis above Build up institutional capacity
+suggests that the weakest link in the European
+Third, and equally important in this regard, is
+ecosystem is the uneven treatment of independent
+building up institutional capacity. Designating national
+vulnerability researchers and the absence of
+vulnerability disclosure coordinators and reporting
+predictable disclosure pathways across member states.
+channels, as required under NIS2, is insufficient if these
+Four key recommendations are outlined below.
+bodies lack the resources to process reports, coordinate
+with vendors and authorize disclosure in a timely
+Complete national frameworks
+manner. Under-resourced coordinators risk becoming
+bottlenecks that delay remediation and undermine
+Europe’s first priority should be the completion
+confidence in public disclosure regimes. Investment in
+of national CVD frameworks in those member
+technical expertise, staffing and procedural maturity is
+states where such arrangements remain partial or
+therefore a necessary complement to legal reform.
+underdeveloped. At a minimum, these frameworks
+should clearly define who may report vulnerabilities,
+through which channels, under what behavioural Encourage convergence
+expectations, and with what obligations on the
+Finally, while the EU lacks the competence to impose a
+receiving authority in terms of acknowledgment,
+common framework for national government decisions
+triage, coordination and follow-up. Effective CVD
+on vulnerability retention and disclosure, it can
+also requires predictable engagement practices,
+still encourage convergence around basic principles
+including named points of contact, defined escalation
+governing how public authorities acquire, retain and
+routes, and clear expectations regarding timelines
+handle vulnerabilities and related cyber capabilities.
+and public disclosure. Without such clarity, disclosure
+Greater transparency about whether member states
+remains ad hoc, trust remains fragile and high-impact
+operate with a presumption towards disclosure, even
+vulnerabilities are more likely to flow into opaque or
+without revealing operational details, would help
+foreign markets rather than into remediation pipelines.
+normalize the idea that retaining vulnerabilities entails
+systemic risk and therefore requires justification.
+Provide legal certainty
+The Dutch ‘disclose, unless’ approach illustrates that
+public articulation of such principles is compatible
+A second priority should be to provide legal certainty
+with national security concerns. While an EU-wide
+for good-faith security research. Across much of the
+equities process is not feasible at present, incremental
+EU, independent security research continues to operate
+convergence at the level of principles would represent
+in the shadow of broad computer misuse offenses,
+a meaningful step towards more restrained and
+with protection resting on informal assurances
+accountable state practice.
+rather than enforceable rights. Member states should
+therefore introduce explicit carve-outs or exclusions
+from criminal liability for good-faith security VII. CONCLUSION
+research conducted in line with recognized disclosure
+This paper has argued that software vulnerabilities
+frameworks. Where politically and legally feasible,
+are among the most concrete and policy-relevant sites
+these protections should be codified in statute rather
+where cyber ‘disarmament’ can be pursued in practice.
+than policy guidance, as only statutory safeguards
+Vulnerabilities are not discrete weapons that can be
+provide the predictability necessary to sustain long-
+counted or dismantled. They are perishable forms
+term researcher participation. Even narrowly scoped
+of knowledge embedded in complex socio-technical
+safe-harbour provisions, conditioned on non-malicious
+systems, whose value is shaped by secrecy, timing and
+intent, proportionality and prompt reporting, would
+exclusivity, and whose circulation cuts across public
+represent a significant improvement over the current
+and private actors. These properties systematically
+patchwork.
+limit the usefulness of traditional arms control
+approaches, which depend on identifiable objects of
+regulation, observability and verification.
+
+cyber (dis)armament in practice 17
+The analysis traced how the global vulnerability
+ecosystem is structured by five conditions—talent,
+incentives, circulation, exclusivity and transparency—
+that recurrently generate secrecy and uneven
+disclosure. It then showed why multilateral cyber norm
+processes have acknowledged vulnerabilities but have
+not produced operational governance mechanisms,
+reflecting a deeper mismatch between arms control
+assumptions and the assemblage-based nature of cyber
+capabilities. Rather than being governed through
+international prohibition or limitation, vulnerabilities
+are primarily managed through domestic institutional
+arrangements that shape how knowledge about
+software flaws is produced, retained and disclosed.
+In practice, this governance operates through two
+partially overlapping layers: market-facing disclosure
+and remediation systems, and state-facing decisions
+about whether vulnerabilities are disclosed or retained.
+Europe illustrates both the possibilities and
+limits of this approach. EU-level legislation has
+significantly strengthened manufacturer obligations
+and institutional coordination through NIS2, the
+Cyber Resilience Act and the evolving Cybersecurity
+Act framework. Yet key segments of the ecosystem
+remain fragmented. The legal status of independent
+vulnerability researchers varies sharply across
+member states, and state-held vulnerability disclosure
+practices remain largely outside any shared European
+framework. In this context, Europe’s most realistic
+pathway to reducing systemic cyber risk is not a
+classical arms control regime, but a more complete,
+predictable and trusted vulnerability governance
+architecture. Strengthening coordinated disclosure
+frameworks, clarifying researcher protections and
+reducing criminal-law uncertainty are therefore not
+peripheral technical questions, but core steps towards
+pursuing cyber disarmament in practice.
+
+18 eu non-proliferation and disarmament consortium
+ABBREVIATIONS
+BSI German Federal Office for Information Security
+Budapest Convention 2001 Convention on Cybercrime
+CCB Centre for Cybersecurity Belgium
+CCN-CERT Spanish National Cryptologic Center
+CRA Cyber Resilience Act
+CSIRT Computer security incident response team
+CVD Coordinated vulnerability disclosure
+ENISA EU Agency for Cybersecurity
+EU European Union
+GGE Group of governmental experts
+ICT Information and communications technology
+IHL International humanitarian law
+INCIBE-CERT National Cybersecurity Institute
+NCSC National Cyber Security Centre
+N-days Patched vulnerabilities
+OEWG Open-ended working group
+VEP Vulnerabilities Equities Process
+Zero-days Unpatched, undisclosed vulnerabilities
+
+cyber (dis)armament in practice 19
+LIST OF RECENT NON-PROLIFERATION AND
+DISARMAMENT PAPERS
+The Australia Group at 40: Making the AG Fit for an Subregional Arms Control and Conflict Prevention in
+Era of Geopolitical Competition the Western Balkans
+Non-Proliferation and Disarmament Paper no. 99 Non-Proliferation and Disarmament Paper no. 93
+Kolja Brockmann Katarina Djokic
+ 
+Cloud Labs and Other New Actors in the Artificial Intelligence, Non-proliferation and
+Biotechnology Ecosystem: Export Control Disarmament: A Compendium on the State of the
+Challenges and Good Practices in Outreach Art
+Non-Proliferation and Disarmament Paper no. 98 Non-Proliferation and Disarmament Paper no. 92
+Kolja Brockmann, Lauriane Héau and Giovanna Dr Thomas Reinhold, Dr Elisabeth Hoffberger-Pippan,
+Maletta Dr Alexander Blanchard, Marc-Michael Blum,
+ Dr Filippa Lentzos and Alice Saltini
+
+Lessons from the EU on Confidence-building
+Measures Around Artificial Intelligence in the The Potentially Revolutionary Impact of Emerging
+Military Domain and Disruptive Technologies and Strategic
+Non-Proliferation and Disarmament Paper no. 97 Conventional Weapons on the Nuclear Deterrence
+Sofia Romansky Debate
+ Non-Proliferation and Disarmament Paper no. 91
+Tom Sauer
+The EU as a Key Player in Multilateral Forums on
+
+Space Security: Perspectives for the
+OEWG 2025–28 The Nexus of Non-traditional Security and Nuclear
+Non-Proliferation and Disarmament Paper no. 96 Risk: Implications for EU Foreign Policy in the Indo–
+Mathieu Bataille Pacific
+ Non-Proliferation and Disarmament Paper no. 90
+Elin Bergner, Sarah Laderman and Marcy R. Fowler
+Non-proliferation, Nuclear Technology and Peaceful
+
+Uses: Examining the Role and Impact of Export
+Controls Arms Supplies to Ukraine: Does the European Arms
+Non-Proliferation and Disarmament Paper no. 95 Export Control System Need Revision?
+Giovanna Maletta, Dr Mark Bromley and Non-Proliferation and Disarmament Paper no. 89
+Kolja Brockmann Ester Sabatino
+ 
+The EU Research Security Initiative: Implications What Happened To Demand? Getting Small Arms
+for the Application of Export Controls in Academia Control Back on Track
+and Research Institutes Non-Proliferation and Disarmament Paper no. 88
+Non-Proliferation and Disarmament Paper no. 94 Callum Watson and Aline Shaban
+Lauriane Héau 
+
+EU Non-Proliferation and Disarmament Consortium
+Promoting the European network of independent
+non-proliferation and disarmament think tanks
+This document has been produced with the financial
+assistance of the EU. The contents are the sole
+responsibility of the EU Non-Proliferation and
+Disarmament Consortium and can under no circumstances
+be regarded as reflecting the position of the EU.
+FOUNDATION FOR
+STRATEGIC RESEARCH
+A EUROPEAN NETWORK
+
+In the Council of the European Union decided to
+support the creation of a network bringing together
+foreign policy institutions and research centers from
+across the EU to encourage political and security-related
+dialogue and the long-term discussion of measures to
+combat the proliferation of weapons of mass destruction
+PEACE RESEARCH INSTITUTE
+(WMD) and their delivery systems. The Council of the
+FRANKFURT
+European Union entrusted the technical implementation
+of this Decision to the EU Non-Proliferation Consortium. 
+In 2018, in line with the recommendations formulated by
+the European Parliament the names and the mandate of the
+network and the Consortium have been adjusted to include
+the word ‘disarmament’.
+INTERNATIONAL AFFAIRS INSTITUTE
+STRUCTURE
+
+The EU Non-Proliferation and Disarmament Consortium
+is managed jointly by six institutes: La Fondation pour la
+recherche stratégique (FRS), the Peace Research Institute
+Frankfurt (HSFK/ PRIF), the International Affairs
+Institute in Rome (IAI), the International Institute for
+Strategic Studies (IISS–Europe), the Stockholm
+INTERNATIONAL INSTITUTE
+International Peace Research Institute (SIPRI) and the
+FOR STRATEGIC STUDIES
+Vienna Center for Disarmament and Non-Proliferation
+(VCDNP). The Consortium, originally comprised of four 
+institutes, began its work in and forms the
+core of a wider network of European non-proliferation and
+disarmament think tanks and research centers which are
+closely associated with the activities of the Consortium.
+MISSION
+STOCKHOLM INTERNATIONAL
+The main aim of the network of independent non-
+PEACE RESEARCH INSTITUTE
+proliferation and disarmament think tanks is to encourage
+discussion of measures to combat the proliferation of 
+weapons of mass destruction and their delivery systems
+within civil society, particularly among experts,
+researchers and academics in the EU and third countries.
+The scope of activities shall also cover issues related to
+conventional weapons, including small arms and light
+weapons (SALW).
+VIENNA CENTER FOR
+DISARMAMENT AND NON-
+PROLIFERATION
+ 
+© EU Non-Proliferation and Disarmament Consortium 2026

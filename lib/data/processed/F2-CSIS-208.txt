@@ -1,0 +1,122 @@
+ESA’s Zero Debris approach
+
+Space debris is defined as “All non-functional, human-made objects, including no longer functioning spacecraft or fragments of them, in orbit or reentering Earth's atmosphere.”
+
+Since the start of the space age in 1957, humankind has launched almost 50 thousand tonnes of material into space. Some of that has returned, but today about 10 thousand tonnes remain in orbit and on average one object returns to Earth every week, uncontrolled.
+
+These numbers are rapidly increasing. More satellites have been launched in the last two years than the entire six decades of space exploration. Earth's space environment is now filled with millions of bits of fast-moving debris, threatening our future in space. A collision with a 1 cm particle travelling 10 km/s (of which there are about a million in orbit) releases the same energy as a small car crashing at 40 km/h.
+
+If current behaviours and trends in orbit continue, crucial orbital regions will become entirely unusable. It’s time to act.
+
+How much debris is it OK to create? Ideally, zero debris.
+
+Building on a decade of ESA-wide collaborative work, the Agency has taken the lead in space sustainability by introducing the ‘Zero Debris approach’: ESA's bold goal to significantly limit the production of debris in Earth and Lunar orbits by 2030 for all future missions, programmes and activities.
+
+“We are seeing a dramatically increased use of space, but still insufficient technology to prevent the risks that follow. Our aim to become debris neutral in just a few years will require clearing precious Earth orbits once a mission is complete, and if the mission fails to do this, it must be actively removed by dedicated vehicles,” explains Holger Krag, ESA's Head of Space Safety.
+
+“We are aiming for rules that compare to every national park on Earth – what you bring in you must take with you when you leave”.
+
+ESA sets a new standard for space exploration
+
+As part of the Zero Debris approach, ESA has updated its debris mitigation requirements and standards that will govern how the Agency's missions are designed, built, flown and disposed of, but also setting the rules for any company or institution that works with ESA on its missions.
+
+In Autumn 2022, a large-scale study was carried out by ESA's Concurrent Design Facility involving all ESA sites across Europe as well as some 270 ESA experts, industry, governmental agencies and academia. The study put forward eight recommendations to reach Zero Debris by 2030, which form the foundation of the recently published ‘ESA Space Debris Mitigation Requirements’.
+
+“ESA has always complied with the International Organization for Standardization (ISO) requirements when it comes to space debris mitigation – and we will continue to do so,” explains Paloma Villar, Head of ESA's Independent Safety Office.
+
+“However, with the Zero Debris approach we go further still. Our 2030 target means newer, bolder requirements and technologies are needed, and we hope that ISO – and so the global space community – will evolve in the same way.”
+
+Eight recommendations for Zero Debris by 2030
+
+1) Guarantee successful disposal
+
+Ensuring the safe disposal of space objects is of utmost importance. ‘Self disposal’ through atmospheric reentry or reorbiting to a safe altitude should be verified in advance of a mission’s launch, with a probability of success higher than a certain minimum threshold (currently set at 90%). Critical disposal functions – such as enough fuel for manoeuvres, functioning thrusters, etc – should be continuously monitored. Missions should also include interfaces that would help the mission be more easily removed from orbit, should self-disposal fail. In parallel, reliable and affordable Active Debris Removal services need to be demonstrated by 2030. A first respective mission is already in preparation.
+
+2) Improve orbital clearance
+
+By reducing the time an object is in orbit, the smaller the chance that it will collide with another object and create further debris. Current debris mitigation guidelines say that a satellite or rocket body in low-Earth orbit should not remain in orbit longer than 25 years after its end of life. ESA’s Zero Debris recommendations propose that this time is reduced to below five years, and requires that the cumulative probability of collision with any debris larger than 1 cm in size is below 1 in 1000 for the entire period of a mission's life, until it reenters Earth's atmosphere.
+
+3) Avoid in-orbit collisions
+
+Collision avoidance – manoeuvring a satellite out the way of potential collision – is now a regular part of flying missions in low-Earth orbit. It comes at a cost as fuel is required and instruments are often turned off, meaning data is lost. With the dramatic rise of space activity and the growth in the amount of debris in orbit, the number of collision alerts received every week and manoeuvres required is also growing. Improved collision avoidance strategies – using automation, traffic coordination, communication protocols and more – are needed as the risk of collision increases.
+
+4) Avoid internal break-ups
+
+Enhanced health monitoring and robust passivation techniques should be implemented to prevent satellites breaking up from within, caused by system explosions from leftover fuel or energy from solar panels.
+
+5) Prevent intentional release of space debris
+
+Recommendations emphasise that the intentional release of any ‘Mission Related Object’ – such as protective covers, lens caps, rocket fairings – should be avoided to prevent further debris growth.
+
+6) Improve on-ground casualty risk assessment
+
+Standardised tools and methodologies should be developed for assessing the casualty risk, on the ground, of reentering objects, as well as for verifying assessments of how a mission will demise. Consideration of on-the-ground casualty risk for all Mission Related Objects released by a launcher is also recommended.
+
+7) Guarantee Dark and Quiet skies
+
+Measures should be identified and implemented to minimise the impact of space objects on optical and infrared astronomy, as well as radio astronomy, to maintain dark and quiet skies.
+
+8) Beyond the protected regions
+
+Other orbits, such as those used by Global Navigation Satellite System (GNSS) constellations and lunar orbits, should also be considered and protected to ensure their long-term sustainability. Adapted Zero Debris recommendations should be formulated and applied beyond low-Earth orbit and Geostationary orbit.
+
+“If you love space, you must love clean space,” explains Luisa Innocenti, ESA's Head of Clean Space.
+
+“The build-up of debris in orbit poses significant risks to satellites, crewed missions and the overall sustainability of our space environment. Embracing a Zero Debris approach is definitely not an idealistic concept but an absolute necessity for the future of the space industry. It is just the right thing to do to leave our environment in a clean state for the future.”
+
+Innovation needed to solve the debris problem
+
+While ESA is paving the way in pursuing a Zero Debris approach to promote a sustainable future in orbit, it will have ripple effects across the space sector. ESA's pro-active initiative will speed up the development of technologies needed to protect our skies and orbits while inspiring partners to do the same. Only a broad engagement of like minded actors and a collaborative effort can allow the Zero Debris approach to accomplish its goal of guaranteeing a sustainable use of Earth orbits.
+
+To provide the community with a centralised reference for approaches and contributions from different stakeholders, enabling a Zero Debris future, ESA has facilitated the production of the Zero Debris Technical Booklet. It contains a comprehensive list of needs, technical solutions and contributions, crowdsourced through the Zero Debris community, and forms a technological to do list to get to zero debris. ESA continues to support the community collaboration as it works on executing the to do's.
+
+A global solution to a shared problem
+
+Space is a shared resource, and orbits around our planet are now considered a limited natural resource like water and energy on Earth. As such it will take action across the globe to secure our skies.
+
+Under the umbrella of the Agency's 'Protection of Space Assets’ Accelerator, ESA has kicked off the Zero Debris Charter that brings together the diverse international space community to collaborate and co-create this sustainable future, developing a precise and common vision of space sustainability for 2030 and beyond.
+
+The next step is to make these recommendations a reality, continuing to study the impact of space technology on our environment and building the technologies that do not exist today but are needed for a responsible, sustainable use of space by 2030.
+
+While the Zero Debris approach sets out the Agency’s vision for the near future, the “ESA Space Debris Mitigation Requirements” is the internal manual for how it will get there. Globally, the Zero Debris Charter is written for and by a diverse community in Europe and beyond that is committed, together, to caring for our space environment now and for future generations.
+
+Space debris is defined as “All non-functional, human-made objects, including no longer functioning spacecraft or fragments of them, in orbit or reentering Earth's atmosphere.”
+Since the start of the space age in 1957, humankind has launched almost 50 thousand tonnes of material into space. Some of that has returned, but today about 10 thousand tonnes remain in orbit and on average one object returns to Earth every week, uncontrolled.
+These numbers are rapidly increasing. More satellites have been launched in the last two years than the entire six decades of space exploration. Earth's space environment is now filled with millions of bits of fast-moving debris, threatening our future in space. A collision with a 1 cm particle travelling 10 km/s (of which there are about a million in orbit) releases the same energy as a small car crashing at 40 km/h.
+If current behaviours and trends in orbit continue, crucial orbital regions will become entirely unusable. It’s time to act.
+How much debris is it OK to create? Ideally, zero debris.
+Building on a decade of ESA-wide collaborative work, the Agency has taken the lead in space sustainability by introducing the ‘Zero Debris approach’: ESA's bold goal to significantly limit the production of debris in Earth and Lunar orbits by 2030 for all future missions, programmes and activities.
+“We are seeing a dramatically increased use of space, but still insufficient technology to prevent the risks that follow. Our aim to become debris neutral in just a few years will require clearing precious Earth orbits once a mission is complete, and if the mission fails to do this, it must be actively removed by dedicated vehicles,” explains Holger Krag, ESA's Head of Space Safety.
+“We are aiming for rules that compare to every national park on Earth – what you bring in you must take with you when you leave”.
+ESA sets a new standard for space exploration
+As part of the Zero Debris approach, ESA has updated its debris mitigation requirements and standards that will govern how the Agency's missions are designed, built, flown and disposed of, but also setting the rules for any company or institution that works with ESA on its missions.
+In Autumn 2022, a large-scale study was carried out by ESA's Concurrent Design Facility involving all ESA sites across Europe as well as some 270 ESA experts, industry, governmental agencies and academia. The study put forward eight recommendations to reach Zero Debris by 2030, which form the foundation of the recently published ‘ESA Space Debris Mitigation Requirements’.
+“ESA has always complied with the International Organization for Standardization (ISO) requirements when it comes to space debris mitigation – and we will continue to do so,” explains Paloma Villar, Head of ESA's Independent Safety Office.
+“However, with the Zero Debris approach we go further still. Our 2030 target means newer, bolder requirements and technologies are needed, and we hope that ISO – and so the global space community – will evolve in the same way.”
+Eight recommendations for Zero Debris by 2030
+1) Guarantee successful disposal
+Ensuring the safe disposal of space objects is of utmost importance. ‘Self disposal’ through atmospheric reentry or reorbiting to a safe altitude should be verified in advance of a mission’s launch, with a probability of success higher than a certain minimum threshold (currently set at 90%). Critical disposal functions – such as enough fuel for manoeuvres, functioning thrusters, etc – should be continuously monitored. Missions should also include interfaces that would help the mission be more easily removed from orbit, should self-disposal fail. In parallel, reliable and affordable Active Debris Removal services need to be demonstrated by 2030. A first respective mission is already in preparation.
+2) Improve orbital clearance
+By reducing the time an object is in orbit, the smaller the chance that it will collide with another object and create further debris. Current debris mitigation guidelines say that a satellite or rocket body in low-Earth orbit should not remain in orbit longer than 25 years after its end of life. ESA’s Zero Debris recommendations propose that this time is reduced to below five years, and requires that the cumulative probability of collision with any debris larger than 1 cm in size is below 1 in 1000 for the entire period of a mission's life, until it reenters Earth's atmosphere.
+3) Avoid in-orbit collisions
+Collision avoidance – manoeuvring a satellite out the way of potential collision – is now a regular part of flying missions in low-Earth orbit. It comes at a cost as fuel is required and instruments are often turned off, meaning data is lost. With the dramatic rise of space activity and the growth in the amount of debris in orbit, the number of collision alerts received every week and manoeuvres required is also growing. Improved collision avoidance strategies – using automation, traffic coordination, communication protocols and more – are needed as the risk of collision increases.
+4) Avoid internal break-ups
+Enhanced health monitoring and robust passivation techniques should be implemented to prevent satellites breaking up from within, caused by system explosions from leftover fuel or energy from solar panels.
+5) Prevent intentional release of space debris
+Recommendations emphasise that the intentional release of any ‘Mission Related Object’ – such as protective covers, lens caps, rocket fairings – should be avoided to prevent further debris growth.
+6) Improve on-ground casualty risk assessment
+Standardised tools and methodologies should be developed for assessing the casualty risk, on the ground, of reentering objects, as well as for verifying assessments of how a mission will demise. Consideration of on-the-ground casualty risk for all Mission Related Objects released by a launcher is also recommended.
+7) Guarantee Dark and Quiet skies
+Measures should be identified and implemented to minimise the impact of space objects on optical and infrared astronomy, as well as radio astronomy, to maintain dark and quiet skies.
+8) Beyond the protected regions
+Other orbits, such as those used by Global Navigation Satellite System (GNSS) constellations and lunar orbits, should also be considered and protected to ensure their long-term sustainability. Adapted Zero Debris recommendations should be formulated and applied beyond low-Earth orbit and Geostationary orbit.
+“If you love space, you must love clean space,” explains Luisa Innocenti, ESA's Head of Clean Space.
+“The build-up of debris in orbit poses significant risks to satellites, crewed missions and the overall sustainability of our space environment. Embracing a Zero Debris approach is definitely not an idealistic concept but an absolute necessity for the future of the space industry. It is just the right thing to do to leave our environment in a clean state for the future.”
+Innovation needed to solve the debris problem
+While ESA is paving the way in pursuing a Zero Debris approach to promote a sustainable future in orbit, it will have ripple effects across the space sector. ESA's pro-active initiative will speed up the development of technologies needed to protect our skies and orbits while inspiring partners to do the same. Only a broad engagement of like minded actors and a collaborative effort can allow the Zero Debris approach to accomplish its goal of guaranteeing a sustainable use of Earth orbits.
+To provide the community with a centralised reference for approaches and contributions from different stakeholders, enabling a Zero Debris future, ESA has facilitated the production of the Zero Debris Technical Booklet. It contains a comprehensive list of needs, technical solutions and contributions, crowdsourced through the Zero Debris community, and forms a technological to do list to get to zero debris. ESA continues to support the community collaboration as it works on executing the to do's.
+A global solution to a shared problem
+Space is a shared resource, and orbits around our planet are now considered a limited natural resource like water and energy on Earth. As such it will take action across the globe to secure our skies.
+Under the umbrella of the Agency's 'Protection of Space Assets’ Accelerator, ESA has kicked off the Zero Debris Charter that brings together the diverse international space community to collaborate and co-create this sustainable future, developing a precise and common vision of space sustainability for 2030 and beyond.
+The next step is to make these recommendations a reality, continuing to study the impact of space technology on our environment and building the technologies that do not exist today but are needed for a responsible, sustainable use of space by 2030.
+While the Zero Debris approach sets out the Agency’s vision for the near future, the “ESA Space Debris Mitigation Requirements” is the internal manual for how it will get there. Globally, the Zero Debris Charter is written for and by a diverse community in Europe and beyond that is committed, together, to caring for our space environment now and for future generations.

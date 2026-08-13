@@ -1,0 +1,134 @@
+Europe must address the ‘digital sovereignty triad’
+
+On June 3, 2026, the European Commission is scheduled to release its so-called Tech Sovereignty Package. It will include the Cloud and AI Development Act, an update to the Chips Act, and a formal definition of “digital sovereignty,” which the European Union (EU) has so far lacked.
+
+Formalizing this definition matters for two reasons: it will shape public procurement across the EU’s twenty-seven member states, and it will signal how open the bloc intends to remain to foreign technology providers, particularly those from the US.
+
+But how exactly this will play out—and what “digital sovereignty” actually means in an EU context—depends largely on whom you ask.
+
+Thierry Breton, former European Commissioner for the Internal Market, once said: “Our data is the most valuable industrial asset we have. I have always said that I want Europeans’ data to be…stored and processed in Europe.”
+
+Others have framed digital sovereignty as a safeguard against extraterritorial overreach. In a recent open letter to the Commission, Dutch politician Sophie in ’t Veld argued that “through the US CLOUD Act, the United States has unilaterally granted itself access to data stored in the EU.”
+
+A third interpretation casts digital sovereignty as a tool of industrial policy aimed at protecting local players. Aura Salla, a Finnish member of the European Parliament and former Meta executive, has said plainly: “The EU should try to push the US tech companies out of the [single] market…”
+
+Given these competing readings of digital sovereignty, the European Commission is under pressure to define the concept in a way that responds to domestic demands for greater technological independence without exacerbating transatlantic tensions. That pressure was visible after the joint Franco-German summit on European digital sovereignty, where both governments agreed to set aside their historic disagreements on the concept and develop “a common definition of a European digital service.”
+
+Adding a layer of complexity, the Commission’s own IT department, the Directorate-General for Digital Services (DG DGIT), recently published its Cloud Sovereignty Framework and subsequently awarded cloud contracts worth up to €180 million, largely to European firms. The framework’s release ahead of the Tech Sovereignty Package, combined with new Franco-German unity on the issue, has created additional constraints on the Commission that will make defining digital sovereignty a difficult task.
+
+The three dimensions of digital sovereignty
+
+Although references to digital sovereignty date back to the 1990s, the concept has evolved considerably since an early definition was articulated at a ministerial meeting in 2020. Originally framed largely as “freedom of choice,” it has gradually morphed into three distinct but interrelated components that I describe as the “digital sovereignty triad.”
+
+Within this framework, digital sovereignty can be defined as:
+
+Data control, meaning control over who can process relevant data and where it is physically stored and processed.
+
+Legal control, denoting the legal frameworks governing the physical and digital infrastructure of a given technology.
+
+Vendor nationality, referring to the primary location of a technology provider’s headquarters or key decision-makers.
+
+Data control matters—but it comes with trade-offs
+
+In Europe, the right to data privacy is a fundamental human right enshrined in the Charter of Fundamental Rights of the European Union and the EU’s General Data Protection Regulation. This strongly shapes views on where data is stored and processed—and by whom.
+
+Some argue that the only way for Europeans to assert control over their data is to ensure it is processed by Europeans, for Europeans, and within the EU. Although a legitimate policy prerogative, the trade-off associated with strict data localization became apparent in the context of the Iran war, where data center infrastructure was targeted due to its dual commercial and military uses. As seen in Bahrain and the United Arab Emirates, when a data center is hit with a kinetic strike, data can be lost unless it is backed up outside the conflict zone.
+
+The tension between data localization and operational resilience is not unique to the Iran war. We have also seen it extend to Ukraine, which in response to its war with Russia has increasingly moved away from strict data localization in favor of resilience strategies. Estonia adopted a similar approach with its 2017 Data Embassy project, which relied on distributed, cloud-backed systems.
+
+Given the real threat of foreign adversaries targeting European critical infrastructure, policymakers must seriously assess the trade-offs inherent in locating data within fixed geographic borders.
+
+Surveillance fears and legal control
+
+The legal frameworks governing digital infrastructure are equally important. Many fear data interception or extraterritorial access enabled by laws such as the Foreign Intelligence Surveillance Act, the US CLOUD Act, and China’s Cyber Security Law.
+
+US hyperscalers have gone to great lengths to argue that their European-based solutions are “sovereign.” However, following Microsoft’s 2025 sworn testimony before the French Senate—in which the company acknowledged that it “cannot guarantee” data sovereignty—those claims have been met with renewed skepticism.Still, rearchitecting infrastructure to address jurisdictional constraints remains inherently inefficient.
+
+Vendor nationality is the relative newcomer to the digital sovereignty triad. Early formulations of the concept acknowledged that non-European players were global leaders in cloud technologies, while still emphasizing “freedom of choice.”
+
+But with the emergence of European alternatives and growing concerns over so-called kill switches, the Commission may be moving toward a model that prioritizes European economic interests over greater interoperability.
+
+It remains to be seen whether such an approach would withstand scrutiny by the World Trade Organization—and whether WTO rules will even remain relevant in the 2026 era of geotechnological competition.
+
+However, not all EU officials or member states support vendor differentiation based on nationality alone. In May, Thomas Courbe, director general for enterprise at the French Ministry of the Economy and Finance, said: “We consider that the definition of European digital service should be made whatever the nationality of the company by assessing the added value that is located in Europe and that is under European control.”
+
+It’s also still unclear how European officials will define “added value,” and whether non-European vendors could ever be considered fully “under European control.”
+
+The trade-off is increasingly clear: maintaining a fully open digital marketplace versus adopting forms of strategic protectionism now visible in tech governance around the world. A move toward the latter will not be without consequences. As US Ambassador to the EU Andrew Puzder recently stated, the US considers attempts by the EU to “try and improve the competitiveness of European entities by limiting the competitiveness of US entities in Europe” a red line.
+
+Can Europe balance sovereignty, openness, and transatlantic relations?
+
+It remains to be seen whether the Commission will build on DG DGIT’s framework or introduce its own definition of digital sovereignty, potentially informed by Franco-German initiatives.
+
+What does appear certain is that the EU cannot fully reconcile all three dimensions of the digital sovereignty triad while simultaneously maintaining frictionless relations with its key trading partners.
+
+Does every cloud-based service in the EU need to be sovereign? If not, which systems—and in which sectors—should be prioritized, and to what degree? Does all data need to be insulated from foreign jurisdictions? If not, where should such boundaries begin and end?
+
+It may be tempting to localize all data, only to inadvertently weaken digital resilience. Favoring domestic vendors in public procurement may be justified and appropriate, but extending digital sovereignty principles into purely commercial markets is likely to exacerbate transatlantic tensions further.
+
+On the US side, the Trump administration must better understand and account for European concerns regarding the CLOUD Act and the durability of the EU-US Data Privacy Framework—or risk eroding its technological dominance not only in China, but also in Europe.
+
+At the same time, it is not sufficient to dismiss kill switch concerns outright, as a majority of Europeans view them as “a real and concrete risk,” even though important industry actors have pushed back against the claim.
+
+Sustained transatlantic engagement at the leadership level will be necessary to rebuild trust and provide assurances where needed. Without such regular dialogue, digital sovereignty risks becoming yet another fault line in an already strained alliance.
+
+Trevor H. Rudolph is a nonresident senior fellow at the Atlantic Council’s GeoTech Center and vice president for global digital policy and regulation at Schneider Electric. He is a former chief of the cyber and national security unit at the White House Office of Management and Budget.
+
+The views expressed are solely those of the author and do not necessarily reflect the views of the Atlantic Council or Schneider Electric.
+
+The GeoTech Center champions positive paths forward that societies can pursue to ensure new technologies and data empower people, prosperity, and peace.
+
+Navigating the European Union’s AI and health data framework
+
+The EU is strengthening AI and health data governance, creating a more secure and trusted framework for innovation.
+
+Securing cloud infrastructure for AI
+
+With AI raising the stakes of cloud security and key cybersecurity institutions weakened or dissolved, this brief outlines needed policy steps to promote transparency and accountability across the cloud ecosystem.
+
+Image: Francis Genon via Unsplash.
+
+On June 3, 2026, the European Commission is scheduled to release its so-called Tech Sovereignty Package. It will include the Cloud and AI Development Act, an update to the Chips Act, and a formal definition of “digital sovereignty,” which the European Union (EU) has so far lacked.
+Formalizing this definition matters for two reasons: it will shape public procurement across the EU’s twenty-seven member states, and it will signal how open the bloc intends to remain to foreign technology providers, particularly those from the US.
+But how exactly this will play out—and what “digital sovereignty” actually means in an EU context—depends largely on whom you ask.
+Thierry Breton, former European Commissioner for the Internal Market, once said: “Our data is the most valuable industrial asset we have. I have always said that I want Europeans’ data to be…stored and processed in Europe.”
+Others have framed digital sovereignty as a safeguard against extraterritorial overreach. In a recent open letter to the Commission, Dutch politician Sophie in ’t Veld argued that “through the US CLOUD Act, the United States has unilaterally granted itself access to data stored in the EU.”
+A third interpretation casts digital sovereignty as a tool of industrial policy aimed at protecting local players. Aura Salla, a Finnish member of the European Parliament and former Meta executive, has said plainly: “The EU should try to push the US tech companies out of the [single] market…”
+Given these competing readings of digital sovereignty, the European Commission is under pressure to define the concept in a way that responds to domestic demands for greater technological independence without exacerbating transatlantic tensions. That pressure was visible after the joint Franco-German summit on European digital sovereignty, where both governments agreed to set aside their historic disagreements on the concept and develop “a common definition of a European digital service.”
+Adding a layer of complexity, the Commission’s own IT department, the Directorate-General for Digital Services (DG DGIT), recently published its Cloud Sovereignty Framework and subsequently awarded cloud contracts worth up to €180 million, largely to European firms. The framework’s release ahead of the Tech Sovereignty Package, combined with new Franco-German unity on the issue, has created additional constraints on the Commission that will make defining digital sovereignty a difficult task.
+The three dimensions of digital sovereignty
+Although references to digital sovereignty date back to the 1990s, the concept has evolved considerably since an early definition was articulated at a ministerial meeting in 2020. Originally framed largely as “freedom of choice,” it has gradually morphed into three distinct but interrelated components that I describe as the “digital sovereignty triad.”
+Within this framework, digital sovereignty can be defined as:
+Data control, meaning control over who can process relevant data and where it is physically stored and processed.
+Legal control, denoting the legal frameworks governing the physical and digital infrastructure of a given technology.
+Vendor nationality, referring to the primary location of a technology provider’s headquarters or key decision-makers.
+Data control matters—but it comes with trade-offs
+In Europe, the right to data privacy is a fundamental human right enshrined in the Charter of Fundamental Rights of the European Union and the EU’s General Data Protection Regulation. This strongly shapes views on where data is stored and processed—and by whom.
+Some argue that the only way for Europeans to assert control over their data is to ensure it is processed by Europeans, for Europeans, and within the EU. Although a legitimate policy prerogative, the trade-off associated with strict data localization became apparent in the context of the Iran war, where data center infrastructure was targeted due to its dual commercial and military uses. As seen in Bahrain and the United Arab Emirates, when a data center is hit with a kinetic strike, data can be lost unless it is backed up outside the conflict zone.
+The tension between data localization and operational resilience is not unique to the Iran war. We have also seen it extend to Ukraine, which in response to its war with Russia has increasingly moved away from strict data localization in favor of resilience strategies. Estonia adopted a similar approach with its 2017 Data Embassy project, which relied on distributed, cloud-backed systems.
+Given the real threat of foreign adversaries targeting European critical infrastructure, policymakers must seriously assess the trade-offs inherent in locating data within fixed geographic borders.
+Surveillance fears and legal control
+The legal frameworks governing digital infrastructure are equally important. Many fear data interception or extraterritorial access enabled by laws such as the Foreign Intelligence Surveillance Act, the US CLOUD Act, and China’s Cyber Security Law.
+US hyperscalers have gone to great lengths to argue that their European-based solutions are “sovereign.” However, following Microsoft’s 2025 sworn testimony before the French Senate—in which the company acknowledged that it “cannot guarantee” data sovereignty—those claims have been met with renewed skepticism.Still, rearchitecting infrastructure to address jurisdictional constraints remains inherently inefficient.
+Vendor nationality is the relative newcomer to the digital sovereignty triad. Early formulations of the concept acknowledged that non-European players were global leaders in cloud technologies, while still emphasizing “freedom of choice.”
+But with the emergence of European alternatives and growing concerns over so-called kill switches, the Commission may be moving toward a model that prioritizes European economic interests over greater interoperability.
+It remains to be seen whether such an approach would withstand scrutiny by the World Trade Organization—and whether WTO rules will even remain relevant in the 2026 era of geotechnological competition.
+However, not all EU officials or member states support vendor differentiation based on nationality alone. In May, Thomas Courbe, director general for enterprise at the French Ministry of the Economy and Finance, said: “We consider that the definition of European digital service should be made whatever the nationality of the company by assessing the added value that is located in Europe and that is under European control.”
+It’s also still unclear how European officials will define “added value,” and whether non-European vendors could ever be considered fully “under European control.”
+The trade-off is increasingly clear: maintaining a fully open digital marketplace versus adopting forms of strategic protectionism now visible in tech governance around the world. A move toward the latter will not be without consequences. As US Ambassador to the EU Andrew Puzder recently stated, the US considers attempts by the EU to “try and improve the competitiveness of European entities by limiting the competitiveness of US entities in Europe” a red line.
+Can Europe balance sovereignty, openness, and transatlantic relations?
+It remains to be seen whether the Commission will build on DG DGIT’s framework or introduce its own definition of digital sovereignty, potentially informed by Franco-German initiatives.
+What does appear certain is that the EU cannot fully reconcile all three dimensions of the digital sovereignty triad while simultaneously maintaining frictionless relations with its key trading partners.
+Does every cloud-based service in the EU need to be sovereign? If not, which systems—and in which sectors—should be prioritized, and to what degree? Does all data need to be insulated from foreign jurisdictions? If not, where should such boundaries begin and end?
+It may be tempting to localize all data, only to inadvertently weaken digital resilience. Favoring domestic vendors in public procurement may be justified and appropriate, but extending digital sovereignty principles into purely commercial markets is likely to exacerbate transatlantic tensions further.
+On the US side, the Trump administration must better understand and account for European concerns regarding the CLOUD Act and the durability of the EU-US Data Privacy Framework—or risk eroding its technological dominance not only in China, but also in Europe.
+At the same time, it is not sufficient to dismiss kill switch concerns outright, as a majority of Europeans view them as “a real and concrete risk,” even though important industry actors have pushed back against the claim.
+Sustained transatlantic engagement at the leadership level will be necessary to rebuild trust and provide assurances where needed. Without such regular dialogue, digital sovereignty risks becoming yet another fault line in an already strained alliance.
+Trevor H. Rudolph is a nonresident senior fellow at the Atlantic Council’s GeoTech Center and vice president for global digital policy and regulation at Schneider Electric. He is a former chief of the cyber and national security unit at the White House Office of Management and Budget.
+The views expressed are solely those of the author and do not necessarily reflect the views of the Atlantic Council or Schneider Electric.
+The GeoTech Center champions positive paths forward that societies can pursue to ensure new technologies and data empower people, prosperity, and peace.
+Navigating the European Union’s AI and health data framework
+The EU is strengthening AI and health data governance, creating a more secure and trusted framework for innovation.
+Securing cloud infrastructure for AI
+With AI raising the stakes of cloud security and key cybersecurity institutions weakened or dissolved, this brief outlines needed policy steps to promote transparency and accountability across the cloud ecosystem.
+Image: Francis Genon via Unsplash.

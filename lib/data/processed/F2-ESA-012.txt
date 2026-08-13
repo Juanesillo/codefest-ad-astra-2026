@@ -1,0 +1,428 @@
+Space Debris FAQ: Frequently asked questions
+
+Frequently asked questions on space debris answered by the team at ESA’s Space Debris Office.
+
+Q2: How do we watch for space debris?
+
+Q3: What are the main sources of information on space debris?
+
+Q4: What are the origins of space debris?
+
+Q5: How have deliberate satellite intercepts affected the space debris environment?
+
+Q6: Why does Earth's atmosphere have a positive effect on space debris?
+
+Q7: How many space debris objects are currently in orbit?
+
+Q8: What is the Kessler Syndrome, and how can it be avoided?
+
+Q9: What risks to spacecraft operations are caused by space debris?
+
+Q10: How does the ISS protect itself against space debris?
+
+Q11: How do robotic spacecraft protect themselves against space debris?
+
+Q12: What measures are already being taken to avoid space debris – and which ones need to be taken in the future?
+
+Q13: Which international agreements cover space debris mitigation?
+
+Q14: How does ESA plan to remove space debris from orbit?
+
+Q15: How many objects re-enter each year, and is this dangerous?
+
+Q16: How is ESA now approaching the debris situation? It’s not just a scientific problem?
+
+Q17: How often do ESA missions have to perform debris avoidance manoeuvres?
+
+Q18: What is ESA doing about the debris issue?
+
+Q19: Which missions does ESA's space debris team support for real-time warnings and collision avoidance manoeuvres?
+
+Q20: Is there reason to be hopeful?
+
+Space debris is defined as all non-functional, artificial objects, including fragments and elements thereof, in Earth orbit or re-entering into Earth’s atmosphere. Human-made space debris dominates over the natural meteoroid environment, except around millimetre sizes.
+
+Routine ground-based radar and optical measurements performed by space surveillance systems allow the tracking and cataloguing of objects larger than 5-10 cm in low orbit, and larger than 0.3-1.0 m at geostationary orbit altitudes (36 000 km above the equator).
+
+Each of these catalogued objects has a known orbit and many can be traced back to a launch event − to a unique owner. Ground-based monitoring radars can detect smaller objects, down to a centimetre or less in size. Such objects, however, can generally not be correlated with specific launch events, nor can their orbits be determined with sufficient accuracy to be predictable in future.
+
+The presence of smaller space debris objects, typically less than 1 mm in size, can be deduced from impact craters on returned space hardware, or from onboard impact detectors exposed to the space environment.
+
+A main source of information on space debris is the US Space Surveillance Network, which uses radar and other technologies to track, correlate and catalogue objects.
+
+Data are additionally collected by means of a growing number of national and commercial systems, as well as through research radars and telescopes. Some of the observations are coordinated in common campaigns, for example within the Inter-Agency Space Debris Coordination Committee (IADC). For small debris objects, most information is deduced from the impact analyses of space-exposed surfaces that have been returned by US Space Shuttles.
+
+All artificial space objects result from more than 6000 launches conducted since the start of the space age. The majority of the catalogued objects (the ones large enough to be tracked by radar), however, originate from on-orbit break-ups – more than 500 events – as well as fewer than 10 known on-orbit collisions.
+
+As of 2021, in more than 60 years of spaceflight activity, the 6000-plus launches have placed around 10,000 satellites into orbit, of which about 6000 remain in space; only some − about 3900 − are still operational today. See 'Space debris by the numbers' for the most recently updated figures from ESA’s Space Debris Office (or access 
+
+Additional data can be found in ESA’s latest Space Debris Office Environment Report and specific information on break-ups is available at (see 'About space debris' for a description of debris origins and sources).
+
+On 11 , China conducted an anti-satellite test, intercepting their Fengyun-1C satellite with a surface-launched medium-range missile. The intercept occurred at an altitude of 862 km on a near-polar orbit, adding more than 3300 trackable objects to the US Space Surveillance Network catalogue, increasing its size by 25% in just one incident.
+
+This was by far the worst break-up event in space history − some 3.5 times worse than the worst previous event. Owing to the high altitude of the collision event and the low ambient air density, the fragments will have long orbital lifetimes.
+
+Satellites in Sun-synchronous orbits at around 800 km altitude still today experience an increased number of close conjunctions with debris objects. Roughly 30% of such events are caused by Fengyun-1C fragments.
+
+On 21 , the United States intercepted their USA-193 satellite with a modified SM-3 missile. At the time of engagement, the target spacecraft was at an altitude of 249 km, on a near-circular orbit at 58.5º inclination. Owing to the low altitude, and the correspondingly high air drag, most of the generated fragments harmlessly reentered within one orbit.
+
+Only 170 fragments entered the US catalogue within one month, and none were left by the end of 2008. In the short-term, however, the risk of penetration of the shields of the ISS’s crew modules by USA-193 fragments larger than 1 cm increased by about 30%.
+
+Earth’s atmosphere causes air drag that extracts orbital energy, leading to a reduction in the orbital altitude and final reentry of a space object. Upper layers of the atmosphere are supported by lower layers, which are compressed under the weight of the air column above them. The air density increases, and hence the increase in drag due to air with decreasing altitude is progressive.
+
+Changes in air density at a given orbital altitude are mainly driven by the Sun, which varies its activity in an 11-year cycle. Thus, every 11 years, lower parts of the atmosphere are heated and expand towards higher altitudes, where the air density increases, causing higher air drag on objects in space. As a consequence, space debris is periodically cleaned from the lower orbital regions, but these are subsequently replaced by debris objects descending from higher orbits.
+
+After sufficient exposure to air drag, the object’s orbit decays, and the object enters Earth’s denser atmosphere, where the air drag converts orbital energy into heat. This heating process is normally sufficient to destroy any object. Approximately 20-40% of the mass of larger-size spacecraft or rocket bodies, or parts made of particularly high-melting steel or titanium alloys, may survive the reentry.
+
+See “Space debris by the numbers” for the most recently updated figures from ESA’s Space Debris Office.
+
+Any of these objects can cause harm to an operational spacecraft. For example, a collision with a 10-cm object would cause the catastrophic fragmentation of a typical satellite, a 1-cm object will most likely disable a spacecraft and penetrate the ISS shields, and a 1-mm object could destroy subsystems on a satellite.
+
+Scientists generally agree that, for typical satellites, a collision having an energy-to-mass ratio exceeding 40 J/g will be catastrophic.
+
+At present, the majority of all space debris that can cause a catastrophic collision (i.e. larger than 10 cm) results from the more than 500 on-orbit fragmentation events that have happened in the course of spaceflight history.
+
+However, simulations of the long-term evolution of the space debris environment indicate that within a few decades, generated collision fragments will start to dominate, at least in orbits around 800–1400 km altitude. This will be true even if all launch activities were to be discontinued now, which is an extremely unlikely development.
+
+In the most probable scenario, fragments will initially collide with large, intact objects. Then, the resulting collision fragments will start to collide with other large, intact objects, and so on, and ultimately collision fragments will collide with collision fragments until all remaining objects are reduced to subcritical sizes.
+
+This run-away, self-sustained, cascading collision process is most likely to commence at altitudes having high debris population densities and insufficient cleansing by air drag, which would be around 900 km and 1400 km.
+
+These long-term simulations of the environment show how the extrapolation of current spaceflight trends in terms of:
+
+adherence to space debris mitigation guidelines, and
+
+the frequency of on-orbit breakups
+
+will result in the exponential growth of the population of objects, with consequences for daily spacecraft operations.
+
+The successful ‘passivation’ of all spacecraft, which would limit on-orbit breakups, and the widespread, i.e. more than 90%, adoption of effective disposal strategies at the end of missions would contribute to containing the population growth.
+
+For the situation where large constellations of smaller satellites are present in low Earth orbit (LEO; typically, up to about 1000 km altitude), the IADC has conducted studies across all 13 space agency members. These have shown that a potentially stable evolution of the orbital environment is achieved only when the disposal rate is at least 95%, notably higher than the 90% needed for larger, ‘traditional’ satellites.
+
+This runaway scenario is the ‘Kessler syndrome’ and was first postulated by NASA scientist Don Kessler in 1978.
+
+One must distinguish between debris-related risks in orbit and risks due to reentries.
+
+on-orbit risks are due to collisions with operational spacecraft, or with decommissioned spacecraft or rocket bodies. Impacts by debris larger than 10 cm are assumed to cause catastrophic break-ups, which completely destroy the spacecraft, thus ending its operation, and generating thousands of debris fragments, which could then contribute to the run-away cascading Kessler syndrome.
+
+Collisions with debris larger than 1 cm would disable an operational spacecraft, and may cause the explosion of a decommissioned spacecraft or rocket body. Impacts by millimetre-size debris may cause local damage or disable a subsystem of an operational spacecraft.
+
+Large space debris objects, such as abandoned satellites, rocket bodies or large pieces thereof, that reenter the atmosphere in an uncontrolled way can survive reentry to reach Earth’s surface, creating risk to the population on ground. The resultant risk for any individual person is, however, several orders of magnitude smaller than other, commonly accepted risks, such as those encountered when driving a car, that people routinely accept in day-to-day life.
+
+The International Space Station (ISS) has debris shields deployed around the crew modules. These shields are composed of two metal sheets, separated by about 10 cm. The outer ‘bumper shield’ exploits the impact energy to shatter the debris object, such that the inner ‘back wall’ can withstand the resulting spray of smaller-sized fragments.
+
+Between the walls, fabric with the same functionality as in bulletproof vests is deployed. This design enables the shield to defeat debris objects up to 1 cm in size. The same double-wall design is used by military forces to protect heavy armoured vehicles, such as tanks, and in this usage is called ‘spaced armour’.
+
+The orbits of debris objects that are large enough to be contained in the US Space Surveillance Network catalogue can be predicted and compared with the Space Station’s orbit to determine whether a close approach will occur. Assuming that both orbits can be determined with sufficient accuracy, then a predicted close approach, or conjunction, distance can be translated into a specific on-orbit collision risk.
+
+If this risk exceeds a predetermined ISS threshold level, as set under the flight rules, then the Station performs a ‘collision avoidance manoeuvre’. By the end of 2020, the Station had performed more than 26 of these manoeuvres, some by using the engines of ESA’s Automated Transfer Vehicle, when one happened to be docked to Station in 2008 and 2011.
+
+The most probable impacts are due to small space debris objects. One can efficiently increase the protection of an uncrewed, robotic spacecraft by moving sensitive equipment away from the most probable impact direction, and/or by covering sensitive parts of the spacecraft with protective fabric layers (the 'bullet-proof vest' approach). Such measures can significantly increase the survivability of a spacecraft against debris up to 1 mm in size.
+
+Furthermore, like the ISS, satellites can be commanded to conduct collision avoidance manoeuvres against known objects in the catalogue.
+
+At ESA, if a mission’s designated ‘risk threshold’ is exceeded, the Space Debris Office informs the mission control teams and supports the definition and planning of an avoidance manoeuvre. The debris experts advise on optimal manoeuvre strategies and screen orbit files covering potential manoeuvres to confirm that the proposed manoeuvre will deliver the desired risk reduction, as well as ensuring that risks of other conjunctions remain at acceptable levels.
+
+As of 2021, each of ESA’s Earth-orbiting satellites is conducting, on average, two collision avoidance manoeuvres per year.
+
+Spacecraft operators are currently focusing their efforts on controlling the space debris environment. The ultimate goal is to prevent a run-away cascading collision process from setting in over the next few decades.
+
+Initial measures aim at reducing the generation of hazardous debris by avoiding on-orbit explosions or collisions with operational spacecraft, and by removing spacecraft from densely populated altitude regions at the end of their mission.
+
+These measures can stabilise the environment in the short term, but need to be applied by all spacefaring organisations -- government agencies and commercial operators alike -- immediately.
+
+Management of end-of-life for satellites is taken very seriously at ESA. Through the Agency’s CleanSpace initiative, space debris mitigation technologies are already being developed to fly onboard future satellites.
+
+These include technologies that will:
+
+Avoid explosions in space, so, to effect passivation
+
+Ensure more complete burn up during re-entry, thereby reducing ground casualty risks
+
+Ensure controlled re-entry, so deorbit systems such as deorbiting rocket motors
+
+In the long term, at least some of the existing on-orbit mass, which fuels the collisional cascading process, must be removed. This can be most efficiently done by the active removal of old spacecraft and rocket stages, in which most of the mass is concentrated. This means designing, developing and flying a new class of missions.
+
+In one scenario, such a mission would launch into orbit, chase and then rendezvous with a dead satellite or rocket stage, latch on to it, then fire its engines to conduct a controlled reentry, ensuring that both the chaser and the derelict safely burn up in the atmosphere.
+
+Regardless, long-term debris environment projections indicate that removal of existing on-orbit mass is a required, mandatory and unavoidable step in maintaining the space debris environment at a low enough level to allow future spaceflight.
+
+There is an international consensus on the necessary space-debris mitigation measures. The most prominent international body where such measures are discussed and elaborated is the Inter-Agency Space Debris Coordination Committee (IADC). In addition to ESA, IADC membership comprises:
+
+Italy - ASI (Agenzia Spaziale Italiana)
+
+France - CNES (Centre National d'Etudes Spatiales)
+
+China - CNSA (China National Space Administration)
+
+Canada - CSA (Canadian Space Agency)
+
+Germany - DLR (German Aerospace Center)
+
+India - ISRO (Indian Space Research Organisation)
+
+Japan - JAXA (Japan Aerospace Exploration Agency)
+
+USA - NASA (National Aeronautics and Space Administration)
+
+Russia - ROSCOSMOS (Russian Federal Space Agency)
+
+Ukraine - SSAU (State Space Agency of Ukraine)
+
+United Kingdom – UK Space Agency
+
+In 2002 (with updates in 2007 and 2020), IADC produced a set of mitigation guidelines, which also served as input to a set of seven Space Debris Mitigation Guidelines adopted by the United Nations Committee on the Peaceful Uses of Outer Space (UNCOPUOS).
+
+Limit debris release during normal operations
+
+Minimise the potential for break-ups during operational phases
+
+Limit the probability of accidental collisions
+
+Avoid intentional destruction and other harmful activities
+
+Minimise the potential for post-mission break-ups resulting from stored energy, e.g. from the explosion of fuel tanks or batteries
+
+Limit the long-term presence of spacecraft and launch vehicle orbital stages in the low-Earth orbit region after the end of their missions
+
+Limit the long-term interference of spacecraft and launch vehicle orbital stages with the geosynchronous region after the end of their missions
+
+For example, one strategy that is fully compliant with the IADC guidelines would be to preserve enough fuel on board a satellite to perform a deorbiting manoeuvre at the end of the mission and to passivate on-board systems. So long as the manoeuvre brought the satellite to a sufficiently low orbit that it would decay and re-enter the atmosphere due to air drag within 25 years, the guidelines would be fully respected. While this technique may be straightforward, in fact it implies additional cost and complexity, which can vary according to the risk of casualties on ground.
+
+The space debris mitigation measures elaborated by the IADC have been presented to the UNCOPUOS Scientific & Technical Subcommittee (STSC), where they served as a baseline for the UN Space Debris Mitigation Guidelines.
+
+In 2007, these guidelines were approved by the 63 STSC member nations as voluntary high-­level mitigation measures. The guidelines have since found their way into engineering standards promulgated by the International Organization for Standardization (ISO) and, in Europe, by European Cooperation for Space Standardization (ECSS), that guide the design of space missions today.
+
+Moreover, several countries have adopted those recommendations, guidelines and standards via national laws, making space debris mitigation mandatory.
+
+At ESA, the ISO 24113 (Space Systems - Space Debris Mitigation Requirements) standard was adopted in 2014 through a tailoring process via the ECSS, and replaced the requirements on space debris mitigation for Agency projects that have been applicable since 1 . This means that space debris mitigation requirements became applicable to any new mission that ESA designed.
+
+What could be the next steps?
+
+The agreed-upon space-debris mitigation measures must be followed by space-debris environment remediation measures.
+
+Such measures are presently being discussed at the International Academy of Astronautics (IAA) and the UN’s Long-term Sustainability of Outer Space Activities Working Group.
+
+Following several years of international cooperation, UNCOPUOS adopted in a set of 21 guidelines that address the long-term sustainability of space activities. These guidelines comprise internationally recognised and accepted measures to sustain the space environment for safe spaceflight operations.
+
+An additional approach is to define a metric that quantifies the impact of a mission on other spacecraft operators and on the environment in general, by considering parameters such as the spacecraft size, the operational orbits and the adopted mitigation measures.
+
+ESA has been working on the development of such concepts in recent years and is proceeding with their implementation via its Space Safety Programme. This approach is also included into ESA’s contribution to the new ‘Space Sustainability Rating’, currently in development together with academic and industrial partners following an initiative by the World Economic Forum.
+
+It is agreed today that the number of objects in low-Earth orbit (LEO) can only be controlled by the active removal of selected objects, meaning five to ten large objects -- such as complete defunct satellites -- per year. As this is a global task, active removal is a challenge that should be undertaken by joint efforts and ESA, as a space technology and operations agency, has identified the development of active removal technologies in partnership with other actors as a strategic goal.
+
+Through its ‘Active Debris Removal – In-Orbit Servicing’ (ADRIOS) project, ESA is contributing actively to cleaning up space, while also demonstrating the technologies needed for debris removal. This includes the development of essential guidance, navigation and control (GNC) technologies as well as rendezvous and capture methods.
+
+The results of these developments will be applied to the planned ClearSpace-1 mission, which will be the world’s first mission to remove an item of debris from orbit. Clearspace-1 will fly in 2025 and will aim to remove the upper portion of a Vega Secondary PayloadAdapter (Vespa). This was left in an approximately 801 km by 664 km-altitude gradual disposal orbit, complying with space debris mitigation guidelines, following the second flight of the then-new Vega launcher back in 2013.
+
+The ClearSpace-1 mission is being procured by ESA as a service contract with a start-up-led commercial team with the aim of stimulating a new market for in-orbit servicing and space debris removal.
+
+ESA is also actively working in designing technologies that will ease the removal of future debris. These ‘Design for Removal’ technologies will be added to future satellites. These will include for example 2D and 3D graphic markers, handles to enable capturing and passive radio-frequency identifiers (to know which side of the satellite a chaser is approaching). These technologies will not only help remove the satellite in case of failure, they will support its maintenance, repair and refuelling, all of which will prolong the life of the satellite.
+
+Only a few large objects fall out of orbit and re-enter the atmosphere every year. In total, about 75% of the larger objects ever launched have already done so. Objects of moderate size re-enter about once per week, while small-size tracked space debris objects re-enter almost daily.
+
+In general, most objects burn up entirely in the atmosphere during the re-entry. Parts of larger objects, or components that are made of material with a high melting point, may survive to reach the ground or ocean surface. As these are rare events, and as about 75% of the Earth’s surface is covered by water while large portions of land area are uninhibited, the risk for any single individual is several orders of magnitude smaller than commonly accepted risks, such as those encountered when driving a car, taken in day-to-day life.
+
+As large constellations of smaller satellites are now being deployed, and as the overall number of objects placed into orbit is growing rapidly, the number of re-entering objects is also expected to grow during the next few years.
+
+Today, Space debris is a topic of global concern. Debris threatens our future in space and everything that relies on it such as telecommunication services, weather forecasting, Earth monitoring and personal navigation services like Galileo and GPS. Although space may seem vast, the orbits around Earth are – like the oceans, forests, land and food on Earth – a limited natural resource. We must use them responsibly, and protect them for future generations.
+
+Space debris is a topic of global concern: Debris threatens our future in space and everything that relies on it. This is an issue for the entire planet, as all of us rely on services and data delivered via space, and no country can solve this alone.
+
+Space debris is also a major ‘project driver’. The management of the end of life of future satellites has to be considered right at the very start of the design of any mission. New technologies that will ease the implementation of effective end-of-life management will need to be developed and made available to mission designers, such as demisable components, controlled re-entry devices and passivation devices. Furthermore, post-mission disposal manoeuvres must be proven to be at least 90% successful.
+
+Orbits are a limited natural resource: Orbits must be considered and cared for in the same way as the limited natural resources on Earth such as forests, fresh water and land. Space debris threatens the economically vital orbits in which satellites fly, potentially making them unusable in future. This would be a catastrophic disaster for all modern society and all people, everywhere.
+
+Long-term sustainability: Space is fundamental to our daily lives, and we need to secure it for future generations. The UN COPUOS “Guidelines on the Long Term Sustainability of Outer Space” provide directions on how we can continue the peaceful use of space in a manner that is sustainable for future generations.
+
+Today, there is a pressing need for international collaboration: No one rules space, and individual space actors have the power to degrade vital orbits for everyone else. We stand on the cusp of a new era of space activities, with unprecedented numbers of satellites being launched into orbit. The time is now for all countries, space agencies, businesses and organisations to come together to tackle the debris problem.
+
+Sustainability on Earth depends on space: From space, we get a unique view of our planet and its delicate and complex ecosystems. To better understand the changing climate, deforestation, the melting ice caps and rising sea levels, we need to protect low-Earth orbit.
+
+On average, ESA satellites in low-Earth orbit perform two collision avoidance manoeuvres per satellite per year. For the Sentinel satellites, it is more frequent, with around one manoeuvre every three months.
+
+Future: automated collision avoidance
+
+The average number of avoidance manoeuvres performed each year depends on the orbit in which a satellite flies. The Sentinel satellites, operated by ESA as part of the EU’s Copernicus programme, operate in a region with high debris density, and such manoeuvres are conducted roughly every three months – and around once a month, the predicted collision probability is high enough that the flight control team must be alerted.
+
+Each of these manoeuvres has a cost. The cost is not entirely measured by the fuel that must be used (thus shortening the overall life of the satellite), as the manoeuvres tend to be small, but it may result in the interruption of spacecraft operation for several hours, meaning an outage of data for the scientists working with the satellite and this hurts. In addition, this system of alerts requires a team of experts available 24 hours/day, year-round and this also has a cost and results in a not negligible effort for the team as the process of designing and implementing a manoeuvre still involves a series of labour-intensive processes and checks.
+
+In the past years, fragments from the two large breakup events in 2007 (Fengyun-1C) and 2009 (Cosmos/Iridium) have been involved in a significant fraction of the conjunctions with ESA-operated satellites.
+
+More recently, a new trend is emerging, with more conjunctions involving intact – and sometimes operational – satellites, as more and more satellites are launched into the commercially and scientifically valuable low-Earth Orbit.
+
+How can spacecraft operators deal with this increase in traffic and the resulting need to perform avoidance manoeuvres? One way is to consider how the process can be made more automated. Several activities in this direction are being undertaken as part of ESA’s Space Safety Programme, including, among others, the analysis of historical data for training machine learning models and the investigation of automated coordination mechanisms.
+
+Space debris is a classic ‘tragedy of the commons’ dilemma and therefore should be tackled by global cooperation. It is also an issue that needs the development of solutions and technologies.
+
+At ESA, various programmes address this need, for example the Technology Development Element (TDE), the General Support Technology Programme (GSTP) and the Space Safety Programme.
+
+In total, ESA’s Space Safety Programme was funded at €412 million at the 2019 Ministerial Council (aka Space19+) for the period 2020-2024 and 13 Member States are participating in the programme’s elements addressing Space Debris and Cleanspace. These debris-related technology development initiatives are demonstrating a significant commitment and engagement by ESA Member States, industry, and academia to this programme.
+
+ESA is working toward the goals of:
+
+Ensuring Europe’s space infrastructure can efficiently mitigate the generation of space debris and their hazards by 2030
+
+The safe operation of individual satellites and large constellations by developing and demonstrating an Automated Collision Avoidance System
+
+Developing a European industrial capacity to conduct on-orbit servicing by flying a first-of-its-kind active debris removal mission
+
+Encouraging sustainable spaceflight practices on the global stage, and to lead in developing clean and sustainable technologies, fuels and designs
+
+ESA’s Space Debris Office is responsible for debris alerting services for all ESA missions, as well as those of some partner and third-party missions.
+
+Many orbits are already well managed by the international spaceflight community due to their immense economic value.
+
+The Geostationary orbit at 35 000 km above Earth’s surface is home to many communication satellites operated by private companies. In the last five years, more than 80% of the satellites flying there have been disposed of according to international guidelines, which is very encouraging.
+
+This compares, however, with only 15-30% of the satellites at low-Earth orbit, all of which require active disposal as they will not re-enter and burn up naturally anytime soon after their mission ends. We need to apply the same effective thinking to all orbits.
+
+Many new technologies are being developed worldwide to reduce the creation of space debris, together with technologies that will demonstrate active debris removal. Among them is ESA’s Clearspace-1 mission, which will be the first mission to remove an existing piece of space debris from orbit.
+
+In summary, international cooperation in space is often stronger than on Earth, and the 20-year-old International Space Station is an enduring example of this spirit. In space, all of us can come together to face common challenges, and it is through space exploration that humanity has developed some of the most astonishing innovations of recent decades.
+
+Space has the potential to inspire, motivate and push us to break down barriers. We have many reasons to believe we can work together to find solutions to the problem of space debris – and achieve a better future for everyone.
+
+Frequently asked questions on space debris answered by the team at ESA’s Space Debris Office.
+Q2: How do we watch for space debris?
+Q3: What are the main sources of information on space debris?
+Q4: What are the origins of space debris?
+Q5: How have deliberate satellite intercepts affected the space debris environment?
+Q6: Why does Earth's atmosphere have a positive effect on space debris?
+Q7: How many space debris objects are currently in orbit?
+Q8: What is the Kessler Syndrome, and how can it be avoided?
+Q9: What risks to spacecraft operations are caused by space debris?
+Q10: How does the ISS protect itself against space debris?
+Q11: How do robotic spacecraft protect themselves against space debris?
+Q12: What measures are already being taken to avoid space debris – and which ones need to be taken in the future?
+Q13: Which international agreements cover space debris mitigation?
+Q14: How does ESA plan to remove space debris from orbit?
+Q15: How many objects re-enter each year, and is this dangerous?
+Q16: How is ESA now approaching the debris situation? It’s not just a scientific problem?
+Q17: How often do ESA missions have to perform debris avoidance manoeuvres?
+Q18: What is ESA doing about the debris issue?
+Q19: Which missions does ESA's space debris team support for real-time warnings and collision avoidance manoeuvres?
+Q20: Is there reason to be hopeful?
+Space debris is defined as all non-functional, artificial objects, including fragments and elements thereof, in Earth orbit or re-entering into Earth’s atmosphere. Human-made space debris dominates over the natural meteoroid environment, except around millimetre sizes.
+Routine ground-based radar and optical measurements performed by space surveillance systems allow the tracking and cataloguing of objects larger than 5-10 cm in low orbit, and larger than 0.3-1.0 m at geostationary orbit altitudes (36 000 km above the equator).
+Each of these catalogued objects has a known orbit and many can be traced back to a launch event − to a unique owner. Ground-based monitoring radars can detect smaller objects, down to a centimetre or less in size. Such objects, however, can generally not be correlated with specific launch events, nor can their orbits be determined with sufficient accuracy to be predictable in future.
+The presence of smaller space debris objects, typically less than 1 mm in size, can be deduced from impact craters on returned space hardware, or from onboard impact detectors exposed to the space environment.
+A main source of information on space debris is the US Space Surveillance Network, which uses radar and other technologies to track, correlate and catalogue objects.
+Data are additionally collected by means of a growing number of national and commercial systems, as well as through research radars and telescopes. Some of the observations are coordinated in common campaigns, for example within the Inter-Agency Space Debris Coordination Committee (IADC). For small debris objects, most information is deduced from the impact analyses of space-exposed surfaces that have been returned by US Space Shuttles.
+All artificial space objects result from more than 6000 launches conducted since the start of the space age. The majority of the catalogued objects (the ones large enough to be tracked by radar), however, originate from on-orbit break-ups – more than 500 events – as well as fewer than 10 known on-orbit collisions.
+As of 2021, in more than 60 years of spaceflight activity, the 6000-plus launches have placed around 10,000 satellites into orbit, of which about 6000 remain in space; only some − about 3900 − are still operational today. See 'Space debris by the numbers' for the most recently updated figures from ESA’s Space Debris Office (or access 
+Additional data can be found in ESA’s latest Space Debris Office Environment Report and specific information on break-ups is available at (see 'About space debris' for a description of debris origins and sources).
+On 11 , China conducted an anti-satellite test, intercepting their Fengyun-1C satellite with a surface-launched medium-range missile. The intercept occurred at an altitude of 862 km on a near-polar orbit, adding more than 3300 trackable objects to the US Space Surveillance Network catalogue, increasing its size by 25% in just one incident.
+This was by far the worst break-up event in space history − some 3.5 times worse than the worst previous event. Owing to the high altitude of the collision event and the low ambient air density, the fragments will have long orbital lifetimes.
+Satellites in Sun-synchronous orbits at around 800 km altitude still today experience an increased number of close conjunctions with debris objects. Roughly 30% of such events are caused by Fengyun-1C fragments.
+On 21 , the United States intercepted their USA-193 satellite with a modified SM-3 missile. At the time of engagement, the target spacecraft was at an altitude of 249 km, on a near-circular orbit at 58.5º inclination. Owing to the low altitude, and the correspondingly high air drag, most of the generated fragments harmlessly reentered within one orbit.
+Only 170 fragments entered the US catalogue within one month, and none were left by the end of 2008. In the short-term, however, the risk of penetration of the shields of the ISS’s crew modules by USA-193 fragments larger than 1 cm increased by about 30%.
+Earth’s atmosphere causes air drag that extracts orbital energy, leading to a reduction in the orbital altitude and final reentry of a space object. Upper layers of the atmosphere are supported by lower layers, which are compressed under the weight of the air column above them. The air density increases, and hence the increase in drag due to air with decreasing altitude is progressive.
+Changes in air density at a given orbital altitude are mainly driven by the Sun, which varies its activity in an 11-year cycle. Thus, every 11 years, lower parts of the atmosphere are heated and expand towards higher altitudes, where the air density increases, causing higher air drag on objects in space. As a consequence, space debris is periodically cleaned from the lower orbital regions, but these are subsequently replaced by debris objects descending from higher orbits.
+After sufficient exposure to air drag, the object’s orbit decays, and the object enters Earth’s denser atmosphere, where the air drag converts orbital energy into heat. This heating process is normally sufficient to destroy any object. Approximately 20-40% of the mass of larger-size spacecraft or rocket bodies, or parts made of particularly high-melting steel or titanium alloys, may survive the reentry.
+See “Space debris by the numbers” for the most recently updated figures from ESA’s Space Debris Office.
+Any of these objects can cause harm to an operational spacecraft. For example, a collision with a 10-cm object would cause the catastrophic fragmentation of a typical satellite, a 1-cm object will most likely disable a spacecraft and penetrate the ISS shields, and a 1-mm object could destroy subsystems on a satellite.
+Scientists generally agree that, for typical satellites, a collision having an energy-to-mass ratio exceeding 40 J/g will be catastrophic.
+At present, the majority of all space debris that can cause a catastrophic collision (i.e. larger than 10 cm) results from the more than 500 on-orbit fragmentation events that have happened in the course of spaceflight history.
+However, simulations of the long-term evolution of the space debris environment indicate that within a few decades, generated collision fragments will start to dominate, at least in orbits around 800–1400 km altitude. This will be true even if all launch activities were to be discontinued now, which is an extremely unlikely development.
+In the most probable scenario, fragments will initially collide with large, intact objects. Then, the resulting collision fragments will start to collide with other large, intact objects, and so on, and ultimately collision fragments will collide with collision fragments until all remaining objects are reduced to subcritical sizes.
+This run-away, self-sustained, cascading collision process is most likely to commence at altitudes having high debris population densities and insufficient cleansing by air drag, which would be around 900 km and 1400 km.
+These long-term simulations of the environment show how the extrapolation of current spaceflight trends in terms of:
+adherence to space debris mitigation guidelines, and
+the frequency of on-orbit breakups
+will result in the exponential growth of the population of objects, with consequences for daily spacecraft operations.
+The successful ‘passivation’ of all spacecraft, which would limit on-orbit breakups, and the widespread, i.e. more than 90%, adoption of effective disposal strategies at the end of missions would contribute to containing the population growth.
+For the situation where large constellations of smaller satellites are present in low Earth orbit (LEO; typically, up to about 1000 km altitude), the IADC has conducted studies across all 13 space agency members. These have shown that a potentially stable evolution of the orbital environment is achieved only when the disposal rate is at least 95%, notably higher than the 90% needed for larger, ‘traditional’ satellites.
+This runaway scenario is the ‘Kessler syndrome’ and was first postulated by NASA scientist Don Kessler in 1978.
+One must distinguish between debris-related risks in orbit and risks due to reentries.
+on-orbit risks are due to collisions with operational spacecraft, or with decommissioned spacecraft or rocket bodies. Impacts by debris larger than 10 cm are assumed to cause catastrophic break-ups, which completely destroy the spacecraft, thus ending its operation, and generating thousands of debris fragments, which could then contribute to the run-away cascading Kessler syndrome.
+Collisions with debris larger than 1 cm would disable an operational spacecraft, and may cause the explosion of a decommissioned spacecraft or rocket body. Impacts by millimetre-size debris may cause local damage or disable a subsystem of an operational spacecraft.
+Large space debris objects, such as abandoned satellites, rocket bodies or large pieces thereof, that reenter the atmosphere in an uncontrolled way can survive reentry to reach Earth’s surface, creating risk to the population on ground. The resultant risk for any individual person is, however, several orders of magnitude smaller than other, commonly accepted risks, such as those encountered when driving a car, that people routinely accept in day-to-day life.
+The International Space Station (ISS) has debris shields deployed around the crew modules. These shields are composed of two metal sheets, separated by about 10 cm. The outer ‘bumper shield’ exploits the impact energy to shatter the debris object, such that the inner ‘back wall’ can withstand the resulting spray of smaller-sized fragments.
+Between the walls, fabric with the same functionality as in bulletproof vests is deployed. This design enables the shield to defeat debris objects up to 1 cm in size. The same double-wall design is used by military forces to protect heavy armoured vehicles, such as tanks, and in this usage is called ‘spaced armour’.
+The orbits of debris objects that are large enough to be contained in the US Space Surveillance Network catalogue can be predicted and compared with the Space Station’s orbit to determine whether a close approach will occur. Assuming that both orbits can be determined with sufficient accuracy, then a predicted close approach, or conjunction, distance can be translated into a specific on-orbit collision risk.
+If this risk exceeds a predetermined ISS threshold level, as set under the flight rules, then the Station performs a ‘collision avoidance manoeuvre’. By the end of 2020, the Station had performed more than 26 of these manoeuvres, some by using the engines of ESA’s Automated Transfer Vehicle, when one happened to be docked to Station in 2008 and 2011.
+The most probable impacts are due to small space debris objects. One can efficiently increase the protection of an uncrewed, robotic spacecraft by moving sensitive equipment away from the most probable impact direction, and/or by covering sensitive parts of the spacecraft with protective fabric layers (the 'bullet-proof vest' approach). Such measures can significantly increase the survivability of a spacecraft against debris up to 1 mm in size.
+Furthermore, like the ISS, satellites can be commanded to conduct collision avoidance manoeuvres against known objects in the catalogue.
+At ESA, if a mission’s designated ‘risk threshold’ is exceeded, the Space Debris Office informs the mission control teams and supports the definition and planning of an avoidance manoeuvre. The debris experts advise on optimal manoeuvre strategies and screen orbit files covering potential manoeuvres to confirm that the proposed manoeuvre will deliver the desired risk reduction, as well as ensuring that risks of other conjunctions remain at acceptable levels.
+As of 2021, each of ESA’s Earth-orbiting satellites is conducting, on average, two collision avoidance manoeuvres per year.
+Spacecraft operators are currently focusing their efforts on controlling the space debris environment. The ultimate goal is to prevent a run-away cascading collision process from setting in over the next few decades.
+Initial measures aim at reducing the generation of hazardous debris by avoiding on-orbit explosions or collisions with operational spacecraft, and by removing spacecraft from densely populated altitude regions at the end of their mission.
+These measures can stabilise the environment in the short term, but need to be applied by all spacefaring organisations -- government agencies and commercial operators alike -- immediately.
+Management of end-of-life for satellites is taken very seriously at ESA. Through the Agency’s CleanSpace initiative, space debris mitigation technologies are already being developed to fly onboard future satellites.
+These include technologies that will:
+Avoid explosions in space, so, to effect passivation
+Ensure more complete burn up during re-entry, thereby reducing ground casualty risks
+Ensure controlled re-entry, so deorbit systems such as deorbiting rocket motors
+In the long term, at least some of the existing on-orbit mass, which fuels the collisional cascading process, must be removed. This can be most efficiently done by the active removal of old spacecraft and rocket stages, in which most of the mass is concentrated. This means designing, developing and flying a new class of missions.
+In one scenario, such a mission would launch into orbit, chase and then rendezvous with a dead satellite or rocket stage, latch on to it, then fire its engines to conduct a controlled reentry, ensuring that both the chaser and the derelict safely burn up in the atmosphere.
+Regardless, long-term debris environment projections indicate that removal of existing on-orbit mass is a required, mandatory and unavoidable step in maintaining the space debris environment at a low enough level to allow future spaceflight.
+There is an international consensus on the necessary space-debris mitigation measures. The most prominent international body where such measures are discussed and elaborated is the Inter-Agency Space Debris Coordination Committee (IADC). In addition to ESA, IADC membership comprises:
+Italy - ASI (Agenzia Spaziale Italiana)
+France - CNES (Centre National d'Etudes Spatiales)
+China - CNSA (China National Space Administration)
+Canada - CSA (Canadian Space Agency)
+Germany - DLR (German Aerospace Center)
+India - ISRO (Indian Space Research Organisation)
+Japan - JAXA (Japan Aerospace Exploration Agency)
+USA - NASA (National Aeronautics and Space Administration)
+Russia - ROSCOSMOS (Russian Federal Space Agency)
+Ukraine - SSAU (State Space Agency of Ukraine)
+United Kingdom – UK Space Agency
+In 2002 (with updates in 2007 and 2020), IADC produced a set of mitigation guidelines, which also served as input to a set of seven Space Debris Mitigation Guidelines adopted by the United Nations Committee on the Peaceful Uses of Outer Space (UNCOPUOS).
+Limit debris release during normal operations
+Minimise the potential for break-ups during operational phases
+Limit the probability of accidental collisions
+Avoid intentional destruction and other harmful activities
+Minimise the potential for post-mission break-ups resulting from stored energy, e.g. from the explosion of fuel tanks or batteries
+Limit the long-term presence of spacecraft and launch vehicle orbital stages in the low-Earth orbit region after the end of their missions
+Limit the long-term interference of spacecraft and launch vehicle orbital stages with the geosynchronous region after the end of their missions
+For example, one strategy that is fully compliant with the IADC guidelines would be to preserve enough fuel on board a satellite to perform a deorbiting manoeuvre at the end of the mission and to passivate on-board systems. So long as the manoeuvre brought the satellite to a sufficiently low orbit that it would decay and re-enter the atmosphere due to air drag within 25 years, the guidelines would be fully respected. While this technique may be straightforward, in fact it implies additional cost and complexity, which can vary according to the risk of casualties on ground.
+The space debris mitigation measures elaborated by the IADC have been presented to the UNCOPUOS Scientific & Technical Subcommittee (STSC), where they served as a baseline for the UN Space Debris Mitigation Guidelines.
+In 2007, these guidelines were approved by the 63 STSC member nations as voluntary high-­level mitigation measures. The guidelines have since found their way into engineering standards promulgated by the International Organization for Standardization (ISO) and, in Europe, by European Cooperation for Space Standardization (ECSS), that guide the design of space missions today.
+Moreover, several countries have adopted those recommendations, guidelines and standards via national laws, making space debris mitigation mandatory.
+At ESA, the ISO 24113 (Space Systems - Space Debris Mitigation Requirements) standard was adopted in 2014 through a tailoring process via the ECSS, and replaced the requirements on space debris mitigation for Agency projects that have been applicable since 1 . This means that space debris mitigation requirements became applicable to any new mission that ESA designed.
+What could be the next steps?
+The agreed-upon space-debris mitigation measures must be followed by space-debris environment remediation measures.
+Such measures are presently being discussed at the International Academy of Astronautics (IAA) and the UN’s Long-term Sustainability of Outer Space Activities Working Group.
+Following several years of international cooperation, UNCOPUOS adopted in a set of 21 guidelines that address the long-term sustainability of space activities. These guidelines comprise internationally recognised and accepted measures to sustain the space environment for safe spaceflight operations.
+An additional approach is to define a metric that quantifies the impact of a mission on other spacecraft operators and on the environment in general, by considering parameters such as the spacecraft size, the operational orbits and the adopted mitigation measures.
+ESA has been working on the development of such concepts in recent years and is proceeding with their implementation via its Space Safety Programme. This approach is also included into ESA’s contribution to the new ‘Space Sustainability Rating’, currently in development together with academic and industrial partners following an initiative by the World Economic Forum.
+It is agreed today that the number of objects in low-Earth orbit (LEO) can only be controlled by the active removal of selected objects, meaning five to ten large objects -- such as complete defunct satellites -- per year. As this is a global task, active removal is a challenge that should be undertaken by joint efforts and ESA, as a space technology and operations agency, has identified the development of active removal technologies in partnership with other actors as a strategic goal.
+Through its ‘Active Debris Removal – In-Orbit Servicing’ (ADRIOS) project, ESA is contributing actively to cleaning up space, while also demonstrating the technologies needed for debris removal. This includes the development of essential guidance, navigation and control (GNC) technologies as well as rendezvous and capture methods.
+The results of these developments will be applied to the planned ClearSpace-1 mission, which will be the world’s first mission to remove an item of debris from orbit. Clearspace-1 will fly in 2025 and will aim to remove the upper portion of a Vega Secondary PayloadAdapter (Vespa). This was left in an approximately 801 km by 664 km-altitude gradual disposal orbit, complying with space debris mitigation guidelines, following the second flight of the then-new Vega launcher back in 2013.
+The ClearSpace-1 mission is being procured by ESA as a service contract with a start-up-led commercial team with the aim of stimulating a new market for in-orbit servicing and space debris removal.
+ESA is also actively working in designing technologies that will ease the removal of future debris. These ‘Design for Removal’ technologies will be added to future satellites. These will include for example 2D and 3D graphic markers, handles to enable capturing and passive radio-frequency identifiers (to know which side of the satellite a chaser is approaching). These technologies will not only help remove the satellite in case of failure, they will support its maintenance, repair and refuelling, all of which will prolong the life of the satellite.
+Only a few large objects fall out of orbit and re-enter the atmosphere every year. In total, about 75% of the larger objects ever launched have already done so. Objects of moderate size re-enter about once per week, while small-size tracked space debris objects re-enter almost daily.
+In general, most objects burn up entirely in the atmosphere during the re-entry. Parts of larger objects, or components that are made of material with a high melting point, may survive to reach the ground or ocean surface. As these are rare events, and as about 75% of the Earth’s surface is covered by water while large portions of land area are uninhibited, the risk for any single individual is several orders of magnitude smaller than commonly accepted risks, such as those encountered when driving a car, taken in day-to-day life.
+As large constellations of smaller satellites are now being deployed, and as the overall number of objects placed into orbit is growing rapidly, the number of re-entering objects is also expected to grow during the next few years.
+Today, Space debris is a topic of global concern. Debris threatens our future in space and everything that relies on it such as telecommunication services, weather forecasting, Earth monitoring and personal navigation services like Galileo and GPS. Although space may seem vast, the orbits around Earth are – like the oceans, forests, land and food on Earth – a limited natural resource. We must use them responsibly, and protect them for future generations.
+Space debris is a topic of global concern: Debris threatens our future in space and everything that relies on it. This is an issue for the entire planet, as all of us rely on services and data delivered via space, and no country can solve this alone.
+Space debris is also a major ‘project driver’. The management of the end of life of future satellites has to be considered right at the very start of the design of any mission. New technologies that will ease the implementation of effective end-of-life management will need to be developed and made available to mission designers, such as demisable components, controlled re-entry devices and passivation devices. Furthermore, post-mission disposal manoeuvres must be proven to be at least 90% successful.
+Orbits are a limited natural resource: Orbits must be considered and cared for in the same way as the limited natural resources on Earth such as forests, fresh water and land. Space debris threatens the economically vital orbits in which satellites fly, potentially making them unusable in future. This would be a catastrophic disaster for all modern society and all people, everywhere.
+Long-term sustainability: Space is fundamental to our daily lives, and we need to secure it for future generations. The UN COPUOS “Guidelines on the Long Term Sustainability of Outer Space” provide directions on how we can continue the peaceful use of space in a manner that is sustainable for future generations.
+Today, there is a pressing need for international collaboration: No one rules space, and individual space actors have the power to degrade vital orbits for everyone else. We stand on the cusp of a new era of space activities, with unprecedented numbers of satellites being launched into orbit. The time is now for all countries, space agencies, businesses and organisations to come together to tackle the debris problem.
+Sustainability on Earth depends on space: From space, we get a unique view of our planet and its delicate and complex ecosystems. To better understand the changing climate, deforestation, the melting ice caps and rising sea levels, we need to protect low-Earth orbit.
+On average, ESA satellites in low-Earth orbit perform two collision avoidance manoeuvres per satellite per year. For the Sentinel satellites, it is more frequent, with around one manoeuvre every three months.
+Future: automated collision avoidance
+The average number of avoidance manoeuvres performed each year depends on the orbit in which a satellite flies. The Sentinel satellites, operated by ESA as part of the EU’s Copernicus programme, operate in a region with high debris density, and such manoeuvres are conducted roughly every three months – and around once a month, the predicted collision probability is high enough that the flight control team must be alerted.
+Each of these manoeuvres has a cost. The cost is not entirely measured by the fuel that must be used (thus shortening the overall life of the satellite), as the manoeuvres tend to be small, but it may result in the interruption of spacecraft operation for several hours, meaning an outage of data for the scientists working with the satellite and this hurts. In addition, this system of alerts requires a team of experts available 24 hours/day, year-round and this also has a cost and results in a not negligible effort for the team as the process of designing and implementing a manoeuvre still involves a series of labour-intensive processes and checks.
+In the past years, fragments from the two large breakup events in 2007 (Fengyun-1C) and 2009 (Cosmos/Iridium) have been involved in a significant fraction of the conjunctions with ESA-operated satellites.
+More recently, a new trend is emerging, with more conjunctions involving intact – and sometimes operational – satellites, as more and more satellites are launched into the commercially and scientifically valuable low-Earth Orbit.
+How can spacecraft operators deal with this increase in traffic and the resulting need to perform avoidance manoeuvres? One way is to consider how the process can be made more automated. Several activities in this direction are being undertaken as part of ESA’s Space Safety Programme, including, among others, the analysis of historical data for training machine learning models and the investigation of automated coordination mechanisms.
+Space debris is a classic ‘tragedy of the commons’ dilemma and therefore should be tackled by global cooperation. It is also an issue that needs the development of solutions and technologies.
+At ESA, various programmes address this need, for example the Technology Development Element (TDE), the General Support Technology Programme (GSTP) and the Space Safety Programme.
+In total, ESA’s Space Safety Programme was funded at €412 million at the 2019 Ministerial Council (aka Space19+) for the period 2020-2024 and 13 Member States are participating in the programme’s elements addressing Space Debris and Cleanspace. These debris-related technology development initiatives are demonstrating a significant commitment and engagement by ESA Member States, industry, and academia to this programme.
+ESA is working toward the goals of:
+Ensuring Europe’s space infrastructure can efficiently mitigate the generation of space debris and their hazards by 2030
+The safe operation of individual satellites and large constellations by developing and demonstrating an Automated Collision Avoidance System
+Developing a European industrial capacity to conduct on-orbit servicing by flying a first-of-its-kind active debris removal mission
+Encouraging sustainable spaceflight practices on the global stage, and to lead in developing clean and sustainable technologies, fuels and designs
+ESA’s Space Debris Office is responsible for debris alerting services for all ESA missions, as well as those of some partner and third-party missions.
+Many orbits are already well managed by the international spaceflight community due to their immense economic value.
+The Geostationary orbit at 35 000 km above Earth’s surface is home to many communication satellites operated by private companies. In the last five years, more than 80% of the satellites flying there have been disposed of according to international guidelines, which is very encouraging.
+This compares, however, with only 15-30% of the satellites at low-Earth orbit, all of which require active disposal as they will not re-enter and burn up naturally anytime soon after their mission ends. We need to apply the same effective thinking to all orbits.
+Many new technologies are being developed worldwide to reduce the creation of space debris, together with technologies that will demonstrate active debris removal. Among them is ESA’s Clearspace-1 mission, which will be the first mission to remove an existing piece of space debris from orbit.
+In summary, international cooperation in space is often stronger than on Earth, and the 20-year-old International Space Station is an enduring example of this spirit. In space, all of us can come together to face common challenges, and it is through space exploration that humanity has developed some of the most astonishing innovations of recent decades.
+Space has the potential to inspire, motivate and push us to break down barriers. We have many reasons to believe we can work together to find solutions to the problem of space debris – and achieve a better future for everyone.

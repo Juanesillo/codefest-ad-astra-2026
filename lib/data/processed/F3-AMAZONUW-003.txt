@@ -1,0 +1,3 @@
+capa: au_compilado_R02, fid: 1347, b_ADM2_ES: Quito, b_ADM2_PCODE: EC1701, b_ADM1_ES: Pichincha, b_ADM1_PCODE: EC17, b_adm1_geral: Pichincha, b_adm2_geral: Quito, b_ID_concatenated: pichincha-quito, au_area km: 4210.913424341739
+
+capa: au_compilado_R02, fid: 1395, b_ADM2_ES: Tulcan, b_ADM2_PCODE: EC0401, b_ADM1_ES: Carchi, b_ADM1_PCODE: EC04, b_adm1_geral: Carchi, b_adm2_geral: Tulcan, b_ID_concatenated: carchi-tulcan, au_area km: 1820.81136872849

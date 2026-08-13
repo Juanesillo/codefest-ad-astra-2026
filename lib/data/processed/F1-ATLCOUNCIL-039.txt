@@ -1,0 +1,74 @@
+Did DeepSeek just trigger a paradigm shift?
+
+DeepSeek stunned the artificial intelligence (AI) industry when it released its AI model, called DeepSeek-R1, claiming to have achieved performance rivaling OpenAI’s models while utilizing significantly fewer computational resources.
+
+The bottom line is that DeepSeek has carved an alternative path to high-performance AI by employing a mixture-of-experts (MoE) model and optimizing data processing. Although these techniques are not completely novel, their successful application could have far-reaching implications for global investment trends, regulatory strategies, and the broader AI industry.
+
+That said, questions remain about the true cost and nature of DeepSeek’s hardware and training runs. DeepSeek’s assertions should not be taken at face value, and further research is needed to assess the company’s claims, particularly given the number of examples of Chinese firms secretly working with the government and hiding state subsidies—particularly in industries the Chinese Communist Party considers strategically important.
+
+The traditional AI development model
+
+The prevailing AI paradigm has supported the development of ever-larger models trained on massive datasets using high-performance computing clusters. OpenAI, for example, has pursued increasingly expansive models, necessitating exponential growth in computational power and finances. OpenAI’s dense transformer models, such as GPT-4, are believed to activate all model parameters for every input token throughout training and inference, further compounding the computational burden.
+
+However, this approach has diminishing returns: Increasing the model size does not always yield proportional improvements in performance. Additionally, with this traditional model, there are considerable resource constraints—access to high-end graphics processing units (GPUs) is limited due to supply chain bottlenecks and geopolitical restrictions. There are also high financial barriers. Large-scale training runs using OpenAI’s transformer architecture can require tens of millions of dollars in funding.
+
+Rather than processing every input through a monolithic transformer, MoE routes queries to specialized sub-networks, enhancing efficiency. And by activating fewer parameters per computation, MoE models demand less power. This structure allows for easier expansion without requiring proportional increases in hardware investment.
+
+Several research efforts have previously explored MoE architectures, but DeepSeek successfully deployed MoE in a way that optimized performance while minimizing computational cost.
+
+DeepSeek also leveraged sophisticated techniques that reduced training time and cost. For example, its model was trained in stages, with each stage focused on achieving targeted improvements and the efficient use of resources. Additionally, its model employed self-supervised learning and reinforcement learning, leveraging the Group Relative Policy Optimization (GRPO) framework to rank and adjust responses (minimizing the use of labeled datasets and human feedback). And to compensate for potential data gaps, DeepSeek-V3 was fine-tuned on synthetic datasets to improve domain-specific expertise.
+
+These techniques helped DeepSeek mitigate the inefficiencies associated with training on overly oversized, noisy datasets—a problem that has long plagued AI developers.
+
+Important questions around the true cost of DeepSeek’s training and access to hardware notwithstanding, DeepSeek-R1 could mark a turning point in AI research. By leveraging MoE architectures and optimized training strategies, DeepSeek may have created a roadmap to achieve high performance without the prohibitive costs and inefficiencies of traditional dense models. Whether new capabilities and improvements can be unlocked by reconfiguring existing dense models like GPT-4 to take advantage of these techniques remains to be seen.
+
+DeepSeek’s apparent success also raises crucial policy questions around the efficacy of export controls aimed at restricting Chinese access to high-performance hardware. If AI development becomes less reliant on cutting-edge GPUs and more focused on efficient architectures, these restrictions could lose their bite. It could also potentially disrupt major planned investments in data centers, many of which have been fueled by the OpenAI model of dense AI development. With DeepSeek’s resource-efficient paradigm as a new benchmark, organizations may need to reassess or restructure some of these investments to fit within that paradigm.
+
+While further research is crucial to assess the significance of DeepSeek’s innovation, its emergence stands as a clear wake-up call to leading AI organizations, policymakers, and investors alike. Attention, perhaps, is not all you need.
+
+Ryan Arant is the director of the N7 Research Institute at the Atlantic Council.
+
+Newton Howard is founder and was the first chairman of C4ADS.
+
+Trump should keep, not cut, Biden’s last-minute offer of federal land for AI data centers
+
+In an executive order in the final days of his administration, US President Joe Biden put forward a promising idea to expand US data center capacity.
+
+On trade and technology, the US and EU need each other now more than ever
+
+Washington and Brussels must collaborate on telecommunications, semiconductors, and critical minerals to compete with nonmarket economies.
+
+The Great IT Outage of 2024 is a wake-up call about digital public infrastructure
+
+By Saba Weatherspoon and Zhenwei Gao
+
+The July 19 outage serves as a symbolic outcry for solution-oriented policies and accountability to stave off future disruptions.
+
+The GeoTech Center champions positive paths forward that societies can pursue to ensure new technologies and data empower people, prosperity, and peace.
+
+Image: Credit: Solen Feyissa via Unsplash
+
+DeepSeek stunned the artificial intelligence (AI) industry when it released its AI model, called DeepSeek-R1, claiming to have achieved performance rivaling OpenAI’s models while utilizing significantly fewer computational resources.
+The bottom line is that DeepSeek has carved an alternative path to high-performance AI by employing a mixture-of-experts (MoE) model and optimizing data processing. Although these techniques are not completely novel, their successful application could have far-reaching implications for global investment trends, regulatory strategies, and the broader AI industry.
+That said, questions remain about the true cost and nature of DeepSeek’s hardware and training runs. DeepSeek’s assertions should not be taken at face value, and further research is needed to assess the company’s claims, particularly given the number of examples of Chinese firms secretly working with the government and hiding state subsidies—particularly in industries the Chinese Communist Party considers strategically important.
+The traditional AI development model
+The prevailing AI paradigm has supported the development of ever-larger models trained on massive datasets using high-performance computing clusters. OpenAI, for example, has pursued increasingly expansive models, necessitating exponential growth in computational power and finances. OpenAI’s dense transformer models, such as GPT-4, are believed to activate all model parameters for every input token throughout training and inference, further compounding the computational burden.
+However, this approach has diminishing returns: Increasing the model size does not always yield proportional improvements in performance. Additionally, with this traditional model, there are considerable resource constraints—access to high-end graphics processing units (GPUs) is limited due to supply chain bottlenecks and geopolitical restrictions. There are also high financial barriers. Large-scale training runs using OpenAI’s transformer architecture can require tens of millions of dollars in funding.
+Rather than processing every input through a monolithic transformer, MoE routes queries to specialized sub-networks, enhancing efficiency. And by activating fewer parameters per computation, MoE models demand less power. This structure allows for easier expansion without requiring proportional increases in hardware investment.
+Several research efforts have previously explored MoE architectures, but DeepSeek successfully deployed MoE in a way that optimized performance while minimizing computational cost.
+DeepSeek also leveraged sophisticated techniques that reduced training time and cost. For example, its model was trained in stages, with each stage focused on achieving targeted improvements and the efficient use of resources. Additionally, its model employed self-supervised learning and reinforcement learning, leveraging the Group Relative Policy Optimization (GRPO) framework to rank and adjust responses (minimizing the use of labeled datasets and human feedback). And to compensate for potential data gaps, DeepSeek-V3 was fine-tuned on synthetic datasets to improve domain-specific expertise.
+These techniques helped DeepSeek mitigate the inefficiencies associated with training on overly oversized, noisy datasets—a problem that has long plagued AI developers.
+Important questions around the true cost of DeepSeek’s training and access to hardware notwithstanding, DeepSeek-R1 could mark a turning point in AI research. By leveraging MoE architectures and optimized training strategies, DeepSeek may have created a roadmap to achieve high performance without the prohibitive costs and inefficiencies of traditional dense models. Whether new capabilities and improvements can be unlocked by reconfiguring existing dense models like GPT-4 to take advantage of these techniques remains to be seen.
+DeepSeek’s apparent success also raises crucial policy questions around the efficacy of export controls aimed at restricting Chinese access to high-performance hardware. If AI development becomes less reliant on cutting-edge GPUs and more focused on efficient architectures, these restrictions could lose their bite. It could also potentially disrupt major planned investments in data centers, many of which have been fueled by the OpenAI model of dense AI development. With DeepSeek’s resource-efficient paradigm as a new benchmark, organizations may need to reassess or restructure some of these investments to fit within that paradigm.
+While further research is crucial to assess the significance of DeepSeek’s innovation, its emergence stands as a clear wake-up call to leading AI organizations, policymakers, and investors alike. Attention, perhaps, is not all you need.
+Ryan Arant is the director of the N7 Research Institute at the Atlantic Council.
+Newton Howard is founder and was the first chairman of C4ADS.
+Trump should keep, not cut, Biden’s last-minute offer of federal land for AI data centers
+In an executive order in the final days of his administration, US President Joe Biden put forward a promising idea to expand US data center capacity.
+On trade and technology, the US and EU need each other now more than ever
+Washington and Brussels must collaborate on telecommunications, semiconductors, and critical minerals to compete with nonmarket economies.
+The Great IT Outage of 2024 is a wake-up call about digital public infrastructure
+By Saba Weatherspoon and Zhenwei Gao
+The July 19 outage serves as a symbolic outcry for solution-oriented policies and accountability to stave off future disruptions.
+The GeoTech Center champions positive paths forward that societies can pursue to ensure new technologies and data empower people, prosperity, and peace.
+Image: Credit: Solen Feyissa via Unsplash

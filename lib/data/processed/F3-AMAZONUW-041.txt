@@ -1,0 +1,256 @@
+capa: au_compilado_R02, fid: 758, b_ADM2_ES: Huanca Sancos, b_ADM2_PCODE: PE0503, b_ADM1_ES: Ayacucho, b_ADM1_PCODE: PE05, b_adm1_geral: Ayacucho, b_adm2_geral: Huanca Sancos, b_ID_concatenated: ayacucho-huanca_sancos, au_area km: 2839.0850032989324
+
+capa: au_compilado_R02, fid: 759, b_ADM2_ES: Chincheros, b_ADM2_PCODE: PE0306, b_ADM1_ES: Apurimac, b_ADM1_PCODE: PE03, b_adm1_geral: Apurimac, b_adm2_geral: Chincheros, b_ID_concatenated: apurimac-chincheros, au_area km: 1508.31365686731
+
+capa: au_compilado_R02, fid: 760, b_ADM2_ES: Cangallo, b_ADM2_PCODE: PE0502, b_ADM1_ES: Ayacucho, b_ADM1_PCODE: PE05, b_adm1_geral: Ayacucho, b_adm2_geral: Cangallo, b_ID_concatenated: ayacucho-cangallo, au_area km: 1870.3430342755232
+
+capa: au_compilado_R02, fid: 761, b_ADM2_ES: Vilcas Huaman, b_ADM2_PCODE: PE0511, b_ADM1_ES: Ayacucho, b_ADM1_PCODE: PE05, b_adm1_geral: Ayacucho, b_adm2_geral: Vilcas Huaman, b_ID_concatenated: ayacucho-vilcas_huaman, au_area km: 1178.0804952696349
+
+capa: au_compilado_R02, fid: 762, b_ADM2_ES: Huanta, b_ADM2_PCODE: PE0504, b_ADM1_ES: Ayacucho, b_ADM1_PCODE: PE05, b_adm1_geral: Ayacucho, b_adm2_geral: Huanta, b_ID_concatenated: ayacucho-huanta, au_area km: 3877.186076637512
+
+capa: au_compilado_R02, fid: 763, b_ADM2_ES: Huamanga, b_ADM2_PCODE: PE0501, b_ADM1_ES: Ayacucho, b_ADM1_PCODE: PE05, b_adm1_geral: Ayacucho, b_adm2_geral: Huamanga, b_ID_concatenated: ayacucho-huamanga, au_area km: 3053.8880586965397
+
+capa: au_compilado_R02, fid: 764, b_ADM2_ES: Satipo, b_ADM2_PCODE: PE1206, b_ADM1_ES: Junin, b_ADM1_PCODE: PE12, b_adm1_geral: Junin, b_adm2_geral: Satipo, b_ID_concatenated: junin-satipo, au_area km: 19158.028988614333
+
+capa: au_compilado_R02, fid: 765, b_ADM2_ES: La Mar, b_ADM2_PCODE: PE0505, b_ADM1_ES: Ayacucho, b_ADM1_PCODE: PE05, b_adm1_geral: Ayacucho, b_adm2_geral: La Mar, b_ID_concatenated: ayacucho-la_mar, au_area km: 4229.717018911872
+
+capa: au_compilado_R02, fid: 766, b_ADM2_ES: La Convencion, b_ADM2_PCODE: PE0809, b_ADM1_ES: Cusco, b_ADM1_PCODE: PE08, b_adm1_geral: Cusco, b_adm2_geral: La Convencion, b_ID_concatenated: cusco-la_convencion, au_area km: 31863.936641316464
+
+capa: au_compilado_R02, fid: 767, b_ADM2_ES: Manu, b_ADM2_PCODE: PE1702, b_ADM1_ES: Madre de Dios, b_ADM1_PCODE: PE17, b_adm1_geral: Madre de Dios, b_adm2_geral: Manu, b_ID_concatenated: madre_de_dios-manu, au_country: Peru, au_level1: Madre de Dios, au_level2: Manu, au_population: 5292, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: VERDADEIRO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: Los Cargueros del Puerto, au_popup_window_pt: Los Cargueros del Puerto, au_popup_window_en: Los Cargueros del Puerto, au_ID_concatenated: madre_de_dios-manu, au_area km: 28719.503616870752
+
+capa: au_compilado_R02, fid: 768, b_ADM2_ES: Tambopata, b_ADM2_PCODE: PE1701, b_ADM1_ES: Madre de Dios, b_ADM1_PCODE: PE17, b_adm1_geral: Madre de Dios, b_adm2_geral: Tambopata, b_ID_concatenated: madre_de_dios-tambopata, au_country: Peru, au_level1: Madre de Dios, au_level2: Tambopata, au_population: 37999, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: VERDADEIRO, au_pcc: FALSO, au_others: VERDADEIRO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - Los Paiches de Inambari (Inambari)
+- Los Matuteros del Tambo (Masuko)
+- Los Guardianes de la Trocha (Tambopata)
+- Comando Vermelho (Tambopata)
+- Los Brasileros (Tambopata)
+- La Seguridad (Tambopata)
+- Los Traqueros del Puerto (Tambopata)
+- Los Brichis de la Pampa (Tambopata)
+- Los Motolecheros de la Interoceánica (Tambopata)
+- Los Ilegales de MDD (Tambopata), au_popup_window_pt: - Los Paiches de Inambari (Inambari)
+- Los Matuteros del Tambo (Masuko)
+- Los Guardianes de la Trocha (Tambopata)
+- Comando Vermelho (Tambopata)
+- Los Brasileros (Tambopata)
+- La Seguridad (Tambopata)
+- Los Traqueros del Puerto (Tambopata)
+- Los Brichis de la Pampa (Tambopata)
+- Los Motolecheros de la Interoceánica (Tambopata)
+- Los Ilegales de MDD (Tambopata), au_popup_window_en: - Los Paiches de Inambari (Inambari)
+- Los Matuteros del Tambo (Masuko)
+- Los Guardianes de la Trocha (Tambopata)
+- Comando Vermelho (Tambopata)
+- Los Brasileros (Tambopata)
+- La Seguridad (Tambopata)
+- Los Traqueros del Puerto (Tambopata)
+- Los Brichis de la Pampa (Tambopata)
+- Los Motolecheros de la Interoceánica (Tambopata)
+- Los Ilegales de MDD (Tambopata), au_ID_concatenated: madre_de_dios-tambopata, au_area km: 35982.8030089577
+
+capa: au_compilado_R02, fid: 769, b_ADM2_ES: Bautista Saavedra, b_ADM2_PCODE: BO0216, b_ADM1_ES: La Paz, b_ADM1_PCODE: BO02, b_adm1_geral: La Paz, b_adm2_geral: Bautista Saavedra, b_ID_concatenated: la_paz-bautista_saavedra, au_country: Bolivia, au_level1: La Paz, au_level2: Bautista Saavedra, au_population: 12618, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: VERDADEIRO, au_invest. with presence: FALSO, au_ID_concatenated: la_paz-bautista_saavedra, au_area km: 3060.8424923241614
+
+capa: au_compilado_R02, fid: 770, b_ADM2_ES: Franz Tamayo, b_ADM2_PCODE: BO0207, b_ADM1_ES: La Paz, b_ADM1_PCODE: BO02, b_adm1_geral: La Paz, b_adm2_geral: Franz Tamayo, b_ID_concatenated: la_paz-franz_tamayo, au_country: Bolivia, au_level1: La Paz, au_level2: Franz Tamayo, au_population: 24867, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: VERDADEIRO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - Grupos no identificados de tráfico de madera;
+- Narcotraficantes;
+- Minería ilegal, au_popup_window_pt: - Grupos de tráfico de madeira não identificados;
+- Traficantes de drogas;
+- Garimpo, au_popup_window_en: - Unidentified timber trafficking groups;
+- Drug traffickers;
+- Illegal mining, au_ID_concatenated: la_paz-franz_tamayo, au_area km: 16684.418100234434
+
+capa: au_compilado_R02, fid: 771, b_ADM2_ES: Abel Iturralde, b_ADM2_PCODE: BO0215, b_ADM1_ES: La Paz, b_ADM1_PCODE: BO02, b_adm1_geral: La Paz, b_adm2_geral: Abel Iturralde, b_ID_concatenated: la_paz-abel_iturralde, au_country: Bolivia, au_level1: La Paz, au_level2: Abel Iturralde, au_population: 19398, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: VERDADEIRO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: Grupos de mineros (organizados en cooperativas), au_popup_window_pt: Grupos de garimpo (organizados em cooperativas), au_popup_window_en: Groups of illegal miners (organized in cooperatives), au_ID_concatenated: la_paz-abel_iturralde, au_area km: 40083.04084335962
+
+capa: au_compilado_R02, fid: 772, b_ADM2_ES: General José Ballivián, b_ADM2_PCODE: BO0803, b_ADM1_ES: Beni, b_ADM1_PCODE: BO08, b_adm1_geral: Beni, b_adm2_geral: General José Ballivián, b_ID_concatenated: beni-general_jose_ballivian, au_country: Bolivia, au_level1: Beni, au_level2: Gral. José Ballivián, au_population: 86048, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: VERDADEIRO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - La Banda de Putián
+- Grupos de traficantes de fauna no identificados, au_popup_window_pt: - La Banda de Putián
+- Grupos de tráfico de vida selvagem não identificados, au_popup_window_en: - La Banda de Putián
+- Unidentified wildlife trafficking groups, au_ID_concatenated: beni-general_jose_ballivian, au_area km: 32716.33869676242
+
+capa: au_compilado_R02, fid: 774, b_ADM2_ES: Sandia, b_ADM2_PCODE: PE2112, b_ADM1_ES: Puno, b_ADM1_PCODE: PE21, b_adm1_geral: Puno, b_adm2_geral: Sandia, b_ID_concatenated: puno-sandia, au_area km: 12668.799589099926
+
+capa: au_compilado_R02, fid: 778, b_ADM2_PCODE: BR1200708, b_ADM1_PCODE: BR12, b_ADM1_PT: Acre, b_ADM2_PT: Xapuri, b_adm1_geral: Acre, b_adm2_geral: Xapuri, b_ID_concatenated: acre-xapuri, au_country: Brasil, au_level1: Acre, au_level2: Xapuri, au_population: 19170, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: VERDADEIRO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: Comando Vermelho (CV), au_popup_window_pt: Comando Vermelho (CV), au_popup_window_en: Comando Vermelho (CV), au_ID_concatenated: acre-xapuri, au_area km: 5344.81226078013
+
+capa: au_compilado_R02, fid: 780, b_ADM2_ES: Nicolás Suárez, b_ADM2_PCODE: BO0901, b_ADM1_ES: Pando, b_ADM1_PCODE: BO09, b_adm1_geral: Pando, b_adm2_geral: Nicolás Suárez, b_ID_concatenated: pando-nicolas_suarez, au_country: Bolivia, au_level1: Pando, au_level2: Nicolás Suárez, au_population: 105289, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: VERDADEIRO, au_pcc: VERDADEIRO, au_others: VERDADEIRO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - Los Villanos del Tahuamanu
+- Los Hostiles de la Amazonía
+- Clanes del Primeiro Comando da Capital (PCC) 
+- Clanes del Comando Vermelho (CV)
+- Grupos de narcotraficantes no identificados
+- Grupos de contrabandistas de castaña no identificados 
+- Grupos de traficantes de fauna no identificados, au_popup_window_pt: - Los Villanos del Tahuamanu
+- Los Hostiles de la Amazonía
+- Clãs do Primeiro Comando da Capital (PCC)
+- Clãs do Comando Vermelho (CV)
+- Grupos não identificados de tráfico de drogas
+- Grupos não identificados de contrabandistas de castanha-do-pará
+- Grupos não identificados de tráfico de animais silvestres, au_popup_window_en: - Los Villanos del Tahuamanu
+- Los Hostiles de la Amazonía
+- Clãs do Primeiro Comando da Capital (PCC)
+- Clãs do Comando Vermelho (CV)
+- Grupos não identificados de tráfico de drogas
+- Grupos não identificados de contrabandistas de castanha-do-pará
+- Grupos não identificados de tráfico de animais silvestres, au_ID_concatenated: pando-nicolas_suarez, au_area km: 9224.018276431263
+
+capa: au_compilado_R02, fid: 782, b_ADM2_ES: Abuná, b_ADM2_PCODE: BO0904, b_ADM1_ES: Pando, b_ADM1_PCODE: BO09, b_adm1_geral: Pando, b_adm2_geral: Abuná, b_ID_concatenated: pando-abuna, au_country: Bolivia, au_level1: Pando, au_level2: Abuná, au_population: 5278, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: VERDADEIRO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: Grupos de traficantes brasileños no identificados de frutos amazónicos, au_popup_window_pt: Grupos brasileiros não identificados de tráfico de frutas amazônicas, au_popup_window_en: Unidentified Brazilian trafficking groups of Amazonian fruits, au_ID_concatenated: pando-abuna, au_area km: 9822.697644408294
+
+capa: au_compilado_R02, fid: 783, b_ADM2_ES: Madre de Dios, b_ADM2_PCODE: BO0903, b_ADM1_ES: Pando, b_ADM1_PCODE: BO09, b_adm1_geral: Pando, b_adm2_geral: Madre de Dios, b_ID_concatenated: pando-madre_de_dios, au_country: Bolivia, au_level1: Pando, au_level2: Madre de Dios, au_population: 24811, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: VERDADEIRO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: Grupos de mineros ilegales, au_popup_window_pt: Grupos de garimpeiros, au_popup_window_en: Groups of illegal miners, au_ID_concatenated: pando-madre_de_dios, au_area km: 11975.900676515688
+
+capa: au_compilado_R02, fid: 784, b_ADM2_ES: Manuripi, b_ADM2_PCODE: BO0902, b_ADM1_ES: Pando, b_ADM1_PCODE: BO09, b_adm1_geral: Pando, b_adm2_geral: Manuripi, b_ID_concatenated: pando-manuripi, au_country: Bolivia, au_level1: Pando, au_level2: Manuripi, au_population: 20639, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: VERDADEIRO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - Los Villanos del Tahuamanu
+- Los Hostiles de la Amazonía
+- Grupos de narcotraficantes no identificados
+- Grupos de contrabandistas de castaña no identificados 
+- Grupos de mineros ilegales no identificados , au_popup_window_pt: - Los Villanos del Tahuamanu
+- Los Hostiles de la Amazonía
+- Grupos Não Identificados de Narcotráfico
+- Grupos Não Identificados de Contrabando de Castanha-do-Pará
+- Grupos Não Identificados de Mineração Ilegal, au_popup_window_en: - Los Villanos del Tahuamanu
+- Los Hostiles de la Amazonía
+- Unidentified Drug Trafficking Groups
+- Unidentified Brazil Nut Smuggling Groups
+- Unidentified Illegal Mining Groups, au_ID_concatenated: pando-manuripi, au_area km: 19646.05774892805
+
+capa: au_compilado_R02, fid: 786, b_ADM2_ES: Atalaya, b_ADM2_PCODE: PE2502, b_ADM1_ES: Ucayali, b_ADM1_PCODE: PE25, b_adm1_geral: Ucayali, b_adm2_geral: Atalaya, b_ID_concatenated: ucayali-atalaya, au_country: Peru, au_level1: Ucayali, au_level2: Atalaya, au_population: 44960, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: VERDADEIRO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: Los Castores de la Selva Central, au_popup_window_pt: Los Castores de la Selva Central, au_popup_window_en: Los Castores de la Selva Central, au_ID_concatenated: ucayali-atalaya, au_area km: 38972.85054963884
+
+capa: au_compilado_R02, fid: 787, b_ADM2_PCODE: BR1200104, b_ADM1_PCODE: BR12, b_ADM1_PT: Acre, b_ADM2_PT: Brasiléia, b_adm1_geral: Acre, b_adm2_geral: Brasiléia, b_ID_concatenated: acre-brasileia, au_country: Brasil, au_level1: Acre, au_level2: Brasiléia, au_population: 28028, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: VERDADEIRO, au_pcc: VERDADEIRO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - Comando Vermelho (CV)
+- Primeiro Comando da Capital (PCC), au_popup_window_pt: - Comando Vermelho (CV)
+- Primeiro Comando da Capital (PCC), au_popup_window_en: - Comando Vermelho (CV)
+- Primeiro Comando da Capital (PCC), au_ID_concatenated: acre-brasileia, au_area km: 3916.212952204003
+
+capa: au_compilado_R02, fid: 788, b_ADM2_PCODE: BR1200252, b_ADM1_PCODE: BR12, b_ADM1_PT: Acre, b_ADM2_PT: Epitaciolândia, b_adm1_geral: Acre, b_adm2_geral: Epitaciolândia, b_ID_concatenated: acre-epitaciolandia, au_country: Brasil, au_level1: Acre, au_level2: Epitaciolândia, au_population: 19874, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: VERDADEIRO, au_pcc: VERDADEIRO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - Comando Vermelho (CV)
+- Primeiro Comando da Capital (PCC), au_popup_window_pt: - Comando Vermelho (CV)
+- Primeiro Comando da Capital (PCC), au_popup_window_en: - Comando Vermelho (CV)
+- Primeiro Comando da Capital (PCC), au_ID_concatenated: acre-epitaciolandia, au_area km: 1653.038956561351
+
+capa: au_compilado_R02, fid: 789, b_ADM2_ES: Purus, b_ADM2_PCODE: PE2504, b_ADM1_ES: Ucayali, b_ADM1_PCODE: PE25, b_adm1_geral: Ucayali, b_adm2_geral: Purus, b_ID_concatenated: ucayali-purus, au_country: Peru, au_level1: Ucayali, au_level2: Purús, au_population: 2664, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: VERDADEIRO, au_invest. with presence: FALSO, au_ID_concatenated: ucayali-purus, au_area km: 18421.97342492867
+
+capa: au_compilado_R02, fid: 790, b_ADM2_ES: Tahuamanu, b_ADM2_PCODE: PE1703, b_ADM1_ES: Madre de Dios, b_ADM1_PCODE: PE17, b_adm1_geral: Madre de Dios, b_adm2_geral: Tahuamanu, b_ID_concatenated: madre_de_dios-tahuamanu, au_country: Peru, au_level1: Madre de Dios, au_level2: Tahuamanu, au_population: 3029, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: VERDADEIRO, au_invest. with presence: FALSO, au_ID_concatenated: madre_de_dios-tahuamanu, au_area km: 19914.55586632139
+
+capa: au_compilado_R02, fid: 791, b_ADM2_ES: Abancay, b_ADM2_PCODE: PE0301, b_ADM1_ES: Apurimac, b_ADM1_PCODE: PE03, b_adm1_geral: Apurimac, b_adm2_geral: Abancay, b_ID_concatenated: apurimac-abancay, au_area km: 3456.319562213085
+
+capa: au_compilado_R02, fid: 792, b_ADM2_ES: Antabamba, b_ADM2_PCODE: PE0303, b_ADM1_ES: Apurimac, b_ADM1_PCODE: PE03, b_adm1_geral: Apurimac, b_adm2_geral: Antabamba, b_ID_concatenated: apurimac-antabamba, au_area km: 3228.5955487333795
+
+capa: au_compilado_R02, fid: 793, b_ADM2_ES: Anta, b_ADM2_PCODE: PE0803, b_ADM1_ES: Cusco, b_ADM1_PCODE: PE08, b_adm1_geral: Cusco, b_adm2_geral: Anta, b_ID_concatenated: cusco-anta, au_area km: 1941.3926715127632
+
+capa: au_compilado_R02, fid: 794, b_ADM2_ES: Calca, b_ADM2_PCODE: PE0804, b_ADM1_ES: Cusco, b_ADM1_PCODE: PE08, b_adm1_geral: Cusco, b_adm2_geral: Calca, b_ID_concatenated: cusco-calca, au_area km: 3533.2533656505684
+
+capa: au_compilado_R02, fid: 795, b_ADM2_ES: Carabaya, b_ADM2_PCODE: PE2103, b_ADM1_ES: Puno, b_ADM1_PCODE: PE21, b_adm1_geral: Puno, b_adm2_geral: Carabaya, b_ID_concatenated: puno-carabaya, au_area km: 11721.126038609696
+
+capa: au_compilado_R02, fid: 796, b_ADM2_ES: Cusco, b_ADM2_PCODE: PE0801, b_ADM1_ES: Cusco, b_ADM1_PCODE: PE08, b_adm1_geral: Cusco, b_adm2_geral: Cusco, b_ID_concatenated: cusco-cusco, au_area km: 529.2071470297315
+
+capa: au_compilado_R02, fid: 797, b_ADM2_ES: La Union, b_ADM2_PCODE: PE0408, b_ADM1_ES: Arequipa, b_ADM1_PCODE: PE04, b_adm1_geral: Arequipa, b_adm2_geral: La Union, b_ID_concatenated: arequipa-la_union, au_area km: 4892.760344506559
+
+capa: au_compilado_R02, fid: 798, b_ADM2_ES: Paucartambo, b_ADM2_PCODE: PE0811, b_ADM1_ES: Cusco, b_ADM1_PCODE: PE08, b_adm1_geral: Cusco, b_adm2_geral: Paucartambo, b_ID_concatenated: cusco-paucartambo, au_area km: 5783.6946672770155
+
+capa: au_compilado_R02, fid: 799, b_ADM2_ES: Quispicanchi, b_ADM2_PCODE: PE0812, b_ADM1_ES: Cusco, b_ADM1_PCODE: PE08, b_adm1_geral: Cusco, b_adm2_geral: Quispicanchi, b_ID_concatenated: cusco-quispicanchi, au_area km: 7347.1826796139485
+
+capa: au_compilado_R02, fid: 800, b_ADM2_ES: Urubamba, b_ADM2_PCODE: PE0813, b_ADM1_ES: Cusco, b_ADM1_PCODE: PE08, b_adm1_geral: Cusco, b_adm2_geral: Urubamba, b_ID_concatenated: cusco-urubamba, au_area km: 1445.3730102728205
+
+capa: au_compilado_R02, fid: 801, b_ADM2_ES: Tayacaja, b_ADM2_PCODE: PE0907, b_ADM1_ES: Huancavelica, b_ADM1_PCODE: PE09, b_adm1_geral: Huancavelica, b_adm2_geral: Tayacaja, b_ID_concatenated: huancavelica-tayacaja, au_area km: 3381.854393427303
+
+capa: au_compilado_R02, fid: 802, b_ADM2_ES: Acobamba, b_ADM2_PCODE: PE0902, b_ADM1_ES: Huancavelica, b_ADM1_PCODE: PE09, b_adm1_geral: Huancavelica, b_adm2_geral: Acobamba, b_ID_concatenated: huancavelica-acobamba, au_area km: 927.0572889172694
+
+capa: au_compilado_R02, fid: 803, b_ADM2_ES: Churcampa, b_ADM2_PCODE: PE0905, b_ADM1_ES: Huancavelica, b_ADM1_PCODE: PE09, b_adm1_geral: Huancavelica, b_adm2_geral: Churcampa, b_ID_concatenated: huancavelica-churcampa, au_area km: 1205.543163970277
+
+capa: au_compilado_R02, fid: 804, b_ADM2_ES: Angaraes, b_ADM2_PCODE: PE0903, b_ADM1_ES: Huancavelica, b_ADM1_PCODE: PE09, b_adm1_geral: Huancavelica, b_adm2_geral: Angaraes, b_ID_concatenated: huancavelica-angaraes, au_area km: 1942.4173049071994
+
+capa: au_compilado_R02, fid: 805, b_ADM2_ES: Parinacochas, b_ADM2_PCODE: PE0507, b_ADM1_ES: Ayacucho, b_ADM1_PCODE: PE05, b_adm1_geral: Ayacucho, b_adm2_geral: Parinacochas, b_ID_concatenated: ayacucho-parinacochas, au_area km: 5941.8694610284765
+
+capa: au_compilado_R02, fid: 806, b_ADM2_ES: Lucanas, b_ADM2_PCODE: PE0506, b_ADM1_ES: Ayacucho, b_ADM1_PCODE: PE05, b_adm1_geral: Ayacucho, b_adm2_geral: Lucanas, b_ID_concatenated: ayacucho-lucanas, au_area km: 14474.229702270082
+
+capa: au_compilado_R02, fid: 807, b_ADM2_ES: Aymaraes, b_ADM2_PCODE: PE0304, b_ADM1_ES: Apurimac, b_ADM1_PCODE: PE03, b_adm1_geral: Apurimac, b_adm2_geral: Aymaraes, b_ID_concatenated: apurimac-aymaraes, au_area km: 4128.260190044572
+
+capa: au_compilado_R02, fid: 808, b_ADM2_ES: Andahuaylas, b_ADM2_PCODE: PE0302, b_ADM1_ES: Apurimac, b_ADM1_PCODE: PE03, b_adm1_geral: Apurimac, b_adm2_geral: Andahuaylas, b_ID_concatenated: apurimac-andahuaylas, au_area km: 4035.7164068076368
+
+capa: au_compilado_R02, fid: 809, b_ADM2_ES: Sucre, b_ADM2_PCODE: PE0509, b_ADM1_ES: Ayacucho, b_ADM1_PCODE: PE05, b_adm1_geral: Ayacucho, b_adm2_geral: Sucre, b_ID_concatenated: ayacucho-sucre, au_area km: 1784.9251246195993
+
+capa: au_compilado_R02, fid: 810, b_ADM2_ES: Victor Fajardo, b_ADM2_PCODE: PE0510, b_ADM1_ES: Ayacucho, b_ADM1_PCODE: PE05, b_adm1_geral: Ayacucho, b_adm2_geral: Victor Fajardo, b_ID_concatenated: ayacucho-victor_fajardo, au_area km: 2265.4535320933555
+
+capa: au_compilado_R02, fid: 819, b_ADM2_PCODE: BR1200054, b_ADM1_PCODE: BR12, b_ADM1_PT: Acre, b_ADM2_PT: Assis Brasil, b_adm1_geral: Acre, b_adm2_geral: Assis Brasil, b_ID_concatenated: acre-assis_brasil, au_country: Brasil, au_level1: Acre, au_level2: Assis Brasil, au_population: 8648, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: VERDADEIRO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: Comando Vermelho (CV), au_popup_window_pt: Comando Vermelho (CV), au_popup_window_en: Comando Vermelho (CV), au_ID_concatenated: acre-assis_brasil, au_area km: 4973.827243908737
+
+capa: au_compilado_R02, fid: 910, b_ADM2_ES: Chupaca, b_ADM2_PCODE: PE1209, b_ADM1_ES: Junin, b_ADM1_PCODE: PE12, b_adm1_geral: Junin, b_adm2_geral: Chupaca, b_ID_concatenated: junin-chupaca, au_area km: 1155.6241535384804
+
+capa: au_compilado_R02, fid: 911, b_ADM2_ES: Huancayo, b_ADM2_PCODE: PE1201, b_ADM1_ES: Junin, b_ADM1_PCODE: PE12, b_adm1_geral: Junin, b_adm2_geral: Huancayo, b_ID_concatenated: junin-huancayo, au_area km: 3736.493681474672
+
+capa: au_compilado_R02, fid: 912, b_ADM2_ES: Huarochiri, b_ADM2_PCODE: PE1507, b_ADM1_ES: Lima, b_ADM1_PCODE: PE15, b_adm1_geral: Lima, b_adm2_geral: Huarochiri, b_ID_concatenated: lima-huarochiri, au_area km: 5735.1114177048685
+
+capa: au_compilado_R02, fid: 913, b_ADM2_ES: Concepcion, b_ADM2_PCODE: PE1202, b_ADM1_ES: Junin, b_ADM1_PCODE: PE12, b_adm1_geral: Junin, b_adm2_geral: Concepcion, b_ID_concatenated: junin-concepcion, au_area km: 2253.799359548256
+
+capa: au_compilado_R02, fid: 914, b_ADM2_ES: Jauja, b_ADM2_PCODE: PE1204, b_ADM1_ES: Junin, b_ADM1_PCODE: PE12, b_adm1_geral: Junin, b_adm2_geral: Jauja, b_ID_concatenated: junin-jauja, au_area km: 4357.310108689531
+
+capa: au_compilado_R02, fid: 915, b_ADM2_ES: Canta, b_ADM2_PCODE: PE1504, b_ADM1_ES: Lima, b_ADM1_PCODE: PE15, b_adm1_geral: Lima, b_adm2_geral: Canta, b_ID_concatenated: lima-canta, au_area km: 1735.49552216374
+
+capa: au_compilado_R02, fid: 916, b_ADM2_ES: Yauli, b_ADM2_PCODE: PE1208, b_ADM1_ES: Junin, b_ADM1_PCODE: PE12, b_adm1_geral: Junin, b_adm2_geral: Yauli, b_ID_concatenated: junin-yauli, au_area km: 3637.8713299067354
+
+capa: au_compilado_R02, fid: 917, b_ADM2_ES: Pasco, b_ADM2_PCODE: PE1901, b_ADM1_ES: Pasco, b_ADM1_PCODE: PE19, b_adm1_geral: Pasco, b_adm2_geral: Pasco, b_ID_concatenated: pasco-pasco, au_area km: 5340.6569717219845
+
+capa: au_compilado_R02, fid: 922, b_ADM2_ES: Junin, b_ADM2_PCODE: PE1205, b_ADM1_ES: Junin, b_ADM1_PCODE: PE12, b_adm1_geral: Junin, b_adm2_geral: Junin, b_ID_concatenated: junin-junin, au_area km: 2497.0906168403026
+
+capa: au_compilado_R02, fid: 924, b_ADM2_ES: Tarma, b_ADM2_PCODE: PE1207, b_ADM1_ES: Junin, b_ADM1_PCODE: PE12, b_adm1_geral: Junin, b_adm2_geral: Tarma, b_ID_concatenated: junin-tarma, au_area km: 2672.342432380853
+
+capa: au_compilado_R02, fid: 926, b_ADM2_ES: Chanchamayo, b_ADM2_PCODE: PE1203, b_ADM1_ES: Junin, b_ADM1_PCODE: PE12, b_adm1_geral: Junin, b_adm2_geral: Chanchamayo, b_ID_concatenated: junin-chanchamayo, au_area km: 4681.888850974204
+
+capa: au_compilado_R02, fid: 927, b_ADM2_ES: Huaytara, b_ADM2_PCODE: PE0906, b_ADM1_ES: Huancavelica, b_ADM1_PCODE: PE09, b_adm1_geral: Huancavelica, b_adm2_geral: Huaytara, b_ID_concatenated: huancavelica-huaytara, au_area km: 6469.540646894254
+
+capa: au_compilado_R02, fid: 928, b_ADM2_ES: Castrovirreyna, b_ADM2_PCODE: PE0904, b_ADM1_ES: Huancavelica, b_ADM1_PCODE: PE09, b_adm1_geral: Huancavelica, b_adm2_geral: Castrovirreyna, b_ID_concatenated: huancavelica-castrovirreyna, au_area km: 3955.6340642395076
+
+capa: au_compilado_R02, fid: 929, b_ADM2_ES: Huancavelica, b_ADM2_PCODE: PE0901, b_ADM1_ES: Huancavelica, b_ADM1_PCODE: PE09, b_adm1_geral: Huancavelica, b_adm2_geral: Huancavelica, b_ID_concatenated: huancavelica-huancavelica, au_area km: 4196.8806099269295
+
+capa: au_compilado_R02, fid: 930, b_ADM2_ES: Yauyos, b_ADM2_PCODE: PE1510, b_ADM1_ES: Lima, b_ADM1_PCODE: PE15, b_adm1_geral: Lima, b_adm2_geral: Yauyos, b_ID_concatenated: lima-yauyos, au_area km: 6992.1294960426785
+
+capa: au_compilado_R02, fid: 931, b_ADM2_ES: Huaral, b_ADM2_PCODE: PE1506, b_ADM1_ES: Lima, b_ADM1_PCODE: PE15, b_adm1_geral: Lima, b_adm2_geral: Huaral, b_ID_concatenated: lima-huaral, au_area km: 3670.032784297262
+
+capa: au_compilado_R02, fid: 932, b_ADM2_ES: Huaura, b_ADM2_PCODE: PE1508, b_ADM1_ES: Lima, b_ADM1_PCODE: PE15, b_adm1_geral: Lima, b_adm2_geral: Huaura, b_ID_concatenated: lima-huaura, au_area km: 4923.54252076625
+
+capa: au_compilado_R02, fid: 933, b_ADM2_ES: Oyon, b_ADM2_PCODE: PE1509, b_ADM1_ES: Lima, b_ADM1_PCODE: PE15, b_adm1_geral: Lima, b_adm2_geral: Oyon, b_ID_concatenated: lima-oyon, au_area km: 1878.3095543915026
+
+capa: au_compilado_R02, fid: 1144, b_ADM2_ES: Melgar, b_ADM2_PCODE: PE2108, b_ADM1_ES: Puno, b_ADM1_PCODE: PE21, b_adm1_geral: Puno, b_adm2_geral: Melgar, b_ID_concatenated: puno-melgar, au_area km: 6542.073654057357
+
+capa: au_compilado_R02, fid: 1145, b_ADM2_ES: Lampa, b_ADM2_PCODE: PE2107, b_ADM1_ES: Puno, b_ADM1_PCODE: PE21, b_adm1_geral: Puno, b_adm2_geral: Lampa, b_ID_concatenated: puno-lampa, au_area km: 5713.766839239083
+
+capa: au_compilado_R02, fid: 1146, b_ADM2_ES: San Antonio de Putina, b_ADM2_PCODE: PE2110, b_ADM1_ES: Puno, b_ADM1_PCODE: PE21, b_adm1_geral: Puno, b_adm2_geral: San Antonio de Putina, b_ID_concatenated: puno-san_antonio_de_putina, au_area km: 3133.9935324533235
+
+capa: au_compilado_R02, fid: 1147, b_ADM2_ES: Cotabambas, b_ADM2_PCODE: PE0305, b_ADM1_ES: Apurimac, b_ADM1_PCODE: PE03, b_adm1_geral: Apurimac, b_adm2_geral: Cotabambas, b_ID_concatenated: apurimac-cotabambas, au_area km: 2619.5251631137703
+
+capa: au_compilado_R02, fid: 1148, b_ADM2_ES: Grau, b_ADM2_PCODE: PE0307, b_ADM1_ES: Apurimac, b_ADM1_PCODE: PE03, b_adm1_geral: Apurimac, b_adm2_geral: Grau, b_ID_concatenated: apurimac-grau, au_area km: 2128.187613870849
+
+capa: au_compilado_R02, fid: 1149, b_ADM2_ES: Acomayo, b_ADM2_PCODE: PE0802, b_ADM1_ES: Cusco, b_ADM1_PCODE: PE08, b_adm1_geral: Cusco, b_adm2_geral: Acomayo, b_ID_concatenated: cusco-acomayo, au_area km: 930.5883037890496
+
+capa: au_compilado_R02, fid: 1150, b_ADM2_ES: Paruro, b_ADM2_PCODE: PE0810, b_ADM1_ES: Cusco, b_ADM1_PCODE: PE08, b_adm1_geral: Cusco, b_adm2_geral: Paruro, b_ID_concatenated: cusco-paruro, au_area km: 1966.3391998808788
+
+capa: au_compilado_R02, fid: 1151, b_ADM2_ES: Larecaja, b_ADM2_PCODE: BO0206, b_ADM1_ES: La Paz, b_ADM1_PCODE: BO02, b_adm1_geral: La Paz, b_adm2_geral: Larecaja, b_ID_concatenated: la_paz-larecaja, au_country: Bolivia, au_level1: La Paz, au_level2: Larecaja, au_population: 75500, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: VERDADEIRO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: Grupos de mineros (organizados en cooperativas, bolivianos, colombianos y chinos), au_popup_window_pt: Grupos de garimpeiros (organizados em cooperativas, bolivianos, colombianos e chineses), au_popup_window_en: Groups of illegal miners (organized in cooperatives, Bolivians, Colombians and Chinese), au_ID_concatenated: la_paz-larecaja, au_area km: 9650.295589134676
+
+capa: au_compilado_R02, fid: 1152, b_ADM2_ES: Nor Yungas, b_ADM2_PCODE: BO0214, b_ADM1_ES: La Paz, b_ADM1_PCODE: BO02, b_adm1_geral: La Paz, b_adm2_geral: Nor Yungas, b_ID_concatenated: la_paz-nor_yungas, au_country: Bolivia, au_level1: La Paz, au_level2: Nor Yungas, au_population: 32278, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: VERDADEIRO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - Grupos de traficantes de insectos no identificados; 
+- Grupos de mineros organizados en cooperativas y narcotráfico, au_popup_window_pt: - Grupos de tráfico de insetos não identificados;
+- Grupos de garimpeiros organizados em cooperativas e tráfico de drogas, au_popup_window_en: - Unidentified insect trafficking groups;
+- Groups of illegal miners organized into cooperatives and drug trafficking, au_ID_concatenated: la_paz-nor_yungas, au_area km: 1784.5104554666411
+
+capa: au_compilado_R02, fid: 1153, b_ADM2_ES: Los Andes, b_ADM2_PCODE: BO0212, b_ADM1_ES: La Paz, b_ADM1_PCODE: BO02, b_adm1_geral: La Paz, b_adm2_geral: Los Andes, b_ID_concatenated: la_paz-los_andes, au_area km: 2805.19245458695
+
+capa: au_compilado_R02, fid: 1154, b_ADM2_ES: Omasuyos, b_ADM2_PCODE: BO0202, b_ADM1_ES: La Paz, b_ADM1_PCODE: BO02, b_adm1_geral: La Paz, b_adm2_geral: Omasuyos, b_ID_concatenated: la_paz-omasuyos, au_area km: 1457.6062659131417
+
+capa: au_compilado_R02, fid: 1155, b_ADM2_ES: Sud Yungas, b_ADM2_PCODE: BO0211, b_ADM1_ES: La Paz, b_ADM1_PCODE: BO02, b_adm1_geral: La Paz, b_adm2_geral: Sud Yungas, b_ID_concatenated: la_paz-sud_yungas, au_country: Bolivia, au_level1: La Paz, au_level2: Sud Yungas, au_population: 102543, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: VERDADEIRO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: Grupos de mineros (organizados en cooperativas), au_popup_window_pt: Grupos de garimpeiros (organizados em cooperativas), au_popup_window_en: Groups of illegal miners (organized in cooperatives), au_ID_concatenated: la_paz-sud_yungas, au_area km: 8808.085011438654
+
+capa: au_compilado_R02, fid: 1156, b_ADM2_ES: Caranavi, b_ADM2_PCODE: BO0220, b_ADM1_ES: La Paz, b_ADM1_PCODE: BO02, b_adm1_geral: La Paz, b_adm2_geral: Caranavi, b_ID_concatenated: la_paz-caranavi, au_country: Bolivia, au_level1: La Paz, au_level2: Caranavi, au_population: 54337, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: VERDADEIRO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: Grupos de traficantes de insectos no identificados, au_popup_window_pt: Grupos de tráfico de insetos não identificados, au_popup_window_en: Unidentified insect trafficking groups, au_ID_concatenated: la_paz-caranavi, au_area km: 2599.0668276805727
+
+capa: au_compilado_R02, fid: 1157, b_ADM2_ES: Muñecas, b_ADM2_PCODE: BO0205, b_ADM1_ES: La Paz, b_ADM1_PCODE: BO02, b_adm1_geral: La Paz, b_adm2_geral: Muñecas, b_ID_concatenated: la_paz-munecas, au_country: Bolivia, au_level1: La Paz, au_level2: Muñecas, au_population: 25080, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: VERDADEIRO, au_invest. with presence: FALSO, au_ID_concatenated: la_paz-munecas, au_area km: 1601.2981361838004
+
+capa: au_compilado_R02, fid: 1158, b_ADM2_ES: Camacho, b_ADM2_PCODE: BO0204, b_ADM1_ES: La Paz, b_ADM1_PCODE: BO02, b_adm1_geral: La Paz, b_adm2_geral: Camacho, b_ID_concatenated: la_paz-camacho, au_country: Bolivia, au_level1: La Paz, au_level2: Camacho, au_population: 46105, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: VERDADEIRO, au_invest. with presence: FALSO, au_ID_concatenated: la_paz-camacho, au_area km: 1801.496288358617
+
+capa: au_compilado_R02, fid: 1160, b_ADM2_ES: Aroma, b_ADM2_PCODE: BO0213, b_ADM1_ES: La Paz, b_ADM1_PCODE: BO02, b_adm1_geral: La Paz, b_adm2_geral: Aroma, b_ID_concatenated: la_paz-aroma, au_area km: 4652.835368229451
+
+capa: au_compilado_R02, fid: 1161, b_ADM2_ES: Loayza, b_ADM2_PCODE: BO0209, b_ADM1_ES: La Paz, b_ADM1_PCODE: BO02, b_adm1_geral: La Paz, b_adm2_geral: Loayza, b_ID_concatenated: la_paz-loayza, au_area km: 2898.42429114935
+
+capa: au_compilado_R02, fid: 1162, b_ADM2_ES: Murillo, b_ADM2_PCODE: BO0201, b_ADM1_ES: La Paz, b_ADM1_PCODE: BO02, b_adm1_geral: La Paz, b_adm2_geral: Murillo, b_ID_concatenated: la_paz-murillo, au_area km: 3828.291811548537
+
+capa: au_compilado_R02, fid: 1172, b_ADM2_ES: Cercado, b_ADM2_PCODE: BO0401, b_ADM1_ES: Oruro, b_ADM1_PCODE: BO04, b_adm1_geral: Oruro, b_adm2_geral: Cercado, b_ID_concatenated: oruro-cercado, au_area km: 5281.40876257684
+
+capa: au_compilado_R02, fid: 1173, b_ADM2_ES: Condesuyos, b_ADM2_PCODE: PE0406, b_ADM1_ES: Arequipa, b_ADM1_PCODE: PE04, b_adm1_geral: Arequipa, b_adm2_geral: Condesuyos, b_ID_concatenated: arequipa-condesuyos, au_area km: 6848.164338638809
+
+capa: au_compilado_R02, fid: 1174, b_ADM2_ES: Castilla, b_ADM2_PCODE: PE0404, b_ADM1_ES: Arequipa, b_ADM1_PCODE: PE04, b_adm1_geral: Arequipa, b_adm2_geral: Castilla, b_ID_concatenated: arequipa-castilla, au_area km: 6920.464483634124
+
+capa: au_compilado_R02, fid: 1175, b_ADM2_ES: Caylloma, b_ADM2_PCODE: PE0405, b_ADM1_ES: Arequipa, b_ADM1_PCODE: PE04, b_adm1_geral: Arequipa, b_adm2_geral: Caylloma, b_ID_concatenated: arequipa-caylloma, au_area km: 14074.973592456608
+
+capa: au_compilado_R02, fid: 1176, b_ADM2_ES: Chumbivilcas, b_ADM2_PCODE: PE0807, b_ADM1_ES: Cusco, b_ADM1_PCODE: PE08, b_adm1_geral: Cusco, b_adm2_geral: Chumbivilcas, b_ID_concatenated: cusco-chumbivilcas, au_area km: 5346.387040833929
+
+capa: au_compilado_R02, fid: 1177, b_ADM2_ES: Espinar, b_ADM2_PCODE: PE0808, b_ADM1_ES: Cusco, b_ADM1_PCODE: PE08, b_adm1_geral: Cusco, b_adm2_geral: Espinar, b_ID_concatenated: cusco-espinar, au_area km: 5234.276363407418
+
+capa: au_compilado_R02, fid: 1178, b_ADM2_ES: Canas, b_ADM2_PCODE: PE0805, b_ADM1_ES: Cusco, b_ADM1_PCODE: PE08, b_adm1_geral: Cusco, b_adm2_geral: Canas, b_ID_concatenated: cusco-canas, au_area km: 2135.1721688512457
+
+capa: au_compilado_R02, fid: 1179, b_ADM2_ES: Canchis, b_ADM2_PCODE: PE0806, b_ADM1_ES: Cusco, b_ADM1_PCODE: PE08, b_adm1_geral: Cusco, b_adm2_geral: Canchis, b_ID_concatenated: cusco-canchis, au_area km: 3948.0793556457443

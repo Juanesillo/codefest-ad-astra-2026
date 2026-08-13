@@ -1,0 +1,313 @@
+RFI Response: Section 232 National Security Investigation of Imports of Robotics and
+Industrial Machinery
+Federal Register Document Citation: Docket No. 250924-0161
+Reference Number: XRIN 0694-XC138
+Agency Name: Bureau of Industry and Security, Office of Strategic Industries and Economic
+Security, U.S. Department of Commerce.
+Organization: Center for Security and Emerging Technology (CSET), Georgetown University
+Primary POCs: Igor Mikolic-Torreira, Danny Hague
+The Center for Security and Emerging Technology (CSET) at Georgetown University offers the
+following comments in response to the Bureau of Industry and Security, Office of Strategic
+Industries and Economic Security, U.S. Department of Commerce’s request for comments on
+Section 232 National Security Investigation of Imports of Robotics and Industrial
+Machinery. A policy research organization within Georgetown University’s Walsh School of
+Foreign Service, CSET provides decision-makers with data-driven analysis on the security
+implications of emerging technologies, focusing on artificial intelligence, advanced computing,
+and biotechnology. We appreciate the opportunity to offer these comments.
+This document is approved for public dissemination. The document contains no business-
+proprietary or confidential information. Document contents may be reused by the government in
+developing the Section 232 National Security Investigation of Imports of Robotics and Industrial
+Machinery and associated documents without attribution.
+Overview
+Georgetown University’s Center for Security and Emerging Technology (CSET) presents the
+following responses to the BIS RFC regarding the Section 232 Investigation on Imports of
+Robotics and Industrial Machinery. These facts and observations are drawn from CSET’s wide
+body of research and a forthcoming article examining AI-Robotics convergence and the underlying
+supply chain supporting robotics. CSET notes that, while the investigation also requests
+information about industrial machinery (to include CNC machines, metalworking equipment,
+EDM machinery, and laser and water-cutting machinery), its research has focused more on the
+robotics supply chain and as a result the comments below are limited to robotics topics and respond
+to specific information elicitations where CSET research is responsive.
+(i) The current, projected, and optimal demand for robotics and industrial
+machinery, and their parts and components in the United States;
+The leading international robotics association defines a robot as “an actuated mechanism
+programmable in two or more axes with a degree of autonomy, moving within its environment, to
+perform intended tasks.”1 Helpfully, it also explains specifically what they do not consider a robot:
+software, drones, voice assistants, autonomous cars, ATMs, and smart washing machines are not
+1 The IFR also explicitly states what a robot is not:
+software, drones, voice assistants, autonomous cars, nor ATMS, smart washing machines etc.
+ (5).
+
+considered robots.2 Robots are often thought of as autonomous mobile robots (AMRs),
+manipulator arms or humanoids.3 There are dozens of other types of robots, including quadruped
+(dog-like) robots, medical robots (designed to assist with surgery, for example), and collaborative
+robots (or “cobots,”) that work with a human-in-the-loop, typically in industrial environments. In
+general, all robots typically consist of five core hardware systems:
+- Structural components provide the physical framework, support, and protection for all
+other systems. For humanoid robots, as the name implies, these structural components are
+anthropomorphic and generally are designed to provide joint, weight distribution,
+movement, and manipulation that mimics human form.
+- Actuation systems generate and control physical movement. For industrial robotics,
+these systems rely on precision motors that can operate repeatedly at high speeds,
+manipulating heavy loads. For humanoid robots, these systems can require more
+precision and less load-bearing ability.
+- Power systems provide and distribute energy to all systems. Industrial robots are usually
+connected to a fixed power supply, while humanoid robots and AMRs rely on batteries.
+- Computing systems process sensor data and control robot behavior, with humanoid
+robots having the most complex compute stack and industrial robots among the least
+compute-intensive.
+- Sensor systems perceive the environment in which the robot operates as well as its
+internal state and include cameras, sensors for depth perception, torque/force, joint
+position, and LiDAR.
+Estimating current, projected, and optimal demand for robots and their components is nearly
+impossible due a lack of a standardized bill of materials (Figure 1) as well as a lack of robust,
+comprehensive, high-fidelity supply chain data. There are a variety of reasons this data does not
+exist: most robotics transactions are B2B and private companies do not feel a need to share public
+statistics on their current or future rate of robotic adoption nor their BOMs. Additionally, most
+robotics development is still very nascent (especially in the humanoid sub-market). Thus demand
+estimates are inherently speculative, and it is unclear if/when commercial adoption at scale will
+occur.
+2 There is room for disagreement about constitutes a robot based upon this definition, but for the sake of accurately
+representing the data IFR collects, this paper uses the IFR definition when referring to statistics on robotics adoption
+cited in subsequent sections.
+3 
+
+Figure 1. Hardware Bill of Materials for Three Types of Physical AI-powered Robots
+Humanoid Robot Industrial Robot Autonomous
+Mobile Robot
+Example
+Physical Full-body frame with ~20-30 Heavy-duty fixed Wheeled base
+Structure degrees of freedom base platform
+Anthropomorphic proportions and Rigid arm links (4-7 Payload structure
+joint designs segments) Protective
+Lightweight materials (carbon Industrial steel, bumpers/housing
+fiber, aluminum alloys) aluminum)
+Actuators 20-30+ high-performance electric 6-7 high-precision 2-4 drive motors
+motors/actuators servo motors with wheels
+Custom gearboxes with high Industrial gearboxes Optional lift
+torque density Braking systems mechanism
+Specialized joint mechanisms
+(series elastic, direct drive)
+Power High-density battery packs (2-4 Fixed power supply Battery pack (1-3
+kWh typical) (typically no kWh typical)
+Power distribution system battery) Charging interface
+Thermal management system Electrical cabinet
+Compute High-performance onboard Industrial controller Navigation computer
+computer (often multiple) Safety PLC Motor controllers
+GPU/TPU for AI inference Teach pendant Fleet management
+Multiple microcontrollers for low- interface interface
+level control
+Sensors Stereo/depth cameras (2-4) Encoders at each LiDAR for
+Force/torque sensors at key joints joint navigation (1-2
+IMUs for balance Limited external units)
+Tactile sensors for hands/grippers sensing Cameras for object
+Microphones for audio input Optional vision detection
+system for guidance Proximity sensors
+Wheel encoders
+Cost $50-$500k $20-150k $15-80k
+Range
+Sources: 
+
+ 
+are-the-main-components-of-a-robot?; 
+comprehensive-guide; 
+much-does-a-humanoid-robot-cost/; 
+
+The worldwide AI Robotics market is valued at $20-$23 billion in 2025.4 In the next ~10 year
+period however industry analysts expect this market will reach, or exceed, $100 billion in value.5
+Analysts at Goldman Sachs recently forecast that the total addressable market specifically for
+humanoid robots will grow from $6 billion today to $38 billion in 2035, while analysts at Morgan
+Stanley are even more optimistic, asserting the market will reach $5 trillion by 2050.6
+These market numbers are speculative and lack definitional clarity. The “AI Robotics market” is
+poorly defined and can refer to everything from autonomous mobile robots like those currently in
+use by Amazon to the industrial robots used by automotive manufacturers. Scalable manufacturing
+of humanoid robots faces myriad technical obstacles, some of which were discussed above. Much
+of this markets’ forecast growth is contingent on unit costs going down as manufacturing
+economies of scale are achieved (“the robots start to build robots”) and performance/reliability
+increases dramatically as hardware and software improves. These breakthroughs are by no means
+guaranteed.
+Additionally, numbers cited by analysts and firms lack clarity and cannot be independently
+verified. Some companies consider warehouse robots a form of industrial robots and report
+numbers accordingly. Others maintain different definitions, leading to over (or under) counting
+total deployment numbers. Relatedly, the numbers that are reported by firms are often speculative
+and it is difficult to determine the validity of the claims without genuine on-the-ground
+investigation. For example, in 2011 Foxconn announced a program to deploy 1 million robots in
+its factories by 2014.7 By 2016 it had only managed to deploy 40,000 and more recent numbers
+are lacking.8 Similarly, companies like Siemens (Germany) and JD.com (China) have announced
+the creation of “dark” factories that are fully automated and can function without human
+4 
+
+Size-to-Worth-USD-124-26-Bn-by-2034.html; 
+transforming-industries-with-smart-robotic-solutions/23005/
+5 
+
+Size-to-Worth-USD-124-26-Bn-by-2034.html; 
+transforming-industries-with-smart-robotic-solutions/23005/
+6 
+accelerant/report.pdf (1); 
+by-2050.html
+7 
+idUSTRE77016B/;
+8 
+
+intervention, but it is unclear how robot-dense these facilities are, if they are comparable, and by
+what metrics to compare them.
+(ii) The role of foreign supply chains, particularly of major exporters, in meeting
+United States demand for robotics and industrial machinery, and their parts and
+components;
+The robotics hardware components ecosystem, especially the ecosystem of suppliers that can
+deliver components at-scale cost-competitively (Figure 2), is largely controlled by firms in Asia
+and Europe. Several recent reports cover this market in detail.9 This section summarizes these
+reports, focusing specifically on firms that control one or more chokepoint technology that could
+help or hinder AI-robotics convergence. There is no one country with a vertically integrated
+robotics supply chain, and interdependence is high.
+Robotics-specific hardware demand is rarely sufficient for firms to establish a business line,
+meaning nearly all suppliers serve multiple end use markets (ex. automotive, aerospace). Japanese
+and German component suppliers maintain notable market share, though there are also competitive
+suppliers in the U.S., Europe, and China. This supply chain has many “hidden giants” that control
+one or more key part of the market as well as COTS suppliers who offer best-in-class products. In
+both cases, suppliers rarely produce products solely for the robotics end use market, though they
+will optimize products for specific use cases if demand is sufficient.10
+In the former category, Japanese firms like Harmonic Drive Systems, Nabtesco, Nidec, and
+Sumitomo Heavy Industries offer precision mechanical gears, motors, and actuators that facilitate
+robotic joint movements and maintain high market share worldwide.11 Notably, Harmonic Drive
+Systems controls 80% of the market for the precision gears it produces.12 In Europe, German firms
+like Bosch Rexroth Festo, SEW-Eurodrive, SCHUNK, and Schmalz offer robotics components for
+“end effectors” (gripping), motors, and actuators.13 German firms are particularly competitive in
+the supply of end-effectors (for dexterous manipulation), a key technical challenge that has yet to
+be fully addressed for humanoid adoption.14
+In the latter category, many firms offer commercial off the shelf products at competitive prices
+with performance characteristics that make them suitable for robotics applications. For many
+robotics manufacturers, access to CATL’s (China) batteries, Sony’s (Japan) cameras, and NXP’s
+(Netherlands) microcontrollers are sufficient. This reliance on COTS parts comes with tradeoffs
+9 For example: 
+10 For example, ST Micro will not create an entirely new chip architecture for robotics users, but it will tweak
+existing products for robotics use cases: 
+accelerated-microcontroller/.
+11 
+12 (70)
+13 
+
+ 
+Reports/robot-end-effector-market-251736819.html
+14 
+
+however. Each robotics company is cobbling together their own unique bill of materials, meaning
+suppliers cannot rely on large orders necessarily. If demand shifts in their core markets (ex.
+aerospace), they are likely to prioritize production volume for these customers at the expense of
+the high mix, low volume components required by robot manufactures. In addition to this
+economic challenge, these COTS hardware solutions are frequently “good enough,” but not
+necessarily technically optimal. Hardware optimized for robotics applications is costly to develop
+and difficult to scale. And, once integrated in to actual robots, characterizing why the hardware
+failed (fatigue, environment, tolerance) makes for a slow and expensive cycle of iteration. Other
+industries have accelerated these cycles of “down time” by creating service and support businesses,
+but that generally does not yet exist in robotics at scale.
+Figure 2. Humanoid Robot Component Suppliers (Publicly Traded)
+Source: 
+_Mapping_the_Humanoid_Robot_Value_Chain.pdf
+The robot manufacturing landscape features startups as well as established industry leaders spread
+across several key countries. This section focuses specifically on relative national competitiveness
+in three types of robots that are seeing the greatest interest in Physical AI integration: humanoid
+robots, industrial robots, and autonomous mobile robots.
+The humanoid robotics manufacturing landscape is diverse, with at least 38 companies developing
+47 different robots listed as under development according to one source.15 There are no
+“incumbent” humanoid manufacturers today (unlike other robotics sub-markets) and all the firms
+mentioned below, with the exception of Boston Dynamics, entered the market in the last 5-10
+years. The largest and most well-funded U.S.-based humanoid developers of humanoid robots
+include Boston Dynamics16 (Atlas), Tesla (Optimus), Agility Robotics (Digit), Apptronik (Apollo)
+and Figure AI (Figure 02). China has at least twice as many firms as the U.S. pursuing humanoid
+robotics development, including Unitree (H1 and G1 models), UBTECH (Walker series), Xiaomi
+(CyberOne), EngineAI (PM01), and Fourier (GR-1). Outside of the U.S. and China there are also
+15 
+16 Note: now owned by Hyundai (South Korea), though its operations remain in the U.S.
+
+firms in Japan (Kawasaki), South Korea (Rainbow Robotics), and Canada (Sanctuary AI) with at
+least one humanoid in development.
+Industrial robotics continues to be dominated by the so-called “Big Four”: ABB (Switzerland),
+FANUC and Yaskawa (Japan), and KUKA (Germany, now China).17 While these four firms are
+estimated to control 75% of the global market for industrial robots, there are also notable suppliers
+in Europe (Comau and Staubli) and Japan (Epson, Kawasaki, Mitsubishi).18 China has several
+publicly traded industrial robot manufactures including Siasun Robotics, Efort [sic], and Etsun
+Automation.19
+At the same time, the warehouse robotics market continues to grow worldwide at a scale and speed
+that exceeds other industry adoption. Amazon, which acquired Kiva Systems in 2012 to enter the
+warehouse robotics market, reports having one million autonomous mobile robots in its factories.20
+These robots consist of everything from AMRs capable of moving pallets around a warehouse to
+“pick and place” arm-like robots that can sort boxes for transport. Other notable suppliers include
+Geek+ (China), Daifuku (Japan), EK Robotics (Germany), and Balyo (France, publicly-traded by
+majority-owned by SoftBank (Japan)).21
+Finally, specialized robotics applications for hospital and medical environments are also seeing
+increased development. In the U.S., firms such as Intuitive Surgical with its da Vinci system have
+been commercializing human-in-the-loop surgical robots, while in China firms like Fourier are
+manufacturing robots for medical rehabilitation.22
+(x) The impact of the use or lack of use of robotics and industrial machinery on U.S.
+manufacturing employment;
+While humanoid robots get the headlines, the actual deployment numbers by volume are
+dominated by industrial robots and, interestingly, the leading deployer of robots per capita is a
+country not mentioned to this point: South Korea.23 Robots are most frequently installed by
+automotive, aerospace, electronics, and food manufacturing OEMs.
+17 
+guide#:~:text=Who%20are%20the%20big%20four,bigger%20isn't%20always%20better.;
+
+robotics-and-how-the-current-powers-came-to-be
+18 
+19 
+20 
+
+21 
+
+22 
+
+23 The reason for South Korea’s leading position in robotics adoption stems from several factors: a major push for
+automation from OEMs seeking productivity gains, interest/first-mover advantages from the chaebol’s beginning
+decades ago, and government policies to encourage robotics development/adoption as a means of mitigating rapid
+
+The industrial robotics sector remains the most mature segment of the robot market, with
+automotive manufacturing still leading global deployment. This is true in the U.S. (Figure 3) as
+well as Europe and Asia. Japan's Toyota and Germany's Volkswagen Group consistently rank
+among the highest-density robot users, while South Korea maintains the world's highest robot
+density at 1,000 industrial robots per 10,000 manufacturing employees (with Singapore coming
+in second).24 China has rapidly emerged as the largest overall market by volume, installing
+nearly 290,000 industrial robots annually—more than Japan, the U.S., South Korea, and
+Germany combined.25 These same trends of adoption are true for AMRs as well, with the U.S.
+and Europe leading in installations to date, while Chinese firms see the highest growth rate in
+installations in recent years.
+Figure 3. U.S. Robotics Capital Expenditures by Industry, 2020-22
+population aging + persistently low birth rates. 
+korea-is-a-robot/.
+24 
+25 (17, 18)
+
+Source: 
+industries-2020-2022.html
+The humanoid robotics sector remains largely in the experimental phase, with total shipments in
+the hundreds compared with the hundreds of thousands of industrial robots and AMRs
+mentioned above. Japan leads in research and development, with Honda's ASIMO pioneering the
+field and newer platforms from SoftBank Robotics gaining traction in customer service roles.
+Hospitals in Japan have been early adopters of humanoid assistants for patient monitoring and
+basic care tasks. In Europe, automotive manufacturers including BMW and Audi are piloting
+limited humanoid robot deployments for specific assembly tasks. Figure AI, the U.S. developer
+of humanoid robots, announced a successful test with BMW in 2024.26 China has made
+humanoid robotics a national priority, with companies like UBTECH deploying service robots in
+retail, hospitality, and healthcare settings. Despite the attention humanoids receive, they
+currently represent a small fraction (likely less than 1%) of the total robotics market by revenue.
+(xiv) any other relevant factors.
+The policy agenda around robotics is immature compared to other emerging technologies like
+semiconductors, AI, and quantum, where substantial research has mapped the key players, their
+comparative advantages, chokepoints, and supply chains. The robotics supply chain also lacks
+robust datasets that provide signals on supply, demand, production, consumption, and the
+intensity of robotics adoption (by country, by industry, by factory). As a result, the few data
+providers today such as IFR and financial analyst reports play a disproportionate role in shaping
+discourse. There is a need for a policy research agenda that develops mature analysis to cut
+through the hype, identify genuine advances, and characterize the potential depth of robotics
+adoption across economies.
+Finally, from a national security perspective, a research agenda to address the gap between
+physical intelligence and dexterous intelligence is critical. This gap is particularly problematic in
+the aerospace and defense sectors, where high mix, low volume manufacturing lines necessitate
+regular re-tooling and adoption of automated solutions is more difficult. Physical intelligence
+(spatial awareness for pick, move, and place-capable robots) is not enough in environments that
+require dexterous intelligence (insertion, threading, force feedback). Policies that address (in
+particular) the acute lack of quality tactile sensors, kinematics, and real-world data would
+facilitate the development and adoption of robotics in these key sectors.
+26 
+group-plant-spartanburg?language=en

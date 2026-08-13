@@ -1,0 +1,11 @@
+capa: au_compilado_R02, fid: 337, b_ADM2_PCODE: BR2908101, b_ADM1_PCODE: BR29, b_ADM1_PT: Bahia, b_ADM2_PT: Cocos, b_adm1_geral: Bahia, b_adm2_geral: Cocos, b_ID_concatenated: bahia-cocos, au_area km: 10140.966837797485
+
+capa: au_compilado_R02, fid: 338, b_ADM2_PCODE: BR2917359, b_ADM1_PCODE: BR29, b_ADM1_PT: Bahia, b_ADM2_PT: Jaborandi, b_adm1_geral: Bahia, b_adm2_geral: Jaborandi, b_ID_concatenated: bahia-jaborandi, au_area km: 9954.901796411676
+
+capa: au_compilado_R02, fid: 339, b_ADM2_PCODE: BR2909307, b_ADM1_PCODE: BR29, b_ADM1_PT: Bahia, b_ADM2_PT: Correntina, b_adm1_geral: Bahia, b_adm2_geral: Correntina, b_ID_concatenated: bahia-correntina, au_area km: 11503.909575996657
+
+capa: au_compilado_R02, fid: 340, b_ADM2_PCODE: BR2928901, b_ADM1_PCODE: BR29, b_ADM1_PT: Bahia, b_ADM2_PT: São Desidério, b_adm1_geral: Bahia, b_adm2_geral: São Desidério, b_ID_concatenated: bahia-sao_desiderio, au_area km: 15154.702226902084
+
+capa: au_compilado_R02, fid: 366, b_ADM2_PCODE: BR2903201, b_ADM1_PCODE: BR29, b_ADM1_PT: Bahia, b_ADM2_PT: Barreiras, b_adm1_geral: Bahia, b_adm2_geral: Barreiras, b_ID_concatenated: bahia-barreiras, au_area km: 8051.263429801637
+
+capa: au_compilado_R02, fid: 451, b_ADM2_PCODE: BR2911105, b_ADM1_PCODE: BR29, b_ADM1_PT: Bahia, b_ADM2_PT: Formosa do Rio Preto, b_adm1_geral: Bahia, b_adm2_geral: Formosa do Rio Preto, b_ID_concatenated: bahia-formosa_do_rio_preto, au_area km: 15634.886102636858

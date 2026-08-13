@@ -1,0 +1,1866 @@
+Master and
+Servant
+Defense AI in Germany
+Ein Projekt im Rahmen von
+Heiko Borchert, Torben Schütz, Joseph Verbovszky
+DAIO Study 23|12
+
+About the Defense AI Observatory
+The Defense AI Observatory (DAIO) at the Helmut Schmidt University in Hamburg
+monitors and analyzes the use of artificial intelligence by armed forces. DAIO comprises
+three interrelated work streams:
+Culture, concept development, and organizational transformation in the context of
+military innovation
+Current and future conflict pictures, conflict dynamics, and operational experience,
+especially related to the use of emerging technologies
+Defense industrial dynamics with a particular focus on the impact of emerging
+technologies on the nature and character of techno-industrial ecosystems
+DAIO is an integral element of GhostPlay, a capability and technology development
+project for concept-driven and AI-enhanced defense decision-making in support of fast-
+paced defense operations. GhostPlay is funded by the Center for Digital and Technology
+Research of the German Bundeswehr (dtec.bw). dtec.bw is funded by the European Union
+– NextGenerationEU.
+Ein Projekt im Rahmen von
+
+Master and
+Servant
+Defense AI in Germany
+Ein Projekt im Rahmen von
+Heiko Borchert, Torben Schütz, Joseph Verbovszky
+DAIO Study 23|12
+
+About the Authors
+Dr. Heiko Borchert is DAIO’s co-director. He is Associate Fellow at the Center for Advanced
+Security, Strategic and Integration Studies (CASSIS, Bonn), subject matter expert at the
+Hague Center for Strategic Studies, and runs a strategic affairs consulting boutique. He
+studied international relations, business administration, economics, and law at the Universi-
+ty of St. Gallen, where he also got his Ph.D. His Twitter account is @HeikoBorchert.
+Torben Schütz is a PhD candidate at the Helmut-Schmidt-University and Associate Fellow at
+the German Council on Foreign Relations (DGAP). As a DAIO Research Fellow, he oversees
+the team’s work on conflict pictures and conflict dynamics. Torben Schütz has worked for
+the German Council on Foreign Relations and the Stiftung Wissenschaft und Politik/German
+Institute for International and Security Affairs. He holds a master’s degree in political science
+from Leibniz University Hannover. His Twitter account is @_schuetzt.
+Joseph Verbovszky is DAIO’s Research Fellow for defense technology-industrial affairs.
+Before joining DAIO, he worked in the areas of international coordination and strategic
+analysis at different defense companies. He holds a master’s degree in international
+relations and economics from the Johns Hopkins School of Advanced International Studies
+(SAIS). He graduated with a PhD on German Structural Pacifism from the University of the
+Bundeswehr München. His Twitter account is @warkhorse.
+Acknowledgments
+For this study we have conducted interviews with more than a dozen high-ranking
+Bundeswehr and industry experts, who remain anonymous. We are immensely grateful for
+their insights and suggestions, but remain solely responsible for any errors in fact, analysis,
+or omission.
+Design
+Almasy Information Design Thinking
+Imprint
+Heiko Borchert, Torben Schütz, and Joseph Verbovszky, Master and Servant. Defense AI in
+Germany. DAIO Study 23/12 (Hamburg: Defense AI Observatory, 2023).
+Defense AI Observatory | Chair of Political Theory | Helmut Schmidt University
+Holstenhofweg 85 | 22043 Hamburg | T +49 40 6541 2776
+ | contact@defenseai.eu | @Defense_AIO
+ISSN (online): 2749–5337
+ISSN (print): 2749–5345
+4 MASTER AND SERVANT
+
+Content
+1 Summary ..................................................................................................................... 6
+2 Thinking About Defense AI ....................................................................................... 9
+2.1 Structural Pacifism Shapes Defense Technological Imaginaries ....................................11
+2.2 Future Conflict Picture ...............................................................................................13
+2.3 Digitalization and Software-Defined Defense .............................................................15
+2.4 Defense AI ................................................................................................................16
+2.5 Ethics and Defense AI ................................................................................................21
+3 Developing Defense AI. ........................................................................................... 23
+3.1 Development Priorities and Projects...........................................................................24
+3.2 Germany’s Defense AI Ecosystem ..............................................................................29
+4 Organizing Defense AI ............................................................................................. 34
+4.1 Joint Approaches ......................................................................................................35
+4.2 Single Service Approaches ........................................................................................36
+5 Funding Defense AI ................................................................................................. 38
+6 Fielding and Operating Defense AI. ....................................................................... 41
+7 Training for Defense AI ............................................................................................ 44
+8 Conclusion. ................................................................................................................ 48
+Literature ...................................................................................................................... 52
+WWW.DEFENSEAI.EU 5
+
+1 Summary
+The German Ministry of Defense (MoD), the Bundeswehr, and the defense tech-
+nology and industrial base understand the importance of artificial intelligence (AI)
+in shaping the contours of the future strategic environment and the use of military
+power. Since the late 1990s, this defense ecosystem has been in a continuous
+process of transformation that reflects changes in the geostrategic landscape, is
+influenced by technological advances, and shaped by socio-political requirements.
+However, arguing that the Bundeswehr must change is often easier than defining
+how it needs to change and what goal the change is meant to achieve.
+This is the context that shapes Germany’s approach to defense AI. Numerous
+projects have been launched, structures and processes are being reorganized,
+money has been earmarked, and training is underway or being readjusted. Over-
+all, however, the path ahead remains murky – with the obvious risk that action
+remains without traction. Like other organizations that embark on a whole-scale
+transformation process, the German defense establishment struggles to link the
+envisioned future with the status quo and is thus caught in a “master and servant”
+logic that will be painful to overcome.
+First, the metaphor describes the struggle to readjust Germany’s strategic culture
+amid war in Europe. Germany’s strategic culture is input-driven. Socio-political
+acceptance of military power trumps everything. This prevailing attitude is best
+illustrated by the idea that defense AI serves “humanitarian precision,” as one
+interview partner put it: accelerating defense decision-making serves the purpose
+of a value-conscious “citizen in uniform” – otherwise the Bundeswehr would not
+be considered a legitimate instrument of power providing decision-makers politi-
+cal options.
+Second, defense trumps offense with most of the current defense AI studies, con-
+cepts, and projects aiming at augmenting the survivability rather than the lethality
+of the Bundeswehr. In this regard, the use of force is repackaged as the “sharp end
+of digitalization” while the overall defense administration remains geared towards
+peace-time tasks rather than the return of the use of force in Europe. Therefore,
+the Bundeswehr operates in a bifurcated world: the armed forces need to envision
+the future defense environment while procrastinating future concepts and pro-
+jects into today’s procedures and processes – the master – to induce incremental
+change.
+Third, three decades of political neglect have served as a particularly cruel master
+when it comes to innovation. German armed forces preoccupied with the need
+6 MASTER AND SERVANT
+
+to survive – politically, rather than militarily – simply did not have the strategic
+bandwidth to consider the added value of technology beyond the primary goal
+of ensuring basic military functions. The “tyranny of the status quo” has pinned
+socio-technological imaginaries to what matters here and now. Force planners
+could (and would) not request, what they did not know. This triggered a kind of
+technology blindness that has – unintentionally – been reinforced by a technology
+agnostic approach to capability development that describes capability require-
+ments in generic terms. The extent to which synchronizing concepts and technol-
+ogy development can ignite leapfrogs in capability development thus remains
+underexploited.
+Against this background defense AI is seen as a tool – the humble servant – sub-
+ordinate to human will power and decision-making. The belief that humans must
+always remain in the loop dominates political discourse and structures the debate
+on ethics and defense AI. As a result, Germany adopts a “non-intrusive” onboard-
+ing process to incrementally add AI elements to large defense development and
+procurement projects. This makes it difficult to assess what defense AI is all about
+and whether it delivers what is expected.
+Simultaneously, Germany’s defense AI thinking is heavily influenced by US ideas.
+The need for AI to succeed in a “hyperwar environment,” increasing reference to
+multi-domain operations, and the adoption of different combat cloud concepts
+can be traced back to US concepts that influence thinking in NATO. Germany’s
+“administrative gold-plating,” however, implies that the US emphasis on perfor-
+mance and lethality is being tamed and made palatable for a German defense
+audience that is risk averse. Consequently, defense AI is mainly understood as
+a capability multiplier that improves the efficiency and effectiveness of existing
+military processes.
+This sets the framework for numerous projects that explore the benefits and risks
+of defense AI. Along Germany’s capability value chain – consisting of Command,
+Control, Computers, Communications or C4 (Führung), Intelligence, Surveillance
+and Reconnaissance or ISR (Aufklärung), precision effects (Wirkung), and support
+(Unterstützung) – most of the current defense AI projects focus on C4 and ISR. Pro-
+jects focusing on providing recognized operational pictures at joint and services
+levels are (politically) more palatable than exploring the benefits of defense AI for
+precision effects. Given the clear hierarchy between men and AI, the focus is on
+decision-making support and step-by-step improvement of existing technologies
+with the help of AI.
+WWW.DEFENSEAI.EU 7
+
+In this context, governance plays a major role. A great deal of attention is being
+devoted to adapting today’s structures for a digital world with the MoD and the
+military services operating at different levels of ambition and diverging speed. This
+creates risks for Bundeswehr jointness as existing mechanisms for synchronization
+seem weak or are not yet fully used to implement proper strategic guidance.
+Whether the new defense AI implementation strategy, that is expected by then
+end of 2023, can alleviate the situation, remains to be seen.
+Apart from providing basic funding to key defense research and technology (R&T)
+organizations, most of Germany’s defense R&T projects are tied to ongoing pro-
+curement projects. Thus, it is very difficult to assess the level of defense AI-related
+funding. While the more than €400M that the new five-year Sondervermögen
+has earmarked for R&T and AI may seem substantial, this amount also includes
+investments in related digital infrastructure. Based on an analysis of the non-pub-
+lic budgets of various current development projects, we contend that Germany
+currently spends around €50M per year on AI-related software development.
+The true status of the Bundeswehr’s fielding and operating of defense AI is difficult
+to grasp. An open-source intelligence system for crisis early warning that uses
+AI for data analytics and predictive analysis is one of the most prominent current
+examples. Other examples include AI-based radar warning receivers to protect
+Bundeswehr helicopters, intelligent image processing for missiles, and enterprise
+applications in the fields of warehouse management or medical services.
+Using AI in the defense environment also affects military education and training.
+The Bundeswehr’s Command and Staff College (Führungsakademie der Bunde-
+swehr) is about to review its curriculum with the goal to incorporate AI elements
+as of 2024. In addition, the University of the Bundeswehr/Hamburg is setting up
+a new AI bachelor’s and master’s degree course. Individual services also explore
+opportunities for AI-enhanced simulation-based training. Moreover, different
+initiatives have been launched to train defense AI algorithms.
+In sum, Germany has embarked on a defense AI journey. Individual projects have
+been started, but substantial homework remains to be done. This includes, first,
+the need to be more precise about the contribution AI is expected to make in
+achieving future capability growth. Second, Germany’s – currently non-existent –
+defense industrial policy needs to be updated with regard to defense AI. Third,
+the German MoD needs to be more outspoken about its international defense AI
+ambition. Finally, more thought needs to be given on how to create a framework
+to certify, qualify, and approve future defense AI solutions.
+8 MASTER AND SERVANT
+
+2 Thinking
+About
+Defense AI
+WWW.DEFENSEAI.EU 9
+
+The 2018 artificial intelligence (AI) strategy of the German government describes
+how Germany wants to use AI to advance national and European competitive-
+ness. Technological advances and global changes, the need to understand AI as
+a “key enabling technology”, as well as the “democratic desire to anchor such a
+far-reaching technology (…) in an ethical, legal, cultural and institutional context”
+are the pillars driving the federal governments AI policy.1 The strategy differen-
+tiates between “strong” and “weak” AI and interprets the latter as “solution(s)
+of specific problems using methods from mathematics and computer science,
+whereby the systems developed are capable of self-optimisation” with a focus on
+the use of this type of AI in deduction systems, knowledge-based systems, pattern
+analysis and pattern recognition, robotics and autonomous systems as well as
+smart multimodal human-machine interaction.2 The 2020 update of the German AI
+strategy extends previous lines of effort on building human capacities, establishing
+research structures, advancing research and transfer structures, creating an appro-
+priate regulatory framework, and supporting networking.3
+The German AI strategy and its update remain silent on the use of AI for defense
+and security. The same is true for the 2018 Concept of the Bundeswehr,4 the 2021
+strategic guidance of then Minister of Defense Kramp-Karrenbauer, and the 2021
+coalition treaty. Only the 2019 concept paper on “AI for use in the area of respon-
+sibility of the Ministry of Defense” fills the void. This fact is disenchanting, but it is
+not surprising.
+The country’s strategic culture tames the Bundeswehr’s technology appetite. This
+creates tensions. The Bundeswehr recognizes that technology is changing the
+future battlefield. It also embraces allied concept ideas to signal its willingness to
+cooperate with partners. However, culture, the current organizational set up, and
+the lack of robust technology leadership pin the Bundeswehr down to the status
+quo. In this context defense AI has a hard time blossoming. Rather the focus is on
+incremental evolution most often tied to large procurement projects that apply
+defense AI as part of broader functionalities. This makes it difficult to understand
+Germany’s overall defense AI ambition and the added value AI is expected to
+deliver for the German Bundeswehr.
+1 ArtificialIntelligenceStrategy,p.4.
+2 Ibid.,pp.4–5
+3 ArtificialIntelligenceStrategyoftheGermanFederalGovernment.2020Update.
+4 ThisdocumentonlyreferstoAIinrelationtodatamininganddataanalytics.See:KonzeptionderBundeswehr,footnote48.
+10 MASTER AND SERVANT
+
+2.1 Structural Pacifism Shapes
+Defense Technological Imaginaries
+Germany’s security policy is characterized by a structural pacifism5 in which the
+need to reconcile competing elements of Germany’s post-war security identity
+with a byzantine policy process leads to the prioritization of security policy con-
+formity over effectiveness (performance).
+Resulting from the trauma of WWII, the nascent Federal Republic of West Ger-
+many “reinvented itself” in opposition to its authoritarian past.6 The formation of
+Germany’s post-war identity relied heavily on fantasy7 – a narrative scenario that
+promises the impossible fulfillment of a complete identity – and, more importantly,
+on negative contingency – the projection of catastrophe into the future, which is
+meant to be avoided. In his seminal work on the history of the Federal Republic,
+Frank Biess demonstrates how negative contingency in the form of German Angst
+served to stabilize German democracy by emphasizing its fragility.8
+While conducive to internal stability, negative contingency retards German security
+policy. It appears primarily in the form of “The Lessons of History,” such as “Never
+Again War,” “Never Again Alone” and “Never Again Auschwitz,” which prescribe
+modes of behavior that prevent a return of German authoritarianism and preserve
+post-war Germany’s non-belligerent identity. Unfortunately, the “Lessons of Histo-
+ry” are often contradictory and open to interpretation, leading to uncertainty over
+the best way forward. Reconciling them therefore presents itself as the “right way”
+to do security policy, i.e., most conform with Germany’s identity.9
+Reconciling competing interpretations of German post-war identity is made more
+difficult by the byzantine logic of German security policy decision-making. Myriad
+actors are involved in the decision-making process, all of whom come with their
+own domestic political interests. The most relevant interests include those of the
+Chancellery, the Foreign Office, the Defense Ministry, the Ministry of Economics,
+the Ministry of Finance, and the Ministry of Development; the interests of the
+coalition parties and, finally, the interests of small parliamentary groups within
+parties or individuals who can gather enough support to form blocking minorities
+on a given issue.10 Decisions over the use of force, specifically deployment and
+5 Verbovszky,GermanStructuralPacifism.
+6 Stengel,ThePoliticsofMilitaryForce,p.102.
+7 Eberle,DiscourseandAffectinForeignPolicy,p.46.
+8 Biess,Frank,RepublikderAngst,p.31.
+9 Verbovszky,StructuralPacifism,p.29.
+10 Ibid.,p.35.
+WWW.DEFENSEAI.EU 11
+
+the annual defense budget, are managed by completely separate decision pro-
+cesses, with deployment lead primarily by the foreign office and the budget by
+the finance ministry and finance committee.11 Furthermore, the defense budget is
+constitutionally allocated out of the annual budget, subjecting it to further domes-
+tic political interests.12 As a result, force planning (budget) at the political level lags
+behind operations and their requirements.13
+The need to resolve myriad domestic political interests in a way that conforms with
+Germany’s post-war non-belligerent identity leads to a security policy dominated
+by inputs. Security policy decision are done via “reverse consensus,” i.e., even
+before going into respective committees for deliberation they are designed to be
+consensus-capable in the final vote.14 The prioritization of this “right way” to do
+security policy leads to a highly conformist policy, which is, at best, inconsistently
+effective.
+Beyond the scope of security policy, elements similar to structural pacifism are
+also observable in other aspects of German society, in particular, Germany’s
+skepticism toward technological change. One powerful tool for measuring the
+impact of cultural and political factors is the use of socio-technological imagi-
+naries, i.e., “ collectively held, institutionally stabilized, and publicly performed
+visions of desirable futures, animated by shared understandings of forms of social
+life and social order attainable through, and supportive of, advances in science
+and technology.”15 They “play an important role in the development, assessment
+and regulation of cutting-edge technologies.”16 This approach has already been
+applied to demonstrate Germany’s attitudes toward developments in the fields of
+nanotechnology17 and space technology.18
+Common themes emerge across these diverse fields and the afore-presented
+national AI strategy: both nanotechnology and AI are seen as crucial technologies
+to retain a competitive economic advantage and preserve Germany’s wealth,19
+while both nanotechnology and space technology are viewed as advantageous to
+analyze and improve the environment.20 In none of the three technology fields do
+military applications receive any particular attention. Additionally, risks within the
+respective technology fields are prominently covered and preemptive regulation is
+11 Ibid.,p.30.
+12 Art.87a,para.1Grundgesetz.
+13 Verbovszky,StructuralPacifism,p.204.
+14 Ibid.,p.38.
+15 Jasanoff,“FutureImperfect,”p.4.
+16 Burri,“ImaginariesofScienceandSociety,”p.233.
+17 Ibid.
+18 Kober/Schütz,DenWeltraumordnen–Zukunftsvorstellungenund(New)SpaceGovernance.”
+19 Burri,“ImaginariesofScienceandSociety,”p.237;ArtificialIntelligenceStrategy,p.8
+20 Burri,“ImaginariesofScienceandSociety,”p.237,Kober/Schütz,“DenWeltraumordnen.”
+12 MASTER AND SERVANT
+
+at the forefront of political action: from space debris21 to risks of nanotechnology
+in food or cosmetics22 to ever-present warnings about defense AI in the German
+discourse.23 Lastly, at least in the cases of nanotechnology and AI, the government
+wants to establish a discourse with the wider public. However, the fact that this
+discourse needs to be framed from the outset in terms of negative contingencies
+significantly limits opportunities to step out of the existing narrative or to break
+new ground.
+2.2 Future Conflict Picture
+Strategic culture shapes how the Bundeswehr thinks about the future. Its capstone
+document Future Operating Environment 2035 discusses the likely future battle-
+field.24 Fast-paced adversarial action and the amalgamation of different forms of
+conflicts that evolve in complex and chaotic environments are considered a key
+characteristic. Advances in technology, international power shifts, new forms of
+decentralized organization, and the long-term consequences of climate change on
+the battlefield are key drivers shaping the future battlefield.
+Considering these developments, future military action needs to put more em-
+phasis on accelerating data gathering, analysis, and application, requires a com-
+prehensive recognized operational picture, depends on shorter sensor to shooter
+cycles, and demands more flexible and partially automated measures of response.
+Strategic depth and delivering effects at greater distance become more important
+and should go hand in hand with developing counter-Anti Access/Area Denial
+(A2AD) capabilities and capacities.
+Technologies play a major role in shaping these trends and implementing effective
+battlefield solutions.25 Digitalization and automation are important, the paper
+argues. AI and unmanned systems are getting more critical in view of automating
+processes and operating in risk-prone areas. More emphasis is needed on superior
+sensing capabilities, new weapon systems as well as directed energy weapons
+primarily for defensive purposes. New concepts of deterrence will be needed to
+counter adversarial hypersonic weapons.
+21 Kober/Schütz,“DenWeltraumordnen.”
+22 Burri,“ImaginariesofScienceandSociety,”p.239.
+23 Seeforexample:MehrFortschrittwagen,p.145.
+24 FutureOperatingEnvironment2023,pp.7–11.
+25 Seealso:KriegderZukunft.
+WWW.DEFENSEAI.EU 13
+
+The 2022 Operational Guidance for the Armed Forces by the Chief of Defense
+(CHOD) underpins these reflections.26 This capstone document highlights the
+need for new innovative solutions to be “battle ready” and emphasizes the press-
+ing need to assess sensor data “on the edge” to counter adversarial jamming.27 In
+particular, this guideline posits:
+In addition to modern sensors as well as C2 and precision effects, the network
+infrastructure – i.e., the ability to transmit data, store it and make it available
+and usable for planning and decision-making processes of all kinds – will be
+decisive in the future. The interoperability of data clouds is a prerequisite for
+future systems. AI will play an increasingly important role, linking all fields of
+technology and thus also having military relevance. AI applications that sup-
+port data correlation and data processing on behalf of the Commander and his
+command aides will become increasingly relevant. Since it is likely that adver-
+saries will exploit these technological capabilities, it is imperative to participate
+in these developments.28
+In this context, the Operational Guidance also fully embraces the idea of Multi-Do-
+main Operations (MDO) and adopts the current working definition of NATO.29 Fur-
+thermore the capstone document contends that the core idea driving MDO is not
+new. But today’s focus provides opportunities to link capabilities across domains,
+advance operational tempo, and impose dilemmas on the adversary by precise
+direct and indirect effects.30 Therefore the MoD’s Directorate-General for Planning
+has tasked the Planning Office of the Bundeswehr at the end of 2022 to start
+national MDO implementation with the goal of submitting a respective document
+to the CHOD by mid-2024.31
+26 OperativeLeitlinienfürdieStreitkräfte(OpLLSK).
+27 Ibid.Para.297–298.
+28 “NebenmodernenSensorensowieFührungs-undWirkmittelnwirdkünftigdieNetzwerkinfrastruktur,d.h.dieBefähigung,Daten
+zuübertragen,siezuspeichernundfürPlanungs-undEntscheidungsprozesseallerArtverfüg-undnutzbarzumachen,entsc-
+heidendsein.DieInteroperabilitätsolcherDatencloudsistVoraussetzungfürkünftigeSysteme.KIwirddabeizunehmendeine,
+alleTechnologiefelderverbindendeRollespielenunddamitauchmilitärischrelevant.KI-Anwendungen,dieden(Truppenführer)
+undseineFührungsgehilfenbeiderKorrelationundVerarbeitungderMassendatenunterstützen,werdenzunehmendrelevanter.
+Daanzunehmenist,dassgegnerischeAkteureihretechnologischenMöglichkeitenausschöpfenwerden,kommteszwingend
+daraufan,andiesenEntwicklungenteilzuhaben.”See:Ibid,para.295.
+29 “Orchestrationofmilitaryactivitiesacrossalldomainandenvironments,synchronizedwithnon-military,toenabletheAlliance
+todeliverconvergingeffectsatthespeedofrelevance.”See:Ibid,para.286.
+30 Ibid.,para.290.
+31 Interview,28February2023.
+14 MASTER AND SERVANT
+
+2.3 Digitalization and Software-Defined Defense
+The need to digitize armed forces put forward by the CHOD’s Strategic Guidance
+is not new. In fact, Network-Centric Warfare or Network-Enabled Operations, the
+state-of-the art military concepts in the early 2000s, strived on the idea of trans-
+ferring private industry success in digitizing enterprise processes into the military
+domain. As Antoine Bousque argues, the focus on international crisis management
+and counter insurgency put this approach to a hard reality test, which ended badly
+and led its temporary demise.32 The resurgence of military peer-to-peer conflicts,
+the growing emphasis on MDO, and attempts to distribute military capabilities
+among manned and unmanned platforms and binding them together via a digital
+lifeline has rejuvenated defense digitalization.
+The German MoD’s current Strategic Guideline on Digitalization is right in ar-
+guing that the Bundeswehr’s unique selling proposition lies in preparing and
+using armed forces. In doing so, Network-Enabled Operations and the ability to
+contribute to MDO are key. That’s why a seamless and powerful ICT federation
+is indispensable.33 Therefore, defense digitalization makes the armed force more
+assertive, increases the Bundeswehr’s operational capability as a whole and on the
+digitized battlefield, and supports administrative action.34
+As of recently, the emphasis on digitalization has boosted software-defined de-
+fense as a new concept. This concept rests on detaching the hardware aspects of
+military capabilities from the software aspects with the goal to connect the latter
+in “data-centric, multi-modal, multi-domain, adaptative battle networks.”35 Gen
+Michael Vetter, the MoD’s Chief Information Officer, backs software-defined de-
+fense as a new way of ensuring future capability growth by “digitally upgrading”
+legacy systems. For example, he refers to Ukraine’s use of a self-developed app
+to enhance the target assignation process of the Panzerhaubitze 2000 as a repre-
+sentative use case that illustrates how digital solutions enable Ukrainians to quickly
+engage the adversary and change position after firing without being targeted by
+the adversary.36
+32 Bousquet,TheScientificWayofWarfare,pp.199–219.
+33 StrategischeLeitlinieDigitalisierung,p.7.
+34 Färber,“DigitalisierungderBundeswehr,”p.225.
+35 Soare/Singh/Nouwens,Software-definedDefence,p.2.
+36 AudiostatementbyGenMichaelVetter,publishedviaWelchering,“VonderBundeswehrzurdigitalenVerteidigungsarmee?”
+WWW.DEFENSEAI.EU 15
+
+This understanding also underpins the MoD’s 2021 data strategy.37 The Bundes-
+wehr joins the chorus of many other armed forces in EU/NATO nations38 and
+calls data “an asset of significant value” that enables information and effects
+superiority.39 That’s why the data strategy is geared towards providing data of high
+quality and accessibility to strengthen the mission-readiness and resilience of IT
+and weapon systems, reduce life-cycle costs of IT and weapon systems, boost
+the use of data across the Bundeswehr, increase the use of data, and enable data
+analytics.40
+The challenge, however, rests in synchronizing reality with the Bundeswehr’s digital
+ambition. Today, the Bundeswehr effectively operates in two worlds – old and new
+– requiring soldiers to envision the future while procrastinating future concepts
+and projects into legacy procedures and processes as the only means available to
+induce incremental change. This creates obvious tensions between “feelgood”
+digitalization, operated to convey the image of a techno-savvy and thus also
+attractive employer, and defense digitalization meant to meet the Bundeswehr’s
+operational performance requirements.41
+2.4 Defense AI
+Joint Thinking
+Defense digitalization provides the umbrella for defense AI. The 2019 concept
+paper on “AI for use in the area of responsibility of the Ministry of Defense”
+discussed above is Germany’s current defense AI capstone document. Although
+other concept papers refer to defense AI, this paper discusses in detail the general
+goals of using defense AI, the operationalization for the Bundeswehr as well as the
+requirements (e.g., organization, human resources, legal aspects, IT hard/software
+aspects) to be met. In doing so the paper follows the data-centric approach out-
+lined above, for example, when arguing right at the start that “the successful use
+of AI by the Bundeswehr depends on the quantity and quality of the data used to
+enhance learning.”42 The document applies a very generic definition of
+37 DatenstrategieGBBMVg.
+38 Layton,EvolutionnotRevolution,p.10;Payne,BrightProspects–BigChallenges,pp.10–11;Kahn,RiskyIncrementalism,pp.
+13–15;Engen,WhentheTeethEattheTail,pp.14,16.
+39 DatenstrategieGBBMVg,para.106,102.
+40 Ibid.,para.206.
+41 Interviews,25March2022and6February2023.
+42 “DerErfolgdesEinsatzesvonKIinderBundeswehrstehtdabeiimdirektenZusammenhangmitderQuantitätundQualitätder
+Daten,mitdenendieselerntbzw.umgeht.”See:KünstlicheIntelligenz.NutzungimGeschäftsbereichesBundesministeriums
+derVerteidigung,p.2.
+16 MASTER AND SERVANT
+
+AI as a technology that uses machines with sophisticated algorithms taking on
+tasks that require – some sort of – intelligence to accomplish tasks that have
+previously required primarily or exclusively human decision-making or action.43
+The concept document builds on the national AI strategy’s differentiation between
+weak and strong AI and argues that strong AI “could lead to the development of
+autonomous weapon systems that individually set their respective goals of action
+and thus operate with maximum freedom of maneuver.”44 Germany, however,
+rejects the use of lethal autonomous weapon systems (see section 2.5).
+Picking up the weak vs strong AI distinction might serve to align defense AI
+thinking with the national AI strategy, but doubts remain that it will add value in
+the defense context. First, this understanding focuses more on the socio-political
+acceptability rather than the performance and the impact of defense AI. Second,
+this dichotomy builds on commercial practices that strive on abundant, largely
+unrestricted, and readily available data. Such a data-centric approach, although
+prevalent in the German MoD and across the international defense establishment,
+is problematic given the lack of defense-relevant data. It also reinforces an IT-cen-
+tric understanding of defense AI with a prime focus on the hardware infrastructure
+needed to process data. By contrast, the US Defense Advanced Research Projects
+Agency (DARPA) advocates a more nuanced approach based on three waves of
+AI (Box 1), a differentiation that could be used to describe in detail what type of
+defense AI is needed to achieve what type of capability growth.45
+Box 1: Three Waves of AI According to DARPA
+“EarlyworkinAIemphasizedhandcraftedknowledge,andcomputerscientistsconstructed
+so-calledexpertsystemsthatcapturedthespecializedknowledgeofexpertsinrulesthatthe
+systemcouldthenapplytosituationsofinterest.Such“first wave” AI technologieswerequite
+successful–taxpreparationsoftwareisagoodexampleofanexpertsystem–buttheneedto
+handcraftrulesiscostlyandtime-consumingandthereforelimitstheapplicabilityofrules-
+basedAI.
+43 “Technologie(...)beiderMaschinenmithochentwickeltenAlgorithmenAufgabenübernehmen,fürderenBewältigungeine-
+wieauchimmergeartete-IntelligenznotwendigistunddiebishervorallemoderausschliesslichmenschlicherEntscheidungs-
+findungoderHandlungbedurfte.”Ibid.,p.6.
+44 Ibid.,pp.8–9.
+45 ThisnotionisalsogainingprominenceinNATOwiththemostrecentscienceandtechnologytrendsreportmakingexplicit
+referencetoit.See:Science&TechnologyTrends2023–2043.Volume2,pp.27–28.
+WWW.DEFENSEAI.EU 17
+
+Thepastfewyearshaveseenanexplosionofinterestinasub-fieldofAIdubbedmachinelearn-
+ingthatappliesstatisticalandprobabilisticmethodstolargedatasetstocreategeneralized
+representationsthatcanbeappliedtofuturesamples.Foremostamongtheseapproachesare
+deeplearning(artificial)neuralnetworksthatcanbetrainedtoperformavarietyofclassifica-
+tionandpredictiontaskswhenadequatehistoricaldataisavailable.Thereinliestherub,howev-
+er,asthetaskofcollecting,labelling,andvettingdataonwhichtotrainsuch“second wave” AI
+techniquesisprohibitivelycostlyandtime-consuming.
+DARPAenvisionsafutureinwhichmachinesaremorethanjusttoolsthatexecutehuman-pro-
+grammedrulesorgeneralizefromhuman-curateddatasets.Rather,themachinesDARPA
+envisionswillfunctionmoreascolleaguesthanastools.Towardsthisend,DARPAresearch
+anddevelopmentinhuman-machinesymbiosissetsagoaltopartnerwithmachines.Enabling
+computingsystemsinthismannerisofcriticalimportancebecausesensor,information,and
+communicationsystemsgeneratedataatratesbeyondwhichhumanscanassimilate,under-
+stand,andact.Incorporatingthesetechnologiesinmilitarysystemsthatcollaboratewithwarf-
+ighterswillfacilitatebetterdecisionsincomplex,time-critical,battlefieldenvironments;enable
+asharedunderstandingofmassive,incomplete,andcontradictoryinformation;andempower
+unmannedsystemstoperformcriticalmissionssafelyandwithhighdegreesofautonomy.DAR-
+PAisfocusingitsinvestmentsonathird wave of AIthatbringsforthmachinesthatunderstand
+andreasonincontext.”
+Source:
+Furthermore the document portrays a holistic defense AI approach that takes into
+account societal discourse and political preferences, defense capability needs
+and process improvements, multinational capability needs and interoperability,
+advances in defense digitalization, the capacities of the defense research and
+technology networks as well as civil and commercial progress in further developing
+the technology.46 The last aspect is of particular relevance as it pushes the MoD to
+the backseat of AI development:
+AI is not an explicit military capability, and the Bundeswehr is not the driver of
+AI-related innovation. Given its economic relevance, private companies shape
+technology developments. As a consequence, the future use of AI by the
+Bundeswehr is shaped largely by adapting civil and commercial developments
+and applications.47
+46 KünstlicheIntelligenz.NutzungimGeschäftsbereichdesBundesministeriumsderVerteidigung,pp.10–11.
+47 “KIistkeineexplizitemilitärischeFähigkeitunddieBundeswehristimBereichKInichtderTreiberderInnovation.Derwirtschaft-
+lichenBedeutungvonKIentsprechendsindhierPrivatunternehmenTreiberderTechnologieentwicklung.DerkünftigeEinsatzvon
+KIinderBundeswehrleitetsichdamitzueinemgrossenAnteilausderAdaptionvonzivilen/kommerziellenEntwicklungenund
+Anwendungenab.”See:KünstlicheIntelligenz.NutzungimGeschäftsbereichdesBundesministeriumsderVerteidigung,p.13.
+18 MASTER AND SERVANT
+
+Against this background the concept document mainly refers to gains in efficiency,
+effectiveness, and process improvements as the key imaginaries when describing
+the goals of using defense AI:
+AI will enable a new degree of network-enabled capabilities. In extreme cases,
+AI could revolutionize core aspects of the future use of force by improving the
+precision and accelerating the speed of the sensor to shooter chain. This could
+also provide additional options to reorganize the chain in more flexible ways,
+enhance new degrees of automation and data transmission and data man-
+agement. Finally, AI could also offer new ways of delivering precision effects
+in hybrid teams consisting of human operators and AI support. Thus, AI could
+become decisive in ensuring a military actor’s battlefield survivability.48
+While the document also discusses potential areas of applications of defense AI, it
+refrains from describing how exactly defense AI is expected to enhance the Bunde-
+swehr’s key capabilities and how AI-enhanced initial and full operational capabilities
+(IOC, FOC) would look like in practice. Rather the document argues that AI should
+be introduced with the help of broadly defined pilot projects that can quickly
+expose the Bundeswehr to defense AI,49 without specifying which capability areas
+should be used to achieve what kind of capability gain with the help of defense AI.
+Despite numerous initiatives, the big picture for German defense AI remains
+blurry. The strategic rationale underpinning defense AI is fuzzy, and it is unclear
+how defense AI will augment capability growth over the next decades. Conse-
+quently, current efforts seem to be “lost in detail” as there is a gap between
+high-level guidance and ongoing projects. This gap is meant to be closed by a
+new defense AI implementation strategy that the Armed Forces Digitalization
+Center is expected to submit by the end of 2023.50
+Service Thinking
+In this context Germany’s military services express different levels of ambition
+when it comes to using defense AI. Already back in 2017–18, the Germany Army
+published a series of concept notes outlining the future digital battlefield and
+the role of AI.51 In 2019, the Germany Army Concepts and Capability Develop-
+48 “MitKIkanninderZukunfteineuerGradvernetzterOperationsführungerreichtwerden.ImExtremfallkönnteKIsogar
+wesentlicheAspektekünftigerKriegsführungrevolutionieren,indembspw.DieFunktionskettevomSensorzumEffektorbzw.
+dasGefechtnochweitauspräzisereundschneller,aberauchweiträumigerundvariablergestaltetwerdenkann,neueGradeder
+AutomatisierungundDatenübertragungsowieVerarbeitungerreichtodervölligneueWirkkonzepteinMischformen(hybride
+TeamsausMenschundKI-Unterstützung)ermöglichtwerden.DamitkönnteKIentscheidendfürdieÜberlebensfähigkeitjedes
+AkteursaufdemGefechtsfeldderZukunftwerden.”See:Ibid.,p.17.
+49 Ibid.,p.15.
+50 Interview,6February2023.
+51 WiekämpfenLandstreitkräftekünftig?;DigitalisierungvonLandoperationen.
+WWW.DEFENSEAI.EU 19
+
+ment Office published a fully-fledged defense AI position paper. It argued that
+that defense AI would help render basic services more efficient, improve com-
+bat-ready capabilities, and overcome existing capability gaps.52 In so doing the
+paper reflects US and NATO discourse on the digital and accelerated battlefield
+(hyperwar), talks about operating at machine speed, taking decisions on the edge,
+and using AI to coordinate and synchronize a growing number of sensors and
+effectors.53 Moreover, the paper outlines four lines of efforts to use defense AI to
+further improve defense AI for human resources and material management, and
+enhance training and education.54
+The German Luftwaffe seems convinced that without AI today’s means of com-
+mand and control will be insufficient to operate air power within the next 15 years.
+The Luftwaffe expects defense AI to synchronize information for Recognized Air
+Pictures (RAP), optimize flight routes, mission planning and mission management,
+will coordinate target acquisition, and submit proposals on how to design and
+implement plans of attack. The German Luftwaffe is taking baby steps in using
+defense AI, but its thinking is highly aligned with the US Air Force vision of using
+AI to set up Advanced Battle Management Systems (ABMS) to enable to conduct
+of Joint All Domain Operations (JADO).55
+The German Navy, by contrast, lags behind. So far, defense AI has played only a
+subordinate role. The service considers itself as technology driven as the Luftwaffe,
+but dire savings plans have limited the Navy’s capability development priorities
+to what is absolutely needed to ensure its survival. In the past, this even led the
+Navy to divest leading technology applications from aboard its ships to save costs.
+The current Navy leadership attempts to lead a conceptual turnaround to provide
+more leeway to innovation and change also by establishing a respective innova-
+tion cell with the Navy leadership team (see section 4.2). In this context the Navy
+warms up to defense AI, which has gained traction as of last year. As more defense
+AI use cases become known, sailors seem to become more aware how defense AI
+could offer added value aboard their ships.56
+The Cyber and Information Domain Service has an instrumental understanding of
+defense AI that is directly related to its core tasks (see section 4.2). As this service
+plays a key role in providing common operational pictures (see section 3.1) it
+emphasizes the role of AI in providing analytical support and rendering digital pro-
+cesses more efficient and effective. As such AI is part of the so-called “Analytics
+52 KünstlicheIntelligenzindenLandstreitkräften,p.10.
+53 Ibid.,pp.5–7.Seealso:Brendecke/Doll/Kallfass,“DerFührungsprozessvonmorgen,”p.71.
+54 KünstlicheIntelligenzindenLandstreitkräften,p.12.
+55 AutorenteamLuftwaffe,“DerEinflusskünstlicherIntelligenzbeiFührungvonLuftoperationenderZukunft”,pp.65–68.
+56 Interviews,23February2023and14March2023.
+20 MASTER AND SERVANT
+
+and Simulation” cluster which combines different methods such as pattern recog-
+nition, decision support, machine learning, and simulation.57
+2.5 Ethics and Defense AI
+The German emphasis on applying military power only in a well-established,
+normatively underpinned, and rules-based framework is a direct consequence of
+its strategic culture discussed in section 2.1. It implies that ethics plays a formative
+role for developing and using defense AI and puts a focus on arms control to
+shape the use of AI and other emerging technologies, as the 2021 coalition treaty
+underlines.58 In addition, the MoD’s 2019 defense AI concept paper is unmistak-
+able when it posits that the MoD “can – on its own – neither lead nor shape the
+societal debate on AI as well as its risks and benefits, because the military use of
+AI constitutes only a small portion of a much broader topic.”59 Rather the MoD
+needs to engage in a multi-stakeholder process to shape the boarder public
+discourse on AI.
+In this regard, leading officers make it amply clear that – in their view – defense
+AI should always play a subordinate role to human decision-makers. This position,
+however, is almost always tied to the role of lethal autonomous weapon systems,
+leading to a somewhat precarious focus of defense AI on this very specific appli-
+cation.60 For example, Gen Dr. Ansgar Rieks, Deputy Chief of the Luftwaffe, states
+that “we don’t want automated command of warfare. (…) We don’t want autono-
+mous weapon systems we can no longer control.”61 RADM Christian Bock, Director
+Education (Ausbildung), at the German Command and Staff College, contends in
+a co-authored paper that “humans must remain in control of decision making as
+AI cannot replace human innovation, surprise, human values, personal experience,
+trust and emotions, and camaraderie.”62 Such statements serve to show that the
+Bundeswehr leadership holds a collective vision, stabilize institutional thinking63
+about defense AI, and publicly communicate the socio-technical imaginary that
+shapes Germany’s dealing with defense AI.
+57 “VonBigDatazuKI:ZweiteAusbaustufedesGemeinsamenLagezentrumsCIR;”Färber,“DigitalisierungderBundeswehr,”p.231.
+58 MehrFortschrittwagen,p.146.
+59 “DergesellschaftlicheDiskurszumGesamtthemaKIunddiemitderenAnwendungverbundenenChancenundRisikenkannnicht
+alleinedurchdasBMVggesteuertodergestaltetwerden,dadiemilitärischenAnwendungsbereichenureinenkleinenTeildesGesa-
+mtthemasdarstellen.”See:KünstlicheIntelligenz.NutzungimGeschäftsbereichdesBundesministeriumsderVerteidigung,p.10.
+60 “ThedebateonresponsibleAIinamilitarycontextshouldnothaveapredominantfocusonethicalissuesregarding(lethalautono-
+mousweaponsystems.”See:Meerveld/Lindelauf/Postma/Postma,“TheirresponsibilityofnotusingAIinthemilitary,”p.4.
+61 Ehlke,“InterviewmitGeneralleutnantDr.AnsgarRieks,”S.18
+62 “DerMenschmussalleindeshalbTeilderEntscheidungenbleiben,weilKIinkeinerPhasedenMenschenmitdessenInnova-
+tion,Überraschungsfähigkeit,Werten,persönlichenErfahrungen,VertrauenundEmotionalität,insbesonderederKameradschaft
+ersetzenkann.”See:Bock/Schmarsow,“GedankenzumEinsatzvonKIbeimmilitärischenFührenundEntscheiden”,p.154.
+63 Formoreontheroleofinstitutionalthinkingandtacitknowledgeinfacilitatingorpreventingmilitaryinnovation,see:Jensen/
+Whyte/Cuomo,InformationinWar,pp.35–36,40–46.
+WWW.DEFENSEAI.EU 21
+
+Germany’s strong focus on ethics in relation to technology also influences the
+narrative used to justify the use of defense AI. In response to our question about
+the strategic purpose of using defense AI, one interview partner argued that it’s
+all about “humanitarian precision.” Humanitarian precision, in turn, combines the
+reality of a post-heroic and risk-averse society with the need for speed on the
+battlefield. Humanitarian precision thus is a political currency as it provides the
+Bundeswehr legitimation in the eye of political decision-makers and thus makes
+the armed forces an accepted political instrument.64 “The sharp end of digitaliza-
+tion” is a similar rhetorical figure used by members of the Bundeswehr65 to de-
+scribe the added value of digitalization in advancing precision effects.
+However, demanding respect for ethical principles and normative guidelines in
+technology development is one thing, implementing adequate approaches to do
+so is a different thing. So far, the MoD’s guidance on implementing ethical guide-
+lines has remained vague, while in practice different initiatives emerge:
+At the international level the new ISO/IEC/IEEE 24787–7000:2022 standard
+defines a process for value-based engineering also applicable for defense.66
+Members of the NATO Data and Artificial Intelligence Review Board (DARB)
+sympathize with using this standard, which is also currently explored by the
+GhostPlay consortium (see section 3.1).67
+At the national level the German Association for Electrical, Electronic, and In-
+formation Technologies (VDE) has submitted a standard to ensure AI trustwor-
+thiness that shall lead to an AI Trust Label. The standard can be used across all
+industry sectors and is based on specifying values, measurable criteria, indica-
+tors, and observables.68
+At the corporate level companies work on project-specific solutions. One
+German example is the independent panel of experts on the responsible use
+of new technologies in the context of the Future Combat Air Systems (FCAS).69
+Among other things, this approach shall lead to creating a so-called FCAS
+Ethical AI Demonstrator envisaged to provide a scenario-based simulation
+environment which can illustrate ethical dilemmas and possible options in
+solving them.70
+64 Interview,22February2023.
+65 Interview,22February2023.Seealso:Rieks,“DigitalisierungderStreitkräfte,”p.104.
+66 Formoreonthestandard,see:
+67 Interview,7February2023.Seealso:Hofstetter/Verbovszky,HowAILearnstheBundeswehr’s“InnereFührung.”
+68 “KannKünstlicheIntelligenzwertekonformsein?”
+69 
+70 Koch,“ElementsofanEthicalAIDemonstratorforResponsiblyDesigningDefenceSystems.”
+22 MASTER AND SERVANT
+
+3 Developing
+Defense AI
+WWW.DEFENSEAI.EU 23
+
+The German MoD and the Bundeswehr have embarked on exploring the oppor-
+tunities of defense AI. Numerous projects have been kicked off, but it remains
+difficult to understand how individual projects will contribute to future capability
+growth. In addition, structural pacifism has led to a bifurcated national ecosystem
+favoring knowledge stovepipes rather than an integrated approach.
+3.1 Development Priorities and Projects
+At the time of writing this study, a national defense AI capability roadmap has not
+been publicly released. The MoD’s leading Directorates-General (see section 4.1)
+might have a clear understanding what ongoing defense AI development activities
+are meant to achieve but such a perspective has not been publicly communicat-
+ed. Therefore, Bundeswehr’s defense AI development priorities remain opaque.
+Consequently, this section provides our assessment of more than a dozen ongoing
+projects that have been selected to illustrate the diversity of current activities.71
+We structure these projects along the Bundeswehr’s capability value chain – with
+some projects crossing several capability areas – and highlight the primary domain
+on which the respective projects focus (Table 1).
+Command, Control, Computers, Communications, and Cyber (C4/C5)
+Generating new and supporting existing Common Operational Pictures (COP) with
+the help of AI is a major focus area. This priority extends previous activities started
+in the early 2000s when the strive for Network-Enabled Operations shaped Bun-
+deswehr transformation.72 As in the past, COPs are considered central to acting
+swiftly and precisely.73 AI is expected to deliver new functionalities with regard to
+assessing mass data, pattern recognition, and computing suggestions for cours-
+es of action.74 Defense AI in support of COPs is important because this area of
+application is considered inconspicuous and in line with the dominant socio-tech-
+nical imaginary thus giving the Bundeswehr freedom to explore AI’s strengths and
+shortfalls.75 COPs also constitute an ongoing capability gap,76 which will become
+even more important to close given the Bundeswehr’s growing emphasis on the
+need of being MDO capable.
+71 Werespectinformationclassificationlevelsandthusremaingenericindescribingtherelevantprojects.Wheneverpossible,we
+providereferencestopublicsourceforadditionalinformation.
+72 Borchert,“TheRockyRoadtoNetworkedandEffects-BasedExpeditionaryForces,”pp.83–107.
+73 OperativeLeitllinienfürdieStreitkräfte,para.271.
+74 KünstlicheIntelligenz.NutzungimGeschäftsbereichdesBundesministeriumsderVerteidigung,pp.17–18.
+75 Interview,28February2023.
+76 Interview,23February2023.
+24 MASTER AND SERVANT
+
+Table 1: Selected German Defense AI Development Projects
+Command, Control,
+Intelligence,
+Computers, Precision
+Surveillance, Support
+Communications, Effects
+Reconnaissance
+Cyber (C4/5)
+(Führung) (Aufklärung) (Wirkung) (Unterstützung)
+Commonoperational Militaryinternetof WildHornets: FCASfocuson
+pictures thingsfortactical AI-enhancedcapability navigation,cyber
+reconnaissance developmentforair- security,training,and
+Subseasituational (MITA) launchedeffects lifecyclecosts
+picture
+Automatedassess- Electromagnetic
+Spacesituational mentofsensordata resistanceof
+awareness unmannedsystems
+AIclassifierfor (ESAS)
+AirC2 hydroacoustic
+signatures MissionLab
+AirCombat
+ManagementSystem
+(ACMS)
+FCASsituational
+awareness
+AIforNextGenerationWeaponSystem(NGWS)
+ErzUntGlas:Glassbattlefield
+AuGe:Automatedterrainevaluationtosupport
+operationalplanning
+Ostflanke:WideAreaISR
+FCAS“killchain”andFutureCombatMissionSystem(FCMS)
+MainGroundCombatSystem(MGCS)
+GhostPlay:DigitaltwinofthefutureAI-drivenbattlefield
+Land Domain Naval Domain Air Domain Cyber Domain Others
+Source:Authors’compilation.
+WWW.DEFENSEAI.EU 25
+
+Although useful, the COP focus is also problematic. For one it is challenging to
+fuse management and military relevant data into overall pictures as the underlying
+data sets fall into different levels of classification. In addition, current operational
+picture applications are not yet seamlessly linked to the emerging crisis early
+warning system that the Bundeswehr is already using (see section 6).77 Finally, the
+focus on COP tends to reinforce a centralized and hierarchical understanding of
+command and data management which can render military decision-making brittle
+in view of adversarial attempts to own the electromagnetic domain.
+The Bundeswehr’s military services have specific COP needs. The Navy, for ex-
+ample, wants to create a subsea situational picture by fusing data from various
+military sensors with geoinformation and information about key offshore and
+subsurface infrastructure. AI is meant to be used for object recognition, modelling,
+and new modes of data visualization.78 Space Situational Awareness satisfies a
+similar need for a different domain with BWI and the Cyber Innovation Hub of the
+Bundeswehr (CIHBw) exploring the use of defense AI to forecast space weather
+and project orbital movements of objects to avoid space collisions.79
+The Luftwaffe launched a study to assess the role of AI in its command and control
+process. Project AirC2 evaluates the contribution of AI in increasing C2 efficiency
+and tempo and looks at the added value of AI in enhancing air C2 education and
+training. In addition, the Air Combat Management System (ACMS) project evalu-
+ates the use of AI to anticipate adversarial action, produce recognized air pictures,
+and recommend future courses of action.80
+Defense AI is also a major issue for the Future Combat Air System (FCAS) and the
+Next Generation Weapon System (NGWS). FCAS has identified a total of eight
+use cases for defense AI. Situational awareness strives to establish a common
+relevant operational picture with AI to “support orientation, decision making, and
+planning; either for a human operator using tactical displays or for automated
+functions directly assessing (…) digital data.”81
+Intelligence, Surveillance, and Reconnaissance (ISR)
+Using defense AI for tactical-level reconnaissance constitutes the core of project
+MITA.82 It focuses on wide area surveillance with the help of an AI-augmented
+sensor grid and automated data fusion. The goal is to produce a COP that illus-
+77 Interview,18March2022.
+78 Interview,23February2023.
+79 “WieKIbeiderVorhersagedesWeltraumwettershilft.”
+80 Interview,25March2022.
+81 Azzanoetal.,“TheresponsibleuseofAIinFCAS.”
+82 MITAstandsfor“MilitaryInternetofThingsfürtaktischeAufklärung”ormilitaryinternetofthingsfortacticalreconnaissance.
+26 MASTER AND SERVANT
+
+trates adversarial troop movements in 3D and identifies adversarial intruders in
+real-time. BWI and Helsing have been working on this project, which was demon-
+strated in a live experiment at the end of 2022.83
+Defense AI for ISR is also of interest for the Germany Navy. In cooperation with
+the University of the Bundeswehr/Hamburg, the Navy is developing AI-augmented
+solutions to assess sensor data and classify hydroacoustic signatures.84
+Precision Effects
+Wild Hornets uses and develops AI tactics for aggressors and defenders to evalu-
+ate existing concept ideas. To this purpose the project will develop tactics for air-
+launched effector swarms that target an adversarial high-value asset and test the
+feasibility of using air-launched effectors against next generation ground-based air
+defense solutions. Wild Hornets is a cooperation project that involves the Germa-
+ny Army Concepts and Capability Development office and team GhostPlay (see
+below).
+Support
+Several FCAS use cases look into the use of defense AI for supportive functions. AI
+shall enable complex guidance and flight control behavior to navigate unmanned
+platforms. Improving the detection of anomalies and adversarial activities shall
+improve cyber security and resilience. System operator training shall become AI
+augmented, and AI-based big data analytics could improve production, mainte-
+nance, and logistics thus reducing life cycle costs.85
+Within dtec.bw (see section 3.2), ESAS at the University of the Bundeswehr/
+Hamburg uses AI, simulation, and numerical modelling to advance existing test
+and validation methods to improve the electromagnetic resistance of unmanned
+systems.86 The MissionLab at the University of the Bundeswehr/Munich creates a
+center of competence to test mission technologies such as mission planning/man-
+agement systems, intelligent sensor systems or adaptive assistance systems with
+experimental simulation and flight trials thereby also using AI.87
+83 BWI,“GeneralinspekteurlässtsichKI-gestützteAufklärungvorführen.”
+84 PresentationattheUniversityoftheBundeswehr/Hamburg,15March2022;writtencommunication,22July2022.
+85 Azzanoetal.,“TheresponsibleuseofAIinFCAS.”
+86 ESASstandsfor“elektromagnetischeStörfestigkeitautonomerSysteme.”Formore,see:
+hsu/projekt-esas/projekt-esas(lastaccessed27March2023).
+87 Formore,see:
+2023).
+WWW.DEFENSEAI.EU 27
+
+Cross-Functional Projects
+Defense AI can improve situational awareness and situational understanding by
+improving the C2-ISR link. This, for example, is a key national R&T priority for
+NGWS with a focus on sensor data fusion, sensor resource management, and the
+integration of both elements. This project also explores options for a so-called
+AI Backbone that would provide a “single set of algorithms” to support different
+tasks and establish an open and unitary framework to facilitate the comprehensive
+use of defense AI. Different companies are involved with Helsing, Schönhofer
+Sales and Engineering, and IBM leading the AI Backbone workstream.88
+In addition, ErzUntGlas89 explored options how to improve and accelerate inter-
+actions between existing land systems with unmanned aerial systems (UAS) and
+AI. Several UAS were used as sensor carriers to produce a recognized operational
+picture that was integrated into the Army’s C2 system via SitaWare Frontline. The
+project ran from 2019 to 2021 and was meant to support the German-Franco
+Main Ground Combat System (MGCS). The procurement office BAAINBw worked
+in tandem with Atos, Krauss-Maffei Wegmann, RAFAEL and Aeronautics.90 With
+a similar goal AuGe91 looks at the role of AI in automatically assessing and incor-
+porating terrain specifics into operational planning with the aim of using terrain
+features for tactical advantages.92
+Different initiatives focus on the role of defense AI in the so-called “kill chain.”93
+Eastern Flank, for example, is a follow-on project to MITA funded by the new
+Sondervermögen. It combines the use of defense AI for modular effector systems
+with a UAS-based surveillance system. Automating the handover of targeting data
+to different effectors is one of the capabilities to be developed.94 Developing a
+more effective “kill chain” also constitutes a core element of FCAS and the Future
+Combat Mission System (FCMS). AI is expected to support the detection and
+identification of potential targets, improve threat analysis and weapon aiming and
+facilitate a platform-agnostic sensor-to-shooter management.95 The same is true
+for MGCS, which is to build a federated multi-asset approach to deliver future land
+power. AI is expected to contribute to situational awareness, manned-unmanned
+teaming, multi-sensor data fusion, and sensor-effector resource management.96
+88 Interview,2March2023.
+89 ErzUntGlasstandsfor“ErzeugungeinesgläsernenGefechtsfeldszurUnterstützungdynamischerOperationen”orproducinga
+“glassbattlefield”tosupportdynamicoperations.
+90 Wiegold,“Studiefürs‘gläserneGefechtsfeld’DrohnenundKI”;“Live-DemonstrationAufklärungim‘GläsernenGefechtsfeld’.”
+91 AuGestandsfor“AutomatisierteGeländebeurteilungimmilitärischenFührungsprozesszurBeschleunigungderEntscheidungs-
+findung”orautomatedterrainevaluationaspartofthemilitarycommandprocesstoacceleratedecision-making.
+92 Interview,14November2022.
+93 The“killchain”isapopularmilitarytermtodescribethelinkbetweenC4/C5,ISRandprecisioneffects.
+94 Interview,14November2022.
+95 Azzanoetal.,“TheresponsibleuseofAIinFCAS;”
+96 Dean,“MainGroundCombatSystem(MGCS):AStatusReport.”
+28 MASTER AND SERVANT
+
+GhostPlay is also cross-functional but has a different focus. This project leverages
+defense AI to develop tactics. It develops defense decision algorithms (Play) for
+defender and aggressor tactics thereby using a powerful simulation environment
+(Ghost). GhostPlay’s original focus envisions a Suppression of Enemy Air Defense
+(SEAD) scenario with swarms of unmanned aerial systems targeting a high value
+asset protected by ground-based air defense. Both sides use AI developed tactics
+to outsmart each other. The “ability to learn tactical behavior in cooperation with
+other machines and/or humans” constitutes the projects’ AI research focus.97
+GhostPlay is part of dtec.bw with the University of the Bundeswehr/Hamburg as
+the lead and a consortium including Hensoldt, 21strategies, and Borchert Consult-
+ing & Research.
+3.2 Germany’s Defense AI Ecosystem
+The 2020 capstone document of the German government on supporting the
+security and defense industry has identified AI as a national key technology.98 The
+problem, however, is that the implications of this categorization are unclear. In ad-
+dition, Germany’s techno-industrial ecosystem is bifurcated, with defense-relevant
+actors being mostly segregated from the remaining ecosystem. Germany’s key
+policy documents reflect this spilt and maintain an artificial separation between
+the civilian and military domain even in areas of application with obvious dual
+use potential.99 Therefore the German Bundeswehr has access to only a limited
+spectrum of the country’s techno-economic power. Overall, the defense AI eco-
+system, as a sub element of the national ecosystem, rests on four building blocks
+(see Table 2 on next page).
+Bundeswehr
+The Bundeswehr constitutes the ultimate end user, whose requirements shape
+defense products. Seamless exchange with the remaining partners of the defense
+AI ecosystem would be needed to optimally synchronize each partner’s activities.
+This, however, is undercut by civil-military dichotomy that maintains knowledge
+and technology stovepipes that are challenging to penetrate.
+As we discuss in more detail in section 4, the Bundeswehr has established new
+entities to advance defense digitalization, such as the so-called Systems Centers
+97 Borchert/Brandlhuber/Brandstetter/Schaal,FreeJazzontheBattlefield,p.11.
+98 StrategiepapierderBundesregierungzurStärkungderSicherheits-undVerteidigungsindustrie,p.3.
+99 Borchert/Schütz/Verboszky,“UnchainMyHeart,”pp.433,437–438,447;Hagebölling/Barker,Ethikundeinsatzfähig,p.6;
+WWW.DEFENSEAI.EU 29
+
+Table 2: Selected Actors in Germany’s Defense AI Ecosystem
+Bundeswehr Research and Defense IT and
+Technology Industrial Players Consulting
+Organizations Companies
+Army Fraunhofer Seg- Established Players • Accenture
+• Testandexperi- ment for Defense • Airbus • Atos
+mentationunits and Security (VVS) • AtlasElektronik • CapGemini
+• SystemsCenterfor • Diehl • Conet
+German Aerospace
+DigitalizationLand • ESG • IBM
+Center
+Domain • Hensoldt • MSGPlaut
+Bundeswehr • IABG • PwC
+Navy
+Universities in • KMW • SAP
+Luftwaffe Hamburg and • MBDA
+Munich • Plath
+Cyber and Information
+• Rheinmetall
+Service (CIR) dtec.bw
+Defense
+• Centerfor
+• Rhode&Schwarz
+Digitalization
+• SchönhoferSales
+Joint Support Service andEngineering
+(Streitkräftebasis) • tkMS
+Medical Command New Players
+(Sanitätsdienst der • 21strategies
+Bundeswehr) • AlephAlpha
+• DataMachine
+BWI
+Intelligence
+• Cyberand
+Solutions
+InnovationHub
+• HAT.tec
+(CIHBw)
+• Helsing
+• Traversals
+Source:Authors’compilation.
+30 MASTER AND SERVANT
+
+(Systemzentren) for single services. Some service-specific institutions also have a
+cross-functional task, such as the Center for Digitalization of the Bundeswehr. This
+center is key to develop Germany’s CIR capabilities, provides software develop-
+ment and IT integration capabilities for the Bundeswehr, and is in charge of de-
+veloping the Bundeswehr’s capabilities for military intelligence, electronic warfare,
+and geoinformation.100
+Moreover, the Cyber Innovation Hub of the Bundeswehr serves as a transmission
+mechanism to accelerate digital solutions that originate from within the Bunde-
+swehr and to spin-in outside digital innovation.101 BWI is the Bundeswehr’s own
+system house that supports digitalization in the fields of infrastructure provision,
+application development, and strategic advice.102 Finally, the German Army
+also uses its test and experimentation unit as a testbed for rapid technology
+insertion and experimentation as well as synchronized concept and technology
+development.103
+Research and Technology Organizations (RTO)
+RTO constitute the second pillar of the defense AI ecosystem. Here bifurcation be-
+comes most obvious. More than 70 universities and universities of applied scienc-
+es adhere the voluntary civil clause that prevents them “from engaging in defense
+research and cooperating with the defense industry.”104 This also means that the
+Bundeswehr will not directly benefit from the German government’s decision to
+set up six centers of competence on AI105 and “providing funding for the estab-
+lishment of 100 new professorships in AI at German universities.”106 Furthermore,
+the German Research Center for AI (DFKI), which has been pioneering AI research
+since the late 1980s, does not engage in defense either.107
+To some extent the Bundeswehr can close the gap by relying on research and
+technology conducted at its universities in Hamburg and Munich. Activities at
+these two locations have received a boost thanks to a €500M budget to set up the
+Digitalization and Technology Research Center (dtec.bw) that is meant to advance
+defense digitalization.108 Beyond dtec.bw, the lion’s share of Germany’s defense
+100 Formore,see:
+zentrum-digitalisierung-der-bundeswehr(lastaccessed27March2023).
+101 Formore,see:
+102 Formore,see:
+103 “Test-undVersuchskräfteinMunsteraufgestellt.”
+104 Borchert/Schütz/Verbovszky,“UnchainMyHeart”,p.437.
+105 Formore,see:
+che-intelligenz_node.html(lastaccessed27March2023).
+106 ArtificialIntelligenceStrategyoftheGermanFederalGovernment.2020Update,p.10.
+107 Formore,see:
+108 Formore,see:
+WWW.DEFENSEAI.EU 31
+
+research falls on the Fraunhofer Society and the German Aerospace Center.109 The
+so-called Fraunhofer Segment for Defense and Security combines the dedicated
+know how of twelve RTO with expertise in radar techniques, communication and
+information processing, high-speed dynamics, optronics, and applied optics to
+name but a few areas of core expertise.110 The German Aerospace Center mirrors
+some of these areas of expertise and contributes additional capacities in the fields
+of AI safety and security as well as well as in-depth aerospace research activities.111
+Defense Industrial Players: Old and New
+The defense industry forms the third pillar of the defense AI ecosystem. Most of
+Germany’s key defense companies are involved in developing or adopting AI for
+defense purposes in one way or another. More recently, several new players with
+a dedicated focus on AI and defense AI have entered the market. Some of them
+originate from the commercial world and join forces with incumbent defense
+players:
+21strategies specializes in developing large scale multi-agent reinforcement
+learning to compute optimal decision-making strategies under uncertainty in
+the context of national security, capital markets, and supply chains. The com-
+pany originates from the finance industry and has been deploying its technolo-
+gy in trading and risk hedging. 21strategies works on GhostPlay, Wild Hornets,
+FCAS, and NGWS. Hensoldt cooperates with 21strategies.112
+Aleph Alpha is working on large language models and develops generative
+AI solutions to support public and private sector applications. Among others,
+Aleph Alpha is working on defense AI solutions for FCAS.113
+Data Machine Intelligence Solutions develops data modeling and visualization
+solutions, inter alia, with a focus on solutions for mission planning and man-
+agement as well as simulation technologies. Data Machine Intelligence Solu-
+tions also contributes to FCAS’s defense AI work stream.114
+HAT.tec focuses on developing technologies in support of human-autonomy
+teaming, with a focus on automated reasoning, planning and decision-making.
+HAT.tec also works on defense AI solutions for FCAS.115
+Helsing develops AI for real-time information processing and turning unstruc-
+tured sensor data into common operational pictures. The company is head-
+109 TogetherwithFrance,GermanyalsomaintainstheGerman-FrancoResearchInstituteSaint-Louiswithafocusonenergetic
+andadvancedprotectivematerials,flighttechniquesforprojectiles,lasertechnologiesaswellasprotectiontechnologies,
+security,andsituationalawareness.Formoreonthisinstitute,see:
+2023).
+110 Formore,see:
+111 Formore,see:
+112 Formore,see:
+113 Formore,see:
+114 Formore,see:
+115 Formore,see:
+32 MASTER AND SERVANT
+
+quartered in Germany with subsidiaries in France and the United Kingdom.
+Helsing works on defense AI for FCAS, NGWS and MITA. Helsing cooperates
+with Rheinmetall Defense Electronics, Saab, and MBDA.116
+Traversals uses AI for open-source intelligence to analyze and assess global
+events, identify potential threats, and assessing multilingual information.
+Traversals AI Dynamic Frontline Monitoring, for example, uses AI-enhanced
+technologies to provide a 24/7 near-real time operational picture of the
+Ukrainian-Russian front line.117
+Overall, a recent market survey by the Ministry for Economic Affairs and Climate
+Action suggests that more than 6,600 AI startups employing 149,000 people have
+been established in Germany since 1995.118 As of this total around 400 AI compa-
+nies are members of the German AI Association. So far, however, this association
+also adheres to the civil clause restricting cooperation with the MoD and the
+Bundeswehr. But rumors have it that compliance with the voluntary self-binding
+rule is about to expire soon.119
+IT and Consulting Companies
+IT and consulting companies form the final fourth pillar of the German defense AI
+ecosystems. These companies are instrumental in supporting concept develop-
+ment, providing hardware infrastructure and computer processing capacities as
+well as assisting the synchronization of digitalization and organizational change.
+116 Formore,see:
+117 Formore,see:
+118 Accordingtothesurveyaround58%ofallstartupsworkonsoftwareandITservicesfollowedbyconsulting,advertisingand
+financialservices(approximately19%)andengineeringandresearchanddevelopmentservices(around7%).See:KI-Startups
+inDeutschland,pp.6,12.
+119 Interview,14February2023.
+WWW.DEFENSEAI.EU 33
+
+4 Organizing
+Defense AI
+34 MASTER AND SERVANT
+
+The Bundeswehr is in its early days to adjust its organizational fitness to future de-
+fense AI requirements. The 2019 capstone document acknowledges that a strong
+Bundeswehr-common approach with joint responsibility for capability develop-
+ment is needed to counter the risks of duplication, parallel structures, crowd-
+ing-out effects, and fragmentation.120 So far, however, tensions exist between top
+down-driven and decentralized service-specific approaches.
+4.1 Joint Approaches
+At the ministerial level there are two sources of power advancing defense AI. On
+the one hand, defense AI is part of the Bundeswehr’s digitalization approach with
+the Directorate-General for Cyber/IT shaping the respective agenda. CIT I 2, in
+particular, is responsible for research and technology as well as innovation man-
+agement related to Cyber/IT, while CIT II 8 is responsible for the Bundeswehr’s
+IT systems as well as analysis and simulation. In 2019 the German MoD has also
+established a Digital Council (Digitalrat), which advises the Minister of Defense
+and provides impulses to advance defense digitalization.121 On the other hand, the
+Directorate-General for Planning implements the Bundeswehr’s integrated plan-
+ning. In this regard defense AI is part of the toolbox needed for the Bundeswehr’s
+future development. Therefore, Plg I 2 plays a key role with the leading desk
+officer for defense AI who also chairs the Bundeswehr’s defense AI community, a
+semi-formalized network set up to advance information sharing related to defense
+AI activities.
+Tensions arise from the fact the Bundeswehr’s military services follow different
+digital levels of ambition and enjoy great leeway in implementing their respective
+digital agendas while the Directorate-General for Cyber/IT shapes the broad
+guidelines and the idea of a Bundeswehr-common AI backbone (see section
+3.1). This creates a “wait and see” atmosphere as the services need to strike a
+balance between following through on their own agendas and supporting a joint
+agenda, which might come at the cost of sacrificing service-specific resources for
+joint tasks. A cluster approach that respects joint and service-specific interests
+could work, observers say, but very much depends on the willingness of the actors
+involved and the availability of extra resources. This situation creates a vacuum,
+which nurtures the rise of “local kingdoms,” that strive to advance activities within
+their own areas of responsibility with insufficient levels of information exchange
+and coordination across the services.122
+120 KünstlicheIntelligenz.NutzungimGeschäftsbereichdesBundesministeriumsderVerteidigung,p.20.
+121 ErsterBerichtzurDigitalenTransformationdesGeschäftsbereichsdesBundesministeriumsderVerteidigung,p.16.
+122 Interviews,25March2022and14March2023.
+WWW.DEFENSEAI.EU 35
+
+In this context tensions are likely to be reinforced by the ambition to set up a
+Bundeswehr Multi Domain Combat Cloud (MDCC) as a key digital instrument to
+enable Bundeswehr MDO (see section 2.2).123 In essence, cloud-based approaches
+are considered key to synchronize service specific operational pictures.124 As such
+the MDCC will emerge in parallel with domain specific cloud concepts for future
+airpower (FCAS) and land power (MGCS) solutions. In addition, the FCAS combat
+cloud is likely to compete with the F-35 cloud concept that will be relevant for the
+Bundeswehr given its recent decision to procure the US fighter jet. So far, it is un-
+clear how all these cloud concepts will be aligned and how the duality of national
+and multinational cloud approaches will affect cloud-based defense AI services.
+4.2 Single Service Approaches
+Against this background, the Bundeswehr services operate at different levels to
+bring organizations in line with defense AI requirements.
+Army
+The Army’s program on digitalizing land-based operations (D-LBO) is the service’s
+capstone program to create a whole-of-service digital federation for future op-
+erations.125 Within this context, the Army’s 2019 AI concept paper offers a vision
+to set up an AI steering group with the Army Command that would oversee the
+work of the so-called Army AI Work Bench at the Army Concepts and Capabilities
+Development Office. This work bench is meant to serve as the overall coordina-
+tion mechanism for all Army AI activities and liaise with industry and academia. In
+addition, the Army would create a development center mainly focusing on training
+defense algorithms and developing key data models as well as an AI data center
+that would take care of Army data, provide data expertise and data scientists.126
+Elements of this vision will be realized with the Army’s forthcoming Systems Center
+for Digitalization (Systemzentrum Digitalisierung Dimension Land). It combines
+elements of a data center with software development, tests as well as validation
+and verification. The center is going to be the powerhouse for all things digital
+of the Army and is thus also likely to play an important defense industrial role by
+strengthening digital sovereignty with defense software developed in Germany.127
+123 Färber/Bibow,“DieMultiDomainCombatCloudfürdievernetzteOperationsführung,”pp.55–58.
+124 Interview,22February2023.
+125 Forageneraloverview,see:
+accessed27March2023).
+126 KünstlicheIntelligenzindenLandstreitkräften,p.14–15,19–20.
+127 Interview,22February2023.Formoreonthecenter,see:SystemzentrumDigitalisierungDimensonLand,para.301–315.
+36 MASTER AND SERVANT
+
+Luftwaffe
+The German Luftwaffe is exploring the impact of defense AI on future air power.
+So far, the service has taken organizational baby steps with one desk officer in the
+Luftwaffe Command being in charge of the subject matter. The Luftwaffe also con-
+siders defense AI as part of its broader digitalization agenda and as an important
+enabler to advance air power innovation. Tensions exist here as well as the service
+has two responsible officers for digitalization (Deputy Air Chief) and innovation
+(desk officer, LTC level). Both have pledged to inform each other but given “split”
+responsibilities true leadership on defense AI remains yet to be developed.128
+Navy
+The new Chief of the Navy puts great emphasis on naval innovation. He has cre-
+ated the position of a Commissioner for Innovation, Digitalization, Empowerment,
+and Agility (ID:EA)129 at the Naval Command. This new position is to bridge the
+digitalization/innovation divide and push both agendas. Defense AI is part of the
+ID:EA tasks and will benefit from a vast network of naval reservists that is to be ex-
+panded. Overall, the current focus is on breaking up existing structures by creating
+opportunities for new digital naval projects outside existing planning processes
+that are considered too cumbersome to deal with.130
+Cyber and Information Domain Service
+The Cyber and Information Domain Service, established in 2017, operates and
+protects the Bundeswehr’s IT infrastructure, is engaged in electronic warfare, pro-
+vides satellite-based imagery reconnaissance data, and operates the Bundeswehr
+Geoinformation Center.131 Its Center for Bundeswehr Digitalization and Cyber
+and Information Service Capability Development (Zentrum Digitalisierung Bunde-
+swehr und Fähigkeitsentwicklung Cyber- und Informationsraum) pools software
+analysis and software development expertise.132 With regard to defense AI, the
+Electronic Warfare Battalion 912, for example, plays an important role as its own
+AI laboratory is exploring the use of AI to calculate flight paths or analyze radio
+communications.133
+128 Interview,25March2022.
+129 TheNavyChiefannouncedhisintentiontocreatethispositioninApril2022.Formore,see:InspekteurderMarine–Absicht
+2022,p.5.
+130 Interviews,23February2023and14March2023.
+131 Formore,see:
+March2023).
+132 Fleischmann,“DasZentrumDigitalisierungderBundeswehrundFähigkeitsentwicklungCyber-undInformationsraum,”p.36.
+133 Formore,see:
+tive-lern-und-entwicklungsumgebung-5514392(lastaccessed27March2023).
+WWW.DEFENSEAI.EU 37
+
+5 Funding
+Defense AI
+38 MASTER AND SERVANT
+
+Most recently, the 2020 decision to spend €500M on setting up the dtec.bw and
+the 2022 decision on the new €100bn special fund (Sondervermögen)134 have
+increased the Bundeswehr’s financial leeway to some extent. But how much the
+Bundeswehr135 spends on defense AI is difficult to gauge, as defense R&T projects
+are integrated into ongoing and future procurement programs with overall pro-
+gram costs not disclosing individual R&T amounts. Thus, we suggest three levels
+of analysis to get a basic understanding of current funding priorities:
+Digital infrastructure
+Investments in the Bundeswehr’s digital infrastructure are essential to imple-
+ment the digitalization ambition discussed above. Consequently, roughly
+20% of the special fund are about to be spent on this focus area.136 The 2023
+Sondervermögen budget plan further specifies that €8.5bn have been ear-
+marked for D-LBO, almost €4.5 for satellite-based communications, €3.5bn for
+equipment, and €2.6bn for the German Mission Network.137
+Defense research and technology
+Germany’s 2023 budget law has earmarked around €330M on defense re-
+search and technology. The fact that this budget line has been cut by almost
+€200M compared to 2022 has created controversies and push back from
+leading RTO and defense industrial associations. In addition, the budget
+foresees approximately €515M on defense development and experimenta-
+tion, which includes key weapons developments projects. Furthermore, the
+MoD can spend around €40M on methods such as Concept Development &
+Experimentation, modeling and simulation and innovation competitions, and
+around €25M on disruptive innovation in cybersecurity and key technologies.
+In addition, the defense budget also supports key research and technology
+organizations like the German-Franco Research Institute St. Louis (€24M), the
+German Aerospace Center (€50M), and the Fraunhofer Society (€90M).138
+Defense AI
+Specific figures for defense AI spending are even harder to come by. Two
+sources provide rough indications. The Sondervermögen law earmarks a total
+of €422M for research, development and AI, with AI focusing on surveying and
+134 Thefive-yeardurationhasbeendefinedbythespeciallawontheSondervermögen.See:§1GesetzzurFinanzierungder
+BundeswehrundzurErrichtungeines“SondervermögensBundeswehr”undzurÄnderungderBundeshaushaltsordnung.
+135 Bycontrast,theGermangovernmenthaspledgedtospend€5bnuntil2025toimplementthenationalAIstrategy.See:https://
+
+html(lastaccessed27March2023).
+136 GesetzzurFinanzierungderBundeswehrundzurErrichtungeines“SondervermögensBundeswehr”undzurÄnderungder
+Bundeshaushaltsordnung,p.1034.
+137 GesetzüberdieFeststellungdesBundeshaushaltsplansfürdasHaushaltsjahr2023,Einzelplan14,pp.69–70.
+138 Ibid.,pp.45,48–49.
+WWW.DEFENSEAI.EU 39
+
+safeguarding wide areas (Eastern Flank).139 The 2023 Sondervermögen budget
+law breaks this focus area down to a €16M increment without further specify-
+ing the AI amount.140 We speculate that the respective amount is in the lower
+single-digit range. In addition, several dtec.bw projects focus on developing
+defense AI. Taken together, the total four-year budget of three AI projects141
+at the University of the Bundeswehr/Hamburg is about €20–30M, or €5–7.5M
+per year. The MissionLab at the University of the Bundeswehr/Munich operates
+on a total budget worth around €20M, or around €5M per year. In addition,
+we speculate that the German MoD spends a lower two-digit million amount
+per year on developing AI for NGWS. Considering these figures and adding
+a calculated reserve for projects unknown at the time of writing, we assume
+that the MoD currently spends around €50M per year on defense AI software
+development.142
+139 GesetzzurFinanzierungderBundeswehrundzurErrichtungeines“SondervermögensBundeswehr”undzurÄnderungder
+Bundeshaushaltsordnung,p.1033.
+140 TherespectivebudgetlineincludesspendingondefenseAIaswellaslandandsea-basednavigationandmobilenavigation
+inaNavigationWarfare(NAVWAR)environment.
+141 ThisincludesprojectsGhostPlayandESASdiscussedinsection3.1andthe(K)ISSprojectthatdevelopsAI-baseddiagnosis
+solutionsfortheInternationalSpaceStation.
+142 Thisisaroughestimateasmostfiguresarenotpubliclyavailable.
+40 MASTER AND SERVANT
+
+6 Fielding and
+Operating
+Defense AI
+WWW.DEFENSEAI.EU 41
+
+Explicit defense AI features and requirements have been defined for major future
+defense systems, but they remain to be developed. In-service defense systems use
+AI applications but a clear delineation between software-enabled analytics and
+automation and proper AI is difficult to draw. Consequently, the true status of the
+Bundeswehr’s fielding and operating of defense AI is difficult to grasp. Overall, the
+following overview of selected projects is in line with the development priorities
+discussed in section 3.1.
+Command, Control, Computers, Communications, and Cyber (C4/C5)
+The German MoD’s crisis early warning system is one of the most prominent
+defense AI use cases. The application currently in use with the Directorate-General
+for Strategy and Operations constitutes the MoD’s contribution to the federal
+government’s activities on crisis early warning. The Metis institute for strategy and
+foresight143 at the University of the Bundeswehr/Munich supports the respective
+activities with analyses and research on AI for early warning.
+The so-called Preview system analyses open-source intelligence (OSINT) for early
+warning. AI is providing data analytics and predictive analysis. Preview currently
+uses more than 60 indicators for early warning. The system is transparent, i.e.,
+users can zoom in on each indicator’s quantitative assessment, track assessment
+changes over time, and provides access to the sources that underpin assessment
+results. Preview is a multi-language solution that also offers back casts to validate
+the feasibility of current assessments with a database reaching back to 2015.
+As Preview is an OSINT solution, classified and open date are not yet fused. In
+addition, a link between crisis early warning and the Bundeswehr’s activities on
+establishing common operational pictures has yet to be established.144
+Intelligence, Surveillance, and Reconnaissance (ISR)
+In early 2022, the Bundeswehr decided to equip all NH90 helicopters with a new
+protection suite that also includes AI-based components. The Hensoldt solution
+is using the company’s Kalaetron Radar Warning Receiver, which uses AI for big
+data analysis to quickly detect new threat patterns and with a very low false alarm
+rate.145
+Since 2018, BWI has been experimenting with the use of AI in combination with
+radar technology already in use on construction sites to see through walls. An
+intelligent algorithm shall detect humans as individuals or groups and identify the
+143 
+144 Interviews,18and21March2022.Formore,see:Schurad,“MitkünstlicherIntelligenzderZukunftaufderSpur,”pp.10–12.
+145 “HensoldtpräsentiertRadarwarneraufKI-Basis;”“HensoldtequipsBundeswehrNH90helicopterwithstate-of-the-artprotec-
+tionsystems.”
+42 MASTER AND SERVANT
+
+current state of motion (walking, standing, or sitting). The feasibility of this applica-
+tion has been demonstrated, but a decision about the final use by the Bundeswehr
+is pending.146
+Precision Effects
+The IRIS-T air-to-air missiles developed by Diehl and in use with the Luftwaffe
+is using intelligent image processing to detect and defeat adversarial infrared
+decoys when engaging a target.147 We assume that the same technology would
+be used for the Interactive Defence and Attack system for Submarines (IDAS), a
+technology project with thyssenkrupp Marine Systems, that was withdrawn from
+the Sondervermögen funding list after the Federal Audit Office criticized spending
+priorities.148 Its funding now depends on the availability of money from the regular
+defense budget.
+Similar technologies are also likely to underpin the Rolling Airframe Missile (RAM),
+that the German Navy is using to protect frigates and class K130 corvettes.149
+Originally developed by Raytheon in cooperation with Diehl and MBDA Germany,
+the missile uses “a new image-scanning seeker with autonomous (infrared) all-the-
+way guidance” and “requires no shipboard support after launch.”150
+Support
+Different defense AI use cases fall into the support category. The Bundeswehr’s
+Joint Support Service, for example, has been experimenting with the use of AI for
+an early warning system to support national crisis management. It has also been
+using AI applications to support warehouse functions.151 The Medical Command
+uses civilian AI applications for decision support of doctors in the fields of analyt-
+ics, diagnostics, and individual therapies.152 In addition, BWI has been developing
+BundesWEAR, an app with AI features that offers individual measurements, sug-
+gests the best fitting clothing size, and offers online orders for home or barracks
+deliveries. The Bundeswehr is evaluating the app for future use.153
+146 Ilg,“Militär-Projekt:MitkünstlicherIntelligenzdurchWändeschauen.”
+147 Penney,“Short-rangesquareoff.”
+148 Inparticular,theFederalAuditOfficewarnedofoverspendingandarguedthatdevelopmentandprocurementtasksshouldnot
+bemixed.Formore,see:Wiegold,“NachRechnungshof-Kritik:WenigerProjekteimBundeswehr-Sondervermögen;”https://
+
+March2023).
+149 “DeutscheMarine:Vertragfür600RAMBlock2Bunterzeichnet;”
+swehr/seesysteme-bundeswehr/korvette-k130(lastaccessed27March2023).
+150 “SeaRAMAnti-ShipMissileDefenceSystem;”
+accessed27March2023).
+151 “HeimatschutzdurchkünstlicheIntelligenz;”“BWIentwickeltinnovativeKI-LösungenfürdieBundeswehr.”
+152 KünstlicheIntelligenzimGeschäftsbereichderBundesregierung,p.11.
+153 “BWIentwickeltinnovativeKI-LösungenfürdieBundeswehr.”
+WWW.DEFENSEAI.EU 43
+
+7 Training for
+Defense AI
+44 MASTER AND SERVANT
+
+“Train as you fight” is a well-established mantra among armed forces. But if you
+don’t know how AI will fight, it is hard to train for it. Furthermore, reconciling
+yet unknown AI tactics with Germany’s Cold War legacy negative contingency
+“Train to fight so you don’t have to” will be an additional challenge specific to the
+Bundeswehr.
+The consequences of defense AI for training are manifold. Armed forces need to
+address the dynamics that AI-enhanced training systems can generate. They also
+need to understand to what extent defense AI is improving existing technologies
+and capabilities that can expand adversarial and allied leeway. In addition, defense
+AI can produce new – also non-conventional – battlefield behavior that needs to
+be incorporated by way of training. Defense AI also adds an additional layer of
+complexity in terms of trust and confidence to underpin successful cooperation.
+This is not only relevant for so-called manned-unmanned teaming in a traditional
+“master and servant” context with the unmanned partner following human guid-
+ance. It becomes even more important in a future environment in which context
+and consequence aware reasoning systems operate autonomously (see Box 1).
+Right now, the Bundeswehr is in the very early stage of exploring these oppor-
+tunities and addressing the respective consequences. The MoD’s 2019 capstone
+document on defense AI leaves no doubt that the Bundeswehr needs to put more
+emphasis on teaching MINT154 courses and apply the respective skills as qualifica-
+tion criteria for recruiting. The document is also cognizant of the fact that the use
+of defense AI will lead to greater differentiation among individual career paths
+and reinforce the need to offer specialist career tracks to attract talent. Among
+other areas of expertise, future members of the Bundeswehr will need broad and
+specialized AI expertise, software development know-how, improved MINT knowl-
+edge, and interdisciplinary know-how to develop solutions for human-machine
+interaction, the document contends.155
+At the joint level the Bundeswehr Command and Staff College (Führungsakade-
+mie) is in the process of adapting its curriculum. In view of updating and adapting
+the curriculum in autumn 2024, stocktaking is currently underway to define the
+future role defense AI is going to play – both as an instrument for training and
+education and as a subject that future officers need to understand. As of , the College will establish and launch a digital open space learning environ-
+ment. The modular set up could also be used to create interfaces for integrating
+wargaming, serious gaming, and AI-enhanced training solutions.156
+154 MINTstandsformathematics,informatics,naturalscience,andtechnology.
+155 KünstlicheIntelligenz.NutzungimGeschäftsbereichdesBundesministeriumsderVerteidigung,p.21–22.
+156 Interviews,22February2023.
+WWW.DEFENSEAI.EU 45
+
+In parallel, the University of the Bundeswehr/Hamburg is working on a new AI
+bachelor’s and master’s degree course. The program aims at teaching technical
+basics in the fields of mathematics and informatics as well as adjacent technology
+areas such as sensors, acoustics, or information technology. In addition, the new
+program would also embed defense-relevant AI in the broader societal context
+with building blocks focusing on law, ethics, sociology, and political science.157
+Against this background, different service-level activities are under way, too:
+The Army’s 2019 concept paper put a focus on the role of defense AI in live
+and constructive training simulations and AI-augmented learning analyt-
+ics.158 Consequently, the Army is exploring options to develop an AI-based
+learning management system that uses data analytics to track individual
+learning progress and adjusting teaching plans commensurate with individual
+achievements.159
+AI is explored to be used for new tactics, techniques, and procedures related
+to air defense and dogfight scenarios also with a view on playing computer
+generated blue and red forces.160 In addition, the Luftwaffe’s AirC2 project
+(see section 3.1) also has a training component that looks at using AI to train
+Luftwaffe operators in advancing and improving planning cycles.161
+So far, the Navy is not using defense AI for training. The service is, however,
+mulling the idea of using AI-based training for sea-based signals intelligence.
+This project would build on the insights gained from the Army’s aforemen-
+tioned learning management system and adapt it to the needs of automated
+processes on fleet service ships.162
+In addition to joint and service-level activities different initiatives have been
+launched to train defense AI algorithms:
+The Luftwaffe, for example, has procured an off-the-shelf software product
+to teach air power gaming. While the primary purpose was to improve the
+respective planning and operating procedures, data generated by using the
+software is also used as a basis to train future defense AI algorithms.163
+The Army is working on using simulation-based training with reinforcement
+learning to train neural networks with the goal of enhancing the autonomous
+behavior of unmanned systems in battlefield scenarios. Furthermore, the Army
+also looks at reinforcement learning to train neural networks to command
+157 Interview,25February2023.
+158 KünstlicheIntelligenzindenStreitkräften,p.12.
+159 Interview,7March2023.
+160 Interview,7March2023.
+161 Interview,25March2022.
+162 Interviews,22February2023and14March2023.
+163 Interview,25March2022.
+46 MASTER AND SERVANT
+
+battlefield units. Another focus area of the Army emerges from the need to
+generate training data for AI-enhanced image recognition.164 Satisfying the
+need for high-quality data is also a task that new organizations such as the
+Army’s Systems Center for Digitalization will need to accomplish.165
+164 Interview,7March2023.
+165 SystemzentrumDigitalisierungDimensionLand,para.335.
+WWW.DEFENSEAI.EU 47
+
+8 Conclusion
+48 MASTER AND SERVANT
+
+Currently, German defense AI is a grassroot movement. Motivated people push
+projects to bring defense AI into the Bundeswehr. Structural and procedural
+provisions are in place to bring about change. Right now, however, change is first
+and foremost about closing fundamental capability gaps that emerged during the
+past three decades. The Bundeswehr may want to operate at the technological
+edge, but existing shortfalls inhibit Germany’s armed forces from doing so. New
+concepts that leverage emerging technologies are bound back by the resistance
+of a Bundeswehr bureaucracy solidly grounded in the status quo.
+This is no surprise. As we have argued, Germany’s handling of defense relevant
+technologies in general and defense AI in particular is locked-in a “master and
+servant” logic that is deeply rooted in the country’s strategic culture and organ-
+izational set up (structural pacifism). Consequently, Germany prioritizes security
+and technology policy options, which comply with its non-belligerent post-war
+identity. Domestic socio-political legitimization of the use of force is consistently
+more important than the impact that can be achieved by using it. This preference
+will undoubtedly continue to determine political visions on future roles of defense
+AI and the panorama of technologies deemed acceptable for military use. This
+narrows future development options and limits the impact of defense AI to an evo-
+lutionary trajectory from the start. Since innovation in a tightly regulated defense
+market relies heavily on capability-pull by the Bundeswehr, its muted technology
+appetite does not bode well for the defense industry, too.
+Consequently, broadening the footprint and strengthening the influence of the
+defense AI grassroot movement will require the MoD to do some heavy lifting.
+We see the need to work along four major lines of efforts: sharpen expectations
+regarding the added value defense AI is expected to deliver; define the role of
+defense AI in Germany’s defense industrial policy; flesh out Germany’s internation-
+al defense AI ambition; and adjust the current system of certifying, qualifying, and
+approving defense AI solutions.
+The Bundeswehr needs to be more precise on how defense AI will boost Bundeswehr
+capabilities. So far, this link is vague at best, also because today’s capability defini-
+tion must be technology agnostic. This, however, cements preferences for existing
+technologies and technology concepts. Remedying this shortfall requires the
+Bundeswehr to be more explicit about what level of maturity defense AI is expect-
+ed to reach when and to the benefit of which capabilities and missions.
+One way of delivering this roadmap is for capability developers to link first, second,
+and third wave AI to the Bundeswehr’s four capability domains. This guidance could
+be used to delineate Bundeswehr-common and service-specific defense AI capability
+goals. Based on this overview the Bundeswehr could identify current defense AI
+shortfalls. Prioritizing mitigation measures can lead to creating a roadmap to address
+these shortfalls via national or multinational R&T projects and procurement programs.
+WWW.DEFENSEAI.EU 49
+
+In so doing, the Bundeswehr should put a premium on fully leveraging ongoing
+projects using AI for computer generated forces and high-performance simulation
+environments. This would combine past efforts on modelling and simulation with
+defense AI to create a new instrument in support of capability development as
+well as R&T and procurement management. These environments should be linked
+to existing test and verification units of the Bundeswehr to accelerate concept
+development and technology insertion. To this purpose, the Army’s existing test
+units should be turned into a permanent Bundeswehr-common test lab to advance
+defense AI and defense digitalization.
+Defense AI has yet to find its proper role in Germany’s – non-existent – defense indus-
+trial policy. As discussed, the government’s capstone document on supporting the
+security and defense industry calls AI a national key technology but the defense
+AI concept of the MoD argues that “the Bundeswehr is not the driver of AI-related
+innovation.” These statements are conflicting and detrimental to the overall goal
+of using AI to improve Germany’s competitiveness.
+First, few commercial operators match the needs of the Bundeswehr for defense
+AI that is context and consequence aware while being almost “data abstinent”
+to deny adversaries the opportunity to dominate the electromagnetic spectrum.
+By voluntarily ripping itself off the role as a major force to spearhead technology
+development, the Bundeswehr effectively drops out as a demanding launch cus-
+tomer for cutting-edge defense AI solutions made in Germany.
+Second, delegating the capacity to produce innovative defense AI solutions to
+private industry creates a perfect catch 22 if the majority of Germany’s startup AI
+community considers itself bound by the voluntary civil clause. In addition, there
+is a mismatch between the interest of commercial companies in seizing current
+defense business opportunities and private investor’s reluctance to fund defense
+companies given the current ambivalences of the European social taxonomy.166
+Third, commercial companies working on defense AI thereby using a tech stack
+also fit for commercial applications might face undue international business
+development risks as it remains fuzzy how Germany’s existing export and dual-use
+regulation schemes will consider defense AI algorithm exports.
+Finally, the Bundeswehr and industry need to specify the “terms and conditions”
+on which the future defense data ecosystem will operate. This requires striking a
+balance between the Bundeswehr’s interest in unrestricted data access, industrial
+preferences for data monetization, and the general need to incentivize a data
+166 Borchert/Schütz/Verbovzsky,“‘UnchainMyHeart’,”p.433,434,445,446.
+50 MASTER AND SERVANT
+
+sharing dynamic that also involves stakeholders that have not been involved in
+generating original data.167
+The German MoD needs to define its international defense AI ambition. So far,
+Germany’s international defense AI ambition is embryonic at best. This may reflect
+the fact that the Bundeswehr is only about to explore how to best use defense AI.
+But the lack of a specific international vision contrasts with the defense leadership
+role Chancellor Scholz has emphasized since delivering his 2022 Zeitenwende
+speech and the fact that NATO and the EU are stepping up defense AI activities.
+So how could a defense AI framework nation look like? Three points of departure
+are feasible. First, the Bundeswehr could concentrate on hardware-focused activ-
+ities to advance multinational defense AI by offering international partners access
+to its new digitalization centers and high-performance infrastructure that are being
+established. These infrastructure components could be valuable multinational
+assets if Germany manages to provide the respective hardware-enabled services
+on the battlefield. Second, a software-defined framework nation would focus on
+specific applications. For example, the Bundeswehr could think about red force
+training with AI-augmented opponents or AI-enhanced red teaming to support
+multinational capability development. AI-based decision policies that support
+decentralized multi-agent systems such as FCAS and MGCS could be another
+option. Third, the Bundeswehr could turn its strong focus on ethics into an asset
+by combining value-based engineering with simulation to offer partners a new
+digital test lab for the responsible use of defense AI.
+The Bundeswehr needs to reflect upon how to certify, qualify, and approve future
+defense AI solutions. This is nothing but a daunting task because today’s system
+benefits the so-called original equipment manufacturers (OEM) in their role as
+effective gatekeepers that can resist modifications of existing defense products.168
+Their powerful role, however, is likely to undermine software-defined defense if
+software-induced modifications change the overall characteristics of a defense
+solution for which the OEM – not the software developer – bears ultimate re-
+sponsibility. Although there is no easy way out of this dilemma an AI-enhanced
+simulation environment could provide an option to test the characteristics and the
+performance of future defense AI solutions. The resulting digital twin could be
+augmented, for example, with mission-critical data gathered during international
+Bundeswehr operations as well as AI-enhanced red force elements.
+167 Formoreonthisaspect,see:GutachtenderDatenethikkommissionderBundesregierung,pp.145–148.
+168 Interview,14March2022.
+WWW.DEFENSEAI.EU 51
+
+Literature
+“AntwortdesParlamentarischenStaatssekretärs “KannKünstlicheIntelligenzwertekonformsein?
+ThomasSilberhornvom8.Dezember2020”,Schrift- VDESPECalsGrundlagekünftigerEntwicklungen,”VDE
+licheFragenmitdeninderWochevom7.Dezember PressRelease,25April2022,
+2020eingegangenenAntwortenderBundesregierung, presse/pressemitteilungen/ai-trust-label(lastaccessed
+DrucksachedesDeutschenBundestags19/25159, 27March2023).
+11.Dezember2020,S.83,
+de/btd/19/028/1902816.pdf(lastaccessed27March “Live-DemonstrationAufklärungim‘Gläsernen
+2023). Gefechtsfeld’,”EuropäischeSicherheitundTechnik,
+22December2021,
+“BigData”undSoftwarezurVorhersagevon gen/31593/live-demonstration-aufklaerung-im-glaeser-
+“Krisen”beiderBundeswehr.AntwortderBundes- nen-gefechtsfeld/(lastaccessed27March2023).
+regierung,DrucksachedesDeutschenBundestags
+19/3459,19July2018 “SeaRAMAnti-ShipMissileDefenceSystem,”Naval
+btd/19/034/1903459.pdf (lastaccessed27March Technology,30June2014,
+2023). gy.com/projects/searam-anti-ship-missile-defence-sys-
+tem/(lastaccessed27March2023).
+“BWIentwickeltLösungenmitkünstlicherIntelli-
+genzfürdieBundeswehr”,EuropäischeSicherheitund “Test-undVersuchskräfteinMunsteraufgestellt,”
+Technik,27January2022, PressRelease,Bundeswehr,17December2020,
+meldungen/32112/bwi-entwickelt-loesungen-mit-kuen- 
+stlicher-intelligenz-fuer-die-bundeswehr/(lastaccessed aktuelles/test-und-versuchskraefte-in-munster-auf-
+27March2023). gestellt-4960224(lastaccessed27March2023).
+“DeutscheMarine:Vertragfür600RAMBlock2B “TruppesetztaufZukunftstechnologie‘Künstli-
+unterzeichnet,”EuropäischeSicherheitundTechnik, cheIntelligenz’”,Bundeswehr-Journal,3January
+11November2022, 2021,
+gen/37952/deutsche-marine-vertrag-fuer-600-ram-block- truppe-setzt-auf-zukunftstechnologie-kuenstliche-intelli-
+2b-unterzeichnet/(lastaccessed27March2023). genz/(lastaccessed27March2023).
+“HeimatschutzdurchkünstlicheIntelligenz.Die “VonBigDatabisKI.ZweiteAusbaustufedesGe-
+BundeswehraufdemWegindieZukunft,”Bundeswehr, meinsamenLagezentrumsCIR”,Bundesministeriumder
+14April2021, Verteidigung,2.September2020,
+elles/meldungen/heimatschutz-durch-kuenstliche-intel- swehr.de/de/organisation/cyber-und-informationsraum/
+ligenz-bundeswehr-zukunft-5054820(lastaccessed27 aktuelles/von-big-data-bis-ki-zweite-ausbaustufe-des-
+March2023). glz-cir-1826878(lastaccessed27March2023).
+“HensoldtequipsBundeswehrNH90helicopterwith “WieKIbeiderVorhersagedesWeltraumwetters
+state-of-the-artprotectionsystems,”EuropeanDefence hilft,”Gloem.de,7December2021,
+Review,21January2022, de/news/anzeige-wie-ki-bei-der-vorhersage-des-wel-
+hensoldt-equips-bundeswehr-nh90-helicopter-with-state- traumwetters-hilft-2112–161343.html(lastaccessed27
+of-the-art-protection-systems(lastaccessed27March March2023)
+2023).
+ArtificialIntelligenceStrategy(Berlin:The
+“HensoldtpräsentiertRadarwarneraufKI-Basis,” FederalGovernment,2018),
+hartpunkt.de,14May2019, gie-deutschland.de/home.html?file=files/downloads/
+hensoldt-praesentiert-radarwarner-auf-ki-basis/(last Nationale_KI-Strategie_engl.pdf&cid=729(lastaccessed
+accessed27March2023). 27March2023).
+52 MASTER AND SERVANT
+
+ArtificialIntelligenceStrategyoftheGermanFederal SociotechnicalImaginariesandtheFabricationofPower
+Government.2020Update(Berlin:TheFederalGov- (Chicago/London:TheUniversityofChicagoPress,
+ernment,2020), 2015),pp.233–253.
+de/home.html?file=files/downloads/Fortschreibung_
+KI-Strategie_engl.pdf&cid=955(lastaccessed27March BWI,“GeneralinspekteurlässtsichKI-gestützte
+2023). Aufklärungvorführen,”pressrelease,7December2022,
+
+AutorenteamLuftwaffe,“DerEinflusskünstlicher teur-laesst-sich-ki-gestuetzte-aufklaerung-vorfuehren
+IntelligenzbeierFührungvonLuftoperationenderZuku- (lastaccessed27March2023).
+nft”,Wehrtechnik,II/2021,pp.65–68.
+Dani,Enrico,“DigitalisierunglandbasierterOpera-
+Azzano,Massimoetal.,“Theresponsibleuseof tionen.SachstandundWeiterentwicklung”,Europäische
+artificialintelligenceinFCAS.Aninitialassessment”, SicherheitundTechnik,71:2(February2022),pp.40–43.
+FCASForum,February2020,
+articles/responsible-use-of-artificial-intelligence-in-fcas DatenstrategieGBBMVg(Berlin:Bundesministerium
+(lastaccessed27March2023). derVerteidigung,2021).
+Biess,Frank,RepublikderAngst.Eineandere Dean,SindeyE.,“MainGroundCombatSystem
+GeschichtederBundesrepublik(München:Rowohlt, (MGCS):AStatusReport,”EuropeanSecurity&Defence,
+2019). 23January2023,
+cles/29122/main-ground-combat-system-mgcs-a-status-
+Bock,ChristianundMatthiasSchmarsow,“Gedanken report/(lastaccessed27March2023.
+zumEinsatzvonKünstlicherIntelligenzbeimmil-
+itärischenFrühenundEntscheiden”,inNorbertLammert DigitalisierungvonLandoperationen(Stausberg:
+undWolfgangKoch(Hrsg.),BundeswehrderZukunft. KommandoHeer,2017).
+VerantwortungundKünstlicheIntelligenz(Berlin:Kon-
+rad-Adenauer-Stiftung,2023),pp.138–158. Eberle,Jakub,DiscourseandAffectinForeign
+Policy:GermanyandtheIraqWar(NewYork:Routledge,
+Borchert,Heiko,“TheRockyRoadtoNetworkedand 2019).
+Effects-BasedExpeditionaryForces:MilitaryTrans-
+formationintheBundeswehr”,inTerryTerriff,Frans Ehlke,Tobias,“InterviewmitGeneralleutnantDr.Ans-
+Osing,andTheoFarrell(eds.),ATransformationGap? garRieks,StellvertreterdesInspekteursderLuftwaffe”,
+AmericanInnovationsandEuropeanMilitaryChange cpmForumfürRüstung,StreitkräfteundSicherheit,
+(Stanford:StanfordUniversityPress,2010),pp.83–107. 3/2021,pp.16–19.
+Borchert,Heiko,ChristianBrandlhuber,ArminBrand- Engen,RobertC.,WhentheTeethEattheTail,A
+stetter,andGaryS.Schaal,FreeJazzontheBattlefield. ReviewofCanada’sDefenceArtificialIntelligence.DAIO
+HowGhostPlay’sAIApproachEnhancesAirDefense. Study23/09(Hamburg:DefenseAIObservatory,2023),
+DAIOStudy22/03(Hamburg:DefenseAIObservatory, 
+2022), March2023)
+accessed27March2023).
+ErsterBerichtzurDigitalenTransformationdes
+Bousquet,Antoine,TheScientificWayofWarfare.Or- GeschäftsbereichsdesBundesministeriumsderVertei-
+derandChaosontheBattlefieldsofModernity(London: digung(Berlin:BundesministeriumderVerteidigung,
+Hurst&Company,2022). 2019),
+itale-transformation-geschaeftsbereich-bmvg-143246
+Brendecke,Jan-Wilhelm,ThomasDoll,DanielKall- (lastaccessed27March2023).
+fass,“DerFührungsprozessvonmorgen.WieKünstliche
+IntelligenzenFührungsprozessbeschleunigenkann”, Färber,MichaelundLarsBibow,“DieMultiDomain
+EuropäischeSicherheitundTechnik,69:10(October CombatCloudfürdievernetzteOperationsführung”,
+2020),pp.68–71. EuropäischeSicherheitundTechnik,71:11(),pp.55–58.
+Burri,RegulaValérie,“ImaginariesofScience
+andSociety:FramingNanotechnologyGovernancein Färber,Michael,“DigitalisierungderBundeswehr,”
+GermanyandtheUnitedStates,”inSheilaJasanoffand inNorbertLammertundWolfgangKoch(Hrsg.),
+Sang-HyunKim(eds.)DreamscapesofModernity– BundeswehrderZukunft.VerantwortungundKünstliche
+WWW.DEFENSEAI.EU 53
+
+Intelligenz(Berlin:KonradAdenauerStiftung,2023),pp. service/publikationen/gutachten-der-datenethikkom-
+224–235, mission-langfassung-1685238(lastaccessed27March
+nft(lastaccessed27March2023). 2023).
+Fleischmann,Armin,“DasZentrumDigitalisierung Heiming,Gerhard,“AusschüssesegnenWirtschafts-
+derBundeswehrundFähigkeitsentwicklungCyber- planzumSondervermögenab,”EuropäischeSicherheit
+undInformationsraum:‘UnserBeitragalsTreiberder undTechnik,2June2022,
+DigitalisierungderBundeswehr’,”inCIR2.0:VonderIdee meldungen/34634/ausschuesse-segnen-wirtschaft-
+zurDimension(Bonn:cpmCommunicationPresseMar- splan-zum-sondervermoegen-ab/(lastaccessed27
+keting,2022),pp.34–38, March2023).
+resource/blob/5519316/29945909e7ed8cc36f2c9ff-
+4ecd53186/download-sonderheft-cir-2–0-data.pdf(last Hofstetter,YvonneandJosephVerbovszky,HowAI
+accessed27March2023). LearnstheBundeswehr’s“InnereFührung.”Value-Based
+EngineeringwithIEEE7000TM-2021.DAIOStudy23/10
+FörderungvonKünstlicherIntelligenzfürdieBunde- (Hamburg:DefenseAIObservatory,2023),
+swehr.AntwortderBundesregierung.Drucksachedes seai.eu/daio_study2310(lastaccesed27March2023)
+DeutschenBundestags19/10803,11June2019,https://
+dserver.bundestag.de/btd/19/108/1910803.pdf(last Ilg,Peter,“Militär-Projekt:MitkünstlicherIntelligenz
+accessed27March2023). durchWändeschauen,”heiseonline,18July2022,
+
+FutureOperatingEnvironment2035(Berlin:Bunde- stlicher-Intelligenz-durch-Waende-schauen-7182283.
+sministeriumderVerteidigung,2019). html(lastaccessed27March2023).
+Gäbelein,Wolfgang,“DieBundeswehrunddas InspekteurderMarine–Absicht2022(Rostock:
+GefechtsfeldderZukunft:Entwicklungsperspektiven Marinekommando,2022),
+inVerbindungmitKünstlicherIntelligenzausderSicht de/organisation/marine/aktuelles/inspekteur-marine-ab-
+desVerteidigungsplaners”,inNorbertLammertand sicht-2022–5400502(lastaccessed27March2023).
+WolfgangKoch(eds.),BundeswehrderZukunft.Verant-
+wortungundKünstlicheIntelligenz(Berlin:Konrad-Ade- Jasanoff,Sheila,“FutureImperfect:Science,
+nauer-Stiftung,2023),pp.120–137. Technology,andtheImaginationsofModernity,”in
+SheilaJasanoffandSang-HyunKim(eds.),Dreams-
+GesetzüberdieFeststellungdesBundeshaushalt- capesofModernity.SociotechnicalImaginariesandthe
+splansfürdasHaushaltsjahr2023,Einzelplan14, FabricationofPower(Chicago/London:TheUniversity
+BundesgesetzblattTeilI,Nr.54,19December2022,pp. ofChicagoPress,2015),pp.1–33.
+2485,
+bk=Bundesanzeiger_BGBl&jumpTo=bgbl122s2485.pdf Jensen,BenjaminM.,ChristopherWhyte,andScott
+(lastaccessed27March2023). Cuomo,InformationinWar.MilitaryInnovation,Battle
+Networks,andtheFutureofArtificialIntelligence(Wash-
+GesetzzurFinanzierungderBundeswehrundzur ington,DC:GeorgetownUniversityPress,2022).
+Errichtungeines“SondervermögensBundeswehr”und
+zurÄnderungderBundeshaushaltsordnung,Bundes- Kahn,LaurenA.,RiskyIncrementalismDefense
+gesetzblatt2022,Teil1,Nr.23,6July2022,p.1030, AIintheUnitedStates.DAIOStudy23/07(Hamburg:
+ DefenseAIObservatory,2023),
+component.Text_0&tocf=&qmf=&hlf=xaver.component. daio_study2307(lastaccessed15March2023).
+Hitlist_0&bk=bgbl&start=%2F%2F*%5B%40node_
+id%3D%271034878%27%5D&skin=pdf&tlevel=-2&no- KI-StartupsinDeutschland.EineUntersuchung
+hist=1&sinst=0E04B990(lastaccessed27March2023). zuUnternehmensgründungenimBereichKünstliche
+Intelligenz(Berlin:BundesministeriumfürWirtschaft
+GrundgesetzfürdieBundesrepublikDeutschland undKlimaschutz,2022),
+vom19.Dezember2022,BundesgesetzblattIS.2478, TAL/Redaktion/DE/Digitalisierungsindex/Publikationen/
+ publikation-download-ki-startups.html(lastaccessed27
+2023). March2023).
+GutachtenderDatenethikkommissionderBundesre- Kober,KlemensandTorbenSchütz,“DenWeltraum
+gierung(Berlin:DatenethikkommissionderBundesregi- ordnen.Zukunftsvorstellungenund(New)Space
+erung2019), Governance,inMoritzBrake,EnricoFels,AntjeNötzold,
+54 MASTER AND SERVANT
+
+andAndreaRotter(eds.),StrategischerWettbewerbim reservistenverband.de/magazin-loyal/kuenstliche-in-
+Weltraum.Politik,SicherheitundWirtschaftimAll(Wies- telligenz-in-der-bundeswehr/(lastaccessed27March
+baden:SpringerVS,forthcoming). 2023).
+Koch,Wolfgang,“ElementsofanEthicalAIDemon- OperativeLeitlinienfürdieStreitkräfte(Berlin:Gener-
+stratorforResponsiblyDesigningDefenceSystems,” alinspekteur,2022).
+25thInternationalConferenceonInformationFusion,
+4–7July2022, Payne,Kenneth,BrightProspects–BigChallenges.
+ment/9841387(lastaccessed27March2023). DefenceAIintheUnitedKindgom.DAIOStudy22/04
+(Hamburg:DefenseAIObservatory,2022),
+KriegderZukunft?!OperativeHerausforderungendes seai.eu/daio_study2204(lastaccessed27March2023).
+Multi-DomainBattlefieldfürdieBundeswehr.Lehrgang
+Generalstabs-/Admiralstabsdienst(LGAN)2020–Stu- Penney,Stewart,“Short-rangesquare-off,”Flight-
+dienphase.HintergrundinformationPresse(Hamburg: Global,27June2000,
+FührungsakademiederBundeswehr,2022), short-range-square-off/32654.article(lastaccessed27
+bundeswehr.de/de/organisation/weitere-bmvg-diensts- March2023).
+tellen/fuehrungsakademie-der-bundeswehr/mediathek/
+ueber-krieg-der-zukunft-5462696(lastaccessed27 Rieks,Ansgar,“DigitalisierungderStreitkräfte:Ein
+March2023 (nichtnur)technischerBlick,”inNorbertLammertand
+WolfgangKoch(eds.),BundeswehrderZukunft.Verant-
+KünstlicheIntelligenzimGeschäftsbereichder wortungundKünstlicheIntelligenz(Berlin:Konrad-Ade-
+Bundesregierung.AntwortderBundesregierungaufdie nauer-Stiftung,2023),pp.102–119.
+KleineAnfragederAbgeordnetenAnkeDomscheit-Berg,
+Dr.PetraStitte,NicoleGohlke,weitererAbgeordneter ScienceandTechnologyTrends2023–2043.Across
+underFraktionDIELINKE,BundestagDrucksache thePhysical,Biological,andInformationDomains.
+20/430,14January2022, Volume2(Brussels:NATOScienceandTechnology
+btd/20/004/2000430.pdf(lastaccessed27March2023) Organization,2023),
+ic_fl2014/assets/pdf/2023/3/pdf/stt23-vol2.pdf(last
+KünstlicheIntelligenzindenLandstreitkräften.Ein accessed27March2023).
+PositionspapierdesAmtsfürHeeresentwicklung(Köln:
+AmtfürHeeresentwicklung,2019). Schurad,Dirk,“MitkünstlicherIntelligenzderZukunft
+aufderSpur”,Hardthöhen-Kurier,38:4(August2018),S.
+KünstlicheIntelligenz.NutzungimGeschäftsbereich 10–12,
+desBundesministeriumsderVerteidigung(Berlin:BMVg, fullhhkemags/2018–04/index_20.html#page=11(last
+2019). accessed27March2023).
+Layton,Peter,EvolutionnotRevolution.Australia’s Soare,Somina,PavneetSinghandMeiaNouwens,
+DefenceAIPathway.DAIOStudy22/02(Hamburg: Software-definedDefence:AlgorithmsatWar(London:
+DefenseAIObservatory,2022), IISS,2023),
+daio_study2202(lastaccessed27March2023). per/2023/02/software-defined-defence(lastaccessed
+27March2023).
+Meerveld,H.W.,R.H.A.Lindelauf,E.O.Postma,
+andM.Postma,“TheirresponsibilityofnotusingAIin Stengel,FrankA.,ThePoliticsofMilitaryForce:
+themilitary”,EthicsandInformationTechnology,25:1 Antimilitarism,IdeationalChangeandPost-ColdWar
+(January2023),article14, GermanSecurityDiscourse(AnnArbor:Universityof
+article/10.1007/s10676–023–09683–0(lastaccessed MichiganPress,2020).
+27March2023)
+StrategiepapierderBundesregierungzurStärkung
+MehrFortschrittwagen.Koalitionsvertrag2021– derSicherheits-undVerteidigungsindustrie(Berlin:Bun-
+2025(Berlin:SPD/Bündnis90/DieGrünen/FDP,2021), desregierung,2019),
+ DE/Downloads/S-T/strategiepapier-staerkung-sicher-
+koalitionsvertrag-2021–1990800(lastaccessed27 its-und-verteidigungsindustrie.html(lastaccessed15
+March2023). March2023).
+Müller,Björn,“KünstlicheIntelligenzinder StrategischeLeitlinieDigitalisierung(Berlin:Bunde-
+Bundeswehr,”Loyal,8.November2021, sministeriumderVerteidigung,2017).
+WWW.DEFENSEAI.EU 55
+
+SystemzentrumDigitalisierungDimensionLand
+(Berlin:BundesministeriumderVerteidigung,2022):
+Verbovszky,Joseph,GermanStructuralPacifism.
+PhDDissertation(Munich:UniversityoftheBundeswehr,
+2022).
+WehrwissenschaftlicheForschungJahresbericht
+2020.WehrwissenschaftlicheForschungfürdeutsche
+Streitkräfte(Bonn:BundesministeriumderVerteidigung,
+2021).
+Welchering,Peter,“VonderBundeswehrzurdigitalen
+Verteidigungsarmee?”,Deutschlandfunk,11February
+2023,
+software-defined-defence-konzept-soll-die-bundeswehr-
+umkrempeln-dlf-68c615bf-100.html(lastaccessed27
+March2023).
+Welchering,Peter,“WieKI-Systemediemilitärische
+Ausbildungverändern”,Deutschlandfunk,2.Februar
+2022,
+telligenz-wie-ki-systeme-die-militaerische-100.html(last
+accessed27March2023).
+WiekämpfenLandstreitkräftekünftig?Thesenpapier
+(Strausberg:KommandoHeer,2017).
+Wiegold,Thomas,“NachRechnungshof-Kritik:Weni-
+gerProjekteimBundeswehr-Sondervermögen,”Augen
+geradaus!,28October2022,
+net/2022/10/nach-rechnungshof-kritik-weniger-pro-
+jekte-im-bundeswehr-sondervermoegen/(lastaccessed
+27March2023).
+Wiegold,Thomas,“Studiefürs‘gläserneGefechts-
+feld’:DrohnenundKI”,Augengeradeaus?,14April2019,
+
+glaeserne-gefechtsfeld-drohnen-ki/(lastaccessed27
+March2023).
+56 MASTER AND SERVANT
+
+Defense AI Observatory Studies
+23|12 Heiko Borchert, Torben Schütz, and Joseph Verbovszky, Master and Servant. Defense
+AI in Germany
+23|11 Katarzyna Zysk, High Hopes Amid Hard Realities. Defense AI in Russia
+23|10 Yvonne Hofstetter and Joseph Verbovzsky, How AI Learns the Bundeswehr’s
+“Innere Führung.” Value-Based Engineering with IEEE7000TM-2021
+23|09 Robert C Engen, When the Teeth Eat the Tail: A Review of Canada’s Defence Artificial
+Intelligence
+23|08 Çağlar Kurç, Enabling Technology of Future Warfare. Defense AI in Turkey
+23|07 Lauren A. Kahn, Risky Incrementalism. Defense AI in the United States
+22|06 Yvonne Hofstetter, Wie KI Innere Führung lernt. Wertbasierte Technik mit
+IEEE7000TM-2021
+22|05 Andrea Gilli, Mauro Gilli, and Ivan Zaccagnini, Exploring the Benefits of a New Force
+Enabler: Defense AI in Italy
+22|04 Kenneth Payne, Bright Prospects – Big Challenges. Defense AI in the United
+Kingdom
+22|03 Heiko Borchert, Christian Brandlhuber, Armin Brandstetter, and Gary S. Schaal, Free
+Jazz on the Battlefield. How GhostPlay’s AI Approach Enhances Air Defense
+22|02 Peter Layton, Evolution not Revolution. Australia’s Defence AI Pathway
+21|01 Heiko Borchert, Torben Schütz, Joseph Verbovszky, Beware the Hype. What Military
+Conflicts in Ukraine, Syria, Libya, and Nagorno-Karabakh (Don’t) Tell Us About the
+Future of War

@@ -1,0 +1,1071 @@
+MEMORIA AÑO 2022 GESTIÓN DE INVESTIGACIÓN,
+ADMINISTRATIVA Y ASUNTOS ECONÓMICOS
+Centro Nacional de Inteligencia Artificial
+CENIA.CL | info@cenia.cl | Centro de Innovación UC, piso 2. Av. Vicuña Mackenna 4860, Macul, Chile.
+
+© Derechos Reservados 2023.
+Esta memoria que ha sido preparada por la Dirección de Gestión
+del Centro Nacional de Inteligencia Artificial.
+Su reproducción ha sido autorizada para fines de transparencia y
+conocimiento de todo su personal Académico y de Colaboración.
+Toda otra reproducción total o parcial debe ser consultada y
+autorizada por la Dirección de Gestión del Centro Nacional de
+Inteligencia Artificial.
+Santiago, 
+CENIA.CL | info@cenia.cl | Centro de Innovación UC, piso 2. Av. Vicuña Mackenna 4860, Macul, Chile.
+
+Índice
+Índice .................................................................................................................................................................................................... 3
+I. Resumen Ejecutivo ................................................................................................................................................................ 4
+1.1. Tema Principal de Investigación y Líneas de Investigación ...................................................................... 4
+1.2. Actividades Principales ............................................................................................................................................. 5
+a. Investigación ....................................................................................................................................................................... 5
+b. Transferencia Tecnológica ............................................................................................................................................ 7
+c. Vínculos con el Sector Productivo y Apalancamiento de Financiamiento ................................................ 8
+d. Relevancia ............................................................................................................................................................................ 8
+II. Estructura del centro, mecanismos de gobernanza e instalación .................................................................. 10
+III. Balance de género ........................................................................................................................................................... 12
+IV. Estrategia general del centro ..................................................................................................................................... 13
+a. Un centro nacional de investigación de IA. .......................................................................................................... 13
+b. Creación de aplicaciones de IA exitosas ................................................................................................................ 14
+c. Transferir las herramientas que desarrollamos, para promover el desarrollo y el bienestar
+humano .................................................................................................................................................................................... 14
+d. Retención de recursos humanos talentosos ........................................................................................................ 15
+e. Fomentar la colaboración y la cultura organizacional: ................................................................................... 15
+f. Alianzas estratégicas con centros de investigación nacionales: .................................................................. 15
+V. Objetivos y resultados alcanzados ........................................................................................................................... 16
+a. Excelencia Científica y Tecnológica/Investigación ................................................................................................ 16
+b. Desarrollo y atracción de capital humano ................................................................................................................ 17
+c. Transferencia de tecnología, aplicación del conocimiento y vínculos con otros sectores de la
+economía y sociedad chilena. .............................................................................................................................................. 19
+d. Support to Other Research Groups .............................................................................................................................. 22
+e. Actividades de Difusión y Difusión hacia Otros Sectores de la Sociedad Chilena .................................... 23
+VI. Estado Financiero ........................................................................................................................................................... 25
+VII. Consecuencias de la reducción de presupuesto ................................................................................................ 26
+VIII. Uso de fondos de inversión ......................................................................................................................................... 28
+IX. Aprendizajes ..................................................................................................................................................................... 30
+CENIA.CL | info@cenia.cl | Centro de Innovación UC, piso 2. Av. Vicuña Mackenna 4860, Macul, Chile.
+
+I. Resumen Ejecutivo
+1.1. Tema Principal de Investigación y Líneas de Investigación
+Esta institución actualmente está conformada por un reconocido grupo de investigadores científicos,
+asociados a las principales universidades del país, quienes trabajan conjuntamente para conformar un centro
+nacional de investigación de primer nivel dedicado a la IA.
+Este selecto grupo de investigadores produce más del 90% de la actividad de investigación en IA a nivel
+nacional, esta cifra es corroborada por el número de citas y publicaciones en las principales conferencias,
+seminarios y revistas relacionadas a publicaciones científicas en temas de IA.
+CENIA actualmente se dedica a conformar una base común para el estudio de diferentes aspectos dentro del
+campo de la IA, acercándonos a alcanzar el nivel necesario para apoyar la creación de un ecosistema nacional
+de investigación, desarrollo y difusión de la IA.
+El Centro se está en vías de convertirse en la principal fuente de investigación avanzada en el país,
+paralelamente, se está enfocando en la formación de recursos humanos y transferencia de tecnología en el
+campo de la IA a través del desarrollo de proyectos en conjunto con las líneas de investigación del Centro y
+empresas asociadas, favoreciendo e impulsando al sector productivo en chile.
+Plan de investigación y desarrollo.
+El contexto tecnológico actual de la IA presenta dos importantes fuerzas motrices. Por un lado, el aprendizaje
+profundo (AP o deep learning) ha proporcionado una primera tecnología de IA que está preparada para
+alimentar un sinfín de aplicaciones. Para aprovechar este nuevo escenario tecnológico, es urgente transferir
+esta tecnología a las manos de los emprendedores y alimentar un ecosistema adecuado de innovación en IA.
+Por otro lado, las debilidades actuales del AP revelan una importante necesidad de llevar a cabo una
+investigación innovadora que ayude a mover la frontera tecnológica. Los resultados de esta investigación
+tienen un enorme potencial para desempeñar un papel importante en la mejora de nuestro nivel de vida. En
+CENIA, nuestro plan de desarrollo está íntimamente relacionado con estas dos fuerzas motrices que están
+dando forma al presente y al futuro de la IA. Estas fuerzas guían nuestra doble misión de apoyar un
+florecimiento saludable de la IA en la industria nacional y de llevar a cabo una investigación de alta calidad
+sobre la IA.
+CENIA.CL | info@cenia.cl | Centro de Innovación UC, piso 2. Av. Vicuña Mackenna 4860, Macul, Chile.
+
+1.2. Actividades Principales
+a. Investigación
+CENIA organiza sus actividades de investigación de acuerdo con las siguientes cinco líneas de investigación
+(RL):
+RL1. Aprendizaje profundo para Visión y Lenguaje: Esta línea de investigación se centra en el desarrollo de
+nuevas teorías y métodos para continuar desentrañando el potencial del Aprendizaje Profundo (AP) para
+crear sistemas cognitivos avanzados con un enfoque en la visión y el lenguaje. La importancia de la
+investigación en esta área radica en que existen problemáticas aún no resueltas, entre ellos, como generalizar
+el aprendizaje a otros dominios o tareas, cómo aprender de forma más eficiente, la combinación de
+diferentes formas de aprendizaje, aplicación de innovaciones del AP a diferentes dominios, entre otras. Para
+encontrar posibles soluciones a las problemáticas mencionadas, actualmente se está trabajando en DashAI,
+proyecto de software Open Source para entrenar, comparar y utilizar modelos de IA para cualquier tarea por
+medio de una interfaz web.
+RL2. IA Neuro Simbólica: Integración de la IA lógica-probabilística y la basada en el aprendizaje profundo,
+invocando mutuamente las soluciones de cada parte, inyectando y utilizando la semántica en el aprendizaje
+profundo, consiste, la combinación de métodos robustos basados en Aprendizaje Computacional, y el
+razonamiento y explicaciones generadas por la representación simbólica del conocimiento. La importancia
+del desarrollo de esta área se centra en lograr aprendizaje con menos datos, generalizar mejor a dominios
+nuevos, proveer explicaciones a las decisiones que toman, establecer relaciones causales. Esta línea de
+investigación.
+RL3. Inteligencia Artificial inspirada en el cerebro: Esta línea de investigación reúne a científicos de la
+neurociencia, la psicología cognitiva y la IA para investigar sobre la funcionalidad anatómica y cognitiva de
+cerebros biológicos, para inspirar nuevas formas de implementar AI, desarrollamos dos grandes áreas de
+investigación, neurociencia básica, neurociencia cognitiva y psicología cognitiva, la importancia del desarrollo
+de esta área de investigación, se basa en entender cómo los sistemas nerviosos aprenden y trasladarlo a AI,
+además de entender mejor el funcionamiento del cerebro humano durante el desarrollo y transferirlo a
+algoritmos de AI.
+RL4. Aprendizaje automático basado en la física: Esta línea está conformada por matemáticos, ingenieros y
+astrofísicos, quienes realizan investigación científica tradicional basada en métodos clásicos en matemática
+y física, motivados para explorar, mejorar y utilizar las herramientas de la IA, hoy en día, las acciones de esta
+línea se centran en la generación de nuevos métodos numéricos para resolver problemas físicos y de
+ingeniería complejos modelados por PDE, Integración de conocimientos basados en la física para desarrollar
+arquitecturas de aprendizaje con generalización mejorada, e interpretabilidad, auditar y mejorar los modelos
+de IA.
+CENIA.CL | info@cenia.cl | Centro de Innovación UC, piso 2. Av. Vicuña Mackenna 4860, Macul, Chile.
+
+RL5. Inteligencia Artificial centrada en el ser humano: Esta línea de investigación busca el desarrollo de
+nuevas tecnologías para un uso justo, seguro y transparente de la IA en la sociedad, así como metodologías
+para evaluar su impacto en la misma, además de promover nuevas herramientas para una IA interpretable y
+explicable. Dentro de las principales iniciativas de esta RL, se encuentran, la creación de un repositorio
+público de sistemas algorítmicos en Chile que usan IA y un observatorio Tecnológico de Inteligencia Artificial,
+planteando como principales objetivos, la elaboración de un dashboard del catastro de sistemas algorítmicos
+del Estado de Chile y una mayor divulgación científica a través de papers y conferencias en la temática.
+Nombre de la Investigadores Associate Researchers Center Researchers
+Nº línea Principales (participating in the line) (participating in the line)
+• Andrés Neyem.
+• Felipe Bravo.
+• Hans Lobel.
+RL1: Deep
+• Margarita Castro. • Carlos Aspillaga
+Learning For • Álvaro Soto
+• Rodrigo Toro. • Gonzalo Bustos
+1.- Vision and • Denis Parra
+• Yamisleydi Salgueiro. • Cristian Buc
+Language • Domingo Mery
+• José Manuel Saavedra.
+• Juan Bekios.
+• Billy Peralta.
+• Carlos Hernández
+• Jorge Baier
+RL2: Neuro- • Pablo Barceló • Carlos Aspillaga
+• Miguel Romero
+2.- Symbolic • Cristóbal Rojas • Gonzalo Bustos
+• Andrés Abeliuk
+AI • Cristian Buc
+• Tomas Steifer
+• Camilo Gouet
+• Christ Devia
+• Cristóbal Moenne
+• Carlos Aspillaga
+RL3: Brain- • Pedro Maldonado • Esteban Pino
+3.- • Gonzalo Bustos
+Inspired AI • Marcela Peña • Cristina Jara
+• Cristian Buc
+• Pamela Guevara
+• Patricia Cortés
+• María José Escobar
+RL4: • Carlos Sing-Long
+Physics- • Federico Fuentes • Carlos Aspillaga
+• Eduardo Cerpa
+4.- Informed • Manuel Sánchez • Gonzalo Bustos
+• Paula Aguirre
+Machine • Mircea Petrache • Cristian Buc
+Learning • Pedro Saa
+• Andrés Abeliuk
+RL5: • Claudia López
+• Carlos Aspillaga
+5.- Human- • Gabriela Arriagada
+• Marcelo Mendoza
+Centered • María Paz Hermosilla • Gonzalo Bustos
+• Barbara Poblete
+AI • Eduardo Graells Garrido • Cristian Buc
+• Valeria Herskovic
+CENIA.CL | info@cenia.cl | Centro de Innovación UC, piso 2. Av. Vicuña Mackenna 4860, Macul, Chile.
+
+b. Transferencia Tecnológica
+En CENIA , una de las principales tareas iniciales será apoyar el establecimiento de un ecosistema de
+innovación en Chile, basado en la generación de tecnologías prácticas de IA. Las principales actividades a las
+que se da enfoque son:
+i) Transferencia tecnológica a manos de emprendedores y empresas establecidas: además del fortalecimiento
+de relaciones y la generación de proyectos con empresas privadas ya consolidadas, se busca la colaboración
+activa con Start Ups, e instituciones del sector público.
+ii) Formación de capital humano: Actualmente, el centro cuenta con un equipo formado por Ingenieros
+desarrolladores de software y Machine Learning, quienes trabajan en colaboración con cada línea de
+investigación y con empresas asociadas. Cabe mencionar que se está en la constante búsqueda de talento
+para el área de desarrollo, de esta forma buscamos convertirnos en un agente activo en la formación de
+capital humano que pueda satisfacer la demanda de profesionales en materias de IA.
+iii) Diseño y empaquetamiento de soluciones basadas en IA: Hoy en día, CENIA se está preparando para
+brindar apoyo y asesoría experta a la industria nacional respecto al diseño y empaquetamiento de soluciones
+basadas en IA, abordando las principales deficiencias encontradas en las actuales tecnologías de IA,
+proporcionando sistemas más flexibles, robustos y potentes.
+Respecto al apoyo a grupos de investigación más pequeños, CENIA aborda este tema separándolo en dos
+grupos, como se expresa a continuación:
+Grupos fuera de Santiago. CENIA busca el fortalecimiento de la investigación generada en las regiones de
+Chile, ya que consideramos que es un paso importante hacia la descentralización de la generación de
+conocimiento. Las universidades regionales juegan un papel clave en esta tarea, formando las mentes de los
+futuros investigadores o emprendedores capaces de generar investigación de vanguardia o start-ups basadas
+en la innovación, respectivamente. Es por esta razón, que tenemos el privilegio de contar con investigadores
+asociados en dos universidades regionales, la Universidad de Talca y la Universidad de Concepción, y
+queremos apoyarlos a través del centro. La Universidad de Talca (UTAL) es una de las mejores universidades
+regionales de Chile, sin embargo, somos conscientes de que las capacidades de los grupos de investigación
+regionales son limitadas debido al bajo número de investigadores y a los escasos recursos disponibles. El
+potencial de estos grupos de investigación podría aumentar con la integración de nuevos investigadores
+postdoctorales, estudiantes de grado y de posgrado.
+La Universidad de Concepción (UDEC) es una de las universidades regionales más prestigiosas de Chile y
+Latinoamérica en el área de la Ingeniería. El equipo local está liderado por jóvenes científicos y recibe
+anualmente a cientos de estudiantes de grado y postgrado interesados en desarrollar sus trabajos sobre
+tecnologías de inspiración cognitiva y robótica, desde una perspectiva científica básica y aplicada. Al igual
+que la UTAL, la UDEC cuenta con un presupuesto limitado para desarrollar nuevas investigaciones destinadas
+a formar a tal cantidad de estudiantes.
+CENIA actualmente apoya las estancias de investigación hacia y desde las instituciones asociadas. Esto
+proporciona oportunidades para interactuar con estudiantes e investigadores de instituciones nacionales e
+internacionales, aumentando la red de investigación y la colaboración.
+CENIA.CL | info@cenia.cl | Centro de Innovación UC, piso 2. Av. Vicuña Mackenna 4860, Macul, Chile.
+
+Grupos en Santiago. CENIA busca apoyar el desarrollo del grupo de IA a través nuestras universidades
+asociadas ubicadas en Santiago, entre ellas la Universidad Andrés Bello, Universidad de Chile, Universidad
+San Sebastián, entre otras, mediante la financiación de estudiantes de magíster y doctorado, el acceso a
+servidores, el pago de estancias de investigación y la financiación de publicaciones de alto impacto en acceso
+abierto, esto proporcionará formación en el uso de las herramientas actuales de IA para potenciar la
+investigación en estas instituciones.
+c. Vínculos con el Sector Productivo y Apalancamiento de Financiamiento
+CENIA ha generado una estrategia de vinculación con el sector productivo, basado inicialmente en las
+empresas asociadas, estas son 12 empresas que comprometieron su apoyo en la postulación del proyecto en
+2021. Con este grupo de empresas de diversas industrias se han firmado dos (2) contratos y el equipo se
+encuentra en proceso de firma de otros siete (7). Los proyectos a trabajar en conjunto conectan necesidades
+relevantes de las empresas con capacidades de CENIA para ofrecer soluciones basadas en IA. Los contratos
+tecnológicos incluyen el pago de servicios y según el caso, royalties futuros para CENIA de los ingresos
+generados de las soluciones desarrolladas en conjunto, lo que apunta a apoyar el modelo de sustentabilidad
+del Centro.
+En el sector público, CENIA se encuentra en proceso de generación de una alianza con Hewlett Packard
+Enterprise, quienes tienen infraestructura de punta para el desarrollo de IA y complementan las capacidades
+de CENIA para ofrecer soluciones basadas en IA para diferentes áreas del sector público.
+d. Relevancia
+Dentro del conjunto de acciones clave que forman parte de la estrategia para convertirnos en un verdadero
+centro nacional de investigación en AI, se encuentra el ir más allá de nuestras instituciones anfitrionas (PUC,
+UChile, UTFSM y UAI), estamos extendiendo nuestras actividades al resto del sistema nacional de educación
+superior. Tenemos la convicción de que, al ser una organización inclusiva, no sólo maximizamos nuestro
+impacto, sino que también nos convertimos en una organización más fuerte.
+Construir aplicaciones de IA con éxito. La construcción de una aplicación de éxito basada en la IA requiere
+una combinación virtuosa de tres factores principales: Identificar una necesidad relevante, desarrollar la
+solución correcta basada en IA, y realizar un empaquetamiento adecuado de esta solución. Como grupo de
+expertos en IA y áreas afines, procedentes del mundo académico, nuestra principal experiencia es el
+desarrollo de enfoques y soluciones novedosas basadas en la IA. Por lo tanto, como parte de nuestra
+estrategia global, dedicaremos especial atención a reforzar los otros dos factores. En cuanto a la
+identificación de necesidades relevantes, tenemos previsto establecer una serie de iniciativas orientadas a
+facilitar una comunicación fluida con la industria y los centros de investigación nacionales.
+Transferencia de las herramientas que desarrollamos, para promover el desarrollo humano y el bienestar.
+Continuaremos transfiriendo algunas apps, que probamos beneficios en el lenguaje y la comunicación en
+preescolares, así como el pensamiento matemático en estudiantes de primaria. Esperamos que, en los
+primeros dos años, hayamos beneficiado a 2000 preescolares de familias con niveles socioeconómicos bajos,
+en habilidades de lenguaje y prelectura. Estudios internacionales han demostrado que en términos de costo-
+beneficio, algunos estudios sobre la estimulación temprana han encontrado beneficios en el lenguaje y el
+CENIA.CL | info@cenia.cl | Centro de Innovación UC, piso 2. Av. Vicuña Mackenna 4860, Macul, Chile.
+
+desarrollo intelectual, más años de escolaridad y, por lo tanto, menores tasas de delincuencia, detención y
+empleos mejor remunerados.
+Retener los recursos humanos con talento. Chile corre un alto riesgo de perder sus talentos en IA frente a
+economías y entornos más competitivos. Como punto de partida notable, hemos atraído a un selecto grupo
+de las personas más talentosas dedicadas a la IA y áreas afines en Chile, y hemos trabajado en la consolidación
+de las relaciones con cada miembro perteneciente al equipo, nuestra clave es el establecimiento de
+mecanismos que proporcionan un flujo continuo de investigadores, estudiantes y profesionales talentosos a
+nuestro Centro, como una forma de capacitarlos para servir a las necesidades del país. En consecuencia, la
+captación de personas talentosas para incorporarse al CENIA es una tarea a la que estamos dedicando
+especial atención.
+Al contar con las principales universidades del país, tenemos acceso directo a la mayor parte de los mejores
+estudiantes del sistema. Se han ejecutado varias actividades para motivar a estos estudiantes a trabajar e
+iniciar estudios de postgrado en áreas relacionadas con el CENIA . También estamos buscando colaboraciones
+con universidades de América Latina para atraer a investigadores y estudiantes de posgrado con talento de
+la región. Dada la falta de un centro de investigación similar a CENIA en la región, estamos en una posición
+privilegiada para atraer no sólo a estudiantes con talento, sino también a investigadores dotados de América
+Latina. En un contexto mundial, los acuerdos de colaboración con instituciones internacionales de
+investigación dedicadas a la IA surgen en nuestra cartera de tareas obligatorias para traer gente con talento
+a nuestro Centro y ofrecer oportunidades de intercambio para nuestros propios estudiantes.
+Fomentar las colaboraciones y la cultura organizativa. Como se ha mencionado, CENIA reúne a un grupo
+multidisciplinario de científicos con perspectivas y conocimientos complementarios relacionados con el
+estudio del comportamiento inteligente y las representaciones abstractas. En este contexto, un reto
+importante al que nos hemos enfrentado durante el periodo de vida que lleva este centro es construir
+mecanismos sistemáticos y eficaces para promover la colaboración entre nuestros equipos de investigación.
+Para lograrlo hemos establecido un entorno muy vivo en el CENIA , fomentando no sólo las interacciones de
+investigación, sino también la creación de vínculos personales y sociales entre nuestros miembros, los
+actuales día a día se siguen fortaleciendo. Entre las actividades ya realizadas se encuentran workshops
+internos, seminarios y talleres multidisciplinares, en los que investigadores y estudiantes de posgrado con
+diferentes trayectorias se han reunido para intercambiar ideas e iniciar colaboraciones. Este tipo de eventos
+ha sido de gran ayuda para reunir a personas de nuestros grupos individuales y para identificar sinergias
+internas ocultas entre nuestros miembros. Las sesiones de "compartir y aprender" también forman parte de
+nuestras actividades periódicas, en las que los miembros de CENIA comparten con todo el Centro no sólo sus
+avances de investigación, sino también sus problemas, ideas y retos. La promoción de estas y otras
+actividades relacionadas, son una tarea principal de nuestro equipo de profesionales dedicados a la
+formación de nuestra cultura organizacional.
+Alianzas estratégicas con centros de investigación nacionales. La naturaleza ubicua de la IA nos ha abierto
+una oportunidad inestimable para establecer alianzas estratégicas con centros de investigación nacionales
+clave que se beneficiarán enormemente de la inclusión de tecnologías avanzadas de IA en sus planes de
+desarrollo. Cedeus y EC-FCFM, los cuales participan en los sectores de la energía y el desarrollo urbano, están
+en vías de convertirse en partners estratégicos del centro. Prevemos que este tipo de alianza será una
+CENIA.CL | info@cenia.cl | Centro de Innovación UC, piso 2. Av. Vicuña Mackenna 4860, Macul, Chile.
+
+importante vía de desarrollo para CENIA , ya que puede ampliar y acelerar nuestro impacto. En concreto, las
+principales ventajas de este tipo de asociación son dos. Por un lado, nos permite establecer un canal de
+comunicación directo con grupos de expertos que tienen un profundo conocimiento de los retos y
+oportunidades clave en los campos científicos y tecnológicos relevantes. Por otro lado, la asociación nos
+permite acceder a una red de conexiones relevante con sectores industriales clave para el desarrollo de Chile.
+II. Estructura del centro, mecanismos de gobernanza e instalación
+Como organización sin fines de lucro y de acuerdo con las leyes chilenas, CENIA cuenta con un directorio. En
+el caso de Cenia, este directorio tiene miembros que representan a cada una de las cuatro universidades
+fundadoras, un miembro que representa a la industria, un miembro que representa al equipo fundador y el
+Director de Cenia. Esta junta está legalmente constituida bajo las leyes chilenas y reporta al Ministerio de
+Justicia ya la Autoridad Tributaria.
+CENIA se organiza con su Director principal, el Dr. Soto. Bajo su dirección, el centro se organiza en tres
+unidades principales: i) Investigación, dirigida por PI Peña, ii) Transferencia de Tecnología, dirigida por
+Sebastián Melín, y iii) Divulgación, dirigida por Rodrigo Durán. Adicionalmente, Rolando Martínez es el
+Gerente del CENIA, y su rol principal es coordinar la operación general del Centro con el fin de cumplir con el
+Plan de Desarrollo.
+El Director también tiene un comité asesor internacional que está programado para reunirse una vez al año
+para discutir asuntos estratégicos. Este comité se formó recientemente. Tiene 4 miembros: Dr. Ricardo
+Baeza-Yates (Universidad del Noreste), Dra. Tania Bedrax-Weiss (Google), Dr. Jaime Moreno (IBM) y Dr. Rene
+Vidal (Universidad Johns Hopkins y Amazon).
+Los equipos operativos y administrativos del CENIA incluyen: un subdirector que apoya al gerente,
+específicamente en la relación con los investigadores y estudiantes, y que también participa en el diseño e
+implementación de las actividades de extensión; un gerente de finanzas responsable de la contabilidad, y un
+tesorero que controla y administra los recursos necesarios para llevar a cabo los procesos de cierre y
+elaboración de estados financieros contables y tributarios. Además, el CENIA cuenta también con un
+periodista responsable de las acciones de comunicación interna y externa del Centro, un asistente ejecutivo
+y un asistente dedicado a temas académicos.
+Al principio, la instalación del Centro fue lenta. Trabajaban en la implementación administrativa del CENIA 3
+profesionales. Esto no fue fácil, ya que el Centro tiene sede administrativa en la UC. Esto significa que los
+plazos de contratación, ejecución presupuestaria, concurso de cargos profesionales e investigadores deben
+ajustarse a los procedimientos y plazos de la Universidad, que en ocasiones no se ajustaban a las necesidades
+del Centro y las exigencias de la ANID.
+Sin perjuicio de lo anterior, a julio se completa el equipo ejecutivo con 10 personas dedicadas exclusivamente
+a la gestión administrativa y técnica. Este equipo está a cargo de la implementación del plan de desarrollo.
+El organigrama actual del Centro es el siguiente:
+CENIA.CL | info@cenia.cl | Centro de Innovación UC, piso 2. Av. Vicuña Mackenna 4860, Macul, Chile.
+
+Figura 1: Organigrama Centro Nacional de inteligencia Artificial.
+La instalación de un Centro de investigación como CENIA desde cero es un desafío. A modo de ejemplo, está
+prohibido incurrir en gastos antes de la fecha de inicio del Centro, por lo que el proceso de contratación inicial
+es lento. En nuestro caso, esto produjo un retraso en la ejecución de nuestro presupuesto. Afortunadamente,
+ANID ha sido un gran apoyo durante todo el proceso de instalación, lo que ha sido de gran ayuda para
+nosotros. Como ejemplo, recientemente ANID nos permite reprogramar la ejecución de nuestro presupuesto
+para el año inicial. Otra situación compleja ha sido el proceso para convertir al CENIA en una institución
+independiente. Este es un proceso nuevo para la ANID, por lo que las reglas que rigen el proceso aún no están
+del todo claras. Esto da como resultado retrasos inesperados.
+El hecho de que actualmente estemos alojados en una institución temporal produce varias complicaciones.
+A modo de ejemplo, la situación contractual de todos los que son contratados por el CENIA (personal
+administrativo, posgraduados e investigadores del centro) es sólo temporal, en el entendido de que la
+institución de acogida sólo realiza contratos de trabajo temporales y no indefinidos. Esta condición ha
+dificultado la atracción de personal que, al momento de ser ofrecido para incorporarse al CENIA, tenía
+contratos de larga duración en sus puestos originales. Afortunadamente, ANID y la institución anfitriona
+temporal han sido un gran apoyo para acelerar el proceso para convertir a CENIA en una institución
+independiente. El plan actual es completar este proceso al final del primer año de ejecución del programa
+(noviembre próximo).
+CENIA.CL | info@cenia.cl | Centro de Innovación UC, piso 2. Av. Vicuña Mackenna 4860, Macul, Chile.
+
+III. Balance de género
+En abril se constituyó el Comité de Equidad de Género en el CENIA. Este comité se dedica a evaluar los temas
+de género, proponiendo estrategias para visibilizar los hitos de las mujeres que forman parte de CENIA, así
+como promover espacios de formación y educación en género para la comunidad CENIA. Asimismo, también
+tiene entre sus objetivos utilizar una terminología adecuada y visibilizar brechas, además de promover
+iniciativas que aseguren un trato justo a las mujeres, asegurando que reciban los mismos derechos, beneficios
+y oportunidades que sus pares. El comité tiene 8 miembros.
+Durante el primer semestre de 2022, concretamente en el mes de junio, se realizó un primer levantamiento
+de información para identificar el número de hombres y mujeres que forman parte del centro, tanto en la
+categoría de investigadores como de estudiantes, y el número de publicaciones producidas por ambos. El
+resultado mostró que de un total de 50 profesionales del CENIA, 37 son hombres y 13 son mujeres. Asimismo,
+del total de 84 alumnos, 67 son hombres y 17 son mujeres. En cuanto al género con respecto al número de
+publicaciones, del total de 93 publicaciones, 60 corresponden a hombres y 33 a mujeres. De estos datos se
+puede deducir que las mujeres producen una media de 2,54 publicaciones por persona, mientras que los
+hombres producen una media de 2,54 publicaciones por persona.
+1,62 publicaciones por persona.
+De acuerdo con el compromiso de CENIA de promover activamente la equidad de género en todas nuestras
+actividades principales, recientemente se publicó una convocatoria para una posición de posdoctorado en
+CENIA dedicada exclusivamente a una mujer candidata. Dada la posible falta de candidatos con un doctorado
+en IA, la vacante es para un investigador con un doctorado en cualquier disciplina, con experiencia previa en
+IA, o que tenga interés en redirigir su investigación hacia la IA. Adicionalmente, esta convocatoria incluía un
+período de capacitación en áreas de IA por un período de 6 a 12 meses para el postulante seleccionado.
+En relación al cumplimiento de nuestro plan de acción, y específicamente al objetivo de empoderar a
+nuestras investigadoras, podemos decir que actualmente tres de las cinco líneas de investigación del CENIA
+están lideradas por mujeres: Marcela Peña (RL3), Bárbara Poblete (RL5) y Paula Aguirre (RL4). Asimismo,
+desde marzo, como parte de la estrategia de comunicación del Centro, se implementaron los jueves de
+mujeres en IA (#MujeresEnIA) y los jueves de mujeres en CENIA (#MujeresEnCENIA). En #MujeresEnIA
+destacamos, a través de una gráfica para redes sociales, el trabajo de destacadas mujeres que han
+contribuido al desarrollo de la IA, la ingeniería de software, la programación y la robótica, o que han aportado
+desde las matemáticas al progreso tecnológico en el mundo. Incluimos personalidades de diferentes épocas
+y diferentes nacionalidades para aumentar la diversidad y apuntar a diferentes audiencias. En
+#MujeresEnCENIA destacamos, a través de una cápsula audiovisual, integrantes de CENIA que cuentan sus
+principales actividades y motivaciones para ser parte de nuestro Centro. Además de las iniciativas anteriores,
+también destacamos periódicamente en nuestro sitio web el trabajo y logros de las mujeres CENIA, sus
+publicaciones en revistas científicas, distinciones y participación en importantes eventos, entre otros.
+En cuanto a nuestro compromiso de modificar, rechazar y denunciar las malas prácticas al interior de CENIA,
+nos preocupamos constantemente por incentivar a todo el equipo de CENIA a comportarse con el respeto
+requerido en cuanto a la atención, tiempo de palabra y autoría de las ideas de las mujeres en los grupos de
+CENIA.CL | info@cenia.cl | Centro de Innovación UC, piso 2. Av. Vicuña Mackenna 4860, Macul, Chile.
+
+trabajo, discusiones y cualquier otra instancia. En concreto, estas prácticas forman parte de nuestros valores
+organizacionales que han sido discutidos, comunicados y promovidos a través de todo nuestro Centro.
+IV. Estrategia general del centro
+En la propuesta original, enunciamos un conjunto de acciones clave que forman parte de nuestra estrategia
+general para contribuir al crecimiento económico de Chile. La mayor parte de los avances en estas acciones
+ya han sido descritos en otras secciones de este informe. Aquí, describimos un breve resumen de nuestras
+actividades actuales para cumplir con nuestra estrategia general para tener un impacto positivo en el
+desarrollo económico y social, y el bienestar de la sociedad chilena.
+a. Un centro nacional de investigación de IA.
+Programa de Divulgadores de IA: como describimos en la Sección VII-e, el próximo mes de septiembre un
+grupo de 25 miembros del CENIA participará en un taller de 3 meses para convertirse en comunicadores
+efectivos de IA. Este taller será dirigido por un grupo de comunicadores profesionales. Posteriormente, los
+miembros de este grupo participarán en varias actividades de divulgación dedicadas a promover la IA y
+buscan colaboraciones entre instituciones educativas en Chile.
+Colaboradores de Investigación: como describimos en la Sección VII-d, creamos en CENIA la categoría interna
+de Colaborador de Investigación para manejar la inclusión de nuevos investigadores de grupos de
+investigación de IA más pequeños en Chile. Bajo esta iniciativa, establecemos colaboraciones con
+investigadores de todo el país. En el norte, establecemos colaboraciones con investigadores de la Universidad
+de Tarapacá (UTA) y la Universidad Católica del Norte (UCN). En el sur, establecemos colaboraciones con
+investigadores de la Universidad de Talca (UT) y la Universidad de Magallanes (UM). En la capital
+establecemos colaboraciones con investigadores de la Universidad Andrés Bello (UAB), la Universidad San
+Sebastián (USS) y la Universidad de los Andes (UA).
+Recurso de Investigación de Inteligencia Artificial Fundacional (FAIRR): como describimos en la Sección VII-
+d, presentamos al gobierno de Chile una propuesta para establecer una red nacional de recursos de
+investigación de IA distribuidos. En esencia, FAIRR contendrá hardware de última generación para ejecutar
+grandes modelos de IA de última generación, como los llamados modelos básicos. Estos corresponden a
+modelos a muy gran escala (miles de millones de parámetros) que se pueden adaptar a diferentes tareas con
+un ajuste mínimo. En la propuesta de FAIRR contamos con la participación de investigadores de la UTA, UCN,
+UT y UM. Estas instituciones regionales ayudarán a posicionar a FAIRR como un centro para la investigación
+interdisciplinaria con una sólida red de colaboración regional.
+Seminarios CENIA: como describimos en la Sección VII-e, semanalmente los diferentes miembros de CENIA
+muestran los avances de sus investigaciones en seminarios abiertos. Estos seminarios se transmiten en vivo.
+Además, todas las sesiones están añadidas al canal de YouTube de CENIA.
+CENIA.CL | info@cenia.cl | Centro de Innovación UC, piso 2. Av. Vicuña Mackenna 4860, Macul, Chile.
+
+b. Creación de aplicaciones de IA exitosas
+Unidad de transferencia de tecnología: como describimos en la Sección VII-c, establecemos una unidad de
+transferencia de tecnología (UTT). En el corazón de esta TTU, un equipo de desarrollo tiene la función de
+empaquetar soluciones basadas en IA para que puedan cumplir con los estándares industriales, lo cual es una
+debilidad típica que afecta la transformación de proyectos académicos en aplicaciones industriales sólidas.
+Asociación con empresas nacionales: como describimos en la Sección VII-c, CENIA se ha involucrado
+inicialmente en colaboraciones con un grupo de empresas nacionales. Específicamente, actualmente el
+Centro tiene firmados nueve (9) acuerdos de confidencialidad (NDA) con empresas de diferentes industrias
+y se relaciona activamente con ellas: Copec (recursos naturales y energía), Enel (energía), Entel (telco),
+GoPlaceIt ( tecnología inmobiliaria), NotCo (tecnología alimentaria), SimpliRoute (logística de última milla),
+Training & Competence (aprendizaje electrónico), Sonda (TI) y Zippedi (tecnología minorista).
+Acuerdo con capital de riesgo: como describimos en la Sección VII-c, estamos cerrando una alianza con
+Austral Capital, un capital de riesgo local, para apoyar a las empresas de base tecnológica en etapas
+tempranas que utilizan la inteligencia artificial como tecnología habilitadora. Austral Capital estará a cargo
+de estructurar, levantar, administrar e invertir el fondo. CENIA se encargará de brindar mentoría y soporte
+tecnológico a las startups financiadas en materias relacionadas con la IA.
+Talleres a sectores nacionales clave: como describimos en la Sección VII-e, estamos organizando talleres
+temáticos para mostrar a diferentes sectores económicos las ventajas de las tecnologías actuales de IA de
+última generación. Como ejemplo, en colaboración con HPE, el próximo octubre organizaremos un taller
+dedicado a las agencias gubernamentales.
+c. Transferir las herramientas que desarrollamos, para promover el desarrollo y el bienestar
+humano
+Proyecto AI Challenge: establecemos una alianza con la Fundación Kiri, una organización chilena sin fines de
+lucro dedicada a contribuir a mejorar la educación escolar en Chile. En el marco de esta asociación,
+realizaremos una serie de eventos para enseñar conceptos básicos de IA a niños y adolescentes en
+comunidades rurales y vulnerables de Chile. Como resultado, al cierre del año, esperamos llegar a un total
+de 4.500 niños y adolescentes.
+OpenCenia: lanzamos un sitio web dedicado a proporcionar modelos, datos y herramientas de IA de código
+abierto a las comunidades chilena y latinoamericana (cenia.cl/opencenia). Como ejemplo, este sitio web
+proporciona PNL pre-entrenados y modelos de texto a imagen en español. Además, actualmente estamos
+desarrollando herramientas para traducir del español a idiomas nativos de Chile, como el rapanui y el
+mapudungun.
+CENIA.CL | info@cenia.cl | Centro de Innovación UC, piso 2. Av. Vicuña Mackenna 4860, Macul, Chile.
+
+d. Retención de recursos humanos talentosos
+Sólido programa de doctorado: como describimos en la Sección VII-b, hemos tenido mucho éxito atrayendo
+a estudiantes de posgrado para trabajar en CENIA. En concreto, a la fecha contamos con un total de 37
+doctorandos que se encuentran desarrollando su tesis en el CENIA. Al tener un gran centro de investigación,
+con una comunidad diversa dedicada a estudiar diferentes aspectos de la IA, podemos ofrecer a nuestros
+estudiantes un programa sólido en IA. A modo de ejemplo, actualmente estamos ampliando nuestra oferta
+de cursos, incluyendo nuevas opciones dedicadas a materias como Aprendizaje por Refuerzo, IA en Salud y
+Procesamiento Avanzado del Lenguaje Natural.
+Mujeres en la IA: como describimos en la Sección VII-e, estamos realizando una serie de actividades
+dedicadas a aumentar la participación de las mujeres en la IA y la informática en general. Como ejemplo,
+estamos patrocinando el evento chileno Mujeres en la Computación que se realizará el próximo mes de
+octubre. Adicionalmente, apoyamos actividades de organizaciones como Girls in Tech, Kodea, Technovation
+y Niñas-Pro, impulsando la creación de un grupo de trabajo con el gobierno para impulsar las vocaciones de
+programación con enfoque en IA.
+e. Fomentar la colaboración y la cultura organizacional:
+Construir nuestra cultura organizacional ha sido nuestro principal objetivo durante este período inicial.
+Creemos firmemente que una cultura organizacional sólida que guía e inspira los esfuerzos de nuestros
+miembros, es una piedra angular sólida para lograr nuestras metas.
+f. Alianzas estratégicas con centros de investigación nacionales:
+Actualmente estamos colaborando con varios centros e instituciones de investigación nacionales. Como
+primer resultado de estas colaboraciones, presentamos varias propuestas conjuntas a fuentes de financiación
+públicas y privadas nacionales e internacionales. Estas propuestas incluyen colaboraciones con The
+Millennium Institute for Intelligent Healthcare (iHEALTH), The Center for Excellence in Astrophysics and
+Related Technologies (CATA), The FONDAP Center for Genome Regulation (CGR), The Millennium Institute
+on Foundational Research on Data (IMFD), El Centro de Energía de la Universidad de Chile, el Instituto
+Nacional de Investigaciones Agropecuarias (INIA) y el Centro para el Desarrollo Urbano Sustentable (CEDEUS).
+CENIA.CL | info@cenia.cl | Centro de Innovación UC, piso 2. Av. Vicuña Mackenna 4860, Macul, Chile.
+
+V. Objetivos y resultados alcanzados
+a. Excelencia Científica y Tecnológica/Investigación
+Durante este período inicial, nuestros investigadores recibieron los siguientes premios:
+Paula Aguirre recibió el Premio “Adelina Gutiérrez” al Joven Investigador de la Academia de Ciencias de Chile.
+Jorge Baier y Carlos Hernández recibieron el premio AAAI-22 Distinguished Paper en la Trigésima Sexta
+Conferencia AAAI sobre IA por el artículo titulado "Subset aproximation of Pareto Regions with Bi-objective
+A*".
+Álvaro Soto (director de CENIA) fue galardonado con el Premio al Emprendimiento a la Spin-off Destacada
+“Zippedi” de la Pontificia Universidad Católica.
+Andrés Abeliuk fue reconocido como uno de los 100 jóvenes líderes de 2021 por el diario nacional El
+Mercurio.
+Finalmente, contamos con un importante número de investigadores y estudiantes con publicaciones
+relevantes:
+El artículo "vCLIMB: A Novel Video Class Incremental Learning Benchmark" del estudiante de doctorado
+Andrés Villa fue aceptado como presentación oral en la conferencia Computer Vision and Pattern Recognition
+(CVPR), uno de los eventos líderes en IA.
+El artículo “Optimización del conocimiento reutilizable para el aprendizaje continuo a través del
+metaaprendizaje” de los estudiantes de doctorado Julio Hurtado y Alain Raymond-Saez, en colaboración con
+PI Alvaro Soto, fue aceptado en NEURIPS, una conferencia líder en IA.
+El trabajo titulado "Búsqueda heurística en tiempo real con objetivos LTLf", realizado por Jorge Baier
+(investigador asociado de CENIA), Rodrigo Toro (investigador joven de CENIA) y Jaime Middleton (estudiante
+de maestría de CENIA), fue aceptado en la 35ª edición. de la “Conferencia Conjunta Internacional sobre IA
+2022” (IJCAI 2022).
+Dos artículos científicos de la investigadora del CENIA Yamisleydi Salgueiro fueron publicados por las
+principales revistas internacionales sobre IA: Neural Computing and Applications e IEEE Transactions on
+Cybernetics, respectivamente. Estas publicaciones son: “Redes cognitivas de largo a corto plazo”, realizada
+por la investigadora junto con Gonzalo Nápoles, Isel Grau y Agnieszka; y “Recurrence-Aware Long-Term
+Cognitive Network for Explainable Pattern Classification”, realizado en colaboración con Gonzalo Napoles,
+Isel Grau y Maikel León Espinosa.
+Los trabajos "Evaluación de referencias para representaciones de oraciones en español" realizados por José
+Cañete (CENIA), junto con los investigadores Vladimir Araujo (CENIA), Andrés Carvallo (CENIA), Souvik Kundu,
+CENIA.CL | info@cenia.cl | Centro de Innovación UC, piso 2. Av. Vicuña Mackenna 4860, Macul, Chile.
+
+Marcelo Mendoza (CENIA), Robert E. Mercer, Felipe Bravo-Márquez (CENIA), Marie-Francine Moens y Alvaro
+Soto (CENIA), y el artículo “ALBETO and DistilBETO: Lightweight Spanish Language Models”, realizado por
+José Cañete junto a los investigadores Sebastián Donoso (CENIA), Felipe Bravo-Márquez (CENIA), Andrés
+Carvallo (CENIA) y Vladimir Araujo (CENIA) fueron presentados en el Language Resources and Evaluation
+Conference, LREC 2022, en Marsella, Francia.
+El artículo "La topología de las reconstrucciones metabólicas a escala del genoma revela módulos
+independientes y alta flexibilidad de red", realizado por el investigador Pedro Saa, ha sido publicado en la
+revista científica PLOS Computational Biology, prestigiosa revista en el área de Computational Biology.
+El trabajo titulado "Un estudio sobre la predictibilidad de la consistencia del aprendizaje de muestras",
+realizado por Alain Raymond junto con los investigadores Julio Hurtado y Álvaro Soto, fue presentado por el
+estudiante de doctorado de CENIA Alain Raymond en el taller LatinX in AI (LXAI) en el marco del 39ª
+Conferencia Internacional sobre Aprendizaje Automático (ICML).
+b. Desarrollo y atracción de capital humano
+Tal como se presenta en la propuesta, la estrategia del Centro contempla 4 caminos que buscan incrementar
+el capital humano relacionado con la IA:
+Doctorandos: En la propuesta se estableció como reto tener al menos 40 doctorandos después de 5 años de
+desarrollo del proyecto. Sin embargo, hemos tenido mucho éxito atrayendo estudiantes de posgrado para
+trabajar en CENIA. En concreto, a la fecha contamos con un total de 37 doctorandos que están desarrollando
+su tesis en el CENIA, trabajando directamente con investigadores del Centro como sus asesores. Además,
+avanzamos en nuestra apuesta por atraer talento de otros países latinoamericanos. En concreto, durante el
+primer semestre se incorporó a nuestro equipo de desarrollo de software Andreína Cota, ingeniera boliviana,
+como una primera aproximación a su formación en IA. Posteriormente, en julio pasado, fue aceptada en el
+programa de doctorado de la UC, donde comenzará sus estudios de doctorado en IA bajo el auspicio de
+CENIA.
+En nuestra agenda a corto plazo para el año 2022, tenemos varias iniciativas para promover la atracción de
+doctorandos al CENIA. El próximo mes de noviembre participaremos como co-organizadores del Congreso
+Chileno de Ciencias de la Computación (JCCC). En concreto, nos encargaremos de desarrollar un evento
+paralelo con la presencia de dos ponentes magistrales, un stand informativo y una sesión de conferencias y
+posters para mostrar nuestras principales actividades de investigación. JCCC es el principal evento nacional
+dedicado a las Ciencias de la Computación en Chile, con una importante participación de estudiantes de grado
+y maestría.
+También participaremos en el Encuentro Nacional de Ingeniería Matemática (ENIM 2022), donde nuestra
+investigadora principal, Paula Aguirre, presentará CENIA. En ENIM también contaremos con un stand donde
+se mostrarán nuestras líneas de investigación y la iniciativa de IA con la industria. Por último, estamos
+organizando una escuela de verano que entrará en vigor en enero de 2023. Esta escuela de verano estará
+dedicada a fomentar la participación de estudiantes de grado y máster en nuestras actividades.
+CENIA.CL | info@cenia.cl | Centro de Innovación UC, piso 2. Av. Vicuña Mackenna 4860, Macul, Chile.
+
+Posdoctorados: Durante los meses de febrero y julio se abrieron convocatorias para 4 puestos posdoctorales
+en el Centro. En la primera convocatoria se postularon 19 personas. Como resultado de este proceso se
+decidió contratar a dos investigadores: Valentín Barriere y Jesús Pérez Marti, ambos investigadores con
+amplia experiencia en temas de IA. Valentín proviene de Italia, donde también obtuvo la beca Postdoctoral
+Marie Curie Slovadoska, un apoyo adicional que le permitirá extender su estadía en CENIA. Jesús se
+incorporará al Centro a finales de este año, ya que aún está en proceso de terminar su doctorado.
+Durante el mes de julio se abrió una segunda convocatoria de plazas postdoctorales, esta vez específicamente
+enfocada a mujeres que quieran desarrollar su carrera en IA. El otro puesto estaba abierto a todos los
+candidatos. Esta convocatoria cierra el 15 de agosto y se espera poder cubrir 3 plazas más, teniendo 5
+estudiantes posdoctorales en el Centro a finales de 2022.
+Académicos: Como parte del compromiso del Centro de formar capital humano que pueda insertarse en la
+academia, actualmente estamos ofreciendo un Diplomado en IA que está dedicado a personas de la industria.
+El Diploma consta de 130 horas de clases con un enfoque principal en actividades prácticas. Como dato
+relevante, la mayoría de las clases, en particular las prácticas, están pensadas por doctorandos que trabajan
+en Cenia. Esperamos que esta experiencia docente nos ayude a atraer a algunos de nuestros estudiantes de
+doctorado a la academia. Además, tenemos una vacante para que 4 investigadores trabajen en Cenia. Ya
+cubrimos 3 de estas posiciones. Estamos incentivando a estos investigadores a impartir al menos una clase
+de IA cada año en las universidades asociadas a CENIA.
+Prácticas: Si bien la propuesta apuntaba a una estrecha colaboración con Microsoft para gestionar las
+prácticas de nuestros alumnos, durante estos meses de ejecución hemos ampliado nuestra red de
+colaboración y actualmente estamos diseñando espacios de colaboración con Google y Amazon. Esto nos
+permitirá ampliar la oferta formativa de nuestros estudiantes de grado y posgrado y fortalecer aún más las
+capacidades académicas y técnicas de los integrantes del Centro. En cuanto a proyecto de tesis con la
+industria, en el mes de agosto tendremos a un estudiante de Ingeniería Civil UC realizando su proyecto de
+grado con la empresa GoPlaceIT. Se unirá a nuestro equipo de desarrollo de software para trabajar en una
+solución basada en IA para esta empresa.
+Trayectoria académica: Durante los primeros meses de funcionamiento, los investigadores principales del
+Centro establecieron una instancia denominada: Comité Científico del CENIA. En este espacio se definieron
+los lineamientos y el procedimiento de evaluación para todos los investigadores que integran el Centro. Esta
+evaluación tendrá lugar en enero de 2023 y se considerará una implementación piloto sujeta a mejoras. La
+idea es que todos tengan claro qué se espera de su trabajo en el Centro y cuáles son los criterios que deben
+cumplir para optar a promociones dentro del mismo.
+Durante el período del informe ( - ) El Centro cuenta con los siguientes resultados
+relacionados con la formación y atracción de capital humano avanzado:
+• 50 investigadores se encuentran actualmente impartiendo temas relacionados con las líneas de
+investigación del Centro en
+• 9 universidades chilenas. Estos programas incluyen: cursos de pregrado, posgrado y formación
+profesional.
+CENIA.CL | info@cenia.cl | Centro de Innovación UC, piso 2. Av. Vicuña Mackenna 4860, Macul, Chile.
+
+El Centro ha contribuido a formar a 87 profesionales, dando la participación de sus investigadores como
+docentes en el Diplomado de IA impartido por la institución anfitriona.
+El Centro cuenta con 27 estudiantes de posgrado que son financiados (total o parcialmente) por el Centro
+para completar su tesis de posgrado.
+CENIA ha contratado a 3 investigadores para desarrollar proyectos dentro de las líneas de investigación y
+postularse a subvenciones nacionales e internacionales para fortalecer el potencial investigador del Centro.
+c. Transferencia de tecnología, aplicación del conocimiento y vínculos con otros sectores de la
+economía y sociedad chilena.
+CENIA ha establecido una unidad de transferencia de tecnología (UTT). Está integrado por un equipo de
+desarrollo de 18 ingenieros de software e IA (equipo técnico), la mitad de ellos con estudios de posgrado en
+ingeniería, Felipe Guerrero Jefe de Desarrollo de Software e IA, y Sebastián Melin Director de Transferencia
+de Tecnología.
+En el corazón de la TTU, el equipo técnico tiene la función de empaquetar soluciones basadas en IA para que
+puedan cumplir con los estándares industriales, lo cual es una debilidad típica que afecta la transformación
+de proyectos académicos en aplicaciones industriales robustas. Durante este primer período de CENIA,
+dedicamos especial atención a conformar un equipo sólido de ingenieros que puedan trabajar en equipo.
+El equipo de desarrollo celebra una reunión diaria de 15 minutos para coordinar el trabajo diario, trabaja
+principalmente de forma remota y se reúne una vez a la semana los jueves para colaborar en persona. Una
+vez al mes, el equipo de desarrollo, dirigido por Felipe Guerrero, realiza un evento presencial denominado
+“CENIA Palooza”, donde los equipos presentan el progreso de proyectos individuales y reciben
+retroalimentación entre pares. El equipo líder de transferencia de tecnología, Felipe Guerrero y Sebastián
+Melin, se reúnen semanalmente en persona con el Director Ejecutivo y el Director del CENIA para informar
+sobre los avances relacionados con la transferencia de tecnología y las actividades vinculadas a otros sectores
+de la economía chilena.
+La estrategia de transferencia de tecnología tiene dos pilares principales: primero, conectar las capacidades
+expertas de CENIA en IA con las necesidades de una amplia variedad de socios del sector público y privado;
+y segundo, transferir tecnologías de IA a estos sectores. Esto incluye la transferencia de tecnologías de IA de
+última generación actuales y también nuevas técnicas que surgen de la investigación desarrollada en CENIA.
+En cuanto al primer pilar, el Centro se ha comprometido inicialmente con el grupo de empresas que apoyan
+la propuesta de creación de nuestro Centro. Específicamente, actualmente el Centro tiene firmados nueve
+(9) acuerdos de confidencialidad (NDA) con empresas de diferentes industrias y se relaciona activamente con
+ellas: Copec (recursos naturales y energía), Enel (energía), Entel (telco), GoPlaceIt ( tecnología inmobiliaria),
+NotCo (tecnología alimentaria), SimpliRoute (logística de última milla), Training & Competence (aprendizaje
+electrónico), Sonda (TI) y Zippedi (tecnología minorista). Con dos de estas empresas, Entel y Zippedi, ya
+hemos firmado contratos de proyectos, y estamos en proceso de firmar contratos con todas las demás
+empresas.
+Entre los proyectos actuales con estas empresas podemos mencionar:
+CENIA.CL | info@cenia.cl | Centro de Innovación UC, piso 2. Av. Vicuña Mackenna 4860, Macul, Chile.
+
+- Zippedi: reconstrucción visual 3D de un entorno y corrección automática de anomalías visuales en imágenes
+captadas por un robot que navega en una tienda de comestibles.
+- GoPlaceIt: predicción de valoración de inmuebles utilizando imágenes del entorno urbano entre otras
+preferencias de los habitantes.
+- Copec: detección automática de anomalías en componentes de grandes vehículos industriales (minería)
+mediante análisis termográfico.
+- Training & Competence, detección automática de errores de procedimiento en vídeos de entrenamiento en
+motricidad fina.
+- SimpliRoute: incorporación de las preferencias del usuario en la planificación de rutas de última milla
+mediante el uso de técnicas de aprendizaje por refuerzo.
+Adicionalmente, el equipo de transferencia de tecnología se encuentra en proceso de definir el alcance de
+proyectos específicos a desarrollar y colaborar con las siguientes empresas: Enel, Entel, NotCo y Sonda. Estos
+proyectos utilizan mayoritariamente técnicas de IA que se están investigando en la línea de investigación 1:
+aprendizaje profundo para la visión y el lenguaje. Sin embargo, estamos buscando activamente incorporar
+técnicas innovadoras de otras líneas de investigación en CENIA en nuestras colaboraciones con el sector
+privado.
+Para el sector público hemos adoptado una estrategia de alianza con Hewlett Packard Enterprise (HPE) que
+ofrece soluciones de TI para el sector público y complementa las capacidades de CENIA con infraestructura
+de última generación. CENIA se está asociando con Digital Government, el brazo de transformación digital
+del gobierno de Chile, HPE y AMD (empresa multinacional de procesadores de computadoras) para organizar
+un seminario para el sector público para promover colaboraciones entre diferentes áreas del sector público
+y la asociación CENIA, HPE, AMD. Esperamos que esto genere oportunidades de transferencia de tecnología
+entre el sector público chileno y CENIA.
+El segundo pilar es una estrategia de impulso tecnológico, que planeamos impulsar en una segunda fase a
+partir del segundo año de CENIA. Esto incluirá la generación de una cartera de proyectos y tecnologías que
+pueden ser desarrollados por el equipo de desarrollo de transferencia de tecnología o transferidos a partes
+interesadas en el sector público o privado.
+Como parte de nuestra estrategia, el Centro ha estado buscando activamente diversas oportunidades de
+financiación. En este contexto, CENIA ya ha presentado varias propuestas que incluyen aplicaciones
+innovadoras de IA, a fuentes de financiación públicas y privadas nacionales e internacionales. Estas
+propuestas incluyen colaboraciones internas entre los investigadores de CENIA así como colaboraciones
+interdisciplinarias con otros Centros de investigación e instituciones nacionales. Entre estas iniciativas,
+podemos mencionar:
+i) Fondequip, Concurso de Equipamiento Científico y Tecnológico Mayor 2022. Esta es una oportunidad de
+financiación pública de ANID para financiar equipos de investigación a gran escala. CENIA ha colaborado con
+la institución anfitriona Universidad Católica con la propuesta “Recurso de Investigación Fundacional en IA
+(FAIRR): Hacia una Red Nacional de Recursos para Apoyar la Investigación en IA”. La propuesta pretende
+dotar al CENIA de una infraestructura informática adecuada para afrontar los retos actuales de la IA, como
+CENIA.CL | info@cenia.cl | Centro de Innovación UC, piso 2. Av. Vicuña Mackenna 4860, Macul, Chile.
+
+son la operación y entrenamiento de los denominados Foundation Models. En concreto, la propuesta incluye
+una solicitud de hardware de última generación para ejecutar modelos de IA. Este consiste en una matriz de
+40 unidades de procesamiento de gráficos (GPU) NVIDIA A100 con 80 GB de memoria por GPU. Estas GPU se
+pueden usar de forma conjunta, como una supercomputadora para IA, o de forma independiente, para
+asignar simultáneamente a numerosos usuarios. Total de fondos solicitados: US$ 1 millón.
+ii) Programa Tecnológico de Transformación Productiva ante el Cambio Climático. Esta es una oportunidad
+de financiamiento público de la agencia chilena CORFO para financiar proyectos que atiendan brechas
+competitivas de diferentes sectores productivos. CENIA postuló a este fondo con la propuesta titulada
+“Agricultura Inteligente para el Cambio Climático y la Seguridad Alimentaria”. La propuesta tiene como
+objetivo implementar una cartera de 4 proyectos dedicados al uso de tecnologías de IA para transformar las
+actividades agrícolas tradicionales hacia una operación más productiva y sostenible. Como ejemplo, el uso
+de estrategias de agricultura vertical que pueden reducir sustancialmente la necesidad de espacio y la huella
+hídrica. Esta propuesta es una colaboración entre Cenia e instituciones nacionales dedicadas al estudio y
+desarrollo de la agricultura y las energías sostenibles. Fondos totales solicitados: US$ 2,1 millones en un
+proyecto de 5 años.
+iii) Desafíos Públicos: Gestión de Tránsito basado en Datos Digitales. Esta es una oportunidad de
+financiamiento público auspiciada por ANID y el Laboratorio de Gobierno para financiar proyectos que
+resuelvan desafíos de interés público. CENIA postuló con una propuesta denominada “Gestión del Transporte
+basada en Datos Digitales”, que apunta a la obtención de una solución tecnológica analítica que proporcione
+indicadores de movilidad. Estos indicadores son monitoreados constantemente con el uso de una gran
+cantidad de datos que provienen de diferentes sensores que registran una huella digital de movilidad. Fondos
+totales solicitados: US$ 170.000 en un proyecto de 3 años.
+iv) Fondo Lacuna: conjuntos de datos para aplicaciones climáticas. Esta es una organización internacional
+que busca propuestas de organizaciones interesadas en desarrollar conjuntos de datos para resultados
+climáticos equitativos en clima y energía y clima y salud. CENIA se ha postulado con un proyecto llamado
+"Conjunto de datos para la estimación de la energía y la salud de los cultivos en la agricultura hidropónica de
+interior". Este proyecto incluye la creación y el etiquetado del primer conjunto de datos que estará disponible
+públicamente para entrenar modelos de aprendizaje automático de "agricultura interior" en Chile. Fondos
+totales solicitados: US$ 370.000 para un proyecto de 18 meses.
+En este punto, CENIA está en proceso de ser una organización independiente, sin embargo, la actual
+institución anfitriona temporal, la Universidad Católica (UC), cuenta con una de las Oficinas de Transferencia
+de Tecnología (DTD) líderes en el ecosistema universitario chileno. La oficina gestiona una cartera de más de
+300 tecnologías. La dirección de transferencia de tecnología del CENIA tiene una relación de trabajo positiva
+con DTD, aprovechando su experiencia y conocimiento en transferencia de tecnología en un ecosistema
+académico.
+International Collaboration (Alliances):
+PI, Marcela Peña es socia de la recién otorgada “Cátedra UNESCO de Ciencia y Educación: Construyendo un
+Puente entre el Laboratorio y el Aula”. La cátedra se ejecuta en Brasil, con la colaboración de científicos de
+CENIA.CL | info@cenia.cl | Centro de Innovación UC, piso 2. Av. Vicuña Mackenna 4860, Macul, Chile.
+
+Argentina, Bélgica, Canadá, Chile, Cuba, Estados Unidos, Finlandia, Francia, Reino Unido y Uruguay. Uno de
+los resultados de esta colaboración será un estudio del impacto de la IA en la educación.
+En colaboración con investigadores del Instituto Tecnológico de Massachusetts (MIT), el próximo mes de
+enero organizaremos una escuela de verano dedicada al tema de "Visualización e inteligencia artificial
+centrada en el ser humano". Esta escuela de verano se realizará en la UC con la participación de Belén Saldías
+(MIT), Maggie Hughes (MIT) y Denis Parra (CENIA). Este será un evento público con una participación masiva
+de estudiantes de todo el país.
+Como detallamos en la Sección VII-e, estamos trabajando en la elaboración de un Índice Latinoamericano de
+IA en IA (AI-Index). Para elaborar este índice, hemos establecido colaboraciones con otras dos instituciones
+de investigación en América Latina: i) El Instituto Nacional de Astrofísica, Óptica y Electrónica de México, y ii)
+El Centro de Investigación y Capacitación en Inteligencia Artificial de la Universidad de Los Andes. en
+Colombia. La alianza estratégica con estas dos instituciones será clave para nutrir el AI-Index con información
+relevante de otras partes de América Latina. Además, para la elaboración del AI-Index, también establecemos
+una colaboración con el Banco de Desarrollo de América Latina (CAF) y el Instituto Futuro de la Vida (FLI),
+quienes conjuntamente contribuirán con recursos para el trabajo de investigación y redacción. Otras
+organizaciones de apoyo son la Organización de los Estados Americanos (OEA) y la UNESCO.
+Jorge Baier (PI) y Carlos Hernandez (AR) son investigadores de la beca “NSFBSF: RI: Small: Efficient: Bi- and
+Multi-Objective Search Algorithms” (Award Number 2121028). Esta subvención está financiada por la
+Fundación Nacional de Ciencias (NSF). Incluye un presupuesto de colaboración para los equipos de Chile y
+Estados Unidos. Este es un proyecto de 3 años que finalizará en septiembre de 2024.
+Alonso Herrera, estudiante de Maestría en la Université de Marseille, visitó al IP Cristóbal Rojas de abril a
+junio para realizar parte de su trabajo de tesis bajo la supervisión del Dr. Rojas.
+Finalmente, durante este período, investigadores del CENIA han realizado publicaciones en coautoría con
+científicos de Brasil, EE. UU., Bélgica, Canadá, Alemania, Francia y Argentina, entre otros.
+d. Support to Other Research Groups
+Convertirse en un centro de investigación verdaderamente nacional para IA es un gran desafío para CENIA.
+Esto implica ir más allá de nuestras cuatro universidades financiadoras. Creemos que el impacto potencial de
+extender nuestras actividades al resto del sistema educativo superior nacional vale la pena. Tenemos la
+convicción de que, al ser una organización incluyente, no solo maximizamos nuestro impacto, sino que nos
+convertimos en una organización más fuerte. Como ejemplo, durante este período inicial establecemos
+colaboraciones con pequeños grupos de investigación en varias universidades nacionales. Para ello, creamos
+la nueva categoría interna de Colaborador de Investigación. Los investigadores de esta categoría tienen
+acceso a nuestros canales de comunicación internos ya la mayoría de nuestras actividades. En el norte,
+establecemos colaboraciones con investigadores de la Universidad de Tarapacá (UTA) y la Universidad
+Católica del Norte (UCN). En el sur, establecemos colaboraciones con investigadores de la Universidad de
+Talca (UT) y la Universidad de Magallanes (UM). En la capital establecemos colaboraciones con investigadores
+de la Universidad Andrés Bello (UAB), la Universidad San Sebastián (USS) y la Universidad de los Andes (UA).
+CENIA.CL | info@cenia.cl | Centro de Innovación UC, piso 2. Av. Vicuña Mackenna 4860, Macul, Chile.
+
+Nuestro plan es establecer un eje y radios. Prevemos que esta infraestructura organizativa facilitará el
+intercambio de contenido y recursos que generará principalmente el hub.
+Para empezar a trabajar en la idea anterior, presentamos al gobierno de Chile una propuesta con título:
+"Recurso Fundacional de Investigación en Inteligencia Artificial (FAIRR): Hacia una Red Nacional de Recursos
+para Apoyar la Investigación en IA". Nos referimos a FAIRR como fundamental porque visualizamos su
+implementación como un modelo guía para establecer instalaciones similares en todo el país, lo que lleva a
+una red nacional de recursos de investigación de IA distribuidos. En la propuesta de FAIRR contamos con la
+participación de investigadores de la UTA, UCN, UT y UM. Estas instituciones regionales ayudarán a posicionar
+a FAIRR como un centro para la investigación interdisciplinaria con una sólida red de colaboración regional.
+e. Actividades de Difusión y Difusión hacia Otros Sectores de la Sociedad Chilena
+El CENIA cuenta con una unidad de extensión y extensión a los medios, que funciona desde marzo de 2022 y
+está integrada por dos colaboradores de tiempo completo y un asesor experto en extensión a niños, niñas y
+adolescentes. Para cumplir con nuestros objetivos se han concertado alianzas con organizaciones alineadas
+con nuestras principales iniciativas. Adicionalmente, se realizan reuniones periódicas de coordinación con las
+líneas de investigación y el equipo de desarrollo, brindando oportunidades y apoyo para la difusión de los
+avances logrados.
+Los hitos más relevantes hasta la fecha son los siguientes:
+Índice Latinoamericano de IA (AI-Index): El Índice es un proyecto que visibilizará el progreso actual y el nivel
+de actividad en IA en Chile y América Latina en cuatro dimensiones principales: (i) Investigación, desarrollo y
+adopción tecnológica; (ii) Rol del Estado, en la regulación y promoción del desarrollo de la IA; (iii) percepción
+de la IA; y (iv) Prospectiva y futuro de la IA. El AI-Index se enfoca en el eje Pensar la IA, ya que pondrá a
+disposición de la sociedad información rigurosa y contrastada sobre la realidad de la disciplina en la región;
+y en el eje de Fomento de la IA, ya que visibilizará diferentes iniciativas que se están desarrollando a nivel
+regional. Para la elaboración del AI- Index, hemos estado buscando activamente la colaboración con
+instituciones nacionales e internacionales. En particular, obtuvimos financiamiento del Banco de Desarrollo
+de América Latina (CAF) y el Instituto Futuro de la Vida (FLI), quienes contribuirán conjuntamente con US$
+45000 para el trabajo de investigación y redacción. Adicionalmente, el AI-Index contará con el patrocinio de
+los Ministerios de Economía y Ciencia de Chile, la Organización de los Estados Americanos (OEA) y la UNESCO,
+lo que se traduce en el apoyo a su difusión y la participación de representantes de estos organismos en el
+comité editorial. Además, contamos con el apoyo del Centro de Tecnologías de la Información de la UC,
+quienes recopilarán información relevante de sus socios industriales. Este AI-Index será un insumo para el
+trabajo del RL 5, específicamente del Observatorio de Ética de la IA. El plan es publicar el Índice AI- en el
+segundo trimestre de 2023.
+Seminarios CENIA: Semanalmente, diferentes miembros de CENIA muestran los avances de sus
+investigaciones en seminarios abiertos. Al 31 de julio se han realizado 15 seminarios, donde investigadores
+de 4 líneas de investigación se han presentado ante una audiencia total de 871 personas. Para fin de año, se
+esperan 16 seminarios más con una audiencia acumulada de 1.500 personas. Todas las sesiones estarán en
+el canal de YouTube de CENIA, ordenadas por temas para quienes busquen más información sobre esta
+CENIA.CL | info@cenia.cl | Centro de Innovación UC, piso 2. Av. Vicuña Mackenna 4860, Macul, Chile.
+
+disciplina. Las jornadas rinden homenaje a nuestro eje de difusión Educar en IA, ofreciendo información
+actualizada y rigurosa a la ciudadanía.
+Proyecto AI Challenge: Corresponde a una actividad inmersiva diseñada por nuestro equipo para ilustrar
+conceptos básicos de IA a niños y adolescentes a través de una experiencia práctica. Con esto, buscamos no
+solo educar en tecnologías de IA, sino también promover vocaciones desde edades tempranas. Esta
+experiencia, junto con otras 3 que se encuentran en etapa de diseño, estarán alineadas con los objetivos
+curriculares educativos chilenos en los niveles de primaria y secundaria y estarán a disposición de los
+docentes de las escuelas locales. Actualmente, estamos desarrollando esta iniciativa en alianza con la
+Fundación Kiri, una organización chilena sin fines de lucro dedicada a contribuir a mejorar la educación
+escolar en Chile. Bajo esta alianza, al finalizar el año, esperamos llegar a un total de 4.500 niños y adolescentes
+en comunidades vulnerables y rurales de Chile.
+OpenCenia: OpenCenia es un sitio web dedicado a proporcionar modelos, datos y herramientas de IA de
+código abierto a las comunidades chilena y latinoamericana (cenia.cl/opencenia/). Esta iniciativa se alinea
+con el eje Promover la IA. En su fase actual, proporciona modelos de PNL y texto a imagen pre-entrenados
+en español dirigidos a académicos y emprendedores en América Latina. Este proyecto es un punto de partida
+para la construcción del AI Hub que incluimos en nuestro plan de desarrollo. Actualmente, también estamos
+trabajando en dos iniciativas dedicadas a preservar las lenguas nativas de Chile, específicamente un traductor
+rapanui-español y un traductor mapudungun-español. Otras iniciativas incluyen la capacitación del popular
+modelo de texto a imagen "CLIP" en español y la capacitación del modelo "Stable Diffusion" en español.
+A corto plazo, tenemos en nuestra agenda las siguientes iniciativas:
+Programa de divulgadores: Esta iniciativa está dedicada a reunir y capacitar a un grupo de divulgadores clave
+de las principales actividades de AI y CENIA. En concreto, a partir de septiembre de 2022, y durante un
+periodo de 3 meses, un grupo de 25 miembros del CENIA participará en 8 sesiones de taller para convertirse
+en comunicadores efectivos de IA. Esperamos que este grupo participe en actividades masivas organizadas
+por diferentes instituciones del país, como el Festival de la Ciencia, Puerto de Ideas y Congreso Futuro.
+Vinculación con organizaciones que promuevan STEM en niñas: Apoyaremos actividades que promuevan el
+interés y participación de más niñas en disciplinas STEM, con foco en IA, a través del patrocinio de Chile WIC
+en octubre y Latinity en enero. Adicionalmente, apoyaremos actividades de organizaciones como Girls in
+Tech, Kodea, Technovation y Niñas-Pro, impulsando la creación de un grupo de trabajo con el gobierno para
+impulsar las vocaciones de programación con enfoque en IA.
+Desde el área de comunicación se han llevado a cabo acciones concretas con el objetivo de visibilizar el
+trabajo de nuestros investigadores y desarrolladores:
+Videocápsulas para promocionar las actividades de investigación de CENIA: Se trata de breves cápsulas
+audiovisuales en las que los investigadores y desarrolladores de CENIA, provenientes de todas nuestras líneas
+de investigación, explican en menos de dos minutos cuál es su área de especialidad y qué hacen en CENIA,
+en además de expresar sus opiniones respecto a la IA y sus alcances en el futuro. Las cápsulas están alojadas
+en nuestro canal de Youtube.
+CENIA.CL | info@cenia.cl | Centro de Innovación UC, piso 2. Av. Vicuña Mackenna 4860, Macul, Chile.
+
+Mujeres en IA: Consiste en breves cápsulas audiovisuales en las que mujeres que forman parte del CENIA,
+tanto investigadoras como desarrolladoras, explican qué hacen y por qué es importante que más mujeres se
+interesen por las áreas STEM, y principalmente por la IA. Las cápsulas están alojadas en nuestro canal de
+YouTube.
+Seminarios Nocturnos de CENIA: Estos seminarios bimensuales que inician recientemente en agosto se
+realizarán internamente para los miembros de CENIA. Los seminarios están dedicados a discutir temas de
+actualidad en IA. Cada seminario tiene un panel de tres expertos que reflexionan sobre un tema específico y
+luego hay un espacio para preguntas. Todos los seminarios serán grabados y publicados en nuestro canal de
+YouTube. Los seminarios se llevan a cabo por la noche en pubs locales para motivar las redes sociales entre
+los miembros de CENIA.
+VI. Estado Financiero
+Balance Financiero desde a 
+CENIA.CL | info@cenia.cl | Centro de Innovación UC, piso 2. Av. Vicuña Mackenna 4860, Macul, Chile.
+
+VII. Consecuencias de la reducción de presupuesto
+Presupuesto propuesto Presupuesto otorgado Porcentaje de redcción
+11,197,077.02 USD 10,095,406.96 USD 9.84% (*)
+8,416,016.32 USD 7,587,972.12 USD 9.84% (**)
+(*) Exchange Rate (Offer): 710.64
+(**) Current Exchange Rate: 945.47
+Antes de comenzar a explicar este punto y sus consecuencias se debe mencionar que como centro estamos
+insertos en el mercado chileno, donde como antecedente señalamos que existen factores externos que
+también afectan nuestro presupuesto adjudicado. , por mencionar algunos:
+Incremento sostenido del IPC: En junio de 2022, el Índice de Precios al Consumidor (IPC) registró un
+incremento mensual de 0,9%, una variación acumulada de 7,1% en lo que va del año y un incremento de 12
+meses de 12,5%. Este aumento sostenido del IPC implica una reducción del poder adquisitivo, ya que con el
+mismo dinero se pueden comprar menos bienes y servicios.
+Aumento en el tipo de cambio: un aumento sustancial reciente en el tipo de cambio de dólares a pesos
+chilenos produce un aumento en el precio de las importaciones, como equipos de gran escala, y también
+boletos aéreos. Esto afecta nuestro presupuesto inicial que estaba planificado con un tipo de cambio más
+bajo.
+CENIA.CL | info@cenia.cl | Centro de Innovación UC, piso 2. Av. Vicuña Mackenna 4860, Macul, Chile.
+
+Ahora bien, de las reducciones al presupuesto aplicado versus el actual, los rubros más significativos que se
+redujeron fueron los incentivos a investigadores principales y asociados, y los pasajes aéreos.
+Estas reducciones son justificadas por la ANID sobre la base de los siguientes argumentos.
+Reducción de las partidas "INVESTIGADORES PRINCIPALES" & "INVESTIGADORES ASOCIADOS": Este importe
+se redujo debido a que la mayoría de los investigadores de estas categorías tienen contratos laborales
+estables con las Universidades para las que trabajan, además de contar con otros fondos concursables
+menores que les permiten financiarse. sus actividades de investigación.
+Reducción del rubro “VIAJES NACIONALES E INTERNACIONALES”: Este rubro se redujo debido a que en ese
+momento estábamos en medio de una pandemia mundial de coronavirus, y los viajes nacionales e
+internacionales habían disminuido drásticamente por temor al contagio, barreras sanitarias para el ingreso a
+otros países, y aprobación de vacunas.
+Incremento en el rubro “PROFESIONAL ALTAMENTE CUALIFICADO”: Se incrementó pensando en un equipo
+de ingenieros de desarrollo e informáticos, que puedan llevar a cabo los ambiciosos proyectos que tienen las
+empresas, para personal del equipo ejecutivo y encargados de la difusión al medios de comunicación.
+Si los recortes presupuestarios realizados en la etapa de concurso han impactado la capacidad del Centro
+para implementar efectivamente su Plan de Desarrollo, identifique aquellos objetivos específicos más
+afectados y los cambios realizados (si los hubiere):
+1. Excelencia científica y tecnológica/investigación
+2. Desarrollar y atraer capital humano
+3. Transferencia de Tecnología, aplicación del conocimiento y vinculación con otros sectores de la
+economía y sociedad chilena
+4. Apoyo a los grupos de investigación
+5. Actividades de difusión y extensión hacia otros sectores de la sociedad chilena
+1. Excelencia científica y tecnológica/investigación:
+La producción científica no se ha visto afectada; sin embargo, a los investigadores les gustaría tener más
+recursos
+2. Desarrollar y atraer capital humano:
+El ajuste presupuestario a la baja en algunas partidas de plantilla, como los tesistas de máster y los tesistas
+de doctorado, ha impedido captar más personal que pudiera contribuir con éxito al centro.
+Sumado a lo anterior, es necesario superar el difícil escollo de los trámites migratorios, que han sido un tema
+complejo al tratar de contratar personal extranjero con visas en trámite por períodos de tiempo excesivos.
+3. Transferencia de Tecnología, aplicación del conocimiento y vinculación con otros sectores de la
+economía y sociedad chilena:
+Esta área no se vio afectada por los cambios en el presupuesto, ya que fue hasta abril que se estableció el
+área de transferencia y se iniciaron las conversaciones que se habían mantenido con el sector productivo
+antes de la adjudicación de la licitación.
+CENIA.CL | info@cenia.cl | Centro de Innovación UC, piso 2. Av. Vicuña Mackenna 4860, Macul, Chile.
+
+4. Apoyo a los grupos de investigación:
+Las actividades de apoyo se han visto ligeramente afectadas, ya que los investigadores cuentan con otras
+fuentes de financiación para sus asistentes. Sin embargo, constantemente solicitan recursos para tareas de
+investigación.
+5. Actividades de difusión y extensión hacia otros sectores de la sociedad chilena
+Las actividades de divulgación y difusión no se han visto afectadas por los cambios presupuestarios. Sin
+embargo, existe una clara necesidad de gestionar recursos externos para escalar la magnitud y el impacto de
+las actividades que hemos realizado en el año 1. Los recursos asignados al centro nos permiten un impacto
+limitado, inferior al que queremos lograr en mediano plazo, por lo que ya estamos estableciendo alianzas
+que permitan ese crecimiento.
+VIII. Uso de fondos de inversión
+A la fecha no se han adquirido equipos, por lo que no se han incurrido en gastos de inversión en el período
+informado, ni se ha realizado ninguna adecuación o mejora de infraestructura.
+En cuanto a la adquisición de equipos, nuestra principal inversión consiste en un nodo informático equipado
+con GPU de última generación para ejecutar modelos de IA. Planeamos agregar este nodo al clúster de
+computadoras que teníamos antes de la creación de CENIA. Este clúster anterior consta de 8 servidores y 60
+GPU para un total de 240 192 núcleos de GPU y 777 GB de RAM de GPU. Sin embargo, aún estamos en
+proceso de adquirir el nuevo nodo, entre las principales razones que explican el retraso podemos mencionar
+las siguientes:
+En primer lugar, se realizó el proceso de licitación correspondiente para la compra de servidores según lo
+indicado en el manual de contabilidad, difundiendo la convocatoria a través de medios digitales y escritos
+para captar participantes. Sin embargo, a pesar de que varias empresas expresaron interés durante la etapa
+de consulta del proceso de licitación, entre ellas GTD, WE ACT FIRST y HP, al final del plazo, solo hubo un
+participante, VZION, cuya propuesta superó el precio que el centro buscaba pagar los servidores, ya que
+tenemos un presupuesto específico. Por lo tanto, decidimos declarar desierto el proceso de licitación y
+consideramos la opción de abrir un nuevo proceso de licitación.
+Luego de actualizar el manual, se nos dio la opción de realizar el proceso sin necesidad de licitación, con solo
+las cotizaciones correspondientes y aclarando los criterios para la elección del proveedor final. Sin embargo,
+las propuestas de los proveedores nacionales continuaron superando el presupuesto establecido, y hubo que
+buscar más opciones de proveedores extranjeros.
+Finalmente, tras un largo periodo de búsqueda de la opción más adecuada, hemos optado por comprar a un
+proveedor estadounidense. Esta transferencia internacional se realizó el 29 de julio del presente año. Cabe
+mencionar que el proceso de traslado del equipo al exterior es muy complejo y lento, por lo que el equipo
+aún no ha ingresado al país, por lo que aún no contamos con la factura que acredite que se realizó la compra.
+Esto significa que la transacción en sí aún no se ha completado y la facturación se realizará una vez que el
+servidor esté en el país.
+CENIA.CL | info@cenia.cl | Centro de Innovación UC, piso 2. Av. Vicuña Mackenna 4860, Macul, Chile.
+
+En términos de oficinas y espacios de laboratorio. El CENIA tiene disponible un laboratorio de investigación
+para estudiantes de posgrado que se encuentra ubicado en la institución de acogida transitoria (UC). Esta es
+una instalación bien equipada que puede acomodar a un total de 50 estudiantes graduados. Los estudiantes
+de posgrado de nuestras instituciones asociadas también tienen disponibles espacios adecuados en sus
+universidades anfitrionas.
+Hasta ahora, el principal problema ha sido la asignación del espacio para acomodar a nuestros equipos
+ejecutivos y técnicos, por lo tanto, han estado trabajando en su mayoría de forma remota. Lamentablemente,
+el proceso de arrendamiento del espacio previsto se retrasó. Específicamente, para iniciar la adecuación y
+mejora de la infraestructura se requiere autorización formal de la Agencia Nacional de Investigación (ANID).
+Dado que estamos alquilando un espacio a nuestra actual institución anfitriona transitoria, esta autorización
+solicitó un proceso complejo y lento que tomó varios meses. Afortunadamente, el proceso se completó
+recientemente y actualmente se está trabajando para comenzar la adecuación y mejora de los espacios que
+destinarán nuestros equipos ejecutivos y técnicos.
+Hasta ahora, el principal problema ha sido la asignación del espacio para acomodar a nuestros equipos
+ejecutivos y técnicos, por lo tanto, han estado trabajando en su mayoría de forma remota. Lamentablemente,
+el proceso de arrendamiento del espacio previsto se retrasó. Específicamente, para iniciar la adecuación y
+mejora de la infraestructura se requiere autorización formal de la Agencia Nacional de Investigación (ANID).
+Dado que estamos alquilando un espacio a nuestra actual institución anfitriona transitoria, esta autorización
+solicitó un proceso complejo y lento que tomó varios meses. Afortunadamente, el proceso se completó
+recientemente y actualmente se está trabajando para comenzar la adecuación y mejora de los espacios que
+destinarán nuestros equipos ejecutivos y técnicos.
+Para la remodelación de estos espacios se han solicitado tres propuestas de diseño y ejecución a las firmas
+Estudio Lenga, Norte Pro y Masaico. Actualmente estas propuestas están siendo evaluadas por nuestro
+director y equipo ejecutivo para determinar cuál es la más conveniente y continuar con el proceso. La más
+interesante hasta el momento es la enviada por Norte Pro, ya que considera una adecuación del espacio que
+será de gran utilidad para que los equipos de investigación y desarrollo interactúen entre sí y generen
+sinergias en su trabajo diario. Por tanto, podemos adelantar que a finales de año natural las modificaciones
+del espacio estarán en marcha o incluso finalizadas.
+CENIA.CL | info@cenia.cl | Centro de Innovación UC, piso 2. Av. Vicuña Mackenna 4860, Macul, Chile.
+
+IX. Aprendizajes
+Investigación, docencia y formación
+En el área de investigación, surgió la necesidad inminente de la creación de un comité científico especializado
+que se hiciera cargo de las principales necesidades del área de investigación. En marzo de 2022 se constituyó
+este comité, con un representante de cada RL y coordinado por el director científico del CENIA. Sus
+principales objetivos son generar lineamientos sobre la generación, apoyo y evaluación de la actividad
+científica en el CENIA. Para ello se han generado varios instrumentos, como el formulario de evaluación de
+investigadores, y entidades como el Grupo de Ética y Buenas Prácticas, que actualmente se encuentra
+trabajando en el diseño independiente de lineamientos sobre aspectos éticos en el CENIA.
+Además, a medida que el centro crece, surgen nuevas necesidades en el área de investigación en cuanto al
+acceso a recursos para apoyar sus proyectos, y el CENIA, como institución, en respuesta a esta preocupación,
+ha llevado a cabo un registro de proyectos. Todos los investigadores fueron invitados a presentar sus
+proyectos directamente relacionados con su trabajo en CENIA. Se les solicitó indicar brevemente los
+objetivos, metodología, presupuesto y plan de trabajo para 1 o 2 años, y se presentaron 30 propuestas. Esta
+información fue revisada por el equipo de gestión que decidió apoyar 28 proyectos excepto 2, a los que se
+les solicitó realizar correcciones o aclaraciones. Esta información fue compartida con los investigadores con
+el fin de fomentar la colaboración entre los RL.
+La investigación en Chile requiere de personal calificado, equipos especializados y espacios de trabajo. Para
+cumplir con estos requisitos y promover el trabajo científico de sus investigadores, CENIA fomenta la solicitud
+de proyectos conjuntos, dado que CENIA tiene un presupuesto de inversión limitado y requiere una mayor
+capacidad de procesamiento de punta para ejecutar modelos de IA, para abordar proyectos más grandes con
+el privado y sector público. El mayor esfuerzo en esta área es FONDEQUIP.
+En cuanto a la Docencia y la Formación, el CENIA ha identificado que existe la necesidad por parte de
+académicos y estudiantes de generar instancias de trabajo conjunto, donde ambas partes puedan
+intercambiar conocimientos y experiencias. Por ello, se ha incentivado la participación en tesis invitando a
+académicos de diferentes RL a los nuevos proyectos de grado en los programas de pregrado, maestría y
+doctorado que están desarrollando nuestros estudiantes. Además, se han planificado prácticas en diferentes
+laboratorios para la generación de conocimiento in situ.
+Transferencia de conocimiento y tecnología
+En la primera fase del Centro se han aprendido lecciones sustanciales en el ámbito de la transferencia de
+conocimiento y tecnología. Involucrarse de manera efectiva y formalizar contratos (con empresas asociadas)
+que generaron ingresos para CENIA ha sido un desafío, lo que ha llevado a un tiempo más lento de lo
+esperado para cerrar contratos. Entender la cultura corporativa, identificar un “Champion” y generar
+confianza son claves para avanzar en la fase de contratación. El equipo de transferencia de tecnología ha sido
+más flexible en la negociación de contratos, incluidas las cláusulas de propiedad intelectual y los mecanismos
+de reparto de ingresos adaptados a nuestros socios. Esperamos que esto agilice nuestro proceso con las
+empresas asociadas.
+CENIA.CL | info@cenia.cl | Centro de Innovación UC, piso 2. Av. Vicuña Mackenna 4860, Macul, Chile.
+
+Paralelamente, en la fase de definición del proyecto, el equipo ha identificado que es clave definir objetivos
+compartidos, determinar la accesibilidad de los datos y seleccionar casos de uso ganadores en función de
+tres criterios principales: acceso a los datos, impacto en el negocio y aplicabilidad/factibilidad de la IA. .
+Alianzas con otras instituciones
+Formar alianzas con otras instituciones requiere tiempo, y construir lazos de confianza, definiendo alcance,
+relación en el tiempo, aspectos legales y de propiedad intelectual si aplica, por lo que hemos notado que el
+tiempo empleado en llevar a cabo todo esto, es más de lo previsto inicialmente. para este Centro. Una de las
+principales lecciones aprendidas en este aspecto es establecer plazos realistas y consistentes a la hora de
+proponer plazos para nuevas alianzas.
+Divulgación y otras actividades realizadas
+A la fecha hemos aprendido lecciones importantes para la gestión de las actividades de extensión y
+vinculación con el entorno. A nivel interno, el reto más relevante es involucrar a los diferentes departamentos
+del Centro en la organización y participación de estas actividades.
+El tiempo de los investigadores es escaso, por lo que priorizan su participación en actividades asociadas a los
+indicadores de gestión institucional de las universidades, principalmente la productividad científica y la
+transferencia al sector privado, dejando fuera de sus principales prioridades la vinculación con el medio
+ambiente. El desafío es diseñar mecanismos que promuevan la participación en el diseño de actividades de
+extensión, identificando incentivos que tengan sentido para los integrantes del centro.
+En particular, uno de los grandes desafíos es la participación de las mujeres en actividades de divulgación,
+tanto para el público en general como para otras mujeres. Dado que hay pocas mujeres en la disciplina, en
+general están sobrecargadas de trabajo y responsabilidades a nivel de investigación y gestión académica.
+Esto hace que su participación en CENIA Outreach sea aún más compleja que la participación de sus colegas
+varones. Hemos activado la coordinación con el comité de género del CENIA para promover la participación
+e identificar estrategias alternativas para superar este desafío.
+Externamente, hemos aprendido que existe mucha confusión sobre los conceptos asociados con la IA, por lo
+que los esfuerzos de divulgación deben comenzar con elementos más básicos de lo que pensábamos al
+principio. Un aprendizaje particular es que, a diferencia de otras disciplinas científicas, los jóvenes y
+adolescentes tienen más conocimientos sobre IA que los adultos. Dado lo anterior, el equipo ha definido
+como línea editorial que los contenidos a difundir estén diseñados para ser comprensibles por los
+adolescentes, a través de un lenguaje más sencillo y cercano. Para ello, desarrollaremos talleres de formación
+de divulgadores y comunicadores científicos, en los que podrá participar todo el personal del CENIA.
+Por otro lado, hemos evidenciado un gran entusiasmo por parte de las partes interesadas para involucrarse
+con CENIA. Desde el gobierno, organismos internacionales, centros educativos y sindicatos, existe un apetito
+transversal por crear acciones para dar a conocer los avances del CENIA y principalmente sobre el impacto
+de la IA en diferentes ámbitos de nuestra sociedad. Por este último punto, se vuelve estratégico generar
+CENIA.CL | info@cenia.cl | Centro de Innovación UC, piso 2. Av. Vicuña Mackenna 4860, Macul, Chile.
+
+mecanismos para incrementar la participación, ya que hoy en día no contamos con las personas suficientes
+para atender los requerimientos que recibimos de otras organizaciones.
+En línea con este último tema, existe un gran desafío en la comprensión de los líderes gubernamentales,
+empresariales y de la sociedad civil sobre el estado del arte de la IA y los conceptos básicos de la disciplina.
+La confusión descrita en el párrafo anterior está muy extendida en la sociedad. Ante esta realidad, la
+publicación del índice latinoamericano de IA cobra mayor relevancia, ya que brindará un marco conceptual y
+de datos común para la discusión sobre regulación y promoción a nivel gubernamental, mecanismos de
+adopción a nivel empresarial, y ética y social. impacto para la sociedad civil.
+Como alcance final, se necesita una lección transversal para mejorar la comunicación entre los diferentes
+órganos del CENIA, debido a un crecimiento realmente exponencial, donde constantemente se han ido
+incorporando nuevos miembros a las diferentes áreas que componen el centro, aumentando la dificultad en
+el uso de la los diferentes canales de comunicación interna y la difusión de la información. Para solucionarlo
+se han realizado sesiones de autoevaluación y se están implementando acciones para contar con una
+empresa externa que nos apoye en la comunicación interna del centro, así como actividades presenciales
+como talleres, seminarios, etc.
+Al mismo tiempo, se han realizado seminarios interdisciplinarios semanales, que abordan los principales
+temas relacionados con AI en la actualidad, reuniendo a miembros de todas las áreas, brindando así
+oportunidades para reunir a diferentes grupos en una ocasión donde pueden compartir e intercambiar
+información relevante.
+CENIA.CL | info@cenia.cl | Centro de Innovación UC, piso 2. Av. Vicuña Mackenna 4860, Macul, Chile.

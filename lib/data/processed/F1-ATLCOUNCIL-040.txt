@@ -1,0 +1,95 @@
+The AI Impact Summit must focus on pathways, not pilots, to scale up AI adoption
+
+This article was revised and updated on February 15, 2026.
+
+The most common barrier to artificial intelligence (AI)-enabled economic growth is not the failure of the AI models themselves, but the failure to adopt them at scale. Research indicates that as much as 30 percent of generative AI projects are abandoned after proof of concept. Technically successful pilots often fail to reach production because staff lack trust in the systems, accountability structures remain unclear, and organizations run parallel processes rather than integrating new capabilities.
+
+The AI Impact Summit in New Delhi, India, which will be held from February 16 to 20, presents an opportunity to shift the conversation from frontier capabilities to AI adoption at scale. The AI Impact Summit should bring together tech companies, government agencies, researchers, civil society, and funders to work together in a sustained way. Instead of supporting small, one-off AI projects, this group should invest in shared national and regional infrastructure that helps countries build and sustain their own AI capabilities, learning from experiences in contexts similar to their own.
+
+Frontier AI capabilities are gradually becoming more accessible, albeit only in pockets. For instance, Anthropic announced in November that it has partnered with the Rwandan government on an initiative aimed at making a Claude-enabled learning assistant available to thousands of people across Africa. Similarly, OpenAI announced last month that it’s collaborating with the Gates Foundation to deploy AI capabilities for health in low-resource environments across Africa.
+
+However, ensuring that AI diffusion is inclusive on the scale of entire populations requires a coordinated strategy. Most of the developing world remains in what could be called AI pilot purgatory. Reaching the next billion people—including populations living in villages, small towns, and low-connectivity regions, as well as those operating in informal economies—demands a deliberate shift from isolated experiments to systemic orchestration. Such an approach will require emerging “middle powers” such as India to demonstrate new pathways of collaboration that support sovereign needs while not relying on building duplicative infrastructure at prohibitive costs.
+
+AI adoption does not follow a simple linear model. Rather, it follows a matrix structure, consisting of “vertical” uses and “horizontal” enablers. Verticals include sector-specific applications: for instance, precision rain advisories for farmers or maternal health decision support. Horizontals make these verticals viable at scale. They consist of capabilities, such as multilingual models, voice interfaces, data pipelines, safeguards, and affordable compute.
+
+Without these shared horizontals, every vertical initiative is forced to rebuild the same foundations. The resulting duplication is expensive and ultimately limits scale. But when horizontals exist as open, interoperable layers, the cost of innovation drops sharply, and the pace of adoption increases. For instance, AI voice interfaces remove barriers surrounding literacy and device access, multilingual models can become shared resources, and safety benchmarks improve through shared feedback. Crane AI Labs, a Ugandan startup, built a finetuned version of Gemma 3 1B, a Google model, using its own hybrid datasets, which include synthetically generated text, checked by Swahili experts. Crane AI then built a Ugandan Cultural Context Benchmark, a technical standard that became part of the UK government’s official AI evaluation library. With such open and interoperable models, thousands of public and private applications can then build on top of existing layers without having to recreate the basics each time.
+
+This is the same logic that powered digital transformations in countries such as India, Uganda, Singapore, and Estonia. Once the digital public infrastructure was built, the ecosystem expanded rapidly and governance improved through real-time feedback loops with users. When the horizontals are in place, vertical solutions in agriculture, health, education, and governance can scale quickly.
+
+Moreover, successful use cases can leave behind reusable assets that become digital public goods for AI. AI4Bharat, an open-source research lab based in the Indian Institute of Technology, Madras, created open-language speech models and datasets for twenty-two Indian languages, significantly lowering the barrier to entry for voice and language-first AI applications. Both AI4Bharat’s language models and Crane AI Labs’ initiatives represent vertical use cases that also created open-source infrastructure, which makes AI adoption easier for subsequent implementers.
+
+However, no single institution, whether a government, a large tech company, a university, or philanthropy, can build all the shared horizontals while also deploying vertical use cases, with safeguards, across diverse sectors and countries. Rather, it takes networks of organizations collaborating on specific problems to bring the right capabilities together at the right moment.
+
+The AI Impact Summit in New Delhi offers a rare opportunity to move from an AI ecosystem made up of fragmented experiments to a purposeful, more collaborative diffusion architecture. The summit’s greatest potential lies in catalyzing the organizational structures that enable scalable adoption.
+
+To achieve this, the summit’s participants should bring together developers, government agencies, researchers, civil society, and philanthropies so they can work in coordination on diffusion. These stakeholders should align investments in shared building blocks (such as multilingual models, safety standards, and data systems) so efforts reinforce each other instead of being duplicated. Over time, this collaborative effort could set common standards and share knowledge with countries that are earlier in their AI development journey.
+
+These shared pathways can be documented in the form of a digital public infrastructure-AI playbook that documents AI adoption pathways, highlighting how governments, private sector actors, or other stakeholders have built shared “horizontals” and how these have supported AI use cases. The playbook would illustrate concrete tools and frameworks showing what worked, what failed, and how others can adapt proven strategies to their own contexts.
+
+A real commitment to scaling up AI adoption should involve:
+
+Collaboration: Multiple institutions are needed to collaborate to build safe, scalable diffusion for use cases.
+
+Shared infrastructure: A digital public infrastructure approach creates compounding, reusable assets upon which other organizations can build use cases.
+
+Shared pathways: The gap between a promising demo and a durable system isn’t more technology, it’s the full adoption pathway—operating models, incentives, governance, data readiness, evaluation, procurement, training, and incident response.
+
+The next billion AI users, primarily from developing countries in Asia, Africa and Latin America, do not need more headline-grabbing AI breakthroughs. They need practical infrastructure that is open, affordable, and reliable, backed by partnerships and governance systems that build trust rather than demand it.
+
+Trisha Ray is an associate director and resident fellow at the Atlantic Council’s GeoTech Center.
+
+Keyzom Ngodup Massally is is director of the AI Hub for Sustainable Development and head of digital at the United Nations Development Programme’s Chief Digital Office.
+
+Shalini Kapoor is chief strategist, data and AI, at Ekstep Foundation.
+
+The GeoTech Center champions positive paths forward that societies can pursue to ensure new technologies and data empower people, prosperity, and peace.
+
+How India’s AI talent playbook can provide a blueprint for aspiring AI powers
+
+As host of the AI Impact Summit, India has the opportunity to build a framework that can help enable emerging economies tap the benefits of AI adoption.
+
+Navigating the new reality of international AI policy
+
+GeoTech Cues By Evi Fuelle, Courtney Lang
+
+To reach their goals of national AI adoption, governments must continue to advance the global policy discussion on trust, safety, and evaluations.
+
+G7 leaders have the opportunity to strengthen digital resilience. Here’s how they can seize it.
+
+GeoTech Cues By Sara Ann Brackett, Coley Felt, Raul Brens Jr.
+
+At the upcoming Group of Seven Leaders’ Summit in Canada, member state leaders should advance a coherent, shared framework for digital resilience policy.
+
+Image: A view of the India Gate in New Delhi, India on February 27, 2022. (Shubham Sharma/Unsplash)
+
+This article was revised and updated on February 15, 2026.
+The most common barrier to artificial intelligence (AI)-enabled economic growth is not the failure of the AI models themselves, but the failure to adopt them at scale. Research indicates that as much as 30 percent of generative AI projects are abandoned after proof of concept. Technically successful pilots often fail to reach production because staff lack trust in the systems, accountability structures remain unclear, and organizations run parallel processes rather than integrating new capabilities.
+The AI Impact Summit in New Delhi, India, which will be held from February 16 to 20, presents an opportunity to shift the conversation from frontier capabilities to AI adoption at scale. The AI Impact Summit should bring together tech companies, government agencies, researchers, civil society, and funders to work together in a sustained way. Instead of supporting small, one-off AI projects, this group should invest in shared national and regional infrastructure that helps countries build and sustain their own AI capabilities, learning from experiences in contexts similar to their own.
+Frontier AI capabilities are gradually becoming more accessible, albeit only in pockets. For instance, Anthropic announced in November that it has partnered with the Rwandan government on an initiative aimed at making a Claude-enabled learning assistant available to thousands of people across Africa. Similarly, OpenAI announced last month that it’s collaborating with the Gates Foundation to deploy AI capabilities for health in low-resource environments across Africa.
+However, ensuring that AI diffusion is inclusive on the scale of entire populations requires a coordinated strategy. Most of the developing world remains in what could be called AI pilot purgatory. Reaching the next billion people—including populations living in villages, small towns, and low-connectivity regions, as well as those operating in informal economies—demands a deliberate shift from isolated experiments to systemic orchestration. Such an approach will require emerging “middle powers” such as India to demonstrate new pathways of collaboration that support sovereign needs while not relying on building duplicative infrastructure at prohibitive costs.
+AI adoption does not follow a simple linear model. Rather, it follows a matrix structure, consisting of “vertical” uses and “horizontal” enablers. Verticals include sector-specific applications: for instance, precision rain advisories for farmers or maternal health decision support. Horizontals make these verticals viable at scale. They consist of capabilities, such as multilingual models, voice interfaces, data pipelines, safeguards, and affordable compute.
+Without these shared horizontals, every vertical initiative is forced to rebuild the same foundations. The resulting duplication is expensive and ultimately limits scale. But when horizontals exist as open, interoperable layers, the cost of innovation drops sharply, and the pace of adoption increases. For instance, AI voice interfaces remove barriers surrounding literacy and device access, multilingual models can become shared resources, and safety benchmarks improve through shared feedback. Crane AI Labs, a Ugandan startup, built a finetuned version of Gemma 3 1B, a Google model, using its own hybrid datasets, which include synthetically generated text, checked by Swahili experts. Crane AI then built a Ugandan Cultural Context Benchmark, a technical standard that became part of the UK government’s official AI evaluation library. With such open and interoperable models, thousands of public and private applications can then build on top of existing layers without having to recreate the basics each time.
+This is the same logic that powered digital transformations in countries such as India, Uganda, Singapore, and Estonia. Once the digital public infrastructure was built, the ecosystem expanded rapidly and governance improved through real-time feedback loops with users. When the horizontals are in place, vertical solutions in agriculture, health, education, and governance can scale quickly.
+Moreover, successful use cases can leave behind reusable assets that become digital public goods for AI. AI4Bharat, an open-source research lab based in the Indian Institute of Technology, Madras, created open-language speech models and datasets for twenty-two Indian languages, significantly lowering the barrier to entry for voice and language-first AI applications. Both AI4Bharat’s language models and Crane AI Labs’ initiatives represent vertical use cases that also created open-source infrastructure, which makes AI adoption easier for subsequent implementers.
+However, no single institution, whether a government, a large tech company, a university, or philanthropy, can build all the shared horizontals while also deploying vertical use cases, with safeguards, across diverse sectors and countries. Rather, it takes networks of organizations collaborating on specific problems to bring the right capabilities together at the right moment.
+The AI Impact Summit in New Delhi offers a rare opportunity to move from an AI ecosystem made up of fragmented experiments to a purposeful, more collaborative diffusion architecture. The summit’s greatest potential lies in catalyzing the organizational structures that enable scalable adoption.
+To achieve this, the summit’s participants should bring together developers, government agencies, researchers, civil society, and philanthropies so they can work in coordination on diffusion. These stakeholders should align investments in shared building blocks (such as multilingual models, safety standards, and data systems) so efforts reinforce each other instead of being duplicated. Over time, this collaborative effort could set common standards and share knowledge with countries that are earlier in their AI development journey.
+These shared pathways can be documented in the form of a digital public infrastructure-AI playbook that documents AI adoption pathways, highlighting how governments, private sector actors, or other stakeholders have built shared “horizontals” and how these have supported AI use cases. The playbook would illustrate concrete tools and frameworks showing what worked, what failed, and how others can adapt proven strategies to their own contexts.
+A real commitment to scaling up AI adoption should involve:
+Collaboration: Multiple institutions are needed to collaborate to build safe, scalable diffusion for use cases.
+Shared infrastructure: A digital public infrastructure approach creates compounding, reusable assets upon which other organizations can build use cases.
+Shared pathways: The gap between a promising demo and a durable system isn’t more technology, it’s the full adoption pathway—operating models, incentives, governance, data readiness, evaluation, procurement, training, and incident response.
+The next billion AI users, primarily from developing countries in Asia, Africa and Latin America, do not need more headline-grabbing AI breakthroughs. They need practical infrastructure that is open, affordable, and reliable, backed by partnerships and governance systems that build trust rather than demand it.
+Trisha Ray is an associate director and resident fellow at the Atlantic Council’s GeoTech Center.
+Keyzom Ngodup Massally is is director of the AI Hub for Sustainable Development and head of digital at the United Nations Development Programme’s Chief Digital Office.
+Shalini Kapoor is chief strategist, data and AI, at Ekstep Foundation.
+The GeoTech Center champions positive paths forward that societies can pursue to ensure new technologies and data empower people, prosperity, and peace.
+How India’s AI talent playbook can provide a blueprint for aspiring AI powers
+As host of the AI Impact Summit, India has the opportunity to build a framework that can help enable emerging economies tap the benefits of AI adoption.
+Navigating the new reality of international AI policy
+GeoTech Cues By Evi Fuelle, Courtney Lang
+To reach their goals of national AI adoption, governments must continue to advance the global policy discussion on trust, safety, and evaluations.
+G7 leaders have the opportunity to strengthen digital resilience. Here’s how they can seize it.
+GeoTech Cues By Sara Ann Brackett, Coley Felt, Raul Brens Jr.
+At the upcoming Group of Seven Leaders’ Summit in Canada, member state leaders should advance a coherent, shared framework for digital resilience policy.
+Image: A view of the India Gate in New Delhi, India on February 27, 2022. (Shubham Sharma/Unsplash)

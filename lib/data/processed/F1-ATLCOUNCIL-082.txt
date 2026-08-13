@@ -1,0 +1,134 @@
+A policymaker’s guide to ensuring that AI-powered health tech operates ethically
+
+The healthcare landscape is undergoing a profound transformation thanks to artificial intelligence (AI) and big data. However, with this transformation come complex challenges surrounding data collection, algorithmic decision-making, transparency, and workforce readiness.
+
+That was a topic of a recent roundtable hosted by the GeoTech Center and Syntropy, a platform that works with healthcare, government, and other groups to collaborate on data in a single ecosystem geared toward informing healthcare research.
+
+At the roundtable, experts from the public and private sectors discussed the complex challenges that arise with the transformation of the healthcare sector, arguing that these challenges lie not only in the development of the technology but also in the implementation and use of it.
+
+As AI becomes more and more integrated with healthcare, policymakers must lay the groundwork for a future in which AI augments, rather than replaces, human expertise in the pursuit of better health outcomes for all. Below are the roundtable participants’ recommendations for policymakers, focusing on building strong data foundations, setting guidelines for algorithm testing and maintenance, fostering trust and transparency, and supporting a strong workforce.
+
+1. Building strong data foundations
+
+Data sets in the healthcare sector can be messy, small in scale, and lacking in diversity, leading to inherent biases that can skew the outcomes of AI-driven analyses—and decisions made following such analyses. Moreover, these biases are not always apparent and often require extensive work to identify. Thus, it is important at the outset to ensure the integrity, quality, and diversity of the data with which AI systems are trained.
+
+The ability to do so will in part depend on the strength of the workforce and the infrastructure that collects and manages data. For example, hospitals—from large, well-funded facilities to smaller community-based hospitals with fewer resources—play an important role in collecting data.
+
+A strong foundation for data is one that protects data. In an ideal world, all individuals (regardless of socioeconomic status or geographic location) can benefit from AI-driven healthcare technologies. With that come concerns about the protection of health data, particularly in countries with fragile democracies and low regulatory standards. The potential misuse of health data by governments around the world poses significant risks to individual privacy and autonomy, highlighting the need for robust legal and ethical frameworks to safeguard against such abuses.
+
+To address such challenges with data collection and management, policymakers can begin by implementing the following:
+
+Establishing a foundational data strategy for healthcare data that will improve patient equity by setting standards for inclusive data sets.
+
+Allocating more resources and support for community hospitals to ensure that the data collected in such facilities is high quality and diverse.
+
+Encouraging the development of robust data systems that allow for better data sharing, collaboration, and interoperability.
+
+Optimizing patient benefits by providing transparency about not only the healthcare providers but also about anyone else participating in data sharing.
+
+2. Establishing guidelines for algorithm testing and maintenance by healthcare-technology companies
+
+While building an algorithm may be a complex process, understanding and testing its performance over time is even more challenging. The dynamic nature of the healthcare industry demands ongoing adaptation and refinement of algorithms to account for evolving patient needs, technological advancements, and regulatory requirements.
+
+In addition to continuous testing, it’s important to recognize that the same algorithms may exhibit different risk profiles when deployed in different contexts. Factors such as patient demographics, disease prevalence, and healthcare infrastructure can all influence the performance and safety of AI algorithms. A one-size-fits-all approach to AI deployment in healthcare is neither practical nor advisable.
+
+To ensure that algorithms are constantly tested and maintained, policymakers should consider the following:
+
+Developing guidelines that inform developers, testers, data scientists, regulators, and clinicians about their shared responsibility of maintaining algorithms.
+
+Instituting an oversight authority to continuously monitor the risks associated with decisions that have been made based on AI to ensure the algorithms remain accurate, reliable, and safe for clinical settings.
+
+3. Fostering patient trust and transparency
+
+As technology continues to impact the healthcare industry, and as patients often find themselves unaware of the integration of AI technologies into their care processes, it becomes more difficult for those patients to give informed consent. This lack of transparency undermines patient autonomy and raises profound ethical questions about patients’ right to be informed and participate in health-related decisions. A lack of awareness about the integration of AI technologies is just one layer to the problem; even if a patient knows that AI is playing a role in their care, they may not know about who sponsors such technologies. Sponsors pay for the testing and maintenance of these systems, and they may also have access to the patient’s data.
+
+When AI technologies are involved in care processes, it is still important to achieve the right balance between human interaction and AI-driven solutions. While AI technologies hold great promise for improving efficiency and accuracy in clinical decision-making, they must be integrated seamlessly into existing workflows and complement (rather than replace) human expertise and judgment.
+
+The willingness to accept AI in healthcare varies significantly among patients and healthcare professionals. To bridge this gap in acceptance and address other challenges with trust and transparency, policymakers should consider the following:
+
+Providing transparent information about the capabilities, limitations, and ethical considerations of AI technologies.
+
+Encouraging companies to use particular design methods that ensure that tools and practices align with privacy values and protect patient autonomy.
+
+Producing guiding principles for hospitals to promote a deep understanding of the implications of AI and proactively addressing concerns related to workforce dynamics and patient care.
+
+Developing strategies to strengthen institutional trust to encourage patients to share data, avoiding algorithms that develop in silos.
+
+Awarding organizations with an integrity badge for transparency, responsible use, and testing.
+
+4. Supporting a strong workforce
+
+The integration of AI tools into healthcare workflows is challenging, particularly because of the changes in processes, job roles, patient-provider interactions, and organizational culture such implementation creates. It will be necessary to support the hospital workforce with strategies to manage this change and also with comprehensive education and training initiatives. While the focus here is on humans rather than technology, such support is just as integral to realizing the full potential of these innovations in improving patient outcomes and healthcare delivery.
+
+Many hospitals lack the necessary capabilities to effectively leverage AI technologies to their fullest potential, but supporting technical assistance training and infrastructure could help in the successful deployment of AI technologies.
+
+To navigate the changes that AI tools would bring to the workplace, policymakers should consider the following:
+
+Releasing guidance to healthcare companies to anticipate change management, education, training, and governance.
+
+Incentivizing private-sector technical assistance training and infrastructure to provide services to communities with fewer resources.
+
+Creating training programs tailored to the specific needs of healthcare organizations so that stakeholders can ensure AI implementations are both effective and sustainable in the long run.
+
+The private sector is moving quickly with the development of AI tools. The public sector will need to keep up with new strategies, standards, and regulations around the deployment and use of such tools in the healthcare sector.
+
+Coley Felt is a program assistant at the GeoTech Center.
+
+The GeoTech Center champions positive paths forward that societies can pursue to ensure new technologies and data empower people, prosperity, and peace.
+
+Generational AI: Digital inclusion for aging populations
+
+Recommendations on improved inclusion and empowerment of older adults in the age of artificial intelligence.
+
+Data strategies for an AI-powered government
+
+Recommendations for the federal enterprise from planning to piloting to procurement.
+
+What policymakers need to know about artificial intelligence
+
+Behind the hype and fear lies a crucial truth—AI is designed to augment human intelligence, not replace it. This primer explains how developers strive to create systems that mimic human capabilities by finding patterns, making predictions, and generating meaningful and actionable insights using data generated by our information-rich world.
+
+The healthcare landscape is undergoing a profound transformation thanks to artificial intelligence (AI) and big data. However, with this transformation come complex challenges surrounding data collection, algorithmic decision-making, transparency, and workforce readiness.
+That was a topic of a recent roundtable hosted by the GeoTech Center and Syntropy, a platform that works with healthcare, government, and other groups to collaborate on data in a single ecosystem geared toward informing healthcare research.
+At the roundtable, experts from the public and private sectors discussed the complex challenges that arise with the transformation of the healthcare sector, arguing that these challenges lie not only in the development of the technology but also in the implementation and use of it.
+As AI becomes more and more integrated with healthcare, policymakers must lay the groundwork for a future in which AI augments, rather than replaces, human expertise in the pursuit of better health outcomes for all. Below are the roundtable participants’ recommendations for policymakers, focusing on building strong data foundations, setting guidelines for algorithm testing and maintenance, fostering trust and transparency, and supporting a strong workforce.
+1. Building strong data foundations
+Data sets in the healthcare sector can be messy, small in scale, and lacking in diversity, leading to inherent biases that can skew the outcomes of AI-driven analyses—and decisions made following such analyses. Moreover, these biases are not always apparent and often require extensive work to identify. Thus, it is important at the outset to ensure the integrity, quality, and diversity of the data with which AI systems are trained.
+The ability to do so will in part depend on the strength of the workforce and the infrastructure that collects and manages data. For example, hospitals—from large, well-funded facilities to smaller community-based hospitals with fewer resources—play an important role in collecting data.
+A strong foundation for data is one that protects data. In an ideal world, all individuals (regardless of socioeconomic status or geographic location) can benefit from AI-driven healthcare technologies. With that come concerns about the protection of health data, particularly in countries with fragile democracies and low regulatory standards. The potential misuse of health data by governments around the world poses significant risks to individual privacy and autonomy, highlighting the need for robust legal and ethical frameworks to safeguard against such abuses.
+To address such challenges with data collection and management, policymakers can begin by implementing the following:
+Establishing a foundational data strategy for healthcare data that will improve patient equity by setting standards for inclusive data sets.
+Allocating more resources and support for community hospitals to ensure that the data collected in such facilities is high quality and diverse.
+Encouraging the development of robust data systems that allow for better data sharing, collaboration, and interoperability.
+Optimizing patient benefits by providing transparency about not only the healthcare providers but also about anyone else participating in data sharing.
+2. Establishing guidelines for algorithm testing and maintenance by healthcare-technology companies
+While building an algorithm may be a complex process, understanding and testing its performance over time is even more challenging. The dynamic nature of the healthcare industry demands ongoing adaptation and refinement of algorithms to account for evolving patient needs, technological advancements, and regulatory requirements.
+In addition to continuous testing, it’s important to recognize that the same algorithms may exhibit different risk profiles when deployed in different contexts. Factors such as patient demographics, disease prevalence, and healthcare infrastructure can all influence the performance and safety of AI algorithms. A one-size-fits-all approach to AI deployment in healthcare is neither practical nor advisable.
+To ensure that algorithms are constantly tested and maintained, policymakers should consider the following:
+Developing guidelines that inform developers, testers, data scientists, regulators, and clinicians about their shared responsibility of maintaining algorithms.
+Instituting an oversight authority to continuously monitor the risks associated with decisions that have been made based on AI to ensure the algorithms remain accurate, reliable, and safe for clinical settings.
+3. Fostering patient trust and transparency
+As technology continues to impact the healthcare industry, and as patients often find themselves unaware of the integration of AI technologies into their care processes, it becomes more difficult for those patients to give informed consent. This lack of transparency undermines patient autonomy and raises profound ethical questions about patients’ right to be informed and participate in health-related decisions. A lack of awareness about the integration of AI technologies is just one layer to the problem; even if a patient knows that AI is playing a role in their care, they may not know about who sponsors such technologies. Sponsors pay for the testing and maintenance of these systems, and they may also have access to the patient’s data.
+When AI technologies are involved in care processes, it is still important to achieve the right balance between human interaction and AI-driven solutions. While AI technologies hold great promise for improving efficiency and accuracy in clinical decision-making, they must be integrated seamlessly into existing workflows and complement (rather than replace) human expertise and judgment.
+The willingness to accept AI in healthcare varies significantly among patients and healthcare professionals. To bridge this gap in acceptance and address other challenges with trust and transparency, policymakers should consider the following:
+Providing transparent information about the capabilities, limitations, and ethical considerations of AI technologies.
+Encouraging companies to use particular design methods that ensure that tools and practices align with privacy values and protect patient autonomy.
+Producing guiding principles for hospitals to promote a deep understanding of the implications of AI and proactively addressing concerns related to workforce dynamics and patient care.
+Developing strategies to strengthen institutional trust to encourage patients to share data, avoiding algorithms that develop in silos.
+Awarding organizations with an integrity badge for transparency, responsible use, and testing.
+4. Supporting a strong workforce
+The integration of AI tools into healthcare workflows is challenging, particularly because of the changes in processes, job roles, patient-provider interactions, and organizational culture such implementation creates. It will be necessary to support the hospital workforce with strategies to manage this change and also with comprehensive education and training initiatives. While the focus here is on humans rather than technology, such support is just as integral to realizing the full potential of these innovations in improving patient outcomes and healthcare delivery.
+Many hospitals lack the necessary capabilities to effectively leverage AI technologies to their fullest potential, but supporting technical assistance training and infrastructure could help in the successful deployment of AI technologies.
+To navigate the changes that AI tools would bring to the workplace, policymakers should consider the following:
+Releasing guidance to healthcare companies to anticipate change management, education, training, and governance.
+Incentivizing private-sector technical assistance training and infrastructure to provide services to communities with fewer resources.
+Creating training programs tailored to the specific needs of healthcare organizations so that stakeholders can ensure AI implementations are both effective and sustainable in the long run.
+The private sector is moving quickly with the development of AI tools. The public sector will need to keep up with new strategies, standards, and regulations around the deployment and use of such tools in the healthcare sector.
+Coley Felt is a program assistant at the GeoTech Center.
+The GeoTech Center champions positive paths forward that societies can pursue to ensure new technologies and data empower people, prosperity, and peace.
+Generational AI: Digital inclusion for aging populations
+Recommendations on improved inclusion and empowerment of older adults in the age of artificial intelligence.
+Data strategies for an AI-powered government
+Recommendations for the federal enterprise from planning to piloting to procurement.
+What policymakers need to know about artificial intelligence
+Behind the hype and fear lies a crucial truth—AI is designed to augment human intelligence, not replace it. This primer explains how developers strive to create systems that mimic human capabilities by finding patterns, making predictions, and generating meaningful and actionable insights using data generated by our information-rich world.

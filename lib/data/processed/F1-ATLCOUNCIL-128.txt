@@ -1,0 +1,173 @@
+5G’s geopolitics solvable by improving routing protocols against modern threats
+
+Much fear, uncertainty, and doubt has been cast on the 5th Generation of International Mobile Telecommunications standards (5G), which has become a geopolitical point of contention between China and the United States. 5G standards themselves still have to be finalized internationally, making it even more difficult to discern market reality vs. market positioning vs. market hype.
+
+Amid all this controversy, the Atlantic Council’s GeoTech Center is charged both with advancing the values of the Council when it comes to benefiting people, prosperity, and peace globally as well as with working to understand the different perspectives of nation-state actors globally.
+
+As such, having performed a deeper dive over the last few months into the issues surrounding 5G, the GeoTech Center proposes to world policymakers that the geopolitical tensions associated with 5G, as well as other geopolitical cybersecurity-related concerns, can be solved by improving routing protocols against modern threats. Such an endeavor would require a commitment by multiple parties to advance the state-of-the-art in terms of research and development now, with an eye to future benefits in three to five years.
+
+Though the United States recently published a “National Strategy to Secure 5G”, the proposals seem to dance around the heart of the issue: namely that any nation, organization, or individual needs a to develop a way of dynamically evolving trust based on whatever criteria that nation, organization, or individual sets for their Internet and telecommunications experience. Consequentially this proposal cuts across the both the “Line of Effort 2: Assess Risks to & Identify Core Security Principles of 5G Infrastructure” and “Line of Effort 4: Promote Responsible Global Development and Deployment of 5G” of the strategy, with an eye to whatever framework being mutually beneficial globally as well.
+
+Consistent with how the Defense Advanced Research Projects Agency uses the “Heilmeier questions” to provide clarity into any proposed endeavor, this policy proposal will follow the same format.
+
+Motivate world policymakers and industry leaders to develop and demonstrate a governance protocol by which an individual communications network device can evolve one or more trustworthy communication pathways in a heterogeneous communications environment amid potentially deceptive and disruptive nodes.
+
+How: Instead of relying on a network of trust associated with advertised routes, each node will decide for itself what nodes to trust for the next hop to reach a destination. This includes querying next hops for evidence to indicate their trustworthiness – to include at least three methods, to be discussed in detail below.
+
+H2: How is it done today, and what are the limits of current practice?
+
+International Mobile Telecommunications: The 4th Generation (4G) of these standards has known vulnerabilities and while 5G resolves some of these, some legacy vulnerabilities have been shown to remain. Known 5G vulnerabilities include “TRacking via Paging mEssage DistributiOn” attacks, which verify in <10 calls whether a victim device is present in a geographical cell and can eventually obtain a victim’s International Mobile Subscriber Identity.
+
+TCP/IP: suite of protocols that dictate how information should be packaged, sent, received, and routed to destination. TCP/IP includes Transmission Control Protocol, which ensures reliable transmission of information across Internet-connected networks, to include checking packets for errors and submitting requests for re-transmissions if any are found. TCP/Ip also includes Internet Protocol, which tells packets of information where to go and how to get there. This allows any network device to forward a packet to another device that is one or more intervals closer to the packet’s recipient. Cumulatively TCP/IP includes four abstracted layers:
+
+Application Layer = software-mediated presentation and interactions.
+
+Transport Layer = ensures proper transmission of data.
+
+Internet Layer = describes how packets are to be delivered.
+
+Network Access Layer = builds packets.
+
+Internet-based routing includes Border Gateway Protocol (BGP): Unfortunately BGP lacks cryptographic identification that Autonomous Systems (AS) providing routing information are who they claim or that the information they provide on behalf of other ASes can be trusted. To fix this, Secure BGP and related approaches attempt to overcome the vulnerabilities present in BGP, yet so far Secure BGP and similar efforts to address these vulnerabilities have proven economically difficult to roll-out at scale. Even then, like BGP, Secure BGP itself has limits on the growth of the routing table.
+
+H3: What is new in your approach and why do you think it will be successful?
+
+No originating node will assume that subsequent hops trusted by a prospective next hop can be trusted automatically by the originating node. Each node determines trust dynamically and independently, which is possible for mobile 5G because of sparse density of hops from a mobile network device to a trusted core:
+
+Assume any network device probably has <28 1st-hop possible base stations in range and that a trusted core can be reached within 5 hops, if not sooner.
+
+2nd-, 3rd-, and 4th- hops from a base station towards either a legacy 4G or 5G core still probably <25 potential nodes each, especially if protocol can define certain paths as restricted by an inbound query from a mobile device. Later we can extrapolate what widespread peer-to-peer 5G comms might mean.
+
+2^8 + 2^13 + 2^18 + 2^23 = 8,659,200 nodes as max nodes needed to be queried; probably much less. If we multiply this number x 16,384 bytes of data / node ≈ 141.9 GB max memory needed; currently a USB 3.0 256 GB stick ≈ $39 USD.
+
+256 GB of NAND flash memory simply has not been available for most of the history of the Internet and mobile communications; now it’s available cheaply and will continue getting cheap as data centers are driving this. NAND stores data in arrays of memory cells that were made using floating-gate transistors. 3D NAND stacking incorporates a vertical plane to the NAND memory architecture.
+
+At the same time, 5G should reduce latency and increase bandwidth, so sending out exploratory packages is now possible for densely connected workers in ways that were not possible with 2G or 3G. Also on-board computing able to do more than what was possible in the past; a palm-size device now does 20 Teraflops using x86 architectures at low energy/via solar power (100 Teraflops early 2020).
+
+Pausing for policymakers, what does all this mean?
+
+Simply put, TCP/IP required trust relationships to be dis-intermediated between senders and receivers because for most of the Internet’s history, a sender couldn’t store in-memory knowledge of all the nodes to reach a receiver. Mobile 5G presents a sparse density of hops from a mobile network device to a trusted core to assess trustworthiness at scale.
+
+Regardless of 5G or 4G or any other mobile telecommunications standards, the era in when on-system memory limits prevented storing the necessary information about potential nodes from which to evolve trust is over.
+
+It is now possible for industry partners to develop a new approach to routing information, incorporating elements of multi-factor authentication across nodes:
+
+Something you know: what a node can tell another.
+
+Something you have: what a node can present via encrypted signatures about hardware or software of a node.
+
+Something you are: what a potential route is intrinsically.
+
+World policymakers should care about resolving the geopolitical tensions associated with 5G as this impacts individual consumers and world markets. If consumers or markets are concerned that 5G technologies are being used surreptitiously for intelligence purposes without their consent, that will erode trust in open societies and free markets, as also noted by fellow Atlantic Council colleague Kirsten Fontenrose in a recent interview.
+
+Evolving trust dynamically will be required for the next decade ahead
+
+Industry partners can develop a light-weight, telecommunications governance protocol that will evolve trust dynamically by each originating node for a specific duration of time using multiple approaches, to include these following three examples:
+
+1 – via one or more Tells – something a prospective next hop can provide as data explicitly or implicitly to node in response to a query from originating node, involving the following three steps:
+
+Step 1. Originating Node queries Prospective Next Hop with [time or context-specific] query?
+
+Step 2. Prospective Next Hop can either choose not to answer or answer with a [data response] to the Originating Node. This [data response] could be:
+
+* a time-specific, cryptographic response to the challenge phrase, based on the Prospective Next Hop’s own [in-memory software] or programmable [read-only memory],* some other response that shows the node even understands the challenge phrase query, etc.
+
+Step 3. Originating Node compares the data response with condition states pre-loaded on the Node by software-defined [flash memory].
+
+2 – via Encryption – something a next hop can cryptographically affirm to the originating node about their hardware or software layers including chipsets, involving the following three steps:
+
+Step 1. Originating Node queries Prospective Next Hop with either a [set] query about its hardware or software?
+
+Step 2. Prospective Next Hop can either choose not to answer or answer with a [data response] to the Originating Node. This [data response] could be:
+
+* time-specific, cryptographic signature of the name and version of important [software] running on the node,* what [hardware] it possesses,* what additional encryption modes it can activate, etc.
+
+Step 3. Originating Node compares the data response with condition states pre-loaded on the Node by software-defined [flash memory].
+
+3 – via Routing – something an individual node already knows in advance by other means, such as a software update provided out-of-band to the originating node, about the next hop as a prospective route. This third option of evolving trust dynamically would involve the following two steps:
+
+Step 1. Operator pre-loads coordinated, trusted routes into the memory of the Originating Node.
+
+Step 2. As a result, Originating Node already has in-memory knowledge about either [using] or [avoiding] a Prospective Next Hop on the Node by software-defined [flash memory]
+
+H4: Who cares? If you are successful, what difference will it make?
+
+By pursuing this approach to resolving the geopolitical tensions associated with 5G and evolving trust dynamically, the cumulative result would scale:
+
+(1) Zero-trust networking, currently limited in its requirement that network controls must be established internally in advance and does not address external autonomy systems, with
+
+(2) Software-Defined Networking to overcome the current technological and economic burdens of secure border gateway protocol by incorporating such capabilities into future revisions of 5G standards.
+
+Such an endeavor needs to be treated as an urgent research and development effort, because there remain some demonstration capabilities necessary to ensure the governance protocol is sufficiently light-weight.
+
+The new protocol must prove that it is not too bandwidth intensive to implement.
+
+The protocol must also demonstrate that it does not reveal too much when attempting to discover and determine which network devices are more trustworthy vs. others.
+
+Furthermore, the protocol must prevent untrustworthy devices learn to much about the originating “node-zero” as it attempts to evolve the ad-hoc communications pathway(s).
+
+Finally, the protocol must prevent less benevolent actors from reverse-engineering the multi-factor Tells, Encryption, and Routing approaches used to determine trustworthiness or present a weakness akin to a “pass the hash” attack.
+
+Pursuing this endeavor now is important, because as noted, both 4G and 5G have known vulnerabilities including hijacking and man-in-the-middle attacks, this approach removes that risk.
+
+Secure communications at risk unless a coalition of industry partners adopt a zero-trust approach to help commercialize such an approach into mass-produced consume mobile and Internet of Things devices. Without Software-Defined, Zero-Trust there exists significant risks to “still on copper” routes using TCP/IP through other unverified nodes.
+
+The GeoTech Center champions positive paths forward that societies can pursue to ensure new technologies and data empower people, prosperity, and peace.
+
+Much fear, uncertainty, and doubt has been cast on the 5th Generation of International Mobile Telecommunications standards (5G), which has become a geopolitical point of contention between China and the United States. 5G standards themselves still have to be finalized internationally, making it even more difficult to discern market reality vs. market positioning vs. market hype.
+Amid all this controversy, the Atlantic Council’s GeoTech Center is charged both with advancing the values of the Council when it comes to benefiting people, prosperity, and peace globally as well as with working to understand the different perspectives of nation-state actors globally.
+As such, having performed a deeper dive over the last few months into the issues surrounding 5G, the GeoTech Center proposes to world policymakers that the geopolitical tensions associated with 5G, as well as other geopolitical cybersecurity-related concerns, can be solved by improving routing protocols against modern threats. Such an endeavor would require a commitment by multiple parties to advance the state-of-the-art in terms of research and development now, with an eye to future benefits in three to five years.
+Though the United States recently published a “National Strategy to Secure 5G”, the proposals seem to dance around the heart of the issue: namely that any nation, organization, or individual needs a to develop a way of dynamically evolving trust based on whatever criteria that nation, organization, or individual sets for their Internet and telecommunications experience. Consequentially this proposal cuts across the both the “Line of Effort 2: Assess Risks to & Identify Core Security Principles of 5G Infrastructure” and “Line of Effort 4: Promote Responsible Global Development and Deployment of 5G” of the strategy, with an eye to whatever framework being mutually beneficial globally as well.
+Consistent with how the Defense Advanced Research Projects Agency uses the “Heilmeier questions” to provide clarity into any proposed endeavor, this policy proposal will follow the same format.
+Motivate world policymakers and industry leaders to develop and demonstrate a governance protocol by which an individual communications network device can evolve one or more trustworthy communication pathways in a heterogeneous communications environment amid potentially deceptive and disruptive nodes.
+How: Instead of relying on a network of trust associated with advertised routes, each node will decide for itself what nodes to trust for the next hop to reach a destination. This includes querying next hops for evidence to indicate their trustworthiness – to include at least three methods, to be discussed in detail below.
+H2: How is it done today, and what are the limits of current practice?
+International Mobile Telecommunications: The 4th Generation (4G) of these standards has known vulnerabilities and while 5G resolves some of these, some legacy vulnerabilities have been shown to remain. Known 5G vulnerabilities include “TRacking via Paging mEssage DistributiOn” attacks, which verify in <10 calls whether a victim device is present in a geographical cell and can eventually obtain a victim’s International Mobile Subscriber Identity.
+TCP/IP: suite of protocols that dictate how information should be packaged, sent, received, and routed to destination. TCP/IP includes Transmission Control Protocol, which ensures reliable transmission of information across Internet-connected networks, to include checking packets for errors and submitting requests for re-transmissions if any are found. TCP/Ip also includes Internet Protocol, which tells packets of information where to go and how to get there. This allows any network device to forward a packet to another device that is one or more intervals closer to the packet’s recipient. Cumulatively TCP/IP includes four abstracted layers:
+Application Layer = software-mediated presentation and interactions.
+Transport Layer = ensures proper transmission of data.
+Internet Layer = describes how packets are to be delivered.
+Network Access Layer = builds packets.
+Internet-based routing includes Border Gateway Protocol (BGP): Unfortunately BGP lacks cryptographic identification that Autonomous Systems (AS) providing routing information are who they claim or that the information they provide on behalf of other ASes can be trusted. To fix this, Secure BGP and related approaches attempt to overcome the vulnerabilities present in BGP, yet so far Secure BGP and similar efforts to address these vulnerabilities have proven economically difficult to roll-out at scale. Even then, like BGP, Secure BGP itself has limits on the growth of the routing table.
+H3: What is new in your approach and why do you think it will be successful?
+No originating node will assume that subsequent hops trusted by a prospective next hop can be trusted automatically by the originating node. Each node determines trust dynamically and independently, which is possible for mobile 5G because of sparse density of hops from a mobile network device to a trusted core:
+Assume any network device probably has <28 1st-hop possible base stations in range and that a trusted core can be reached within 5 hops, if not sooner.
+2nd-, 3rd-, and 4th- hops from a base station towards either a legacy 4G or 5G core still probably <25 potential nodes each, especially if protocol can define certain paths as restricted by an inbound query from a mobile device. Later we can extrapolate what widespread peer-to-peer 5G comms might mean.
+2^8 + 2^13 + 2^18 + 2^23 = 8,659,200 nodes as max nodes needed to be queried; probably much less. If we multiply this number x 16,384 bytes of data / node ≈ 141.9 GB max memory needed; currently a USB 3.0 256 GB stick ≈ $39 USD.
+256 GB of NAND flash memory simply has not been available for most of the history of the Internet and mobile communications; now it’s available cheaply and will continue getting cheap as data centers are driving this. NAND stores data in arrays of memory cells that were made using floating-gate transistors. 3D NAND stacking incorporates a vertical plane to the NAND memory architecture.
+At the same time, 5G should reduce latency and increase bandwidth, so sending out exploratory packages is now possible for densely connected workers in ways that were not possible with 2G or 3G. Also on-board computing able to do more than what was possible in the past; a palm-size device now does 20 Teraflops using x86 architectures at low energy/via solar power (100 Teraflops early 2020).
+Pausing for policymakers, what does all this mean?
+Simply put, TCP/IP required trust relationships to be dis-intermediated between senders and receivers because for most of the Internet’s history, a sender couldn’t store in-memory knowledge of all the nodes to reach a receiver. Mobile 5G presents a sparse density of hops from a mobile network device to a trusted core to assess trustworthiness at scale.
+Regardless of 5G or 4G or any other mobile telecommunications standards, the era in when on-system memory limits prevented storing the necessary information about potential nodes from which to evolve trust is over.
+It is now possible for industry partners to develop a new approach to routing information, incorporating elements of multi-factor authentication across nodes:
+Something you know: what a node can tell another.
+Something you have: what a node can present via encrypted signatures about hardware or software of a node.
+Something you are: what a potential route is intrinsically.
+World policymakers should care about resolving the geopolitical tensions associated with 5G as this impacts individual consumers and world markets. If consumers or markets are concerned that 5G technologies are being used surreptitiously for intelligence purposes without their consent, that will erode trust in open societies and free markets, as also noted by fellow Atlantic Council colleague Kirsten Fontenrose in a recent interview.
+Evolving trust dynamically will be required for the next decade ahead
+Industry partners can develop a light-weight, telecommunications governance protocol that will evolve trust dynamically by each originating node for a specific duration of time using multiple approaches, to include these following three examples:
+1 – via one or more Tells – something a prospective next hop can provide as data explicitly or implicitly to node in response to a query from originating node, involving the following three steps:
+Step 1. Originating Node queries Prospective Next Hop with [time or context-specific] query?
+Step 2. Prospective Next Hop can either choose not to answer or answer with a [data response] to the Originating Node. This [data response] could be:
+* a time-specific, cryptographic response to the challenge phrase, based on the Prospective Next Hop’s own [in-memory software] or programmable [read-only memory],* some other response that shows the node even understands the challenge phrase query, etc.
+Step 3. Originating Node compares the data response with condition states pre-loaded on the Node by software-defined [flash memory].
+2 – via Encryption – something a next hop can cryptographically affirm to the originating node about their hardware or software layers including chipsets, involving the following three steps:
+Step 1. Originating Node queries Prospective Next Hop with either a [set] query about its hardware or software?
+Step 2. Prospective Next Hop can either choose not to answer or answer with a [data response] to the Originating Node. This [data response] could be:
+* time-specific, cryptographic signature of the name and version of important [software] running on the node,* what [hardware] it possesses,* what additional encryption modes it can activate, etc.
+Step 3. Originating Node compares the data response with condition states pre-loaded on the Node by software-defined [flash memory].
+3 – via Routing – something an individual node already knows in advance by other means, such as a software update provided out-of-band to the originating node, about the next hop as a prospective route. This third option of evolving trust dynamically would involve the following two steps:
+Step 1. Operator pre-loads coordinated, trusted routes into the memory of the Originating Node.
+Step 2. As a result, Originating Node already has in-memory knowledge about either [using] or [avoiding] a Prospective Next Hop on the Node by software-defined [flash memory]
+H4: Who cares? If you are successful, what difference will it make?
+By pursuing this approach to resolving the geopolitical tensions associated with 5G and evolving trust dynamically, the cumulative result would scale:
+(1) Zero-trust networking, currently limited in its requirement that network controls must be established internally in advance and does not address external autonomy systems, with
+(2) Software-Defined Networking to overcome the current technological and economic burdens of secure border gateway protocol by incorporating such capabilities into future revisions of 5G standards.
+Such an endeavor needs to be treated as an urgent research and development effort, because there remain some demonstration capabilities necessary to ensure the governance protocol is sufficiently light-weight.
+The new protocol must prove that it is not too bandwidth intensive to implement.
+The protocol must also demonstrate that it does not reveal too much when attempting to discover and determine which network devices are more trustworthy vs. others.
+Furthermore, the protocol must prevent untrustworthy devices learn to much about the originating “node-zero” as it attempts to evolve the ad-hoc communications pathway(s).
+Finally, the protocol must prevent less benevolent actors from reverse-engineering the multi-factor Tells, Encryption, and Routing approaches used to determine trustworthiness or present a weakness akin to a “pass the hash” attack.
+Pursuing this endeavor now is important, because as noted, both 4G and 5G have known vulnerabilities including hijacking and man-in-the-middle attacks, this approach removes that risk.
+Secure communications at risk unless a coalition of industry partners adopt a zero-trust approach to help commercialize such an approach into mass-produced consume mobile and Internet of Things devices. Without Software-Defined, Zero-Trust there exists significant risks to “still on copper” routes using TCP/IP through other unverified nodes.
+The GeoTech Center champions positive paths forward that societies can pursue to ensure new technologies and data empower people, prosperity, and peace.

@@ -1,0 +1,614 @@
+CSIS BRIEFS | WWW.CSIS.ORG | 1
+CSIS
+BRIEFS
+Battle Networks and the Future Force
+Part 2: Operational Challenges and Acquisition Opportunities
+By Todd Harrison
+THE ISSUE
+This CSIS brief is the second in a series on the future of battle networks and Joint All-Domain Command and Control (JADC2).
+This paper examines the operational advantages and adversary threats driving the requirements for greater interoperability
+and resilience in battle networks. It draws on lessons from previous attempts to improve battle network integration and explores
+how DoD can properly scope the problem it is trying to solve and organize itself to effectively and efficiently acquire the systems
+needed to realize its vision for JADC2. This paper recommends that DoD (1) clearly define organizational roles and responsibilities
+for JADC2 to include the possibility of creating a Joint Program Executive Office, a new independent agency under the Under
+Secretary of Defense for Research and Engineering (USD/R&E), or a lead combatant command (COCOM) for JADC2; (2) make
+key top-level architecture decisions, including narrowing the scope of JADC2 to just battle networks, as soon as possible; and (3)
+expand its typical make/buy analysis to include options for buying services instead of products and including systems that may be
+commercially owned and operated.
+BATTLE NETWORK COMPETITION The hypothetical scenarios below help demonstrate how
+Battle networks, and more specifically DoD’s vision for a battle network can use each of the functional elements
+JADC2, should ultimately be about enabling better options discussed in the first brief in this series to close the
+for commanders, speeding the tempo of decisionmaking, sensor-to-shooter kill chain—or more appropriately, the
+and optimizing effects in the battlespace. Connecting sensor-to-shooter kill web. The first scenario illustrates
+platforms and units across domains and with allies and the warfighting advantages integrated battle networks
+partners by seamlessly passing surveillance, targeting, can provide. The second scenario shows the other side of
+damage assessment, and other information from one the battle network competition—how an adversary can
+platform to another improves the accuracy, range, attempt to disrupt and degrade one’s battle network. While
+persistence, and speed of effects. These improvements an adversary may not have (or be successful in using)
+increase in a nonlinear manner as more platforms, sensors, all the capabilities described to attack a battle network,
+communication paths, and other nodes are added to these attacks can have significant effects even if they are
+a battle network, transforming what was traditionally only partially successful. Importantly, many of the steps
+thought of as a force multiplier effect into a force exponent in the process for both closing and breaking the sensor-
+effect. The ultimate objective is to see farther with greater to-shooter kill web may occur in parallel as operations
+clarity and to act faster with more precision than one’s unfold, and some processes may take longer and only yield
+adversary. valuable intelligence for future operations.
+
+Figure 1: Example of Future Battle Network Operations
+Source: CSIS Aerospace Security Project.
+Figure 1 depicts a hypothetical future engagement in data is also used to predict the likely impact site and alert
+which an adversary launches a boost-glide hypersonic forces in the area. While the intercept and other force
+missile at U.S. and allied forces. The engagement is protection activities are underway, the SAR satellites,
+divided into six overlapping activities to depict how F-35s, and other aircraft within range begin a combined
+future battle networks could operate. In this example, a response to track the missile launcher’s movements on
+missile launch (1) is detected by a Space-Based Infrared the ground (4). Commanders use this mesh view of the
+(SBIRS) satellite in geostationary orbit (GEO) and/or by battlespace to determine what combination of strike
+the infrared sensors on F-35s in the area. As the SBIRS aircraft, ships and subs with land-attack missiles, and
+satellite and F-35s follow the missile plume to higher ground units with long-range fires are best suited to
+altitudes, this data cues infrared and synthetic aperture destroy the missile launcher depending on where they
+radar (SAR) satellites in a variety of orbits (some of which are located, the weapons they have available, the time
+could be commercial satellites) to characterize the threat of flight to the target, and whether these forces may be
+and establish a high-quality track of the missile (2)— needed for other missions (5). In parallel to all of this,
+including after burnout of its booster stage. This tracking analysts aided by artificial intelligence and machine
+and characterization data is relayed through a variety of learning (AI/ML) algorithms begin sifting through
+means (e.g., through RF and lasercom links, with military terabytes of archived surveillance data from space-based
+and commercial satellites, and among space-based and and airborne platforms to track the missile launcher’s
+airborne communications nodes) to crewed and remotely location in reverse from the time it launched its payload
+crewed aircraft in the area as well as to sea- and land- (6). The reverse tracking operation follows the missile
+based interceptor sites. The battle network acts as a launcher back in time to determine where it came from
+distributed and resilient kill web rather than a serial kill and how it operated to better respond to future attacks
+chain to assist operators in deciding which platform is and, importantly, to refine predictive algorithms to
+best positioned to fire interceptors (3). The trajectory anticipate future attacks before they occur.
+CSIS BRIEFS | WWW.CSIS.ORG | 2
+
+Figure 2 depicts the opposite side of the battle network operations and battle networks of adversary forces. The
+competition in this hypothetical engagement, showing systems that are best suited to operate in a contested
+some of the ways an adversary can use the full spectrum battle network environment include platforms that are
+of attacks to delay or prevent detection and to increase stealthy or can operate effectively outside (or above) the
+the odds its attack will succeed. Even before a missile is range of adversary defenses; methods of communication
+launched, an adversary could attempt to disable or degrade that are difficult to detect, intercept, and disrupt;
+the airborne and space-based sensors used for missile distributed and diversified sensors and communication
+defense. For example, a laser could attempt to dazzle nodes (i.e., web or mesh networks rather than serial data
+the infrared sensors on satellites (1), land and airborne links); and sensor fusion systems that automatically
+electronic attack systems could attempt to jam or spoof aggregate and pass data among platforms. The last
+radar and communications systems (2), and co-orbital characteristic is particularly important because operators
+ASAT weapons could be used to jam or kinetically strike are increasingly overloaded with tasks and require higher
+satellites used for missile warning and communications levels of automation in the way sensors are operated and
+(3). Cyberattacks could also be used to target command data is transmitted. Where possible, the tasking of sensors
+and control sites, terrestrial networks, and satellite should be automated or remotely controlled by others in
+ground stations to disrupt these networks (4). Defensive
+the network to reduce the workload on platform operators
+counterair aircraft and surface-to-air missiles could
+and ensure the highest priority missions receive the data
+threaten aerial refueling aircraft, airborne communications
+they need.
+nodes, drones, and strike aircraft (5) to further degrade
+and disrupt the sensor-to-shooter kill chain. ROLE OF ARTIFICIAL INTELLIGENCE
+As these examples illustrate, U.S. and allied forces must This competition among battle networks, while not
+be able to protect their battle networks from attack while new, is an increasingly important component of modern
+they simultaneously go on the offensive to disrupt the warfare, and it is a competition that will largely be fought
+Figure 2: Example of Future Counter Battle Network Operations
+Source: CSIS Aerospace Security Project.
+CSIS BRIEFS | WWW.CSIS.ORG | 3
+
+directly among machines in rapidly evolving ways. Much some cases, stock prices can be driven significantly higher
+attention has been paid in recent years to how AI/ML or lower in short periods of time as one trading firm’s
+This portrait of potential transmission can enhance warfighting capabilities, but robust and algorithms battle against the algorithms of others.
+resilient battle networks are the underlying enabler that
+from the Sahel to coastal West Africa— A telling example of the potential consequences of not
+makes these enhanced capabilities possible—specifically
+being prepared for the dynamics involved in competing
+repeated by diplomats, practitioners, the communications and data processing elements of
+algorithms is the “flash crash” that occurred on May 6,
+battle networks. AI/ML algorithms depend on having
+and journalists—unhelpfully favors 2010. On that afternoon, the Dow Jones Industrial Average
+timely access to large volumes of sensor data and the
+plunged by more than 9 percent in less than five minutes—
+policies and programs that intend to ability to communicate data products and analysis
+the fastest decline in its history. This precipitated sharp
+among decisionmakers and operators. Robust and
+inoculate border regions and replicate drops in other stock exchanges. But as the trading
+resilient battle networks using AI/ML algorithms can
+continued, the Dow rebounded to near its original level
+unsuccessful security strategies used in speed decisionmaking and automate processes to enable
+within 15 minutes. While the factors that triggered the
+algorithmic warfare at the tactical and operational level.
+the Sahel. momentary crash continue to be debated, the dynamics
+In peacetime competition, these same networks and
+observed that day were the result of competing algorithms
+algorithms can greatly improve indications and warnings
+at work in the markets responding to one another and to
+to prevent an adversary from avoiding detection and
+human traders.
+ultimately enhance deterrence.
+In the military domain, the battle network competition
+Using algorithms to enhance indications and warnings
+can potentially have additional consequences that should
+is analogous in some ways to the way algorithms are
+be considered when developing operational concepts and
+already used for detecting and tracking the spread of
+testing algorithms and decisionmaking processes. For
+diseases. For example, the AI system known as BlueDot
+example, blinding an opponent’s intelligence, surveillance,
+was able to detect the emergence of the Covid-19 virus in
+and reconnaissance (ISR) or severing command and
+, before many global health agencies were
+control links among its forces during a crisis could increase
+aware. The system mines data from a variety of sources,
+the odds of miscalculation and escalation if adversary
+such as statements from official health agencies, social
+forces begin acting without accurate information.
+media, livestock health reports, and airline ticketing data.
+Moreover, without adequate situational awareness, an
+BlueDot uses this information to locate outbreaks and
+opponent may not be able to detect signs of de-escalation
+predict how they will spread. It had similar success in 2016
+or could confuse benign or defensive actions with offensive
+when it predicted the spread of the Zika virus to Florida
+or escalatory behavior.
+six months before it occurred. The key to the algorithm’s
+success, however, is not that it takes the human out of the
+OPERATIONAL CHALLENGES
+loop. Rather, it uses algorithms to find the “needles in the
+As battle networks grow to encompass more capabilities,
+haystack” and present them to experts for analysis.
+their complexity, effectiveness, and vulnerabilities will
+The potential advantages of algorithmic warfare are not increase as well. Several operational factors should
+unique to the United States. Other nations can use the be considered when designing the battle networks of
+same methods and capabilities to enhance the situational the future, including adversary threats, the resilience
+awareness and decision speed of their own forces. This of networks to interference and attacks, and the
+will inevitably lead to peacetime competition in which interoperability of networks across the military services
+algorithms are fighting one another through overlapping and with allies and partners.
+and competing battle networks. This algorithmic
+competition is similar in some respects to the high- THREATS
+frequency trading systems used in financial markets In his book, Kill Chain: Defending America in the Future of
+today. These systems use algorithms to process large High-Tech Warfare, Chris Brose provides a vivid account
+volumes of data in real time, ranging from economic of how adversaries are exploiting vulnerabilities in battle
+analysis and business financial reports to social media and networks to gain devastating advantage. He describes
+news feeds. Trading algorithms use this information to how in the 2014 seizure of Crimea, Russia’s “Little Green
+make decisions in fractions of a second, competing against Men” used electronic attacks to jam the control links to
+other investors across multiple markets simultaneously. In Ukrainian drones, prevent fuses on bombs from arming
+CSIS BRIEFS | WWW.CSIS.ORG | 4
+
+properly, and target Ukrainian forces whenever they used systems to protect themselves and other aircraft operating
+radios to communicate. In one disturbing incident, the in a battle network.
+Russian forces called the mother of a particular Ukrainian
+One of the ways battle networks can be made more
+commander they were trying to locate and told her that he
+resilient and capable is by linking distributed sensors
+had been badly injured. When the mother called her son’s
+across multiple domains and orbits using diverse
+mobile phone, they quickly detected the signal, located
+methods to collect information, such as infrared, optical,
+him, and killed him with rocket fire.
+and radar. Distribution and diversification can be
+The many operational advantages battle networks provide achieved, in part, by using existing assets for multiple
+make them a natural target for attack. For example, both roles and missions simultaneously, rather than keeping
+Russia and China have made significant advances in them focused on just one mission. For example, aircraft
+building and testing a suite of kinetic and non-kinetic intended primarily for strike or counterair missions may
+anti-satellite (ASAT) weapons designed to disrupt U.S. and also have significant ISR capabilities. From an altitude
+allied battle networks that depend upon or transit through of 40,000 feet, airborne platforms can see a distance
+space. Many of these ASAT weapons are designed to have of roughly 240 miles on the surface, limited by the
+reversible effects, such as jamming or spoofing satellite curvature of the Earth. Once a target missile or aircraft
+communications (SATCOM) and Global Positioning System rises above the horizon, the distance at which aircraft
+(GPS) signals, and may be difficult to detect or could be can detect them increases even more and is ultimately
+publicly deniable. Forms of attack against battle networks limited by the resolution of the sensors. The infrared
+that are difficult to attribute in a timely manner or can sensors used on the F-35, for example, have been able to
+be ambiguous in terms of intent are ideal for use in gray detect and track a rocket launch at a distance of more
+zone activities. They can be used to confuse U.S. and allied than 800 miles.
+indications and warnings or conceal low-level aggression
+Graceful degradation of capabilities under attack is also
+and malicious activities. In situations like this, the best
+a key element of resilience. Graceful degradation in
+defense is not necessarily a good offense. Rather, battle
+battle networks means using a mesh architecture and
+network resilience gives senior leaders better options and
+designing systems so that they dynamically break into
+more decision space.
+smaller subnetworks as necessary and automatically
+connect to alternative networks as opportunities arise.
+RESILIENCE
+AI/ML systems can be used to detect anomalies and
+Resilience can involve many forms of risk avoidance,
+network attacks that humans might otherwise miss and
+management, and mitigation to allow networks to respond
+reconfigure networks as necessary. Alternative networks
+to and quickly recover from disruptions. Resilience
+can include commercial systems used to provide
+assumes that disruptions and attacks will occur as part
+additional surge capacity or to augment capabilities that
+of both peacetime and wartime operations, and systems
+have been degraded.
+must be designed to accommodate this reality. Resilience
+can be enhanced by improving passive defenses, such as The GPS constellation of satellites is an example of a
+using laser communications (lasercom) or forms of radio system that degrades gracefully. The Space Force typically
+frequency (RF) communications that are difficult for an operates 30 to 32 satellites in the constellation, even
+adversary to detect, intercept, and disrupt. Likewise, having though only 24 are needed to provide global, continuous
+redundant nodes and paths in the network, such as multiple coverage. If some satellites are disrupted, the “extra”
+types of sensors that can identify and track a target and satellites in the constellation minimize the effects on
+multiple communication paths to relay this information, users. And if the constellation drops below 24 satellites,
+improves both resilience and performance. Dispersion and their orbits can be modified to ensure continuous
+diversification improve resilience by limiting single-point coverage of priority areas and direct coverage gaps to
+vulnerabilities in the network and greatly increasing how times and locations that are lower priorities. Moreover,
+many targets (and domains) an adversary must attack to be GPS receivers that can use other space-based navigation
+successful. Resilience can also be enhanced by incorporating systems, such as Europe’s Galileo, Russia’s GLONASS, or
+more active defenses into the systems that comprise a battle Japan’s QZSS (to name a few), can continue to operate
+network. For example, aircraft acting as forward sensors without disruption even if the entire GPS constellation
+can be armed with air-to-air missiles or electronic attack fails. Most commercial GPS chips sold today (in phones
+CSIS BRIEFS | WWW.CSIS.ORG | 5
+
+or other devices) use multiple constellations and are not Global Information Grid (GIG), which was scoped to
+dependent on GPS alone. include the entire information technology infrastructure
+of DoD, including government-owned and leased software
+INTEROPERABILITY and hardware across all missions (strategic, operational,
+The ability to share data across platforms, domains, tactical, and business).
+military services, and allied nations is fundamental to the
+To implement this vision nearly 20 years ago, DoD
+concept of JADC2. This vision of dynamic interoperability
+reshaped organizations, issued new policies and
+requires coordination on multiple levels: data standards,
+requirements, and redirected many acquisition programs
+communications protocols and waveforms, multilevel
+already in progress. For example, in , Defense
+security standards, and—perhaps most importantly—
+Secretary Rumsfeld redesignated the assistant secretary
+policy agreements with allies and partners that allow for
+of defense (ASD) for command, control, communications,
+real-time data sharing and access. Interoperability is not
+and intelligence (C3I) to be the ASD for network and
+a binary variable—there are degrees of interoperability
+information integration (NII). ASD/NII subsequently
+among systems and networks, and the right level of
+issued a number of policies that, for example, directed all
+interoperability depends on the advantage provided and
+DoD radio acquisition programs to adhere to the standards
+the costs involved.
+in the Software Communications Architecture (SCA)
+A memo from Deputy Defense Secretary Hicks and to build only software-programmable radios with
+outlines five “DoD data decrees” aimed at improving waveforms that could be ported across systems. The Joint
+the Department’s ability to share data and create data Staff went a step further by issuing a set of Net-Ready Key
+interfaces that are more automated and platform- Performance Parameters (NR-KPPs) to levee requirements
+independent. While this policy memo is broader than across programs at all acquisition category (ACAT) levels.
+battle networks, it specifically cites its application to Joint
+All Domain Operations. It calls on the DoD chief data LESSONS LEARNED
+officer to issue policy and guidance to implement these Despite the steps taken in the early 2000s to put DoD on a
+decrees and work with the Joint Staff “to scale existing path to greater data sharing and interoperability across the
+capabilities that have proven themselves in the battlespace joint force, the objectives of Joint Vision 2020 remained
+and in real-world operations, simulations, experiments, elusive when 2020 arrived. While a myriad of factors
+and demonstrations.” contributed to the slow pace of progress, several lessons
+stand out as providing valuable insights for current efforts.
+DATA-CENTRIC VERSUS NET-CENTRIC
+• Overly ambitious acquisition programs: Many of the
+flagship acquisition programs intended to enable the
+PRIOR EFFORTS
+new net-centric way of operating—programs such as
+The current concept for data sharing and interoperability
+the Army’s Future Combat System (FCS), the Air Force’s
+as applied to battle networks is reminiscent of the
+Transformational SATCOM (TSAT), the Navy’s DDG-
+network-centric warfare concept of more than two decades
+1000 destroyer, and the Joint Tactical Radio System
+ago. While the two initiatives are not identical—the
+(JTRS)—attempted to “leap ahead” and skip a generation
+current effort appears to be more focused on data sharing
+of technology. Instead of leveraging advances in
+than connecting networks—their ultimate aims have
+proven commercial technology or scaling back program
+many similarities. The 2001 Quadrennial Defense Review
+objectives, too often these programs attempted to
+(QDR) noted that “new information and communications
+proceed with key technologies that were immature. Each
+technologies hold promise for networking highly
+of the programs listed above were ultimately canceled or
+distributed joint and combined forces and for ensuring
+curtailed, negating many of the efforts and funding that
+that such forces have better situational awareness—both
+had been invested in net-centric warfare.
+about friendly forces as well as those of adversaries—than
+in the past.” The QDR was informed in part by Joint Vision • Assigning responsibility without authority: ASD/
+2020 and its concept of network-centric warfare, which NII was intended to be a focal point within the office
+it described as a way to achieve “asymmetric information of the secretary of defense (OSD) for net-centric
+advantage” by making data more readily available and transformation, but the office proved ineffective in
+usable. Underpinning network-centric warfare was the practice and was eventually eliminated, along with
+CSIS BRIEFS | WWW.CSIS.ORG | 6
+
+its counterpart office in the Joint Staff (J6), as part of proceeds and its prospects for success. Time is of the
+efficiency initiatives within OSD. While it was given essence because each of the military services and several
+significant responsibilities for oversight and it pursued defense-wide agencies are pressing ahead with JADC2-
+these with vigor, ASD/NII did not have the necessary related programs of their own without a plan for how these
+authority to enforce its decisions. It could issue policies efforts will converge or deconflict.
+and weigh in during acquisition milestone reviews, but
+the military services retained the ultimate authority— ORGANIZATIONAL ROLES AND AUTHORITIES
+budget authority—over program plans and schedules. DoD needs to define the responsibilities and authorities
+of different organizations in the JADC2 development and
+• Issuing requirements and policies prematurely: ASD/
+implementation process—who is in charge of what, and
+NII and the Joint Staff also fell into the trap of moving
+how the various organizations involved will work together.
+too quickly to implement policies and requirements
+Many different organizational models are possible, and
+without providing enough technical detail for effective
+as CSIS’s Morgan Dwyer previously noted, DoD has tried
+implementation. Both the JTRS/SCA policy and the NR-
+many models in the past without much success. Below
+KPPs created significant uncertainty and instability as
+are a few examples of how DoD could assign roles and
+acquisition programs struggled to understand how they
+authorities for JADC2 development, and many hybrid
+could be implemented in existing programs at various
+approaches are possible that incorporate one of more of
+stages of development. The 2003 JTRS/SCA policy, for
+the organizational structures discussed below.
+example, required all radios (including those operating
+at much higher frequencies and data rates) to be JPEO: DoD could create a Joint Program Executive
+software programmable and SCA compliant. The problem Office (JPEO) to centralize the management of JADC2
+was that the JTRS compliance guidelines (as they existed development and procurement. This is similar to the
+at that time) were not intended for the higher data rates approach tried for the JTRS program in the 2000s, which
+and higher frequencies used for some applications, such had many shortcomings. A lesson learned from the F-35
+as wideband and protected satellite communications. joint program office is that each of the services may benefit
+While it is important for policymakers to act quickly to from establishing their own integration offices to liaison
+rein in divergent programs, it is difficult for program with the program office and ensure their requirements
+managers and engineers to meet requirements that are are properly represented. A joint program office can also
+ill-defined or ill-conceived. make it easier to interface with allies and partners during
+development by providing a single point of contact for
+• Expanding the scope beyond battle networks: Perhaps
+technical and programmatic issues, and it gives senior
+the most important lesson to learn from this earlier
+leaders in DoD and Congress a specific focal point (the
+attempt at improving network and data interoperability
+person serving as the joint program executive officer)
+is to scope the problem more appropriately. There
+for accountability. However, the Department should be
+are many advantages to be gained from greater
+mindful not to create a major acquisition program (or set
+interoperability and accessibility of data across all DoD
+of interdependent programs) that is simultaneously too big
+networks used for strategic, operational, tactical, and
+to fail and too big to succeed.
+business missions. But scoping the problem to include
+everything—as was the case with the GIG—is a recipe Independent Agency: The Department could create a
+for dysfunction. Data sharing across backend business new independent agency under USD/R&E for JADC2
+systems is a fundamentally different challenge than with its own acquisition authority and budget, similar
+interoperability among battle networks, and the two to the Missile Defense Agency (MDA) and the Space
+should not be part of the same effort. Development Agency (SDA). Alternatively, it could expand
+the role of the Defense Information Systems Agency
+KEY DECISIONS AND RECOMMENDATIONS (DISA) to include JADC2, although this would go well
+Experience from the 2000s suggests that the organizational beyond the agency’s core capabilities and could come at the
+structure and acquisition strategy for JADC2 are likely to expense of efforts to modernize and support defense-wide
+be determining factors in how much progress is made. In IT systems. An independent agency could manage multiple
+the coming months, DoD will need to make several key ongoing programs and make trades across investments
+decisions that will have major implications for how JADC2 within its portfolio as prototyping and experimentation
+CSIS BRIEFS | WWW.CSIS.ORG | 7
+
+begin to yield results. Like the JPEO model, an independent challenge with this approach is preventing redundancies
+agency provides a focal point for interfacing with allies and conflicts with the military services if some of their
+and partners, and it gives Congress and senior DoD leaders JADC2-related efforts are not transferred to the command.
+a specific person to hold accountable for results. One A COCOM would arguably be more in tune with warfighter
+of the risks with using an independent agency is that it requirements to make cross-portfolio trades among
+creates the possibility of redundancies and conflicts with programs than an independent agency, and if it retained
+the services’ existing JADC2-related programs if they are operational authority for global command and control, it
+not completely transferred to the new agency. There is could also ease the transition of capabilities it develops
+also no guarantee that whatever the agency develops will into operational forces. A risk (and potential benefit) of
+be adopted and used by the services—a variation on the this approach is that COCOMs typically have a relatively
+so-called valley of death. To be effective, an independent near-term focus on what the warfighter needs now and
+agency would require close coordination with service-led over the next couple of years. That could speed early
+platform and munitions programs, strong support and development efforts to get new capabilities fielded sooner,
+a sustained commitment from top OSD leadership, and but it could also hamper long-term strategic planning and
+top-level decisions that are enforced by OSD through the the development of more complex capabilities.
+annual program review process.
+Decentralized Development: The default approach if a
+Lead Military Service: A different approach would be to deliberate decision is not otherwise made is to continue
+designate a lead military service for JADC2 and direct the with decentralized development of JADC2 systems
+other services, agencies, and COCOMs to work with the and components across the services and agencies with
+lead service to ensure it develops the capabilities they oversight by OSD and the Joint Staff. Responsibility could
+need. This approach goes against the cultural instincts and again be assigned to an ASD, and both the ASD and Joint
+the institutional incentives of the services, and the past Staff could issue policies, strategies, and KPPs that attempt
+seven decades since the Key West Agreement are replete to guide and coordinate the services’ independent efforts—
+with examples of where this approach has not worked as was the case with ASD/NII and J6 for net-centric warfare
+well (e.g., close air support, missile defense). For the in the early 2000s. The services would retain independent
+lead service approach to be effective, OSD and Joint Staff control of JADC2-related program schedules and budgets,
+leaders would need to be consistent and disciplined during which would likely proceed at different paces, depending
+the Planning, Programming, Budgeting, and Execution on the other budgetary priorities within each service. But
+(PPBE) and Joint Requirements Oversight Council (JROC) cross-program and cross-service interoperability becomes
+processes to ensure (1) that the lead service is fully increasingly difficult if some programs are proceeding
+responsive to the requirements of the other services, through development into procurement well before other
+(2) that the lead service fully funds these efforts in each programs. A likely outcome from this approach is that
+year’s budget, and (3) that the other services do not begin the services would each develop a new generation of
+alternative programs or procure incompatible systems on stove-piped command and control systems that are highly
+their own. In short, it would likely be a constant struggle capable within their respective domains. Cross-service
+to make this work. and cross-domain interoperability would be a secondary
+priority—or worse, an unfunded requirement.
+Lead Functional Command: Another approach would
+be to designate a lead COCOM for JADC2 and provide
+TOP-LEVEL JADC2 ARCHITECTURE
+it with independent acquisition authority in the model
+DoD also needs to make several key decisions about the
+of Special Operations Command. This could be a new
+overall architecture it envisions for JADC2 and how it
+functional command created specifically for command
+will be implemented. These architectural decisions are
+and control, or this function could be assigned to an
+interconnected with the organizational models discussed
+existing COCOM, such as Strategic Command, Space
+in the previous section because some architectures are
+Command, Cyber Command, or Northern Command. Like
+better suited for development under certain organizational
+the JPEO and independent agency models, designating
+structures.
+a lead COCOM provides a focal point for interfacing
+with allies and partners and makes a senior commander Scope: One of the most consequential architectural
+accountable to DoD and Congress for delivering results. A decisions is the scope of what is considered part of
+CSIS BRIEFS | WWW.CSIS.ORG | 8
+
+JADC2—what types of systems, data, networks, and “middleware” that integrates dissimilar systems into a
+missions will be part of the architecture. OSD’s data battle network. However, this means that applications
+strategy and the Joint Staff’s JADC2 strategy appear to written for one operating system will not be natively
+be taking a broad, enterprise-wide approach to scoping interoperable with other systems and will require some
+JADC2. This approach was tried in the 1990s and 2000s level of preparation time and development work to make
+with DoD’s concepts for the GIG and net-centricity. The them interoperable. A common operating system creates
+challenge is that the more the scope expands, the more the possibility of a truly open ecosystem for software
+divergent the mission requirements become and the more development, which can reduce barriers to entry for small
+difficult it is to make meaningful progress. When drawing companies, encourage innovation, increase software
+the lines around what is included in JADC2 and what is reusability, and prevent vendor lock. The downside of
+not, DoD should be mindful that not all interoperability is creating a common operating system for JADC2 is that
+worth the price, and one-size-fits-all approaches to data it would be difficult to develop one operating system
+standards, security, and communications protocols are capable of meeting the diverse and often yet-to-be-define
+often suboptimal at best and unworkable at worst. For requirements of users, and whatever is developed will not
+example, do the data systems that process and manage be fully optimized for any specific mission or hardware
+medical records and spare parts inventories need to be configuration.
+interoperable with missile defense systems and tactical
+Interfaces: The JADC2 architecture should also identify
+fighter networks? If not, then why make them part of the
+and define key interfaces both internally and externally.
+same effort and subject to the same policies?
+Interfaces are a critical part of defining the scope of the
+The key to solving big problems is to break them into system, and DoD should carefully articulate the interfaces
+smaller, more manageable problems. The scope of JADC2 to the data systems and networks that support battle
+should be carefully narrowed to only the five functional networks but are not directly part of the battle networks
+elements that comprise battle networks: sensors, (delineating what is external to the architecture and
+communications, data processing, decisionmaking, and therefore outside the scope of JADC2). External interfaces
+effects. While there are many other information systems would include things like maintenance and inventory
+that these functional elements rely upon for support, the management systems, training systems, and personnel
+Department risks traversing down a slippery slope if it management systems. Interfaces are more than just
+begins to include supporting systems within the scope of technical specifications; they also include the policies and
+JADC2. Likewise, attempting to define the scope of JADC2 processes that govern how the interfaces will be used and
+by the level of missions supported (strategic, operational, by whom. The JADC2 architecture should also define the
+and tactical) leaves too much to interpretation because internal interfaces necessary for allies and partners to be
+many of the systems and components that make up battle part of U.S. battle networks and share data in real time,
+networks can be used for multiple missions. Importantly, including the policies and agreements across nations to
+DoD should acknowledge the increasingly important enable this connectivity both in peacetime competition
+role commercial systems play in its battle networks— and in conflict. Similar internal interfaces are needed
+for sensing, communications, and data processing in to enable DoD to leverage and integrate commercial
+particular—and include these systems in its architecture. capabilities into battle networks to augment government
+systems.
+Common Operating System: A key architectural decision
+for JADC2 is whether to mandate the use of a common
+MAKE/BUY/BORROW DECISIONS
+operating system or allow different parts of the battle
+In a traditional acquisition approach, one of the first
+network to run separate operating systems. Dissimilar
+analyses conducted is whether warfighter requirements
+operating systems within and across networks have been
+can best be met by (1) upgrading or repurposing something
+the traditional approach, and the main advantage is that
+that already exists, (2) buying something that has already
+it allows systems to be optimized for the functions they
+been developed (i.e., off the shelf), or (3) developing a
+perform and the specific hardware they use. Technologies
+new material solution. While this framework still applies,
+like DARPA’s System-of-systems Technology Integration
+given the rapid advancement of commercial technology
+Tool Chain for Heterogeneous Electronic Systems
+in areas that have considerable overlap with military
+(STITCHES) can be used to automatically generate
+battle networks, the range of options should be expanded.
+CSIS BRIEFS | WWW.CSIS.ORG | 9
+
+The first option (upgrading or repurposing) can mean operators and platforms may be put at grave risk (such
+adding new sensors and payloads to existing platforms or as in a combat zone) or where the operators may be
+adjusting operational concepts to use existing platforms required to perform uniquely military functions (such as
+in different ways. For example, the military has added directing fires or carrying out strikes). And neither COCO
+strike capabilities to ISR platforms, used strike platforms nor COGO would be viable for capabilities that private
+for ISR, and is planning to use aerial refueling aircraft as firms cannot legally or financially develop on their own.
+communication and data processing hubs. The third option The JADC2 acquisition strategy should, however, make a
+(a new start development) should usually be considered deliberate effort to decide what it needs to buy as a product
+as a last resort to meet truly military-unique requirements versus a service and what needs to be government versus
+that cannot be met otherwise. New developments do not commercially operated.
+necessarily mean hardware programs—they could include
+applications (such as AI systems) that sit on top of the CONCLUSION
+network to process and exploit information in new ways. Battle networks and the competition among them are
+an increasingly important component of military power.
+The second option, buying capabilities off the shelf, needs
+In a highly “informationized” warfighting environment,
+to be expanded and reimagined to fully leverage the
+U.S. and allied forces must be able to protect their battle
+capabilities resident in the private sector, including both
+networks from attack while simultaneously attacking the
+traditional and non-traditional defense contractors. Buying
+battle networks of adversary forces. AI/ML algorithms
+something “off the shelf” can be done in many ways. The
+running within highly integrated battle networks can
+military can buy something as an off-the-shelf product and
+be used to improve indications and warnings, speed
+operate it using government personnel, what is known as
+decisionmaking, and enable an exponential increase in
+government owned and government operated (GOGO). In
+operational efficiency and effectiveness.
+some cases, the military can access similar capabilities by
+buying something as a service instead of a product, where The resilience and interoperability of battle networks
+the capability is commercially owned and commercially are closely connected because one enables the other.
+operated (COCO). In other cases, the military can lease Resilience can be enhanced by passive and active defenses;
+a capability from a commercial firm and operate it using and interoperability across services, domains, and nations
+government personnel, what is known as commercially enhances resilience by providing more opportunities for
+owned and government operated (COGO). diversification and distribution of capabilities. But this
+does not mean that everything needs to be interoperable.
+While the traditional approach to off the shelf is GOGO,
+The right level of interoperability among systems depends
+the COCO and COGO approaches offer several potential
+on the advantage provided and the costs involved.
+advantages. First, COCO and COGO leverage private capital
+for the large, upfront expenses involved in developing and This paper finds that current efforts to improve
+acquiring systems. It also allows the military to continually interoperability and data sharing across DoD—what
+adjust how much of something it uses and only pay for has become known as JADC2—are similar to the
+what it needs rather than being saddled with a fixed “transformation” and “net-centric” initiatives of the late
+number of assets at all times. It also gives the government 1990s and early 2000s. DoD should heed the lessons from
+flexibility to switch between capabilities quickly as these initiatives when charting a path forward for JADC2.
+technology improves and warfighter demands evolve, and In particular, it should avoid (1) starting overly ambitious
+this in turn gives contractors an incentive to invest their acquisition programs that attempt to “leap ahead”
+own capital in continuing to improve capabilities to better in technology, (2) assigning responsibility for JADC2
+anticipate and meet the military’s needs and win more task strategy and oversight to organizations that do not have
+orders. Importantly, the COCO and COGO approaches give budget authority over programs, (3) issuing policies and
+contractors a direct financial stake in reducing operation requirements without sufficient technical maturity, and
+and sustainment costs, which often comprise the majority (4) expanding the scope of JADC2 beyond battle networks.
+of a system’s total lifecycle cost.
+DoD is at a pivotal point in JADC2 development where it
+To be sure, commercial approaches are not appropriate needs to make several key decisions that will have long-
+in all situations. For example, the COCO and COGO term effects on how successful this attempt at creating
+approaches would not be suitable for missions where the a more networked and interoperable force will be. First,
+CSIS BRIEFS | WWW.CSIS.ORG | 10
+
+it needs to define organizational responsibilities and Todd Harrison is the director of Defense Budget Analysis and
+authorities for JADC2 development and implementation. director of the Aerospace Security Project at the Center for
+Several organizational models are available, such as Strategic and International Studies in Washington, D.C.
+consolidating programs into a JPEO for JADC2, creating a
+This brief is made possible by support from General Atomics,
+new independent agency for JADC2 development under
+Lockheed Martin, and general support to CSIS.
+USD/R&E, designating a lead service for JADC2, and
+designating or creating a COCOM for JADC2 development
+and operations. The default approach if no decision is
+made is to continue with decentralized development of
+JADC2 systems across the military services and agencies
+with oversight by OSD and the Joint Staff.
+DoD also needs to make several important decisions about
+the JADC2 architecture and acquisition strategy. The most
+important architectural decision is the scope of what is
+considered part of JADC2, and the Department should
+learn from past efforts (like the GIG) and not expand the
+scope of JADC2 to include more than just battle networks.
+It needs to define key internal and external interfaces
+in the system, which also helps define the scope. DoD
+also needs to decide whether the military wants to
+use a common operating system for JADC2 and how
+that operating system will be developed and managed.
+Importantly, the JADC2 acquisition strategy needs to
+include processes for determining what it can buy as a
+product versus a service and what can be government
+versus commercially operated.
+The many questions that remain unanswered for JADC2 are
+not merely academic or hypothetical. Billions of dollars are
+already being invested in programs, activities, and
+capabilities that are intended to form the battle networks
+of the future, and the ability of the U.S. military to
+maintain its qualitative advantage is at stake. The vision
+and ideas behind JADC2 are not new—they have been
+decades in the making, and the lessons drawn from past
+organizational and acquisition missteps should serve as a
+guide for how to proceed. It is not a question of if DoD will
+eventually achieve its vision for JADC2 but rather how long
+it will take to get it right.
+CSIS BRIEFS are produced by the Center for Strategic and International Studies (CSIS), a private, tax-exempt institution
+focusing on international public policy issues. Its research is nonpartisan and nonproprietary. CSIS does not take specific
+policy positions. Accordingly, all views, positions, and conclusions expressed in this publication should be understood to
+be solely those of the author(s). © 2021 by the Center for Strategic and International Studies. All rights reserved.
+Cover Photo: Petty Officer 3rd Class Marianne Guemo U.S. Northern Command
+CSIS BRIEFS | WWW.CSIS.ORG | 11

@@ -1,0 +1,314 @@
+Central bank digital currency can contribute to financial inclusion but cannot solve its root causes
+
+The Atlantic Council GeoTech Center Central Bank Digital Currency Series seeks to provide public and private sector leaders insight into how Central Bank Digital Currencies (CBDCs) will affect nations, economies, and societies. The previous Part I provides an overview of CBDCs and how they will transform digital payments and geopolitics.
+
+In Part II of this series, the GeoTech Center examines how CBDCs can contribute to financial inclusion in a post-COVID-19 world. The analysis concludes with a call for nations that plan to launch a retail CBDC to establish a national right to a CBDC account that is inclusive to all residents.
+
+CBDCs can usher in new monetary systems that are more inclusive for people who have been historically excluded and marginalized. If CBDCs are to contribute to financial inclusion in the post-COVID-19 world, leaders in the public, private, and nonprofit sectors must:
+
+understand how CBDCs can address the needs of unbanked and underbanked people;
+
+identify and address the root causes of financial exclusion that cannot be solved by CBDCs; and
+
+establish principles for an inclusive CBDC design that is centered on the financial needs of people rather than institutions.
+
+Despite a burgeoning technology industry and the emergence of financial technology (fintech) companies, financial exclusion remains a persistent problem. 1.7 billion people do not have access to a bank account and are unable to tap into financial institutions to borrow, save, or invest. This forces them to turn to alternative institutions that charge high fees and profit off of financial exclusion. The result: the unbanked with the greatest need are “trapped in a cycle of poverty” and debt without affordable financial products.
+
+COVID-19 has only exacerbated this problem, with over 3 billion people seeing their workplace fully or partially close. In response, governments worldwide have directed stimulus checks/transfers to households and micro, small, and medium-sized enterprises (MSMEs). To get resources to those in need, governments turned to traditional financial institutions and fintech companies. Additionally, people worldwide are being encouraged to use online financial products to maintain social distancing. In the post-COVID-19 world, these practices are likely to carry on. Bangko Sentral ng Pilipinas (Philippine Central Bank) Governor Benjamin Diokno said it best: “Our aspirations for a more inclusive and prosperous post-COVID world necessitate putting in place the critical pillars of a digital economy, including robust digital infrastructure, digital skills, e-government, digital ID, and an enabling legal and regulatory framework.”
+
+Retail CBDC has been highlighted by international and national institutions, like the International Monetary Fund and central banks, as a tool to promote an inclusive digital economy. The Atlantic Council has also made the case for digitizing the dollar in the age of COVID-19. In a retail CBDC payments system, a central bank would issue a national digital currency directly to people who hold accounts with the central bank. The analysis examines how CBDCs can promote financial inclusion and their limitations in a post-COVID-19 world, concluding with a call for countries that do decide to launch a CBDC to make retail CBDC accounts a national right. While an assortment of initiatives is needed (e.g. easy to access IDs, new financial products, Internet expansion), CBDCs can contribute to countries’ efforts to create a new financial system that centers the needs of people.
+
+The rise of central bank digital currencies
+
+Access the tracker of new digital currency projects from the Atlantic Council’s Global Business and Economics Program and the Harvard University Belfer Center.
+
+In the current fiat currency system, individuals generally gain access to credit and the financial system through checking and savings accounts housed within traditional financial institutions. Not everyone, however, is able to acquire a bank account. In emerging markets, financial institutions may not be easily accessible or robust, leaving people to rely on cash and barter systems. As a result, people who need to borrow money must turn to collateralized loans or nontraditional institutions like microfinance organizations and cooperatives. In countries with more developed financial institutions, opening a bank account may involve hurdles including formal identification, a minimum deposit and balance, and access to the Internet or a local bank branch. As the financial ecosystem becomes increasingly digital, those in both developed and emerging markets who unable to obtain bank accounts will be left further behind.
+
+Of the people who do have bank accounts, many are underbanked and unable to access the full range of financial services, such as loans, mortgages, and brokerage accounts. In the United States, for example, about 14 million people are unbanked, and 50 million are underbanked. Some prominent causes of financial exclusion across the world are lack of wealth, limited financial education, prior defaults, incarceration, and immigration status. Much of this is attributable to a history of racism, gender-based discrimination, classism, colonialism, authoritarianism, religious persecution, and other forms of oppression. The resulting loss of wealth and “credit risk” stemming from historical violence, along with continued marginalization, further restricts many people’s access to the financial system, as is the case with Black communities in the United States, women in Myanmar, and refugees in Latin America. Financial institutions in less robust markets may also simply not be able to take on the credit risk of people who have no credit history.
+
+Retail CBDCs can help remake the financial system into one that is more accessible to the unbanked and underbanked. Retail CBDCs are issued by a central bank directly to people without going through traditional bank accounts. In this system, individuals have CBDC accounts directly on the central bank core ledger. They then access their money and transact through a digital wallet application that is linked to the CBDC account through Application Program Interfaces (APIs). CBDCs would replace or provide an alternative to fiat cash, potentially addressing a number of current problems facing unbanked and underbanked communities. Retail CBDCs can do this in two ways: by establishing a more inclusive digital payments ecosystem and creating financial data identities.
+
+Transforming the payments ecosystem
+
+The management of fiat currency is expensive, particularly in developing countries, due to the costs of distribution, security, safety, and reliance on bank branches. A digital payments system would reduce costs while also removing the dangers of holding cash and increasing speed of access. This would make it easier and safer for women and people in isolated and rural areas to exchange money. Many fintech solutions, however, require the use of a bank account or physical agent. Retail CBDCs can bring people into a digital payments ecosystem without private intermediaries. Retail CBDC accounts would also incorporate mobile wallets, giving people the ability to make low-cost mobile payments.
+
+Furthermore, CBDCs can foster interoperability across payment systems and promote collaboration between fintech companies and central banks. At the moment, the digital payments ecosystem is predicated on links across different platforms without a common origination. Access into this system generally requires a bank account. In a retail CBDC structure, however, the core ledger will be linked to consumer payment applications and digital wallets through APIs. The central node in the system is the central bank. In countries without robust financial institutions or where the obstacles to getting a bank account with a private institution are too high, people can enter the financial system at the source—the central bank.
+
+A common central bank-backed system could lead to the integration of fintech and traditional financial products, improving domestic payment transfers and international remittances. Remittances are the largest source of external financing in emerging countries despite the high costs of money transfers offered by banks and post offices. In 2018, annual remittance flows to low- and middle-income countries reached $529 billion. Fully realized, CBDCs have the potential to create a domestic and cross-border payment transfer system that is fast, efficient, and affordable and that can be utilized by the full value chain for person-to-person, business-to-business and business-to-consumer transactions. Overall, a common national digital currency would contribute to the digitization of MSMEs, suppliers, producers, and consumers thereby making it easier for anyone to affordably carry out domestic and international transactions. In emerging countries still constructing a digital financial system, this can be especially transformative.
+
+Financial history and digital identity
+
+The privacy risks of CBDCs are well-documented, particularly regarding government data collection and surveillance of individuals’ transactions; the risks are even higher for marginalized communities. This is a serious concern that cannot be minimized and must be dealt with in the CBDC design.
+
+CBDCs, however, also give unbanked communities (in developed and emerging markets) pathways into the financial system and an opportunity to create financial history critical for building credit. Financial data can be a tool for oppression, but it can also be a means for empowerment when it is inclusive and follows best practices for privacy and security. CBDCs can be integrated with fintech providers for payments, savings, remittances, etc., leveraging a central bank-housed digital account that creates a financial identity and credit history for people who have been historically excluded from private institutions. Credit history is critical for people to access services offered by private financial institutions—CBDCs can help create these datasets. Additionally, new financial data may lead to a better segmentation of customers and the development of new products attuned to people’s needs. Last, CBDCs will push governments to create shared data standards for a digital identity that can be integrated with other government services.
+
+In response to the COVID-19 pandemic, governments have had to conduct wide-ranging economic interventions and cash transfers. These responses, however, require a robust digital payments infrastructure that can quickly and effectively get money and resources to people. Unfortunately, for many countries the payments system is not set up in such a fashion. Even in the United States, with the most developed financial market in the world, millions of Americans have had to wait for months to receive their $1,200 stimulus payment, particularly the unbanked and underbanked who are most in need.
+
+Direct engagement between government and people
+
+In a retail CBDC payments infrastructure, central banks can make cash transfers and governments can offer subsidies and programmed spending incentives (e.g. direct cash rebates) directly to people and MSMEs. This serves three purposes:
+
+improving the efficacy of stimulus programs without relying on the traditional trickle-down approach through intermediaries;
+
+reducing costs and time for government support to reach people; and
+
+facilitating the collection of economic and financial data to assess the impact of COVID-19.
+
+While fintech companies and financial institutions are addressing some of these factors in developed markets, not every country has a robust payments ecosystem. CBDCs can bridge the gap. That being said, even in developed markets CBDCs can reduce the time and costs needed to conduct economic stimulus programs and ensure that financial support quickly reaches people through a uniform digital payments system.
+
+In the current financial system, governments serve as a lender of last resort, bailing out banks and larger companies—this must change in the post-COVID-19 world. Ultimately, retail CBDCs can transform the relationship between the central bank and individual, giving central banks the power to serve as the lender of last resort for people and MSMEs.
+
+Targeted long-term responses to disproportionately affected communities
+
+COVID-19 is disproportionately affecting certain communities. In the United States, Black, Indigenous, homeless, incarcerated, and rural communities and communities of color are being hit hardest from both a health and economic standpoint. Similarly, COVID-19 will affect other marginalized communities across the world to a greater degree. Targeted interventions will be needed, backed by robust data, in the form of cash transfers, loans, and subsidies. Governments currently must go through other institutions to provide resources to affected communities—there is no direct mechanism to support people on the ground. CBDCs give governments the payments system to implement programs that respond directly to the long-term and particular effects of COVID-19.
+
+Online and mobile payment systems
+
+Unbanked and underbanked people have thus far relied on a cash economy tied to brick and mortar institutions. Many people are unable to fully partake in the digital economy despite the increasing availability of mobile phones and Internet technology. As a result, they remain dependent on in-person interactions. This physical system undermines public health and risks greater exposure and economic damage to already vulnerable communities in the event of a future pandemic.
+
+Retail CBDCs provide state-sanctioned access into the digital economy through a mobile and remote payments system. While retail CBDCs at the outset involve simply the creation of a digital currency, network effects can build upon this technology and support further innovation. In a country like Thailand with a high unbanked population but also high smartphone and Internet penetration rates, new online financial tools can operate on a retail CBDC payments system. This can give millions of people access to a digital financial system that is resilient during public health crises.
+
+A technocratic solution that cannot solve the underlying causes of financial exclusion
+
+Like many fintech solutions, CBDCs cannot solve wealth inequality or the other root causes of financial exclusion. Retail CBDCs can simply help put in place a technical framework and mechanism to begin addressing these problems. Governments, however, will need to work across agencies, departments, and sectors to carry out more transformative economic changes. In the effort to promote financial inclusion, CBDCs will be limited by the following factors:
+
+trust in technology and financial literacy; and
+
+historical inequality and lack of wealth.
+
+CBDC-based transactions require the Internet. At the moment, however, only 59% of the world has access to the Internet. Many of those excluded are also likely to be unbanked or underbanked. For CBDCs to empower people and communities, governments and private Internet companies must work together to first build affordable Internet infrastructure. Additionally, mobile wallets used for CBDC transactions must be designed to operate in low-bandwidth areas. There is no way to work around the problem of Internet access.
+
+Comprehensive fintech solutions are possible in countries with high smartphone penetration, such as the Philippines, where the Central Bank has established a fintech and blockchain unit. Similarly, CBDC-based transactions require, at the least, a smartphone that lets users access their account—a smartphone is needed due to the cryptography involved in transactions. Unfortunately, only 3.5 billion (out of 7.8 billion) people currently own a smartphone. While this number is expected to grow in the upcoming years, smartphone penetration will not reach 100% any time soon. Before governments turn to CBDCs, they must work with mobile providers to increase the smartphone penetration rate.
+
+Trust in technology and financial literacy
+
+In a recent survey, only “54% of respondents said they would trust a digital currency issued by their government or central bank.” If CBDCs are to be adopted and used, people will need to know about the technology and trust it. Lack of trust can stem from concerns around data security, problems accessing the account, discomfort with transactions that lack physical currency, worries about glitches, and general distrust in the central bank. People with low income and limited education, in particular, are less likely to trust digital currencies. This skepticism and concern is understandable—any, even minor, problems pose tremendous risks to their livelihood.
+
+Furthermore, governments will need to improve financial literacy, which is correlated with financial exclusion. In the Philippines, for example, 17% of people without bank accounts cited “lack of knowledge on how to open an account” and “lack of awareness” as reasons for not having a bank account. Financial knowledge also helps people to determine what products to use and how to use them, and to overcome financial institutions’ use of jargon and complex documentation.
+
+In order to build trust and improve financial literacy, a central bank and its private partners will have to design a CBDC mobile wallet that is easy to use, free from technical problems, replete with strong consumer protections, and up to cybersecurity standards. Many digital currencies have been far from user-friendly. As a result, startups like Celo and MobileCoin have sought to design easy-to-use mobile wallets for people with limited financial knowledge. Governments and other payment providers will have to do the same for CBDCs through a design approach that involves heavy user testing, interviews, and feedback from users and partners. Furthermore, community development and social service organizations will need to offer training resources to financially illiterate people, to encourage them to use CBDCs, and to demonstrate the consumer protection measures that have been put in place. Overall, to improve trust and financial literacy, the launch of a retail CBDC will require the following:
+
+a large on-the-ground education and awareness campaign led by economic development agencies, banks, education systems, and social service entities that partner with local community groups and leaders to provide training on how to use CBDCs and offer incentives for adoption;
+
+mechanisms to collect complaints and feedback from groups involved with the education campaign and end-users of the CBDC payment system, and a process to address these problems; and
+
+cybersecurity and consumer protection standards enforced by regulatory bodies, with clear policies in the scenario that money is stolen, lost, or made inaccessible.
+
+Historical inequality and lack of wealth
+
+CBDCs can tackle some of the hurdles that result in financial exclusion, like high costs, credit risk, and lack of documentation. They, however, do not address the major driver of financial exclusion: lack of wealth. Of the Philippine people who do not have a bank account, 60% say it is because they do not have enough money.
+
+Poverty often stems from systematic exclusion and marginalization, sustained by a society and institutions that thrive on the poverty of certain groups. In a time when economic inequality is worsening in many countries, CBDCs will not transform how societies treat their members. Economic prosperity for the unbanked and underbanked requires the remaking of institutions and may involve profound transformations such as the overthrowing of authoritarian regimes, reassessing the economic system, addressing corruption, expanding gender/voting/religious rights, improving public education, etc. Financial exclusion is due to oppression—if not dealt with, CBDCs will only further entrench it within the digital world.
+
+The national right to a retail CBDC account
+
+If retail CBDCs are to contribute to financial inclusion, people must have a national right to a CBDC account with the central bank. Many countries, even the largest democracies, have historically limited certain communities’ rights, such as pathways to citizenship, access to basic government services, and the ability to vote. Analogously, if not made a national right, CBDCs risk being weaponized to serve as a new tool for excluding already persecuted groups. The result of weaponization: CBDCs will sustain and promote further wealth inequality. As the economy digitizes, millions of people will be left behind with even less access to cash.
+
+A national right to a CBDC account incentivizes a central bank and regulatory bodies to commit to actions that alleviate the underlying causes of financial exclusion. Additionally, it will foster greater involvement by private payment providers to create applications that utilize CBDCs and form an interoperable system for a holistic digital economy. That being said, a rights-based approach may not necessarily solve the problem of financial exclusion. Rights are not always protected.
+
+While acknowledging the fact that rights are not always protected, a national right to a CBDC account at least defines the aspiration, putting in place the opportunity for sustained efforts that can result in a more inclusive financial ecosystem. Moving forward, public and private sector leaders working on the design and implementation of CBDCs will need to assess how digital currencies might be weaponized against people (e.g. government surveillance) and institute principles and systems that prevent such an occurrence.
+
+Financial inclusion is not access to cash or a digital currency. Inclusion is access to the resources and positive externalities that come about from the overall financial market. CBDCs by themselves cannot achieve financial inclusion, but they can help foster the conditions for a new digital system that includes the unbanked and underbanked.
+
+While this analysis has focused on how retail CBDCs relate to financial inclusion, more research is needed to determine how CBDCs affect financial stability. A new CBDC-based payments system may undermine financial institutions, threatening the overall financial system. One possible scenario is a shift from retail and commercial banks to CBDCs. This outflow in deposits would reduce the ability for banks to lend and manage credit ris. Public and private sector leaders will need to further study the financial implications of CBDCs before launching them.
+
+COVID-19 has demonstrated weaknesses in the current financial and economic system, from the difficulties of implementing stimulus programs to the inability of making transactions when most needed. CBDCs can be a powerful tool in the post-COVID-19 world if they are:
+
+seen as a way to contribute to financial inclusion rather than as a primary solution;
+
+recognized as a national right to all residents and backed by a government that supports this right;
+
+paired with comprehensive training and financial education campaigns that meet the needs of people who are unbanked and underbanked;
+
+leveraged for targeted stimulus and cash transfer programs;
+
+used to put in place policies and solutions that address the different needs and historical causes of financial exclusion;
+
+built upon to create a digital ecosystem with financial tools and applications that better target various customer segments and are accessible to anyone who has a retail CBDC account; and
+
+implemented to reshape the relationship between central banks and people.
+
+COVID-19’s disproportionate effect on certain communities necessitates the creation and establishment of technology that promotes community resiliency. CBDCs can be one such technology that helps usher in a financial system that is more prosperous for all.
+
+The Atlantic Council GeoTech Center would like to thank Nikhil Raghuveera for serving as both Guest Author and the lead author of this report. Nikhil is a recent MBA/MPA graduate of The Wharton School and the Harvard Kennedy School with a background in economic consulting, nonprofit consulting, cryptocurrency, and venture capital. He will be joining the Atlantic Council GeoTech Center as a Nonresident Fellow.
+
+Gupta, Sumit, “From Exclusion to Empowerment: How Crypto Could Hold Key to Financial Inclusion,” Nasdaq, January 7, 2020.
+
+Yun, Alyssa, “Financial Exclusion: Why it is More Expensive to be Poor,” Wharton Public Policy Initiative, June 2, 2017.
+
+“Coronavirus: Four Out of Five People’s Jobs Hit by Pandemic,” BBC, April 7, 2020.
+
+Dewar, Joanne, “The Impact of the COVID-19 Pandemic on Financial Inclusion,” Nasdaq, April 27, 2020.
+
+Lucas, Daxim, “BSP Chief: Fintechs Should Play Bigger Role in Post-Pandemic PH Economy,” Inquirer, May 20, 2020.
+
+Lagarde, Christine, “Winds of Change: The Case for New Digital Currency,” IMF, November 14, 2018.
+
+Barontini, Christian and Henry Holden, “Proceeding With Caution – A Survey on Central Bank Digital Currency,” BIS, January 8, 2019.
+
+Greenwald, Michael, “Digitizing the Dollar in the Age of COVID-19,” Atlantic Council, April 22, 2020.
+
+“The Rise of Central Bank Digital Currencies,” Atlantic Council, May 19, 2020.
+
+Tatham, Matt, “The Number of Americans with Bank Accounts Rises,” Experian, March 25, 2019.
+
+Florant, Aria, et al., “The Case for Accelerating Financial Inclusion in Black Communities,” McKinsey & Company, February 25, 2020.
+
+Ramachandran, Anjali, “Four Stories of Financial Exclusion: How Identity Barriers are Blocking Financial Access for Refugees and Other Vulnerable Groups,” NextBillion, May 8, 2020.
+
+“Is Cash the Enemy of Financial Inclusion,” Better Than Cash Alliance, June 30, 2014.
+
+“Record High Remittances Sent Globally in 2018,” The World Bank, April 8, 2019.
+
+Cooper, Barry, Antonia Esser, and Michaella Allen, “The Use Cases of Central Bank Digital Currency for Financial Inclusion: A Case for Mobile Money,” Cenfri, .
+
+Vigna, Paul, “Brace for the Digital-Money Wars,” The Wall Street Journal, December 7, 2019.
+
+Raghuveera, Nikhil, “Design Choices of Central Bank Digital Currencies Will Transform Digital Payments and Geopolitics,” Atlantic Council, April 23, 2020
+
+Tripathi, Ajit, “4 Reasons Central Banks Should Launch Retail Digital Currencies,” CoinDesk, March 21, 2020.
+
+Gore, Rachel, “Millions of Americans Won’t See COVID-19 Stimulus Checks for Months—Digital Payments Could Change That,” PaymentsJournal, April 30, 2020.
+
+Kendi, Ibram X., “What the Racial Data Show,” The Atlantic, April 6, 2020.
+
+Appaya, Sharmista, Helen Gradstein, and Thervina Mathurin-Andrew, “Fintech Can Help in the Response to COVID-19. But Where Should Policymarkets Start?,” World Bank Blogs, May 12, 2020.
+
+“Thailand FinTech Landscape Report,” EY.
+
+“Thailand, A Land of Digital Possibilities,” Accenture.
+
+Morgan, Steve, “Humans on the Internet Will Triple From 2015 to 2022 and hit 6 Billion,” Cybercrime Magazine, July 18, 2019.
+
+Crypto Pilipinas, “Philippine Central Bank Sets Up Fintech, Blockchain Unit,” Medium, August 10, 2018.
+
+“How Many Smartphones are in the World?,” BankMyCell.
+
+Haig, Samuel, “Survey: Consumers Trust CBDCs Over Privately-Issued Crypto Assets,” Cointelegraph, April 20, 2020.
+
+Strauss, Delphine, “Poll Reveals Public Distrust for Big Tech’s Digital Money Plans,” Financial Times, February 4, 2020.
+
+Guzman, Luchi de, “77% of Filipinos Remain Unbanked—BSP,” CNN Philippines, July 11, 2018.
+
+Orchard, John, “Low Trust Impedes Digital Currency Plans,” OMFIF, February 18, 2020.
+
+Boletawa, Eliki, “Financial Literacy: An Important Tool for Financial Inclusion,” Alliance for Financial Inclusion, January 23, 2015.
+
+Atkinson, A. and F. Messy (2013), “Promoting Financial Inclusion through Financial Education: OECD/INFE Evidence, Policies and Practice”, OECD Working Papers on Finance, Insurance and Private Pensions, No. 34, OECD Publishing.
+
+“Rising Inequality Affecting More than Two-Thirds of the Globe, But It’s Not Inevitable: New UN Report,” UN News, January 21, 2020.
+
+Regan, Helen, Swati Gupta, and Omar Khan, “India Passes Controversial Citizenship Bill that Excludes Muslims,” CNN, December 17, 2019.
+
+Design choices of Central Bank Digital Currencies will transform digital payments and geopolitics
+
+In this analysis, the Atlantic Council GeoTech Center examines the geopolitical implications of Central Bank Digital Currencies (CBDCs) and calls for the United States to lead on setting standards for CBDC and financial technology.
+
+The GeoTech Center champions positive paths forward that societies can pursue to ensure new technologies and data empower people, prosperity, and peace.
+
+Related Experts: David Bray and
+
+The Atlantic Council GeoTech Center Central Bank Digital Currency Series seeks to provide public and private sector leaders insight into how Central Bank Digital Currencies (CBDCs) will affect nations, economies, and societies. The previous Part I provides an overview of CBDCs and how they will transform digital payments and geopolitics.
+In Part II of this series, the GeoTech Center examines how CBDCs can contribute to financial inclusion in a post-COVID-19 world. The analysis concludes with a call for nations that plan to launch a retail CBDC to establish a national right to a CBDC account that is inclusive to all residents.
+CBDCs can usher in new monetary systems that are more inclusive for people who have been historically excluded and marginalized. If CBDCs are to contribute to financial inclusion in the post-COVID-19 world, leaders in the public, private, and nonprofit sectors must:
+understand how CBDCs can address the needs of unbanked and underbanked people;
+identify and address the root causes of financial exclusion that cannot be solved by CBDCs; and
+establish principles for an inclusive CBDC design that is centered on the financial needs of people rather than institutions.
+Despite a burgeoning technology industry and the emergence of financial technology (fintech) companies, financial exclusion remains a persistent problem. 1.7 billion people do not have access to a bank account and are unable to tap into financial institutions to borrow, save, or invest. This forces them to turn to alternative institutions that charge high fees and profit off of financial exclusion. The result: the unbanked with the greatest need are “trapped in a cycle of poverty” and debt without affordable financial products.
+COVID-19 has only exacerbated this problem, with over 3 billion people seeing their workplace fully or partially close. In response, governments worldwide have directed stimulus checks/transfers to households and micro, small, and medium-sized enterprises (MSMEs). To get resources to those in need, governments turned to traditional financial institutions and fintech companies. Additionally, people worldwide are being encouraged to use online financial products to maintain social distancing. In the post-COVID-19 world, these practices are likely to carry on. Bangko Sentral ng Pilipinas (Philippine Central Bank) Governor Benjamin Diokno said it best: “Our aspirations for a more inclusive and prosperous post-COVID world necessitate putting in place the critical pillars of a digital economy, including robust digital infrastructure, digital skills, e-government, digital ID, and an enabling legal and regulatory framework.”
+Retail CBDC has been highlighted by international and national institutions, like the International Monetary Fund and central banks, as a tool to promote an inclusive digital economy. The Atlantic Council has also made the case for digitizing the dollar in the age of COVID-19. In a retail CBDC payments system, a central bank would issue a national digital currency directly to people who hold accounts with the central bank. The analysis examines how CBDCs can promote financial inclusion and their limitations in a post-COVID-19 world, concluding with a call for countries that do decide to launch a CBDC to make retail CBDC accounts a national right. While an assortment of initiatives is needed (e.g. easy to access IDs, new financial products, Internet expansion), CBDCs can contribute to countries’ efforts to create a new financial system that centers the needs of people.
+The rise of central bank digital currencies
+Access the tracker of new digital currency projects from the Atlantic Council’s Global Business and Economics Program and the Harvard University Belfer Center.
+In the current fiat currency system, individuals generally gain access to credit and the financial system through checking and savings accounts housed within traditional financial institutions. Not everyone, however, is able to acquire a bank account. In emerging markets, financial institutions may not be easily accessible or robust, leaving people to rely on cash and barter systems. As a result, people who need to borrow money must turn to collateralized loans or nontraditional institutions like microfinance organizations and cooperatives. In countries with more developed financial institutions, opening a bank account may involve hurdles including formal identification, a minimum deposit and balance, and access to the Internet or a local bank branch. As the financial ecosystem becomes increasingly digital, those in both developed and emerging markets who unable to obtain bank accounts will be left further behind.
+Of the people who do have bank accounts, many are underbanked and unable to access the full range of financial services, such as loans, mortgages, and brokerage accounts. In the United States, for example, about 14 million people are unbanked, and 50 million are underbanked. Some prominent causes of financial exclusion across the world are lack of wealth, limited financial education, prior defaults, incarceration, and immigration status. Much of this is attributable to a history of racism, gender-based discrimination, classism, colonialism, authoritarianism, religious persecution, and other forms of oppression. The resulting loss of wealth and “credit risk” stemming from historical violence, along with continued marginalization, further restricts many people’s access to the financial system, as is the case with Black communities in the United States, women in Myanmar, and refugees in Latin America. Financial institutions in less robust markets may also simply not be able to take on the credit risk of people who have no credit history.
+Retail CBDCs can help remake the financial system into one that is more accessible to the unbanked and underbanked. Retail CBDCs are issued by a central bank directly to people without going through traditional bank accounts. In this system, individuals have CBDC accounts directly on the central bank core ledger. They then access their money and transact through a digital wallet application that is linked to the CBDC account through Application Program Interfaces (APIs). CBDCs would replace or provide an alternative to fiat cash, potentially addressing a number of current problems facing unbanked and underbanked communities. Retail CBDCs can do this in two ways: by establishing a more inclusive digital payments ecosystem and creating financial data identities.
+Transforming the payments ecosystem
+The management of fiat currency is expensive, particularly in developing countries, due to the costs of distribution, security, safety, and reliance on bank branches. A digital payments system would reduce costs while also removing the dangers of holding cash and increasing speed of access. This would make it easier and safer for women and people in isolated and rural areas to exchange money. Many fintech solutions, however, require the use of a bank account or physical agent. Retail CBDCs can bring people into a digital payments ecosystem without private intermediaries. Retail CBDC accounts would also incorporate mobile wallets, giving people the ability to make low-cost mobile payments.
+Furthermore, CBDCs can foster interoperability across payment systems and promote collaboration between fintech companies and central banks. At the moment, the digital payments ecosystem is predicated on links across different platforms without a common origination. Access into this system generally requires a bank account. In a retail CBDC structure, however, the core ledger will be linked to consumer payment applications and digital wallets through APIs. The central node in the system is the central bank. In countries without robust financial institutions or where the obstacles to getting a bank account with a private institution are too high, people can enter the financial system at the source—the central bank.
+A common central bank-backed system could lead to the integration of fintech and traditional financial products, improving domestic payment transfers and international remittances. Remittances are the largest source of external financing in emerging countries despite the high costs of money transfers offered by banks and post offices. In 2018, annual remittance flows to low- and middle-income countries reached $529 billion. Fully realized, CBDCs have the potential to create a domestic and cross-border payment transfer system that is fast, efficient, and affordable and that can be utilized by the full value chain for person-to-person, business-to-business and business-to-consumer transactions. Overall, a common national digital currency would contribute to the digitization of MSMEs, suppliers, producers, and consumers thereby making it easier for anyone to affordably carry out domestic and international transactions. In emerging countries still constructing a digital financial system, this can be especially transformative.
+Financial history and digital identity
+The privacy risks of CBDCs are well-documented, particularly regarding government data collection and surveillance of individuals’ transactions; the risks are even higher for marginalized communities. This is a serious concern that cannot be minimized and must be dealt with in the CBDC design.
+CBDCs, however, also give unbanked communities (in developed and emerging markets) pathways into the financial system and an opportunity to create financial history critical for building credit. Financial data can be a tool for oppression, but it can also be a means for empowerment when it is inclusive and follows best practices for privacy and security. CBDCs can be integrated with fintech providers for payments, savings, remittances, etc., leveraging a central bank-housed digital account that creates a financial identity and credit history for people who have been historically excluded from private institutions. Credit history is critical for people to access services offered by private financial institutions—CBDCs can help create these datasets. Additionally, new financial data may lead to a better segmentation of customers and the development of new products attuned to people’s needs. Last, CBDCs will push governments to create shared data standards for a digital identity that can be integrated with other government services.
+In response to the COVID-19 pandemic, governments have had to conduct wide-ranging economic interventions and cash transfers. These responses, however, require a robust digital payments infrastructure that can quickly and effectively get money and resources to people. Unfortunately, for many countries the payments system is not set up in such a fashion. Even in the United States, with the most developed financial market in the world, millions of Americans have had to wait for months to receive their $1,200 stimulus payment, particularly the unbanked and underbanked who are most in need.
+Direct engagement between government and people
+In a retail CBDC payments infrastructure, central banks can make cash transfers and governments can offer subsidies and programmed spending incentives (e.g. direct cash rebates) directly to people and MSMEs. This serves three purposes:
+improving the efficacy of stimulus programs without relying on the traditional trickle-down approach through intermediaries;
+reducing costs and time for government support to reach people; and
+facilitating the collection of economic and financial data to assess the impact of COVID-19.
+While fintech companies and financial institutions are addressing some of these factors in developed markets, not every country has a robust payments ecosystem. CBDCs can bridge the gap. That being said, even in developed markets CBDCs can reduce the time and costs needed to conduct economic stimulus programs and ensure that financial support quickly reaches people through a uniform digital payments system.
+In the current financial system, governments serve as a lender of last resort, bailing out banks and larger companies—this must change in the post-COVID-19 world. Ultimately, retail CBDCs can transform the relationship between the central bank and individual, giving central banks the power to serve as the lender of last resort for people and MSMEs.
+Targeted long-term responses to disproportionately affected communities
+COVID-19 is disproportionately affecting certain communities. In the United States, Black, Indigenous, homeless, incarcerated, and rural communities and communities of color are being hit hardest from both a health and economic standpoint. Similarly, COVID-19 will affect other marginalized communities across the world to a greater degree. Targeted interventions will be needed, backed by robust data, in the form of cash transfers, loans, and subsidies. Governments currently must go through other institutions to provide resources to affected communities—there is no direct mechanism to support people on the ground. CBDCs give governments the payments system to implement programs that respond directly to the long-term and particular effects of COVID-19.
+Online and mobile payment systems
+Unbanked and underbanked people have thus far relied on a cash economy tied to brick and mortar institutions. Many people are unable to fully partake in the digital economy despite the increasing availability of mobile phones and Internet technology. As a result, they remain dependent on in-person interactions. This physical system undermines public health and risks greater exposure and economic damage to already vulnerable communities in the event of a future pandemic.
+Retail CBDCs provide state-sanctioned access into the digital economy through a mobile and remote payments system. While retail CBDCs at the outset involve simply the creation of a digital currency, network effects can build upon this technology and support further innovation. In a country like Thailand with a high unbanked population but also high smartphone and Internet penetration rates, new online financial tools can operate on a retail CBDC payments system. This can give millions of people access to a digital financial system that is resilient during public health crises.
+A technocratic solution that cannot solve the underlying causes of financial exclusion
+Like many fintech solutions, CBDCs cannot solve wealth inequality or the other root causes of financial exclusion. Retail CBDCs can simply help put in place a technical framework and mechanism to begin addressing these problems. Governments, however, will need to work across agencies, departments, and sectors to carry out more transformative economic changes. In the effort to promote financial inclusion, CBDCs will be limited by the following factors:
+trust in technology and financial literacy; and
+historical inequality and lack of wealth.
+CBDC-based transactions require the Internet. At the moment, however, only 59% of the world has access to the Internet. Many of those excluded are also likely to be unbanked or underbanked. For CBDCs to empower people and communities, governments and private Internet companies must work together to first build affordable Internet infrastructure. Additionally, mobile wallets used for CBDC transactions must be designed to operate in low-bandwidth areas. There is no way to work around the problem of Internet access.
+Comprehensive fintech solutions are possible in countries with high smartphone penetration, such as the Philippines, where the Central Bank has established a fintech and blockchain unit. Similarly, CBDC-based transactions require, at the least, a smartphone that lets users access their account—a smartphone is needed due to the cryptography involved in transactions. Unfortunately, only 3.5 billion (out of 7.8 billion) people currently own a smartphone. While this number is expected to grow in the upcoming years, smartphone penetration will not reach 100% any time soon. Before governments turn to CBDCs, they must work with mobile providers to increase the smartphone penetration rate.
+Trust in technology and financial literacy
+In a recent survey, only “54% of respondents said they would trust a digital currency issued by their government or central bank.” If CBDCs are to be adopted and used, people will need to know about the technology and trust it. Lack of trust can stem from concerns around data security, problems accessing the account, discomfort with transactions that lack physical currency, worries about glitches, and general distrust in the central bank. People with low income and limited education, in particular, are less likely to trust digital currencies. This skepticism and concern is understandable—any, even minor, problems pose tremendous risks to their livelihood.
+Furthermore, governments will need to improve financial literacy, which is correlated with financial exclusion. In the Philippines, for example, 17% of people without bank accounts cited “lack of knowledge on how to open an account” and “lack of awareness” as reasons for not having a bank account. Financial knowledge also helps people to determine what products to use and how to use them, and to overcome financial institutions’ use of jargon and complex documentation.
+In order to build trust and improve financial literacy, a central bank and its private partners will have to design a CBDC mobile wallet that is easy to use, free from technical problems, replete with strong consumer protections, and up to cybersecurity standards. Many digital currencies have been far from user-friendly. As a result, startups like Celo and MobileCoin have sought to design easy-to-use mobile wallets for people with limited financial knowledge. Governments and other payment providers will have to do the same for CBDCs through a design approach that involves heavy user testing, interviews, and feedback from users and partners. Furthermore, community development and social service organizations will need to offer training resources to financially illiterate people, to encourage them to use CBDCs, and to demonstrate the consumer protection measures that have been put in place. Overall, to improve trust and financial literacy, the launch of a retail CBDC will require the following:
+a large on-the-ground education and awareness campaign led by economic development agencies, banks, education systems, and social service entities that partner with local community groups and leaders to provide training on how to use CBDCs and offer incentives for adoption;
+mechanisms to collect complaints and feedback from groups involved with the education campaign and end-users of the CBDC payment system, and a process to address these problems; and
+cybersecurity and consumer protection standards enforced by regulatory bodies, with clear policies in the scenario that money is stolen, lost, or made inaccessible.
+Historical inequality and lack of wealth
+CBDCs can tackle some of the hurdles that result in financial exclusion, like high costs, credit risk, and lack of documentation. They, however, do not address the major driver of financial exclusion: lack of wealth. Of the Philippine people who do not have a bank account, 60% say it is because they do not have enough money.
+Poverty often stems from systematic exclusion and marginalization, sustained by a society and institutions that thrive on the poverty of certain groups. In a time when economic inequality is worsening in many countries, CBDCs will not transform how societies treat their members. Economic prosperity for the unbanked and underbanked requires the remaking of institutions and may involve profound transformations such as the overthrowing of authoritarian regimes, reassessing the economic system, addressing corruption, expanding gender/voting/religious rights, improving public education, etc. Financial exclusion is due to oppression—if not dealt with, CBDCs will only further entrench it within the digital world.
+The national right to a retail CBDC account
+If retail CBDCs are to contribute to financial inclusion, people must have a national right to a CBDC account with the central bank. Many countries, even the largest democracies, have historically limited certain communities’ rights, such as pathways to citizenship, access to basic government services, and the ability to vote. Analogously, if not made a national right, CBDCs risk being weaponized to serve as a new tool for excluding already persecuted groups. The result of weaponization: CBDCs will sustain and promote further wealth inequality. As the economy digitizes, millions of people will be left behind with even less access to cash.
+A national right to a CBDC account incentivizes a central bank and regulatory bodies to commit to actions that alleviate the underlying causes of financial exclusion. Additionally, it will foster greater involvement by private payment providers to create applications that utilize CBDCs and form an interoperable system for a holistic digital economy. That being said, a rights-based approach may not necessarily solve the problem of financial exclusion. Rights are not always protected.
+While acknowledging the fact that rights are not always protected, a national right to a CBDC account at least defines the aspiration, putting in place the opportunity for sustained efforts that can result in a more inclusive financial ecosystem. Moving forward, public and private sector leaders working on the design and implementation of CBDCs will need to assess how digital currencies might be weaponized against people (e.g. government surveillance) and institute principles and systems that prevent such an occurrence.
+Financial inclusion is not access to cash or a digital currency. Inclusion is access to the resources and positive externalities that come about from the overall financial market. CBDCs by themselves cannot achieve financial inclusion, but they can help foster the conditions for a new digital system that includes the unbanked and underbanked.
+While this analysis has focused on how retail CBDCs relate to financial inclusion, more research is needed to determine how CBDCs affect financial stability. A new CBDC-based payments system may undermine financial institutions, threatening the overall financial system. One possible scenario is a shift from retail and commercial banks to CBDCs. This outflow in deposits would reduce the ability for banks to lend and manage credit ris. Public and private sector leaders will need to further study the financial implications of CBDCs before launching them.
+COVID-19 has demonstrated weaknesses in the current financial and economic system, from the difficulties of implementing stimulus programs to the inability of making transactions when most needed. CBDCs can be a powerful tool in the post-COVID-19 world if they are:
+seen as a way to contribute to financial inclusion rather than as a primary solution;
+recognized as a national right to all residents and backed by a government that supports this right;
+paired with comprehensive training and financial education campaigns that meet the needs of people who are unbanked and underbanked;
+leveraged for targeted stimulus and cash transfer programs;
+used to put in place policies and solutions that address the different needs and historical causes of financial exclusion;
+built upon to create a digital ecosystem with financial tools and applications that better target various customer segments and are accessible to anyone who has a retail CBDC account; and
+implemented to reshape the relationship between central banks and people.
+COVID-19’s disproportionate effect on certain communities necessitates the creation and establishment of technology that promotes community resiliency. CBDCs can be one such technology that helps usher in a financial system that is more prosperous for all.
+The Atlantic Council GeoTech Center would like to thank Nikhil Raghuveera for serving as both Guest Author and the lead author of this report. Nikhil is a recent MBA/MPA graduate of The Wharton School and the Harvard Kennedy School with a background in economic consulting, nonprofit consulting, cryptocurrency, and venture capital. He will be joining the Atlantic Council GeoTech Center as a Nonresident Fellow.
+Gupta, Sumit, “From Exclusion to Empowerment: How Crypto Could Hold Key to Financial Inclusion,” Nasdaq, January 7, 2020.
+Yun, Alyssa, “Financial Exclusion: Why it is More Expensive to be Poor,” Wharton Public Policy Initiative, June 2, 2017.
+“Coronavirus: Four Out of Five People’s Jobs Hit by Pandemic,” BBC, April 7, 2020.
+Dewar, Joanne, “The Impact of the COVID-19 Pandemic on Financial Inclusion,” Nasdaq, April 27, 2020.
+Lucas, Daxim, “BSP Chief: Fintechs Should Play Bigger Role in Post-Pandemic PH Economy,” Inquirer, May 20, 2020.
+Lagarde, Christine, “Winds of Change: The Case for New Digital Currency,” IMF, November 14, 2018.
+Barontini, Christian and Henry Holden, “Proceeding With Caution – A Survey on Central Bank Digital Currency,” BIS, January 8, 2019.
+Greenwald, Michael, “Digitizing the Dollar in the Age of COVID-19,” Atlantic Council, April 22, 2020.
+“The Rise of Central Bank Digital Currencies,” Atlantic Council, May 19, 2020.
+Tatham, Matt, “The Number of Americans with Bank Accounts Rises,” Experian, March 25, 2019.
+Florant, Aria, et al., “The Case for Accelerating Financial Inclusion in Black Communities,” McKinsey & Company, February 25, 2020.
+Ramachandran, Anjali, “Four Stories of Financial Exclusion: How Identity Barriers are Blocking Financial Access for Refugees and Other Vulnerable Groups,” NextBillion, May 8, 2020.
+“Is Cash the Enemy of Financial Inclusion,” Better Than Cash Alliance, June 30, 2014.
+“Record High Remittances Sent Globally in 2018,” The World Bank, April 8, 2019.
+Cooper, Barry, Antonia Esser, and Michaella Allen, “The Use Cases of Central Bank Digital Currency for Financial Inclusion: A Case for Mobile Money,” Cenfri, .
+Vigna, Paul, “Brace for the Digital-Money Wars,” The Wall Street Journal, December 7, 2019.
+Raghuveera, Nikhil, “Design Choices of Central Bank Digital Currencies Will Transform Digital Payments and Geopolitics,” Atlantic Council, April 23, 2020
+Tripathi, Ajit, “4 Reasons Central Banks Should Launch Retail Digital Currencies,” CoinDesk, March 21, 2020.
+Gore, Rachel, “Millions of Americans Won’t See COVID-19 Stimulus Checks for Months—Digital Payments Could Change That,” PaymentsJournal, April 30, 2020.
+Kendi, Ibram X., “What the Racial Data Show,” The Atlantic, April 6, 2020.
+Appaya, Sharmista, Helen Gradstein, and Thervina Mathurin-Andrew, “Fintech Can Help in the Response to COVID-19. But Where Should Policymarkets Start?,” World Bank Blogs, May 12, 2020.
+“Thailand FinTech Landscape Report,” EY.
+“Thailand, A Land of Digital Possibilities,” Accenture.
+Morgan, Steve, “Humans on the Internet Will Triple From 2015 to 2022 and hit 6 Billion,” Cybercrime Magazine, July 18, 2019.
+Crypto Pilipinas, “Philippine Central Bank Sets Up Fintech, Blockchain Unit,” Medium, August 10, 2018.
+“How Many Smartphones are in the World?,” BankMyCell.
+Haig, Samuel, “Survey: Consumers Trust CBDCs Over Privately-Issued Crypto Assets,” Cointelegraph, April 20, 2020.
+Strauss, Delphine, “Poll Reveals Public Distrust for Big Tech’s Digital Money Plans,” Financial Times, February 4, 2020.
+Guzman, Luchi de, “77% of Filipinos Remain Unbanked—BSP,” CNN Philippines, July 11, 2018.
+Orchard, John, “Low Trust Impedes Digital Currency Plans,” OMFIF, February 18, 2020.
+Boletawa, Eliki, “Financial Literacy: An Important Tool for Financial Inclusion,” Alliance for Financial Inclusion, January 23, 2015.
+Atkinson, A. and F. Messy (2013), “Promoting Financial Inclusion through Financial Education: OECD/INFE Evidence, Policies and Practice”, OECD Working Papers on Finance, Insurance and Private Pensions, No. 34, OECD Publishing.
+“Rising Inequality Affecting More than Two-Thirds of the Globe, But It’s Not Inevitable: New UN Report,” UN News, January 21, 2020.
+Regan, Helen, Swati Gupta, and Omar Khan, “India Passes Controversial Citizenship Bill that Excludes Muslims,” CNN, December 17, 2019.
+Design choices of Central Bank Digital Currencies will transform digital payments and geopolitics
+In this analysis, the Atlantic Council GeoTech Center examines the geopolitical implications of Central Bank Digital Currencies (CBDCs) and calls for the United States to lead on setting standards for CBDC and financial technology.
+The GeoTech Center champions positive paths forward that societies can pursue to ensure new technologies and data empower people, prosperity, and peace.
+Related Experts: David Bray and

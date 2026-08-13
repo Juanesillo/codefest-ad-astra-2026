@@ -1,0 +1,155 @@
+numero: 39, titulo: 39 Informe Semestral, year: 2025, idioma: ENG, url: filename: CP_INFORME_MAPPOEA_39_ENG.pdf, status: 503, size_bytes: 0, size_mb: 0.0, scraped_at: 2026-06-03T19:44:48.108674Z
+
+numero: 39, titulo: 39 Informe Semestral, year: 2025, idioma: ESP, url: filename: CP_INFORME_MAPPOEA_39_ESP.pdf, status: 200, size_bytes: 622804, size_mb: 0.59, scraped_at: 2026-06-03T19:44:50.428071Z
+
+numero: 38, titulo: 38 Informe Semestral, year: 2025, idioma: ENG, url: filename: CP51877ECP-1.pdf, status: 200, size_bytes: 958836, size_mb: 0.91, scraped_at: 2026-06-03T19:44:51.789271Z
+
+numero: 38, titulo: 38 Informe Semestral, year: 2025, idioma: ESP, url: filename: CP51877SCP-1.pdf, status: 200, size_bytes: 508144, size_mb: 0.48, scraped_at: 2026-06-03T19:44:53.051015Z
+
+numero: 37, titulo: 37 Informe Semestral, year: 2025, idioma: ENG, url: filename: 37InformeSemestralMAPPOEAEng.pdf, status: 200, size_bytes: 540765, size_mb: 0.52, scraped_at: 2026-06-03T19:44:54.611004Z
+
+numero: 37, titulo: 37 Informe Semestral, year: 2025, idioma: ESP, url: filename: 37InformeSemestralMAPPOEAEsp.pdf, status: 200, size_bytes: 821975, size_mb: 0.78, scraped_at: 2026-06-03T19:44:57.653390Z
+
+numero: 36, titulo: 36 Informe Semestral, year: 2024, idioma: ENG, url: filename: Informe-Semestral-36-MAPPOEA-ENG.pdf, status: 503, size_bytes: 0, size_mb: 0.0, scraped_at: 2026-06-03T19:45:36.391129Z
+
+numero: 36, titulo: 36 Informe Semestral, year: 2024, idioma: ESP, url: filename: Informe-Semestral-36-MAPPOEA-1.pdf, status: 200, size_bytes: 414786, size_mb: 0.4, scraped_at: 2026-06-03T19:45:38.551412Z
+
+numero: 35, titulo: 35 Informe Semestral, year: 2024, idioma: ENG, url: filename: INFORME_MAPPOEA_35_ENG.pdf, status: 503, size_bytes: 0, size_mb: 0.0, scraped_at: 2026-06-03T19:46:20.391901Z
+
+numero: 35, titulo: 35 Informe Semestral, year: 2024, idioma: ESP, url: filename: INFORME_MAPPOEA_35.pdf, status: 200, size_bytes: 507867, size_mb: 0.48, scraped_at: 2026-06-03T19:46:22.644931Z
+
+numero: 34, titulo: 34 Informe Semestral, year: 2023, idioma: ENG, url: filename: INFORME-XXXIV-Eng-1.pdf, status: 503, size_bytes: 0, size_mb: 0.0, scraped_at: 2026-06-03T19:46:51.612714Z
+
+numero: 34, titulo: 34 Informe Semestral, year: 2023, idioma: ESP, url: filename: INFORME-XXXIV-Esp-1.pdf, status: 200, size_bytes: 1218101, size_mb: 1.16, scraped_at: 2026-06-03T19:46:57.414797Z
+
+numero: 33, titulo: 33 Informe Semestral, year: 2022, idioma: ENG, url: filename: Informe-Semestral-XXXIII-MAPPOEA-ENG.pdf, status: 503, size_bytes: 0, size_mb: 0.0, scraped_at: 2026-06-03T19:47:41.285653Z
+
+numero: 33, titulo: 33 Informe Semestral, year: 2022, idioma: ESP, url: filename: Informe-Semestral-XXXIII-MAPPOEA.pdf, status: 200, size_bytes: 526854, size_mb: 0.5, scraped_at: 2026-06-03T19:47:43.351560Z
+
+numero: 32, titulo: 32 Informe Semestral, year: 2022, idioma: ENG, url: filename: Informe-Semestral-XXXII-MAPPOEA-ENG.pdf, status: 404, size_bytes: 0, size_mb: 0.0, scraped_at: 2026-06-03T19:48:05.396822Z
+
+numero: 32, titulo: 32 Informe Semestral, year: 2022, idioma: ESP, url: filename: Informe-Semestral-XXXII-MAPPOEA.pdf, status: 200, size_bytes: 574229, size_mb: 0.55, scraped_at: 2026-06-03T19:48:07.500366Z
+
+numero: 31, titulo: 31 Informe Semestral, year: 2021, idioma: ENG, url: filename: Informe-Semestral-XXXI-MAPPOEA-ENG.pdf, status: 404, size_bytes: 0, size_mb: 0.0, scraped_at: 2026-06-03T19:48:14.057281Z
+
+numero: 31, titulo: 31 Informe Semestral, year: 2021, idioma: ESP, url: filename: Informe-Semestral-XXXI-MAPPOEA.pdf, status: 404, size_bytes: 0, size_mb: 0.0, scraped_at: 2026-06-03T19:48:17.515198Z
+
+numero: 30, titulo: 30 Informe Semestral, year: 2021, idioma: ENG, url: filename: Informe-Semestral-XXX-MAPPOEA-ENG.pdf, status: 404, size_bytes: 0, size_mb: 0.0, scraped_at: 2026-06-03T19:48:20.746903Z
+
+numero: 30, titulo: 30 Informe Semestral, year: 2021, idioma: ESP, url: filename: Informe-Semestral-XXX-MAPPOEA.pdf, status: 404, size_bytes: 0, size_mb: 0.0, scraped_at: 2026-06-03T19:48:24.071368Z
+
+numero: 29, titulo: 29 Informe Semestral, year: 2020, idioma: ENG, url: filename: Informe-Semestral-XXIX-MAPPOEA-ENG.pdf, status: 404, size_bytes: 0, size_mb: 0.0, scraped_at: 2026-06-03T19:48:27.553984Z
+
+numero: 29, titulo: 29 Informe Semestral, year: 2020, idioma: ESP, url: filename: Informe-Semestral-XXIX-MAPPOEA.pdf, status: 404, size_bytes: 0, size_mb: 0.0, scraped_at: 2026-06-03T19:48:31.333506Z
+
+numero: 28, titulo: 28 Informe Semestral, year: 2020, idioma: ENG, url: filename: Informe-Semestral-XXVIII-MAPPOEA-ENG.pdf, status: 404, size_bytes: 0, size_mb: 0.0, scraped_at: 2026-06-03T19:48:34.312547Z
+
+numero: 28, titulo: 28 Informe Semestral, year: 2020, idioma: ESP, url: filename: Informe-Semestral-XXVIII-MAPPOEA.pdf, status: 404, size_bytes: 0, size_mb: 0.0, scraped_at: 2026-06-03T19:48:38.097971Z
+
+numero: 27, titulo: 27 Informe Semestral, year: 2019, idioma: ENG, url: filename: Informe-Semestral-XXVII-MAPPOEA-ENG.pdf, status: 404, size_bytes: 0, size_mb: 0.0, scraped_at: 2026-06-03T19:48:41.970763Z
+
+numero: 27, titulo: 27 Informe Semestral, year: 2019, idioma: ESP, url: filename: Informe-Semestral-XXVII-MAPPOEA.pdf, status: 404, size_bytes: 0, size_mb: 0.0, scraped_at: 2026-06-03T19:48:47.091254Z
+
+numero: 26, titulo: 26 Informe Semestral, year: 2019, idioma: ENG, url: filename: Informe-Semestral-XXVI-MAPPOEA-ENG.pdf, status: 404, size_bytes: 0, size_mb: 0.0, scraped_at: 2026-06-03T19:49:05.499639Z
+
+numero: 26, titulo: 26 Informe Semestral, year: 2019, idioma: ESP, url: filename: Informe-Semestral-XXVI-MAPPOEA.pdf, status: 404, size_bytes: 0, size_mb: 0.0, scraped_at: 2026-06-03T19:49:21.396094Z
+
+numero: 25, titulo: 25 Informe Semestral, year: 2018, idioma: ENG, url: filename: Informe-Semestral-XXV-MAPPOEA-ENG.pdf, status: 404, size_bytes: 0, size_mb: 0.0, scraped_at: 2026-06-03T19:49:38.084670Z
+
+numero: 25, titulo: 25 Informe Semestral, year: 2018, idioma: ESP, url: filename: Informe-Semestral-XXV-MAPPOEA.pdf, status: 404, size_bytes: 0, size_mb: 0.0, scraped_at: 2026-06-03T19:49:50.697804Z
+
+numero: 24, titulo: 24 Informe Semestral, year: 2018, idioma: ENG, url: filename: Informe-Semestral-XXIV-MAPPOEA-ENG.pdf, status: 404, size_bytes: 0, size_mb: 0.0, scraped_at: 2026-06-03T19:50:00.752463Z
+
+numero: 24, titulo: 24 Informe Semestral, year: 2018, idioma: ESP, url: filename: Informe-Semestral-XXIV-MAPPOEA.pdf, status: 404, size_bytes: 0, size_mb: 0.0, scraped_at: 2026-06-03T19:50:07.140809Z
+
+numero: 23, titulo: 23 Informe Semestral, year: 2017, idioma: ENG, url: filename: Informe-Semestral-XXIII-MAPPOEA-ENG.pdf, status: 404, size_bytes: 0, size_mb: 0.0, scraped_at: 2026-06-03T19:50:10.075414Z
+
+numero: 23, titulo: 23 Informe Semestral, year: 2017, idioma: ESP, url: filename: Informe-Semestral-XXIII-MAPPOEA.pdf, status: 404, size_bytes: 0, size_mb: 0.0, scraped_at: 2026-06-03T19:50:13.036132Z
+
+numero: 22, titulo: 22 Informe Semestral, year: 2017, idioma: ENG, url: filename: Informe-Semestral-XXII-MAPPOEA-ENG.pdf, status: 404, size_bytes: 0, size_mb: 0.0, scraped_at: 2026-06-03T19:50:16.149484Z
+
+numero: 22, titulo: 22 Informe Semestral, year: 2017, idioma: ESP, url: filename: Informe-Semestral-XXII-MAPPOEA.pdf, status: 404, size_bytes: 0, size_mb: 0.0, scraped_at: 2026-06-03T19:50:20.743402Z
+
+numero: 21, titulo: 21 Informe Semestral, year: 2016, idioma: ENG, url: filename: Informe-Semestral-XXI-MAPPOEA-ENG.pdf, status: 404, size_bytes: 0, size_mb: 0.0, scraped_at: 2026-06-03T19:50:25.270000Z
+
+numero: 21, titulo: 21 Informe Semestral, year: 2016, idioma: ESP, url: filename: Informe-Semestral-XXI-MAPPOEA.pdf, status: 404, size_bytes: 0, size_mb: 0.0, scraped_at: 2026-06-03T19:50:29.927504Z
+
+numero: 20, titulo: 20 Informe Semestral, year: 2016, idioma: ENG, url: filename: Informe-Semestral-XX-MAPPOEA-ENG.pdf, status: 404, size_bytes: 0, size_mb: 0.0, scraped_at: 2026-06-03T19:50:34.444689Z
+
+numero: 20, titulo: 20 Informe Semestral, year: 2016, idioma: ESP, url: filename: Informe-Semestral-XX-MAPPOEA.pdf, status: 404, size_bytes: 0, size_mb: 0.0, scraped_at: 2026-06-03T19:50:38.583545Z
+
+numero: 19, titulo: 19 Informe Semestral, year: 2015, idioma: ENG, url: filename: Informe-Semestral-XIX-MAPPOEA-ENG.pdf, status: 404, size_bytes: 0, size_mb: 0.0, scraped_at: 2026-06-03T19:50:44.130303Z
+
+numero: 19, titulo: 19 Informe Semestral, year: 2015, idioma: ESP, url: filename: Informe-Semestral-XIX-MAPPOEA.pdf, status: 404, size_bytes: 0, size_mb: 0.0, scraped_at: 2026-06-03T19:50:47.445289Z
+
+numero: 18, titulo: 18 Informe Semestral, year: 2015, idioma: ENG, url: filename: Informe-Semestral-XVIII-MAPPOEA-ENG.pdf, status: 404, size_bytes: 0, size_mb: 0.0, scraped_at: 2026-06-03T19:50:51.742135Z
+
+numero: 18, titulo: 18 Informe Semestral, year: 2015, idioma: ESP, url: filename: Informe-Semestral-XVIII-MAPPOEA.pdf, status: 404, size_bytes: 0, size_mb: 0.0, scraped_at: 2026-06-03T19:50:55.735584Z
+
+numero: 17, titulo: 17 Informe Semestral, year: 2014, idioma: ENG, url: filename: Informe-Semestral-XVII-MAPPOEA-ENG.pdf, status: 404, size_bytes: 0, size_mb: 0.0, scraped_at: 2026-06-03T19:50:59.215658Z
+
+numero: 17, titulo: 17 Informe Semestral, year: 2014, idioma: ESP, url: filename: Informe-Semestral-XVII-MAPPOEA.pdf, status: 404, size_bytes: 0, size_mb: 0.0, scraped_at: 2026-06-03T19:51:07.714016Z
+
+numero: 16, titulo: 16 Informe Semestral, year: 2014, idioma: ENG, url: filename: Informe-Semestral-XVI-MAPPOEA-ENG.pdf, status: 404, size_bytes: 0, size_mb: 0.0, scraped_at: 2026-06-03T19:51:11.567416Z
+
+numero: 16, titulo: 16 Informe Semestral, year: 2014, idioma: ESP, url: filename: Informe-Semestral-XVI-MAPPOEA.pdf, status: 404, size_bytes: 0, size_mb: 0.0, scraped_at: 2026-06-03T19:51:15.331918Z
+
+numero: 15, titulo: 15 Informe Semestral, year: 2013, idioma: ENG, url: filename: Informe-Semestral-XV-MAPPOEA-ENG.pdf, status: 404, size_bytes: 0, size_mb: 0.0, scraped_at: 2026-06-03T19:51:18.582539Z
+
+numero: 15, titulo: 15 Informe Semestral, year: 2013, idioma: ESP, url: filename: Informe-Semestral-XV-MAPPOEA.pdf, status: 404, size_bytes: 0, size_mb: 0.0, scraped_at: 2026-06-03T19:51:22.558367Z
+
+numero: 14, titulo: 14 Informe Semestral, year: 2013, idioma: ENG, url: filename: Informe-Semestral-XIV-MAPPOEA-ENG.pdf, status: 404, size_bytes: 0, size_mb: 0.0, scraped_at: 2026-06-03T19:51:26.523937Z
+
+numero: 14, titulo: 14 Informe Semestral, year: 2013, idioma: ESP, url: filename: Informe-Semestral-XIV-MAPPOEA.pdf, status: 404, size_bytes: 0, size_mb: 0.0, scraped_at: 2026-06-03T19:51:29.868845Z
+
+numero: 13, titulo: 13 Informe Semestral, year: 2012, idioma: ENG, url: filename: Informe-Semestral-XIII-MAPPOEA-ENG.pdf, status: 404, size_bytes: 0, size_mb: 0.0, scraped_at: 2026-06-03T19:51:32.827427Z
+
+numero: 13, titulo: 13 Informe Semestral, year: 2012, idioma: ESP, url: filename: Informe-Semestral-XIII-MAPPOEA.pdf, status: 404, size_bytes: 0, size_mb: 0.0, scraped_at: 2026-06-03T19:51:35.932474Z
+
+numero: 12, titulo: 12 Informe Semestral, year: 2012, idioma: ENG, url: filename: Informe-Semestral-XII-MAPPOEA-ENG.pdf, status: 404, size_bytes: 0, size_mb: 0.0, scraped_at: 2026-06-03T19:51:39.930831Z
+
+numero: 12, titulo: 12 Informe Semestral, year: 2012, idioma: ESP, url: filename: Informe-Semestral-XII-MAPPOEA.pdf, status: 404, size_bytes: 0, size_mb: 0.0, scraped_at: 2026-06-03T19:51:44.430754Z
+
+numero: 11, titulo: 11 Informe Semestral, year: 2011, idioma: ENG, url: filename: Informe-Semestral-XI-MAPPOEA-ENG.pdf, status: 404, size_bytes: 0, size_mb: 0.0, scraped_at: 2026-06-03T19:51:47.625100Z
+
+numero: 11, titulo: 11 Informe Semestral, year: 2011, idioma: ESP, url: filename: Informe-Semestral-XI-MAPPOEA.pdf, status: 404, size_bytes: 0, size_mb: 0.0, scraped_at: 2026-06-03T19:51:50.996541Z
+
+numero: 10, titulo: 10 Informe Semestral, year: 2011, idioma: ENG, url: filename: Informe-Semestral-X-MAPPOEA-ENG.pdf, status: 404, size_bytes: 0, size_mb: 0.0, scraped_at: 2026-06-03T19:51:59.192878Z
+
+numero: 10, titulo: 10 Informe Semestral, year: 2011, idioma: ESP, url: filename: Informe-Semestral-X-MAPPOEA.pdf, status: 404, size_bytes: 0, size_mb: 0.0, scraped_at: 2026-06-03T19:52:04.637019Z
+
+numero: 9, titulo: 9 Informe Semestral, year: 2010, idioma: ENG, url: filename: Informe-Semestral-IX-MAPPOEA-ENG.pdf, status: 404, size_bytes: 0, size_mb: 0.0, scraped_at: 2026-06-03T19:52:07.886910Z
+
+numero: 9, titulo: 9 Informe Semestral, year: 2010, idioma: ESP, url: filename: Informe-Semestral-IX-MAPPOEA.pdf, status: 404, size_bytes: 0, size_mb: 0.0, scraped_at: 2026-06-03T19:52:11.597160Z
+
+numero: 8, titulo: 8 Informe Semestral, year: 2010, idioma: ENG, url: filename: Informe-Semestral-VIII-MAPPOEA-ENG.pdf, status: 404, size_bytes: 0, size_mb: 0.0, scraped_at: 2026-06-03T19:52:16.314337Z
+
+numero: 8, titulo: 8 Informe Semestral, year: 2010, idioma: ESP, url: filename: Informe-Semestral-VIII-MAPPOEA.pdf, status: 404, size_bytes: 0, size_mb: 0.0, scraped_at: 2026-06-03T19:52:19.728432Z
+
+numero: 7, titulo: 7 Informe Semestral, year: 2009, idioma: ENG, url: filename: Informe-Semestral-VII-MAPPOEA-ENG.pdf, status: 404, size_bytes: 0, size_mb: 0.0, scraped_at: 2026-06-03T19:52:23.638250Z
+
+numero: 7, titulo: 7 Informe Semestral, year: 2009, idioma: ESP, url: filename: Informe-Semestral-VII-MAPPOEA.pdf, status: 404, size_bytes: 0, size_mb: 0.0, scraped_at: 2026-06-03T19:52:28.433944Z
+
+numero: 6, titulo: 6 Informe Semestral, year: 2009, idioma: ENG, url: filename: Informe-Semestral-VI-MAPPOEA-ENG.pdf, status: 404, size_bytes: 0, size_mb: 0.0, scraped_at: 2026-06-03T19:52:31.859284Z
+
+numero: 6, titulo: 6 Informe Semestral, year: 2009, idioma: ESP, url: filename: Informe-Semestral-VI-MAPPOEA.pdf, status: 404, size_bytes: 0, size_mb: 0.0, scraped_at: 2026-06-03T19:52:34.980396Z
+
+numero: 5, titulo: 5 Informe Semestral, year: 2008, idioma: ENG, url: filename: Informe-Semestral-V-MAPPOEA-ENG.pdf, status: 404, size_bytes: 0, size_mb: 0.0, scraped_at: 2026-06-03T19:52:38.039418Z
+
+numero: 5, titulo: 5 Informe Semestral, year: 2008, idioma: ESP, url: filename: Informe-Semestral-V-MAPPOEA.pdf, status: 404, size_bytes: 0, size_mb: 0.0, scraped_at: 2026-06-03T19:52:43.755460Z
+
+numero: 4, titulo: 4 Informe Semestral, year: 2008, idioma: ENG, url: filename: Informe-Semestral-IV-MAPPOEA-ENG.pdf, status: 404, size_bytes: 0, size_mb: 0.0, scraped_at: 2026-06-03T19:52:48.068205Z
+
+numero: 4, titulo: 4 Informe Semestral, year: 2008, idioma: ESP, url: filename: Informe-Semestral-IV-MAPPOEA.pdf, status: 404, size_bytes: 0, size_mb: 0.0, scraped_at: 2026-06-03T19:52:51.183033Z
+
+numero: 3, titulo: 3 Informe Semestral, year: 2007, idioma: ENG, url: filename: Informe-Semestral-III-MAPPOEA-ENG.pdf, status: 404, size_bytes: 0, size_mb: 0.0, scraped_at: 2026-06-03T19:52:54.710099Z
+
+numero: 3, titulo: 3 Informe Semestral, year: 2007, idioma: ESP, url: filename: Informe-Semestral-III-MAPPOEA.pdf, status: 404, size_bytes: 0, size_mb: 0.0, scraped_at: 2026-06-03T19:52:57.791520Z
+
+numero: 2, titulo: 2 Informe Semestral, year: 2006, idioma: ENG, url: filename: Informe-Semestral-II-MAPPOEA-ENG.pdf, status: 404, size_bytes: 0, size_mb: 0.0, scraped_at: 2026-06-03T19:53:02.235209Z
+
+numero: 2, titulo: 2 Informe Semestral, year: 2006, idioma: ESP, url: filename: Informe-Semestral-II-MAPPOEA.pdf, status: 404, size_bytes: 0, size_mb: 0.0, scraped_at: 2026-06-03T19:53:05.328895Z
+
+numero: 1, titulo: 1 Informe Semestral, year: 2004, idioma: ENG, url: filename: Informe-Semestral-I-MAPPOEA-ENG.pdf, status: 404, size_bytes: 0, size_mb: 0.0, scraped_at: 2026-06-03T19:53:08.481290Z
+
+numero: 1, titulo: 1 Informe Semestral, year: 2004, idioma: ESP, url: filename: Informe-Semestral-I-MAPPOEA.pdf, status: 404, size_bytes: 0, size_mb: 0.0, scraped_at: 2026-06-03T19:53:11.894424Z

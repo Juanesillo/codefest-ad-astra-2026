@@ -1,0 +1,727 @@
+capa: au_compilado_R02, fid: 764, b_ADM2_ES: Satipo, b_ADM2_PCODE: PE1206, b_ADM1_ES: Junin, b_ADM1_PCODE: PE12, b_adm1_geral: Junin, b_adm2_geral: Satipo, b_ID_concatenated: junin-satipo, au_area km: 19158.028988614333
+
+capa: au_compilado_R02, fid: 768, b_ADM2_ES: Tambopata, b_ADM2_PCODE: PE1701, b_ADM1_ES: Madre de Dios, b_ADM1_PCODE: PE17, b_adm1_geral: Madre de Dios, b_adm2_geral: Tambopata, b_ID_concatenated: madre_de_dios-tambopata, au_country: Peru, au_level1: Madre de Dios, au_level2: Tambopata, au_population: 37999, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: VERDADEIRO, au_pcc: FALSO, au_others: VERDADEIRO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - Los Paiches de Inambari (Inambari)
+- Los Matuteros del Tambo (Masuko)
+- Los Guardianes de la Trocha (Tambopata)
+- Comando Vermelho (Tambopata)
+- Los Brasileros (Tambopata)
+- La Seguridad (Tambopata)
+- Los Traqueros del Puerto (Tambopata)
+- Los Brichis de la Pampa (Tambopata)
+- Los Motolecheros de la Interoceánica (Tambopata)
+- Los Ilegales de MDD (Tambopata), au_popup_window_pt: - Los Paiches de Inambari (Inambari)
+- Los Matuteros del Tambo (Masuko)
+- Los Guardianes de la Trocha (Tambopata)
+- Comando Vermelho (Tambopata)
+- Los Brasileros (Tambopata)
+- La Seguridad (Tambopata)
+- Los Traqueros del Puerto (Tambopata)
+- Los Brichis de la Pampa (Tambopata)
+- Los Motolecheros de la Interoceánica (Tambopata)
+- Los Ilegales de MDD (Tambopata), au_popup_window_en: - Los Paiches de Inambari (Inambari)
+- Los Matuteros del Tambo (Masuko)
+- Los Guardianes de la Trocha (Tambopata)
+- Comando Vermelho (Tambopata)
+- Los Brasileros (Tambopata)
+- La Seguridad (Tambopata)
+- Los Traqueros del Puerto (Tambopata)
+- Los Brichis de la Pampa (Tambopata)
+- Los Motolecheros de la Interoceánica (Tambopata)
+- Los Ilegales de MDD (Tambopata), au_ID_concatenated: madre_de_dios-tambopata, au_area km: 35982.8030089577
+
+capa: au_compilado_R02, fid: 778, b_ADM2_PCODE: BR1200708, b_ADM1_PCODE: BR12, b_ADM1_PT: Acre, b_ADM2_PT: Xapuri, b_adm1_geral: Acre, b_adm2_geral: Xapuri, b_ID_concatenated: acre-xapuri, au_country: Brasil, au_level1: Acre, au_level2: Xapuri, au_population: 19170, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: VERDADEIRO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: Comando Vermelho (CV), au_popup_window_pt: Comando Vermelho (CV), au_popup_window_en: Comando Vermelho (CV), au_ID_concatenated: acre-xapuri, au_area km: 5344.81226078013
+
+capa: au_compilado_R02, fid: 779, b_ADM2_PCODE: BR1200179, b_ADM1_PCODE: BR12, b_ADM1_PT: Acre, b_ADM2_PT: Capixaba, b_adm1_geral: Acre, b_adm2_geral: Capixaba, b_ID_concatenated: acre-capixaba, au_country: Brasil, au_level1: Acre, au_level2: Capixaba, au_population: 10981, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: VERDADEIRO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: Comando Vermelho (CV), au_popup_window_pt: Comando Vermelho (CV), au_popup_window_en: Comando Vermelho (CV), au_ID_concatenated: acre-capixaba, au_area km: 1701.3531359931528
+
+capa: au_compilado_R02, fid: 780, b_ADM2_ES: Nicolás Suárez, b_ADM2_PCODE: BO0901, b_ADM1_ES: Pando, b_ADM1_PCODE: BO09, b_adm1_geral: Pando, b_adm2_geral: Nicolás Suárez, b_ID_concatenated: pando-nicolas_suarez, au_country: Bolivia, au_level1: Pando, au_level2: Nicolás Suárez, au_population: 105289, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: VERDADEIRO, au_pcc: VERDADEIRO, au_others: VERDADEIRO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - Los Villanos del Tahuamanu
+- Los Hostiles de la Amazonía
+- Clanes del Primeiro Comando da Capital (PCC) 
+- Clanes del Comando Vermelho (CV)
+- Grupos de narcotraficantes no identificados
+- Grupos de contrabandistas de castaña no identificados 
+- Grupos de traficantes de fauna no identificados, au_popup_window_pt: - Los Villanos del Tahuamanu
+- Los Hostiles de la Amazonía
+- Clãs do Primeiro Comando da Capital (PCC)
+- Clãs do Comando Vermelho (CV)
+- Grupos não identificados de tráfico de drogas
+- Grupos não identificados de contrabandistas de castanha-do-pará
+- Grupos não identificados de tráfico de animais silvestres, au_popup_window_en: - Los Villanos del Tahuamanu
+- Los Hostiles de la Amazonía
+- Clãs do Primeiro Comando da Capital (PCC)
+- Clãs do Comando Vermelho (CV)
+- Grupos não identificados de tráfico de drogas
+- Grupos não identificados de contrabandistas de castanha-do-pará
+- Grupos não identificados de tráfico de animais silvestres, au_ID_concatenated: pando-nicolas_suarez, au_area km: 9224.018276431263
+
+capa: au_compilado_R02, fid: 781, b_ADM2_PCODE: BR1200385, b_ADM1_PCODE: BR12, b_ADM1_PT: Acre, b_ADM2_PT: Plácido de Castro, b_adm1_geral: Acre, b_adm2_geral: Plácido de Castro, b_ID_concatenated: acre-placido_de_castro, au_country: Brasil, au_level1: Acre, au_level2: Plácido de Castro, au_population: 17107, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: VERDADEIRO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: Comando Vermelho (CV), au_popup_window_pt: Comando Vermelho (CV), au_popup_window_en: Comando Vermelho (CV), au_ID_concatenated: acre-placido_de_castro, au_area km: 1943.8522261099279
+
+capa: au_compilado_R02, fid: 782, b_ADM2_ES: Abuná, b_ADM2_PCODE: BO0904, b_ADM1_ES: Pando, b_ADM1_PCODE: BO09, b_adm1_geral: Pando, b_adm2_geral: Abuná, b_ID_concatenated: pando-abuna, au_country: Bolivia, au_level1: Pando, au_level2: Abuná, au_population: 5278, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: VERDADEIRO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: Grupos de traficantes brasileños no identificados de frutos amazónicos, au_popup_window_pt: Grupos brasileiros não identificados de tráfico de frutas amazônicas, au_popup_window_en: Unidentified Brazilian trafficking groups of Amazonian fruits, au_ID_concatenated: pando-abuna, au_area km: 9822.697644408294
+
+capa: au_compilado_R02, fid: 784, b_ADM2_ES: Manuripi, b_ADM2_PCODE: BO0902, b_ADM1_ES: Pando, b_ADM1_PCODE: BO09, b_adm1_geral: Pando, b_adm2_geral: Manuripi, b_ID_concatenated: pando-manuripi, au_country: Bolivia, au_level1: Pando, au_level2: Manuripi, au_population: 20639, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: VERDADEIRO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - Los Villanos del Tahuamanu
+- Los Hostiles de la Amazonía
+- Grupos de narcotraficantes no identificados
+- Grupos de contrabandistas de castaña no identificados 
+- Grupos de mineros ilegales no identificados , au_popup_window_pt: - Los Villanos del Tahuamanu
+- Los Hostiles de la Amazonía
+- Grupos Não Identificados de Narcotráfico
+- Grupos Não Identificados de Contrabando de Castanha-do-Pará
+- Grupos Não Identificados de Mineração Ilegal, au_popup_window_en: - Los Villanos del Tahuamanu
+- Los Hostiles de la Amazonía
+- Unidentified Drug Trafficking Groups
+- Unidentified Brazil Nut Smuggling Groups
+- Unidentified Illegal Mining Groups, au_ID_concatenated: pando-manuripi, au_area km: 19646.05774892805
+
+capa: au_compilado_R02, fid: 785, b_ADM2_ES: Oxapampa, b_ADM2_PCODE: PE1903, b_ADM1_ES: Pasco, b_ADM1_PCODE: PE19, b_adm1_geral: Pasco, b_adm2_geral: Oxapampa, b_ID_concatenated: pasco-oxapampa, au_area km: 17034.944431218726
+
+capa: au_compilado_R02, fid: 786, b_ADM2_ES: Atalaya, b_ADM2_PCODE: PE2502, b_ADM1_ES: Ucayali, b_ADM1_PCODE: PE25, b_adm1_geral: Ucayali, b_adm2_geral: Atalaya, b_ID_concatenated: ucayali-atalaya, au_country: Peru, au_level1: Ucayali, au_level2: Atalaya, au_population: 44960, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: VERDADEIRO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: Los Castores de la Selva Central, au_popup_window_pt: Los Castores de la Selva Central, au_popup_window_en: Los Castores de la Selva Central, au_ID_concatenated: ucayali-atalaya, au_area km: 38972.85054963884
+
+capa: au_compilado_R02, fid: 787, b_ADM2_PCODE: BR1200104, b_ADM1_PCODE: BR12, b_ADM1_PT: Acre, b_ADM2_PT: Brasiléia, b_adm1_geral: Acre, b_adm2_geral: Brasiléia, b_ID_concatenated: acre-brasileia, au_country: Brasil, au_level1: Acre, au_level2: Brasiléia, au_population: 28028, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: VERDADEIRO, au_pcc: VERDADEIRO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - Comando Vermelho (CV)
+- Primeiro Comando da Capital (PCC), au_popup_window_pt: - Comando Vermelho (CV)
+- Primeiro Comando da Capital (PCC), au_popup_window_en: - Comando Vermelho (CV)
+- Primeiro Comando da Capital (PCC), au_ID_concatenated: acre-brasileia, au_area km: 3916.212952204003
+
+capa: au_compilado_R02, fid: 788, b_ADM2_PCODE: BR1200252, b_ADM1_PCODE: BR12, b_ADM1_PT: Acre, b_ADM2_PT: Epitaciolândia, b_adm1_geral: Acre, b_adm2_geral: Epitaciolândia, b_ID_concatenated: acre-epitaciolandia, au_country: Brasil, au_level1: Acre, au_level2: Epitaciolândia, au_population: 19874, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: VERDADEIRO, au_pcc: VERDADEIRO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - Comando Vermelho (CV)
+- Primeiro Comando da Capital (PCC), au_popup_window_pt: - Comando Vermelho (CV)
+- Primeiro Comando da Capital (PCC), au_popup_window_en: - Comando Vermelho (CV)
+- Primeiro Comando da Capital (PCC), au_ID_concatenated: acre-epitaciolandia, au_area km: 1653.038956561351
+
+capa: au_compilado_R02, fid: 789, b_ADM2_ES: Purus, b_ADM2_PCODE: PE2504, b_ADM1_ES: Ucayali, b_ADM1_PCODE: PE25, b_adm1_geral: Ucayali, b_adm2_geral: Purus, b_ID_concatenated: ucayali-purus, au_country: Peru, au_level1: Ucayali, au_level2: Purús, au_population: 2664, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: VERDADEIRO, au_invest. with presence: FALSO, au_ID_concatenated: ucayali-purus, au_area km: 18421.97342492867
+
+capa: au_compilado_R02, fid: 790, b_ADM2_ES: Tahuamanu, b_ADM2_PCODE: PE1703, b_ADM1_ES: Madre de Dios, b_ADM1_PCODE: PE17, b_adm1_geral: Madre de Dios, b_adm2_geral: Tahuamanu, b_ID_concatenated: madre_de_dios-tahuamanu, au_country: Peru, au_level1: Madre de Dios, au_level2: Tahuamanu, au_population: 3029, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: VERDADEIRO, au_invest. with presence: FALSO, au_ID_concatenated: madre_de_dios-tahuamanu, au_area km: 19914.55586632139
+
+capa: au_compilado_R02, fid: 811, b_ADM2_PCODE: BR1301407, b_ADM1_PCODE: BR13, b_ADM1_PT: Amazonas, b_ADM2_PT: Eirunepé, b_adm1_geral: Amazonas, b_adm2_geral: Eirunepé, b_ID_concatenated: amazonas-eirunepe, au_country: Brasil, au_level1: Amazonas, au_level2: Eirunepé, au_population: 35793, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: VERDADEIRO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: Comando Vermelho (CV), au_popup_window_pt: Comando Vermelho (CV), au_popup_window_en: Comando Vermelho (CV), au_ID_concatenated: amazonas-eirunepe, au_area km: 14968.034880727646
+
+capa: au_compilado_R02, fid: 812, b_ADM2_PCODE: BR1300607, b_ADM1_PCODE: BR13, b_ADM1_PT: Amazonas, b_ADM2_PT: Benjamin Constant, b_adm1_geral: Amazonas, b_adm2_geral: Benjamin Constant, b_ID_concatenated: amazonas-benjamin_constant, au_country: Brasil, au_level1: Amazonas, au_level2: Benjamin Constant, au_population: 40908, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: VERDADEIRO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: Comando Vermelho (CV), au_popup_window_pt: Comando Vermelho (CV), au_popup_window_en: Comando Vermelho (CV), au_ID_concatenated: amazonas-benjamin_constant, au_area km: 8695.163226390778
+
+capa: au_compilado_R02, fid: 813, b_ADM2_PCODE: BR1301506, b_ADM1_PCODE: BR13, b_ADM1_PT: Amazonas, b_ADM2_PT: Envira, b_adm1_geral: Amazonas, b_adm2_geral: Envira, b_ID_concatenated: amazonas-envira, au_country: Brasil, au_level1: Amazonas, au_level2: Envira, au_population: 17985, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: VERDADEIRO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: Comando Vermelho (CV), au_popup_window_pt: Comando Vermelho (CV), au_popup_window_en: Comando Vermelho (CV), au_ID_concatenated: amazonas-envira, au_area km: 7504.052869822507
+
+capa: au_compilado_R02, fid: 814, b_ADM2_PCODE: BR1200328, b_ADM1_PCODE: BR12, b_ADM1_PT: Acre, b_ADM2_PT: Jordão, b_adm1_geral: Acre, b_adm2_geral: Jordão, b_ID_concatenated: acre-jordao, au_country: Brasil, au_level1: Acre, au_level2: Jordão, au_population: 9884, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: VERDADEIRO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: Comando Vermelho (CV), au_popup_window_pt: Comando Vermelho (CV), au_popup_window_en: Comando Vermelho (CV), au_ID_concatenated: acre-jordao, au_area km: 5357.233376078688
+
+capa: au_compilado_R02, fid: 815, b_ADM2_PCODE: BR1200609, b_ADM1_PCODE: BR12, b_ADM1_PT: Acre, b_ADM2_PT: Tarauacá, b_adm1_geral: Acre, b_adm2_geral: Tarauacá, b_ID_concatenated: acre-tarauaca, au_country: Brasil, au_level1: Acre, au_level2: Tarauacá, au_population: 46816, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: VERDADEIRO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: Comando Vermelho (CV), au_popup_window_pt: Comando Vermelho (CV), au_popup_window_en: Comando Vermelho (CV), au_ID_concatenated: acre-tarauaca, au_area km: 20170.591658981375
+
+capa: au_compilado_R02, fid: 816, b_ADM2_PCODE: BR1200302, b_ADM1_PCODE: BR12, b_ADM1_PT: Acre, b_ADM2_PT: Feijó, b_adm1_geral: Acre, b_adm2_geral: Feijó, b_ID_concatenated: acre-feijo, au_country: Brasil, au_level1: Acre, au_level2: Feijó, au_population: 37764, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: VERDADEIRO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: Comando Vermelho (CV), au_popup_window_pt: Comando Vermelho (CV), au_popup_window_en: Comando Vermelho (CV), au_ID_concatenated: acre-feijo, au_area km: 27975.94835580105
+
+capa: au_compilado_R02, fid: 817, b_ADM2_PCODE: BR1200435, b_ADM1_PCODE: BR12, b_ADM1_PT: Acre, b_ADM2_PT: Santa Rosa do Purus, b_adm1_geral: Acre, b_adm2_geral: Santa Rosa do Purus, b_ID_concatenated: acre-santa_rosa_do_purus, au_country: Brasil, au_level1: Acre, au_level2: Santa Rosa do Purus, au_population: 7217, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: VERDADEIRO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: Comando Vermelho (CV), au_popup_window_pt: Comando Vermelho (CV), au_popup_window_en: Comando Vermelho (CV), au_ID_concatenated: acre-santa_rosa_do_purus, au_area km: 6144.9844334194795
+
+capa: au_compilado_R02, fid: 818, b_ADM2_PCODE: BR1200344, b_ADM1_PCODE: BR12, b_ADM1_PT: Acre, b_ADM2_PT: Manoel Urbano, b_adm1_geral: Acre, b_adm2_geral: Manoel Urbano, b_ID_concatenated: acre-manoel_urbano, au_country: Brasil, au_level1: Acre, au_level2: Manoel Urbano, au_population: 12923, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: VERDADEIRO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: Comando Vermelho (CV), au_popup_window_pt: Comando Vermelho (CV), au_popup_window_en: Comando Vermelho (CV), au_ID_concatenated: acre-manoel_urbano, au_area km: 10632.918199207283
+
+capa: au_compilado_R02, fid: 819, b_ADM2_PCODE: BR1200054, b_ADM1_PCODE: BR12, b_ADM1_PT: Acre, b_ADM2_PT: Assis Brasil, b_adm1_geral: Acre, b_adm2_geral: Assis Brasil, b_ID_concatenated: acre-assis_brasil, au_country: Brasil, au_level1: Acre, au_level2: Assis Brasil, au_population: 8648, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: VERDADEIRO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: Comando Vermelho (CV), au_popup_window_pt: Comando Vermelho (CV), au_popup_window_en: Comando Vermelho (CV), au_ID_concatenated: acre-assis_brasil, au_area km: 4973.827243908737
+
+capa: au_compilado_R02, fid: 820, b_ADM2_PCODE: BR1200500, b_ADM1_PCODE: BR12, b_ADM1_PT: Acre, b_ADM2_PT: Sena Madureira, b_adm1_geral: Acre, b_adm2_geral: Sena Madureira, b_ID_concatenated: acre-sena_madureira, au_country: Brasil, au_level1: Acre, au_level2: Sena Madureira, au_population: 44049, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: VERDADEIRO, au_pcc: VERDADEIRO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - Comando Vermelho (CV)
+- Primeiro Comando da Capital (PCC), au_popup_window_pt: - Comando Vermelho (CV)
+- Primeiro Comando da Capital (PCC), au_popup_window_en: - Comando Vermelho (CV)
+- Primeiro Comando da Capital (PCC), au_ID_concatenated: acre-sena_madureira, au_area km: 23750.242860440037
+
+capa: au_compilado_R02, fid: 821, b_ADM2_PCODE: BR1304104, b_ADM1_PCODE: BR13, b_ADM1_PT: Amazonas, b_ADM2_PT: Tapauá, b_adm1_geral: Amazonas, b_adm2_geral: Tapauá, b_ID_concatenated: amazonas-tapaua, au_country: Brasil, au_level1: Amazonas, au_level2: Tapauá, au_population: 20728, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: VERDADEIRO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: Comando Vermelho (CV), au_popup_window_pt: Comando Vermelho (CV), au_popup_window_en: Comando Vermelho (CV), au_ID_concatenated: amazonas-tapaua, au_area km: 84946.74194391193
+
+capa: au_compilado_R02, fid: 826, b_ADM2_PCODE: BR1301605, b_ADM1_PCODE: BR13, b_ADM1_PT: Amazonas, b_ADM2_PT: Fonte Boa, b_adm1_geral: Amazonas, b_adm2_geral: Fonte Boa, b_ID_concatenated: amazonas-fonte_boa, au_country: Brasil, au_level1: Amazonas, au_level2: Fonte Boa, au_population: 28227, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: VERDADEIRO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: Comando Vermelho (CV), au_popup_window_pt: Comando Vermelho (CV), au_popup_window_en: Comando Vermelho (CV), au_ID_concatenated: amazonas-fonte_boa, au_area km: 12155.244288542479
+
+capa: au_compilado_R02, fid: 827, b_ADM2_PCODE: BR1302306, b_ADM1_PCODE: BR13, b_ADM1_PT: Amazonas, b_ADM2_PT: Jutaí, b_adm1_geral: Amazonas, b_adm2_geral: Jutaí, b_ID_concatenated: amazonas-jutai, au_country: Brasil, au_level1: Amazonas, au_level2: Jutaí, au_population: 28202, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: VERDADEIRO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: Comando Vermelho (CV), au_popup_window_pt: Comando Vermelho (CV), au_popup_window_en: Comando Vermelho (CV), au_ID_concatenated: amazonas-jutai, au_area km: 69456.4204038717
+
+capa: au_compilado_R02, fid: 828, b_ADM2_PCODE: BR1303908, b_ADM1_PCODE: BR13, b_ADM1_PT: Amazonas, b_ADM2_PT: São Paulo de Olivença, b_adm1_geral: Amazonas, b_adm2_geral: São Paulo de Olivença, b_ID_concatenated: amazonas-sao_paulo_de_olivenca, au_country: Brasil, au_level1: Amazonas, au_level2: São Paulo de Olivença, au_population: 35442, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: VERDADEIRO, au_pcc: VERDADEIRO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - Comando Vermelho (CV)
+- Primeiro Comando da Capital (PCC), au_popup_window_pt: - Comando Vermelho (CV)
+- Primeiro Comando da Capital (PCC), au_popup_window_en: - Comando Vermelho (CV)
+- Primeiro Comando da Capital (PCC), au_ID_concatenated: amazonas-sao_paulo_de_olivenca, au_area km: 19658.68500182549
+
+capa: au_compilado_R02, fid: 829, b_ADM2_PCODE: BR1304062, b_ADM1_PCODE: BR13, b_ADM1_PT: Amazonas, b_ADM2_PT: Tabatinga, b_adm1_geral: Amazonas, b_adm2_geral: Tabatinga, b_ID_concatenated: amazonas-tabatinga, au_country: Brasil, au_level1: Amazonas, au_level2: Tabatinga, au_population: 73348, au_c_d_f: VERDADEIRO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: VERDADEIRO, au_pcc: VERDADEIRO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - Comando Vermelho (CV)
+- Primeiro Comando da Capital (PCC), au_popup_window_pt: - Comando Vermelho (CV)
+- Primeiro Comando da Capital (PCC), au_popup_window_en: - Comando Vermelho (CV)
+- Primeiro Comando da Capital (PCC), au_ID_concatenated: amazonas-tabatinga, au_area km: 3265.9094570620996
+
+capa: au_compilado_R02, fid: 830, b_ADM2_PCODE: BR1303700, b_ADM1_PCODE: BR13, b_ADM1_PT: Amazonas, b_ADM2_PT: Santo Antônio do Içá, b_adm1_geral: Amazonas, b_adm2_geral: Santo Antônio do Içá, b_ID_concatenated: amazonas-santo_antonio_do_ica, au_country: Brasil, au_level1: Amazonas, au_level2: Santo Antônio do Içá, au_population: 30679, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: VERDADEIRO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: Comando Vermelho (CV), au_popup_window_pt: Comando Vermelho (CV), au_popup_window_en: Comando Vermelho (CV), au_ID_concatenated: amazonas-santo_antonio_do_ica, au_area km: 12366.582727794033
+
+capa: au_compilado_R02, fid: 831, b_ADM2_PCODE: BR1301951, b_ADM1_PCODE: BR13, b_ADM1_PT: Amazonas, b_ADM2_PT: Itamarati, b_adm1_geral: Amazonas, b_adm2_geral: Itamarati, b_ID_concatenated: amazonas-itamarati, au_country: Brasil, au_level1: Amazonas, au_level2: Itamarati, au_population: 11956, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: VERDADEIRO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: Comando Vermelho (CV), au_popup_window_pt: Comando Vermelho (CV), au_popup_window_en: Comando Vermelho (CV), au_ID_concatenated: amazonas-itamarati, au_area km: 25260.86187341529
+
+capa: au_compilado_R02, fid: 832, b_ADM2_PCODE: BR1300060, b_ADM1_PCODE: BR13, b_ADM1_PT: Amazonas, b_ADM2_PT: Amaturá, b_adm1_geral: Amazonas, b_adm2_geral: Amaturá, b_ID_concatenated: amazonas-amatura, au_country: Brasil, au_level1: Amazonas, au_level2: Amaturá, au_population: 11533, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: VERDADEIRO, au_pcc: VERDADEIRO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - Comando Vermelho (CV)
+- Primeiro Comando da Capital (PCC), au_popup_window_pt: - Comando Vermelho (CV)
+- Primeiro Comando da Capital (PCC), au_popup_window_en: - Comando Vermelho (CV)
+- Primeiro Comando da Capital (PCC), au_ID_concatenated: amazonas-amatura, au_area km: 4754.401675401199
+
+capa: au_compilado_R02, fid: 833, b_ADM2_PCODE: BR1301001, b_ADM1_PCODE: BR13, b_ADM1_PT: Amazonas, b_ADM2_PT: Carauari, b_adm1_geral: Amazonas, b_adm2_geral: Carauari, b_ID_concatenated: amazonas-carauari, au_country: Brasil, au_level1: Amazonas, au_level2: Carauari, au_population: 31130, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: VERDADEIRO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: Comando Vermelho (CV), au_popup_window_pt: Comando Vermelho (CV), au_popup_window_en: Comando Vermelho (CV), au_ID_concatenated: amazonas-carauari, au_area km: 25777.35502046787
+
+capa: au_compilado_R02, fid: 834, b_ADM2_ES: Leticia, b_ADM2_PCODE: CO91001, b_ADM1_ES: Amazonas, b_ADM1_PCODE: CO91, b_adm1_geral: Amazonas, b_adm2_geral: Leticia, b_ID_concatenated: amazonas-leticia, au_country: Colombia, au_level1: Amazonas, au_level2: Leticia, au_population: 53670, au_c_d_f: VERDADEIRO, au_emc: VERDADEIRO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: VERDADEIRO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - Comandos de la Frontera
+- EMC: Carolina Ramirez
+- Los Caqueteños, au_popup_window_pt: - Comandos de la Frontera
+- EMC: Carolina Ramirez
+- Los Caqueteños, au_popup_window_en: - Comandos de la Frontera
+- EMC: Carolina Ramirez
+- Los Caqueteños, au_ID_concatenated: amazonas-leticia, au_area km: 6151.719322344392
+
+capa: au_compilado_R02, fid: 835, b_ADM2_ES: Puerto Nariño, b_ADM2_PCODE: CO91540, b_ADM1_ES: Amazonas, b_ADM1_PCODE: CO91, b_adm1_geral: Amazonas, b_adm2_geral: Puerto Nariño, b_ID_concatenated: amazonas-puerto_narino, au_country: Colombia, au_level1: Amazonas, au_level2: Puerto Nariño, au_population: 11375, au_c_d_f: VERDADEIRO, au_emc: VERDADEIRO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: VERDADEIRO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - Comandos de la Frontera
+- EMC: Carolina Ramirez
+- Los Caqueteños, au_popup_window_pt: - Comandos de la Frontera
+- EMC: Carolina Ramirez
+- Los Caqueteños, au_popup_window_en: - Comandos de la Frontera
+- EMC: Carolina Ramirez
+- Los Caqueteños, au_ID_concatenated: amazonas-puerto_narino, au_area km: 1503.2195853034973
+
+capa: au_compilado_R02, fid: 836, b_ADM2_ES: Loreto, b_ADM2_PCODE: PE1603, b_ADM1_ES: Loreto, b_ADM1_PCODE: PE16, b_adm1_geral: Loreto, b_adm2_geral: Loreto, b_ID_concatenated: loreto-loreto, au_country: Peru, au_level1: Loreto, au_level2: Loreto, au_population: 62437, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: VERDADEIRO, au_invest. with presence: FALSO, au_ID_concatenated: loreto-loreto, au_area km: 68461.24071591387
+
+capa: au_compilado_R02, fid: 837, b_ADM2_ES: Maynas, b_ADM2_PCODE: PE1601, b_ADM1_ES: Loreto, b_ADM1_PCODE: PE16, b_adm1_geral: Loreto, b_adm2_geral: Maynas, b_ID_concatenated: loreto-maynas, au_country: Peru, au_level1: Loreto, au_level2: Maynas, au_population: 479866, au_c_d_f: VERDADEIRO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: VERDADEIRO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - Comandos de la Frontera 
+- Los Colochos de Pucca
+- Los Piratas de Yarana, au_popup_window_pt: - Comandos de la Frontera 
+- Los Colochos de Pucca
+- Los Piratas de Yarana, au_popup_window_en: - Comandos de la Frontera 
+- Los Colochos de Pucca
+- Los Piratas de Yarana, au_ID_concatenated: loreto-maynas, au_area km: 76186.60226555004
+
+capa: au_compilado_R02, fid: 838, b_ADM2_ES: Requena, b_ADM2_PCODE: PE1605, b_ADM1_ES: Loreto, b_ADM1_PCODE: PE16, b_adm1_geral: Loreto, b_adm2_geral: Requena, b_ID_concatenated: loreto-requena, au_country: Peru, au_level1: Loreto, au_level2: Requena, au_population: 58511, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: VERDADEIRO, au_invest. with presence: FALSO, au_ID_concatenated: loreto-requena, au_area km: 50359.110016015475
+
+capa: au_compilado_R02, fid: 839, b_ADM2_PCODE: BR1200336, b_ADM1_PCODE: BR12, b_ADM1_PT: Acre, b_ADM2_PT: Mâncio Lima, b_adm1_geral: Acre, b_adm2_geral: Mâncio Lima, b_ID_concatenated: acre-mancio_lima, au_country: Brasil, au_level1: Acre, au_level2: Mâncio Lima, au_population: 20479, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: VERDADEIRO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: Comando Vermelho (CV), au_popup_window_pt: Comando Vermelho (CV), au_popup_window_en: Comando Vermelho (CV), au_ID_concatenated: acre-mancio_lima, au_area km: 5452.510195139484
+
+capa: au_compilado_R02, fid: 840, b_ADM2_PCODE: BR1300201, b_ADM1_PCODE: BR13, b_ADM1_PT: Amazonas, b_ADM2_PT: Atalaia do Norte, b_adm1_geral: Amazonas, b_adm2_geral: Atalaia do Norte, b_ID_concatenated: amazonas-atalaia_do_norte, au_country: Brasil, au_level1: Amazonas, au_level2: Atalaia do Norte, au_population: 15889, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: VERDADEIRO, au_pcc: VERDADEIRO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - Comando Vermelho (CV)
+- Primeiro Comando da Capital (PCC), au_popup_window_pt: - Comando Vermelho (CV)
+- Primeiro Comando da Capital (PCC), au_popup_window_en: - Comando Vermelho (CV)
+- Primeiro Comando da Capital (PCC), au_ID_concatenated: amazonas-atalaia_do_norte, au_area km: 76435.79112079322
+
+capa: au_compilado_R02, fid: 841, b_ADM2_PCODE: BR1301654, b_ADM1_PCODE: BR13, b_ADM1_PT: Amazonas, b_ADM2_PT: Guajará, b_adm1_geral: Amazonas, b_adm2_geral: Guajará, b_ID_concatenated: amazonas-guajara, au_country: Brasil, au_level1: Amazonas, au_level2: Guajará, au_population: 14344, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: VERDADEIRO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: Comando Vermelho (CV), au_popup_window_pt: Comando Vermelho (CV), au_popup_window_en: Comando Vermelho (CV), au_ID_concatenated: amazonas-guajara, au_area km: 7583.114395990727
+
+capa: au_compilado_R02, fid: 842, b_ADM2_ES: Mariscal Ramon Castilla, b_ADM2_PCODE: PE1604, b_ADM1_ES: Loreto, b_ADM1_PCODE: PE16, b_adm1_geral: Loreto, b_adm2_geral: Mariscal Ramon Castilla, b_ID_concatenated: loreto-mariscal_ramon_castilla, au_country: Peru, au_level1: Loreto, au_level2: Mariscal Ramón Castilla, au_population: 49072, au_c_d_f: VERDADEIRO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: VERDADEIRO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: Comando Vermelho (en Santa Rosa y Yavarí) - CDF, au_popup_window_pt: Comando Vermelho (en Santa Rosa y Yavarí) - CDF, au_popup_window_en: Comando Vermelho (en Santa Rosa y Yavarí) - CDF, au_ID_concatenated: loreto-mariscal_ramon_castilla, au_area km: 37512.05380004618
+
+capa: au_compilado_R02, fid: 843, b_ADM2_PCODE: BR1301803, b_ADM1_PCODE: BR13, b_ADM1_PT: Amazonas, b_ADM2_PT: Ipixuna, b_adm1_geral: Amazonas, b_adm2_geral: Ipixuna, b_ID_concatenated: amazonas-ipixuna, au_country: Brasil, au_level1: Amazonas, au_level2: Ipixuna, au_population: 25629, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: VERDADEIRO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: Comando Vermelho (CV), au_popup_window_pt: Comando Vermelho (CV), au_popup_window_en: Comando Vermelho (CV), au_ID_concatenated: amazonas-ipixuna, au_area km: 12109.894221275104
+
+capa: au_compilado_R02, fid: 844, b_ADM2_ES: Ucayali, b_ADM2_PCODE: PE1606, b_ADM1_ES: Loreto, b_ADM1_PCODE: PE16, b_adm1_geral: Loreto, b_adm2_geral: Ucayali, b_ID_concatenated: loreto-ucayali, au_country: Peru, au_level1: Loreto, au_level2: Ucayali, au_population: 54637, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: VERDADEIRO, au_invest. with presence: FALSO, au_ID_concatenated: loreto-ucayali, au_area km: 29701.565513784262
+
+capa: au_compilado_R02, fid: 846, b_ADM2_PCODE: BR1200138, b_ADM1_PCODE: BR12, b_ADM1_PT: Acre, b_ADM2_PT: Bujari, b_adm1_geral: Acre, b_adm2_geral: Bujari, b_ID_concatenated: acre-bujari, au_country: Brasil, au_level1: Acre, au_level2: Bujari, au_population: 13928, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: VERDADEIRO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: Comando Vermelho (CV), au_popup_window_pt: Comando Vermelho (CV), au_popup_window_en: Comando Vermelho (CV), au_ID_concatenated: acre-bujari, au_area km: 3033.256657470339
+
+capa: au_compilado_R02, fid: 847, b_ADM2_PCODE: BR1200807, b_ADM1_PCODE: BR12, b_ADM1_PT: Acre, b_ADM2_PT: Porto Acre, b_adm1_geral: Acre, b_adm2_geral: Porto Acre, b_ID_concatenated: acre-porto_acre, au_country: Brasil, au_level1: Acre, au_level2: Porto Acre, au_population: 17523, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: VERDADEIRO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: Comando Vermelho (CV), au_popup_window_pt: Comando Vermelho (CV), au_popup_window_en: Comando Vermelho (CV), au_ID_concatenated: acre-porto_acre, au_area km: 2604.3895341997513
+
+capa: au_compilado_R02, fid: 848, b_ADM2_PCODE: BR1300706, b_ADM1_PCODE: BR13, b_ADM1_PT: Amazonas, b_ADM2_PT: Boca do Acre, b_adm1_geral: Amazonas, b_adm2_geral: Boca do Acre, b_ID_concatenated: amazonas-boca_do_acre, au_country: Brasil, au_level1: Amazonas, au_level2: Boca do Acre, au_population: 38792, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: VERDADEIRO, au_pcc: VERDADEIRO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - Comando Vermelho (CV)
+- Primeiro Comando da Capital (PCC), au_popup_window_pt: - Comando Vermelho (CV)
+- Primeiro Comando da Capital (PCC), au_popup_window_en: - Comando Vermelho (CV)
+- Primeiro Comando da Capital (PCC), au_ID_concatenated: amazonas-boca_do_acre, au_area km: 21943.530549569878
+
+capa: au_compilado_R02, fid: 849, b_ADM2_PCODE: BR1302405, b_ADM1_PCODE: BR13, b_ADM1_PT: Amazonas, b_ADM2_PT: Lábrea, b_adm1_geral: Amazonas, b_adm2_geral: Lábrea, b_ID_concatenated: amazonas-labrea, au_country: Brasil, au_level1: Amazonas, au_level2: Lábrea, au_population: 49469, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: VERDADEIRO, au_pcc: VERDADEIRO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - Comando Vermelho (CV)
+- Primeiro Comando da Capital (PCC), au_popup_window_pt: - Comando Vermelho (CV)
+- Primeiro Comando da Capital (PCC), au_popup_window_en: - Comando Vermelho (CV)
+- Primeiro Comando da Capital (PCC), au_ID_concatenated: amazonas-labrea, au_area km: 68263.26698706656
+
+capa: au_compilado_R02, fid: 850, b_ADM2_PCODE: BR1303502, b_ADM1_PCODE: BR13, b_ADM1_PT: Amazonas, b_ADM2_PT: Pauini, b_adm1_geral: Amazonas, b_adm2_geral: Pauini, b_ID_concatenated: amazonas-pauini, au_country: Brasil, au_level1: Amazonas, au_level2: Pauini, au_population: 20229, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: VERDADEIRO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: Comando Vermelho (CV), au_popup_window_pt: Comando Vermelho (CV), au_popup_window_en: Comando Vermelho (CV), au_ID_concatenated: amazonas-pauini, au_area km: 41623.933791994365
+
+capa: au_compilado_R02, fid: 851, b_ADM2_PCODE: BR1200450, b_ADM1_PCODE: BR12, b_ADM1_PT: Acre, b_ADM2_PT: Senador Guiomard, b_adm1_geral: Acre, b_adm2_geral: Senador Guiomard, b_ID_concatenated: acre-senador_guiomard, au_country: Brasil, au_level1: Acre, au_level2: Senador Guiomard, au_population: 22402, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: VERDADEIRO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: Comando Vermelho (CV), au_popup_window_pt: Comando Vermelho (CV), au_popup_window_en: Comando Vermelho (CV), au_ID_concatenated: acre-senador_guiomard, au_area km: 2321.379208969996
+
+capa: au_compilado_R02, fid: 852, b_ADM2_PCODE: BR1200401, b_ADM1_PCODE: BR12, b_ADM1_PT: Acre, b_ADM2_PT: Rio Branco, b_adm1_geral: Acre, b_adm2_geral: Rio Branco, b_ID_concatenated: acre-rio_branco, au_country: Brasil, au_level1: Acre, au_level2: Rio Branco, au_population: 389001, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: VERDADEIRO, au_pcc: VERDADEIRO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - Comando Vermelho (CV)
+- Primeiro Comando da Capital (PCC), au_popup_window_pt: - Comando Vermelho (CV)
+- Primeiro Comando da Capital (PCC), au_popup_window_en: - Comando Vermelho (CV)
+- Primeiro Comando da Capital (PCC), au_ID_concatenated: acre-rio_branco, au_area km: 8838.228418737757
+
+capa: au_compilado_R02, fid: 853, b_ADM2_ES: Coronel Portillo, b_ADM2_PCODE: PE2501, b_ADM1_ES: Ucayali, b_ADM1_PCODE: PE25, b_adm1_geral: Ucayali, b_adm2_geral: Coronel Portillo, b_ID_concatenated: ucayali-coronel_portillo, au_country: Peru, au_level1: Ucayali, au_level2: Coronel Portillo, au_population: 360306, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: VERDADEIRO, au_pcc: FALSO, au_others: VERDADEIRO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - Comando Vermelho (Callería)
+- Los Pihuchos de Ucayali (Masisea), au_popup_window_pt: - Comando Vermelho (Callería)
+- Los Pihuchos de Ucayali (Masisea), au_popup_window_en: - Comando Vermelho (Callería)
+- Los Pihuchos de Ucayali (Masisea), au_ID_concatenated: ucayali-coronel_portillo, au_area km: 38426.261118029346
+
+capa: au_compilado_R02, fid: 854, b_ADM2_PCODE: BR1200203, b_ADM1_PCODE: BR12, b_ADM1_PT: Acre, b_ADM2_PT: Cruzeiro do Sul, b_adm1_geral: Acre, b_adm2_geral: Cruzeiro do Sul, b_ID_concatenated: acre-cruzeiro_do_sul, au_country: Brasil, au_level1: Acre, au_level2: Cruzeiro do Sul, au_population: 98916, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: VERDADEIRO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: Comando Vermelho (CV), au_popup_window_pt: Comando Vermelho (CV), au_popup_window_en: Comando Vermelho (CV), au_ID_concatenated: acre-cruzeiro_do_sul, au_area km: 8777.973776657236
+
+capa: au_compilado_R02, fid: 855, b_ADM2_PCODE: BR1200393, b_ADM1_PCODE: BR12, b_ADM1_PT: Acre, b_ADM2_PT: Porto Walter, b_adm1_geral: Acre, b_adm2_geral: Porto Walter, b_ID_concatenated: acre-porto_walter, au_country: Brasil, au_level1: Acre, au_level2: Porto Walter, au_population: 11333, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: VERDADEIRO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: Comando Vermelho (CV), au_popup_window_pt: Comando Vermelho (CV), au_popup_window_en: Comando Vermelho (CV), au_ID_concatenated: acre-porto_walter, au_area km: 6442.958561722151
+
+capa: au_compilado_R02, fid: 856, b_ADM2_PCODE: BR1200351, b_ADM1_PCODE: BR12, b_ADM1_PT: Acre, b_ADM2_PT: Marechal Thaumaturgo, b_adm1_geral: Acre, b_adm2_geral: Marechal Thaumaturgo, b_ID_concatenated: acre-marechal_thaumaturgo, au_country: Brasil, au_level1: Acre, au_level2: Marechal Thaumaturgo, au_population: 18057, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: VERDADEIRO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: Comando Vermelho (CV), au_popup_window_pt: Comando Vermelho (CV), au_popup_window_en: Comando Vermelho (CV), au_ID_concatenated: acre-marechal_thaumaturgo, au_area km: 8193.060284063458
+
+capa: au_compilado_R02, fid: 857, b_ADM2_PCODE: BR1200427, b_ADM1_PCODE: BR12, b_ADM1_PT: Acre, b_ADM2_PT: Rodrigues Alves, b_adm1_geral: Acre, b_adm2_geral: Rodrigues Alves, b_ID_concatenated: acre-rodrigues_alves, au_country: Brasil, au_level1: Acre, au_level2: Rodrigues Alves, au_population: 15560, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: VERDADEIRO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: Comando Vermelho (CV), au_popup_window_pt: Comando Vermelho (CV), au_popup_window_en: Comando Vermelho (CV), au_ID_concatenated: acre-rodrigues_alves, au_area km: 3078.2396641342225
+
+capa: au_compilado_R02, fid: 877, b_ADM2_ES: Mitú, b_ADM2_PCODE: CO97001, b_ADM1_ES: Vaupés, b_ADM1_PCODE: CO97, b_adm1_geral: Vaupés, b_adm2_geral: Mitú, b_ID_concatenated: vaupes-mitu, au_country: Colombia, au_level1: Vaupés, au_level2: Mitú, au_population: 32040, au_c_d_f: FALSO, au_emc: VERDADEIRO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: EMC: Frente Primero Armando Ríos, au_popup_window_pt: EMC: Frente Primero Armando Ríos, au_popup_window_en: EMC: Frente Primero Armando Ríos, au_ID_concatenated: vaupes-mitu, au_area km: 16148.790606729912
+
+capa: au_compilado_R02, fid: 880, b_ADM2_ES: Pacoa, b_ADM2_PCODE: CO97511, b_ADM1_ES: Vaupés, b_ADM1_PCODE: CO97, b_adm1_geral: Vaupés, b_adm2_geral: Pacoa, b_ID_concatenated: vaupes-pacoa, au_country: Colombia, au_level1: Vaupés, au_level2: Pacoa, au_population: 4279, au_c_d_f: FALSO, au_emc: VERDADEIRO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: EMC: Frente Primero Armando Ríos, au_popup_window_pt: EMC: Frente Primero Armando Ríos, au_popup_window_en: EMC: Frente Primero Armando Ríos, au_ID_concatenated: vaupes-pacoa, au_area km: 13949.803828909879
+
+capa: au_compilado_R02, fid: 881, b_ADM2_ES: Puerto Leguízamo, b_ADM2_PCODE: CO86573, b_ADM1_ES: Putumayo, b_ADM1_PCODE: CO86, b_adm1_geral: Putumayo, b_adm2_geral: Puerto Leguízamo, b_ID_concatenated: putumayo-puerto_leguizamo, au_country: Colombia, au_level1: Putumayo, au_level2: Puerto Leguízamo, au_population: 37304, au_c_d_f: VERDADEIRO, au_emc: VERDADEIRO, au_embf: VERDADEIRO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - Comandos de la Frontera
+- EMBF: Jorge Suárez Briceño & Frente Raúl Reyes (Calarcá)
+- EMC: Carolina Ramírez
+- EMC: Bloque Amazonas (Iván Mordisco), au_popup_window_pt: - Comandos de la Frontera
+- EMBF: Jorge Suárez Briceño & Frente Raúl Reyes (Calarcá)
+- EMC: Carolina Ramírez
+- EMC: Bloque Amazonas (Iván Mordisco), au_popup_window_en: - Comandos de la Frontera
+- EMBF: Jorge Suárez Briceño & Frente Raúl Reyes (Calarcá)
+- EMC: Carolina Ramírez
+- EMC: Bloque Amazonas (Iván Mordisco), au_ID_concatenated: putumayo-puerto_leguizamo, au_area km: 10902.72584325321
+
+capa: au_compilado_R02, fid: 882, b_ADM2_ES: Solano, b_ADM2_PCODE: CO18756, b_ADM1_ES: Caquetá, b_ADM1_PCODE: CO18, b_adm1_geral: Caquetá, b_adm2_geral: Solano, b_ID_concatenated: caqueta-solano, au_country: Colombia, au_level1: Caquetá, au_level2: Solano, au_population: 10837, au_c_d_f: FALSO, au_emc: VERDADEIRO, au_embf: VERDADEIRO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - EMBF: Rodrigo Cadete y Raúl Reyes
+ 
+- EMC: Carolina Ramírez 
+- EMC: Bloque Amazonas (Iván Mordisco), au_popup_window_pt: - EMBF: Rodrigo Cadete e Raúl Reyes
+
+- EMC: Carolina Ramírez 
+- EMC: Bloque Amazonas (Iván Mordisco), au_popup_window_en: - EMBF: Rodrigo Cadete e Raúl Reyes
+
+- EMC: Carolina Ramírez 
+- EMC: Bloque Amazonas (Iván Mordisco), au_ID_concatenated: caqueta-solano, au_area km: 42289.93569357532
+
+capa: au_compilado_R02, fid: 884, b_ADM2_ES: Cartagena del Chairá, b_ADM2_PCODE: CO18150, b_ADM1_ES: Caquetá, b_ADM1_PCODE: CO18, b_adm1_geral: Caquetá, b_adm2_geral: Cartagena del Chairá, b_ID_concatenated: caqueta-cartagena_del_chaira, au_country: Colombia, au_level1: Caquetá, au_level2: Cartagena del Chairá, au_population: 32456, au_c_d_f: FALSO, au_emc: VERDADEIRO, au_embf: VERDADEIRO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - EMBF: Rodrigo Cadete y Arturo Ruiz (Calarcá)
+- EMC: Carolina Ramirez
+- EMC: Bloque Amazonas (Iván Mordisco), au_popup_window_pt: - EMBF: Rodrigo Cadete y Arturo Ruiz (Calarcá)
+- EMC: Carolina Ramirez
+- EMC: Bloque Amazonas (Iván Mordisco), au_popup_window_en: - EMBF: Rodrigo Cadete and Arturo Ruiz (Calarcá)
+- EMC: Carolina Ramirez
+- EMC: Bloque Amazonas (Iván Mordisco), au_ID_concatenated: caqueta-cartagena_del_chaira, au_area km: 12784.711643274331
+
+capa: au_compilado_R02, fid: 889, b_ADM2_ES: El Encanto, b_ADM2_PCODE: CO91263, b_ADM1_ES: Amazonas, b_ADM1_PCODE: CO91, b_adm1_geral: Amazonas, b_adm2_geral: El Encanto, b_ID_concatenated: amazonas-el_encanto, au_country: Colombia, au_level1: Amazonas, au_level2: El Encanto, au_population: 2225, au_c_d_f: VERDADEIRO, au_emc: VERDADEIRO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - Comandos de la Frontera
+- EMC: Carolina Ramirez , au_popup_window_pt: - Comandos de la Frontera
+- EMC: Carolina Ramirez , au_popup_window_en: - Comandos de la Frontera
+- EMC: Carolina Ramirez , au_ID_concatenated: amazonas-el_encanto, au_area km: 10890.9721628654
+
+capa: au_compilado_R02, fid: 890, b_ADM2_ES: La Chorrera, b_ADM2_PCODE: CO91405, b_ADM1_ES: Amazonas, b_ADM1_PCODE: CO91, b_adm1_geral: Amazonas, b_adm2_geral: La Chorrera, b_ID_concatenated: amazonas-la_chorrera, au_country: Colombia, au_level1: Amazonas, au_level2: La Chorrera, au_population: 3156, au_c_d_f: FALSO, au_emc: VERDADEIRO, au_embf: VERDADEIRO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - EMBF: Frente Raúl Reyes
+- EMC: Carolina Ramirez 
+- EMC: Frente 1 , au_popup_window_pt: - EMBF: Frente Raúl Reyes
+- EMC: Carolina Ramirez 
+- EMC: Frente 1 , au_popup_window_en: - EMBF: Frente Raúl Reyes
+- EMC: Carolina Ramirez 
+- EMC: Frente 1 , au_ID_concatenated: amazonas-la_chorrera, au_area km: 12719.225763852128
+
+capa: au_compilado_R02, fid: 891, b_ADM2_ES: Mirití - Paraná, b_ADM2_PCODE: CO91460, b_ADM1_ES: Amazonas, b_ADM1_PCODE: CO91, b_adm1_geral: Amazonas, b_adm2_geral: Mirití - Paraná, b_ID_concatenated: amazonas-miriti_-_parana, au_country: Colombia, au_level1: Amazonas, au_level2: Mirití - Paraná, au_population: 2084, au_c_d_f: FALSO, au_emc: VERDADEIRO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - EMC: Carolina Ramirez
+- EMC: Frente Jhonier Arenas, au_popup_window_pt: - EMC: Carolina Ramirez
+- EMC: Frente Jhonier Arenas, au_popup_window_en: - EMC: Carolina Ramirez
+- EMC: Frente Jhonier Arenas, au_ID_concatenated: amazonas-miriti_-_parana, au_area km: 16823.428491012502
+
+capa: au_compilado_R02, fid: 892, b_ADM2_ES: La Victoria, b_ADM2_PCODE: CO91430, b_ADM1_ES: Amazonas, b_ADM1_PCODE: CO91, b_adm1_geral: Amazonas, b_adm2_geral: La Victoria, b_ID_concatenated: amazonas-la_victoria, au_country: Colombia, au_level1: Amazonas, au_level2: La Victoria, au_population: 682, au_c_d_f: FALSO, au_emc: VERDADEIRO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: EMC: Carolina Ramirez, au_popup_window_pt: EMC: Carolina Ramirez, au_popup_window_en: EMC: Carolina Ramirez, au_ID_concatenated: amazonas-la_victoria, au_area km: 1428.908561235326
+
+capa: au_compilado_R02, fid: 893, b_ADM2_ES: Puerto Alegría, b_ADM2_PCODE: CO91530, b_ADM1_ES: Amazonas, b_ADM1_PCODE: CO91, b_adm1_geral: Amazonas, b_adm2_geral: Puerto Alegría, b_ID_concatenated: amazonas-puerto_alegria, au_country: Colombia, au_level1: Amazonas, au_level2: Puerto Alegría, au_population: 795, au_c_d_f: VERDADEIRO, au_emc: VERDADEIRO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - Comandos de la Frontera
+- EMC: Carolina Ramirez, au_popup_window_pt: - Comandos de la Frontera
+- EMC: Carolina Ramirez, au_popup_window_en: - Comandos de la Frontera
+- EMC: Carolina Ramirez, au_ID_concatenated: amazonas-puerto_alegria, au_area km: 8493.656699858682
+
+capa: au_compilado_R02, fid: 894, b_ADM2_ES: Puerto Arica, b_ADM2_PCODE: CO91536, b_ADM1_ES: Amazonas, b_ADM1_PCODE: CO91, b_adm1_geral: Amazonas, b_adm2_geral: Puerto Arica, b_ID_concatenated: amazonas-puerto_arica, au_country: Colombia, au_level1: Amazonas, au_level2: Puerto Arica, au_population: 1080, au_c_d_f: VERDADEIRO, au_emc: VERDADEIRO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - Comandos de la Frontera
+- EMC: Carolina Ramirez, au_popup_window_pt: - Comandos de la Frontera
+- EMC: Carolina Ramirez, au_popup_window_en: - Comandos de la Frontera
+- EMC: Carolina Ramirez, au_ID_concatenated: amazonas-puerto_arica, au_area km: 13754.358122629208
+
+capa: au_compilado_R02, fid: 895, b_ADM2_ES: Puerto Santander, b_ADM2_PCODE: CO91669, b_ADM1_ES: Amazonas, b_ADM1_PCODE: CO91, b_adm1_geral: Amazonas, b_adm2_geral: Puerto Santander, b_ID_concatenated: amazonas-puerto_santander, au_country: Colombia, au_level1: Amazonas, au_level2: Puerto Santander, au_population: 1860, au_c_d_f: FALSO, au_emc: VERDADEIRO, au_embf: VERDADEIRO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - EMBF: Jorge Briceño Suarez 
+- EMC: Carolina Ramirez
+- EMC: Frente 1 del Bloque Amazonas (Iván Mordisco) , au_popup_window_pt: - EMBF: Jorge Briceño Suarez 
+- EMC: Carolina Ramirez
+- EMC: Frente 1 do Bloque Amazonas (Iván Mordisco) , au_popup_window_en: - EMBF: Jorge Briceño Suarez 
+- EMC: Carolina Ramirez
+- EMC: Frente 1 of the Bloque Amazonas (Iván Mordisco), au_ID_concatenated: amazonas-puerto_santander, au_area km: 14709.351552925538
+
+capa: au_compilado_R02, fid: 896, b_ADM2_ES: Putumayo, b_ADM2_PCODE: PE1608, b_ADM1_ES: Loreto, b_ADM1_PCODE: PE16, b_adm1_geral: Loreto, b_adm2_geral: Putumayo, b_ID_concatenated: loreto-putumayo, au_country: Peru, au_level1: Loreto, au_level2: Putumayo, au_population: 7780, au_c_d_f: VERDADEIRO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: Comandos de la Frontera, au_popup_window_pt: Comandos de la Frontera, au_popup_window_en: Comandos de la Frontera, au_ID_concatenated: loreto-putumayo, au_area km: 45822.0491146103
+
+capa: au_compilado_R02, fid: 897, b_ADM2_PCODE: BR1304237, b_ADM1_PCODE: BR13, b_ADM1_PT: Amazonas, b_ADM2_PT: Tonantins, b_adm1_geral: Amazonas, b_adm2_geral: Tonantins, b_ID_concatenated: amazonas-tonantins, au_country: Brasil, au_level1: Amazonas, au_level2: Tonantins, au_population: 20257, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: VERDADEIRO, au_pcc: VERDADEIRO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - Comando Vermelho (CV)
+- Primeiro Comando da Capital (PCC), au_popup_window_pt: - Comando Vermelho (CV)
+- Primeiro Comando da Capital (PCC), au_popup_window_en: - Comando Vermelho (CV)
+- Primeiro Comando da Capital (PCC), au_ID_concatenated: amazonas-tonantins, au_area km: 6447.168792967285
+
+capa: au_compilado_R02, fid: 898, b_ADM2_PCODE: BR1302108, b_ADM1_PCODE: BR13, b_ADM1_PT: Amazonas, b_ADM2_PT: Japurá, b_adm1_geral: Amazonas, b_adm2_geral: Japurá, b_ID_concatenated: amazonas-japura, au_country: Brasil, au_level1: Amazonas, au_level2: Japurá, au_population: 9420, au_c_d_f: VERDADEIRO, au_emc: VERDADEIRO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: VERDADEIRO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: Comando Vermelho (CV), au_popup_window_pt: Comando Vermelho (CV), au_popup_window_en: Comando Vermelho (CV), au_ID_concatenated: amazonas-japura, au_area km: 55827.3100393179
+
+capa: au_compilado_R02, fid: 899, b_ADM2_ES: La Pedrera, b_ADM2_PCODE: CO91407, b_ADM1_ES: Amazonas, b_ADM1_PCODE: CO91, b_adm1_geral: Amazonas, b_adm2_geral: La Pedrera, b_ID_concatenated: amazonas-la_pedrera, au_country: Colombia, au_level1: Amazonas, au_level2: La Pedrera, au_population: 4097, au_c_d_f: FALSO, au_emc: VERDADEIRO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - EMC: Frente Jhonier Arenas
+- EMC: Carolina Ramirez, au_popup_window_pt: - EMC: Frente Jhonier Arenas
+- EMC: Carolina Ramirez, au_popup_window_en: - EMC: Frente Jhonier Arenas
+- EMC: Carolina Ramirez, au_ID_concatenated: amazonas-la_pedrera, au_area km: 13599.583411008765
+
+capa: au_compilado_R02, fid: 900, b_ADM2_PCODE: BR1303601, b_ADM1_PCODE: BR13, b_ADM1_PT: Amazonas, b_ADM2_PT: Santa Isabel do Rio Negro, b_adm1_geral: Amazonas, b_adm2_geral: Santa Isabel do Rio Negro, b_ID_concatenated: amazonas-santa_isabel_do_rio_negro, au_country: Brasil, au_level1: Amazonas, au_level2: Santa Isabel do Rio Negro, au_population: 13947, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: VERDADEIRO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: Comando Vermelho (CV), au_popup_window_pt: Comando Vermelho (CV), au_popup_window_en: Comando Vermelho (CV), au_ID_concatenated: amazonas-santa_isabel_do_rio_negro, au_area km: 62800.81556643567
+
+capa: au_compilado_R02, fid: 901, b_ADM2_PCODE: BR1303809, b_ADM1_PCODE: BR13, b_ADM1_PT: Amazonas, b_ADM2_PT: São Gabriel da Cachoeira, b_adm1_geral: Amazonas, b_adm2_geral: São Gabriel da Cachoeira, b_ID_concatenated: amazonas-sao_gabriel_da_cachoeira, au_country: Brasil, au_level1: Amazonas, au_level2: São Gabriel da Cachoeira, au_population: 57396, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: VERDADEIRO, au_pcc: VERDADEIRO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - Comando Vermelho (CV)
+- Primeiro Comando da Capital (PCC), au_popup_window_pt: - Comando Vermelho (CV)
+- Primeiro Comando da Capital (PCC), au_popup_window_en: - Comando Vermelho (CV)
+- Primeiro Comando da Capital (PCC), au_ID_concatenated: amazonas-sao_gabriel_da_cachoeira, au_area km: 109184.20538373706
+
+capa: au_compilado_R02, fid: 903, b_ADM2_ES: Taraira, b_ADM2_PCODE: CO97666, b_ADM1_ES: Vaupés, b_ADM1_PCODE: CO97, b_adm1_geral: Vaupés, b_adm2_geral: Taraira, b_ID_concatenated: vaupes-taraira, au_country: Colombia, au_level1: Vaupés, au_level2: Taraira, au_population: 2918, au_c_d_f: FALSO, au_emc: VERDADEIRO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: EMC: Frente Primero Armando Ríos, au_popup_window_pt: EMC: Frente Primero Armando Ríos, au_popup_window_en: EMC: Frente Primero Armando Ríos, au_ID_concatenated: vaupes-taraira, au_area km: 6475.5076558540895
+
+capa: au_compilado_R02, fid: 904, b_ADM2_ES: Tarapacá, b_ADM2_PCODE: CO91798, b_ADM1_ES: Amazonas, b_ADM1_PCODE: CO91, b_adm1_geral: Amazonas, b_adm2_geral: Tarapacá, b_ID_concatenated: amazonas-tarapaca, au_country: Colombia, au_level1: Amazonas, au_level2: Tarapacá, au_population: 4033, au_c_d_f: VERDADEIRO, au_emc: VERDADEIRO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: VERDADEIRO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - Comandos de la Frontera
+- EMC: Carolina Ramirez
+- Los Caqueteños, au_popup_window_pt: - Comandos de la Frontera
+- EMC: Carolina Ramirez
+- Los Caqueteños, au_popup_window_en: - Comandos de la Frontera
+- EMC: Carolina Ramirez
+- Los Caqueteños, au_ID_concatenated: amazonas-tarapaca, au_area km: 9149.153929284204
+
+capa: au_compilado_R02, fid: 907, b_ADM2_ES: Bolognesi, b_ADM2_PCODE: PE0205, b_ADM1_ES: Ancash, b_ADM1_PCODE: PE02, b_adm1_geral: Ancash, b_adm2_geral: Bolognesi, b_ID_concatenated: ancash-bolognesi, au_area km: 3127.0420258685954
+
+capa: au_compilado_R02, fid: 908, b_ADM2_ES: Recuay, b_ADM2_PCODE: PE0217, b_ADM1_ES: Ancash, b_ADM1_PCODE: PE02, b_adm1_geral: Ancash, b_adm2_geral: Recuay, b_ID_concatenated: ancash-recuay, au_area km: 2326.3892497759507
+
+capa: au_compilado_R02, fid: 909, b_ADM2_ES: Yarowilca, b_ADM2_PCODE: PE1011, b_ADM1_ES: Huanuco, b_ADM1_PCODE: PE10, b_adm1_geral: Huanuco, b_adm2_geral: Yarowilca, b_ID_concatenated: huanuco-yarowilca, au_area km: 732.1357583754594
+
+capa: au_compilado_R02, fid: 916, b_ADM2_ES: Yauli, b_ADM2_PCODE: PE1208, b_ADM1_ES: Junin, b_ADM1_PCODE: PE12, b_adm1_geral: Junin, b_adm2_geral: Yauli, b_ID_concatenated: junin-yauli, au_area km: 3637.8713299067354
+
+capa: au_compilado_R02, fid: 917, b_ADM2_ES: Pasco, b_ADM2_PCODE: PE1901, b_ADM1_ES: Pasco, b_ADM1_PCODE: PE19, b_adm1_geral: Pasco, b_adm2_geral: Pasco, b_ID_concatenated: pasco-pasco, au_area km: 5340.6569717219845
+
+capa: au_compilado_R02, fid: 918, b_ADM2_ES: Ambo, b_ADM2_PCODE: PE1002, b_ADM1_ES: Huanuco, b_ADM1_PCODE: PE10, b_adm1_geral: Huanuco, b_adm2_geral: Ambo, b_ID_concatenated: huanuco-ambo, au_area km: 1572.2867856362614
+
+capa: au_compilado_R02, fid: 919, b_ADM2_ES: Pachitea, b_ADM2_PCODE: PE1008, b_ADM1_ES: Huanuco, b_ADM1_PCODE: PE10, b_adm1_geral: Huanuco, b_adm2_geral: Pachitea, b_ID_concatenated: huanuco-pachitea, au_area km: 3084.355994087987
+
+capa: au_compilado_R02, fid: 920, b_ADM2_ES: Daniel Alcides Carrion, b_ADM2_PCODE: PE1902, b_ADM1_ES: Pasco, b_ADM1_PCODE: PE19, b_adm1_geral: Pasco, b_adm2_geral: Daniel Alcides Carrion, b_ID_concatenated: pasco-daniel_alcides_carrion, au_area km: 1519.054497026988
+
+capa: au_compilado_R02, fid: 921, b_ADM2_ES: Huanuco, b_ADM2_PCODE: PE1001, b_ADM1_ES: Huanuco, b_ADM1_PCODE: PE10, b_adm1_geral: Huanuco, b_adm2_geral: Huanuco, b_ID_concatenated: huanuco-huanuco, au_area km: 3637.945010860978
+
+capa: au_compilado_R02, fid: 922, b_ADM2_ES: Junin, b_ADM2_PCODE: PE1205, b_ADM1_ES: Junin, b_ADM1_PCODE: PE12, b_adm1_geral: Junin, b_adm2_geral: Junin, b_ID_concatenated: junin-junin, au_area km: 2497.0906168403026
+
+capa: au_compilado_R02, fid: 923, b_ADM2_ES: Lauricocha, b_ADM2_PCODE: PE1010, b_ADM1_ES: Huanuco, b_ADM1_PCODE: PE10, b_adm1_geral: Huanuco, b_adm2_geral: Lauricocha, b_ID_concatenated: huanuco-lauricocha, au_area km: 1922.258939993498
+
+capa: au_compilado_R02, fid: 924, b_ADM2_ES: Tarma, b_ADM2_PCODE: PE1207, b_ADM1_ES: Junin, b_ADM1_PCODE: PE12, b_adm1_geral: Junin, b_adm2_geral: Tarma, b_ID_concatenated: junin-tarma, au_area km: 2672.342432380853
+
+capa: au_compilado_R02, fid: 925, b_ADM2_ES: Dos de Mayo, b_ADM2_PCODE: PE1003, b_ADM1_ES: Huanuco, b_ADM1_PCODE: PE10, b_adm1_geral: Huanuco, b_adm2_geral: Dos de Mayo, b_ID_concatenated: huanuco-dos_de_mayo, au_area km: 1488.9130374028107
+
+capa: au_compilado_R02, fid: 926, b_ADM2_ES: Chanchamayo, b_ADM2_PCODE: PE1203, b_ADM1_ES: Junin, b_ADM1_PCODE: PE12, b_adm1_geral: Junin, b_adm2_geral: Chanchamayo, b_ID_concatenated: junin-chanchamayo, au_area km: 4681.888850974204
+
+capa: au_compilado_R02, fid: 931, b_ADM2_ES: Huaral, b_ADM2_PCODE: PE1506, b_ADM1_ES: Lima, b_ADM1_PCODE: PE15, b_adm1_geral: Lima, b_adm2_geral: Huaral, b_ID_concatenated: lima-huaral, au_area km: 3670.032784297262
+
+capa: au_compilado_R02, fid: 932, b_ADM2_ES: Huaura, b_ADM2_PCODE: PE1508, b_ADM1_ES: Lima, b_ADM1_PCODE: PE15, b_adm1_geral: Lima, b_adm2_geral: Huaura, b_ID_concatenated: lima-huaura, au_area km: 4923.54252076625
+
+capa: au_compilado_R02, fid: 933, b_ADM2_ES: Oyon, b_ADM2_PCODE: PE1509, b_ADM1_ES: Lima, b_ADM1_PCODE: PE15, b_adm1_geral: Lima, b_adm2_geral: Oyon, b_ID_concatenated: lima-oyon, au_area km: 1878.3095543915026
+
+capa: au_compilado_R02, fid: 934, b_ADM2_ES: Cajatambo, b_ADM2_PCODE: PE1503, b_ADM1_ES: Lima, b_ADM1_PCODE: PE15, b_adm1_geral: Lima, b_adm2_geral: Cajatambo, b_ID_concatenated: lima-cajatambo, au_area km: 1526.5298987273513
+
+capa: au_compilado_R02, fid: 935, b_ADM2_ES: Bongara, b_ADM2_PCODE: PE0103, b_ADM1_ES: Amazonas, b_ADM1_PCODE: PE01, b_adm1_geral: Amazonas, b_adm2_geral: Bongara, b_ID_concatenated: amazonas-bongara, au_country: Peru, au_level1: Amazonas, au_level2: Bongará, au_population: 25637, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: VERDADEIRO, au_invest. with presence: FALSO, au_ID_concatenated: amazonas-bongara, au_area km: 2833.5977878013596
+
+capa: au_compilado_R02, fid: 936, b_ADM2_ES: Bagua, b_ADM2_PCODE: PE0102, b_ADM1_ES: Amazonas, b_ADM1_PCODE: PE01, b_adm1_geral: Amazonas, b_adm2_geral: Bagua, b_ID_concatenated: amazonas-bagua, au_country: Peru, au_level1: Amazonas, au_level2: Bagua, au_population: 74100, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: VERDADEIRO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - Los Nocturnos de Bagua (en Aramango)
+Los Guardiantes de la Trocha (en Imaza) , au_popup_window_pt: - Los Nocturnos de Bagua (en Aramango)
+Los Guardiantes de la Trocha (en Imaza) , au_popup_window_en: - Los Nocturnos de Bagua (en Aramango)
+Los Guardiantes de la Trocha (en Imaza) , au_ID_concatenated: amazonas-bagua, au_area km: 5791.956302413522
+
+capa: au_compilado_R02, fid: 937, b_ADM2_ES: Alto Amazonas, b_ADM2_PCODE: PE1602, b_ADM1_ES: Loreto, b_ADM1_PCODE: PE16, b_adm1_geral: Loreto, b_adm2_geral: Alto Amazonas, b_ID_concatenated: loreto-alto_amazonas, au_country: Peru, au_level1: Loreto, au_level2: Alto Amazonas, au_population: 122725, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: VERDADEIRO, au_invest. with presence: FALSO, au_ID_concatenated: loreto-alto_amazonas, au_area km: 19238.3255042707
+
+capa: au_compilado_R02, fid: 938, b_ADM2_ES: Condorcanqui, b_ADM2_PCODE: PE0104, b_ADM1_ES: Amazonas, b_ADM1_PCODE: PE01, b_adm1_geral: Amazonas, b_adm2_geral: Condorcanqui, b_ID_concatenated: amazonas-condorcanqui, au_country: Peru, au_level1: Amazonas, au_level2: Condorcanqui, au_population: 42470, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: VERDADEIRO, au_cv: FALSO, au_pcc: FALSO, au_others: VERDADEIRO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - Los Rápidos de Siasmi (en Amazonas)
+- Palaneros del Marañón (en Santa María)
+- Los Choneros, au_popup_window_pt: - Los Rápidos de Siasmi (en Amazonas)
+- Palaneros del Marañón (en Santa María)
+- Los Choneros, au_popup_window_en: - Los Rápidos de Siasmi (en Amazonas)
+- Palaneros del Marañón (en Santa María)
+- Los Choneros, au_ID_concatenated: amazonas-condorcanqui, au_area km: 17865.9281416938
+
+capa: au_compilado_R02, fid: 939, b_ADM2_ES: Datem del Marañon, b_ADM2_PCODE: PE1607, b_ADM1_ES: Loreto, b_ADM1_PCODE: PE16, b_adm1_geral: Loreto, b_adm2_geral: Datem del Marañon, b_ID_concatenated: loreto-datem_del_maranon, au_country: Peru, au_level1: Loreto, au_level2: Datem del Marañon, au_population: 48482, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: VERDADEIRO, au_invest. with presence: FALSO, au_ID_concatenated: loreto-datem_del_maranon, au_area km: 47657.88934610604
+
+capa: au_compilado_R02, fid: 941, b_ADM2_ES: Jaen, b_ADM2_PCODE: PE0608, b_ADM1_ES: Cajamarca, b_ADM1_PCODE: PE06, b_adm1_geral: Cajamarca, b_adm2_geral: Jaen, b_ID_concatenated: cajamarca-jaen, au_area km: 5062.289166086317
+
+capa: au_compilado_R02, fid: 942, b_ADM2_ES: Moyobamba, b_ADM2_PCODE: PE2201, b_ADM1_ES: San Martin, b_ADM1_PCODE: PE22, b_adm1_geral: San Martin, b_adm2_geral: Moyobamba, b_ID_concatenated: san_martin-moyobamba, au_country: Peru, au_level1: San Martín, au_level2: Moyobamba, au_population: 122365, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: VERDADEIRO, au_invest. with presence: FALSO, au_ID_concatenated: san_martin-moyobamba, au_area km: 3920.4448572817046
+
+capa: au_compilado_R02, fid: 943, b_ADM2_ES: Rioja, b_ADM2_PCODE: PE2208, b_ADM1_ES: San Martin, b_ADM1_PCODE: PE22, b_adm1_geral: San Martin, b_adm2_geral: Rioja, b_ID_concatenated: san_martin-rioja, au_country: Peru, au_level1: San Martín, au_level2: Rioja, au_population: 122544, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: VERDADEIRO, au_invest. with presence: FALSO, au_ID_concatenated: san_martin-rioja, au_area km: 2649.6324162341994
+
+capa: au_compilado_R02, fid: 944, b_ADM2_ES: Carlos Fermin Fitzcarrald, b_ADM2_PCODE: PE0207, b_ADM1_ES: Ancash, b_ADM1_PCODE: PE02, b_adm1_geral: Ancash, b_adm2_geral: Carlos Fermin Fitzcarrald, b_ID_concatenated: ancash-carlos_fermin_fitzcarrald, au_area km: 626.9851980953105
+
+capa: au_compilado_R02, fid: 945, b_ADM2_ES: Huari, b_ADM2_PCODE: PE0210, b_ADM1_ES: Ancash, b_ADM1_PCODE: PE02, b_adm1_geral: Ancash, b_adm2_geral: Huari, b_ID_concatenated: ancash-huari, au_area km: 2790.2233327913214
+
+capa: au_compilado_R02, fid: 946, b_ADM2_ES: Huacaybamba, b_ADM2_PCODE: PE1004, b_ADM1_ES: Huanuco, b_ADM1_PCODE: PE10, b_adm1_geral: Huanuco, b_adm2_geral: Huacaybamba, b_ID_concatenated: huanuco-huacaybamba, au_area km: 1703.8009954098743
+
+capa: au_compilado_R02, fid: 947, b_ADM2_ES: Antonio Raymondi, b_ADM2_PCODE: PE0203, b_ADM1_ES: Ancash, b_ADM1_PCODE: PE02, b_adm1_geral: Ancash, b_adm2_geral: Antonio Raymondi, b_ID_concatenated: ancash-antonio_raymondi, au_area km: 558.8903874247387
+
+capa: au_compilado_R02, fid: 948, b_ADM2_ES: Huamalies, b_ADM2_PCODE: PE1005, b_ADM1_ES: Huanuco, b_ADM1_PCODE: PE10, b_adm1_geral: Huanuco, b_adm2_geral: Huamalies, b_ID_concatenated: huanuco-huamalies, au_area km: 3158.586219003381
+
+capa: au_compilado_R02, fid: 949, b_ADM2_ES: Leoncio Prado, b_ADM2_PCODE: PE1006, b_ADM1_ES: Huanuco, b_ADM1_PCODE: PE10, b_adm1_geral: Huanuco, b_adm2_geral: Leoncio Prado, b_ID_concatenated: huanuco-leoncio_prado, au_area km: 4908.379920339811
+
+capa: au_compilado_R02, fid: 950, b_ADM2_ES: Marañon, b_ADM2_PCODE: PE1007, b_ADM1_ES: Huanuco, b_ADM1_PCODE: PE10, b_adm1_geral: Huanuco, b_adm2_geral: Marañon, b_ID_concatenated: huanuco-maranon, au_area km: 4948.895772959662
+
+capa: au_compilado_R02, fid: 951, b_ADM2_ES: Padre Abad, b_ADM2_PCODE: PE2503, b_ADM1_ES: Ucayali, b_ADM1_PCODE: PE25, b_adm1_geral: Ucayali, b_adm2_geral: Padre Abad, b_ID_concatenated: ucayali-padre_abad, au_country: Peru, au_level1: Ucayali, au_level2: Padre Abad, au_population: 56168, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: VERDADEIRO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: Los Sapos de Nuevo Perú, au_popup_window_pt: Los Sapos de Nuevo Perú, au_popup_window_en: Los Sapos de Nuevo Perú, au_ID_concatenated: ucayali-padre_abad, au_area km: 9301.8642602851
+
+capa: au_compilado_R02, fid: 952, b_ADM2_ES: Puerto Inca, b_ADM2_PCODE: PE1009, b_ADM1_ES: Huanuco, b_ADM1_PCODE: PE10, b_adm1_geral: Huanuco, b_adm2_geral: Puerto Inca, b_ID_concatenated: huanuco-puerto_inca, au_area km: 10371.891548376736
+
+capa: au_compilado_R02, fid: 954, b_ADM2_ES: Chota, b_ADM2_PCODE: PE0604, b_ADM1_ES: Cajamarca, b_ADM1_PCODE: PE06, b_adm1_geral: Cajamarca, b_adm2_geral: Chota, b_ID_concatenated: cajamarca-chota, au_area km: 3758.4673078425326
+
+capa: au_compilado_R02, fid: 955, b_ADM2_ES: Cutervo, b_ADM2_PCODE: PE0606, b_ADM1_ES: Cajamarca, b_ADM1_PCODE: PE06, b_adm1_geral: Cajamarca, b_adm2_geral: Cutervo, b_ID_concatenated: cajamarca-cutervo, au_area km: 3026.2128163784937
+
+capa: au_compilado_R02, fid: 957, b_ADM2_ES: Huaraz, b_ADM2_PCODE: PE0201, b_ADM1_ES: Ancash, b_ADM1_PCODE: PE02, b_adm1_geral: Ancash, b_adm2_geral: Huaraz, b_ID_concatenated: ancash-huaraz, au_area km: 2506.9788424976455
+
+capa: au_compilado_R02, fid: 958, b_ADM2_ES: Carhuaz, b_ADM2_PCODE: PE0206, b_ADM1_ES: Ancash, b_ADM1_PCODE: PE02, b_adm1_geral: Ancash, b_adm2_geral: Carhuaz, b_ID_concatenated: ancash-carhuaz, au_area km: 813.3386406531542
+
+capa: au_compilado_R02, fid: 959, b_ADM2_ES: Asuncion, b_ADM2_PCODE: PE0204, b_ADM1_ES: Ancash, b_ADM1_PCODE: PE02, b_adm1_geral: Ancash, b_adm2_geral: Asuncion, b_ID_concatenated: ancash-asuncion, au_area km: 527.7599845088441
+
+capa: au_compilado_R02, fid: 960, b_ADM2_ES: Huaylas, b_ADM2_PCODE: PE0212, b_ADM1_ES: Ancash, b_ADM1_PCODE: PE02, b_adm1_geral: Ancash, b_adm2_geral: Huaylas, b_ID_concatenated: ancash-huaylas, au_area km: 2286.621039585595
+
+capa: au_compilado_R02, fid: 961, b_ADM2_ES: Mariscal Luzuriaga, b_ADM2_PCODE: PE0213, b_ADM1_ES: Ancash, b_ADM1_PCODE: PE02, b_adm1_geral: Ancash, b_adm2_geral: Mariscal Luzuriaga, b_ID_concatenated: ancash-mariscal_luzuriaga, au_area km: 736.1160162020237
+
+capa: au_compilado_R02, fid: 962, b_ADM2_ES: Pomabamba, b_ADM2_PCODE: PE0216, b_ADM1_ES: Ancash, b_ADM1_PCODE: PE02, b_adm1_geral: Ancash, b_adm2_geral: Pomabamba, b_ID_concatenated: ancash-pomabamba, au_area km: 921.3039083439577
+
+capa: au_compilado_R02, fid: 963, b_ADM2_ES: Yungay, b_ADM2_PCODE: PE0220, b_ADM1_ES: Ancash, b_ADM1_PCODE: PE02, b_adm1_geral: Ancash, b_adm2_geral: Yungay, b_ID_concatenated: ancash-yungay, au_area km: 1362.855261212607
+
+capa: au_compilado_R02, fid: 964, b_ADM2_ES: Otuzco, b_ADM2_PCODE: PE1306, b_ADM1_ES: La Libertad, b_ADM1_PCODE: PE13, b_adm1_geral: La Libertad, b_adm2_geral: Otuzco, b_ID_concatenated: la_libertad-otuzco, au_area km: 2077.5663994815054
+
+capa: au_compilado_R02, fid: 965, b_ADM2_ES: Gran Chimu, b_ADM2_PCODE: PE1311, b_ADM1_ES: La Libertad, b_ADM1_PCODE: PE13, b_adm1_geral: La Libertad, b_adm2_geral: Gran Chimu, b_ID_concatenated: la_libertad-gran_chimu, au_area km: 1288.3116844605556
+
+capa: au_compilado_R02, fid: 966, b_ADM2_ES: Cajamarca, b_ADM2_PCODE: PE0601, b_ADM1_ES: Cajamarca, b_ADM1_PCODE: PE06, b_adm1_geral: Cajamarca, b_adm2_geral: Cajamarca, b_ID_concatenated: cajamarca-cajamarca, au_area km: 2974.852892876259
+
+capa: au_compilado_R02, fid: 967, b_ADM2_ES: San Miguel, b_ADM2_PCODE: PE0611, b_ADM1_ES: Cajamarca, b_ADM1_PCODE: PE06, b_adm1_geral: Cajamarca, b_adm2_geral: San Miguel, b_ID_concatenated: cajamarca-san_miguel, au_area km: 2535.2358785660176
+
+capa: au_compilado_R02, fid: 968, b_ADM2_ES: Hualgayoc, b_ADM2_PCODE: PE0607, b_ADM1_ES: Cajamarca, b_ADM1_PCODE: PE06, b_adm1_geral: Cajamarca, b_adm2_geral: Hualgayoc, b_ID_concatenated: cajamarca-hualgayoc, au_area km: 787.5612405458827
+
+capa: au_compilado_R02, fid: 969, b_ADM2_ES: San Pablo, b_ADM2_PCODE: PE0612, b_ADM1_ES: Cajamarca, b_ADM1_PCODE: PE06, b_adm1_geral: Cajamarca, b_adm2_geral: San Pablo, b_ID_concatenated: cajamarca-san_pablo, au_area km: 664.8147511479152
+
+capa: au_compilado_R02, fid: 970, b_ADM2_ES: Santa Cruz, b_ADM2_PCODE: PE0613, b_ADM1_ES: Cajamarca, b_ADM1_PCODE: PE06, b_adm1_geral: Cajamarca, b_adm2_geral: Santa Cruz, b_ID_concatenated: cajamarca-santa_cruz, au_area km: 1380.6614016136373
+
+capa: au_compilado_R02, fid: 971, b_ADM2_ES: Corongo, b_ADM2_PCODE: PE0209, b_ADM1_ES: Ancash, b_ADM1_PCODE: PE02, b_adm1_geral: Ancash, b_adm2_geral: Corongo, b_ID_concatenated: ancash-corongo, au_area km: 1015.1184233719496
+
+capa: au_compilado_R02, fid: 972, b_ADM2_ES: Pallasca, b_ADM2_PCODE: PE0215, b_ADM1_ES: Ancash, b_ADM1_PCODE: PE02, b_adm1_geral: Ancash, b_adm2_geral: Pallasca, b_ID_concatenated: ancash-pallasca, au_area km: 2066.8932233529977
+
+capa: au_compilado_R02, fid: 973, b_ADM2_ES: Santiago de Chuco, b_ADM2_PCODE: PE1310, b_ADM1_ES: La Libertad, b_ADM1_PCODE: PE13, b_adm1_geral: La Libertad, b_adm2_geral: Santiago de Chuco, b_ID_concatenated: la_libertad-santiago_de_chuco, au_area km: 2669.513362030069
+
+capa: au_compilado_R02, fid: 974, b_ADM2_ES: Sihuas, b_ADM2_PCODE: PE0219, b_ADM1_ES: Ancash, b_ADM1_PCODE: PE02, b_adm1_geral: Ancash, b_adm2_geral: Sihuas, b_ID_concatenated: ancash-sihuas, au_area km: 1455.935380286784
+
+capa: au_compilado_R02, fid: 975, b_ADM2_ES: Mariscal Caceres, b_ADM2_PCODE: PE2206, b_ADM1_ES: San Martin, b_ADM1_PCODE: PE22, b_adm1_geral: San Martin, b_adm2_geral: Mariscal Caceres, b_ID_concatenated: san_martin-mariscal_caceres, au_country: Peru, au_level1: San Martín, au_level2: Mariscal Cáceres, au_population: 64626, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: VERDADEIRO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: Los Guardianes de la Trocha, au_popup_window_pt: Los Guardianes de la Trocha, au_popup_window_en: Los Guardianes de la Trocha, au_ID_concatenated: san_martin-mariscal_caceres, au_area km: 14252.456935328539
+
+capa: au_compilado_R02, fid: 976, b_ADM2_ES: Pataz, b_ADM2_PCODE: PE1308, b_ADM1_ES: La Libertad, b_ADM1_PCODE: PE13, b_adm1_geral: La Libertad, b_adm2_geral: Pataz, b_ID_concatenated: la_libertad-pataz, au_area km: 3992.147287851292
+
+capa: au_compilado_R02, fid: 977, b_ADM2_ES: Huallaga, b_ADM2_PCODE: PE2204, b_ADM1_ES: San Martin, b_ADM1_PCODE: PE22, b_adm1_geral: San Martin, b_adm2_geral: Huallaga, b_ID_concatenated: san_martin-huallaga, au_country: Peru, au_level1: San Martín, au_level2: Huayaga, au_population: 27506, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: VERDADEIRO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: Comando Vermelho , au_popup_window_pt: Comando Vermelho , au_popup_window_en: Comando Vermelho , au_ID_concatenated: san_martin-huallaga, au_area km: 2416.3123089593428
+
+capa: au_compilado_R02, fid: 978, b_ADM2_ES: El Dorado, b_ADM2_PCODE: PE2203, b_ADM1_ES: San Martin, b_ADM1_PCODE: PE22, b_adm1_geral: San Martin, b_adm2_geral: El Dorado, b_ID_concatenated: san_martin-el_dorado, au_country: Peru, au_level1: San Martín, au_level2: El Dorado, au_population: 36752, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: VERDADEIRO, au_invest. with presence: FALSO, au_ID_concatenated: san_martin-el_dorado, au_area km: 1293.0093399299717
+
+capa: au_compilado_R02, fid: 979, b_ADM2_ES: Lamas, b_ADM2_PCODE: PE2205, b_ADM1_ES: San Martin, b_ADM1_PCODE: PE22, b_adm1_geral: San Martin, b_adm2_geral: Lamas, b_ID_concatenated: san_martin-lamas, au_country: Peru, au_level1: San Martín, au_level2: Lamas, au_population: 81521, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: VERDADEIRO, au_invest. with presence: FALSO, au_ID_concatenated: san_martin-lamas, au_area km: 4742.356298645066
+
+capa: au_compilado_R02, fid: 980, b_ADM2_ES: Bellavista, b_ADM2_PCODE: PE2202, b_ADM1_ES: San Martin, b_ADM1_PCODE: PE22, b_adm1_geral: San Martin, b_adm2_geral: Bellavista, b_ID_concatenated: san_martin-bellavista, au_country: Peru, au_level1: San Martín, au_level2: Bellavista, au_population: 55033, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: VERDADEIRO, au_invest. with presence: FALSO, au_ID_concatenated: san_martin-bellavista, au_area km: 8053.740562943328
+
+capa: au_compilado_R02, fid: 981, b_ADM2_ES: Picota, b_ADM2_PCODE: PE2207, b_ADM1_ES: San Martin, b_ADM1_PCODE: PE22, b_adm1_geral: San Martin, b_adm2_geral: Picota, b_ID_concatenated: san_martin-picota, au_country: Peru, au_level1: San Martín, au_level2: Picota, au_population: 40545, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: VERDADEIRO, au_invest. with presence: FALSO, au_ID_concatenated: san_martin-picota, au_area km: 2108.1690015000245
+
+capa: au_compilado_R02, fid: 982, b_ADM2_ES: Rodriguez de Mendoza, b_ADM2_PCODE: PE0106, b_ADM1_ES: Amazonas, b_ADM1_PCODE: PE01, b_adm1_geral: Amazonas, b_adm2_geral: Rodriguez de Mendoza, b_ID_concatenated: amazonas-rodriguez_de_mendoza, au_country: Peru, au_level1: Amazonas, au_level2: Rodríguez de Mendoza, au_population: 29998, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: VERDADEIRO, au_invest. with presence: FALSO, au_ID_concatenated: amazonas-rodriguez_de_mendoza, au_area km: 2582.3349804379945
+
+capa: au_compilado_R02, fid: 983, b_ADM2_ES: San Martin, b_ADM2_PCODE: PE2209, b_ADM1_ES: San Martin, b_ADM1_PCODE: PE22, b_adm1_geral: San Martin, b_adm2_geral: San Martin, b_ID_concatenated: san_martin-san_martin, au_country: Peru, au_level1: San Martín, au_level2: San Martín, au_population: 193095, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: VERDADEIRO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - Tren de Arágua 
+- Los Venecos, au_popup_window_pt: - Tren de Arágua 
+- Los Venecos, au_popup_window_en: - Tren de Arágua 
+- Los Venecos, au_ID_concatenated: san_martin-san_martin, au_area km: 5541.419492391206
+
+capa: au_compilado_R02, fid: 984, b_ADM2_ES: Tocache, b_ADM2_PCODE: PE2210, b_ADM1_ES: San Martin, b_ADM1_PCODE: PE22, b_adm1_geral: San Martin, b_adm2_geral: Tocache, b_ID_concatenated: san_martin-tocache, au_country: Peru, au_level1: San Martín, au_level2: Tocache, au_population: 69394, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: VERDADEIRO, au_invest. with presence: FALSO, au_ID_concatenated: san_martin-tocache, au_area km: 6027.720513818729
+
+capa: au_compilado_R02, fid: 985, b_ADM2_ES: Celendin, b_ADM2_PCODE: PE0603, b_ADM1_ES: Cajamarca, b_ADM1_PCODE: PE06, b_adm1_geral: Cajamarca, b_adm2_geral: Celendin, b_ID_concatenated: cajamarca-celendin, au_area km: 2648.549583904323
+
+capa: au_compilado_R02, fid: 986, b_ADM2_ES: Luya, b_ADM2_PCODE: PE0105, b_ADM1_ES: Amazonas, b_ADM1_PCODE: PE01, b_adm1_geral: Amazonas, b_adm2_geral: Luya, b_ID_concatenated: amazonas-luya, au_country: Peru, au_level1: Amazonas, au_level2: Luya, au_population: 44436, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: VERDADEIRO, au_invest. with presence: FALSO, au_ID_concatenated: amazonas-luya, au_area km: 3306.8244929859134
+
+capa: au_compilado_R02, fid: 987, b_ADM2_ES: Cajabamba, b_ADM2_PCODE: PE0602, b_ADM1_ES: Cajamarca, b_ADM1_PCODE: PE06, b_adm1_geral: Cajamarca, b_adm2_geral: Cajabamba, b_ID_concatenated: cajamarca-cajabamba, au_area km: 1785.7855441755182
+
+capa: au_compilado_R02, fid: 988, b_ADM2_ES: Chachapoyas, b_ADM2_PCODE: PE0101, b_ADM1_ES: Amazonas, b_ADM1_PCODE: PE01, b_adm1_geral: Amazonas, b_adm2_geral: Chachapoyas, b_ID_concatenated: amazonas-chachapoyas, au_country: Peru, au_level1: Amazonas, au_level2: Chachapoyas, au_population: 55506, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: VERDADEIRO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: Los Trujillanos, au_popup_window_pt: Los Trujillanos, au_popup_window_en: Los Trujillanos, au_ID_concatenated: amazonas-chachapoyas, au_area km: 2907.9979660936774
+
+capa: au_compilado_R02, fid: 989, b_ADM2_ES: Bolivar, b_ADM2_PCODE: PE1303, b_ADM1_ES: La Libertad, b_ADM1_PCODE: PE13, b_adm1_geral: La Libertad, b_adm2_geral: Bolivar, b_ID_concatenated: la_libertad-bolivar, au_area km: 1733.762451034796
+
+capa: au_compilado_R02, fid: 990, b_ADM2_ES: San Marcos, b_ADM2_PCODE: PE0610, b_ADM1_ES: Cajamarca, b_ADM1_PCODE: PE06, b_adm1_geral: Cajamarca, b_adm2_geral: San Marcos, b_ID_concatenated: cajamarca-san_marcos, au_area km: 1352.633260887827
+
+capa: au_compilado_R02, fid: 991, b_ADM2_ES: Sanchez Carrion, b_ADM2_PCODE: PE1309, b_ADM1_ES: La Libertad, b_ADM1_PCODE: PE13, b_adm1_geral: La Libertad, b_adm2_geral: Sanchez Carrion, b_ID_concatenated: la_libertad-sanchez_carrion, au_area km: 2497.5014584805417
+
+capa: au_compilado_R02, fid: 1272, b_ADM2_ES: Sucumbios, b_ADM2_PCODE: EC2105, b_ADM1_ES: Sucumbios, b_ADM1_PCODE: EC21, b_adm1_geral: Sucumbios, b_adm2_geral: Sucumbios, b_ID_concatenated: sucumbios-sucumbios, au_country: Ecuador, au_level1: Sucumbios, au_level2: Sucumbios, au_population: 3390, au_c_d_f: VERDADEIRO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: VERDADEIRO, au_choneros: VERDADEIRO, au_cv: FALSO, au_pcc: FALSO, au_others: VERDADEIRO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - Comandos de la Frontera
+- Los Choneros
+- Los Lobos
+- Comuneros del Sur, au_popup_window_pt: - Comandos de la Frontera
+- Los Choneros
+- Los Lobos
+- Comuneros del Sur, au_popup_window_en: - Comandos de la Frontera
+- Los Choneros
+- Los Lobos
+- Comuneros del Sur, au_ID_concatenated: sucumbios-sucumbios, au_area km: 1514.3851463556553
+
+capa: au_compilado_R02, fid: 1278, b_ADM2_ES: El Pan, b_ADM2_PCODE: EC0112, b_ADM1_ES: Azuay, b_ADM1_PCODE: EC01, b_adm1_geral: Azuay, b_adm2_geral: El Pan, b_ID_concatenated: azuay-el_pan, au_area km: 132.51112022602842
+
+capa: au_compilado_R02, fid: 1279, b_ADM2_ES: Sevilla de Oro, b_ADM2_PCODE: EC0113, b_ADM1_ES: Azuay, b_ADM1_PCODE: EC01, b_adm1_geral: Azuay, b_adm2_geral: Sevilla de Oro, b_ID_concatenated: azuay-sevilla_de_oro, au_area km: 314.6510567742339
+
+capa: au_compilado_R02, fid: 1280, b_ADM2_ES: Logroño, b_ADM2_PCODE: EC1410, b_ADM1_ES: Morona Santiago, b_ADM1_PCODE: EC14, b_adm1_geral: Morona Santiago, b_adm2_geral: Logroño, b_ID_concatenated: morona_santiago-logrono, au_country: Ecuador, au_level1: Morona Santiago, au_level2: Logroño, au_population: 5723, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: VERDADEIRO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: VERDADEIRO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: Los Lobos, au_popup_window_pt: Los Lobos, au_popup_window_en: Los Lobos, au_ID_concatenated: morona_santiago-logrono, au_area km: 1169.2934219769058
+
+capa: au_compilado_R02, fid: 1281, b_ADM2_ES: Santiago, b_ADM2_PCODE: EC1405, b_ADM1_ES: Morona Santiago, b_ADM1_PCODE: EC14, b_adm1_geral: Morona Santiago, b_adm2_geral: Santiago, b_ID_concatenated: morona_santiago-santiago, au_country: Ecuador, au_level1: Morona Santiago, au_level2: Santiago, au_population: 9295, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: VERDADEIRO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: VERDADEIRO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: Los Lobos, au_popup_window_pt: Los Lobos, au_popup_window_en: Los Lobos, au_ID_concatenated: morona_santiago-santiago, au_area km: 1415.9207413547297
+
+capa: au_compilado_R02, fid: 1282, b_ADM2_ES: Azogues, b_ADM2_PCODE: EC0301, b_ADM1_ES: Cañar, b_ADM1_PCODE: EC03, b_adm1_geral: Cañar, b_adm2_geral: Azogues, b_ID_concatenated: canar-azogues, au_area km: 612.3594821333091
+
+capa: au_compilado_R02, fid: 1283, b_ADM2_ES: Morona, b_ADM2_PCODE: EC1401, b_ADM1_ES: Morona Santiago, b_ADM1_PCODE: EC14, b_adm1_geral: Morona Santiago, b_adm2_geral: Morona, b_ID_concatenated: morona_santiago-morona, au_country: Ecuador, au_level1: Morona Santiago, au_level2: Morona, au_population: 41155, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: VERDADEIRO, au_choneros: VERDADEIRO, au_cv: FALSO, au_pcc: FALSO, au_others: VERDADEIRO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - Los Choneros
+- Los Lobos, au_popup_window_pt: - Los Choneros
+- Los Lobos, au_popup_window_en: - Los Choneros
+- Los Lobos, au_ID_concatenated: morona_santiago-morona, au_area km: 4647.069514517554
+
+capa: au_compilado_R02, fid: 1284, b_ADM2_ES: Sucua, b_ADM2_PCODE: EC1406, b_ADM1_ES: Morona Santiago, b_ADM1_PCODE: EC14, b_adm1_geral: Morona Santiago, b_adm2_geral: Sucua, b_ID_concatenated: morona_santiago-sucua, au_country: Ecuador, au_level1: Morona Santiago, au_level2: Sucua, au_population: 18318, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: VERDADEIRO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: VERDADEIRO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: Los Lobos, au_popup_window_pt: Los Lobos, au_popup_window_en: Los Lobos, au_ID_concatenated: morona_santiago-sucua, au_area km: 891.9007357351621
+
+capa: au_compilado_R02, fid: 1285, b_ADM2_ES: Chordeleg, b_ADM2_PCODE: EC0111, b_ADM1_ES: Azuay, b_ADM1_PCODE: EC01, b_adm1_geral: Azuay, b_adm2_geral: Chordeleg, b_ID_concatenated: azuay-chordeleg, au_area km: 105.14435380741261
+
+capa: au_compilado_R02, fid: 1286, b_ADM2_ES: Guachapala, b_ADM2_PCODE: EC0114, b_ADM1_ES: Azuay, b_ADM1_PCODE: EC01, b_adm1_geral: Azuay, b_adm2_geral: Guachapala, b_ID_concatenated: azuay-guachapala, au_area km: 39.97590746133077
+
+capa: au_compilado_R02, fid: 1287, b_ADM2_ES: Gualaceo, b_ADM2_PCODE: EC0103, b_ADM1_ES: Azuay, b_ADM1_PCODE: EC01, b_adm1_geral: Azuay, b_adm2_geral: Gualaceo, b_ID_concatenated: azuay-gualaceo, au_area km: 349.7132698263899
+
+capa: au_compilado_R02, fid: 1288, b_ADM2_ES: Paute, b_ADM2_PCODE: EC0105, b_ADM1_ES: Azuay, b_ADM1_PCODE: EC01, b_adm1_geral: Azuay, b_adm2_geral: Paute, b_ID_concatenated: azuay-paute, au_area km: 269.24009927969325
+
+capa: au_compilado_R02, fid: 1292, b_ADM2_ES: El Pangui, b_ADM2_PCODE: EC1906, b_ADM1_ES: Zamora Chinchipe, b_ADM1_PCODE: EC19, b_adm1_geral: Zamora Chinchipe, b_adm2_geral: El Pangui, b_ID_concatenated: zamora_chinchipe-el_pangui, au_country: Ecuador, au_level1: Zamora Chinchipe, au_level2: El Pangui, au_population: 8619, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: VERDADEIRO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: VERDADEIRO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: Los Lobos, au_popup_window_pt: Los Lobos, au_popup_window_en: Los Lobos, au_ID_concatenated: zamora_chinchipe-el_pangui, au_area km: 631.0890773103343
+
+capa: au_compilado_R02, fid: 1293, b_ADM2_ES: Gualaquiza, b_ADM2_PCODE: EC1402, b_ADM1_ES: Morona Santiago, b_ADM1_PCODE: EC14, b_adm1_geral: Morona Santiago, b_adm2_geral: Gualaquiza, b_ID_concatenated: morona_santiago-gualaquiza, au_country: Ecuador, au_level1: Morona Santiago, au_level2: Gualaquiza, au_population: 17162, au_c_d_f: VERDADEIRO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: VERDADEIRO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: VERDADEIRO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - Comandos de la Frontera
+- Los Lobos, au_popup_window_pt: - Comandos de la Frontera
+- Los Lobos, au_popup_window_en: - Comandos de la Frontera
+- Los Lobos, au_ID_concatenated: morona_santiago-gualaquiza, au_area km: 2189.4552882409253
+
+capa: au_compilado_R02, fid: 1294, b_ADM2_ES: San Juan Bosco, b_ADM2_PCODE: EC1408, b_ADM1_ES: Morona Santiago, b_ADM1_PCODE: EC14, b_adm1_geral: Morona Santiago, b_adm2_geral: San Juan Bosco, b_ID_concatenated: morona_santiago-san_juan_bosco, au_country: Ecuador, au_level1: Morona Santiago, au_level2: San Juan Bosco, au_population: 3908, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: VERDADEIRO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: VERDADEIRO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: Los Lobos, au_popup_window_pt: Los Lobos, au_popup_window_en: Los Lobos, au_ID_concatenated: morona_santiago-san_juan_bosco, au_area km: 1049.0412317108094
+
+capa: au_compilado_R02, fid: 1295, b_ADM2_ES: Sigsig, b_ADM2_PCODE: EC0109, b_ADM1_ES: Azuay, b_ADM1_PCODE: EC01, b_adm1_geral: Azuay, b_adm2_geral: Sigsig, b_ID_concatenated: azuay-sigsig, au_area km: 675.673490124856
+
+capa: au_compilado_R02, fid: 1296, b_ADM2_ES: Limon Indanza, b_ADM2_PCODE: EC1403, b_ADM1_ES: Morona Santiago, b_ADM1_PCODE: EC14, b_adm1_geral: Morona Santiago, b_adm2_geral: Limon Indanza, b_ID_concatenated: morona_santiago-limon_indanza, au_country: Ecuador, au_level1: Morona Santiago, au_level2: Limon Indanza, au_population: 9722, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: VERDADEIRO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: VERDADEIRO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: Los Lobos, au_popup_window_pt: Los Lobos, au_popup_window_en: Los Lobos, au_ID_concatenated: morona_santiago-limon_indanza, au_area km: 1803.4706018095621
+
+capa: au_compilado_R02, fid: 1297, b_ADM2_ES: Tiwintza, b_ADM2_PCODE: EC1412, b_ADM1_ES: Morona Santiago, b_ADM1_PCODE: EC14, b_adm1_geral: Morona Santiago, b_adm2_geral: Tiwintza, b_ID_concatenated: morona_santiago-tiwintza, au_country: Ecuador, au_level1: Morona Santiago, au_level2: Tiwintza, au_population: 6995, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: VERDADEIRO, au_choneros: VERDADEIRO, au_cv: FALSO, au_pcc: FALSO, au_others: VERDADEIRO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - Los Choneros
+- Los Lobos, au_popup_window_pt: - Los Choneros
+- Los Lobos, au_popup_window_en: - Los Choneros
+- Los Lobos, au_ID_concatenated: morona_santiago-tiwintza, au_area km: 1169.5541936043778
+
+capa: au_compilado_R02, fid: 1327, b_ADM2_ES: Orellana, b_ADM2_PCODE: EC2201, b_ADM1_ES: Orellana, b_ADM1_PCODE: EC22, b_adm1_geral: Orellana, b_adm2_geral: Orellana, b_ID_concatenated: orellana-orellana, au_country: Ecuador, au_level1: Orellana, au_level2: Orellana, au_population: 72795, au_c_d_f: VERDADEIRO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: VERDADEIRO, au_choneros: VERDADEIRO, au_cv: FALSO, au_pcc: FALSO, au_others: VERDADEIRO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - Comandos de la Frontera
+- Los Choneros
+- Los Lobos, au_popup_window_pt: - Comandos de la Frontera
+- Los Choneros
+- Los Lobos, au_popup_window_en: - Comandos de la Frontera
+- Los Choneros
+- Los Lobos, au_ID_concatenated: orellana-orellana, au_area km: 7046.184399889761
+
+capa: au_compilado_R02, fid: 1328, b_ADM2_ES: Cuyabeno, b_ADM2_PCODE: EC2107, b_ADM1_ES: Sucumbios, b_ADM1_PCODE: EC21, b_adm1_geral: Sucumbios, b_adm2_geral: Cuyabeno, b_ID_concatenated: sucumbios-cuyabeno, au_country: Ecuador, au_level1: Sucumbios, au_level2: Cuyabeno, au_population: 7133, au_c_d_f: VERDADEIRO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: VERDADEIRO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - Los Lobos
+- Comandos de la Frontera, au_popup_window_pt: - Los Lobos
+- Comandos de la Frontera, au_popup_window_en: - Los Lobos
+- Comandos de la Frontera, au_ID_concatenated: sucumbios-cuyabeno, au_area km: 3872.4304002483345
+
+capa: au_compilado_R02, fid: 1329, b_ADM2_ES: La Joya de los Sachas, b_ADM2_PCODE: EC2203, b_ADM1_ES: Orellana, b_ADM1_PCODE: EC22, b_adm1_geral: Orellana, b_adm2_geral: La Joya de los Sachas, b_ID_concatenated: orellana-la_joya_de_los_sachas, au_country: Ecuador, au_level1: Orellana, au_level2: La Joya De Los Sachas, au_population: 37591, au_c_d_f: VERDADEIRO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: VERDADEIRO, au_choneros: VERDADEIRO, au_cv: FALSO, au_pcc: FALSO, au_others: VERDADEIRO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - Comandos de la Frontera
+- Los Choneros
+- Los Lobos, au_popup_window_pt: - Comandos de la Frontera
+- Los Choneros
+- Los Lobos, au_popup_window_en: - Comandos de la Frontera
+- Los Choneros
+- Los Lobos, au_ID_concatenated: orellana-la_joya_de_los_sachas, au_area km: 1196.865648654215
+
+capa: au_compilado_R02, fid: 1330, b_ADM2_ES: Putumayo, b_ADM2_PCODE: EC2103, b_ADM1_ES: Sucumbios, b_ADM1_PCODE: EC21, b_adm1_geral: Sucumbios, b_adm2_geral: Putumayo, b_ID_concatenated: sucumbios-putumayo, au_country: Ecuador, au_level1: Sucumbios, au_level2: Putumayo, au_population: 10174, au_c_d_f: VERDADEIRO, au_emc: VERDADEIRO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: VERDADEIRO, au_choneros: VERDADEIRO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - Comandos de la Frontera
+- Los Choneros
+- Los Lobos - EMC: Carolina Ramirez , au_popup_window_pt: - Comandos de la Frontera
+- Los Choneros
+- Los Lobos - EMC: Carolina Ramirez, au_popup_window_en: - Comandos de la Frontera
+- Los Choneros
+- Los Lobos - EMC: Carolina Ramirez, au_ID_concatenated: sucumbios-putumayo, au_area km: 3525.626822561275
+
+capa: au_compilado_R02, fid: 1331, b_ADM2_ES: Lago Agrio, b_ADM2_PCODE: EC2101, b_ADM1_ES: Sucumbios, b_ADM1_PCODE: EC21, b_adm1_geral: Sucumbios, b_adm2_geral: Lago Agrio, b_ID_concatenated: sucumbios-lago_agrio, au_country: Ecuador, au_level1: Sucumbios, au_level2: Lago Agrio, au_population: 91744, au_c_d_f: VERDADEIRO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: VERDADEIRO, au_choneros: VERDADEIRO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - Comandos de la Frontera
+- Los Choneros
+- Los Lobos, au_popup_window_pt: - Comandos de la Frontera
+- Los Choneros
+- Los Lobos, au_popup_window_en: - Comandos de la Frontera
+- Los Choneros
+- Los Lobos, au_ID_concatenated: sucumbios-lago_agrio, au_area km: 3142.5396448707684
+
+capa: au_compilado_R02, fid: 1334, b_ADM2_ES: Shushufindi, b_ADM2_PCODE: EC2104, b_ADM1_ES: Sucumbios, b_ADM1_PCODE: EC21, b_adm1_geral: Sucumbios, b_adm2_geral: Shushufindi, b_ID_concatenated: sucumbios-shushufindi, au_country: Ecuador, au_level1: Sucumbios, au_level2: Shushufindi, au_population: 44328, au_c_d_f: VERDADEIRO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: VERDADEIRO, au_choneros: VERDADEIRO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - Comandos de la Frontera
+- Los Choneros
+- Los Lobos, au_popup_window_pt: - Comandos de la Frontera
+- Los Choneros
+- Los Lobos, au_popup_window_en: - Comandos de la Frontera
+- Los Choneros
+- Los Lobos, au_ID_concatenated: sucumbios-shushufindi, au_area km: 2519.0937552603027
+
+capa: au_compilado_R02, fid: 1335, b_ADM2_ES: Aguarico, b_ADM2_PCODE: EC2202, b_ADM1_ES: Orellana, b_ADM1_PCODE: EC22, b_adm1_geral: Orellana, b_adm2_geral: Aguarico, b_ID_concatenated: orellana-aguarico, au_country: Ecuador, au_level1: Orellana, au_level2: Aguarico, au_population: 4847, au_c_d_f: VERDADEIRO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: VERDADEIRO, au_choneros: VERDADEIRO, au_cv: FALSO, au_pcc: FALSO, au_others: VERDADEIRO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - Comandos de la Frontera
+- Los Choneros
+- Los Lobos, au_popup_window_pt: - Comandos de la Frontera
+- Los Choneros
+- Los Lobos, au_popup_window_en: - Comandos de la Frontera
+- Los Choneros
+- Los Lobos, au_ID_concatenated: orellana-aguarico, au_area km: 11161.675920173699
+
+capa: au_compilado_R02, fid: 1336, b_ADM2_ES: Archidona, b_ADM2_PCODE: EC1503, b_ADM1_ES: Napo, b_ADM1_PCODE: EC15, b_adm1_geral: Napo, b_adm2_geral: Archidona, b_ID_concatenated: napo-archidona, au_country: Ecuador, au_level1: Napo, au_level2: Archidona, au_population: 24969, au_c_d_f: VERDADEIRO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: VERDADEIRO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - Los Lobos
+- Comandos de la Frontera, au_popup_window_pt: - Los Lobos
+- Comandos de la Frontera, au_popup_window_en: - Los Lobos
+- Comandos de la Frontera, au_ID_concatenated: napo-archidona, au_area km: 3021.793870322986
+
+capa: au_compilado_R02, fid: 1337, b_ADM2_ES: El Chaco, b_ADM2_PCODE: EC1504, b_ADM1_ES: Napo, b_ADM1_PCODE: EC15, b_adm1_geral: Napo, b_adm2_geral: El Chaco, b_ID_concatenated: napo-el_chaco, au_country: Ecuador, au_level1: Napo, au_level2: El Chaco, au_population: 7960, au_c_d_f: VERDADEIRO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: VERDADEIRO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - Los Lobos
+- Comandos de la Frontera, au_popup_window_pt: - Los Lobos
+- Comandos de la Frontera, au_popup_window_en: - Los Lobos
+- Comandos de la Frontera, au_ID_concatenated: napo-el_chaco, au_area km: 3492.2212010570106
+
+capa: au_compilado_R02, fid: 1338, b_ADM2_ES: Cayambe, b_ADM2_PCODE: EC1702, b_ADM1_ES: Pichincha, b_ADM1_PCODE: EC17, b_adm1_geral: Pichincha, b_adm2_geral: Cayambe, b_ID_concatenated: pichincha-cayambe, au_area km: 1192.7330158255384
+
+capa: au_compilado_R02, fid: 1339, b_ADM2_ES: Gonzalo Pizarro, b_ADM2_PCODE: EC2102, b_ADM1_ES: Sucumbios, b_ADM1_PCODE: EC21, b_adm1_geral: Sucumbios, b_adm2_geral: Gonzalo Pizarro, b_ID_concatenated: sucumbios-gonzalo_pizarro, au_country: Ecuador, au_level1: Sucumbios, au_level2: Gonzalo Pizarro, au_population: 8599, au_c_d_f: VERDADEIRO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: VERDADEIRO, au_choneros: VERDADEIRO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - Comandos de la Frontera
+- Los Choneros
+- Los Lobos, au_popup_window_pt: - Comandos de la Frontera
+- Los Choneros
+- Los Lobos, au_popup_window_en: - Comandos de la Frontera
+- Los Choneros
+- Los Lobos, au_ID_concatenated: sucumbios-gonzalo_pizarro, au_area km: 2228.0614091494085
+
+capa: au_compilado_R02, fid: 1340, b_ADM2_ES: Loreto, b_ADM2_PCODE: EC2204, b_ADM1_ES: Orellana, b_ADM1_PCODE: EC22, b_adm1_geral: Orellana, b_adm2_geral: Loreto, b_ID_concatenated: orellana-loreto, au_country: Ecuador, au_level1: Orellana, au_level2: Loreto, au_population: 21163, au_c_d_f: VERDADEIRO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: VERDADEIRO, au_choneros: VERDADEIRO, au_cv: FALSO, au_pcc: FALSO, au_others: VERDADEIRO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - Comandos de la Frontera
+- Los Choneros
+- Los Lobos, au_popup_window_pt: - Comandos de la Frontera
+- Los Choneros
+- Los Lobos, au_popup_window_en: - Comandos de la Frontera
+- Los Choneros
+- Los Lobos, au_ID_concatenated: orellana-loreto, au_area km: 2143.6969317719586
+
+capa: au_compilado_R02, fid: 1341, b_ADM2_ES: Cascales, b_ADM2_PCODE: EC2106, b_ADM1_ES: Sucumbios, b_ADM1_PCODE: EC21, b_adm1_geral: Sucumbios, b_adm2_geral: Cascales, b_ID_concatenated: sucumbios-cascales, au_country: Ecuador, au_level1: Sucumbios, au_level2: Cascales, au_population: 11104, au_c_d_f: VERDADEIRO, au_emc: VERDADEIRO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: VERDADEIRO, au_choneros: VERDADEIRO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - Comandos de la Frontera
+- Los Choneros
+- Los Lobos, au_popup_window_pt: - Comandos de la Frontera
+- Los Choneros
+- Los Lobos, au_popup_window_en: - Comandos de la Frontera
+- Los Choneros
+- Los Lobos, au_ID_concatenated: sucumbios-cascales, au_area km: 1247.9289513861727
+
+capa: au_compilado_R02, fid: 1342, b_ADM2_ES: Pimampiro, b_ADM2_PCODE: EC1005, b_ADM1_ES: Imbabura, b_ADM1_PCODE: EC10, b_adm1_geral: Imbabura, b_adm2_geral: Pimampiro, b_ID_concatenated: imbabura-pimampiro, au_area km: 442.46952350114964
+
+capa: au_compilado_R02, fid: 1343, b_ADM2_ES: Quijos, b_ADM2_PCODE: EC1507, b_ADM1_ES: Napo, b_ADM1_PCODE: EC15, b_adm1_geral: Napo, b_adm2_geral: Quijos, b_ID_concatenated: napo-quijos, au_country: Ecuador, au_level1: Napo, au_level2: Quijos, au_population: 6224, au_c_d_f: VERDADEIRO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: VERDADEIRO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - Los Lobos
+- Comandos de la Frontera, au_popup_window_pt: - Los Lobos
+- Comandos de la Frontera, au_popup_window_en: - Los Lobos
+- Comandos de la Frontera, au_ID_concatenated: napo-quijos, au_area km: 1585.2425855360889
+
+capa: au_compilado_R02, fid: 1344, b_ADM2_ES: Tena, b_ADM2_PCODE: EC1501, b_ADM1_ES: Napo, b_ADM1_PCODE: EC15, b_adm1_geral: Napo, b_adm2_geral: Tena, b_ID_concatenated: napo-tena, au_country: Ecuador, au_level1: Napo, au_level2: Tena, au_population: 60880, au_c_d_f: VERDADEIRO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: VERDADEIRO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - Los Lobos
+- Comandos de la Frontera, au_popup_window_pt: - Los Lobos
+- Comandos de la Frontera, au_popup_window_en: - Los Lobos
+- Comandos de la Frontera, au_ID_concatenated: napo-tena, au_area km: 3912.8126061739727
+
+capa: au_compilado_R02, fid: 1345, b_ADM2_ES: Latacunga, b_ADM2_PCODE: EC0501, b_ADM1_ES: Cotopaxi, b_ADM1_PCODE: EC05, b_adm1_geral: Cotopaxi, b_adm2_geral: Latacunga, b_ID_concatenated: cotopaxi-latacunga, au_area km: 1384.9214890988894
+
+capa: au_compilado_R02, fid: 1346, b_ADM2_ES: Mejia, b_ADM2_PCODE: EC1703, b_ADM1_ES: Pichincha, b_ADM1_PCODE: EC17, b_adm1_geral: Pichincha, b_adm2_geral: Mejia, b_ID_concatenated: pichincha-mejia, au_area km: 1483.4283212645137
+
+capa: au_compilado_R02, fid: 1347, b_ADM2_ES: Quito, b_ADM2_PCODE: EC1701, b_ADM1_ES: Pichincha, b_ADM1_PCODE: EC17, b_adm1_geral: Pichincha, b_adm2_geral: Quito, b_ID_concatenated: pichincha-quito, au_area km: 4210.913424341739
+
+capa: au_compilado_R02, fid: 1348, b_ADM2_ES: Saquisili, b_ADM2_PCODE: EC0506, b_ADM1_ES: Cotopaxi, b_ADM1_PCODE: EC05, b_adm1_geral: Cotopaxi, b_adm2_geral: Saquisili, b_ID_concatenated: cotopaxi-saquisili, au_area km: 205.35131563241225
+
+capa: au_compilado_R02, fid: 1349, b_ADM2_ES: Sigchos, b_ADM2_PCODE: EC0507, b_ADM1_ES: Cotopaxi, b_ADM1_PCODE: EC05, b_adm1_geral: Cotopaxi, b_adm2_geral: Sigchos, b_ID_concatenated: cotopaxi-sigchos, au_area km: 1351.337076994538
+
+capa: au_compilado_R02, fid: 1351, b_ADM2_ES: Pujili, b_ADM2_PCODE: EC0504, b_ADM1_ES: Cotopaxi, b_ADM1_PCODE: EC05, b_adm1_geral: Cotopaxi, b_adm2_geral: Pujili, b_ID_concatenated: cotopaxi-pujili, au_area km: 1299.7018353986161
+
+capa: au_compilado_R02, fid: 1352, b_ADM2_ES: Ambato, b_ADM2_PCODE: EC1801, b_ADM1_ES: Tungurahua, b_ADM1_PCODE: EC18, b_adm1_geral: Tungurahua, b_adm2_geral: Ambato, b_ID_concatenated: tungurahua-ambato, au_area km: 1017.5753829353835
+
+capa: au_compilado_R02, fid: 1353, b_ADM2_ES: Guano, b_ADM2_PCODE: EC0607, b_ADM1_ES: Chimborazo, b_ADM1_PCODE: EC06, b_adm1_geral: Chimborazo, b_adm2_geral: Guano, b_ID_concatenated: chimborazo-guano, au_area km: 459.7111481507703
+
+capa: au_compilado_R02, fid: 1354, b_ADM2_ES: Salcedo, b_ADM2_PCODE: EC0505, b_ADM1_ES: Cotopaxi, b_ADM1_PCODE: EC05, b_adm1_geral: Cotopaxi, b_adm2_geral: Salcedo, b_ID_concatenated: cotopaxi-salcedo, au_area km: 485.7049038995716
+
+capa: au_compilado_R02, fid: 1355, b_ADM2_ES: Mocha, b_ADM2_PCODE: EC1804, b_ADM1_ES: Tungurahua, b_ADM1_PCODE: EC18, b_adm1_geral: Tungurahua, b_adm2_geral: Mocha, b_ID_concatenated: tungurahua-mocha, au_area km: 85.77950308770315
+
+capa: au_compilado_R02, fid: 1356, b_ADM2_ES: Quero, b_ADM2_PCODE: EC1806, b_ADM1_ES: Tungurahua, b_ADM1_PCODE: EC18, b_adm1_geral: Tungurahua, b_adm2_geral: Quero, b_ID_concatenated: tungurahua-quero, au_area km: 173.63548214276366
+
+capa: au_compilado_R02, fid: 1357, b_ADM2_ES: Tisaleo, b_ADM2_PCODE: EC1809, b_ADM1_ES: Tungurahua, b_ADM1_PCODE: EC18, b_adm1_geral: Tungurahua, b_adm2_geral: Tisaleo, b_ID_concatenated: tungurahua-tisaleo, au_area km: 59.080381564051535
+
+capa: au_compilado_R02, fid: 1358, b_ADM2_ES: Cevallos, b_ADM2_PCODE: EC1803, b_ADM1_ES: Tungurahua, b_ADM1_PCODE: EC18, b_adm1_geral: Tungurahua, b_adm2_geral: Cevallos, b_ID_concatenated: tungurahua-cevallos, au_area km: 18.775668735417348
+
+capa: au_compilado_R02, fid: 1359, b_ADM2_ES: San Pedro de Pelileo, b_ADM2_PCODE: EC1807, b_ADM1_ES: Tungurahua, b_ADM1_PCODE: EC18, b_adm1_geral: Tungurahua, b_adm2_geral: San Pedro de Pelileo, b_ID_concatenated: tungurahua-san_pedro_de_pelileo, au_area km: 201.55076254682396
+
+capa: au_compilado_R02, fid: 1360, b_ADM2_ES: Penipe, b_ADM2_PCODE: EC0609, b_ADM1_ES: Chimborazo, b_ADM1_PCODE: EC06, b_adm1_geral: Chimborazo, b_adm2_geral: Penipe, b_ID_concatenated: chimborazo-penipe, au_area km: 366.14649388026555
+
+capa: au_compilado_R02, fid: 1361, b_ADM2_ES: Patate, b_ADM2_PCODE: EC1805, b_ADM1_ES: Tungurahua, b_ADM1_PCODE: EC18, b_adm1_geral: Tungurahua, b_adm2_geral: Patate, b_ID_concatenated: tungurahua-patate, au_area km: 315.3602971292175
+
+capa: au_compilado_R02, fid: 1362, b_ADM2_ES: Santiago de Pillaro, b_ADM2_PCODE: EC1808, b_ADM1_ES: Tungurahua, b_ADM1_PCODE: EC18, b_adm1_geral: Tungurahua, b_adm2_geral: Santiago de Pillaro, b_ID_concatenated: tungurahua-santiago_de_pillaro, au_area km: 445.83483108307644
+
+capa: au_compilado_R02, fid: 1363, b_ADM2_ES: Pastaza, b_ADM2_PCODE: EC1601, b_ADM1_ES: Pastaza, b_ADM1_PCODE: EC16, b_adm1_geral: Pastaza, b_adm2_geral: Pastaza, b_ID_concatenated: pastaza-pastaza, au_country: Ecuador, au_level1: Pastaza, au_level2: Pastaza, au_population: 62016, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: VERDADEIRO, au_choneros: VERDADEIRO, au_cv: FALSO, au_pcc: FALSO, au_others: VERDADEIRO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - Los Choneros
+- Los Lobos, au_popup_window_pt: - Los Choneros
+- Los Lobos, au_popup_window_en: - Los Choneros
+- Los Lobos, au_ID_concatenated: pastaza-pastaza, au_area km: 19835.234167824172
+
+capa: au_compilado_R02, fid: 1364, b_ADM2_ES: Arajuno, b_ADM2_PCODE: EC1604, b_ADM1_ES: Pastaza, b_ADM1_PCODE: EC16, b_adm1_geral: Pastaza, b_adm2_geral: Arajuno, b_ID_concatenated: pastaza-arajuno, au_country: Ecuador, au_level1: Pastaza, au_level2: Arajuno, au_population: 6491, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: VERDADEIRO, au_choneros: VERDADEIRO, au_cv: FALSO, au_pcc: FALSO, au_others: VERDADEIRO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - Los Choneros
+- Los Lobos, au_popup_window_pt: - Los Choneros
+- Los Lobos, au_popup_window_en: - Los Choneros
+- Los Lobos, au_ID_concatenated: pastaza-arajuno, au_area km: 8821.736802407724
+
+capa: au_compilado_R02, fid: 1365, b_ADM2_ES: Huamboya, b_ADM2_PCODE: EC1407, b_ADM1_ES: Morona Santiago, b_ADM1_PCODE: EC14, b_adm1_geral: Morona Santiago, b_adm2_geral: Huamboya, b_ID_concatenated: morona_santiago-huamboya, au_country: Ecuador, au_level1: Morona Santiago, au_level2: Huamboya, au_population: 8466, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: VERDADEIRO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: VERDADEIRO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: Los Lobos, au_popup_window_pt: Los Lobos, au_popup_window_en: Los Lobos, au_ID_concatenated: morona_santiago-huamboya, au_area km: 663.2540761863786
+
+capa: au_compilado_R02, fid: 1366, b_ADM2_ES: Santa Clara, b_ADM2_PCODE: EC1603, b_ADM1_ES: Pastaza, b_ADM1_PCODE: EC16, b_adm1_geral: Pastaza, b_adm2_geral: Santa Clara, b_ID_concatenated: pastaza-santa_clara, au_country: Ecuador, au_level1: Pastaza, au_level2: Santa Clara, au_population: 3565, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: VERDADEIRO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: VERDADEIRO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: Los Lobos, au_popup_window_pt: Los Lobos, au_popup_window_en: Los Lobos, au_ID_concatenated: pastaza-santa_clara, au_area km: 312.52703373877563
+
+capa: au_compilado_R02, fid: 1367, b_ADM2_ES: Mera, b_ADM2_PCODE: EC1602, b_ADM1_ES: Pastaza, b_ADM1_PCODE: EC16, b_adm1_geral: Pastaza, b_adm2_geral: Mera, b_ID_concatenated: pastaza-mera, au_country: Ecuador, au_level1: Pastaza, au_level2: Mera, au_population: 11861, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: VERDADEIRO, au_choneros: VERDADEIRO, au_cv: FALSO, au_pcc: FALSO, au_others: VERDADEIRO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - Los Choneros
+- Los Lobos, au_popup_window_pt: - Los Choneros
+- Los Lobos, au_popup_window_en: - Los Choneros
+- Los Lobos, au_ID_concatenated: pastaza-mera, au_area km: 525.9338011034773
+
+capa: au_compilado_R02, fid: 1368, b_ADM2_ES: Palora, b_ADM2_PCODE: EC1404, b_ADM1_ES: Morona Santiago, b_ADM1_PCODE: EC14, b_adm1_geral: Morona Santiago, b_adm2_geral: Palora, b_ID_concatenated: morona_santiago-palora, au_country: Ecuador, au_level1: Morona Santiago, au_level2: Palora, au_population: 6936, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: VERDADEIRO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: VERDADEIRO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: Los Lobos, au_popup_window_pt: Los Lobos, au_popup_window_en: Los Lobos, au_ID_concatenated: morona_santiago-palora, au_area km: 1453.9337500268255
+
+capa: au_compilado_R02, fid: 1369, b_ADM2_ES: Carlos Julio Arosemena Tola, b_ADM2_PCODE: EC1509, b_ADM1_ES: Napo, b_ADM1_PCODE: EC15, b_adm1_geral: Napo, b_adm2_geral: Carlos Julio Arosemena Tola, b_ID_concatenated: napo-carlos_julio_arosemena_tola, au_country: Ecuador, au_level1: Napo, au_level2: Carlos Julio Arosemena Tola, au_population: 3664, au_c_d_f: VERDADEIRO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: VERDADEIRO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - Los Lobos
+- Comandos de la Frontera, au_popup_window_pt: - Los Lobos
+- Comandos de la Frontera, au_popup_window_en: - Los Lobos
+- Comandos de la Frontera, au_ID_concatenated: napo-carlos_julio_arosemena_tola, au_area km: 501.2034768574538
+
+capa: au_compilado_R02, fid: 1370, b_ADM2_ES: Pablo Sexto, b_ADM2_PCODE: EC1411, b_ADM1_ES: Morona Santiago, b_ADM1_PCODE: EC14, b_adm1_geral: Morona Santiago, b_adm2_geral: Pablo Sexto, b_ID_concatenated: morona_santiago-pablo_sexto, au_country: Ecuador, au_level1: Morona Santiago, au_level2: Pablo Sexto, au_population: 1823, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: VERDADEIRO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: VERDADEIRO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: Los Lobos, au_popup_window_pt: Los Lobos, au_popup_window_en: Los Lobos, au_ID_concatenated: morona_santiago-pablo_sexto, au_area km: 1387.2696658058578
+
+capa: au_compilado_R02, fid: 1371, b_ADM2_ES: Baños de Agua Santa, b_ADM2_PCODE: EC1802, b_ADM1_ES: Tungurahua, b_ADM1_PCODE: EC18, b_adm1_geral: Tungurahua, b_adm2_geral: Baños de Agua Santa, b_ID_concatenated: tungurahua-banos_de_agua_santa, au_area km: 1064.4071298754181
+
+capa: au_compilado_R02, fid: 1372, b_ADM2_ES: Taisha, b_ADM2_PCODE: EC1409, b_ADM1_ES: Morona Santiago, b_ADM1_PCODE: EC14, b_adm1_geral: Morona Santiago, b_adm2_geral: Taisha, b_ID_concatenated: morona_santiago-taisha, au_country: Ecuador, au_level1: Morona Santiago, au_level2: Taisha, au_population: 18437, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: VERDADEIRO, au_choneros: VERDADEIRO, au_cv: FALSO, au_pcc: FALSO, au_others: VERDADEIRO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - Los Choneros
+- Los Lobos, au_popup_window_pt: - Los Choneros
+- Los Lobos, au_popup_window_en: - Los Choneros
+- Los Lobos, au_ID_concatenated: morona_santiago-taisha, au_area km: 6140.877224334883
+
+capa: au_compilado_R02, fid: 1373, b_ADM2_ES: Alausi, b_ADM2_PCODE: EC0602, b_ADM1_ES: Chimborazo, b_ADM1_PCODE: EC06, b_adm1_geral: Chimborazo, b_adm2_geral: Alausi, b_ID_concatenated: chimborazo-alausi, au_area km: 1656.700766532889
+
+capa: au_compilado_R02, fid: 1375, b_ADM2_ES: Guamote, b_ADM2_PCODE: EC0606, b_ADM1_ES: Chimborazo, b_ADM1_PCODE: EC06, b_adm1_geral: Chimborazo, b_adm2_geral: Guamote, b_ID_concatenated: chimborazo-guamote, au_area km: 1220.305133820011
+
+capa: au_compilado_R02, fid: 1376, b_ADM2_ES: Chambo, b_ADM2_PCODE: EC0604, b_ADM1_ES: Chimborazo, b_ADM1_PCODE: EC06, b_adm1_geral: Chimborazo, b_adm2_geral: Chambo, b_ID_concatenated: chimborazo-chambo, au_area km: 164.00860948131427
+
+capa: au_compilado_R02, fid: 1377, b_ADM2_ES: Colta, b_ADM2_PCODE: EC0603, b_ADM1_ES: Chimborazo, b_ADM1_PCODE: EC06, b_adm1_geral: Chimborazo, b_adm2_geral: Colta, b_ID_concatenated: chimborazo-colta, au_area km: 836.3236707223166
+
+capa: au_compilado_R02, fid: 1378, b_ADM2_ES: Riobamba, b_ADM2_PCODE: EC0601, b_ADM1_ES: Chimborazo, b_ADM1_PCODE: EC06, b_adm1_geral: Chimborazo, b_adm2_geral: Riobamba, b_ID_concatenated: chimborazo-riobamba, au_area km: 980.6662706961108
+
+capa: au_compilado_R02, fid: 1381, b_ADM2_ES: Nangaritza, b_ADM2_PCODE: EC1903, b_ADM1_ES: Zamora Chinchipe, b_ADM1_PCODE: EC19, b_adm1_geral: Zamora Chinchipe, b_adm2_geral: Nangaritza, b_ID_concatenated: zamora_chinchipe-nangaritza, au_country: Ecuador, au_level1: Zamora Chinchipe, au_level2: Nangaritza, au_population: 5169, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: VERDADEIRO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: VERDADEIRO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: Los Lobos, au_popup_window_pt: Los Lobos, au_popup_window_en: Los Lobos, au_ID_concatenated: zamora_chinchipe-nangaritza, au_area km: 2018.9556661605109
+
+capa: au_compilado_R02, fid: 1382, b_ADM2_ES: Centinela del Condor, b_ADM2_PCODE: EC1907, b_ADM1_ES: Zamora Chinchipe, b_ADM1_PCODE: EC19, b_adm1_geral: Zamora Chinchipe, b_adm2_geral: Centinela del Condor, b_ID_concatenated: zamora_chinchipe-centinela_del_condor, au_country: Ecuador, au_level1: Zamora Chinchipe, au_level2: Centinela Del Condor, au_population: 6479, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: VERDADEIRO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: VERDADEIRO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: Los Lobos, au_popup_window_pt: Los Lobos, au_popup_window_en: Los Lobos, au_ID_concatenated: zamora_chinchipe-centinela_del_condor, au_area km: 261.45811425197513
+
+capa: au_compilado_R02, fid: 1383, b_ADM2_ES: Paquisha, b_ADM2_PCODE: EC1909, b_ADM1_ES: Zamora Chinchipe, b_ADM1_PCODE: EC19, b_adm1_geral: Zamora Chinchipe, b_adm2_geral: Paquisha, b_ID_concatenated: zamora_chinchipe-paquisha, au_country: Ecuador, au_level1: Zamora Chinchipe, au_level2: Paquisha, au_population: 3854, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: VERDADEIRO, au_choneros: VERDADEIRO, au_cv: FALSO, au_pcc: FALSO, au_others: VERDADEIRO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: - Los Lobos
+- Los Choneros, au_popup_window_pt: - Los Lobos
+- Los Choneros, au_popup_window_en: - Los Lobos
+- Los Choneros, au_ID_concatenated: zamora_chinchipe-paquisha, au_area km: 339.2056401342206
+
+capa: au_compilado_R02, fid: 1384, b_ADM2_ES: Yantzaza, b_ADM2_PCODE: EC1905, b_ADM1_ES: Zamora Chinchipe, b_ADM1_PCODE: EC19, b_adm1_geral: Zamora Chinchipe, b_adm2_geral: Yantzaza, b_ID_concatenated: zamora_chinchipe-yantzaza, au_country: Ecuador, au_level1: Zamora Chinchipe, au_level2: Yantzaza, au_population: 18675, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: VERDADEIRO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: VERDADEIRO, au_no_info: FALSO, au_invest. with presence: VERDADEIRO, au_popup_window_es: Los Lobos, au_popup_window_pt: Los Lobos, au_popup_window_en: Los Lobos, au_ID_concatenated: zamora_chinchipe-yantzaza, au_area km: 1015.0191733786423
+
+capa: au_compilado_R02, fid: 1385, b_ADM2_ES: Utcubamba, b_ADM2_PCODE: PE0107, b_ADM1_ES: Amazonas, b_ADM1_PCODE: PE01, b_adm1_geral: Amazonas, b_adm2_geral: Utcubamba, b_ID_concatenated: amazonas-utcubamba, au_country: Peru, au_level1: Amazonas, au_level2: Utcubamba, au_population: 107237, au_c_d_f: FALSO, au_emc: FALSO, au_embf: FALSO, au_seg_marq: FALSO, au_eln: FALSO, au_lobos: FALSO, au_choneros: FALSO, au_cv: FALSO, au_pcc: FALSO, au_others: FALSO, au_no_info: VERDADEIRO, au_invest. with presence: FALSO, au_ID_concatenated: amazonas-utcubamba, au_area km: 3985.8310573066224
+
+capa: au_compilado_R02, fid: 1392, b_ADM2_ES: San Ignacio, b_ADM2_PCODE: PE0609, b_ADM1_ES: Cajamarca, b_ADM1_PCODE: PE06, b_adm1_geral: Cajamarca, b_adm2_geral: San Ignacio, b_ID_concatenated: cajamarca-san_ignacio, au_area km: 4786.685260026018
